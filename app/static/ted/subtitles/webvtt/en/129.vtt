@@ -1,0 +1,538 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.548
+What I'm going to show you first,
+as quickly as I can,
+
+00:00:02.572 --> 00:00:06.341
+is some foundational work,
+some new technology
+
+00:00:06.365 --> 00:00:08.976
+that we brought to Microsoft
+as part of an acquisition
+
+00:00:09.000 --> 00:00:10.821
+almost exactly a year ago.
+
+00:00:10.845 --> 00:00:13.213
+This is Seadragon, and it's an environment
+
+00:00:13.237 --> 00:00:15.713
+in which you can either
+locally or remotely interact
+
+00:00:15.737 --> 00:00:17.856
+with vast amounts of visual data.
+
+00:00:18.165 --> 00:00:21.569
+We're looking at many, many gigabytes
+of digital photos here
+
+00:00:21.593 --> 00:00:24.508
+and kind of seamlessly
+and continuously zooming in,
+
+00:00:24.532 --> 00:00:27.077
+panning through it,
+rearranging it in any way we want.
+
+00:00:27.389 --> 00:00:30.976
+And it doesn't matter how much
+information we're looking at,
+
+00:00:31.000 --> 00:00:33.976
+how big these collections are
+or how big the images are.
+
+00:00:34.000 --> 00:00:36.286
+Most of them are ordinary
+digital camera photos,
+
+00:00:36.310 --> 00:00:39.454
+but this one, for example,
+is a scan from the Library of Congress,
+
+00:00:39.478 --> 00:00:42.296
+and it's in the 300 megapixel range.
+
+00:00:42.320 --> 00:00:43.976
+It doesn't make any difference
+
+00:00:44.000 --> 00:00:48.144
+because the only thing that ought to limit
+the performance of a system like this one
+
+00:00:48.168 --> 00:00:50.945
+is the number of pixels on your screen
+at any given moment.
+
+00:00:50.969 --> 00:00:52.939
+It's also very flexible architecture.
+
+00:00:52.963 --> 00:00:56.690
+This is an entire book,
+so this is an example of non-image data.
+
+00:00:56.714 --> 00:00:59.501
+This is "Bleak House" by Dickens.
+
+00:00:59.525 --> 00:01:02.309
+Every column is a chapter.
+
+00:01:02.333 --> 00:01:05.976
+To prove to you that it's really text,
+and not an image,
+
+00:01:06.000 --> 00:01:08.048
+we can do something
+like so, to really show
+
+00:01:08.072 --> 00:01:11.264
+that this is a real representation
+of the text; it's not a picture.
+
+00:01:11.288 --> 00:01:13.952
+Maybe this is an artificial way
+to read an e-book.
+
+00:01:13.976 --> 00:01:15.176
+I wouldn't recommend it.
+
+00:01:15.200 --> 00:01:18.048
+This is a more realistic case,
+an issue of The Guardian.
+
+00:01:18.072 --> 00:01:20.358
+Every large image
+is the beginning of a section.
+
+00:01:20.382 --> 00:01:23.286
+And this really gives you
+the joy and the good experience
+
+00:01:23.310 --> 00:01:28.493
+of reading the real paper version
+of a magazine or a newspaper,
+
+00:01:28.517 --> 00:01:30.952
+which is an inherently
+multi-scale kind of medium.
+
+00:01:30.976 --> 00:01:31.976
+We've done something
+
+00:01:32.000 --> 00:01:34.976
+with the corner of this particular
+issue of The Guardian.
+
+00:01:35.000 --> 00:01:37.976
+We've made up a fake ad
+that's very high resolution --
+
+00:01:38.000 --> 00:01:40.198
+much higher than in an ordinary ad --
+
+00:01:40.222 --> 00:01:41.976
+and we've embedded extra content.
+
+00:01:42.000 --> 00:01:45.048
+If you want to see the features
+of this car, you can see it here.
+
+00:01:45.072 --> 00:01:49.252
+Or other models,
+or even technical specifications.
+
+00:01:49.276 --> 00:01:52.591
+And this really gets
+at some of these ideas
+
+00:01:52.615 --> 00:01:57.276
+about really doing away
+with those limits on screen real estate.
+
+00:01:57.300 --> 00:01:59.411
+We hope that this means no more pop-ups
+
+00:01:59.435 --> 00:02:01.976
+and other rubbish like that --
+shouldn't be necessary.
+
+00:02:02.000 --> 00:02:04.658
+Of course, mapping is one
+of those obvious applications
+
+00:02:04.682 --> 00:02:05.976
+for a technology like this.
+
+00:02:06.000 --> 00:02:08.191
+And this one I really
+won't spend any time on,
+
+00:02:08.215 --> 00:02:11.549
+except to say that we have things
+to contribute to this field as well.
+
+00:02:12.213 --> 00:02:14.071
+But those are all the roads in the U.S.
+
+00:02:14.095 --> 00:02:18.660
+superimposed on top
+of a NASA geospatial image.
+
+00:02:19.000 --> 00:02:20.976
+So let's pull up, now, something else.
+
+00:02:21.000 --> 00:02:23.976
+This is actually live on the Web now;
+you can go check it out.
+
+00:02:24.000 --> 00:02:27.704
+This is a project called Photosynth,
+which marries two different technologies.
+
+00:02:27.728 --> 00:02:28.976
+One of them is Seadragon
+
+00:02:29.000 --> 00:02:31.906
+and the other is some very
+beautiful computer-vision research
+
+00:02:31.930 --> 00:02:35.392
+done by Noah Snavely, a graduate student
+at the University of Washington,
+
+00:02:35.416 --> 00:02:37.245
+co-advised by Steve Seitz at U.W.
+
+00:02:37.269 --> 00:02:39.247
+and Rick Szeliski at Microsoft Research.
+
+00:02:39.271 --> 00:02:41.004
+A very nice collaboration.
+
+00:02:41.412 --> 00:02:44.520
+And so this is live on the Web.
+It's powered by Seadragon.
+
+00:02:44.544 --> 00:02:47.048
+You can see that
+when we do these sorts of views,
+
+00:02:47.072 --> 00:02:48.795
+where we can dive through images
+
+00:02:48.819 --> 00:02:51.153
+and have this kind
+of multi-resolution experience.
+
+00:02:51.177 --> 00:02:54.976
+But the spatial arrangement of the images
+here is actually meaningful.
+
+00:02:55.000 --> 00:02:58.191
+The computer vision algorithms
+have registered these images together
+
+00:02:58.215 --> 00:03:01.976
+so that they correspond to the real
+space in which these shots --
+
+00:03:02.000 --> 00:03:05.300
+all taken near Grassi Lakes
+in the Canadian Rockies --
+
+00:03:05.324 --> 00:03:06.987
+all these shots were taken.
+
+00:03:07.011 --> 00:03:08.478
+So you see elements here
+
+00:03:08.502 --> 00:03:14.515
+of stabilized slide-show
+or panoramic imaging,
+
+00:03:14.539 --> 00:03:16.976
+and these things have
+all been related spatially.
+
+00:03:17.000 --> 00:03:20.000
+I'm not sure if I have time
+to show you any other environments.
+
+00:03:20.024 --> 00:03:21.455
+Some are much more spatial.
+
+00:03:21.479 --> 00:03:25.424
+I would like to jump straight
+to one of Noah's original data-sets --
+
+00:03:25.448 --> 00:03:29.000
+this is from an early prototype
+that we first got working this summer --
+
+00:03:29.024 --> 00:03:30.918
+to show you what I think
+
+00:03:30.942 --> 00:03:34.780
+is really the punch line
+behind the Photosynth technology,
+
+00:03:34.804 --> 00:03:36.365
+It's not necessarily so apparent
+
+00:03:36.389 --> 00:03:39.284
+from looking at the environments
+we've put up on the website.
+
+00:03:39.308 --> 00:03:41.485
+We had to worry
+about the lawyers and so on.
+
+00:03:41.509 --> 00:03:43.810
+This is a reconstruction
+of Notre Dame Cathedral
+
+00:03:43.834 --> 00:03:47.291
+that was done entirely computationally
+from images scraped from Flickr.
+
+00:03:47.315 --> 00:03:49.334
+You just type Notre Dame into Flickr,
+
+00:03:49.358 --> 00:03:53.212
+and you get some pictures of guys
+in T-shirts, and of the campus and so on.
+
+00:03:53.236 --> 00:03:56.382
+And each of these orange cones
+represents an image
+
+00:03:56.406 --> 00:03:59.640
+that was discovered
+to belong to this model.
+
+00:04:01.000 --> 00:04:02.976
+And so these are all Flickr images,
+
+00:04:03.000 --> 00:04:05.976
+and they've all been related
+spatially in this way.
+
+00:04:06.000 --> 00:04:08.334
+We can just navigate
+in this very simple way.
+
+00:04:10.000 --> 00:04:13.920
+(Applause)
+
+00:04:17.557 --> 00:04:18.571
+(Applause ends)
+
+00:04:18.595 --> 00:04:21.549
+You know, I never thought
+that I'd end up working at Microsoft.
+
+00:04:21.573 --> 00:04:24.573
+It's very gratifying to have
+this kind of reception here.
+
+00:04:24.597 --> 00:04:27.976
+(Laughter)
+
+00:04:28.000 --> 00:04:33.048
+I guess you can see this is
+lots of different types of cameras:
+
+00:04:33.072 --> 00:04:36.233
+it's everything from cell-phone cameras
+to professional SLRs,
+
+00:04:36.257 --> 00:04:39.448
+quite a large number of them,
+stitched together in this environment.
+
+00:04:39.472 --> 00:04:42.104
+If I can find some
+of the sort of weird ones --
+
+00:04:43.000 --> 00:04:46.322
+So many of them are occluded
+by faces, and so on.
+
+00:04:47.595 --> 00:04:51.872
+Somewhere in here there is actually
+a series of photographs -- here we go.
+
+00:04:51.896 --> 00:04:55.197
+This is actually a poster of Notre Dame
+that registered correctly.
+
+00:04:55.221 --> 00:04:58.437
+We can dive in from the poster
+
+00:04:58.461 --> 00:05:02.271
+to a physical view of this environment.
+
+00:05:06.421 --> 00:05:08.287
+What the point here really is
+
+00:05:08.311 --> 00:05:10.902
+is that we can do things
+with the social environment.
+
+00:05:10.926 --> 00:05:13.928
+This is now taking data from everybody --
+
+00:05:13.952 --> 00:05:17.823
+from the entire collective memory,
+visually, of what the Earth looks like --
+
+00:05:17.847 --> 00:05:19.596
+and link all of that together.
+
+00:05:19.620 --> 00:05:22.459
+Those photos become linked,
+and they make something emergent
+
+00:05:22.483 --> 00:05:24.436
+that's greater than the sum of the parts.
+
+00:05:24.460 --> 00:05:26.816
+You have a model that emerges
+of the entire Earth.
+
+00:05:26.840 --> 00:05:30.917
+Think of this as the long tail
+to Stephen Lawler's Virtual Earth work.
+
+00:05:30.941 --> 00:05:34.141
+And this is something that grows
+in complexity as people use it,
+
+00:05:34.165 --> 00:05:37.976
+and whose benefits become greater
+to the users as they use it.
+
+00:05:38.000 --> 00:05:41.692
+Their own photos are getting tagged
+with meta-data that somebody else entered.
+
+00:05:41.716 --> 00:05:45.076
+If somebody bothered
+to tag all of these saints
+
+00:05:45.100 --> 00:05:48.053
+and say who they all are,
+then my photo of Notre Dame Cathedral
+
+00:05:48.077 --> 00:05:50.175
+suddenly gets enriched
+with all of that data,
+
+00:05:50.199 --> 00:05:52.976
+and I can use it as an entry point
+to dive into that space,
+
+00:05:53.000 --> 00:05:55.681
+into that meta-verse,
+using everybody else's photos,
+
+00:05:55.705 --> 00:05:59.006
+and do a kind of a cross-modal
+
+00:05:59.030 --> 00:06:02.781
+and cross-user social experience that way.
+
+00:06:02.805 --> 00:06:06.976
+And of course, a by-product of all of that
+is immensely rich virtual models
+
+00:06:07.000 --> 00:06:08.968
+of every interesting part of the Earth,
+
+00:06:08.992 --> 00:06:13.479
+collected not just from overhead flights
+and from satellite images
+
+00:06:13.503 --> 00:06:15.555
+and so on, but from the collective memory.
+
+00:06:15.579 --> 00:06:16.673
+Thank you so much.
+
+00:06:16.697 --> 00:06:23.560
+(Applause)
+
+00:06:26.967 --> 00:06:27.968
+(Applause ends)
+
+00:06:27.992 --> 00:06:30.318
+Chris Anderson:
+Do I understand this right?
+
+00:06:30.342 --> 00:06:32.839
+What your software is going to allow,
+
+00:06:32.863 --> 00:06:36.339
+is that at some point,
+really within the next few years,
+
+00:06:36.363 --> 00:06:40.598
+all the pictures that are shared
+by anyone across the world
+
+00:06:40.622 --> 00:06:42.183
+are going to link together?
+
+00:06:42.207 --> 00:06:44.594
+BAA: Yes. What this is really
+doing is discovering,
+
+00:06:44.618 --> 00:06:46.976
+creating hyperlinks,
+if you will, between images.
+
+00:06:47.000 --> 00:06:49.584
+It's doing that based on the content
+inside the images.
+
+00:06:49.608 --> 00:06:52.630
+And that gets really exciting
+when you think about the richness
+
+00:06:52.654 --> 00:06:54.958
+of the semantic information
+a lot of images have.
+
+00:06:54.982 --> 00:06:56.942
+Like when you do a web search for images,
+
+00:06:56.966 --> 00:06:58.211
+you type in phrases,
+
+00:06:58.235 --> 00:07:01.135
+and the text on the web page is carrying
+a lot of information
+
+00:07:01.159 --> 00:07:02.661
+about what that picture is of.
+
+00:07:02.685 --> 00:07:05.076
+What if that picture links
+to all of your pictures?
+
+00:07:05.100 --> 00:07:07.513
+The amount of semantic
+interconnection and richness
+
+00:07:07.537 --> 00:07:09.391
+that comes out of that is really huge.
+
+00:07:09.415 --> 00:07:10.864
+It's a classic network effect.
+
+00:07:10.888 --> 00:07:12.912
+CA: Truly incredible. Congratulations.
+

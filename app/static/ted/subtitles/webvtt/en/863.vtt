@@ -1,0 +1,1289 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+We're here today to announce
+
+00:00:03.000 --> 00:00:06.000
+the first synthetic cell,
+
+00:00:06.000 --> 00:00:08.000
+a cell made by
+
+00:00:08.000 --> 00:00:11.000
+starting with the digital code in the computer,
+
+00:00:11.000 --> 00:00:14.000
+building the chromosome
+
+00:00:14.000 --> 00:00:17.000
+from four bottles of chemicals,
+
+00:00:17.000 --> 00:00:19.000
+assembling that chromosome in yeast,
+
+00:00:19.000 --> 00:00:22.000
+transplanting it into
+
+00:00:22.000 --> 00:00:24.000
+a recipient bacterial cell
+
+00:00:24.000 --> 00:00:26.000
+and transforming that cell
+
+00:00:26.000 --> 00:00:28.000
+into a new bacterial species.
+
+00:00:29.000 --> 00:00:32.000
+So this is the first self-replicating species
+
+00:00:32.000 --> 00:00:34.000
+that we've had on the planet
+
+00:00:34.000 --> 00:00:37.000
+whose parent is a computer.
+
+00:00:37.000 --> 00:00:39.000
+It also is the first species
+
+00:00:39.000 --> 00:00:41.000
+to have its own website
+
+00:00:41.000 --> 00:00:44.000
+encoded in its genetic code.
+
+00:00:44.000 --> 00:00:46.000
+But we'll talk more about
+
+00:00:46.000 --> 00:00:49.000
+the watermarks in a minute.
+
+00:00:49.000 --> 00:00:51.000
+This is a project that had its inception
+
+00:00:51.000 --> 00:00:53.000
+15 years ago
+
+00:00:53.000 --> 00:00:55.000
+when our team then --
+
+00:00:55.000 --> 00:00:57.000
+we called the institute TIGR --
+
+00:00:57.000 --> 00:00:59.000
+was involved in sequencing
+
+00:00:59.000 --> 00:01:01.000
+the first two genomes in history.
+
+00:01:01.000 --> 00:01:03.000
+We did Haemophilus influenzae
+
+00:01:03.000 --> 00:01:06.000
+and then the smallest genome of a self-replicating organism,
+
+00:01:06.000 --> 00:01:09.000
+that of Mycoplasma genitalium.
+
+00:01:09.000 --> 00:01:11.000
+And as soon as
+
+00:01:11.000 --> 00:01:13.000
+we had these two sequences
+
+00:01:13.000 --> 00:01:16.000
+we thought, if this is supposed to be the smallest genome
+
+00:01:16.000 --> 00:01:18.000
+of a self-replicating species,
+
+00:01:18.000 --> 00:01:20.000
+could there be even a smaller genome?
+
+00:01:20.000 --> 00:01:23.000
+Could we understand the basis of cellular life
+
+00:01:23.000 --> 00:01:25.000
+at the genetic level?
+
+00:01:25.000 --> 00:01:27.000
+It's been a 15-year quest
+
+00:01:27.000 --> 00:01:29.000
+just to get to the starting point now
+
+00:01:29.000 --> 00:01:32.000
+to be able to answer those questions,
+
+00:01:32.000 --> 00:01:34.000
+because it's very difficult to eliminate
+
+00:01:34.000 --> 00:01:36.000
+multiple genes from a cell.
+
+00:01:36.000 --> 00:01:39.000
+You can only do them one at a time.
+
+00:01:39.000 --> 00:01:41.000
+We decided early on
+
+00:01:41.000 --> 00:01:43.000
+that we had to take a synthetic route,
+
+00:01:43.000 --> 00:01:45.000
+even though nobody had been there before,
+
+00:01:45.000 --> 00:01:47.000
+to see if we could synthesize
+
+00:01:47.000 --> 00:01:49.000
+a bacterial chromosome
+
+00:01:49.000 --> 00:01:51.000
+so we could actually vary the gene content
+
+00:01:51.000 --> 00:01:54.000
+to understand the essential genes for life.
+
+00:01:54.000 --> 00:01:57.000
+That started our 15-year quest
+
+00:01:57.000 --> 00:01:59.000
+to get here.
+
+00:01:59.000 --> 00:02:01.000
+But before we did the first experiments,
+
+00:02:01.000 --> 00:02:04.000
+we actually asked
+
+00:02:04.000 --> 00:02:07.000
+Art Caplan's team at the University of Pennsylvania
+
+00:02:07.000 --> 00:02:09.000
+to undertake a review
+
+00:02:09.000 --> 00:02:12.000
+of what the risks, the challenges,
+
+00:02:12.000 --> 00:02:14.000
+the ethics around creating new
+
+00:02:14.000 --> 00:02:16.000
+species in the laboratory were
+
+00:02:16.000 --> 00:02:18.000
+because it hadn't been done before.
+
+00:02:18.000 --> 00:02:20.000
+They spent about two years
+
+00:02:20.000 --> 00:02:22.000
+reviewing that independently
+
+00:02:22.000 --> 00:02:25.000
+and published their results in Science in 1999.
+
+00:02:25.000 --> 00:02:27.000
+Ham and I took two years off
+
+00:02:27.000 --> 00:02:29.000
+as a side project to sequence the human genome,
+
+00:02:29.000 --> 00:02:31.000
+but as soon as that was done
+
+00:02:31.000 --> 00:02:34.000
+we got back to the task at hand.
+
+00:02:35.000 --> 00:02:37.000
+In 2002, we started
+
+00:02:37.000 --> 00:02:39.000
+a new institute,
+
+00:02:39.000 --> 00:02:42.000
+the Institute for Biological Energy Alternatives,
+
+00:02:42.000 --> 00:02:44.000
+where we set out two goals:
+
+00:02:44.000 --> 00:02:46.000
+One, to understand
+
+00:02:46.000 --> 00:02:49.000
+the impact of our technology on the environment,
+
+00:02:49.000 --> 00:02:51.000
+and how to understand the environment better,
+
+00:02:51.000 --> 00:02:53.000
+and two, to start down this process
+
+00:02:53.000 --> 00:02:56.000
+of making synthetic life
+
+00:02:56.000 --> 00:02:59.000
+to understand basic life.
+
+00:02:59.000 --> 00:03:01.000
+In 2003,
+
+00:03:01.000 --> 00:03:03.000
+we published our first success.
+
+00:03:03.000 --> 00:03:05.000
+So Ham Smith and Clyde Hutchison
+
+00:03:05.000 --> 00:03:07.000
+developed some new methods
+
+00:03:07.000 --> 00:03:10.000
+for making error-free DNA
+
+00:03:10.000 --> 00:03:12.000
+at a small level.
+
+00:03:12.000 --> 00:03:14.000
+Our first task was
+
+00:03:14.000 --> 00:03:17.000
+a 5,000-letter code bacteriophage,
+
+00:03:17.000 --> 00:03:20.000
+a virus that attacks only E. coli.
+
+00:03:21.000 --> 00:03:23.000
+So that was
+
+00:03:23.000 --> 00:03:25.000
+the phage phi X 174,
+
+00:03:25.000 --> 00:03:27.000
+which was chosen for historical reasons.
+
+00:03:27.000 --> 00:03:30.000
+It was the first DNA phage,
+
+00:03:30.000 --> 00:03:33.000
+DNA virus, DNA genome
+
+00:03:33.000 --> 00:03:35.000
+that was actually sequenced.
+
+00:03:35.000 --> 00:03:38.000
+So once we realized
+
+00:03:38.000 --> 00:03:40.000
+that we could make 5,000-base pair
+
+00:03:40.000 --> 00:03:42.000
+viral-sized pieces,
+
+00:03:42.000 --> 00:03:44.000
+we thought, we at least have the means
+
+00:03:44.000 --> 00:03:47.000
+then to try and make serially lots of these pieces
+
+00:03:47.000 --> 00:03:50.000
+to be able to eventually assemble them together
+
+00:03:50.000 --> 00:03:53.000
+to make this mega base chromosome.
+
+00:03:54.000 --> 00:03:56.000
+So, substantially larger than
+
+00:03:56.000 --> 00:03:59.000
+we even thought we would go initially.
+
+00:04:00.000 --> 00:04:03.000
+There were several steps to this. There were two sides:
+
+00:04:03.000 --> 00:04:05.000
+We had to solve the chemistry
+
+00:04:05.000 --> 00:04:07.000
+for making large DNA molecules,
+
+00:04:07.000 --> 00:04:09.000
+and we had to solve the biological side
+
+00:04:09.000 --> 00:04:12.000
+of how, if we had this new chemical entity,
+
+00:04:12.000 --> 00:04:15.000
+how would we boot it up, activate it
+
+00:04:15.000 --> 00:04:18.000
+in a recipient cell.
+
+00:04:18.000 --> 00:04:20.000
+We had two teams working in parallel:
+
+00:04:20.000 --> 00:04:22.000
+one team on the chemistry,
+
+00:04:22.000 --> 00:04:25.000
+and the other on trying to
+
+00:04:25.000 --> 00:04:27.000
+be able to transplant
+
+00:04:27.000 --> 00:04:29.000
+entire chromosomes
+
+00:04:29.000 --> 00:04:32.000
+to get new cells.
+
+00:04:32.000 --> 00:04:35.000
+When we started this out, we thought the synthesis would be the biggest problem,
+
+00:04:35.000 --> 00:04:38.000
+which is why we chose the smallest genome.
+
+00:04:38.000 --> 00:04:41.000
+And some of you have noticed that we switched from the smallest genome
+
+00:04:41.000 --> 00:04:43.000
+to a much larger one.
+
+00:04:43.000 --> 00:04:45.000
+And we can walk through the reasons for that,
+
+00:04:45.000 --> 00:04:48.000
+but basically the small cell
+
+00:04:48.000 --> 00:04:50.000
+took on the order of
+
+00:04:50.000 --> 00:04:53.000
+one to two months to get results from,
+
+00:04:53.000 --> 00:04:55.000
+whereas the larger, faster-growing cell
+
+00:04:55.000 --> 00:04:57.000
+takes only two days.
+
+00:04:57.000 --> 00:05:00.000
+So there's only so many cycles we could go through
+
+00:05:00.000 --> 00:05:03.000
+in a year at six weeks per cycle.
+
+00:05:03.000 --> 00:05:05.000
+And you should know that basically
+
+00:05:05.000 --> 00:05:08.000
+99, probably 99 percent plus
+
+00:05:08.000 --> 00:05:10.000
+of our experiments failed.
+
+00:05:10.000 --> 00:05:12.000
+So this was a debugging,
+
+00:05:12.000 --> 00:05:15.000
+problem-solving scenario from the beginning
+
+00:05:15.000 --> 00:05:17.000
+because there was no recipe
+
+00:05:17.000 --> 00:05:19.000
+of how to get there.
+
+00:05:19.000 --> 00:05:22.000
+So, one of the most important publications we had
+
+00:05:22.000 --> 00:05:24.000
+was in 2007.
+
+00:05:24.000 --> 00:05:27.000
+Carole Lartigue led the effort
+
+00:05:27.000 --> 00:05:30.000
+to actually transplant a bacterial chromosome
+
+00:05:30.000 --> 00:05:32.000
+from one bacteria to another.
+
+00:05:32.000 --> 00:05:35.000
+I think philosophically, that was one of the most important papers
+
+00:05:35.000 --> 00:05:37.000
+that we've ever done
+
+00:05:37.000 --> 00:05:40.000
+because it showed how dynamic life was.
+
+00:05:40.000 --> 00:05:42.000
+And we knew, once that worked,
+
+00:05:42.000 --> 00:05:44.000
+that we actually had a chance
+
+00:05:44.000 --> 00:05:46.000
+if we could make the synthetic chromosomes
+
+00:05:46.000 --> 00:05:49.000
+to do the same with those.
+
+00:05:49.000 --> 00:05:51.000
+We didn't know that it was going to take us
+
+00:05:51.000 --> 00:05:53.000
+several years more to get there.
+
+00:05:53.000 --> 00:05:55.000
+In 2008,
+
+00:05:55.000 --> 00:05:57.000
+we reported the complete synthesis
+
+00:05:57.000 --> 00:06:00.000
+of the Mycoplasma genitalium genome,
+
+00:06:00.000 --> 00:06:03.000
+a little over 500,000 letters of genetic code,
+
+00:06:04.000 --> 00:06:07.000
+but we have not yet succeeded in booting up that chromosome.
+
+00:06:07.000 --> 00:06:10.000
+We think in part, because of its slow growth
+
+00:06:11.000 --> 00:06:13.000
+and, in part,
+
+00:06:13.000 --> 00:06:16.000
+cells have all kinds of unique defense mechanisms
+
+00:06:16.000 --> 00:06:18.000
+to keep these events from happening.
+
+00:06:18.000 --> 00:06:21.000
+It turned out the cell that we were trying to transplant into
+
+00:06:21.000 --> 00:06:24.000
+had a nuclease, an enzyme that chews up DNA on its surface,
+
+00:06:24.000 --> 00:06:26.000
+and was happy to eat
+
+00:06:26.000 --> 00:06:28.000
+the synthetic DNA that we gave it
+
+00:06:28.000 --> 00:06:31.000
+and never got transplantations.
+
+00:06:31.000 --> 00:06:33.000
+But at the time, that was the largest
+
+00:06:33.000 --> 00:06:35.000
+molecule of a defined structure
+
+00:06:35.000 --> 00:06:37.000
+that had been made.
+
+00:06:37.000 --> 00:06:39.000
+And so both sides were progressing,
+
+00:06:39.000 --> 00:06:41.000
+but part of the synthesis
+
+00:06:41.000 --> 00:06:44.000
+had to be accomplished or was able to be accomplished
+
+00:06:44.000 --> 00:06:47.000
+using yeast, putting the fragments in yeast
+
+00:06:47.000 --> 00:06:49.000
+and yeast would assemble these for us.
+
+00:06:49.000 --> 00:06:52.000
+It's an amazing step forward,
+
+00:06:52.000 --> 00:06:54.000
+but we had a problem because now we had
+
+00:06:54.000 --> 00:06:57.000
+the bacterial chromosomes growing in yeast.
+
+00:06:57.000 --> 00:07:00.000
+So in addition to doing the transplant,
+
+00:07:00.000 --> 00:07:02.000
+we had to find out how to get a bacterial chromosome
+
+00:07:02.000 --> 00:07:04.000
+out of the eukaryotic yeast
+
+00:07:04.000 --> 00:07:06.000
+into a form where we could transplant it
+
+00:07:06.000 --> 00:07:09.000
+into a recipient cell.
+
+00:07:10.000 --> 00:07:13.000
+So our team developed new techniques
+
+00:07:13.000 --> 00:07:15.000
+for actually growing, cloning
+
+00:07:15.000 --> 00:07:17.000
+entire bacterial chromosomes in yeast.
+
+00:07:17.000 --> 00:07:20.000
+So we took the same mycoides genome
+
+00:07:20.000 --> 00:07:22.000
+that Carole had initially transplanted,
+
+00:07:22.000 --> 00:07:24.000
+and we grew that in yeast
+
+00:07:24.000 --> 00:07:27.000
+as an artificial chromosome.
+
+00:07:27.000 --> 00:07:29.000
+And we thought this would be a great test bed
+
+00:07:29.000 --> 00:07:31.000
+for learning how to get chromosomes out of yeast
+
+00:07:31.000 --> 00:07:33.000
+and transplant them.
+
+00:07:33.000 --> 00:07:35.000
+When we did these experiments, though,
+
+00:07:35.000 --> 00:07:37.000
+we could get the chromosome out of yeast
+
+00:07:37.000 --> 00:07:40.000
+but it wouldn't transplant and boot up a cell.
+
+00:07:41.000 --> 00:07:44.000
+That little issue took the team two years to solve.
+
+00:07:44.000 --> 00:07:47.000
+It turns out, the DNA in the bacterial cell
+
+00:07:47.000 --> 00:07:49.000
+was actually methylated,
+
+00:07:49.000 --> 00:07:52.000
+and the methylation protects it from the restriction enzyme,
+
+00:07:53.000 --> 00:07:56.000
+from digesting the DNA.
+
+00:07:56.000 --> 00:07:58.000
+So what we found is if we took the chromosome
+
+00:07:58.000 --> 00:08:00.000
+out of yeast and methylated it,
+
+00:08:00.000 --> 00:08:02.000
+we could then transplant it.
+
+00:08:02.000 --> 00:08:04.000
+Further advances came
+
+00:08:04.000 --> 00:08:07.000
+when the team removed the restriction enzyme genes
+
+00:08:07.000 --> 00:08:10.000
+from the recipient capricolum cell.
+
+00:08:10.000 --> 00:08:12.000
+And once we had done that, now we can take
+
+00:08:12.000 --> 00:08:15.000
+naked DNA out of yeast and transplant it.
+
+00:08:15.000 --> 00:08:17.000
+So last fall
+
+00:08:17.000 --> 00:08:20.000
+when we published the results of that work in Science,
+
+00:08:20.000 --> 00:08:22.000
+we all became overconfident
+
+00:08:22.000 --> 00:08:24.000
+and were sure we were only
+
+00:08:24.000 --> 00:08:26.000
+a few weeks away
+
+00:08:26.000 --> 00:08:28.000
+from being able to now boot up
+
+00:08:28.000 --> 00:08:31.000
+a chromosome out of yeast.
+
+00:08:31.000 --> 00:08:33.000
+Because of the problems with
+
+00:08:33.000 --> 00:08:36.000
+Mycoplasma genitalium and its slow growth
+
+00:08:36.000 --> 00:08:39.000
+about a year and a half ago,
+
+00:08:39.000 --> 00:08:42.000
+we decided to synthesize
+
+00:08:42.000 --> 00:08:45.000
+the much larger chromosome, the mycoides chromosome,
+
+00:08:45.000 --> 00:08:48.000
+knowing that we had the biology worked out on that
+
+00:08:48.000 --> 00:08:50.000
+for transplantation.
+
+00:08:50.000 --> 00:08:52.000
+And Dan led the team for the synthesis
+
+00:08:52.000 --> 00:08:55.000
+of this over one-million-base pair chromosome.
+
+00:08:57.000 --> 00:09:00.000
+But it turned out it wasn't going to be as simple in the end,
+
+00:09:00.000 --> 00:09:02.000
+and it set us back three months
+
+00:09:02.000 --> 00:09:04.000
+because we had one error
+
+00:09:04.000 --> 00:09:07.000
+out of over a million base pairs in that sequence.
+
+00:09:07.000 --> 00:09:10.000
+So the team developed new debugging software,
+
+00:09:10.000 --> 00:09:13.000
+where we could test each synthetic fragment
+
+00:09:13.000 --> 00:09:15.000
+to see if it would grow in a background
+
+00:09:15.000 --> 00:09:18.000
+of wild type DNA.
+
+00:09:18.000 --> 00:09:21.000
+And we found that 10 out of the 11
+
+00:09:21.000 --> 00:09:24.000
+100,000-base pair pieces we synthesized
+
+00:09:24.000 --> 00:09:26.000
+were completely accurate
+
+00:09:26.000 --> 00:09:28.000
+and compatible with
+
+00:09:28.000 --> 00:09:31.000
+a life-forming sequence.
+
+00:09:32.000 --> 00:09:34.000
+We narrowed it down to one fragment;
+
+00:09:34.000 --> 00:09:36.000
+we sequenced it
+
+00:09:36.000 --> 00:09:38.000
+and found just one base pair had been deleted
+
+00:09:38.000 --> 00:09:40.000
+in an essential gene.
+
+00:09:40.000 --> 00:09:43.000
+So accuracy is essential.
+
+00:09:43.000 --> 00:09:45.000
+There's parts of the genome
+
+00:09:45.000 --> 00:09:48.000
+where it cannot tolerate even a single error,
+
+00:09:48.000 --> 00:09:50.000
+and then there's parts of the genome
+
+00:09:50.000 --> 00:09:52.000
+where we can put in large blocks of DNA,
+
+00:09:52.000 --> 00:09:54.000
+as we did with the watermarks,
+
+00:09:54.000 --> 00:09:57.000
+and it can tolerate all kinds of errors.
+
+00:09:57.000 --> 00:10:00.000
+So it took about three months to find that error
+
+00:10:00.000 --> 00:10:02.000
+and repair it.
+
+00:10:02.000 --> 00:10:05.000
+And then early one morning, at 6 a.m.
+
+00:10:05.000 --> 00:10:08.000
+we got a text from Dan
+
+00:10:08.000 --> 00:10:11.000
+saying that, now, the first blue colonies existed.
+
+00:10:11.000 --> 00:10:14.000
+So, it's been a long route to get here:
+
+00:10:14.000 --> 00:10:17.000
+15 years from the beginning.
+
+00:10:17.000 --> 00:10:19.000
+We felt
+
+00:10:19.000 --> 00:10:21.000
+one of the tenets of this field
+
+00:10:21.000 --> 00:10:24.000
+was to make absolutely certain
+
+00:10:24.000 --> 00:10:27.000
+we could distinguish synthetic DNA
+
+00:10:27.000 --> 00:10:29.000
+from natural DNA.
+
+00:10:29.000 --> 00:10:32.000
+Early on, when you're working in a new area of science,
+
+00:10:32.000 --> 00:10:35.000
+you have to think about all the pitfalls
+
+00:10:35.000 --> 00:10:37.000
+and things that could lead you
+
+00:10:37.000 --> 00:10:40.000
+to believe that you had done something when you hadn't,
+
+00:10:40.000 --> 00:10:43.000
+and, even worse, leading others to believe it.
+
+00:10:43.000 --> 00:10:45.000
+So, we thought the worst problem would be
+
+00:10:45.000 --> 00:10:48.000
+a single molecule contamination
+
+00:10:48.000 --> 00:10:50.000
+of the native chromosome,
+
+00:10:50.000 --> 00:10:53.000
+leading us to believe that we actually had
+
+00:10:53.000 --> 00:10:55.000
+created a synthetic cell,
+
+00:10:55.000 --> 00:10:57.000
+when it would have been just a contaminant.
+
+00:10:57.000 --> 00:10:59.000
+So early on, we developed the notion
+
+00:10:59.000 --> 00:11:01.000
+of putting in watermarks in the DNA
+
+00:11:01.000 --> 00:11:03.000
+to absolutely make clear
+
+00:11:03.000 --> 00:11:06.000
+that the DNA was synthetic.
+
+00:11:06.000 --> 00:11:09.000
+And the first chromosome we built
+
+00:11:09.000 --> 00:11:11.000
+in 2008 --
+
+00:11:11.000 --> 00:11:13.000
+the 500,000-base pair one --
+
+00:11:13.000 --> 00:11:16.000
+we simply assigned
+
+00:11:16.000 --> 00:11:19.000
+the names of the authors of the chromosome
+
+00:11:19.000 --> 00:11:22.000
+into the genetic code,
+
+00:11:22.000 --> 00:11:24.000
+but it was using just amino acid
+
+00:11:24.000 --> 00:11:26.000
+single letter translations,
+
+00:11:26.000 --> 00:11:29.000
+which leaves out certain letters of the alphabet.
+
+00:11:30.000 --> 00:11:33.000
+So the team actually developed a new code
+
+00:11:33.000 --> 00:11:36.000
+within the code within the code.
+
+00:11:36.000 --> 00:11:38.000
+So it's a new code
+
+00:11:38.000 --> 00:11:41.000
+for interpreting and writing messages in DNA.
+
+00:11:41.000 --> 00:11:44.000
+Now, mathematicians have been hiding and writing
+
+00:11:44.000 --> 00:11:47.000
+messages in the genetic code for a long time,
+
+00:11:47.000 --> 00:11:50.000
+but it's clear they were mathematicians and not biologists
+
+00:11:50.000 --> 00:11:53.000
+because, if you write long messages
+
+00:11:53.000 --> 00:11:56.000
+with the code that the mathematicians developed,
+
+00:11:56.000 --> 00:11:58.000
+it would more than likely lead to
+
+00:11:58.000 --> 00:12:01.000
+new proteins being synthesized
+
+00:12:01.000 --> 00:12:04.000
+with unknown functions.
+
+00:12:04.000 --> 00:12:07.000
+So the code that Mike Montague and the team developed
+
+00:12:07.000 --> 00:12:09.000
+actually puts frequent stop codons,
+
+00:12:09.000 --> 00:12:12.000
+so it's a different alphabet
+
+00:12:12.000 --> 00:12:14.000
+but allows us to use
+
+00:12:14.000 --> 00:12:17.000
+the entire English alphabet
+
+00:12:17.000 --> 00:12:19.000
+with punctuation and numbers.
+
+00:12:19.000 --> 00:12:21.000
+So, there are four major watermarks
+
+00:12:21.000 --> 00:12:24.000
+all over 1,000 base pairs of genetic code.
+
+00:12:24.000 --> 00:12:27.000
+The first one actually contains within it
+
+00:12:27.000 --> 00:12:30.000
+this code for interpreting
+
+00:12:30.000 --> 00:12:32.000
+the rest of the genetic code.
+
+00:12:34.000 --> 00:12:36.000
+So in the remaining information,
+
+00:12:36.000 --> 00:12:38.000
+in the watermarks,
+
+00:12:38.000 --> 00:12:41.000
+contain the names of, I think it's
+
+00:12:41.000 --> 00:12:43.000
+46 different authors
+
+00:12:43.000 --> 00:12:45.000
+and key contributors
+
+00:12:45.000 --> 00:12:48.000
+to getting the project to this stage.
+
+00:12:49.000 --> 00:12:51.000
+And we also built in
+
+00:12:51.000 --> 00:12:54.000
+a website address
+
+00:12:54.000 --> 00:12:56.000
+so that if somebody decodes the code
+
+00:12:56.000 --> 00:12:58.000
+within the code within the code,
+
+00:12:58.000 --> 00:13:00.000
+they can send an email to that address.
+
+00:13:00.000 --> 00:13:03.000
+So it's clearly distinguishable
+
+00:13:03.000 --> 00:13:05.000
+from any other species,
+
+00:13:05.000 --> 00:13:08.000
+having 46 names in it,
+
+00:13:08.000 --> 00:13:11.000
+its own web address.
+
+00:13:12.000 --> 00:13:15.000
+And we added three quotations,
+
+00:13:15.000 --> 00:13:17.000
+because with the first genome
+
+00:13:17.000 --> 00:13:20.000
+we were criticized for not trying to say something more profound
+
+00:13:20.000 --> 00:13:22.000
+than just signing the work.
+
+00:13:22.000 --> 00:13:24.000
+So we won't give the rest of the code,
+
+00:13:24.000 --> 00:13:26.000
+but we will give the three quotations.
+
+00:13:26.000 --> 00:13:28.000
+The first is,
+
+00:13:28.000 --> 00:13:30.000
+"To live, to err,
+
+00:13:30.000 --> 00:13:32.000
+to fall, to triumph
+
+00:13:32.000 --> 00:13:34.000
+and to recreate life out of life."
+
+00:13:34.000 --> 00:13:36.000
+It's a James Joyce quote.
+
+00:13:38.000 --> 00:13:41.000
+The second quotation is, "See things not as they are,
+
+00:13:41.000 --> 00:13:43.000
+but as they might be."
+
+00:13:43.000 --> 00:13:46.000
+It's a quote from the "American Prometheus"
+
+00:13:46.000 --> 00:13:48.000
+book on Robert Oppenheimer.
+
+00:13:48.000 --> 00:13:51.000
+And the last one is a Richard Feynman quote:
+
+00:13:51.000 --> 00:13:53.000
+"What I cannot build,
+
+00:13:53.000 --> 00:13:55.000
+I cannot understand."
+
+00:13:58.000 --> 00:14:01.000
+So, because this is as much a philosophical advance
+
+00:14:01.000 --> 00:14:04.000
+as a technical advance in science,
+
+00:14:04.000 --> 00:14:07.000
+we tried to deal with both the philosophical
+
+00:14:07.000 --> 00:14:09.000
+and the technical side.
+
+00:14:09.000 --> 00:14:11.000
+The last thing I want to say before turning it over to questions
+
+00:14:11.000 --> 00:14:14.000
+is that the extensive work
+
+00:14:14.000 --> 00:14:16.000
+that we've done --
+
+00:14:16.000 --> 00:14:18.000
+asking for ethical review,
+
+00:14:18.000 --> 00:14:20.000
+pushing the envelope
+
+00:14:20.000 --> 00:14:23.000
+on that side as well as the technical side --
+
+00:14:23.000 --> 00:14:26.000
+this has been broadly discussed in the scientific community,
+
+00:14:26.000 --> 00:14:28.000
+in the policy community
+
+00:14:28.000 --> 00:14:31.000
+and at the highest levels of the federal government.
+
+00:14:31.000 --> 00:14:34.000
+Even with this announcement,
+
+00:14:34.000 --> 00:14:36.000
+as we did in 2003 --
+
+00:14:36.000 --> 00:14:39.000
+that work was funded by the Department of Energy,
+
+00:14:39.000 --> 00:14:41.000
+so the work was reviewed
+
+00:14:41.000 --> 00:14:43.000
+at the level of the White House,
+
+00:14:43.000 --> 00:14:46.000
+trying to decide whether to classify the work or publish it.
+
+00:14:46.000 --> 00:14:49.000
+And they came down on the side of open publication,
+
+00:14:49.000 --> 00:14:52.000
+which is the right approach --
+
+00:14:52.000 --> 00:14:54.000
+we've briefed the White House,
+
+00:14:54.000 --> 00:14:57.000
+we've briefed members of Congress,
+
+00:14:57.000 --> 00:14:59.000
+we've tried to take and push
+
+00:14:59.000 --> 00:15:01.000
+the policy issues
+
+00:15:01.000 --> 00:15:04.000
+in parallel with the scientific advances.
+
+00:15:05.000 --> 00:15:07.000
+So with that, I would like
+
+00:15:07.000 --> 00:15:10.000
+to open it first to the floor for questions.
+
+00:15:10.000 --> 00:15:12.000
+Yes, in the back.
+
+00:15:12.000 --> 00:15:14.000
+Reporter: Could you explain, in layman's terms,
+
+00:15:14.000 --> 00:15:17.000
+how significant a breakthrough this is please?
+
+00:15:18.000 --> 00:15:20.000
+Craig Venter: Can we explain how significant this is?
+
+00:15:20.000 --> 00:15:23.000
+I'm not sure we're the ones that should be explaining how significant it is.
+
+00:15:23.000 --> 00:15:25.000
+It's significant to us.
+
+00:15:26.000 --> 00:15:29.000
+Perhaps it's a giant philosophical change
+
+00:15:29.000 --> 00:15:31.000
+in how we view life.
+
+00:15:31.000 --> 00:15:34.000
+We actually view it as a baby step in terms of,
+
+00:15:34.000 --> 00:15:36.000
+it's taken us 15 years to be able
+
+00:15:36.000 --> 00:15:38.000
+to do the experiment
+
+00:15:38.000 --> 00:15:40.000
+we wanted to do 15 years ago
+
+00:15:40.000 --> 00:15:43.000
+on understanding life at its basic level.
+
+00:15:43.000 --> 00:15:45.000
+But we actually believe
+
+00:15:45.000 --> 00:15:48.000
+this is going to be a very powerful set of tools
+
+00:15:49.000 --> 00:15:51.000
+and we're already starting
+
+00:15:51.000 --> 00:15:53.000
+in numerous avenues
+
+00:15:53.000 --> 00:15:55.000
+to use this tool.
+
+00:15:55.000 --> 00:15:57.000
+We have, at the Institute,
+
+00:15:57.000 --> 00:16:00.000
+ongoing funding now from NIH
+
+00:16:00.000 --> 00:16:02.000
+in a program with Novartis
+
+00:16:02.000 --> 00:16:04.000
+to try and use these new
+
+00:16:04.000 --> 00:16:06.000
+synthetic DNA tools
+
+00:16:06.000 --> 00:16:09.000
+to perhaps make the flu vaccine
+
+00:16:09.000 --> 00:16:12.000
+that you might get next year.
+
+00:16:12.000 --> 00:16:15.000
+Because instead of taking weeks to months to make these,
+
+00:16:15.000 --> 00:16:18.000
+Dan's team can now make these
+
+00:16:18.000 --> 00:16:21.000
+in less than 24 hours.
+
+00:16:21.000 --> 00:16:24.000
+So when you see how long it took to get an H1N1 vaccine out,
+
+00:16:24.000 --> 00:16:26.000
+we think we can shorten that process
+
+00:16:26.000 --> 00:16:28.000
+quite substantially.
+
+00:16:28.000 --> 00:16:30.000
+In the vaccine area,
+
+00:16:30.000 --> 00:16:32.000
+Synthetic Genomics and the Institute
+
+00:16:32.000 --> 00:16:34.000
+are forming a new vaccine company
+
+00:16:34.000 --> 00:16:37.000
+because we think these tools can affect vaccines
+
+00:16:37.000 --> 00:16:40.000
+to diseases that haven't been possible to date,
+
+00:16:40.000 --> 00:16:43.000
+things where the viruses rapidly evolve,
+
+00:16:43.000 --> 00:16:45.000
+such with rhinovirus.
+
+00:16:45.000 --> 00:16:48.000
+Wouldn't it be nice to have something that actually blocked common colds?
+
+00:16:48.000 --> 00:16:51.000
+Or, more importantly, HIV,
+
+00:16:51.000 --> 00:16:53.000
+where the virus evolves so quickly
+
+00:16:53.000 --> 00:16:55.000
+the vaccines that are made today
+
+00:16:55.000 --> 00:16:57.000
+can't keep up
+
+00:16:57.000 --> 00:17:00.000
+with those evolutionary changes.
+
+00:17:00.000 --> 00:17:02.000
+Also, at Synthetic Genomics,
+
+00:17:02.000 --> 00:17:04.000
+we've been working
+
+00:17:04.000 --> 00:17:06.000
+on major environmental issues.
+
+00:17:06.000 --> 00:17:08.000
+I think this latest oil spill in the Gulf
+
+00:17:08.000 --> 00:17:10.000
+is a reminder.
+
+00:17:10.000 --> 00:17:12.000
+We can't see CO2 --
+
+00:17:12.000 --> 00:17:14.000
+we depend on scientific measurements for it
+
+00:17:14.000 --> 00:17:16.000
+and we see the beginning results
+
+00:17:16.000 --> 00:17:18.000
+of having too much of it --
+
+00:17:18.000 --> 00:17:20.000
+but we can see pre-CO2 now
+
+00:17:20.000 --> 00:17:22.000
+floating on the waters
+
+00:17:22.000 --> 00:17:25.000
+and contaminating the beaches in the Gulf.
+
+00:17:25.000 --> 00:17:28.000
+We need some alternatives
+
+00:17:28.000 --> 00:17:30.000
+for oil.
+
+00:17:30.000 --> 00:17:32.000
+We have a program with Exxon Mobile
+
+00:17:32.000 --> 00:17:35.000
+to try and develop new strains of algae
+
+00:17:35.000 --> 00:17:38.000
+that can efficiently capture carbon dioxide
+
+00:17:38.000 --> 00:17:41.000
+from the atmosphere or from concentrated sources,
+
+00:17:41.000 --> 00:17:44.000
+make new hydrocarbons that can go into their refineries
+
+00:17:44.000 --> 00:17:46.000
+to make normal gasoline
+
+00:17:46.000 --> 00:17:48.000
+and diesel fuel out of CO2.
+
+00:17:48.000 --> 00:17:50.000
+Those are just a couple of the approaches
+
+00:17:50.000 --> 00:17:53.000
+and directions that we're taking.
+
+00:17:53.000 --> 00:17:56.000
+(Applause)
+

@@ -1,0 +1,622 @@
+WEBVTT
+
+00:00:00.984 --> 00:00:02.275
+My job at Twitter
+
+00:00:02.275 --> 00:00:04.253
+is to ensure user trust,
+
+00:00:04.253 --> 00:00:07.090
+protect user rights and keep users safe,
+
+00:00:07.090 --> 00:00:08.350
+both from each other
+
+00:00:08.350 --> 00:00:12.249
+and, at times, from themselves.
+
+00:00:12.249 --> 00:00:16.524
+Let's talk about what scale looks like at Twitter.
+
+00:00:16.524 --> 00:00:19.394
+Back in January 2009,
+
+00:00:19.394 --> 00:00:22.725
+we saw more than two million new tweets each day
+
+00:00:22.725 --> 00:00:24.489
+on the platform.
+
+00:00:24.489 --> 00:00:30.397
+January 2014, more than 500 million.
+
+00:00:30.397 --> 00:00:32.889
+We were seeing two million tweets
+
+00:00:32.889 --> 00:00:35.065
+in less than six minutes.
+
+00:00:35.065 --> 00:00:42.049
+That's a 24,900-percent increase.
+
+00:00:42.049 --> 00:00:45.302
+Now, the vast majority of activity on Twitter
+
+00:00:45.302 --> 00:00:46.805
+puts no one in harm's way.
+
+00:00:46.805 --> 00:00:48.740
+There's no risk involved.
+
+00:00:48.740 --> 00:00:54.493
+My job is to root out and prevent activity that might.
+
+00:00:54.493 --> 00:00:56.466
+Sounds straightforward, right?
+
+00:00:56.466 --> 00:00:57.618
+You might even think it'd be easy,
+
+00:00:57.618 --> 00:00:59.788
+given that I just said the vast majority
+
+00:00:59.788 --> 00:01:03.598
+of activity on Twitter puts no one in harm's way.
+
+00:01:03.598 --> 00:01:05.767
+Why spend so much time
+
+00:01:05.767 --> 00:01:08.510
+searching for potential calamities
+
+00:01:08.510 --> 00:01:11.410
+in innocuous activities?
+
+00:01:11.410 --> 00:01:14.350
+Given the scale that Twitter is at,
+
+00:01:14.350 --> 00:01:16.707
+a one-in-a-million chance happens
+
+00:01:16.707 --> 00:01:21.583
+500 times a day.
+
+00:01:21.583 --> 00:01:23.028
+It's the same for other companies
+
+00:01:23.028 --> 00:01:24.499
+dealing at this sort of scale.
+
+00:01:24.499 --> 00:01:26.207
+For us, edge cases,
+
+00:01:26.207 --> 00:01:29.832
+those rare situations that are unlikely to occur,
+
+00:01:29.832 --> 00:01:32.454
+are more like norms.
+
+00:01:32.454 --> 00:01:36.396
+Say 99.999 percent of tweets
+
+00:01:36.396 --> 00:01:38.284
+pose no risk to anyone.
+
+00:01:38.284 --> 00:01:39.350
+There's no threat involved.
+
+00:01:39.350 --> 00:01:42.304
+Maybe people are documenting travel landmarks
+
+00:01:42.304 --> 00:01:44.267
+like Australia's Heart Reef,
+
+00:01:44.267 --> 00:01:47.188
+or tweeting about a concert they're attending,
+
+00:01:47.188 --> 00:01:51.935
+or sharing pictures of cute baby animals.
+
+00:01:51.935 --> 00:01:56.444
+After you take out that 99.999 percent,
+
+00:01:56.444 --> 00:01:59.973
+that tiny percentage of tweets remaining
+
+00:01:59.973 --> 00:02:02.362
+works out to roughly
+
+00:02:02.362 --> 00:02:05.837
+150,000 per month.
+
+00:02:05.837 --> 00:02:08.293
+The sheer scale of what we're dealing with
+
+00:02:08.293 --> 00:02:10.605
+makes for a challenge.
+
+00:02:10.605 --> 00:02:11.783
+You know what else makes my role
+
+00:02:11.783 --> 00:02:14.890
+particularly challenging?
+
+00:02:14.890 --> 00:02:20.013
+People do weird things.
+
+00:02:20.013 --> 00:02:21.842
+(Laughter)
+
+00:02:21.842 --> 00:02:24.233
+And I have to figure out what they're doing,
+
+00:02:24.233 --> 00:02:26.482
+why, and whether or not there's risk involved,
+
+00:02:26.482 --> 00:02:28.650
+often without much in terms of context
+
+00:02:28.650 --> 00:02:30.497
+or background.
+
+00:02:30.497 --> 00:02:32.574
+I'm going to show you some examples
+
+00:02:32.574 --> 00:02:34.579
+that I've run into during my time at Twitter --
+
+00:02:34.579 --> 00:02:36.199
+these are all real examples —
+
+00:02:36.199 --> 00:02:38.852
+of situations that at first seemed cut and dried,
+
+00:02:38.852 --> 00:02:40.495
+but the truth of the matter was something
+
+00:02:40.495 --> 00:02:42.045
+altogether different.
+
+00:02:42.045 --> 00:02:44.022
+The details have been changed
+
+00:02:44.022 --> 00:02:45.279
+to protect the innocent
+
+00:02:45.279 --> 00:02:48.512
+and sometimes the guilty.
+
+00:02:48.512 --> 00:02:51.517
+We'll start off easy.
+
+00:02:51.517 --> 00:02:53.310
+["Yo bitch"]
+
+00:02:53.310 --> 00:02:56.538
+If you saw a Tweet that only said this,
+
+00:02:56.538 --> 00:02:58.232
+you might think to yourself,
+
+00:02:58.232 --> 00:02:59.885
+"That looks like abuse."
+
+00:02:59.885 --> 00:03:02.992
+After all, why would you
+want to receive the message,
+
+00:03:02.992 --> 00:03:05.210
+"Yo, bitch."
+
+00:03:05.210 --> 00:03:09.873
+Now, I try to stay relatively hip
+
+00:03:09.873 --> 00:03:12.385
+to the latest trends and memes,
+
+00:03:12.385 --> 00:03:15.089
+so I knew that "yo, bitch"
+
+00:03:15.089 --> 00:03:18.243
+was also often a common greeting between friends,
+
+00:03:18.243 --> 00:03:22.505
+as well as being a popular "Breaking Bad" reference.
+
+00:03:22.505 --> 00:03:24.992
+I will admit that I did not expect
+
+00:03:24.992 --> 00:03:27.833
+to encounter a fourth use case.
+
+00:03:27.833 --> 00:03:30.937
+It turns out it is also used on Twitter
+
+00:03:30.937 --> 00:03:33.999
+when people are role-playing as dogs.
+
+00:03:33.999 --> 00:03:39.278
+(Laughter)
+
+00:03:39.278 --> 00:03:40.944
+And in fact, in that case,
+
+00:03:40.944 --> 00:03:42.553
+it's not only not abusive,
+
+00:03:42.553 --> 00:03:45.692
+it's technically just an accurate greeting.
+
+00:03:45.692 --> 00:03:48.581
+(Laughter)
+
+00:03:48.581 --> 00:03:50.652
+So okay, determining whether or not
+
+00:03:50.652 --> 00:03:52.500
+something is abusive without context,
+
+00:03:52.500 --> 00:03:54.092
+definitely hard.
+
+00:03:54.092 --> 00:03:56.809
+Let's look at spam.
+
+00:03:56.809 --> 00:03:58.769
+Here's an example of an account engaged
+
+00:03:58.769 --> 00:04:00.437
+in classic spammer behavior,
+
+00:04:00.437 --> 00:04:01.996
+sending the exact same message
+
+00:04:01.996 --> 00:04:03.800
+to thousands of people.
+
+00:04:03.800 --> 00:04:06.593
+While this is a mockup I put
+together using my account,
+
+00:04:06.593 --> 00:04:09.594
+we see accounts doing this all the time.
+
+00:04:09.594 --> 00:04:11.573
+Seems pretty straightforward.
+
+00:04:11.573 --> 00:04:13.626
+We should just automatically suspend accounts
+
+00:04:13.626 --> 00:04:16.933
+engaging in this kind of behavior.
+
+00:04:16.933 --> 00:04:20.143
+Turns out there's some exceptions to that rule.
+
+00:04:20.143 --> 00:04:23.026
+Turns out that that message
+could also be a notification
+
+00:04:23.026 --> 00:04:26.915
+you signed up for that the International
+Space Station is passing overhead
+
+00:04:26.915 --> 00:04:28.761
+because you wanted to go outside
+
+00:04:28.761 --> 00:04:30.709
+and see if you could see it.
+
+00:04:30.709 --> 00:04:31.934
+You're not going to get that chance
+
+00:04:31.934 --> 00:04:33.781
+if we mistakenly suspend the account
+
+00:04:33.781 --> 00:04:36.047
+thinking it's spam.
+
+00:04:36.047 --> 00:04:39.573
+Okay. Let's make the stakes higher.
+
+00:04:39.573 --> 00:04:41.489
+Back to my account,
+
+00:04:41.489 --> 00:04:44.994
+again exhibiting classic behavior.
+
+00:04:44.994 --> 00:04:47.637
+This time it's sending the same message and link.
+
+00:04:47.637 --> 00:04:50.411
+This is often indicative of 
+something called phishing,
+
+00:04:50.411 --> 00:04:53.589
+somebody trying to steal another
+person's account information
+
+00:04:53.589 --> 00:04:55.792
+by directing them to another website.
+
+00:04:55.792 --> 00:04:59.986
+That's pretty clearly not a good thing.
+
+00:04:59.986 --> 00:05:01.916
+We want to, and do, suspend accounts
+
+00:05:01.916 --> 00:05:04.540
+engaging in that kind of behavior.
+
+00:05:04.540 --> 00:05:07.787
+So why are the stakes higher for this?
+
+00:05:07.787 --> 00:05:10.786
+Well, this could also be a bystander at a rally
+
+00:05:10.786 --> 00:05:12.696
+who managed to record a video
+
+00:05:12.696 --> 00:05:15.966
+of a police officer beating a non-violent protester
+
+00:05:15.966 --> 00:05:18.941
+who's trying to let the world know what's happening.
+
+00:05:18.941 --> 00:05:20.584
+We don't want to gamble
+
+00:05:20.584 --> 00:05:23.101
+on potentially silencing that crucial speech
+
+00:05:23.101 --> 00:05:26.030
+by classifying it as spam and suspending it.
+
+00:05:26.030 --> 00:05:28.909
+That means we evaluate hundreds of parameters
+
+00:05:28.909 --> 00:05:30.597
+when looking at account behaviors,
+
+00:05:30.597 --> 00:05:32.613
+and even then, we can still get it wrong
+
+00:05:32.613 --> 00:05:34.849
+and have to reevaluate.
+
+00:05:34.849 --> 00:05:38.557
+Now, given the sorts of challenges I'm up against,
+
+00:05:38.557 --> 00:05:41.253
+it's crucial that I not only predict
+
+00:05:41.253 --> 00:05:45.037
+but also design protections for the unexpected.
+
+00:05:45.037 --> 00:05:47.379
+And that's not just an issue for me,
+
+00:05:47.379 --> 00:05:49.466
+or for Twitter, it's an issue for you.
+
+00:05:49.466 --> 00:05:51.872
+It's an issue for anybody who's building or creating
+
+00:05:51.872 --> 00:05:53.797
+something that you think is going to be amazing
+
+00:05:53.797 --> 00:05:56.586
+and will let people do awesome things.
+
+00:05:56.586 --> 00:05:59.452
+So what do I do?
+
+00:05:59.452 --> 00:06:02.770
+I pause and I think,
+
+00:06:02.770 --> 00:06:04.865
+how could all of this
+
+00:06:04.865 --> 00:06:08.658
+go horribly wrong?
+
+00:06:08.658 --> 00:06:13.111
+I visualize catastrophe.
+
+00:06:13.111 --> 00:06:15.574
+And that's hard. There's a sort of
+
+00:06:15.574 --> 00:06:18.422
+inherent cognitive dissonance in doing that,
+
+00:06:18.422 --> 00:06:20.234
+like when you're writing your wedding vows
+
+00:06:20.234 --> 00:06:22.880
+at the same time as your prenuptial agreement.
+
+00:06:22.880 --> 00:06:24.576
+(Laughter)
+
+00:06:24.576 --> 00:06:26.949
+But you still have to do it,
+
+00:06:26.949 --> 00:06:31.395
+particularly if you're marrying 
+500 million tweets per day.
+
+00:06:31.395 --> 00:06:34.492
+What do I mean by "visualize catastrophe?"
+
+00:06:34.492 --> 00:06:37.254
+I try to think of how something as
+
+00:06:37.254 --> 00:06:40.482
+benign and innocuous as a picture of a cat
+
+00:06:40.482 --> 00:06:41.586
+could lead to death,
+
+00:06:41.586 --> 00:06:43.912
+and what to do to prevent that.
+
+00:06:43.912 --> 00:06:46.295
+Which happens to be my next example.
+
+00:06:46.295 --> 00:06:49.405
+This is my cat, Eli.
+
+00:06:49.405 --> 00:06:51.386
+We wanted to give users the ability
+
+00:06:51.386 --> 00:06:53.459
+to add photos to their tweets.
+
+00:06:53.459 --> 00:06:55.056
+A picture is worth a thousand words.
+
+00:06:55.056 --> 00:06:57.065
+You only get 140 characters.
+
+00:06:57.065 --> 00:06:58.265
+You add a photo to your tweet,
+
+00:06:58.265 --> 00:07:01.303
+look at how much more content you've got now.
+
+00:07:01.303 --> 00:07:02.980
+There's all sorts of great things you can do
+
+00:07:02.980 --> 00:07:04.987
+by adding a photo to a tweet.
+
+00:07:04.987 --> 00:07:07.267
+My job isn't to think of those.
+
+00:07:07.267 --> 00:07:10.014
+It's to think of what could go wrong.
+
+00:07:10.014 --> 00:07:11.906
+How could this picture
+
+00:07:11.906 --> 00:07:15.445
+lead to my death?
+
+00:07:15.445 --> 00:07:18.605
+Well, here's one possibility.
+
+00:07:18.605 --> 00:07:21.691
+There's more in that picture than just a cat.
+
+00:07:21.691 --> 00:07:23.783
+There's geodata.
+
+00:07:23.783 --> 00:07:25.995
+When you take a picture with your smartphone
+
+00:07:25.995 --> 00:07:27.294
+or digital camera,
+
+00:07:27.294 --> 00:07:28.948
+there's a lot of additional information
+
+00:07:28.948 --> 00:07:30.564
+saved along in that image.
+
+00:07:30.564 --> 00:07:32.496
+In fact, this image also contains
+
+00:07:32.496 --> 00:07:34.301
+the equivalent of this,
+
+00:07:34.301 --> 00:07:37.380
+more specifically, this.
+
+00:07:37.380 --> 00:07:39.336
+Sure, it's not likely that someone's going to try
+
+00:07:39.336 --> 00:07:41.621
+to track me down and do me harm
+
+00:07:41.621 --> 00:07:43.405
+based upon image data associated
+
+00:07:43.405 --> 00:07:45.353
+with a picture I took of my cat,
+
+00:07:45.353 --> 00:07:49.004
+but I start by assuming the worst will happen.
+
+00:07:49.004 --> 00:07:51.342
+That's why, when we launched photos on Twitter,
+
+00:07:51.342 --> 00:07:55.163
+we made the decision to strip that geodata out.
+
+00:07:55.163 --> 00:08:01.010
+(Applause)
+
+00:08:01.010 --> 00:08:03.623
+If I start by assuming the worst
+
+00:08:03.623 --> 00:08:04.570
+and work backwards,
+
+00:08:04.570 --> 00:08:07.123
+I can make sure that the protections we build
+
+00:08:07.123 --> 00:08:08.891
+work for both expected
+
+00:08:08.891 --> 00:08:10.969
+and unexpected use cases.
+
+00:08:10.969 --> 00:08:13.914
+Given that I spend my days and nights
+
+00:08:13.914 --> 00:08:16.455
+imagining the worst that could happen,
+
+00:08:16.455 --> 00:08:20.712
+it wouldn't be surprising if 
+my worldview was gloomy.
+
+00:08:20.712 --> 00:08:22.495
+(Laughter)
+
+00:08:22.495 --> 00:08:23.912
+It's not.
+
+00:08:23.912 --> 00:08:27.788
+The vast majority of interactions I see --
+
+00:08:27.788 --> 00:08:31.689
+and I see a lot, believe me -- are positive,
+
+00:08:31.689 --> 00:08:33.613
+people reaching out to help
+
+00:08:33.613 --> 00:08:37.061
+or to connect or share information with each other.
+
+00:08:37.061 --> 00:08:40.384
+It's just that for those of us dealing with scale,
+
+00:08:40.384 --> 00:08:44.184
+for those of us tasked with keeping people safe,
+
+00:08:44.184 --> 00:08:46.730
+we have to assume the worst will happen,
+
+00:08:46.730 --> 00:08:50.957
+because for us, a one-in-a-million chance
+
+00:08:50.957 --> 00:08:53.706
+is pretty good odds.
+
+00:08:53.706 --> 00:08:55.570
+Thank you.
+
+00:08:55.570 --> 00:08:59.570
+(Applause)
+

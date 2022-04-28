@@ -1,0 +1,1500 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+You know, we're going to do things a little differently.
+
+00:00:03.000 --> 00:00:06.000
+I'm not going to show you a presentation. I'm going to talk to you.
+
+00:00:06.000 --> 00:00:11.000
+And at the same time, we're going to look at just images
+
+00:00:11.000 --> 00:00:16.000
+from a photo stream that is pretty close to live of things that --
+
+00:00:16.000 --> 00:00:20.000
+snapshots from Second Life. So hopefully this will be fascinating.
+
+00:00:20.000 --> 00:00:24.000
+You can -- I can compete for your attention with the strange pictures
+
+00:00:24.000 --> 00:00:26.000
+that you see on screen that come from there.
+
+00:00:26.000 --> 00:00:31.000
+I thought I'd talk a little bit about some just big ideas about this,
+
+00:00:31.000 --> 00:00:35.000
+and then get John back out here so we can talk interactively
+
+00:00:35.000 --> 00:00:39.000
+a little bit more and think and ask questions.
+
+00:00:39.000 --> 00:00:42.000
+You know, I guess the first question is,
+
+00:00:42.000 --> 00:00:47.000
+why build a virtual world at all?
+
+00:00:47.000 --> 00:00:51.000
+And I think the answer to that is always going to be
+
+00:00:51.000 --> 00:00:53.000
+at least driven to a certain extent by the people
+
+00:00:53.000 --> 00:00:58.000
+initially crazy enough to start the project, you know.
+
+00:00:58.000 --> 00:01:01.000
+So I can give you a little bit of first background just on me
+
+00:01:01.000 --> 00:01:06.000
+and what moved me as a -- really going back as far as a teenager
+
+00:01:06.000 --> 00:01:09.000
+and then an adult, to actually try and build this kind of thing.
+
+00:01:09.000 --> 00:01:18.000
+I was a very creative kid who read a lot, and got into electronics first,
+
+00:01:18.000 --> 00:01:22.000
+and then later, programming computers, when I was really young.
+
+00:01:22.000 --> 00:01:26.000
+I was just always trying to make things.
+
+00:01:26.000 --> 00:01:30.000
+I was just obsessed with taking things apart and building things,
+
+00:01:30.000 --> 00:01:34.000
+and just anything I could do with my hands or with wood
+
+00:01:34.000 --> 00:01:37.000
+or electronics or metal or anything else.
+
+00:01:37.000 --> 00:01:41.000
+And so, for example -- and it's a great Second Life thing -- I had a bedroom.
+
+00:01:41.000 --> 00:01:44.000
+And every kid, you know, as a teenager, has got his bedroom he retreats to --
+
+00:01:44.000 --> 00:01:49.000
+but I wanted my door, I thought it would be cool if my door went up
+
+00:01:49.000 --> 00:01:51.000
+rather than opened, like on Star Trek.
+
+00:01:51.000 --> 00:01:54.000
+I thought it would be neat to do that. And so I got up in the ceiling
+
+00:01:54.000 --> 00:01:59.000
+and I cut through the ceiling joists, much to my parents' delight,
+
+00:01:59.000 --> 00:02:03.000
+and put the door, you know, being pulled up through the ceiling.
+
+00:02:03.000 --> 00:02:07.000
+I built -- I put a garage-door opener up in the attic
+
+00:02:07.000 --> 00:02:09.000
+that would pull this door up.
+
+00:02:09.000 --> 00:02:14.000
+You can imagine the amount of time that it took me to do this to the house
+
+00:02:14.000 --> 00:02:16.000
+and the displeasure of my parents.
+
+00:02:16.000 --> 00:02:19.000
+The thing that was always striking to me was that we as people
+
+00:02:19.000 --> 00:02:24.000
+could have so many really amazing ideas about things we'd like to do,
+
+00:02:24.000 --> 00:02:30.000
+but are so often unable, in the real world, to actually do those things --
+
+00:02:30.000 --> 00:02:33.000
+to actually cobble together the materials
+
+00:02:33.000 --> 00:02:36.000
+and go through the actual execution phase of building something
+
+00:02:36.000 --> 00:02:38.000
+that you imagine from a design perspective.
+
+00:02:38.000 --> 00:02:41.000
+And so for me, I know that when the Internet came around
+
+00:02:41.000 --> 00:02:44.000
+and I was doing computer programming and just, you know,
+
+00:02:44.000 --> 00:02:47.000
+just generally trying to run my own little company
+
+00:02:47.000 --> 00:02:50.000
+and figure out what to do with the Internet and with computers,
+
+00:02:50.000 --> 00:02:56.000
+I was just immediately struck by how the ultimate thing
+
+00:02:56.000 --> 00:02:59.000
+that you would really want to do with the Internet and with computers
+
+00:02:59.000 --> 00:03:02.000
+would be to use the Internet and connected computers
+
+00:03:02.000 --> 00:03:09.000
+to simulate a world to sort of recreate the laws of physics
+
+00:03:09.000 --> 00:03:13.000
+and the rules of how things went together --
+
+00:03:13.000 --> 00:03:16.000
+the sort of -- the idea of atoms and how to make things,
+
+00:03:16.000 --> 00:03:22.000
+and do that inside a computer so that we could all get in there and make stuff.
+
+00:03:22.000 --> 00:03:26.000
+And so for me that was the thing that was so enticing.
+
+00:03:26.000 --> 00:03:29.000
+I just wanted this place where you could build things.
+
+00:03:29.000 --> 00:03:32.000
+And so I think you see that in the genesis
+
+00:03:32.000 --> 00:03:36.000
+of what has happened with Second Life, and I think it's important.
+
+00:03:36.000 --> 00:03:42.000
+I also think that more generally, the use of the Internet and technology
+
+00:03:42.000 --> 00:03:48.000
+as a kind of a space between us for creativity and design is a general trend.
+
+00:03:48.000 --> 00:03:51.000
+It is a -- sort of a great human progress.
+
+00:03:51.000 --> 00:03:57.000
+Technology is just generally being used to allow us to create
+
+00:03:57.000 --> 00:04:00.000
+in as shared and social a way as possible.
+
+00:04:00.000 --> 00:04:02.000
+And I think that Second Life and virtual worlds more generally
+
+00:04:02.000 --> 00:04:07.000
+represent the best we can do to achieve that right now.
+
+00:04:07.000 --> 00:04:09.000
+You know, another way to look at that,
+
+00:04:09.000 --> 00:04:12.000
+and related to the content and, you know, thinking about space,
+
+00:04:12.000 --> 00:04:15.000
+is to connect sort of virtual worlds to space.
+
+00:04:15.000 --> 00:04:18.000
+I thought that might be a fun thing to talk about for a second.
+
+00:04:18.000 --> 00:04:23.000
+If you think about going into space, it's a fascinating thing.
+
+00:04:23.000 --> 00:04:26.000
+So many movies, so many kids, we all sort of
+
+00:04:26.000 --> 00:04:29.000
+dream about exploring space. Now, why is that?
+
+00:04:29.000 --> 00:04:31.000
+Stop for a moment and ask, why that conceit?
+
+00:04:31.000 --> 00:04:35.000
+Why do we as people want to do that?
+
+00:04:35.000 --> 00:04:37.000
+I think there's a couple of things. It's what we see in the movies --
+
+00:04:37.000 --> 00:04:40.000
+you know, it's this dream that we all share.
+
+00:04:40.000 --> 00:04:45.000
+One is that if you went into space you'd be able to begin again.
+
+00:04:45.000 --> 00:04:48.000
+In some sense, you would become someone else in that journey,
+
+00:04:48.000 --> 00:04:53.000
+because there wouldn't be -- you'd leave society and life as you know it, behind.
+
+00:04:53.000 --> 00:04:56.000
+And so inevitably, you would transform yourself --
+
+00:04:56.000 --> 00:05:00.000
+irreversibly, in all likelihood -- as you began this exploration.
+
+00:05:00.000 --> 00:05:04.000
+And then the second thing is that there's this tangible sense
+
+00:05:04.000 --> 00:05:10.000
+that if you travel far enough, you can find out there --
+
+00:05:10.000 --> 00:05:13.000
+oh, yeah -- you have no idea what you're going to find
+
+00:05:13.000 --> 00:05:15.000
+once you get there, into space.
+
+00:05:15.000 --> 00:05:17.000
+It's going to be different than here.
+
+00:05:17.000 --> 00:05:22.000
+And in fact, it's going to be so different than what we see here on earth
+
+00:05:22.000 --> 00:05:25.000
+that anything is going to be possible.
+
+00:05:25.000 --> 00:05:28.000
+So that's kind of the idea -- we as humans crave the idea of
+
+00:05:28.000 --> 00:05:33.000
+creating a new identity and going into a place where anything is possible.
+
+00:05:33.000 --> 00:05:36.000
+And I think that if you really sit and think about it,
+
+00:05:36.000 --> 00:05:40.000
+virtual worlds, and where we're going
+
+00:05:40.000 --> 00:05:44.000
+with more and more computing technology,
+
+00:05:44.000 --> 00:05:50.000
+represent essentially the likely, really tactically possible
+
+00:05:50.000 --> 00:05:52.000
+version of space exploration.
+
+00:05:52.000 --> 00:05:57.000
+We are moved by the idea of virtual worlds because, like space,
+
+00:05:57.000 --> 00:06:01.000
+they allow us to reinvent ourselves and they contain anything
+
+00:06:01.000 --> 00:06:03.000
+and everything, and probably anything could happen there.
+
+00:06:03.000 --> 00:06:06.000
+You know, to give you a size idea about scale, you know,
+
+00:06:06.000 --> 00:06:10.000
+comparing space to Second Life, most people don't realize, kind of --
+
+00:06:10.000 --> 00:06:13.000
+and then this is just like the Internet in the early '90s.
+
+00:06:13.000 --> 00:06:16.000
+In fact, Second Life virtual worlds are a lot like the Internet in the early '90s today:
+
+00:06:16.000 --> 00:06:18.000
+everybody's very excited,
+
+00:06:18.000 --> 00:06:21.000
+there's a lot of hype and excitement about one idea or the next
+
+00:06:21.000 --> 00:06:24.000
+from moment to moment, and then there's despair
+
+00:06:24.000 --> 00:06:26.000
+and everybody thinks the whole thing's not going to work.
+
+00:06:26.000 --> 00:06:28.000
+Everything that's happening with Second Life
+
+00:06:28.000 --> 00:06:31.000
+and more broadly with virtual worlds, all happened in the early '90s.
+
+00:06:31.000 --> 00:06:34.000
+We always play a game at the office where you can take any article
+
+00:06:34.000 --> 00:06:38.000
+and find the same article where you just replace the words "Second Life"
+
+00:06:38.000 --> 00:06:43.000
+with "Web," and "virtual reality" with "Internet."
+
+00:06:43.000 --> 00:06:45.000
+You can find exactly the same articles
+
+00:06:45.000 --> 00:06:49.000
+written about everything that people are observing.
+
+00:06:49.000 --> 00:06:56.000
+To give you an idea of scale, Second Life is about 20,000 CPUs at this point.
+
+00:06:56.000 --> 00:06:58.000
+It's about 20,000 computers connected together
+
+00:06:58.000 --> 00:07:02.000
+in three facilities in the United States right now,
+
+00:07:02.000 --> 00:07:06.000
+that are simulating this virtual space. And the virtual space itself --
+
+00:07:06.000 --> 00:07:10.000
+there's about 250,000 people a day that are wandering around in there,
+
+00:07:10.000 --> 00:07:14.000
+so the kind of, active population is something like a smallish city.
+
+00:07:14.000 --> 00:07:18.000
+The space itself is about 10 times the size of San Francisco,
+
+00:07:18.000 --> 00:07:21.000
+and it's about as densely built out.
+
+00:07:21.000 --> 00:07:24.000
+So it gives you an idea of scale. Now, it's expanding very rapidly --
+
+00:07:24.000 --> 00:07:28.000
+about five percent a month or so right now, in terms of new servers being added.
+
+00:07:28.000 --> 00:07:31.000
+And so of course, radically unlike the real world,
+
+00:07:31.000 --> 00:07:33.000
+and like the Internet, the whole thing is expanding
+
+00:07:33.000 --> 00:07:36.000
+very, very quickly, and historically exponentially.
+
+00:07:36.000 --> 00:07:39.000
+So that sort of space exploration thing is matched up here
+
+00:07:39.000 --> 00:07:41.000
+by the amount of content that's in there,
+
+00:07:41.000 --> 00:07:43.000
+and I think that amount is critical.
+
+00:07:43.000 --> 00:07:45.000
+It was critical with the virtual world
+
+00:07:45.000 --> 00:07:48.000
+that it be this space of truly infinite possibility.
+
+00:07:48.000 --> 00:07:50.000
+We're very sensitive to that as humans.
+
+00:07:50.000 --> 00:07:53.000
+You know, you know when you see it. You know when you can do anything in a space
+
+00:07:53.000 --> 00:07:55.000
+and you know when you can't.
+
+00:07:55.000 --> 00:07:57.000
+Second Life today is this 20,000 machines,
+
+00:07:57.000 --> 00:08:01.000
+and it's about 100 million or so user-created objects where, you know,
+
+00:08:01.000 --> 00:08:04.000
+an object would be something like this, possibly interactive.
+
+00:08:04.000 --> 00:08:06.000
+Tens of millions of them are thinking all the time;
+
+00:08:06.000 --> 00:08:08.000
+they have code attached to them.
+
+00:08:08.000 --> 00:08:11.000
+So it's a really large world already, in terms of the amount of stuff that's there
+
+00:08:11.000 --> 00:08:13.000
+and that's very important.
+
+00:08:13.000 --> 00:08:15.000
+If anybody plays, like, World of Warcraft,
+
+00:08:15.000 --> 00:08:18.000
+World of Warcraft comes on, like, four DVDs.
+
+00:08:18.000 --> 00:08:22.000
+Second Life, by comparison, has about 100 terabytes
+
+00:08:22.000 --> 00:08:27.000
+of user-created data, making it about 25,000 times larger.
+
+00:08:27.000 --> 00:08:31.000
+So again, like the Internet compared to AOL,
+
+00:08:31.000 --> 00:08:33.000
+and the sort of chat rooms and content on AOL at the time,
+
+00:08:33.000 --> 00:08:35.000
+what's happening here is something very different,
+
+00:08:35.000 --> 00:08:38.000
+because the sheer scale of what people can do
+
+00:08:38.000 --> 00:08:42.000
+when they're enabled to do anything they want is pretty amazing.
+
+00:08:42.000 --> 00:08:46.000
+The last big thought is that it is almost certainly true
+
+00:08:46.000 --> 00:08:49.000
+that whatever this is going to evolve into
+
+00:08:49.000 --> 00:08:53.000
+is going to be bigger in total usage than the Web itself.
+
+00:08:53.000 --> 00:08:56.000
+And let me justify that with two statements.
+
+00:08:56.000 --> 00:09:00.000
+Generically, what we use the Web for is to organize, exchange,
+
+00:09:00.000 --> 00:09:02.000
+create and consume information.
+
+00:09:02.000 --> 00:09:06.000
+It's kind of like Irene talking about Google being data-driven.
+
+00:09:06.000 --> 00:09:09.000
+I'd say I kind of think about the world as being information.
+
+00:09:09.000 --> 00:09:12.000
+Everything that we interact with, all the experiences that we have,
+
+00:09:12.000 --> 00:09:14.000
+is kind of us flowing through a sea of information
+
+00:09:14.000 --> 00:09:17.000
+and interacting with it in different ways.
+
+00:09:17.000 --> 00:09:23.000
+The Web puts information in the form of text and images.
+
+00:09:23.000 --> 00:09:28.000
+The topology, the geography of the Web is text-to-text links for the most part.
+
+00:09:28.000 --> 00:09:31.000
+That's one way of organizing information,
+
+00:09:31.000 --> 00:09:36.000
+but there are two things about the way you access information in a virtual world
+
+00:09:36.000 --> 00:09:39.000
+that I think are the important ways that they're very different
+
+00:09:39.000 --> 00:09:43.000
+and much better than what we've been able to do to date with the Web.
+
+00:09:43.000 --> 00:09:47.000
+The first is that, as I said, the --
+
+00:09:47.000 --> 00:09:50.000
+well, the first difference for virtual worlds is that
+
+00:09:50.000 --> 00:09:53.000
+information is presented to you in the virtual world
+
+00:09:53.000 --> 00:09:57.000
+using the most powerful iconic symbols
+
+00:09:57.000 --> 00:09:59.000
+that you can possibly use with human beings.
+
+00:09:59.000 --> 00:10:04.000
+So for example, C-H-A-I-R is the English word for that,
+
+00:10:04.000 --> 00:10:09.000
+but a picture of this is a universal symbol.
+
+00:10:09.000 --> 00:10:12.000
+Everybody knows what it means. There's no need to translate it.
+
+00:10:12.000 --> 00:10:15.000
+It's also more memorable if I show you that picture,
+
+00:10:15.000 --> 00:10:17.000
+and I show you C-H-A-I-R on a piece of paper.
+
+00:10:17.000 --> 00:10:20.000
+You can do tests that show that you'll remember
+
+00:10:20.000 --> 00:10:23.000
+that I was talking about a chair a couple of days later a lot better.
+
+00:10:23.000 --> 00:10:27.000
+So when you organize information using the symbols of our memory,
+
+00:10:27.000 --> 00:10:31.000
+using the most common symbols that we've been immersed in all our lives,
+
+00:10:31.000 --> 00:10:35.000
+you maximally both excite, stimulate,
+
+00:10:35.000 --> 00:10:37.000
+are able to remember, transfer and manipulate data.
+
+00:10:37.000 --> 00:10:41.000
+And so virtual worlds are the best way
+
+00:10:41.000 --> 00:10:45.000
+for us to essentially organize and experience information.
+
+00:10:45.000 --> 00:10:48.000
+And I think that's something that people have talked about for 20 years --
+
+00:10:48.000 --> 00:10:52.000
+you know, that 3D, that lifelike environments
+
+00:10:52.000 --> 00:10:54.000
+are really important in some magical way to us.
+
+00:10:54.000 --> 00:10:58.000
+But the second thing -- and I think this one is less obvious --
+
+00:10:58.000 --> 00:11:06.000
+is that the experience of creating, consuming, exploring that information
+
+00:11:06.000 --> 00:11:11.000
+is in the virtual world implicitly and inherently social.
+
+00:11:11.000 --> 00:11:14.000
+You are always there with other people.
+
+00:11:14.000 --> 00:11:20.000
+And we as humans are social creatures and must, or are aided by,
+
+00:11:20.000 --> 00:11:25.000
+or enjoy more, the consumption of information in the presence of others.
+
+00:11:25.000 --> 00:11:28.000
+It's essential to us. You can't escape it.
+
+00:11:28.000 --> 00:11:33.000
+When you're on Amazon.com and you're looking for digital cameras or whatever,
+
+00:11:33.000 --> 00:11:39.000
+you're on there right now, when you're on the site, with like 5,000 other people,
+
+00:11:39.000 --> 00:11:41.000
+but you can't talk to them.
+
+00:11:41.000 --> 00:11:45.000
+You can't just turn to the people that are browsing digital cameras
+
+00:11:45.000 --> 00:11:48.000
+on the same page as you, and ask them,
+
+00:11:48.000 --> 00:11:51.000
+"Hey, have you seen one of these before? Because I'm thinking about buying it."
+
+00:11:51.000 --> 00:11:55.000
+That experience of like, shopping together, just as a simple example,
+
+00:11:55.000 --> 00:11:57.000
+is an example of how as social creatures
+
+00:11:57.000 --> 00:11:59.000
+we want to experience information in that way.
+
+00:11:59.000 --> 00:12:05.000
+So that second point, that we inherently experience information together
+
+00:12:05.000 --> 00:12:07.000
+or want to experience it together,
+
+00:12:07.000 --> 00:12:10.000
+is critical to essentially, kind of,
+
+00:12:10.000 --> 00:12:15.000
+this trend of where we're going to use technology to connect us.
+
+00:12:15.000 --> 00:12:20.000
+And so I think, again, that it's likely that in the next decade or so
+
+00:12:20.000 --> 00:12:25.000
+these virtual worlds are going to be the most common way as human beings
+
+00:12:25.000 --> 00:12:30.000
+that we kind of use the electronics of the Internet, if you will,
+
+00:12:30.000 --> 00:12:34.000
+to be together, to consume information.
+
+00:12:34.000 --> 00:12:36.000
+You know, mapping in India -- that's such a great example.
+
+00:12:36.000 --> 00:12:41.000
+Maybe the solution there involves talking to other people in real time.
+
+00:12:41.000 --> 00:12:46.000
+Asking for advice, rather than any possible way
+
+00:12:46.000 --> 00:12:50.000
+that you could just statically organize a map.
+
+00:12:50.000 --> 00:12:52.000
+So I think that's another big point.
+
+00:12:52.000 --> 00:12:54.000
+I think that wherever this is all going,
+
+00:12:54.000 --> 00:12:59.000
+whether it's Second Life or its descendants, or something broader
+
+00:12:59.000 --> 00:13:02.000
+that happens all around the world at a lot of different points --
+
+00:13:02.000 --> 00:13:05.000
+this is what we're going to see the Internet used for,
+
+00:13:05.000 --> 00:13:09.000
+and total traffic and total unique users is going to invert,
+
+00:13:09.000 --> 00:13:14.000
+so that the Web and its bibliographic set of text and graphical information
+
+00:13:14.000 --> 00:13:17.000
+is going to become a tool or a part of that consumption pattern,
+
+00:13:17.000 --> 00:13:21.000
+but the pattern itself is going to happen mostly in this type of an environment.
+
+00:13:21.000 --> 00:13:25.000
+Big idea, but I think highly defensible.
+
+00:13:25.000 --> 00:13:28.000
+So let me stop there and bring John back,
+
+00:13:28.000 --> 00:13:31.000
+and maybe we can just have a longer conversation.
+
+00:13:31.000 --> 00:13:33.000
+Thank you. John. That's great.
+
+00:13:33.000 --> 00:13:38.000
+(Applause)
+
+00:13:38.000 --> 00:13:42.000
+John Hockenberry: Why is the creation, the impulse to create Second Life,
+
+00:13:42.000 --> 00:13:45.000
+not a utopian impulse?
+
+00:13:45.000 --> 00:13:47.000
+Like for example, in the 19th century,
+
+00:13:47.000 --> 00:13:51.000
+any number of works of literature that imagined alternative worlds
+
+00:13:51.000 --> 00:13:53.000
+were explicitly utopian.
+
+00:13:53.000 --> 00:13:57.000
+Philip Rosedale: I think that's great. That's such a deep question. Yeah.
+
+00:13:57.000 --> 00:14:02.000
+Is a virtual world likely to be a utopia, would be one way I'd say it.
+
+00:14:02.000 --> 00:14:06.000
+The answer is no, and I think the reason why is because
+
+00:14:06.000 --> 00:14:09.000
+the Web itself as a good example is profoundly bottoms-up.
+
+00:14:09.000 --> 00:14:14.000
+That idea of infinite possibility, that magic of anything can happen,
+
+00:14:14.000 --> 00:14:16.000
+only happens in an environment
+
+00:14:16.000 --> 00:14:19.000
+where you really know that there's a fundamental freedom
+
+00:14:19.000 --> 00:14:23.000
+at the level of the individual actor, at the level of the Lego blocks,
+
+00:14:23.000 --> 00:14:25.000
+if you will, that make up the virtual world.
+
+00:14:25.000 --> 00:14:28.000
+You have to have that level of freedom, and so I'm often asked that,
+
+00:14:28.000 --> 00:14:30.000
+you know, is there a, kind of, utopian or,
+
+00:14:30.000 --> 00:14:33.000
+is there a utopian tendency to Second Life and things like it,
+
+00:14:33.000 --> 00:14:36.000
+that you would create a world that has a grand scheme to it?
+
+00:14:36.000 --> 00:14:40.000
+Those top-down schemes are alienating to just about everybody,
+
+00:14:40.000 --> 00:14:43.000
+even if you mean well when you build them.
+
+00:14:43.000 --> 00:14:47.000
+And what's more, human society, when it's controlled,
+
+00:14:47.000 --> 00:14:49.000
+when you set out a grand scheme of rules,
+
+00:14:49.000 --> 00:14:53.000
+a new way of people interacting, or a new way of laying out a city, or whatever,
+
+00:14:53.000 --> 00:14:56.000
+that stuff historically has never scaled much beyond,
+
+00:14:56.000 --> 00:14:59.000
+you know -- I always laughingly say -- the Mall of America, you know,
+
+00:14:59.000 --> 00:15:02.000
+which is like, the largest piece of centrally designed architecture
+
+00:15:02.000 --> 00:15:04.000
+that, you know, has been built.
+
+00:15:04.000 --> 00:15:06.000
+JH: The Kremlin was pretty big.
+
+00:15:06.000 --> 00:15:09.000
+PR: The Kremlin, yeah. That's true. The whole complex.
+
+00:15:09.000 --> 00:15:13.000
+JH: Give me a story of a tool you created at the beginning
+
+00:15:13.000 --> 00:15:16.000
+in Second Life that you were pretty sure people would want to use
+
+00:15:16.000 --> 00:15:19.000
+in the creation of their avatars or in communicating
+
+00:15:19.000 --> 00:15:23.000
+that people actually in practice said, no, I'm not interested in that at all,
+
+00:15:23.000 --> 00:15:28.000
+and name something that you didn't come up with
+
+00:15:28.000 --> 00:15:31.000
+that almost immediately people began to demand.
+
+00:15:31.000 --> 00:15:34.000
+PR: I'm sure I can think of multiple examples of both of those.
+
+00:15:34.000 --> 00:15:37.000
+One of my favorites. I had this feature that I built into Second Life --
+
+00:15:37.000 --> 00:15:39.000
+I was really passionate about it.
+
+00:15:39.000 --> 00:15:42.000
+It was an ability to kind of walk up close to somebody
+
+00:15:42.000 --> 00:15:44.000
+and have a more private conversation,
+
+00:15:44.000 --> 00:15:47.000
+but it wasn't instant messaging because you had to sort of befriend somebody.
+
+00:15:47.000 --> 00:15:50.000
+It was just this idea that you could kind of have a private chat.
+
+00:15:50.000 --> 00:15:53.000
+I just remember it was one of those examples of data-driven design.
+
+00:15:53.000 --> 00:15:55.000
+I thought it was such a good idea from my perspective,
+
+00:15:55.000 --> 00:15:58.000
+and it was just absolutely never used, and we ultimately --
+
+00:15:58.000 --> 00:16:00.000
+I think we've now turned it off, if I remember.
+
+00:16:00.000 --> 00:16:03.000
+We finally gave up, took it out of the code.
+
+00:16:03.000 --> 00:16:07.000
+But more generally, you know, one other example I think about this,
+
+00:16:07.000 --> 00:16:10.000
+which is great relative to the utopian idea.
+
+00:16:10.000 --> 00:16:15.000
+Second Life originally had 16 simulators. It now has 20,000.
+
+00:16:15.000 --> 00:16:17.000
+So when it only had 16,
+
+00:16:17.000 --> 00:16:20.000
+it was only about as big as this college campus.
+
+00:16:20.000 --> 00:16:24.000
+And we had -- we zoned it, you know: we put a nightclub,
+
+00:16:24.000 --> 00:16:26.000
+we put a disco where you could dance,
+
+00:16:26.000 --> 00:16:30.000
+and then we had a place where you could fight with guns if you wanted to,
+
+00:16:30.000 --> 00:16:34.000
+and we had another place that was like a boardwalk, kind of a Coney Island.
+
+00:16:34.000 --> 00:16:37.000
+And we laid out the zoning, but of course,
+
+00:16:37.000 --> 00:16:40.000
+people could build all around it however they wanted to.
+
+00:16:40.000 --> 00:16:44.000
+And what was so amazing right from the start was that the idea
+
+00:16:44.000 --> 00:16:48.000
+that we had put out in the zoning concept, basically,
+
+00:16:48.000 --> 00:16:50.000
+was instantly and thoroughly ignored,
+
+00:16:50.000 --> 00:16:53.000
+and like, two months into the whole thing,
+
+00:16:53.000 --> 00:16:56.000
+-- which is really a small amount of time, even in Second Life time --
+
+00:16:56.000 --> 00:17:00.000
+I remember the users, the people who were then using Second Life,
+
+00:17:00.000 --> 00:17:04.000
+the residents came to me and said, we want to buy the disco --
+
+00:17:04.000 --> 00:17:08.000
+because I had built it -- we want to buy that land and raze it
+
+00:17:08.000 --> 00:17:11.000
+and put houses on it. And I sold it to them --
+
+00:17:11.000 --> 00:17:13.000
+I mean, we transferred ownership and they had a big party
+
+00:17:13.000 --> 00:17:15.000
+and blew up the entire building.
+
+00:17:15.000 --> 00:17:19.000
+And I remember that that was just so telling, you know,
+
+00:17:19.000 --> 00:17:21.000
+that you didn't know exactly what was going to happen.
+
+00:17:21.000 --> 00:17:24.000
+When you think about stuff that people have built that's popular --
+
+00:17:24.000 --> 00:17:27.000
+JH: CBGB's has to close eventually, you know. That's the rule.
+
+00:17:27.000 --> 00:17:32.000
+PR: Exactly. And it -- but it closed on day one, basically, in Internet time.
+
+00:17:33.000 --> 00:17:36.000
+You know, an example of something -- pregnancy.
+
+00:17:36.000 --> 00:17:39.000
+You can have a baby in Second Life.
+
+00:17:39.000 --> 00:17:45.000
+This is done entirely using, kind of, the tools that are built into Second Life,
+
+00:17:45.000 --> 00:17:49.000
+so the innate concept of becoming pregnant and having a baby, of course --
+
+00:17:49.000 --> 00:17:54.000
+Second Life is, at the platform level, at the level of the company -- at Linden Lab --
+
+00:17:54.000 --> 00:17:57.000
+Second Life has no game properties to it whatsoever.
+
+00:17:57.000 --> 00:17:59.000
+There is no attempt to structure the experience,
+
+00:17:59.000 --> 00:18:02.000
+to make it utopian in that sense that we put into it.
+
+00:18:02.000 --> 00:18:05.000
+So of course, we never would have put a mechanism for having babies or, you know,
+
+00:18:05.000 --> 00:18:08.000
+taking two avatars and merging them, or something.
+
+00:18:08.000 --> 00:18:13.000
+But people built the ability to have babies and care for babies
+
+00:18:13.000 --> 00:18:17.000
+as a purchasable experience that you can have in Second Life and so --
+
+00:18:17.000 --> 00:18:20.000
+I mean, that's a pretty fascinating example of, you know,
+
+00:18:20.000 --> 00:18:22.000
+what goes on in the overall economy.
+
+00:18:22.000 --> 00:18:24.000
+And of course, the existence of an economy is another idea.
+
+00:18:24.000 --> 00:18:27.000
+I didn't talk about it, but it's a critical feature.
+
+00:18:27.000 --> 00:18:30.000
+When people are given the opportunity to create in the world,
+
+00:18:30.000 --> 00:18:32.000
+there's really two things they want.
+
+00:18:32.000 --> 00:18:35.000
+One is fair ownership of the things they create.
+
+00:18:35.000 --> 00:18:37.000
+And then the second one is -- if they feel like it,
+
+00:18:37.000 --> 00:18:39.000
+and they're not going to do it in every case, but in many they are --
+
+00:18:39.000 --> 00:18:43.000
+they want to actually be able to sell that creation
+
+00:18:43.000 --> 00:18:45.000
+as a way of providing for their own livelihood.
+
+00:18:45.000 --> 00:18:48.000
+True on the Web -- also true in Second Life.
+
+00:18:48.000 --> 00:18:50.000
+And so the existence of an economy is critical.
+
+00:18:50.000 --> 00:18:54.000
+JH: Questions for Philip Rosedale? Right here.
+
+00:18:54.000 --> 00:18:57.000
+(Audience: Well, first an observation, which is that you look like a character.)
+
+00:18:57.000 --> 00:19:02.000
+JH: The observation is, Philip has been accused of looking like a character,
+
+00:19:02.000 --> 00:19:04.000
+an avatar, in Second Life.
+
+00:19:04.000 --> 00:19:06.000
+Respond, and then we'll get the rest of your question.
+
+00:19:06.000 --> 00:19:08.000
+PR: But I don't look like my avatar.
+
+00:19:08.000 --> 00:19:10.000
+(Laughter)
+
+00:19:10.000 --> 00:19:12.000
+How many people here know what my avatar looks like?
+
+00:19:12.000 --> 00:19:14.000
+That's probably not very many.
+
+00:19:14.000 --> 00:19:16.000
+JH: Are you ripping off somebody else's avatar with that, sort of --
+
+
+00:19:16.000 --> 00:19:19.000
+PR: No, no. I didn't. One of the other guys at work had a fantastic avatar --
+
+00:19:19.000 --> 00:19:22.000
+a female avatar -- that I used to be once in a while.
+
+00:19:22.000 --> 00:19:28.000
+But my avatar is a guy wearing chaps.
+
+00:19:29.000 --> 00:19:32.000
+Spiky hair -- spikier than this. Kind of orange hair.
+
+00:19:32.000 --> 00:19:37.000
+Handlebar mustache. Kind of a Village People sort of a character.
+
+00:19:37.000 --> 00:19:39.000
+So, very cool.
+
+00:19:39.000 --> 00:19:41.000
+JH: And your question?
+
+00:19:41.000 --> 00:19:44.000
+(Audience: [Unclear].)
+
+00:19:44.000 --> 00:19:50.000
+JH: The question is, there appears to be a lack of cultural fine-tuning in Second Life.
+
+00:19:50.000 --> 00:19:52.000
+It doesn't seem to have its own culture,
+
+00:19:52.000 --> 00:19:54.000
+and the sort of differences that exist in the real world
+
+00:19:54.000 --> 00:19:57.000
+aren't translated into the Second Life map.
+
+00:19:57.000 --> 00:19:59.000
+PR: Well, first of all, we're very early,
+
+00:19:59.000 --> 00:20:02.000
+so this has only been going on for a few years.
+
+00:20:02.000 --> 00:20:05.000
+And so part of what we see is the same evolution of human behavior
+
+00:20:05.000 --> 00:20:07.000
+that you see in emerging societies.
+
+00:20:07.000 --> 00:20:11.000
+So a fair criticism -- is what it is -- of Second Life today is that
+
+00:20:11.000 --> 00:20:16.000
+it's more like the Wild West than it is like Rome, from a cultural standpoint.
+
+00:20:16.000 --> 00:20:22.000
+That said, the evolution of, and the nuanced interaction that creates culture,
+
+00:20:22.000 --> 00:20:25.000
+is happening at 10 times the speed of the real world,
+
+00:20:25.000 --> 00:20:30.000
+and in an environment where, if you walk into a bar in Second Life,
+
+00:20:30.000 --> 00:20:33.000
+65 percent of the people there are not in the United States,
+
+00:20:33.000 --> 00:20:38.000
+and in fact are speaking their, you know, various and different languages.
+
+00:20:38.000 --> 00:20:40.000
+In fact, one of the ways to make money in Second Life
+
+00:20:40.000 --> 00:20:45.000
+is to make really cool translators that you drag onto your body
+
+00:20:45.000 --> 00:20:47.000
+and they basically, kind of, pop up on your screen
+
+00:20:47.000 --> 00:20:50.000
+and allow you to use Google or Babel Fish
+
+00:20:50.000 --> 00:20:53.000
+or one of the other online text translators to on-the-fly
+
+00:20:53.000 --> 00:20:58.000
+translate spoken -- I'm sorry -- typed text between individuals.
+
+00:20:58.000 --> 00:21:02.000
+And so, the multicultural nature and the sort of cultural melting pot
+
+00:21:02.000 --> 00:21:05.000
+that's happening inside Second Life is quite --
+
+00:21:05.000 --> 00:21:10.000
+I think, quite remarkable relative to what in real human terms
+
+00:21:10.000 --> 00:21:12.000
+in the real world we've ever been able to achieve.
+
+00:21:12.000 --> 00:21:15.000
+So, I think that culture will fine-tune, it will emerge,
+
+00:21:15.000 --> 00:21:19.000
+but we still have some years to wait while that happens,
+
+00:21:19.000 --> 00:21:21.000
+as you would naturally expect.
+
+00:21:21.000 --> 00:21:24.000
+JH: Other questions? Right here.
+
+00:21:24.000 --> 00:21:26.000
+(Audience: What's your demographic?)
+
+00:21:26.000 --> 00:21:28.000
+JH: What's your demographic?
+
+00:21:28.000 --> 00:21:30.000
+PR: So, the question is, what's the demographic.
+
+00:21:30.000 --> 00:21:35.000
+So, the average age of a person in Second Life is 32,
+
+00:21:35.000 --> 00:21:40.000
+however, the use of Second Life increases dramatically
+
+00:21:40.000 --> 00:21:45.000
+as your physical age increases. So as you go from age 30 to age 60 --
+
+00:21:45.000 --> 00:21:47.000
+and there are many people in their sixties using Second Life --
+
+00:21:47.000 --> 00:21:52.000
+this is also not a sharp curve -- it's very, very distributed --
+
+00:21:52.000 --> 00:21:56.000
+usage goes up in terms of, like, hours per week by 40 percent
+
+00:21:56.000 --> 00:22:00.000
+as you go from age 30 to age 60 in real life, so there's not --
+
+00:22:00.000 --> 00:22:02.000
+many people make the mistake of believing that Second Life
+
+00:22:02.000 --> 00:22:07.000
+is some kind of an online game. Actually it's generally unappealing --
+
+00:22:07.000 --> 00:22:10.000
+I'm just speaking broadly and critically --
+
+00:22:10.000 --> 00:22:12.000
+it's not very appealing to people that play online video games,
+
+00:22:12.000 --> 00:22:16.000
+because the graphics are not yet equivalent to --
+
+00:22:16.000 --> 00:22:17.000
+I mean, these are very nice pictures,
+
+00:22:17.000 --> 00:22:19.000
+but in general the graphics are not quite equivalent
+
+00:22:19.000 --> 00:22:23.000
+to the fine-tuned graphics that you see in a Grand Theft Auto 4.
+
+00:22:23.000 --> 00:22:26.000
+So average age: 32. I mentioned
+
+00:22:26.000 --> 00:22:28.000
+65 percent of the users are not in the United States.
+
+00:22:28.000 --> 00:22:31.000
+The distribution amongst countries is extremely broad.
+
+00:22:31.000 --> 00:22:34.000
+There's users from, you know, virtually every country in the world now in Second Life.
+
+00:22:34.000 --> 00:22:38.000
+The dominant ones are -- if you take the UK and Europe,
+
+00:22:38.000 --> 00:22:42.000
+together they make up about 55 percent of the usage base in Second Life.
+
+00:22:42.000 --> 00:22:44.000
+In terms of psychographic --
+
+00:22:44.000 --> 00:22:49.000
+oh, men and women: men and women are almost equally matched in Second Life,
+
+00:22:49.000 --> 00:22:54.000
+so about 45 percent of the people online right now on Second Life are women.
+
+00:22:54.000 --> 00:22:56.000
+Women use Second Life, though,
+
+00:22:56.000 --> 00:22:59.000
+about 30 to 40 percent more, on an hours basis, than men do,
+
+00:22:59.000 --> 00:23:01.000
+meaning that more men sign up than women,
+
+00:23:01.000 --> 00:23:04.000
+and more women stay and use it than men.
+
+00:23:04.000 --> 00:23:06.000
+So that's another demographic fact.
+
+00:23:06.000 --> 00:23:11.000
+In terms of psychographic, you know, the people in Second Life
+
+00:23:11.000 --> 00:23:15.000
+are remarkably dissimilar relative to what you might think,
+
+00:23:15.000 --> 00:23:17.000
+when you go in and talk to them and meet them, and I would, you know,
+
+00:23:17.000 --> 00:23:19.000
+challenge you to just do this and find out.
+
+00:23:19.000 --> 00:23:22.000
+But it's not a bunch of programmers.
+
+00:23:22.000 --> 00:23:26.000
+It's not easy to describe as a demographic.
+
+00:23:26.000 --> 00:23:30.000
+If I had to just sort of paint a broad picture, I'd say, remember the people
+
+00:23:30.000 --> 00:23:34.000
+who were really getting into eBay in the first few years of eBay?
+
+00:23:34.000 --> 00:23:37.000
+Maybe a little bit like that: in other words, people who are early adopters.
+
+00:23:37.000 --> 00:23:40.000
+They tend to be creative. They tend to be entrepreneurial.
+
+00:23:40.000 --> 00:23:44.000
+A lot of them -- about 55,000 people so far -- are cash-flow positive:
+
+00:23:44.000 --> 00:23:47.000
+they're making money from what -- I mean, real-world money --
+
+00:23:47.000 --> 00:23:51.000
+from what they're doing in Second Life, so it's a very build --
+
+00:23:51.000 --> 00:23:54.000
+still a creative, building things, build-your-own-business
+
+00:23:54.000 --> 00:23:56.000
+type of an orientation. So, that's it.
+
+00:23:56.000 --> 00:23:58.000
+JH: You describe yourself, Philip, as someone who was really creative
+
+00:23:58.000 --> 00:24:02.000
+when you were young and, you know, liked to make things.
+
+00:24:02.000 --> 00:24:05.000
+I mean, it's not often that you hear somebody
+
+00:24:05.000 --> 00:24:07.000
+describe themselves as really creative.
+
+00:24:07.000 --> 00:24:11.000
+I suspect that's possibly a euphemism for C student
+
+00:24:11.000 --> 00:24:14.000
+who spent a lot of time in his room? Is it possible?
+
+00:24:14.000 --> 00:24:15.000
+(Laughter)
+
+00:24:15.000 --> 00:24:19.000
+PR: I was a -- there were times I was a C student. You know, it's funny.
+
+00:24:19.000 --> 00:24:21.000
+When I got to college -- I studied physics in college --
+
+00:24:21.000 --> 00:24:23.000
+and I got really -- it was funny,
+
+00:24:23.000 --> 00:24:28.000
+because I was definitely a more antisocial kid. I read all the time.
+
+00:24:28.000 --> 00:24:33.000
+I was shy. I don't seem like it now, but I was very shy.
+
+00:24:33.000 --> 00:24:35.000
+Moved around a bunch -- had that experience too.
+
+00:24:35.000 --> 00:24:38.000
+So I did, kind of, I think, live in my own world,
+
+00:24:38.000 --> 00:24:41.000
+and obviously that helps, you know, engage your real interest in something.
+
+00:24:41.000 --> 00:24:44.000
+JH: So you're on your fifth life at this point?
+
+00:24:44.000 --> 00:24:50.000
+PR: If you count, yeah, cities. So -- but I did --
+
+00:24:50.000 --> 00:24:54.000
+and I didn't do -- I think I didn't do as well in school as I could have. I think you're right.
+
+00:24:54.000 --> 00:24:58.000
+I wasn't, like, an obsessed -- you know, get A's kind of guy.
+
+00:24:58.000 --> 00:25:00.000
+I was going to say, I had a great social experience
+
+00:25:00.000 --> 00:25:02.000
+when I went to college that I hadn't had before,
+
+00:25:02.000 --> 00:25:05.000
+a more fraternal experience, where I met six or seven other guys
+
+00:25:05.000 --> 00:25:08.000
+who I studied physics with, and I was very competitive with them,
+
+00:25:08.000 --> 00:25:12.000
+so then I started to get A's. But you're right: I wasn't an A student.
+
+00:25:12.000 --> 00:25:14.000
+JH: Last question. Right here.
+
+00:25:14.000 --> 00:25:17.000
+(Audience: In the pamphlet, there's a statement -- )
+
+00:25:17.000 --> 00:25:19.000
+JH: You want to paraphrase that?
+
+00:25:19.000 --> 00:25:21.000
+PR: Yeah, so let me restate that.
+
+00:25:21.000 --> 00:25:24.000
+So, you're saying that in the pamphlet there's a statement
+
+00:25:24.000 --> 00:25:28.000
+that we may come to prefer our digital selves to our real ones --
+
+00:25:28.000 --> 00:25:32.000
+our more malleable or manageable digital identities to our real identities --
+
+00:25:32.000 --> 00:25:35.000
+and that in fact, much of human life and human experience
+
+00:25:35.000 --> 00:25:38.000
+may move into the digital realm.
+
+00:25:38.000 --> 00:25:41.000
+And then that's kind of a horrifying thought, of course.
+
+00:25:41.000 --> 00:25:45.000
+That's a frightening change, frightening disruption.
+
+00:25:45.000 --> 00:25:48.000
+I guess, and you're asking, what do I think about that? How do I --
+
+00:25:48.000 --> 00:25:50.000
+JH: What's your response to the people who would say, that's horrifying?
+
+00:25:50.000 --> 00:25:52.000
+(Audience: If someone would say to you, I find that disturbing,
+
+00:25:52.000 --> 00:25:54.000
+what would be your response?)
+
+00:25:54.000 --> 00:25:57.000
+PR: Well, I'd say a couple of things.
+
+00:25:57.000 --> 00:26:00.000
+One is, it's disturbing like the Internet or electricity was.
+
+00:26:00.000 --> 00:26:04.000
+That is to say, it's a big change, but it isn't avoidable.
+
+00:26:04.000 --> 00:26:09.000
+So, no amount of backpedaling or intentional behavior
+
+00:26:09.000 --> 00:26:12.000
+or political behavior is going to keep these technology changes
+
+00:26:12.000 --> 00:26:14.000
+from connecting us together,
+
+00:26:14.000 --> 00:26:16.000
+because the basic motive that people have --
+
+00:26:16.000 --> 00:26:20.000
+to be creative and entrepreneurial -- is going to drive energy
+
+00:26:20.000 --> 00:26:23.000
+into these virtual worlds in the same way that it has with the Web.
+
+00:26:23.000 --> 00:26:28.000
+So this change, I believe, is a huge disruptive change.
+
+00:26:28.000 --> 00:26:32.000
+Obviously, I'm the optimist and a big believer in what's going on here,
+
+00:26:32.000 --> 00:26:36.000
+but I think that as -- even a sober, you know, the most sober,
+
+00:26:36.000 --> 00:26:39.000
+disconnected thinker about this, looking at it from the side,
+
+00:26:39.000 --> 00:26:41.000
+has to conclude, based on the data,
+
+00:26:41.000 --> 00:26:43.000
+that with those kinds of economic forces at play,
+
+00:26:43.000 --> 00:26:46.000
+there is definitely going to be a sea change,
+
+00:26:46.000 --> 00:26:49.000
+and that change is going to be intensely disruptive
+
+00:26:49.000 --> 00:26:53.000
+relative to our concept of our very lives and being,
+
+00:26:53.000 --> 00:26:55.000
+and our identities, as well.
+
+00:26:55.000 --> 00:26:57.000
+I don't think we can get away from those changes.
+
+00:26:57.000 --> 00:27:00.000
+I think generally, we were talking about this --
+
+00:27:00.000 --> 00:27:06.000
+I think that generally being present in a virtual world and being challenged by it,
+
+00:27:06.000 --> 00:27:10.000
+being -- surviving there, having a good life there, so to speak,
+
+00:27:10.000 --> 00:27:13.000
+is a challenge because of the multiculturality of it,
+
+00:27:13.000 --> 00:27:18.000
+because of the languages, because of the entrepreneurial richness of it,
+
+00:27:18.000 --> 00:27:21.000
+the sort of flea market nature, if you will, of the virtual world today.
+
+00:27:21.000 --> 00:27:27.000
+It puts challenges on us to rise to. We must be better than ourselves, in many ways.
+
+00:27:27.000 --> 00:27:30.000
+We must learn things and, you know, be more tolerant,
+
+00:27:30.000 --> 00:27:36.000
+and be smarter and learn faster and be more creative, perhaps,
+
+00:27:36.000 --> 00:27:38.000
+than we are typically in our real lives.
+
+00:27:38.000 --> 00:27:40.000
+And I think that if that is true of virtual worlds,
+
+00:27:40.000 --> 00:27:44.000
+then these changes, though scary -- and, I say, inevitable --
+
+00:27:44.000 --> 00:27:46.000
+are ultimately for the better,
+
+00:27:46.000 --> 00:27:49.000
+and therefore something that we should ride out.
+
+00:27:49.000 --> 00:27:53.000
+But I would say that -- and many other authors and speakers about this,
+
+00:27:53.000 --> 00:27:56.000
+other than me, have said, you know, fasten your seat belts
+
+00:27:56.000 --> 00:27:59.000
+because the change is coming. There are going to be big changes.
+
+00:27:59.000 --> 00:28:01.000
+JH: Philip Rosedale, thank you very much.
+
+00:28:01.000 --> 00:28:06.000
+(Applause)
+

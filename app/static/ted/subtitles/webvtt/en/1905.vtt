@@ -1,0 +1,952 @@
+WEBVTT
+
+00:00:00.360 --> 00:00:01.779
+It's a pleasure to be here
+
+00:00:01.779 --> 00:00:03.728
+in Edinburgh, Scotland,
+
+00:00:03.728 --> 00:00:06.891
+the birthplace of the needle and syringe.
+
+00:00:06.891 --> 00:00:09.732
+Less than a mile from here in this direction,
+
+00:00:09.732 --> 00:00:11.706
+in 1853 a Scotsman
+
+00:00:11.706 --> 00:00:14.134
+filed his very first patent on the needle and syringe.
+
+00:00:14.134 --> 00:00:16.236
+His name was Alexander Wood,
+
+00:00:16.236 --> 00:00:19.987
+and it was at the Royal College of Physicians.
+
+00:00:19.987 --> 00:00:22.465
+This is the patent.
+
+00:00:22.465 --> 00:00:25.176
+What blows my mind when I look at it even today
+
+00:00:25.176 --> 00:00:27.349
+is that it looks almost identical
+
+00:00:27.349 --> 00:00:29.106
+to the needle in use today.
+
+00:00:29.106 --> 00:00:32.666
+Yet, it's 160 years old.
+
+00:00:32.666 --> 00:00:35.161
+So we turn to the field of vaccines.
+
+00:00:35.161 --> 00:00:37.390
+Most vaccines are delivered with
+
+00:00:37.390 --> 00:00:41.534
+the needle and syringe, 
+this 160-year-old technology.
+
+00:00:41.534 --> 00:00:43.445
+And credit where it's due -- on many levels,
+
+00:00:43.445 --> 00:00:47.096
+vaccines are a successful technology.
+
+00:00:47.096 --> 00:00:50.985
+After clean water and sanitation,
+
+00:00:50.985 --> 00:00:55.259
+vaccines are the one technology that has increased
+
+00:00:55.259 --> 00:00:57.789
+our life span the most.
+
+00:00:57.789 --> 00:01:00.264
+That's a pretty hard act to beat.
+
+00:01:00.264 --> 00:01:02.057
+But just like any other technology,
+
+00:01:02.057 --> 00:01:03.902
+vaccines have their shortcomings,
+
+00:01:03.902 --> 00:01:06.538
+and the needle and syringe
+
+00:01:06.538 --> 00:01:08.741
+is a key part within that narrative --
+
+00:01:08.741 --> 00:01:11.670
+this old technology.
+
+00:01:11.670 --> 00:01:13.969
+So let's start with the obvious:
+
+00:01:13.969 --> 00:01:17.451
+Many of us don't like the needle and syringe.
+
+00:01:17.451 --> 00:01:19.365
+I share that view.
+
+00:01:19.365 --> 00:01:22.557
+However, 20 percent of the population
+
+00:01:22.557 --> 00:01:24.833
+have a thing called needle phobia.
+
+00:01:24.833 --> 00:01:26.594
+That's more than disliking the needle;
+
+00:01:26.594 --> 00:01:29.063
+that is actively avoiding being vaccinated
+
+00:01:29.063 --> 00:01:30.927
+because of needle phobia.
+
+00:01:30.927 --> 00:01:34.934
+And that's problematic in terms 
+of the rollout of vaccines.
+
+00:01:34.934 --> 00:01:37.079
+Now, related to this is another key issue,
+
+00:01:37.079 --> 00:01:39.412
+which is needlestick injuries.
+
+00:01:39.412 --> 00:01:41.384
+And the WHO has figures
+
+00:01:41.384 --> 00:01:45.219
+that suggest about 1.3 million deaths per year
+
+00:01:45.219 --> 00:01:47.611
+take place due to cross-contamination
+
+00:01:47.611 --> 00:01:48.895
+with needlestick injuries.
+
+00:01:48.895 --> 00:01:51.577
+These are early deaths that take place.
+
+00:01:51.577 --> 00:01:54.558
+Now, these are two things that 
+you probably may have heard of,
+
+00:01:54.558 --> 00:01:56.438
+but there are two other shortcomings
+
+00:01:56.438 --> 00:01:58.922
+of the needle and syringe you 
+may not have heard about.
+
+00:01:58.922 --> 00:02:00.903
+One is it could be holding back
+
+00:02:00.903 --> 00:02:02.382
+the next generation of vaccines
+
+00:02:02.382 --> 00:02:04.671
+in terms of their immune responses.
+
+00:02:04.671 --> 00:02:07.598
+And the second is that it could be responsible
+
+00:02:07.598 --> 00:02:12.210
+for the problem of the cold chain
+that I'll tell you about as well.
+
+00:02:12.210 --> 00:02:13.792
+I'm going to tell you about some work
+
+00:02:13.792 --> 00:02:15.860
+that my team and I are doing in Australia
+
+00:02:15.860 --> 00:02:17.601
+at the University of Queensland
+
+00:02:17.601 --> 00:02:21.998
+on a technology designed to 
+tackle those four problems.
+
+00:02:21.998 --> 00:02:26.343
+And that technology is called the Nanopatch.
+
+00:02:26.343 --> 00:02:32.817
+Now, this is a specimen of the Nanopatch.
+
+00:02:32.817 --> 00:02:34.466
+To the naked eye
+
+00:02:34.466 --> 00:02:36.650
+it just looks like a square
+
+00:02:36.650 --> 00:02:39.549
+smaller than a postage stamp,
+
+00:02:39.549 --> 00:02:42.215
+but under a microscope
+
+00:02:42.215 --> 00:02:44.533
+what you see are thousands of tiny projections
+
+00:02:44.533 --> 00:02:46.754
+that are invisible to the human eye.
+
+00:02:46.754 --> 00:02:48.511
+And there's about 4,000 projections
+
+00:02:48.511 --> 00:02:51.893
+on this particular square compared to the needle.
+
+00:02:51.907 --> 00:02:54.551
+And I've designed those projections
+
+00:02:54.551 --> 00:02:58.601
+to serve a key role, which is to 
+work with the skin's immune system.
+
+00:02:58.601 --> 00:03:00.996
+So that's a very important function
+
+00:03:00.996 --> 00:03:02.452
+tied in with the Nanopatch.
+
+00:03:02.452 --> 00:03:04.699
+Now we make the Nanopatch
+
+00:03:04.699 --> 00:03:07.236
+with a technique
+
+00:03:07.236 --> 00:03:09.615
+called deep reactive ion etching.
+
+00:03:09.615 --> 00:03:11.659
+And this particular technique 
+is one that's been borrowed
+
+00:03:11.659 --> 00:03:13.286
+from the semiconductor industry,
+
+00:03:13.286 --> 00:03:15.122
+and therefore is low cost
+
+00:03:15.122 --> 00:03:17.316
+and can be rolled out in large numbers.
+
+00:03:17.316 --> 00:03:22.382
+Now we dry-coat vaccines to 
+the projections of the Nanopatch
+
+00:03:22.382 --> 00:03:24.201
+and apply it to the skin.
+
+00:03:24.201 --> 00:03:28.757
+Now, the simplest form of application
+
+00:03:28.757 --> 00:03:30.779
+is using our finger,
+
+00:03:30.779 --> 00:03:33.399
+but our finger has some limitations,
+
+00:03:33.399 --> 00:03:35.483
+so we've devised an applicator.
+
+00:03:35.483 --> 00:03:36.970
+And it's a very simple device --
+
+00:03:36.970 --> 00:03:39.088
+you could call it a sophisticated finger.
+
+00:03:39.088 --> 00:03:42.128
+It's a spring-operated device.
+
+00:03:42.128 --> 00:03:45.950
+What we do is when we apply 
+the Nanopatch to the skin as so --
+
+00:03:45.950 --> 00:03:47.819
+(Click) --
+
+00:03:47.819 --> 00:03:50.736
+immediately a few things happen.
+
+00:03:50.736 --> 00:03:54.783
+So firstly, the projections on the Nanopatch
+
+00:03:54.783 --> 00:03:56.460
+breach through the tough outer layer
+
+00:03:56.460 --> 00:03:58.506
+and the vaccine is very quickly released --
+
+00:03:58.506 --> 00:04:00.854
+within less than a minute, in fact.
+
+00:04:00.854 --> 00:04:03.420
+Then we can take the Nanopatch off
+
+00:04:03.420 --> 00:04:05.358
+and discard it.
+
+00:04:05.358 --> 00:04:11.244
+And indeed we can make 
+a reuse of the applicator itself.
+
+00:04:11.244 --> 00:04:13.980
+So that gives you an idea of the Nanopatch,
+
+00:04:13.980 --> 00:04:16.556
+and immediately you can see some key advantages.
+
+00:04:16.556 --> 00:04:18.496
+We've talked about it being needle-free --
+
+00:04:18.496 --> 00:04:20.730
+these are projections that you can't even see --
+
+00:04:20.730 --> 00:04:22.441
+and, of course, we get around
+
+00:04:22.441 --> 00:04:25.514
+the needle phobia issue as well.
+
+00:04:25.514 --> 00:04:27.445
+Now, if we take a step back and think about
+
+00:04:27.445 --> 00:04:30.841
+these other two really important advantages:
+
+00:04:30.841 --> 00:04:34.877
+One is improved immune 
+responses through delivery,
+
+00:04:34.877 --> 00:04:38.471
+and the second is getting rid of the cold chain.
+
+00:04:38.471 --> 00:04:40.843
+So let's start with the first one, 
+this immunogenicity idea.
+
+00:04:40.843 --> 00:04:42.849
+It takes a little while to get our heads around,
+
+00:04:42.849 --> 00:04:46.578
+but I'll try to explain it in simple terms.
+
+00:04:46.578 --> 00:04:48.428
+So I'll take a step back and explain to you
+
+00:04:48.428 --> 00:04:51.838
+how vaccines work in a simple way.
+
+00:04:51.838 --> 00:04:54.415
+So vaccines work by introducing into our body
+
+00:04:54.415 --> 00:04:56.518
+a thing called an antigen
+
+00:04:56.518 --> 00:04:59.695
+which is a safe form of a germ.
+
+00:04:59.695 --> 00:05:01.715
+Now that safe germ, that antigen,
+
+00:05:01.715 --> 00:05:05.220
+tricks our body into mounting an immune response,
+
+00:05:05.220 --> 00:05:09.288
+learning and remembering 
+how to deal with intruders.
+
+00:05:09.288 --> 00:05:11.656
+When the real intruder comes along
+
+00:05:11.656 --> 00:05:13.417
+the body quickly mounts an immune response
+
+00:05:13.417 --> 00:05:15.053
+to deal with that vaccine
+
+00:05:15.053 --> 00:05:16.953
+and neutralizes the infection.
+
+00:05:16.953 --> 00:05:18.643
+So it does that well.
+
+00:05:18.643 --> 00:05:20.980
+Now, the way it's done today 
+with the needle and syringe,
+
+00:05:20.980 --> 00:05:23.431
+most vaccines are delivered that way --
+
+00:05:23.431 --> 00:05:25.115
+with this old technology and the needle.
+
+00:05:25.115 --> 00:05:30.264
+But it could be argued that the needle 
+is holding back our immune responses;
+
+00:05:30.264 --> 00:05:33.706
+it's missing our immune sweet spot in the skin.
+
+00:05:33.706 --> 00:05:36.702
+To describe this idea,
+
+00:05:36.702 --> 00:05:39.191
+we need to take a journey through the skin,
+
+00:05:39.191 --> 00:05:41.815
+starting with one of those projections
+
+00:05:41.815 --> 00:05:44.260
+and applying the Nanopatch to the skin.
+
+00:05:44.260 --> 00:05:46.660
+And we see this kind of data.
+
+00:05:46.660 --> 00:05:48.469
+Now, this is real data --
+
+00:05:48.469 --> 00:05:50.815
+that thing that we can see there is one projection
+
+00:05:50.815 --> 00:05:53.271
+from the Nanopatch that's been applied to the skin
+
+00:05:53.271 --> 00:05:55.196
+and those colors are different layers.
+
+00:05:55.196 --> 00:05:56.480
+Now, to give you an idea of scale,
+
+00:05:56.480 --> 00:05:58.420
+if the needle was shown here, it would be too big.
+
+00:05:58.420 --> 00:05:59.945
+It would be 10 times bigger
+
+00:05:59.945 --> 00:06:02.867
+than the size of that screen,
+going 10 times deeper as well.
+
+00:06:02.867 --> 00:06:05.082
+It's off the grid entirely.
+
+00:06:05.082 --> 00:06:08.275
+You can see immediately that we 
+have those projections in the skin.
+
+00:06:08.275 --> 00:06:11.327
+That red layer is a tough outer layer of dead skin,
+
+00:06:11.327 --> 00:06:13.834
+but the brown layer and the magenta layer
+
+00:06:13.841 --> 00:06:17.022
+are jammed full of immune cells.
+
+00:06:17.022 --> 00:06:18.878
+As one example, in the brown layer
+
+00:06:18.878 --> 00:06:21.232
+there's a certain type of cell 
+called a Langerhans cell --
+
+00:06:21.232 --> 00:06:23.445
+every square millimeter of our body
+
+00:06:23.445 --> 00:06:26.465
+is jammed full of those Langerhans cells,
+
+00:06:26.465 --> 00:06:28.568
+those immune cells, and 
+there's others shown as well
+
+00:06:28.568 --> 00:06:30.363
+that we haven't stained in this image.
+
+00:06:30.363 --> 00:06:32.543
+But you can immediately see that the Nanopatch
+
+00:06:32.543 --> 00:06:34.280
+achieves that penetration indeed.
+
+00:06:34.280 --> 00:06:37.709
+We target thousands upon thousands 
+of these particular cells
+
+00:06:37.709 --> 00:06:40.047
+just residing within a hair's width
+
+00:06:40.047 --> 00:06:43.328
+of the surface of the skin.
+
+00:06:43.328 --> 00:06:47.090
+Now, as the guy that's invented
+this thing and designed it to do that,
+
+00:06:47.090 --> 00:06:50.526
+I found that exciting. But so what?
+
+00:06:50.526 --> 00:06:52.478
+So what if you've targeted cells?
+
+00:06:52.478 --> 00:06:55.281
+In the world of vaccines, what does that mean?
+
+00:06:55.281 --> 00:06:57.702
+The world of vaccines is getting better.
+
+00:06:57.702 --> 00:06:59.426
+It's getting more systematic.
+
+00:06:59.426 --> 00:07:01.648
+However, you still don't really know
+
+00:07:01.648 --> 00:07:03.392
+if a vaccine is going to work
+
+00:07:03.392 --> 00:07:04.731
+until you roll your sleeves up
+
+00:07:04.731 --> 00:07:06.946
+and vaccinate and wait.
+
+00:07:06.946 --> 00:07:09.648
+It's a gambler's game even today.
+
+00:07:09.648 --> 00:07:12.160
+So, we had to do that gamble.
+
+00:07:12.160 --> 00:07:14.640
+We obtained an influenza vaccine,
+
+00:07:14.640 --> 00:07:16.256
+we applied it to our Nanopatches
+
+00:07:16.256 --> 00:07:18.727
+and we applied the Nanopatches to the skin,
+
+00:07:18.727 --> 00:07:20.460
+and we waited --
+
+00:07:20.460 --> 00:07:22.288
+and this is in the live animal.
+
+00:07:22.288 --> 00:07:24.139
+We waited a month,
+
+00:07:24.139 --> 00:07:25.951
+and this is what we found out.
+
+00:07:25.951 --> 00:07:28.276
+This is a data slide showing the immune responses
+
+00:07:28.276 --> 00:07:30.599
+that we've generated with a Nanopatch
+
+00:07:30.599 --> 00:07:34.375
+compared to the needle and syringe into muscle.
+
+00:07:34.375 --> 00:07:37.969
+So on the horizontal axis we have 
+the dose shown in nanograms.
+
+00:07:37.969 --> 00:07:40.674
+On the vertical axis we have 
+the immune response generated,
+
+00:07:40.674 --> 00:07:46.189
+and that dashed line indicates 
+the protection threshold.
+
+00:07:46.189 --> 00:07:48.642
+If we're above that line it's considered protective;
+
+00:07:48.642 --> 00:07:51.568
+if we're below that line it's not.
+
+00:07:51.568 --> 00:07:54.136
+So the red line is mostly below that curve
+
+00:07:54.136 --> 00:07:57.660
+and indeed there's only one point that 
+is achieved with the needle that's protective,
+
+00:07:57.660 --> 00:08:00.869
+and that's with a high dose of 6,000 nanograms.
+
+00:08:00.869 --> 00:08:03.402
+But notice immediately the distinctly different curve
+
+00:08:03.402 --> 00:08:06.466
+that we achieve with the blue line.
+
+00:08:06.466 --> 00:08:08.366
+That's what's achieved with the Nanopatch;
+
+00:08:08.366 --> 00:08:10.103
+the delivered dose of the Nanopatch is
+
+00:08:10.103 --> 00:08:13.464
+a completely different immunogenicity curve.
+
+00:08:13.464 --> 00:08:15.297
+That's a real fresh opportunity.
+
+00:08:15.297 --> 00:08:17.675
+Suddenly we have a brand new lever
+
+00:08:17.675 --> 00:08:19.203
+in the world of vaccines.
+
+00:08:19.203 --> 00:08:20.714
+We can push it one way,
+
+00:08:20.714 --> 00:08:23.305
+where we can take a vaccine 
+that works but is too expensive
+
+00:08:23.305 --> 00:08:24.964
+and can get protection
+
+00:08:24.964 --> 00:08:27.788
+with a hundredth of the dose 
+compared to the needle.
+
+00:08:27.788 --> 00:08:31.839
+That can take a vaccine that's suddenly 
+10 dollars down to 10 cents,
+
+00:08:31.839 --> 00:08:35.019
+and that's particularly important 
+within the developing world.
+
+00:08:35.019 --> 00:08:36.886
+But there's another angle to this as well --
+
+00:08:36.886 --> 00:08:39.938
+you can take vaccines that currently don't work
+
+00:08:39.938 --> 00:08:41.134
+and get them over that line
+
+00:08:41.134 --> 00:08:43.092
+and get them protective.
+
+00:08:43.092 --> 00:08:45.320
+And certainly in the world of vaccines
+
+00:08:45.320 --> 00:08:46.540
+that can be important.
+
+00:08:46.540 --> 00:08:48.038
+Let's consider the big three:
+
+00:08:48.038 --> 00:08:50.735
+HIV, malaria, tuberculosis.
+
+00:08:50.735 --> 00:08:53.327
+They're responsible for about 
+7 million deaths per year,
+
+00:08:53.327 --> 00:08:56.534
+and there is no adequate vaccination 
+method for any of those.
+
+00:08:56.534 --> 00:08:59.066
+So potentially, with this new lever 
+that we have with the Nanopatch,
+
+00:08:59.066 --> 00:09:00.901
+we can help make that happen.
+
+00:09:00.901 --> 00:09:05.771
+We can push that lever to help get those 
+candidate vaccines over the line.
+
+00:09:05.771 --> 00:09:07.589
+Now, of course, we've worked within my lab
+
+00:09:07.589 --> 00:09:09.379
+with many other vaccines that have attained
+
+00:09:09.379 --> 00:09:12.197
+similar responses and similar curves to this,
+
+00:09:12.197 --> 00:09:15.962
+what we've achieved with influenza.
+
+00:09:15.962 --> 00:09:18.121
+I'd like to now switch to talk about
+
+00:09:18.121 --> 00:09:21.453
+another key shortcoming of today's vaccines,
+
+00:09:21.453 --> 00:09:24.873
+and that is the need to maintain the cold chain.
+
+00:09:24.873 --> 00:09:27.547
+As the name suggests -- the cold chain --
+
+00:09:27.547 --> 00:09:30.487
+it's the requirements of keeping 
+a vaccine right from production
+
+00:09:30.487 --> 00:09:33.163
+all the way through to when the vaccine is applied,
+
+00:09:33.163 --> 00:09:36.261
+to keep it refrigerated.
+
+00:09:36.261 --> 00:09:39.507
+Now, that presents some logistical challenges
+
+00:09:39.507 --> 00:09:42.497
+but we have ways to do it.
+
+00:09:42.497 --> 00:09:47.033
+This is a slightly extreme case in point
+
+00:09:47.033 --> 00:09:49.516
+but it helps illustrate the logistical challenges,
+
+00:09:49.516 --> 00:09:51.906
+in particular in resource-poor settings,
+
+00:09:51.906 --> 00:09:55.192
+of what's required to get vaccines
+
+00:09:55.192 --> 00:09:56.910
+refrigerated and maintain the cold chain.
+
+00:09:56.910 --> 00:10:00.724
+If the vaccine is too warm the vaccine breaks down,
+
+00:10:00.724 --> 00:10:02.931
+but interestingly it can be too cold
+
+00:10:02.931 --> 00:10:05.492
+and the vaccine can break down as well.
+
+00:10:05.492 --> 00:10:08.874
+Now, the stakes are very high.
+
+00:10:08.874 --> 00:10:11.409
+The WHO estimates that within Africa,
+
+00:10:11.409 --> 00:10:14.060
+up to half the vaccines used there
+
+00:10:14.060 --> 00:10:15.913
+are considered to not be working properly
+
+00:10:15.913 --> 00:10:18.903
+because at some point the 
+cold chain has fallen over.
+
+00:10:18.903 --> 00:10:21.469
+So it's a big problem, and it's tied 
+in with the needle and syringe
+
+00:10:21.469 --> 00:10:26.702
+because it's a liquid form vaccine, and 
+when it's liquid it needs the refrigeration.
+
+00:10:26.702 --> 00:10:29.213
+A key attribute of our Nanopatch
+
+00:10:29.213 --> 00:10:31.186
+is that the vaccine is dry,
+
+00:10:31.186 --> 00:10:33.975
+and when it's dry it doesn't need refrigeration.
+
+00:10:33.975 --> 00:10:36.387
+Within my lab we've shown that we can keep
+
+00:10:36.387 --> 00:10:39.067
+the vaccine stored at 23 degrees Celsius
+
+00:10:39.067 --> 00:10:42.783
+for more than a year without 
+any loss in activity at all.
+
+00:10:42.783 --> 00:10:45.170
+That's an important improvement.
+
+00:10:45.170 --> 00:10:51.770
+(Applause)
+
+00:10:51.770 --> 00:10:54.233
+We're delighted about it as well.
+
+00:10:54.233 --> 00:10:58.529
+And the thing about it is that
+we have well and truly proven
+
+00:10:58.529 --> 00:11:01.192
+the Nanopatch within the laboratory setting.
+
+00:11:01.192 --> 00:11:05.165
+And as a scientist, I love that and I love science.
+
+00:11:05.165 --> 00:11:07.673
+However, as an engineer,
+
+00:11:07.673 --> 00:11:09.386
+as a biomedical engineer
+
+00:11:09.386 --> 00:11:11.589
+and also as a human being,
+
+00:11:11.589 --> 00:11:12.820
+I'm not going to be satisfied
+
+00:11:12.820 --> 00:11:15.513
+until we've rolled this thing 
+out, taken it out of the lab
+
+00:11:15.513 --> 00:11:17.944
+and got it to people in large numbers
+
+00:11:17.944 --> 00:11:21.480
+and particularly the people that need it the most.
+
+00:11:21.480 --> 00:11:24.182
+So we've commenced this particular journey,
+
+00:11:24.182 --> 00:11:26.843
+and we've commenced this 
+journey in an unusual way.
+
+00:11:26.843 --> 00:11:29.832
+We've started with Papua New Guinea.
+
+00:11:29.832 --> 00:11:35.637
+Now, Papua New Guinea is an example 
+of a developing world country.
+
+00:11:35.637 --> 00:11:38.773
+It's about the same size as France,
+
+00:11:38.773 --> 00:11:41.608
+but it suffers from many of the key barriers
+
+00:11:41.608 --> 00:11:45.676
+existing within the world of today's vaccines.
+
+00:11:45.676 --> 00:11:47.289
+There's the logistics:
+
+00:11:47.289 --> 00:11:51.647
+Within this country there are only 800 
+refrigerators to keep vaccines chilled.
+
+00:11:51.647 --> 00:11:55.940
+Many of them are old, like this one in Port Moresby,
+many of them are breaking down
+
+00:11:55.940 --> 00:11:58.856
+and many are not in the Highlands 
+where they are required.
+
+00:11:58.856 --> 00:12:00.319
+That's a challenge.
+
+00:12:00.319 --> 00:12:05.502
+But also, Papua New Guinea has the 
+world's highest incidence of HPV,
+
+00:12:05.502 --> 00:12:09.733
+human papillomavirus, the 
+cervical cancer [risk factor].
+
+00:12:09.733 --> 00:12:12.434
+Yet, that vaccine is not available in large numbers
+
+00:12:12.434 --> 00:12:14.348
+because it's too expensive.
+
+00:12:14.348 --> 00:12:17.094
+So for those two reasons, with 
+the attributes of the Nanopatch,
+
+00:12:17.094 --> 00:12:19.709
+we've got into the field and 
+worked with the Nanopatch,
+
+00:12:19.709 --> 00:12:22.160
+and taken it to Papua New Guinea
+
+00:12:22.160 --> 00:12:26.143
+and we'll be following that up shortly.
+
+00:12:26.143 --> 00:12:29.625
+Now, doing this kind of work is not easy.
+
+00:12:29.625 --> 00:12:30.973
+It's challenging,
+
+00:12:30.973 --> 00:12:34.297
+but there's nothing else in 
+the world I'd rather be doing.
+
+00:12:34.297 --> 00:12:36.320
+And as we look ahead
+
+00:12:36.320 --> 00:12:40.062
+I'd like to share with you a thought:
+
+00:12:40.062 --> 00:12:44.070
+It's the thought of a future where
+
+00:12:44.070 --> 00:12:46.003
+the 17 million deaths per year
+
+00:12:46.003 --> 00:12:48.347
+that we currently have due to infectious disease
+
+00:12:48.347 --> 00:12:50.981
+is a historical footnote.
+
+00:12:50.981 --> 00:12:53.077
+And it's a historical footnote that has been achieved
+
+00:12:53.077 --> 00:12:56.545
+by improved, radically improved vaccines.
+
+00:12:56.545 --> 00:12:58.828
+Now standing here today in front of you
+
+00:12:58.828 --> 00:13:00.501
+at the birthplace of the needle and syringe,
+
+00:13:00.501 --> 00:13:03.298
+a device that's 160 years old,
+
+00:13:03.298 --> 00:13:05.634
+I'm presenting to you an alternative approach
+
+00:13:05.634 --> 00:13:07.883
+that could really help make that happen --
+
+00:13:07.883 --> 00:13:11.865
+and it's the Nanopatch with its attributes 
+of being needle-free, pain-free,
+
+00:13:11.865 --> 00:13:16.296
+the ability for removing the cold chain
+and improving the immunogenicity.
+
+00:13:16.296 --> 00:13:18.249
+Thank you.
+
+00:13:18.249 --> 00:13:21.417
+(Applause)
+

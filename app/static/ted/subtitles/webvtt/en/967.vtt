@@ -1,0 +1,1250 @@
+WEBVTT
+
+00:00:02.000 --> 00:00:05.000
+We live in in a remarkable time,
+
+00:00:05.000 --> 00:00:08.000
+the age of genomics.
+
+00:00:08.000 --> 00:00:11.000
+Your genome is the entire sequence of your DNA.
+
+00:00:11.000 --> 00:00:14.000
+Your sequence and mine are slightly different.
+
+00:00:14.000 --> 00:00:16.000
+That's why we look different.
+
+00:00:16.000 --> 00:00:18.000
+I've got brown eyes;
+
+00:00:18.000 --> 00:00:21.000
+you might have blue or gray.
+
+00:00:21.000 --> 00:00:23.000
+But it's not just skin-deep.
+
+00:00:23.000 --> 00:00:25.000
+The headlines tell us
+
+00:00:25.000 --> 00:00:28.000
+that genes can give us scary diseases,
+
+00:00:28.000 --> 00:00:31.000
+maybe even shape our personality,
+
+00:00:31.000 --> 00:00:34.000
+or give us mental disorders.
+
+00:00:34.000 --> 00:00:37.000
+Our genes seem to have
+
+00:00:37.000 --> 00:00:40.000
+awesome power over our destinies.
+
+00:00:41.000 --> 00:00:44.000
+And yet, I would like to think
+
+00:00:44.000 --> 00:00:47.000
+that I am more than my genes.
+
+00:00:49.000 --> 00:00:51.000
+What do you guys think?
+
+00:00:51.000 --> 00:00:54.000
+Are you more than your genes?
+
+00:00:54.000 --> 00:00:56.000
+(Audience: Yes.) Yes?
+
+00:00:58.000 --> 00:01:00.000
+I think some people agree with me.
+
+00:01:00.000 --> 00:01:02.000
+I think we should make a statement.
+
+00:01:02.000 --> 00:01:04.000
+I think we should say it all together.
+
+00:01:05.000 --> 00:01:08.000
+All right: "I'm more than my genes" -- all together.
+
+00:01:08.000 --> 00:01:12.000
+Everybody: I am more than my genes.
+
+00:01:12.000 --> 00:01:14.000
+(Cheering)
+
+00:01:15.000 --> 00:01:17.000
+Sebastian Seung: What am I?
+
+00:01:17.000 --> 00:01:20.000
+(Laughter)
+
+00:01:20.000 --> 00:01:23.000
+I am my connectome.
+
+00:01:25.000 --> 00:01:27.000
+Now, since you guys are really great,
+
+00:01:27.000 --> 00:01:29.000
+maybe you can humor me and say this all together too.
+
+00:01:29.000 --> 00:01:31.000
+(Laughter)
+
+00:01:31.000 --> 00:01:33.000
+Right. All together now.
+
+00:01:33.000 --> 00:01:36.000
+Everybody: I am my connectome.
+
+00:01:38.000 --> 00:01:40.000
+SS: That sounded great.
+
+00:01:40.000 --> 00:01:42.000
+You know, you guys are so great, you don't even know what a connectome is,
+
+00:01:42.000 --> 00:01:44.000
+and you're willing to play along with me.
+
+00:01:44.000 --> 00:01:47.000
+I could just go home now.
+
+00:01:47.000 --> 00:01:50.000
+Well, so far only one connectome is known,
+
+00:01:50.000 --> 00:01:53.000
+that of this tiny worm.
+
+00:01:53.000 --> 00:01:55.000
+Its modest nervous system
+
+00:01:55.000 --> 00:01:57.000
+consists of just 300 neurons.
+
+00:01:57.000 --> 00:01:59.000
+And in the 1970s and '80s,
+
+00:01:59.000 --> 00:02:01.000
+a team of scientists
+
+00:02:01.000 --> 00:02:03.000
+mapped all 7,000 connections
+
+00:02:03.000 --> 00:02:05.000
+between the neurons.
+
+00:02:06.000 --> 00:02:08.000
+In this diagram, every node is a neuron,
+
+00:02:08.000 --> 00:02:10.000
+and every line is a connection.
+
+00:02:10.000 --> 00:02:12.000
+This is the connectome
+
+00:02:12.000 --> 00:02:16.000
+of the worm C. elegans.
+
+00:02:16.000 --> 00:02:19.000
+Your connectome is far more complex than this
+
+00:02:19.000 --> 00:02:21.000
+because your brain
+
+00:02:21.000 --> 00:02:23.000
+contains 100 billion neurons
+
+00:02:23.000 --> 00:02:26.000
+and 10,000 times as many connections.
+
+00:02:26.000 --> 00:02:28.000
+There's a diagram like this for your brain,
+
+00:02:28.000 --> 00:02:31.000
+but there's no way it would fit on this slide.
+
+00:02:32.000 --> 00:02:35.000
+Your connectome contains one million times more connections
+
+00:02:35.000 --> 00:02:38.000
+than your genome has letters.
+
+00:02:38.000 --> 00:02:40.000
+That's a lot of information.
+
+00:02:40.000 --> 00:02:43.000
+What's in that information?
+
+00:02:44.000 --> 00:02:47.000
+We don't know for sure, but there are theories.
+
+00:02:47.000 --> 00:02:50.000
+Since the 19th century, neuroscientists have speculated
+
+00:02:50.000 --> 00:02:52.000
+that maybe your memories --
+
+00:02:52.000 --> 00:02:54.000
+the information that makes you, you --
+
+00:02:54.000 --> 00:02:56.000
+maybe your memories are stored
+
+00:02:56.000 --> 00:02:58.000
+in the connections between your brain's neurons.
+
+00:03:00.000 --> 00:03:02.000
+And perhaps other aspects of your personal identity --
+
+00:03:02.000 --> 00:03:05.000
+maybe your personality and your intellect --
+
+00:03:05.000 --> 00:03:07.000
+maybe they're also encoded
+
+00:03:07.000 --> 00:03:10.000
+in the connections between your neurons.
+
+00:03:11.000 --> 00:03:14.000
+And so now you can see why I proposed this hypothesis:
+
+00:03:14.000 --> 00:03:17.000
+I am my connectome.
+
+00:03:17.000 --> 00:03:20.000
+I didn't ask you to chant it because it's true;
+
+00:03:20.000 --> 00:03:22.000
+I just want you to remember it.
+
+00:03:22.000 --> 00:03:24.000
+And in fact, we don't know if this hypothesis is correct,
+
+00:03:24.000 --> 00:03:26.000
+because we have never had technologies
+
+00:03:26.000 --> 00:03:28.000
+powerful enough to test it.
+
+00:03:29.000 --> 00:03:32.000
+Finding that worm connectome
+
+00:03:32.000 --> 00:03:35.000
+took over a dozen years of tedious labor.
+
+00:03:35.000 --> 00:03:38.000
+And to find the connectomes of brains more like our own,
+
+00:03:38.000 --> 00:03:41.000
+we need more sophisticated technologies, that are automated,
+
+00:03:41.000 --> 00:03:44.000
+that will speed up the process of finding connectomes.
+
+00:03:44.000 --> 00:03:47.000
+And in the next few minutes, I'll tell you about some of these technologies,
+
+00:03:47.000 --> 00:03:49.000
+which are currently under development
+
+00:03:49.000 --> 00:03:52.000
+in my lab and the labs of my collaborators.
+
+00:03:53.000 --> 00:03:56.000
+Now you've probably seen pictures of neurons before.
+
+00:03:56.000 --> 00:03:58.000
+You can recognize them instantly
+
+00:03:58.000 --> 00:04:01.000
+by their fantastic shapes.
+
+00:04:01.000 --> 00:04:04.000
+They extend long and delicate branches,
+
+00:04:04.000 --> 00:04:07.000
+and in short, they look like trees.
+
+00:04:07.000 --> 00:04:10.000
+But this is just a single neuron.
+
+00:04:10.000 --> 00:04:12.000
+In order to find connectomes,
+
+00:04:12.000 --> 00:04:15.000
+we have to see all the neurons at the same time.
+
+00:04:15.000 --> 00:04:17.000
+So let's meet Bobby Kasthuri,
+
+00:04:17.000 --> 00:04:19.000
+who works in the laboratory of Jeff Lichtman
+
+00:04:19.000 --> 00:04:21.000
+at Harvard University.
+
+00:04:21.000 --> 00:04:23.000
+Bobby is holding fantastically thin slices
+
+00:04:23.000 --> 00:04:25.000
+of a mouse brain.
+
+00:04:25.000 --> 00:04:28.000
+And we're zooming in by a factor of 100,000 times
+
+00:04:29.000 --> 00:04:31.000
+to obtain the resolution,
+
+00:04:31.000 --> 00:04:34.000
+so that we can see the branches of neurons all at the same time.
+
+00:04:35.000 --> 00:04:38.000
+Except, you still may not really recognize them,
+
+00:04:38.000 --> 00:04:41.000
+and that's because we have to work in three dimensions.
+
+00:04:41.000 --> 00:04:43.000
+If we take many images of many slices of the brain
+
+00:04:43.000 --> 00:04:45.000
+and stack them up,
+
+00:04:45.000 --> 00:04:47.000
+we get a three-dimensional image.
+
+00:04:47.000 --> 00:04:49.000
+And still, you may not see the branches.
+
+00:04:49.000 --> 00:04:51.000
+So we start at the top,
+
+00:04:51.000 --> 00:04:54.000
+and we color in the cross-section of one branch in red,
+
+00:04:54.000 --> 00:04:56.000
+and we do that for the next slice
+
+00:04:56.000 --> 00:04:58.000
+and for the next slice.
+
+00:04:58.000 --> 00:05:00.000
+And we keep on doing that,
+
+00:05:00.000 --> 00:05:03.000
+slice after slice.
+
+00:05:03.000 --> 00:05:05.000
+If we continue through the entire stack,
+
+00:05:05.000 --> 00:05:08.000
+we can reconstruct the three-dimensional shape
+
+00:05:08.000 --> 00:05:11.000
+of a small fragment of a branch of a neuron.
+
+00:05:11.000 --> 00:05:13.000
+And we can do that for another neuron in green.
+
+00:05:13.000 --> 00:05:15.000
+And you can see that the green neuron touches the red neuron
+
+00:05:15.000 --> 00:05:17.000
+at two locations,
+
+00:05:17.000 --> 00:05:19.000
+and these are what are called synapses.
+
+00:05:19.000 --> 00:05:21.000
+Let's zoom in on one synapse,
+
+00:05:21.000 --> 00:05:24.000
+and keep your eyes on the interior of the green neuron.
+
+00:05:24.000 --> 00:05:26.000
+You should see small circles --
+
+00:05:26.000 --> 00:05:29.000
+these are called vesicles.
+
+00:05:29.000 --> 00:05:32.000
+They contain a molecule know as a neurotransmitter.
+
+00:05:32.000 --> 00:05:34.000
+And so when the green neuron wants to communicate,
+
+00:05:34.000 --> 00:05:36.000
+it wants to send a message to the red neuron,
+
+00:05:36.000 --> 00:05:39.000
+it spits out neurotransmitter.
+
+00:05:39.000 --> 00:05:41.000
+At the synapse, the two neurons
+
+00:05:41.000 --> 00:05:43.000
+are said to be connected
+
+00:05:43.000 --> 00:05:46.000
+like two friends talking on the telephone.
+
+00:05:47.000 --> 00:05:49.000
+So you see how to find a synapse.
+
+00:05:49.000 --> 00:05:52.000
+How can we find an entire connectome?
+
+00:05:52.000 --> 00:05:55.000
+Well, we take this three-dimensional stack of images
+
+00:05:55.000 --> 00:05:58.000
+and treat it as a gigantic three-dimensional coloring book.
+
+00:05:58.000 --> 00:06:01.000
+We color every neuron in, in a different color,
+
+00:06:01.000 --> 00:06:03.000
+and then we look through all of the images,
+
+00:06:03.000 --> 00:06:05.000
+find the synapses
+
+00:06:05.000 --> 00:06:08.000
+and note the colors of the two neurons involved in each synapse.
+
+00:06:08.000 --> 00:06:11.000
+If we can do that throughout all the images,
+
+00:06:11.000 --> 00:06:13.000
+we could find a connectome.
+
+00:06:14.000 --> 00:06:16.000
+Now, at this point,
+
+00:06:16.000 --> 00:06:18.000
+you've learned the basics of neurons and synapses.
+
+00:06:18.000 --> 00:06:20.000
+And so I think we're ready to tackle
+
+00:06:20.000 --> 00:06:23.000
+one of the most important questions in neuroscience:
+
+00:06:24.000 --> 00:06:27.000
+how are the brains of men and women different?
+
+00:06:27.000 --> 00:06:29.000
+(Laughter)
+
+00:06:29.000 --> 00:06:31.000
+According to this self-help book,
+
+00:06:31.000 --> 00:06:33.000
+guys brains are like waffles;
+
+00:06:33.000 --> 00:06:36.000
+they keep their lives compartmentalized in boxes.
+
+00:06:36.000 --> 00:06:39.000
+Girls' brains are like spaghetti;
+
+00:06:39.000 --> 00:06:42.000
+everything in their life is connected to everything else.
+
+00:06:42.000 --> 00:06:44.000
+(Laughter)
+
+00:06:44.000 --> 00:06:46.000
+You guys are laughing,
+
+00:06:46.000 --> 00:06:48.000
+but you know, this book changed my life.
+
+00:06:48.000 --> 00:06:50.000
+(Laughter)
+
+00:06:52.000 --> 00:06:55.000
+But seriously, what's wrong with this?
+
+00:06:55.000 --> 00:06:58.000
+You already know enough to tell me -- what's wrong with this statement?
+
+00:07:05.000 --> 00:07:08.000
+It doesn't matter whether you're a guy or girl,
+
+00:07:08.000 --> 00:07:11.000
+everyone's brains are like spaghetti.
+
+00:07:11.000 --> 00:07:14.000
+Or maybe really, really fine capellini with branches.
+
+00:07:15.000 --> 00:07:17.000
+Just as one strand of spaghetti
+
+00:07:17.000 --> 00:07:20.000
+contacts many other strands on your plate,
+
+00:07:20.000 --> 00:07:22.000
+one neuron touches many other neurons
+
+00:07:22.000 --> 00:07:24.000
+through their entangled branches.
+
+00:07:24.000 --> 00:07:27.000
+One neuron can be connected to so many other neurons,
+
+00:07:27.000 --> 00:07:29.000
+because there can be synapses
+
+00:07:29.000 --> 00:07:32.000
+at these points of contact.
+
+00:07:34.000 --> 00:07:37.000
+By now, you might have sort of lost perspective
+
+00:07:37.000 --> 00:07:40.000
+on how large this cube of brain tissue actually is.
+
+00:07:40.000 --> 00:07:43.000
+And so let's do a series of comparisons to show you.
+
+00:07:43.000 --> 00:07:46.000
+I assure you, this is very tiny. It's just six microns on a side.
+
+00:07:48.000 --> 00:07:51.000
+So, here's how it stacks up against an entire neuron.
+
+00:07:51.000 --> 00:07:54.000
+And you can tell that, really, only the smallest fragments of branches
+
+00:07:54.000 --> 00:07:57.000
+are contained inside this cube.
+
+00:07:57.000 --> 00:08:00.000
+And a neuron, well, that's smaller than brain.
+
+00:08:02.000 --> 00:08:04.000
+And that's just a mouse brain --
+
+00:08:06.000 --> 00:08:09.000
+it's a lot smaller than a human brain.
+
+00:08:10.000 --> 00:08:12.000
+So when show my friends this,
+
+00:08:12.000 --> 00:08:14.000
+sometimes they've told me,
+
+00:08:14.000 --> 00:08:17.000
+"You know, Sebastian, you should just give up.
+
+00:08:17.000 --> 00:08:19.000
+Neuroscience is hopeless."
+
+00:08:19.000 --> 00:08:21.000
+Because if you look at a brain with your naked eye,
+
+00:08:21.000 --> 00:08:23.000
+you don't really see how complex it is,
+
+00:08:23.000 --> 00:08:25.000
+but when you use a microscope,
+
+00:08:25.000 --> 00:08:28.000
+finally the hidden complexity is revealed.
+
+00:08:30.000 --> 00:08:32.000
+In the 17th century,
+
+00:08:32.000 --> 00:08:34.000
+the mathematician and philosopher, Blaise Pascal,
+
+00:08:34.000 --> 00:08:37.000
+wrote of his dread of the infinite,
+
+00:08:37.000 --> 00:08:39.000
+his feeling of insignificance
+
+00:08:39.000 --> 00:08:42.000
+at contemplating the vast reaches of outer space.
+
+00:08:44.000 --> 00:08:46.000
+And, as a scientist,
+
+00:08:46.000 --> 00:08:49.000
+I'm not supposed to talk about my feelings --
+
+00:08:49.000 --> 00:08:51.000
+too much information, professor.
+
+00:08:51.000 --> 00:08:53.000
+(Laughter)
+
+00:08:53.000 --> 00:08:55.000
+But may I?
+
+00:08:55.000 --> 00:08:57.000
+(Laughter)
+
+00:08:57.000 --> 00:08:59.000
+(Applause)
+
+00:08:59.000 --> 00:09:01.000
+I feel curiosity,
+
+00:09:01.000 --> 00:09:03.000
+and I feel wonder,
+
+00:09:03.000 --> 00:09:06.000
+but at times I have also felt despair.
+
+00:09:07.000 --> 00:09:09.000
+Why did I choose to study
+
+00:09:09.000 --> 00:09:12.000
+this organ that is so awesome in its complexity
+
+00:09:12.000 --> 00:09:14.000
+that it might well be infinite?
+
+00:09:14.000 --> 00:09:16.000
+It's absurd.
+
+00:09:16.000 --> 00:09:18.000
+How could we even dare to think
+
+00:09:18.000 --> 00:09:21.000
+that we might ever understand this?
+
+00:09:23.000 --> 00:09:26.000
+And yet, I persist in this quixotic endeavor.
+
+00:09:26.000 --> 00:09:29.000
+And indeed, these days I harbor new hopes.
+
+00:09:30.000 --> 00:09:32.000
+Someday,
+
+00:09:32.000 --> 00:09:34.000
+a fleet of microscopes will capture
+
+00:09:34.000 --> 00:09:36.000
+every neuron and every synapse
+
+00:09:36.000 --> 00:09:39.000
+in a vast database of images.
+
+00:09:39.000 --> 00:09:42.000
+And some day, artificially intelligent supercomputers
+
+00:09:42.000 --> 00:09:45.000
+will analyze the images without human assistance
+
+00:09:45.000 --> 00:09:48.000
+to summarize them in a connectome.
+
+00:09:49.000 --> 00:09:52.000
+I do not know, but I hope that I will live to see that day,
+
+00:09:53.000 --> 00:09:55.000
+because finding an entire human connectome
+
+00:09:55.000 --> 00:09:58.000
+is one of the greatest technological challenges of all time.
+
+00:09:58.000 --> 00:10:01.000
+It will take the work of generations to succeed.
+
+00:10:02.000 --> 00:10:05.000
+At the present time, my collaborators and I,
+
+00:10:05.000 --> 00:10:07.000
+what we're aiming for is much more modest --
+
+00:10:07.000 --> 00:10:09.000
+just to find partial connectomes
+
+00:10:09.000 --> 00:10:12.000
+of tiny chunks of mouse and human brain.
+
+00:10:12.000 --> 00:10:15.000
+But even that will be enough for the first tests of this hypothesis
+
+00:10:15.000 --> 00:10:18.000
+that I am my connectome.
+
+00:10:20.000 --> 00:10:23.000
+For now, let me try to convince you of the plausibility of this hypothesis,
+
+00:10:23.000 --> 00:10:26.000
+that it's actually worth taking seriously.
+
+00:10:27.000 --> 00:10:29.000
+As you grow during childhood
+
+00:10:29.000 --> 00:10:32.000
+and age during adulthood,
+
+00:10:32.000 --> 00:10:35.000
+your personal identity changes slowly.
+
+00:10:35.000 --> 00:10:37.000
+Likewise, every connectome
+
+00:10:37.000 --> 00:10:39.000
+changes over time.
+
+00:10:40.000 --> 00:10:42.000
+What kinds of changes happen?
+
+00:10:42.000 --> 00:10:44.000
+Well, neurons, like trees,
+
+00:10:44.000 --> 00:10:46.000
+can grow new branches,
+
+00:10:46.000 --> 00:10:49.000
+and they can lose old ones.
+
+00:10:49.000 --> 00:10:52.000
+Synapses can be created,
+
+00:10:52.000 --> 00:10:55.000
+and they can be eliminated.
+
+00:10:55.000 --> 00:10:57.000
+And synapses can grow larger,
+
+00:10:57.000 --> 00:11:00.000
+and they can grow smaller.
+
+00:11:00.000 --> 00:11:02.000
+Second question:
+
+00:11:02.000 --> 00:11:05.000
+what causes these changes?
+
+00:11:05.000 --> 00:11:07.000
+Well, it's true.
+
+00:11:07.000 --> 00:11:10.000
+To some extent, they are programmed by your genes.
+
+00:11:10.000 --> 00:11:12.000
+But that's not the whole story,
+
+00:11:12.000 --> 00:11:14.000
+because there are signals, electrical signals,
+
+00:11:14.000 --> 00:11:16.000
+that travel along the branches of neurons
+
+00:11:16.000 --> 00:11:18.000
+and chemical signals
+
+00:11:18.000 --> 00:11:20.000
+that jump across from branch to branch.
+
+00:11:20.000 --> 00:11:23.000
+These signals are called neural activity.
+
+00:11:23.000 --> 00:11:25.000
+And there's a lot of evidence
+
+00:11:25.000 --> 00:11:28.000
+that neural activity
+
+00:11:28.000 --> 00:11:31.000
+is encoding our thoughts, feelings and perceptions,
+
+00:11:31.000 --> 00:11:33.000
+our mental experiences.
+
+00:11:33.000 --> 00:11:36.000
+And there's a lot of evidence that neural activity
+
+00:11:36.000 --> 00:11:39.000
+can cause your connections to change.
+
+00:11:39.000 --> 00:11:42.000
+And if you put those two facts together,
+
+00:11:42.000 --> 00:11:44.000
+it means that your experiences
+
+00:11:44.000 --> 00:11:47.000
+can change your connectome.
+
+00:11:47.000 --> 00:11:49.000
+And that's why every connectome is unique,
+
+00:11:49.000 --> 00:11:52.000
+even those of genetically identical twins.
+
+00:11:53.000 --> 00:11:56.000
+The connectome is where nature meets nurture.
+
+00:11:57.000 --> 00:11:59.000
+And it might true
+
+00:11:59.000 --> 00:12:01.000
+that just the mere act of thinking
+
+00:12:01.000 --> 00:12:03.000
+can change your connectome --
+
+00:12:03.000 --> 00:12:06.000
+an idea that you may find empowering.
+
+00:12:09.000 --> 00:12:11.000
+What's in this picture?
+
+00:12:13.000 --> 00:12:16.000
+A cool and refreshing stream of water, you say.
+
+00:12:17.000 --> 00:12:19.000
+What else is in this picture?
+
+00:12:22.000 --> 00:12:24.000
+Do not forget that groove in the Earth
+
+00:12:24.000 --> 00:12:27.000
+called the stream bed.
+
+00:12:27.000 --> 00:12:30.000
+Without it, the water would not know in which direction to flow.
+
+00:12:30.000 --> 00:12:32.000
+And with the stream,
+
+00:12:32.000 --> 00:12:34.000
+I would like to propose a metaphor
+
+00:12:34.000 --> 00:12:36.000
+for the relationship between neural activity
+
+00:12:36.000 --> 00:12:38.000
+and connectivity.
+
+00:12:39.000 --> 00:12:42.000
+Neural activity is constantly changing.
+
+00:12:42.000 --> 00:12:45.000
+It's like the water of the stream; it never sits still.
+
+00:12:45.000 --> 00:12:47.000
+The connections
+
+00:12:47.000 --> 00:12:49.000
+of the brain's neural network
+
+00:12:49.000 --> 00:12:51.000
+determines the pathways
+
+00:12:51.000 --> 00:12:53.000
+along which neural activity flows.
+
+00:12:53.000 --> 00:12:56.000
+And so the connectome is like bed of the stream;
+
+00:12:58.000 --> 00:13:01.000
+but the metaphor is richer than that,
+
+00:13:01.000 --> 00:13:04.000
+because it's true that the stream bed
+
+00:13:04.000 --> 00:13:06.000
+guides the flow of the water,
+
+00:13:06.000 --> 00:13:08.000
+but over long timescales,
+
+00:13:08.000 --> 00:13:11.000
+the water also reshapes the bed of the stream.
+
+00:13:11.000 --> 00:13:13.000
+And as I told you just now,
+
+00:13:13.000 --> 00:13:16.000
+neural activity can change the connectome.
+
+00:13:18.000 --> 00:13:20.000
+And if you'll allow me to ascend
+
+00:13:20.000 --> 00:13:23.000
+to metaphorical heights,
+
+00:13:23.000 --> 00:13:26.000
+I will remind you that neural activity
+
+00:13:26.000 --> 00:13:28.000
+is the physical basis -- or so neuroscientists think --
+
+00:13:28.000 --> 00:13:31.000
+of thoughts, feelings and perceptions.
+
+00:13:31.000 --> 00:13:33.000
+And so we might even speak of
+
+00:13:33.000 --> 00:13:35.000
+the stream of consciousness.
+
+00:13:35.000 --> 00:13:38.000
+Neural activity is its water,
+
+00:13:38.000 --> 00:13:41.000
+and the connectome is its bed.
+
+00:13:42.000 --> 00:13:44.000
+So let's return from the heights of metaphor
+
+00:13:44.000 --> 00:13:46.000
+and return to science.
+
+00:13:46.000 --> 00:13:48.000
+Suppose our technologies for finding connectomes
+
+00:13:48.000 --> 00:13:50.000
+actually work.
+
+00:13:50.000 --> 00:13:52.000
+How will we go about testing the hypothesis
+
+00:13:52.000 --> 00:13:55.000
+"I am my connectome?"
+
+00:13:55.000 --> 00:13:58.000
+Well, I propose a direct test.
+
+00:13:58.000 --> 00:14:00.000
+Let us attempt
+
+00:14:00.000 --> 00:14:03.000
+to read out memories from connectomes.
+
+00:14:03.000 --> 00:14:05.000
+Consider the memory
+
+00:14:05.000 --> 00:14:08.000
+of long temporal sequences of movements,
+
+00:14:08.000 --> 00:14:11.000
+like a pianist playing a Beethoven sonata.
+
+00:14:11.000 --> 00:14:14.000
+According to a theory that dates back to the 19th century,
+
+00:14:14.000 --> 00:14:16.000
+such memories are stored
+
+00:14:16.000 --> 00:14:19.000
+as chains of synaptic connections inside your brain.
+
+00:14:20.000 --> 00:14:23.000
+Because, if the first neurons in the chain are activated,
+
+00:14:23.000 --> 00:14:26.000
+through their synapses they send messages to the second neurons, which are activated,
+
+00:14:26.000 --> 00:14:28.000
+and so on down the line,
+
+00:14:28.000 --> 00:14:30.000
+like a chain of falling dominoes.
+
+00:14:30.000 --> 00:14:32.000
+And this sequence of neural activation
+
+00:14:32.000 --> 00:14:35.000
+is hypothesized to be the neural basis
+
+00:14:35.000 --> 00:14:37.000
+of those sequence of movements.
+
+00:14:37.000 --> 00:14:39.000
+So one way of trying to test the theory
+
+00:14:39.000 --> 00:14:41.000
+is to look for such chains
+
+00:14:41.000 --> 00:14:43.000
+inside connectomes.
+
+00:14:43.000 --> 00:14:46.000
+But it won't be easy, because they're not going to look like this.
+
+00:14:46.000 --> 00:14:48.000
+They're going to be scrambled up.
+
+00:14:48.000 --> 00:14:50.000
+So we'll have to use our computers
+
+00:14:50.000 --> 00:14:53.000
+to try to unscramble the chain.
+
+00:14:53.000 --> 00:14:55.000
+And if we can do that,
+
+00:14:55.000 --> 00:14:58.000
+the sequence of the neurons we recover from that unscrambling
+
+00:14:58.000 --> 00:15:01.000
+will be a prediction of the pattern of neural activity
+
+00:15:01.000 --> 00:15:04.000
+that is replayed in the brain during memory recall.
+
+00:15:04.000 --> 00:15:06.000
+And if that were successful,
+
+00:15:06.000 --> 00:15:09.000
+that would be the first example of reading a memory from a connectome.
+
+00:15:13.000 --> 00:15:15.000
+(Laughter)
+
+00:15:15.000 --> 00:15:17.000
+What a mess --
+
+00:15:18.000 --> 00:15:20.000
+have you ever tried to wire up a system
+
+00:15:20.000 --> 00:15:22.000
+as complex as this?
+
+00:15:22.000 --> 00:15:24.000
+I hope not.
+
+00:15:24.000 --> 00:15:27.000
+But if you have, you know it's very easy to make a mistake.
+
+00:15:30.000 --> 00:15:32.000
+The branches of neurons are like the wires of the brain.
+
+00:15:32.000 --> 00:15:36.000
+Can anyone guess: what's the total length of wires in your brain?
+
+00:15:39.000 --> 00:15:41.000
+I'll give you a hint. It's a big number.
+
+00:15:41.000 --> 00:15:43.000
+(Laughter)
+
+00:15:44.000 --> 00:15:47.000
+I estimate, millions of miles,
+
+00:15:47.000 --> 00:15:50.000
+all packed in your skull.
+
+00:15:50.000 --> 00:15:52.000
+And if you appreciate that number,
+
+00:15:52.000 --> 00:15:54.000
+you can easily see
+
+00:15:54.000 --> 00:15:56.000
+there is huge potential for mis-wiring of the brain.
+
+00:15:56.000 --> 00:15:59.000
+And indeed, the popular press loves headlines like,
+
+00:15:59.000 --> 00:16:01.000
+"Anorexic brains are wired differently,"
+
+00:16:01.000 --> 00:16:03.000
+or "Autistic brains are wired differently."
+
+00:16:03.000 --> 00:16:05.000
+These are plausible claims,
+
+00:16:05.000 --> 00:16:07.000
+but in truth,
+
+00:16:07.000 --> 00:16:09.000
+we can't see the brain's wiring clearly enough
+
+00:16:09.000 --> 00:16:11.000
+to tell if these are really true.
+
+00:16:11.000 --> 00:16:14.000
+And so the technologies for seeing connectomes
+
+00:16:14.000 --> 00:16:16.000
+will allow us to finally
+
+00:16:16.000 --> 00:16:18.000
+read mis-wiring of the brain,
+
+00:16:18.000 --> 00:16:21.000
+to see mental disorders in connectomes.
+
+00:16:25.000 --> 00:16:28.000
+Sometimes the best way to test a hypothesis
+
+00:16:28.000 --> 00:16:31.000
+is to consider its most extreme implication.
+
+00:16:31.000 --> 00:16:34.000
+Philosophers know this game very well.
+
+00:16:35.000 --> 00:16:38.000
+If you believe that I am my connectome,
+
+00:16:38.000 --> 00:16:41.000
+I think you must also accept the idea
+
+00:16:41.000 --> 00:16:43.000
+that death is the destruction
+
+00:16:43.000 --> 00:16:46.000
+of your connectome.
+
+00:16:47.000 --> 00:16:50.000
+I mention this because there are prophets today
+
+00:16:50.000 --> 00:16:53.000
+who claim that technology
+
+00:16:53.000 --> 00:16:56.000
+will fundamentally alter the human condition
+
+00:16:56.000 --> 00:16:59.000
+and perhaps even transform the human species.
+
+00:16:59.000 --> 00:17:02.000
+One of their most cherished dreams
+
+00:17:02.000 --> 00:17:04.000
+is to cheat death
+
+00:17:04.000 --> 00:17:06.000
+by that practice known as cryonics.
+
+00:17:06.000 --> 00:17:08.000
+If you pay 100,000 dollars,
+
+00:17:08.000 --> 00:17:11.000
+you can arrange to have your body frozen after death
+
+00:17:11.000 --> 00:17:13.000
+and stored in liquid nitrogen
+
+00:17:13.000 --> 00:17:15.000
+in one of these tanks in an Arizona warehouse,
+
+00:17:15.000 --> 00:17:17.000
+awaiting a future civilization
+
+00:17:17.000 --> 00:17:20.000
+that is advanced to resurrect you.
+
+00:17:21.000 --> 00:17:23.000
+Should we ridicule the modern seekers of immortality,
+
+00:17:23.000 --> 00:17:25.000
+calling them fools?
+
+00:17:25.000 --> 00:17:27.000
+Or will they someday chuckle
+
+00:17:27.000 --> 00:17:29.000
+over our graves?
+
+00:17:30.000 --> 00:17:32.000
+I don't know --
+
+00:17:32.000 --> 00:17:35.000
+I prefer to test their beliefs, scientifically.
+
+00:17:35.000 --> 00:17:37.000
+I propose that we attempt to find a connectome
+
+00:17:37.000 --> 00:17:39.000
+of a frozen brain.
+
+00:17:39.000 --> 00:17:41.000
+We know that damage to the brain
+
+00:17:41.000 --> 00:17:43.000
+occurs after death and during freezing.
+
+00:17:43.000 --> 00:17:46.000
+The question is: has that damage erased the connectome?
+
+00:17:46.000 --> 00:17:49.000
+If it has, there is no way that any future civilization
+
+00:17:49.000 --> 00:17:52.000
+will be able to recover the memories of these frozen brains.
+
+00:17:52.000 --> 00:17:54.000
+Resurrection might succeed for the body,
+
+00:17:54.000 --> 00:17:56.000
+but not for the mind.
+
+00:17:56.000 --> 00:17:59.000
+On the other hand, if the connectome is still intact,
+
+00:17:59.000 --> 00:18:02.000
+we cannot ridicule the claims of cryonics so easily.
+
+00:18:05.000 --> 00:18:07.000
+I've described a quest
+
+00:18:07.000 --> 00:18:10.000
+that begins in the world of the very small,
+
+00:18:10.000 --> 00:18:13.000
+and propels us to the world of the far future.
+
+00:18:13.000 --> 00:18:16.000
+Connectomes will mark a turning point in human history.
+
+00:18:17.000 --> 00:18:19.000
+As we evolved from our ape-like ancestors
+
+00:18:19.000 --> 00:18:21.000
+on the African savanna,
+
+00:18:21.000 --> 00:18:24.000
+what distinguished us was our larger brains.
+
+00:18:25.000 --> 00:18:27.000
+We have used our brains to fashion
+
+00:18:27.000 --> 00:18:30.000
+ever more amazing technologies.
+
+00:18:30.000 --> 00:18:33.000
+Eventually, these technologies will become so powerful
+
+00:18:33.000 --> 00:18:36.000
+that we will use them to know ourselves
+
+00:18:36.000 --> 00:18:39.000
+by deconstructing and reconstructing
+
+00:18:39.000 --> 00:18:42.000
+our own brains.
+
+00:18:42.000 --> 00:18:45.000
+I believe that this voyage of self-discovery
+
+00:18:45.000 --> 00:18:48.000
+is not just for scientists,
+
+00:18:48.000 --> 00:18:50.000
+but for all of us.
+
+00:18:50.000 --> 00:18:53.000
+And I'm grateful for the opportunity to share this voyage with you today.
+
+00:18:53.000 --> 00:18:55.000
+Thank you.
+
+00:18:55.000 --> 00:19:03.000
+(Applause)
+

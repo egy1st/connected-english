@@ -1,0 +1,1001 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+You know, I've talked about some of these projects before --
+
+00:00:03.000 --> 00:00:07.000
+about the human genome and what that might mean,
+
+00:00:07.000 --> 00:00:10.000
+and discovering new sets of genes.
+
+00:00:10.000 --> 00:00:13.000
+We're actually starting at a new point:
+
+00:00:13.000 --> 00:00:17.000
+we've been digitizing biology,
+
+00:00:17.000 --> 00:00:20.000
+and now we're trying to go from that digital code
+
+00:00:20.000 --> 00:00:22.000
+into a new phase of biology
+
+00:00:22.000 --> 00:00:25.000
+with designing and synthesizing life.
+
+00:00:25.000 --> 00:00:28.000
+So, we've always been trying to ask big questions.
+
+00:00:30.000 --> 00:00:32.000
+"What is life?" is something that I think many biologists
+
+00:00:32.000 --> 00:00:34.000
+have been trying to understand
+
+00:00:34.000 --> 00:00:36.000
+at various levels.
+
+00:00:36.000 --> 00:00:39.000
+We've tried various approaches,
+
+00:00:39.000 --> 00:00:42.000
+paring it down to minimal components.
+
+00:00:43.000 --> 00:00:45.000
+We've been digitizing it now for almost 20 years;
+
+00:00:45.000 --> 00:00:47.000
+when we sequenced the human genome,
+
+00:00:47.000 --> 00:00:50.000
+it was going from the analog world of biology
+
+00:00:50.000 --> 00:00:54.000
+into the digital world of the computer.
+
+00:00:54.000 --> 00:00:58.000
+Now we're trying to ask, "Can we regenerate life
+
+00:00:58.000 --> 00:01:00.000
+or can we create new life
+
+00:01:00.000 --> 00:01:03.000
+out of this digital universe?"
+
+00:01:03.000 --> 00:01:06.000
+This is the map of a small organism,
+
+00:01:06.000 --> 00:01:08.000
+Mycoplasma genitalium,
+
+00:01:08.000 --> 00:01:11.000
+that has the smallest genome for a species
+
+00:01:11.000 --> 00:01:14.000
+that can self-replicate in the laboratory,
+
+00:01:14.000 --> 00:01:16.000
+and we've been trying to just see if
+
+00:01:16.000 --> 00:01:19.000
+we can come up with an even smaller genome.
+
+00:01:20.000 --> 00:01:22.000
+We're able to knock out on the order of 100 genes
+
+00:01:22.000 --> 00:01:25.000
+out of the 500 or so that are here.
+
+00:01:25.000 --> 00:01:27.000
+When we look at its metabolic map,
+
+00:01:27.000 --> 00:01:29.000
+it's relatively simple
+
+00:01:29.000 --> 00:01:31.000
+compared to ours --
+
+00:01:31.000 --> 00:01:33.000
+trust me, this is simple --
+
+00:01:33.000 --> 00:01:35.000
+but when we look at all the genes
+
+00:01:35.000 --> 00:01:38.000
+that we can knock out one at a time,
+
+00:01:38.000 --> 00:01:40.000
+it's very unlikely that this would yield
+
+00:01:40.000 --> 00:01:42.000
+a living cell.
+
+00:01:43.000 --> 00:01:45.000
+So we decided the only way forward
+
+00:01:45.000 --> 00:01:48.000
+was to actually synthesize this chromosome
+
+00:01:48.000 --> 00:01:51.000
+so we could vary the components
+
+00:01:51.000 --> 00:01:55.000
+to ask some of these most fundamental questions.
+
+00:01:55.000 --> 00:01:57.000
+And so we started down the road of:
+
+00:01:57.000 --> 00:02:00.000
+can we synthesize a chromosome?
+
+00:02:01.000 --> 00:02:03.000
+Can chemistry permit making
+
+00:02:03.000 --> 00:02:05.000
+these really large molecules
+
+00:02:05.000 --> 00:02:07.000
+where we've never been before?
+
+00:02:07.000 --> 00:02:10.000
+And if we do, can we boot up a chromosome?
+
+00:02:10.000 --> 00:02:13.000
+A chromosome, by the way, is just a piece of inert chemical material.
+
+00:02:14.000 --> 00:02:17.000
+So, our pace of digitizing life has been increasing
+
+00:02:17.000 --> 00:02:20.000
+at an exponential pace.
+
+00:02:20.000 --> 00:02:23.000
+Our ability to write the genetic code
+
+00:02:23.000 --> 00:02:25.000
+has been moving pretty slowly
+
+00:02:25.000 --> 00:02:28.000
+but has been increasing,
+
+00:02:28.000 --> 00:02:32.000
+and our latest point would put it on, now, an exponential curve.
+
+00:02:33.000 --> 00:02:35.000
+We started this over 15 years ago.
+
+00:02:35.000 --> 00:02:38.000
+It took several stages, in fact,
+
+00:02:38.000 --> 00:02:41.000
+starting with a bioethical review before we did the first experiments.
+
+00:02:42.000 --> 00:02:44.000
+But it turns out synthesizing DNA
+
+00:02:44.000 --> 00:02:46.000
+is very difficult.
+
+00:02:46.000 --> 00:02:49.000
+There are tens of thousands of machines around the world
+
+00:02:49.000 --> 00:02:51.000
+that make small pieces of DNA --
+
+00:02:51.000 --> 00:02:54.000
+30 to 50 letters in length --
+
+00:02:54.000 --> 00:02:57.000
+and it's a degenerate process, so the longer you make the piece,
+
+00:02:57.000 --> 00:02:59.000
+the more errors there are.
+
+00:02:59.000 --> 00:03:01.000
+So we had to create a new method
+
+00:03:01.000 --> 00:03:04.000
+for putting these little pieces together and correct all the errors.
+
+00:03:05.000 --> 00:03:08.000
+And this was our first attempt, starting with the digital information
+
+00:03:08.000 --> 00:03:10.000
+of the genome of phi X174.
+
+00:03:10.000 --> 00:03:13.000
+It's a small virus that kills bacteria.
+
+00:03:14.000 --> 00:03:17.000
+We designed the pieces, went through our error correction
+
+00:03:17.000 --> 00:03:19.000
+and had a DNA molecule
+
+00:03:19.000 --> 00:03:22.000
+of about 5,000 letters.
+
+00:03:22.000 --> 00:03:26.000
+The exciting phase came when we took this piece of inert chemical
+
+00:03:26.000 --> 00:03:28.000
+and put it in the bacteria,
+
+00:03:28.000 --> 00:03:32.000
+and the bacteria started to read this genetic code,
+
+00:03:32.000 --> 00:03:34.000
+made the viral particles.
+
+00:03:34.000 --> 00:03:36.000
+The viral particles then were released from the cells
+
+00:03:36.000 --> 00:03:39.000
+and came back and killed the E. coli.
+
+00:03:39.000 --> 00:03:42.000
+I was talking to the oil industry recently
+
+00:03:42.000 --> 00:03:45.000
+and I said they clearly understood that model.
+
+00:03:45.000 --> 00:03:48.000
+(Laughter)
+
+00:03:48.000 --> 00:03:51.000
+They laughed more than you guys are. (Laughter)
+
+00:03:52.000 --> 00:03:54.000
+And so, we think this is a situation
+
+00:03:54.000 --> 00:03:57.000
+where the software can actually build its own hardware
+
+00:03:57.000 --> 00:03:59.000
+in a biological system.
+
+00:03:59.000 --> 00:04:01.000
+But we wanted to go much larger:
+
+00:04:01.000 --> 00:04:04.000
+we wanted to build the entire bacterial chromosome --
+
+00:04:04.000 --> 00:04:08.000
+it's over 580,000 letters of genetic code --
+
+00:04:08.000 --> 00:04:11.000
+so we thought we'd build them in cassettes the size of the viruses
+
+00:04:11.000 --> 00:04:13.000
+so we could actually vary the cassettes
+
+00:04:13.000 --> 00:04:15.000
+to understand
+
+00:04:15.000 --> 00:04:18.000
+what the actual components of a living cell are.
+
+00:04:18.000 --> 00:04:20.000
+Design is critical,
+
+00:04:20.000 --> 00:04:23.000
+and if you're starting with digital information in the computer,
+
+00:04:23.000 --> 00:04:27.000
+that digital information has to be really accurate.
+
+00:04:27.000 --> 00:04:30.000
+When we first sequenced this genome in 1995,
+
+00:04:30.000 --> 00:04:34.000
+the standard of accuracy was one error per 10,000 base pairs.
+
+00:04:34.000 --> 00:04:36.000
+We actually found, on resequencing it,
+
+00:04:36.000 --> 00:04:39.000
+30 errors; had we used that original sequence,
+
+00:04:39.000 --> 00:04:42.000
+it never would have been able to be booted up.
+
+00:04:42.000 --> 00:04:44.000
+Part of the design is designing pieces
+
+00:04:44.000 --> 00:04:47.000
+that are 50 letters long
+
+00:04:47.000 --> 00:04:50.000
+that have to overlap with all the other 50-letter pieces
+
+00:04:50.000 --> 00:04:52.000
+to build smaller subunits
+
+00:04:52.000 --> 00:04:55.000
+we have to design so they can go together.
+
+00:04:55.000 --> 00:04:58.000
+We design unique elements into this.
+
+00:04:58.000 --> 00:05:00.000
+You may have read that we put watermarks in.
+
+00:05:00.000 --> 00:05:02.000
+Think of this:
+
+00:05:02.000 --> 00:05:05.000
+we have a four-letter genetic code -- A, C, G and T.
+
+00:05:05.000 --> 00:05:08.000
+Triplets of those letters
+
+00:05:08.000 --> 00:05:10.000
+code for roughly 20 amino acids,
+
+00:05:10.000 --> 00:05:13.000
+such that there's a single letter designation
+
+00:05:13.000 --> 00:05:15.000
+for each of the amino acids.
+
+00:05:15.000 --> 00:05:18.000
+So we can use the genetic code to write out words,
+
+00:05:18.000 --> 00:05:20.000
+sentences, thoughts.
+
+00:05:21.000 --> 00:05:23.000
+Initially, all we did was autograph it.
+
+00:05:23.000 --> 00:05:26.000
+Some people were disappointed there was not poetry.
+
+00:05:26.000 --> 00:05:28.000
+We designed these pieces so
+
+00:05:28.000 --> 00:05:31.000
+we can just chew back with enzymes;
+
+00:05:32.000 --> 00:05:35.000
+there are enzymes that repair them and put them together.
+
+00:05:35.000 --> 00:05:37.000
+And we started making pieces,
+
+00:05:37.000 --> 00:05:41.000
+starting with pieces that were 5,000 to 7,000 letters,
+
+00:05:41.000 --> 00:05:45.000
+put those together to make 24,000-letter pieces,
+
+00:05:45.000 --> 00:05:49.000
+then put sets of those going up to 72,000.
+
+00:05:49.000 --> 00:05:51.000
+At each stage, we grew up these pieces in abundance
+
+00:05:51.000 --> 00:05:53.000
+so we could sequence them
+
+00:05:53.000 --> 00:05:56.000
+because we're trying to create a process that's extremely robust
+
+00:05:56.000 --> 00:05:59.000
+that you can see in a minute.
+
+00:05:59.000 --> 00:06:02.000
+We're trying to get to the point of automation.
+
+00:06:02.000 --> 00:06:04.000
+So, this looks like a basketball playoff.
+
+00:06:04.000 --> 00:06:06.000
+When we get into these really large pieces
+
+00:06:06.000 --> 00:06:10.000
+over 100,000 base pairs,
+
+00:06:10.000 --> 00:06:12.000
+they won't any longer grow readily in E. coli --
+
+00:06:12.000 --> 00:06:16.000
+it exhausts all the modern tools of molecular biology --
+
+00:06:16.000 --> 00:06:20.000
+and so we turned to other mechanisms.
+
+00:06:20.000 --> 00:06:23.000
+We knew there's a mechanism called homologous recombination
+
+00:06:23.000 --> 00:06:26.000
+that biology uses to repair DNA
+
+00:06:26.000 --> 00:06:29.000
+that can put pieces together.
+
+00:06:29.000 --> 00:06:30.000
+Here's an example of it:
+
+00:06:30.000 --> 00:06:31.000
+there's an organism called
+
+00:06:31.000 --> 00:06:33.000
+Deinococcus radiodurans
+
+00:06:33.000 --> 00:06:36.000
+that can take three millions rads of radiation.
+
+00:06:36.000 --> 00:06:40.000
+You can see in the top panel, its chromosome just gets blown apart.
+
+00:06:40.000 --> 00:06:43.000
+Twelve to 24 hours later, it put it
+
+00:06:43.000 --> 00:06:45.000
+back together exactly as it was before.
+
+00:06:45.000 --> 00:06:48.000
+We have thousands of organisms that can do this.
+
+00:06:48.000 --> 00:06:50.000
+These organisms can be totally desiccated;
+
+00:06:50.000 --> 00:06:52.000
+they can live in a vacuum.
+
+00:06:53.000 --> 00:06:56.000
+I am absolutely certain that life can exist in outer space,
+
+00:06:56.000 --> 00:06:59.000
+move around, find a new aqueous environment.
+
+00:06:59.000 --> 00:07:03.000
+In fact, NASA has shown a lot of this is out there.
+
+00:07:03.000 --> 00:07:07.000
+Here's an actual micrograph of the molecule we built
+
+00:07:07.000 --> 00:07:11.000
+using these processes, actually just using yeast mechanisms
+
+00:07:11.000 --> 00:07:14.000
+with the right design of the pieces we put them in;
+
+00:07:14.000 --> 00:07:17.000
+yeast puts them together automatically.
+
+00:07:17.000 --> 00:07:19.000
+This is not an electron micrograph;
+
+00:07:19.000 --> 00:07:21.000
+this is just a regular photomicrograph.
+
+00:07:21.000 --> 00:07:23.000
+It's such a large molecule
+
+00:07:23.000 --> 00:07:26.000
+we can see it with a light microscope.
+
+00:07:26.000 --> 00:07:29.000
+These are pictures over about a six-second period.
+
+00:07:29.000 --> 00:07:33.000
+So, this is the publication we had just a short while ago.
+
+00:07:33.000 --> 00:07:36.000
+This is over 580,000 letters of genetic code;
+
+00:07:36.000 --> 00:07:41.000
+it's the largest molecule ever made by humans of a defined structure.
+
+00:07:41.000 --> 00:07:44.000
+It's over 300 million molecular weight.
+
+00:07:44.000 --> 00:07:47.000
+If we printed it out at a 10 font with no spacing,
+
+00:07:47.000 --> 00:07:49.000
+it takes 142 pages
+
+00:07:49.000 --> 00:07:53.000
+just to print this genetic code.
+
+00:07:53.000 --> 00:07:56.000
+Well, how do we boot up a chromosome? How do we activate this?
+
+00:07:56.000 --> 00:07:59.000
+Obviously, with a virus it's pretty simple;
+
+00:07:59.000 --> 00:08:02.000
+it's much more complicated dealing with bacteria.
+
+00:08:02.000 --> 00:08:04.000
+It's also simpler when you go
+
+00:08:04.000 --> 00:08:06.000
+into eukaryotes like ourselves:
+
+00:08:06.000 --> 00:08:08.000
+you can just pop out the nucleus
+
+00:08:08.000 --> 00:08:10.000
+and pop in another one,
+
+00:08:10.000 --> 00:08:13.000
+and that's what you've all heard about with cloning.
+
+00:08:13.000 --> 00:08:17.000
+With bacteria and Archaea, the chromosome is integrated into the cell,
+
+00:08:17.000 --> 00:08:21.000
+but we recently showed that we can do a complete transplant
+
+00:08:21.000 --> 00:08:23.000
+of a chromosome from one cell to another
+
+00:08:23.000 --> 00:08:26.000
+and activate it.
+
+00:08:26.000 --> 00:08:30.000
+We purified a chromosome from one microbial species --
+
+00:08:30.000 --> 00:08:33.000
+roughly, these two are as distant as human and mice --
+
+00:08:33.000 --> 00:08:35.000
+we added a few extra genes
+
+00:08:35.000 --> 00:08:37.000
+so we could select for this chromosome,
+
+00:08:37.000 --> 00:08:39.000
+we digested it with enzymes
+
+00:08:39.000 --> 00:08:41.000
+to kill all the proteins,
+
+00:08:41.000 --> 00:08:44.000
+and it was pretty stunning when we put this in the cell --
+
+00:08:44.000 --> 00:08:46.000
+and you'll appreciate
+
+00:08:46.000 --> 00:08:49.000
+our very sophisticated graphics here.
+
+00:08:49.000 --> 00:08:52.000
+The new chromosome went into the cell.
+
+00:08:52.000 --> 00:08:54.000
+In fact, we thought this might be as far as it went,
+
+00:08:54.000 --> 00:08:57.000
+but we tried to design the process a little bit further.
+
+00:08:57.000 --> 00:09:00.000
+This is a major mechanism of evolution right here.
+
+00:09:00.000 --> 00:09:02.000
+We find all kinds of species
+
+00:09:02.000 --> 00:09:04.000
+that have taken up a second chromosome
+
+00:09:04.000 --> 00:09:06.000
+or a third one from somewhere,
+
+00:09:06.000 --> 00:09:08.000
+adding thousands of new traits
+
+00:09:08.000 --> 00:09:10.000
+in a second to that species.
+
+00:09:10.000 --> 00:09:12.000
+So, people who think of evolution
+
+00:09:12.000 --> 00:09:14.000
+as just one gene changing at a time
+
+00:09:14.000 --> 00:09:17.000
+have missed much of biology.
+
+00:09:17.000 --> 00:09:19.000
+There are enzymes called restriction enzymes
+
+00:09:19.000 --> 00:09:21.000
+that actually digest DNA.
+
+00:09:21.000 --> 00:09:23.000
+The chromosome that was in the cell
+
+00:09:23.000 --> 00:09:25.000
+doesn't have one;
+
+00:09:25.000 --> 00:09:27.000
+the chromosome we put in does.
+
+00:09:27.000 --> 00:09:29.000
+It got expressed and it recognized
+
+00:09:29.000 --> 00:09:32.000
+the other chromosome as foreign material,
+
+00:09:32.000 --> 00:09:34.000
+chewed it up, and so we ended up
+
+00:09:34.000 --> 00:09:38.000
+just with a cell with the new chromosome.
+
+00:09:38.000 --> 00:09:41.000
+It turned blue because of the genes we put in it.
+
+00:09:41.000 --> 00:09:43.000
+And with a very short period of time,
+
+00:09:43.000 --> 00:09:46.000
+all the characteristics of one species were lost
+
+00:09:46.000 --> 00:09:49.000
+and it converted totally into the new species
+
+00:09:49.000 --> 00:09:52.000
+based on the new software that we put in the cell.
+
+00:09:52.000 --> 00:09:54.000
+All the proteins changed,
+
+00:09:54.000 --> 00:09:56.000
+the membranes changed;
+
+00:09:56.000 --> 00:10:00.000
+when we read the genetic code, it's exactly what we had transferred in.
+
+00:10:00.000 --> 00:10:03.000
+So, this may sound like genomic alchemy,
+
+00:10:03.000 --> 00:10:07.000
+but we can, by moving the software of DNA around,
+
+00:10:07.000 --> 00:10:11.000
+change things quite dramatically.
+
+00:10:11.000 --> 00:10:13.000
+Now I've argued, this is not genesis;
+
+00:10:13.000 --> 00:10:17.000
+this is building on three and a half billion years of evolution.
+
+00:10:18.000 --> 00:10:20.000
+And I've argued that we're about to perhaps
+
+00:10:20.000 --> 00:10:23.000
+create a new version of the Cambrian explosion,
+
+00:10:23.000 --> 00:10:26.000
+where there's massive new speciation
+
+00:10:27.000 --> 00:10:29.000
+based on this digital design.
+
+00:10:29.000 --> 00:10:31.000
+Why do this?
+
+00:10:31.000 --> 00:10:33.000
+I think this is pretty obvious in terms of some of the needs.
+
+00:10:33.000 --> 00:10:35.000
+We're about to go from six and a half
+
+00:10:35.000 --> 00:10:38.000
+to nine billion people over the next 40 years.
+
+00:10:38.000 --> 00:10:40.000
+To put it in context for myself:
+
+00:10:40.000 --> 00:10:42.000
+I was born in 1946.
+
+00:10:42.000 --> 00:10:44.000
+There are now three people on the planet
+
+00:10:44.000 --> 00:10:48.000
+for every one of us that existed in 1946;
+
+00:10:48.000 --> 00:10:51.000
+within 40 years, there'll be four.
+
+00:10:51.000 --> 00:10:54.000
+We have trouble feeding, providing fresh, clean water,
+
+00:10:54.000 --> 00:10:56.000
+medicines, fuel
+
+00:10:56.000 --> 00:10:59.000
+for the six and a half billion.
+
+00:10:59.000 --> 00:11:01.000
+It's going to be a stretch to do it for nine.
+
+00:11:01.000 --> 00:11:04.000
+We use over five billion tons of coal,
+
+00:11:04.000 --> 00:11:07.000
+30 billion-plus barrels of oil --
+
+00:11:07.000 --> 00:11:11.000
+that's a hundred million barrels a day.
+
+00:11:11.000 --> 00:11:13.000
+When we try to think of biological processes
+
+00:11:13.000 --> 00:11:16.000
+or any process to replace that,
+
+00:11:16.000 --> 00:11:18.000
+it's going to be a huge challenge.
+
+00:11:18.000 --> 00:11:20.000
+Then of course, there's all that
+
+00:11:20.000 --> 00:11:22.000
+CO2 from this material
+
+00:11:22.000 --> 00:11:25.000
+that ends up in the atmosphere.
+
+00:11:25.000 --> 00:11:27.000
+We now, from our discovery around the world,
+
+00:11:27.000 --> 00:11:31.000
+have a database with about 20 million genes,
+
+00:11:31.000 --> 00:11:35.000
+and I like to think of these as the design components of the future.
+
+00:11:35.000 --> 00:11:38.000
+The electronics industry only had a dozen or so components,
+
+00:11:38.000 --> 00:11:42.000
+and look at the diversity that came out of that.
+
+00:11:42.000 --> 00:11:44.000
+We're limited here primarily
+
+00:11:44.000 --> 00:11:46.000
+by a biological reality
+
+00:11:46.000 --> 00:11:48.000
+and our imagination.
+
+00:11:49.000 --> 00:11:51.000
+We now have techniques,
+
+00:11:51.000 --> 00:11:54.000
+because of these rapid methods of synthesis,
+
+00:11:54.000 --> 00:11:58.000
+to do what we're calling combinatorial genomics.
+
+00:11:58.000 --> 00:12:01.000
+We have the ability now to build a large robot
+
+00:12:01.000 --> 00:12:04.000
+that can make a million chromosomes a day.
+
+00:12:05.000 --> 00:12:08.000
+When you think of processing these 20 million different genes
+
+00:12:08.000 --> 00:12:10.000
+or trying to optimize processes
+
+00:12:10.000 --> 00:12:13.000
+to produce octane or to produce pharmaceuticals,
+
+00:12:13.000 --> 00:12:16.000
+new vaccines,
+
+00:12:16.000 --> 00:12:19.000
+we can just with a small team,
+
+00:12:19.000 --> 00:12:21.000
+do more molecular biology
+
+00:12:21.000 --> 00:12:24.000
+than the last 20 years of all science.
+
+00:12:24.000 --> 00:12:26.000
+And it's just standard selection:
+
+00:12:26.000 --> 00:12:28.000
+we can select for viability,
+
+00:12:28.000 --> 00:12:30.000
+chemical or fuel production,
+
+00:12:30.000 --> 00:12:32.000
+vaccine production, etc.
+
+00:12:32.000 --> 00:12:35.000
+This is a screen snapshot
+
+00:12:35.000 --> 00:12:38.000
+of some true design software
+
+00:12:38.000 --> 00:12:41.000
+that we're working on to actually be able to sit down
+
+00:12:41.000 --> 00:12:44.000
+and design species in the computer.
+
+00:12:45.000 --> 00:12:48.000
+You know, we don't know necessarily what it'll look like:
+
+00:12:48.000 --> 00:12:51.000
+we know exactly what their genetic code looks like.
+
+00:12:51.000 --> 00:12:56.000
+We're focusing on now fourth-generation fuels.
+
+00:12:57.000 --> 00:12:59.000
+You've seen recently, corn to ethanol
+
+00:12:59.000 --> 00:13:01.000
+is just a bad experiment.
+
+00:13:01.000 --> 00:13:03.000
+We have second- and third-generation fuels
+
+00:13:03.000 --> 00:13:06.000
+that will be coming out relatively soon
+
+00:13:06.000 --> 00:13:09.000
+that are sugar, to much higher-value fuels
+
+00:13:09.000 --> 00:13:12.000
+like octane or different types of butanol.
+
+00:13:12.000 --> 00:13:15.000
+But the only way we think that biology
+
+00:13:15.000 --> 00:13:17.000
+can have a major impact without
+
+00:13:18.000 --> 00:13:21.000
+further increasing the cost of food and limiting its availability
+
+00:13:21.000 --> 00:13:24.000
+is if we start with CO2 as its feedstock,
+
+00:13:24.000 --> 00:13:28.000
+and so we're working with designing cells to go down this road.
+
+00:13:29.000 --> 00:13:32.000
+And we think we'll have the first fourth-generation fuels
+
+00:13:32.000 --> 00:13:34.000
+in about 18 months.
+
+00:13:34.000 --> 00:13:36.000
+Sunlight and CO2 is one method ...
+
+00:13:36.000 --> 00:13:41.000
+(Applause)
+
+00:13:41.000 --> 00:13:43.000
+but in our discovery around the world,
+
+00:13:43.000 --> 00:13:45.000
+we have all kinds of other methods.
+
+00:13:45.000 --> 00:13:49.000
+This is an organism we described in 1996.
+
+00:13:49.000 --> 00:13:51.000
+It lives in the deep ocean,
+
+00:13:51.000 --> 00:13:53.000
+about a mile and a half deep,
+
+00:13:53.000 --> 00:13:55.000
+almost at boiling-water temperatures.
+
+00:13:55.000 --> 00:13:58.000
+It takes CO2 to methane
+
+00:13:58.000 --> 00:14:01.000
+using molecular hydrogen as its energy source.
+
+00:14:01.000 --> 00:14:03.000
+We're looking to see if we can take
+
+00:14:03.000 --> 00:14:05.000
+captured CO2,
+
+00:14:05.000 --> 00:14:07.000
+which can easily be piped to sites,
+
+00:14:07.000 --> 00:14:10.000
+convert that CO2 back into fuel
+
+00:14:10.000 --> 00:14:13.000
+to drive this process.
+
+00:14:13.000 --> 00:14:15.000
+So, in a short period of time,
+
+00:14:15.000 --> 00:14:19.000
+we think that we might be able to increase
+
+00:14:19.000 --> 00:14:22.000
+what the basic question is of "What is life?"
+
+00:14:22.000 --> 00:14:24.000
+We truly, you know,
+
+00:14:24.000 --> 00:14:26.000
+have modest goals
+
+00:14:26.000 --> 00:14:29.000
+of replacing the whole petrol-chemical industry --
+
+00:14:29.000 --> 00:14:32.000
+(Laughter) (Applause)
+
+00:14:32.000 --> 00:14:35.000
+Yeah. If you can't do that at TED, where can you? --
+
+00:14:35.000 --> 00:14:37.000
+(Laughter)
+
+00:14:37.000 --> 00:14:39.000
+become a major source of energy ...
+
+00:14:39.000 --> 00:14:42.000
+But also, we're now working on using these same tools
+
+00:14:42.000 --> 00:14:45.000
+to come up with instant sets of vaccines.
+
+00:14:45.000 --> 00:14:47.000
+You've seen this year with flu;
+
+00:14:47.000 --> 00:14:50.000
+we're always a year behind and a dollar short
+
+00:14:50.000 --> 00:14:52.000
+when it comes to the right vaccine.
+
+00:14:52.000 --> 00:14:54.000
+I think that can be changed
+
+00:14:54.000 --> 00:14:57.000
+by building combinatorial vaccines in advance.
+
+00:14:58.000 --> 00:15:01.000
+Here's what the future may begin to look like
+
+00:15:01.000 --> 00:15:05.000
+with changing, now, the evolutionary tree,
+
+00:15:05.000 --> 00:15:07.000
+speeding up evolution
+
+00:15:07.000 --> 00:15:10.000
+with synthetic bacteria, Archaea
+
+00:15:10.000 --> 00:15:13.000
+and, eventually, eukaryotes.
+
+00:15:14.000 --> 00:15:16.000
+We're a ways away from improving people:
+
+00:15:16.000 --> 00:15:19.000
+our goal is just to make sure that we have a chance
+
+00:15:19.000 --> 00:15:22.000
+to survive long enough to maybe do that. Thank you very much.
+
+00:15:22.000 --> 00:15:29.000
+(Applause)
+

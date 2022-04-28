@@ -1,0 +1,1210 @@
+WEBVTT
+
+00:00:00.528 --> 00:00:04.477
+So in 1885, Karl Benz
+invented the automobile.
+
+00:00:04.707 --> 00:00:08.469
+Later that year, he took it out
+for the first public test drive,
+
+00:00:08.469 --> 00:00:11.844
+and -- true story --
+crashed into a wall.
+
+00:00:12.184 --> 00:00:14.227
+For the last 130 years,
+
+00:00:14.227 --> 00:00:18.546
+we've been working around that least
+reliable part of the car, the driver.
+
+00:00:18.546 --> 00:00:19.900
+We've made the car stronger.
+
+00:00:20.200 --> 00:00:22.748
+We've added seat belts,
+we've added air bags,
+
+00:00:22.748 --> 00:00:26.719
+and in the last decade, we've actually
+started trying to make the car smarter
+
+00:00:26.719 --> 00:00:29.657
+to fix that bug, the driver.
+
+00:00:29.657 --> 00:00:32.918
+Now, today I'm going to talk to you
+a little bit about the difference
+
+00:00:32.918 --> 00:00:36.726
+between patching around the problem
+with driver assistance systems
+
+00:00:36.726 --> 00:00:39.290
+and actually having fully
+self-driving cars
+
+00:00:39.290 --> 00:00:41.170
+and what they can do for the world.
+
+00:00:41.170 --> 00:00:44.165
+I'm also going to talk to you
+a little bit about our car
+
+00:00:44.165 --> 00:00:48.164
+and allow you to see how it sees the world
+and how it reacts and what it does,
+
+00:00:48.164 --> 00:00:51.351
+but first I'm going to talk
+a little bit about the problem.
+
+00:00:51.651 --> 00:00:53.299
+And it's a big problem:
+
+00:00:53.299 --> 00:00:56.388
+1.2 million people are killed
+on the world's roads every year.
+
+00:00:56.388 --> 00:01:00.172
+In America alone, 33,000 people
+are killed each year.
+
+00:01:00.172 --> 00:01:02.200
+To put that in perspective,
+
+00:01:02.200 --> 00:01:06.997
+that's the same as a 737
+falling out of the sky every working day.
+
+00:01:07.342 --> 00:01:09.128
+It's kind of unbelievable.
+
+00:01:09.548 --> 00:01:11.846
+Cars are sold to us like this,
+
+00:01:11.846 --> 00:01:14.563
+but really, this is what driving's like.
+
+00:01:14.563 --> 00:01:16.722
+Right? It's not sunny, it's rainy,
+
+00:01:16.722 --> 00:01:19.210
+and you want to do anything
+other than drive.
+
+00:01:19.210 --> 00:01:20.832
+And the reason why is this:
+
+00:01:20.832 --> 00:01:22.690
+Traffic is getting worse.
+
+00:01:22.690 --> 00:01:26.196
+In America, between 1990 and 2010,
+
+00:01:26.196 --> 00:01:29.700
+the vehicle miles traveled
+increased by 38 percent.
+
+00:01:30.213 --> 00:01:32.962
+We grew by six percent of roads,
+
+00:01:32.962 --> 00:01:34.564
+so it's not in your brains.
+
+00:01:34.564 --> 00:01:38.840
+Traffic really is substantially worse
+than it was not very long ago.
+
+00:01:38.840 --> 00:01:41.249
+And all of this has a very human cost.
+
+00:01:41.529 --> 00:01:45.477
+So if you take the average commute time
+in America, which is about 50 minutes,
+
+00:01:45.477 --> 00:01:49.126
+you multiply that by the 120 million
+workers we have,
+
+00:01:49.126 --> 00:01:51.351
+that turns out to be
+about six billion minutes
+
+00:01:51.351 --> 00:01:53.377
+wasted in commuting every day.
+
+00:01:53.377 --> 00:01:56.204
+Now, that's a big number,
+so let's put it in perspective.
+
+00:01:56.204 --> 00:01:57.978
+You take that six billion minutes
+
+00:01:57.978 --> 00:02:01.762
+and you divide it by the average
+life expectancy of a person,
+
+00:02:01.762 --> 00:02:04.897
+that turns out to be 162 lifetimes
+
+00:02:04.897 --> 00:02:07.822
+spent every day, wasted,
+
+00:02:07.822 --> 00:02:09.866
+just getting from A to B.
+
+00:02:09.866 --> 00:02:11.596
+It's unbelievable.
+
+00:02:11.596 --> 00:02:14.440
+And then, there are those of us
+who don't have the privilege
+
+00:02:14.440 --> 00:02:16.112
+of sitting in traffic.
+
+00:02:16.112 --> 00:02:17.690
+So this is Steve.
+
+00:02:17.690 --> 00:02:19.455
+He's an incredibly capable guy,
+
+00:02:19.455 --> 00:02:21.971
+but he just happens to be blind,
+
+00:02:21.971 --> 00:02:25.188
+and that means instead of a 30-minute
+drive to work in the morning,
+
+00:02:25.188 --> 00:02:29.167
+it's a two-hour ordeal
+of piecing together bits of public transit
+
+00:02:29.167 --> 00:02:31.552
+or asking friends and family for a ride.
+
+00:02:31.552 --> 00:02:35.221
+He doesn't have that same freedom
+that you and I have to get around.
+
+00:02:35.221 --> 00:02:37.681
+We should do something about that.
+
+00:02:37.891 --> 00:02:39.648
+Now, conventional wisdom would say
+
+00:02:39.648 --> 00:02:42.140
+that we'll just take
+these driver assistance systems
+
+00:02:42.140 --> 00:02:45.890
+and we'll kind of push them
+and incrementally improve them,
+
+00:02:45.890 --> 00:02:48.432
+and over time, they'll turn
+into self-driving cars.
+
+00:02:48.432 --> 00:02:50.841
+Well, I'm here to tell you
+that's like me saying
+
+00:02:50.841 --> 00:02:54.898
+that if I work really hard at jumping,
+one day I'll be able to fly.
+
+00:02:54.898 --> 00:02:57.626
+We actually need to do
+something a little different.
+
+00:02:57.626 --> 00:03:00.337
+And so I'm going to talk to you
+about three different ways
+
+00:03:00.337 --> 00:03:03.683
+that self-driving systems are different
+than driver assistance systems.
+
+00:03:03.683 --> 00:03:06.334
+And I'm going to start
+with some of our own experience.
+
+00:03:06.334 --> 00:03:08.587
+So back in 2013,
+
+00:03:08.587 --> 00:03:11.250
+we had the first test
+of a self-driving car
+
+00:03:11.250 --> 00:03:13.277
+where we let regular people use it.
+
+00:03:13.277 --> 00:03:15.479
+Well, almost regular --
+they were 100 Googlers,
+
+00:03:15.479 --> 00:03:17.482
+but they weren't working on the project.
+
+00:03:17.482 --> 00:03:21.103
+And we gave them the car and we allowed
+them to use it in their daily lives.
+
+00:03:21.103 --> 00:03:24.822
+But unlike a real self-driving car,
+this one had a big asterisk with it:
+
+00:03:24.822 --> 00:03:26.326
+They had to pay attention,
+
+00:03:26.326 --> 00:03:28.959
+because this was an experimental vehicle.
+
+00:03:28.959 --> 00:03:32.484
+We tested it a lot,
+but it could still fail.
+
+00:03:32.484 --> 00:03:34.543
+And so we gave them two hours of training,
+
+00:03:34.543 --> 00:03:36.635
+we put them in the car,
+we let them use it,
+
+00:03:36.635 --> 00:03:38.762
+and what we heard back
+was something awesome,
+
+00:03:38.762 --> 00:03:41.286
+as someone trying
+to bring a product into the world.
+
+00:03:41.286 --> 00:03:43.211
+Every one of them told us they loved it.
+
+00:03:43.211 --> 00:03:46.777
+In fact, we had a Porsche driver
+who came in and told us on the first day,
+
+00:03:46.777 --> 00:03:49.440
+"This is completely stupid.
+What are we thinking?"
+
+00:03:49.850 --> 00:03:52.690
+But at the end of it, he said,
+"Not only should I have it,
+
+00:03:52.690 --> 00:03:55.865
+everyone else should have it,
+because people are terrible drivers."
+
+00:03:57.135 --> 00:03:58.870
+So this was music to our ears,
+
+00:03:58.870 --> 00:04:02.673
+but then we started to look at what
+the people inside the car were doing,
+
+00:04:02.673 --> 00:04:04.252
+and this was eye-opening.
+
+00:04:04.252 --> 00:04:06.690
+Now, my favorite story is this gentleman
+
+00:04:06.690 --> 00:04:10.519
+who looks down at his phone
+and realizes the battery is low,
+
+00:04:10.519 --> 00:04:15.067
+so he turns around like this in the car
+and digs around in his backpack,
+
+00:04:15.067 --> 00:04:17.220
+pulls out his laptop,
+
+00:04:17.220 --> 00:04:18.787
+puts it on the seat,
+
+00:04:18.787 --> 00:04:20.551
+goes in the back again,
+
+00:04:20.551 --> 00:04:23.918
+digs around, pulls out
+the charging cable for his phone,
+
+00:04:23.918 --> 00:04:27.285
+futzes around, puts it into the laptop,
+puts it on the phone.
+
+00:04:27.285 --> 00:04:29.328
+Sure enough, the phone is charging.
+
+00:04:29.328 --> 00:04:33.322
+All the time he's been doing
+65 miles per hour down the freeway.
+
+00:04:33.322 --> 00:04:35.806
+Right? Unbelievable.
+
+00:04:35.806 --> 00:04:38.927
+So we thought about this and we said,
+it's kind of obvious, right?
+
+00:04:38.927 --> 00:04:41.190
+The better the technology gets,
+
+00:04:41.190 --> 00:04:43.311
+the less reliable
+the driver is going to get.
+
+00:04:43.311 --> 00:04:45.707
+So by just making the cars
+incrementally smarter,
+
+00:04:45.707 --> 00:04:48.609
+we're probably not going to see
+the wins we really need.
+
+00:04:48.609 --> 00:04:52.510
+Let me talk about something
+a little technical for a moment here.
+
+00:04:52.510 --> 00:04:54.948
+So we're looking at this graph,
+and along the bottom
+
+00:04:54.948 --> 00:04:57.999
+is how often does the car
+apply the brakes when it shouldn't.
+
+00:04:57.999 --> 00:04:59.620
+You can ignore most of that axis,
+
+00:04:59.620 --> 00:05:03.339
+because if you're driving around town,
+and the car starts stopping randomly,
+
+00:05:03.339 --> 00:05:05.040
+you're never going to buy that car.
+
+00:05:05.040 --> 00:05:08.415
+And the vertical axis is how often
+the car is going to apply the brakes
+
+00:05:08.415 --> 00:05:11.464
+when it's supposed to
+to help you avoid an accident.
+
+00:05:11.464 --> 00:05:13.685
+Now, if we look at
+the bottom left corner here,
+
+00:05:13.685 --> 00:05:15.530
+this is your classic car.
+
+00:05:15.530 --> 00:05:18.663
+It doesn't apply the brakes for you,
+it doesn't do anything goofy,
+
+00:05:18.663 --> 00:05:21.442
+but it also doesn't get you
+out of an accident.
+
+00:05:21.442 --> 00:05:24.460
+Now, if we want to bring
+a driver assistance system into a car,
+
+00:05:24.460 --> 00:05:26.288
+say with collision mitigation braking,
+
+00:05:26.288 --> 00:05:28.900
+we're going to put some package
+of technology on there,
+
+00:05:28.900 --> 00:05:32.318
+and that's this curve, and it's going
+to have some operating properties,
+
+00:05:32.318 --> 00:05:34.808
+but it's never going to avoid
+all of the accidents,
+
+00:05:34.808 --> 00:05:36.867
+because it doesn't have that capability.
+
+00:05:36.867 --> 00:05:39.116
+But we'll pick some place
+along the curve here,
+
+00:05:39.116 --> 00:05:42.370
+and maybe it avoids half of accidents
+that the human driver misses,
+
+00:05:42.370 --> 00:05:43.667
+and that's amazing, right?
+
+00:05:43.667 --> 00:05:46.394
+We just reduced accidents on our roads
+by a factor of two.
+
+00:05:46.394 --> 00:05:50.381
+There are now 17,000 less people
+dying every year in America.
+
+00:05:50.381 --> 00:05:52.401
+But if we want a self-driving car,
+
+00:05:52.401 --> 00:05:54.708
+we need a technology curve
+that looks like this.
+
+00:05:54.708 --> 00:05:57.307
+We're going to have to put
+more sensors in the vehicle,
+
+00:05:57.307 --> 00:05:59.328
+and we'll pick some
+operating point up here
+
+00:05:59.328 --> 00:06:01.347
+where it basically never
+gets into a crash.
+
+00:06:01.347 --> 00:06:03.790
+They'll happen, but very low frequency.
+
+00:06:03.790 --> 00:06:06.251
+Now you and I could look at this
+and we could argue
+
+00:06:06.251 --> 00:06:09.856
+about whether it's incremental, and
+I could say something like "80-20 rule,"
+
+00:06:09.856 --> 00:06:12.424
+and it's really hard to move up
+to that new curve.
+
+00:06:12.424 --> 00:06:15.358
+But let's look at it
+from a different direction for a moment.
+
+00:06:15.358 --> 00:06:18.870
+So let's look at how often
+the technology has to do the right thing.
+
+00:06:18.870 --> 00:06:22.376
+And so this green dot up here
+is a driver assistance system.
+
+00:06:22.376 --> 00:06:24.861
+It turns out that human drivers
+
+00:06:24.861 --> 00:06:27.508
+make mistakes that lead
+to traffic accidents
+
+00:06:27.508 --> 00:06:30.680
+about once every 100,000 miles in America.
+
+00:06:30.680 --> 00:06:33.847
+In contrast, a self-driving system
+is probably making decisions
+
+00:06:33.847 --> 00:06:37.510
+about 10 times per second,
+
+00:06:37.510 --> 00:06:38.932
+so order of magnitude,
+
+00:06:38.932 --> 00:06:41.764
+that's about 1,000 times per mile.
+
+00:06:41.764 --> 00:06:44.249
+So if you compare the distance
+between these two,
+
+00:06:44.249 --> 00:06:46.849
+it's about 10 to the eighth, right?
+
+00:06:46.849 --> 00:06:48.614
+Eight orders of magnitude.
+
+00:06:48.614 --> 00:06:51.423
+That's like comparing how fast I run
+
+00:06:51.423 --> 00:06:53.629
+to the speed of light.
+
+00:06:53.629 --> 00:06:57.414
+It doesn't matter how hard I train,
+I'm never actually going to get there.
+
+00:06:57.414 --> 00:06:59.852
+So there's a pretty big gap there.
+
+00:06:59.852 --> 00:07:03.581
+And then finally, there's how
+the system can handle uncertainty.
+
+00:07:03.581 --> 00:07:06.904
+So this pedestrian here might be
+stepping into the road, might not be.
+
+00:07:06.904 --> 00:07:10.299
+I can't tell,
+nor can any of our algorithms,
+
+00:07:10.310 --> 00:07:12.594
+but in the case of
+a driver assistance system,
+
+00:07:12.594 --> 00:07:15.400
+that means it can't take action,
+because again,
+
+00:07:15.400 --> 00:07:18.739
+if it presses the brakes unexpectedly,
+that's completely unacceptable.
+
+00:07:18.739 --> 00:07:21.872
+Whereas a self-driving system
+can look at that pedestrian and say,
+
+00:07:21.872 --> 00:07:23.762
+I don't know what they're about to do,
+
+00:07:23.762 --> 00:07:27.524
+slow down, take a better look,
+and then react appropriately after that.
+
+00:07:27.524 --> 00:07:31.226
+So it can be much safer than
+a driver assistance system can ever be.
+
+00:07:31.226 --> 00:07:33.956
+So that's enough about
+the differences between the two.
+
+00:07:33.956 --> 00:07:37.440
+Let's spend some time talking about
+how the car sees the world.
+
+00:07:37.440 --> 00:07:38.692
+So this is our vehicle.
+
+00:07:38.692 --> 00:07:41.130
+It starts by understanding
+where it is in the world,
+
+00:07:41.130 --> 00:07:43.917
+by taking a map and its sensor data
+and aligning the two,
+
+00:07:43.917 --> 00:07:46.865
+and then we layer on top of that
+what it sees in the moment.
+
+00:07:46.865 --> 00:07:50.520
+So here, all the purple boxes you can see
+are other vehicles on the road,
+
+00:07:50.520 --> 00:07:53.048
+and the red thing on the side
+over there is a cyclist,
+
+00:07:53.048 --> 00:07:55.450
+and up in the distance,
+if you look really closely,
+
+00:07:55.450 --> 00:07:57.244
+you can see some cones.
+
+00:07:57.244 --> 00:08:00.017
+Then we know where the car
+is in the moment,
+
+00:08:00.017 --> 00:08:03.850
+but we have to do better than that:
+we have to predict what's going to happen.
+
+00:08:03.850 --> 00:08:07.338
+So here the pickup truck in top right
+is about to make a left lane change
+
+00:08:07.338 --> 00:08:09.561
+because the road in front of it is closed,
+
+00:08:09.561 --> 00:08:11.292
+so it needs to get out of the way.
+
+00:08:11.292 --> 00:08:13.155
+Knowing that one pickup truck is great,
+
+00:08:13.155 --> 00:08:15.634
+but we really need to know
+what everybody's thinking,
+
+00:08:15.634 --> 00:08:18.141
+so it becomes quite a complicated problem.
+
+00:08:18.141 --> 00:08:22.890
+And then given that, we can figure out
+how the car should respond in the moment,
+
+00:08:22.890 --> 00:08:26.756
+so what trajectory it should follow, how
+quickly it should slow down or speed up.
+
+00:08:26.756 --> 00:08:29.821
+And then that all turns into
+just following a path:
+
+00:08:29.821 --> 00:08:33.018
+turning the steering wheel left or right,
+pressing the brake or gas.
+
+00:08:33.018 --> 00:08:35.482
+It's really just two numbers
+at the end of the day.
+
+00:08:35.482 --> 00:08:37.723
+So how hard can it really be?
+
+00:08:38.433 --> 00:08:40.385
+Back when we started in 2009,
+
+00:08:40.385 --> 00:08:42.183
+this is what our system looked like.
+
+00:08:42.183 --> 00:08:45.574
+So you can see our car in the middle
+and the other boxes on the road,
+
+00:08:45.574 --> 00:08:46.845
+driving down the highway.
+
+00:08:46.845 --> 00:08:50.663
+The car needs to understand where it is
+and roughly where the other vehicles are.
+
+00:08:50.663 --> 00:08:53.092
+It's really a geometric
+understanding of the world.
+
+00:08:53.092 --> 00:08:56.040
+Once we started driving
+on neighborhood and city streets,
+
+00:08:56.040 --> 00:08:58.485
+the problem becomes a whole
+new level of difficulty.
+
+00:08:58.485 --> 00:09:01.979
+You see pedestrians crossing in front
+of us, cars crossing in front of us,
+
+00:09:01.979 --> 00:09:03.790
+going every which way,
+
+00:09:03.790 --> 00:09:05.317
+the traffic lights, crosswalks.
+
+00:09:05.317 --> 00:09:08.114
+It's an incredibly complicated
+problem by comparison.
+
+00:09:08.114 --> 00:09:10.217
+And then once you have
+that problem solved,
+
+00:09:10.217 --> 00:09:12.729
+the vehicle has to be able
+to deal with construction.
+
+00:09:12.729 --> 00:09:15.880
+So here are the cones on the left
+forcing it to drive to the right,
+
+00:09:15.880 --> 00:09:18.282
+but not just construction
+in isolation, of course.
+
+00:09:18.282 --> 00:09:22.005
+It has to deal with other people moving
+through that construction zone as well.
+
+00:09:22.005 --> 00:09:25.268
+And of course, if anyone's
+breaking the rules, the police are there
+
+00:09:25.268 --> 00:09:28.890
+and the car has to understand that
+that flashing light on the top of the car
+
+00:09:28.890 --> 00:09:31.995
+means that it's not just a car,
+it's actually a police officer.
+
+00:09:31.995 --> 00:09:34.027
+Similarly, the orange box
+on the side here,
+
+00:09:34.027 --> 00:09:35.136
+it's a school bus,
+
+00:09:35.136 --> 00:09:37.656
+and we have to treat that
+differently as well.
+
+00:09:38.576 --> 00:09:41.369
+When we're out on the road,
+other people have expectations:
+
+00:09:41.369 --> 00:09:43.149
+So, when a cyclist puts up their arm,
+
+00:09:43.149 --> 00:09:46.667
+it means they're expecting the car
+to yield to them and make room for them
+
+00:09:46.667 --> 00:09:48.720
+to make a lane change.
+
+00:09:49.030 --> 00:09:51.203
+And when a police officer
+stood in the road,
+
+00:09:51.203 --> 00:09:53.943
+our vehicle should understand
+that this means stop,
+
+00:09:53.943 --> 00:09:57.449
+and when they signal to go,
+we should continue.
+
+00:09:57.449 --> 00:10:01.210
+Now, the way we accomplish this
+is by sharing data between the vehicles.
+
+00:10:01.210 --> 00:10:02.906
+The first, most crude model of this
+
+00:10:02.906 --> 00:10:05.019
+is when one vehicle
+sees a construction zone,
+
+00:10:05.019 --> 00:10:08.081
+having another know about it
+so it can be in the correct lane
+
+00:10:08.081 --> 00:10:09.651
+to avoid some of the difficulty.
+
+00:10:09.651 --> 00:10:12.315
+But we actually have a much
+deeper understanding of this.
+
+00:10:12.315 --> 00:10:15.324
+We could take all of the data
+that the cars have seen over time,
+
+00:10:15.324 --> 00:10:17.700
+the hundreds of thousands
+of pedestrians, cyclists,
+
+00:10:17.700 --> 00:10:19.487
+and vehicles that have been out there
+
+00:10:19.487 --> 00:10:21.182
+and understand what they look like
+
+00:10:21.182 --> 00:10:24.013
+and use that to infer
+what other vehicles should look like
+
+00:10:24.013 --> 00:10:25.939
+and other pedestrians should look like.
+
+00:10:25.939 --> 00:10:28.960
+And then, even more importantly,
+we could take from that a model
+
+00:10:28.960 --> 00:10:31.290
+of how we expect them
+to move through the world.
+
+00:10:31.290 --> 00:10:34.253
+So here the yellow box is a pedestrian
+crossing in front of us.
+
+00:10:34.253 --> 00:10:36.503
+Here the blue box is a cyclist
+and we anticipate
+
+00:10:36.503 --> 00:10:39.815
+that they're going to nudge out
+and around the car to the right.
+
+00:10:40.115 --> 00:10:42.207
+Here there's a cyclist
+coming down the road
+
+00:10:42.207 --> 00:10:45.693
+and we know they're going to continue
+to drive down the shape of the road.
+
+00:10:45.693 --> 00:10:47.560
+Here somebody makes a right turn,
+
+00:10:47.560 --> 00:10:50.920
+and in a moment here, somebody's
+going to make a U-turn in front of us,
+
+00:10:50.920 --> 00:10:53.534
+and we can anticipate that behavior
+and respond safely.
+
+00:10:53.534 --> 00:10:56.262
+Now, that's all well and good
+for things that we've seen,
+
+00:10:56.262 --> 00:10:59.127
+but of course, you encounter
+lots of things that you haven't
+
+00:10:59.127 --> 00:11:00.358
+seen in the world before.
+
+00:11:00.358 --> 00:11:02.099
+And so just a couple of months ago,
+
+00:11:02.099 --> 00:11:04.334
+our vehicles were driving
+through Mountain View,
+
+00:11:04.334 --> 00:11:05.978
+and this is what we encountered.
+
+00:11:05.978 --> 00:11:08.060
+This is a woman in an electric wheelchair
+
+00:11:08.060 --> 00:11:10.677
+chasing a duck in circles on the road.
+(Laughter)
+
+00:11:10.677 --> 00:11:13.788
+Now it turns out, there is nowhere
+in the DMV handbook
+
+00:11:13.788 --> 00:11:16.033
+that tells you how to deal with that,
+
+00:11:16.033 --> 00:11:18.176
+but our vehicles were able
+to encounter that,
+
+00:11:18.176 --> 00:11:20.431
+slow down, and drive safely.
+
+00:11:20.431 --> 00:11:22.472
+Now, we don't have to deal
+with just ducks.
+
+00:11:22.472 --> 00:11:26.180
+Watch this bird fly across in front of us.
+The car reacts to that.
+
+00:11:26.180 --> 00:11:27.795
+Here we're dealing with a cyclist
+
+00:11:27.795 --> 00:11:31.085
+that you would never expect to see
+anywhere other than Mountain View.
+
+00:11:31.085 --> 00:11:33.153
+And of course, we have
+to deal with drivers,
+
+00:11:33.153 --> 00:11:36.868
+even the very small ones.
+
+00:11:36.868 --> 00:11:40.999
+Watch to the right as someone
+jumps out of this truck at us.
+
+00:11:42.460 --> 00:11:45.389
+And now, watch the left as the car
+with the green box decides
+
+00:11:45.389 --> 00:11:48.714
+he needs to make a right turn
+at the last possible moment.
+
+00:11:48.714 --> 00:11:51.565
+Here, as we make a lane change,
+the car to our left decides
+
+00:11:51.565 --> 00:11:55.118
+it wants to as well.
+
+00:11:55.118 --> 00:11:57.811
+And here, we watch a car
+blow through a red light
+
+00:11:57.811 --> 00:11:59.901
+and yield to it.
+
+00:11:59.901 --> 00:12:03.755
+And similarly, here, a cyclist
+blowing through that light as well.
+
+00:12:03.755 --> 00:12:06.501
+And of course,
+the vehicle responds safely.
+
+00:12:06.501 --> 00:12:09.102
+And of course, we have people
+who do I don't know what
+
+00:12:09.102 --> 00:12:12.925
+sometimes on the road, like this guy
+pulling out between two self-driving cars.
+
+00:12:12.925 --> 00:12:14.970
+You have to ask, "What are you thinking?"
+
+00:12:14.970 --> 00:12:16.182
+(Laughter)
+
+00:12:16.182 --> 00:12:18.703
+Now, I just fire-hosed you
+with a lot of stuff there,
+
+00:12:18.703 --> 00:12:21.353
+so I'm going to break one of these
+down pretty quickly.
+
+00:12:21.353 --> 00:12:24.293
+So what we're looking at is the scene
+with the cyclist again,
+
+00:12:24.293 --> 00:12:27.784
+and you might notice in the bottom,
+we can't actually see the cyclist yet,
+
+00:12:27.784 --> 00:12:30.288
+but the car can: it's that little
+blue box up there,
+
+00:12:30.288 --> 00:12:32.369
+and that comes from the laser data.
+
+00:12:32.369 --> 00:12:34.787
+And that's not actually
+really easy to understand,
+
+00:12:34.787 --> 00:12:38.371
+so what I'm going to do is I'm going
+to turn that laser data and look at it,
+
+00:12:38.371 --> 00:12:41.400
+and if you're really good at looking
+at laser data, you can see
+
+00:12:41.400 --> 00:12:42.887
+a few dots on the curve there,
+
+00:12:42.887 --> 00:12:45.259
+right there, and that blue box
+is that cyclist.
+
+00:12:45.259 --> 00:12:46.408
+Now as our light is red,
+
+00:12:46.408 --> 00:12:48.600
+the cyclist's light
+has turned yellow already,
+
+00:12:48.600 --> 00:12:51.038
+and if you squint, you can see that
+in the imagery.
+
+00:12:51.038 --> 00:12:54.324
+But the cyclist, we see, is going
+to proceed through the intersection.
+
+00:12:54.324 --> 00:12:56.718
+Our light has now turned green,
+his is solidly red,
+
+00:12:56.718 --> 00:13:01.010
+and we now anticipate that this bike
+is going to come all the way across.
+
+00:13:01.010 --> 00:13:04.752
+Unfortunately the other drivers next to us
+were not paying as much attention.
+
+00:13:04.752 --> 00:13:07.909
+They started to pull forward,
+and fortunately for everyone,
+
+00:13:07.909 --> 00:13:10.920
+this cyclists reacts, avoids,
+
+00:13:10.920 --> 00:13:13.111
+and makes it through the intersection.
+
+00:13:13.111 --> 00:13:14.679
+And off we go.
+
+00:13:14.679 --> 00:13:17.627
+Now, as you can see, we've made
+some pretty exciting progress,
+
+00:13:17.627 --> 00:13:19.529
+and at this point we're pretty convinced
+
+00:13:19.529 --> 00:13:21.539
+this technology is going
+to come to market.
+
+00:13:21.539 --> 00:13:26.322
+We do three million miles of testing
+in our simulators every single day,
+
+00:13:26.322 --> 00:13:29.011
+so you can imagine the experience
+that our vehicles have.
+
+00:13:29.011 --> 00:13:31.875
+We are looking forward to having
+this technology on the road,
+
+00:13:31.875 --> 00:13:34.765
+and we think the right path
+is to go through the self-driving
+
+00:13:34.765 --> 00:13:36.609
+rather than driver assistance approach
+
+00:13:36.609 --> 00:13:39.230
+because the urgency is so large.
+
+00:13:39.230 --> 00:13:41.623
+In the time I have given this talk today,
+
+00:13:41.623 --> 00:13:44.758
+34 people have died on America's roads.
+
+00:13:44.758 --> 00:13:47.126
+How soon can we bring it out?
+
+00:13:47.126 --> 00:13:50.958
+Well, it's hard to say because
+it's a really complicated problem,
+
+00:13:50.958 --> 00:13:53.172
+but these are my two boys.
+
+00:13:53.172 --> 00:13:56.795
+My oldest son is 11, and that means
+in four and a half years,
+
+00:13:56.795 --> 00:13:59.372
+he's going to be able
+to get his driver's license.
+
+00:13:59.372 --> 00:14:02.576
+My team and I are committed
+to making sure that doesn't happen.
+
+00:14:02.576 --> 00:14:04.480
+Thank you.
+
+00:14:04.480 --> 00:14:08.147
+(Laughter) (Applause)
+
+00:14:09.110 --> 00:14:11.678
+Chris Anderson: Chris,
+I've got a question for you.
+
+00:14:11.678 --> 00:14:14.487
+Chris Urmson: Sure.
+
+00:14:14.487 --> 00:14:18.411
+CA: So certainly, the mind of your cars
+is pretty mind-boggling.
+
+00:14:18.411 --> 00:14:22.870
+On this debate between
+driver-assisted and fully driverless --
+
+00:14:22.870 --> 00:14:25.911
+I mean, there's a real debate
+going on out there right now.
+
+00:14:25.911 --> 00:14:28.744
+So some of the companies,
+for example, Tesla,
+
+00:14:28.744 --> 00:14:30.903
+are going the driver-assisted route.
+
+00:14:30.903 --> 00:14:36.151
+What you're saying is that
+that's kind of going to be a dead end
+
+00:14:36.151 --> 00:14:41.607
+because you can't just keep improving
+that route and get to fully driverless
+
+00:14:41.607 --> 00:14:45.137
+at some point, and then a driver
+is going to say, "This feels safe,"
+
+00:14:45.137 --> 00:14:47.784
+and climb into the back,
+and something ugly will happen.
+
+00:14:47.784 --> 00:14:50.460
+CU: Right. No, that's exactly right,
+and it's not to say
+
+00:14:50.460 --> 00:14:53.997
+that the driver assistance systems
+aren't going to be incredibly valuable.
+
+00:14:53.997 --> 00:14:56.055
+They can save a lot of lives
+in the interim,
+
+00:14:56.055 --> 00:14:59.888
+but to see the transformative opportunity
+to help someone like Steve get around,
+
+00:14:59.888 --> 00:15:01.857
+to really get to the end case in safety,
+
+00:15:01.857 --> 00:15:04.336
+to have the opportunity
+to change our cities
+
+00:15:04.336 --> 00:15:08.540
+and move parking out and get rid of
+these urban craters we call parking lots,
+
+00:15:08.540 --> 00:15:09.780
+it's the only way to go.
+
+00:15:09.780 --> 00:15:12.498
+CA: We will be tracking your progress
+with huge interest.
+
+00:15:12.498 --> 00:15:16.730
+Thanks so much, Chris.
+CU: Thank you. (Applause)
+

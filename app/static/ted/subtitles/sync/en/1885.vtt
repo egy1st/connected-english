@@ -1,0 +1,317 @@
+WEBVTT
+
+00:00:13.494 --> 00:00:18.407
+(Aquatic noises)
+
+00:00:20.961 --> 00:00:22.864
+So this video was taken
+
+00:00:22.864 --> 00:00:25.296
+at Aquarius undersea laboratory
+
+00:00:25.296 --> 00:00:27.149
+four miles off the coast of Key Largo,
+
+00:00:27.149 --> 00:00:29.727
+about 60 feet below the surface.
+
+00:00:29.727 --> 00:00:31.451
+NASA uses this extreme environment
+
+00:00:31.451 --> 00:00:33.875
+to train astronauts and aquanauts,
+
+00:00:33.875 --> 00:00:37.237
+and last year, they invited us along for the ride.
+
+00:00:37.237 --> 00:00:40.121
+All the footage was taken from our open ROV,
+
+00:00:40.121 --> 00:00:44.608
+which is a robot that we built in our garage.
+
+00:00:44.608 --> 00:00:48.176
+So ROV stands for Remote Operated Vehicle,
+
+00:00:48.176 --> 00:00:49.703
+which in our case means our little robot
+
+00:00:49.703 --> 00:00:51.967
+sends live video
+
+00:00:51.967 --> 00:00:53.885
+across that ultra-thin tether
+
+00:00:53.885 --> 00:00:56.313
+back to the computer topside.
+
+00:00:56.313 --> 00:00:58.291
+It's open source, meaning we publish
+
+00:00:58.291 --> 00:01:00.336
+and share all of our design files
+
+00:01:00.336 --> 00:01:01.844
+and all of our code online,
+
+00:01:01.844 --> 00:01:03.878
+allowing anyone to modify
+
+00:01:03.878 --> 00:01:06.227
+or improve or change the design.
+
+00:01:06.227 --> 00:01:08.530
+It's built with mostly off-the-shelf parts
+
+00:01:08.530 --> 00:01:10.365
+and costs about 1,000 times cheaper
+
+00:01:10.365 --> 00:01:12.244
+than the ROVs James Cameron used
+
+00:01:12.244 --> 00:01:15.849
+to explore the Titanic.
+
+00:01:15.849 --> 00:01:18.059
+So ROVs aren't new.
+
+00:01:18.059 --> 00:01:19.767
+They've been around for decades.
+
+00:01:19.767 --> 00:01:22.803
+Scientists use ROVs to explore the oceans.
+
+00:01:22.803 --> 00:01:25.622
+Oil and gas companies use them for exploration
+
+00:01:25.622 --> 00:01:27.169
+and construction.
+
+00:01:27.169 --> 00:01:29.931
+What we've built isn't unique.
+
+00:01:29.931 --> 00:01:32.805
+It's how we've built it that's really unique.
+
+00:01:32.805 --> 00:01:35.786
+So I want to give you a quick story
+of how it got started.
+
+00:01:35.786 --> 00:01:38.057
+So a few years ago, my friend Eric and I
+
+00:01:38.057 --> 00:01:40.257
+decided we wanted to explore this underwater cave
+
+00:01:40.257 --> 00:01:42.115
+in the foothills of the Sierras.
+
+00:01:42.115 --> 00:01:44.018
+We had heard this story about lost gold
+
+00:01:44.018 --> 00:01:46.536
+from a Gold Rush-era robbery,
+and we wanted to go up there.
+
+00:01:46.536 --> 00:01:48.194
+Unfortunately, we didn't have any money
+
+00:01:48.194 --> 00:01:50.017
+and we didn't have any tools to do it.
+
+00:01:50.017 --> 00:01:53.217
+So Eric had an initial design idea for a robot,
+
+00:01:53.217 --> 00:01:55.990
+but we didn't have all the parts figured out,
+
+00:01:55.990 --> 00:01:58.202
+so we did what anybody would do in our situation:
+
+00:01:58.202 --> 00:02:00.240
+we asked the Internet for help.
+
+00:02:00.240 --> 00:02:02.772
+More specifically, we created this website,
+
+00:02:02.772 --> 00:02:05.667
+openROV.com, and shared 
+our intentions and our plans
+
+00:02:05.667 --> 00:02:08.057
+For the first few months, it was just Eric and I
+
+00:02:08.057 --> 00:02:10.587
+talking back to each other on the forums,
+
+00:02:10.587 --> 00:02:12.675
+but pretty soon, we started to get feedback
+
+00:02:12.675 --> 00:02:14.518
+from makers and hobbyists,
+
+00:02:14.518 --> 00:02:16.512
+and then actually professional ocean engineers
+
+00:02:16.512 --> 00:02:20.044
+who had some suggestions for what we should do.
+
+00:02:20.044 --> 00:02:21.808
+We kept working on it. We learned a lot.
+
+00:02:21.808 --> 00:02:23.833
+We kept prototyping, and eventually,
+
+00:02:23.833 --> 00:02:26.552
+we decided we wanted to go 
+to the cave. We were ready.
+
+00:02:26.552 --> 00:02:29.992
+So about that time, our little expedition
+became quite a story,
+
+00:02:29.992 --> 00:02:32.013
+and it got picked up in The New York Times.
+
+00:02:32.013 --> 00:02:33.825
+And we were pretty much just overwhelmed
+
+00:02:33.825 --> 00:02:35.608
+with interest from people who wanted a kit
+
+00:02:35.608 --> 00:02:38.129
+that they could build this open ROV themselves.
+
+00:02:38.129 --> 00:02:41.418
+So we decided to put the project on Kickstarter,
+
+00:02:41.418 --> 00:02:42.650
+and when we did,
+
+00:02:42.650 --> 00:02:44.725
+we raised our funding goal in about two hours,
+
+00:02:44.725 --> 00:02:47.930
+and all of a sudden, 
+had this money to make these kits.
+
+00:02:47.930 --> 00:02:50.125
+But then we had to learn how to make them.
+
+00:02:50.125 --> 00:02:52.290
+I mean, we had to learn small batch manufacturing.
+
+00:02:52.290 --> 00:02:55.550
+So we quickly learned that our garage
+
+00:02:55.550 --> 00:02:58.229
+was not big enough to hold our growing operation.
+
+00:02:58.229 --> 00:03:00.385
+But we were able to do it, we got all the kits made,
+
+00:03:00.385 --> 00:03:03.092
+thanks a lot to TechShop,
+which was a big help to us,
+
+00:03:03.092 --> 00:03:06.077
+and we shipped these kits all over the world
+
+00:03:06.077 --> 00:03:07.906
+just before Christmas of last year,
+
+00:03:07.906 --> 00:03:09.688
+so it was just a few months ago.
+
+00:03:09.688 --> 00:03:11.596
+But we're already starting to get video
+
+00:03:11.596 --> 00:03:13.194
+and photos back from all over the world,
+
+00:03:13.194 --> 00:03:16.224
+including this shot from under the ice in Antarctica.
+
+00:03:16.224 --> 00:03:19.624
+We've also learned the penguins love robots.
+
+00:03:19.624 --> 00:03:21.637
+(Laughter)
+
+00:03:21.637 --> 00:03:24.805
+So we're still publishing all the designs online,
+
+00:03:24.805 --> 00:03:26.923
+encouraging anyone to build these themselves.
+
+00:03:26.923 --> 00:03:29.326
+That's the only way that we could have done this.
+
+00:03:29.326 --> 00:03:30.985
+By being open source, we've created
+
+00:03:30.985 --> 00:03:33.249
+this distributed R&amp;D network,
+
+00:03:33.249 --> 00:03:37.045
+and we're moving faster than
+any venture-backed counterpart.
+
+00:03:37.045 --> 00:03:40.250
+But the actual robot is really only half the story.
+
+00:03:40.250 --> 00:03:42.746
+The real potential, the long term potential,
+
+00:03:42.746 --> 00:03:45.423
+is with this community of DIY ocean explorers
+
+00:03:45.423 --> 00:03:47.819
+that are forming all over the globe.
+
+00:03:47.819 --> 00:03:49.353
+What can we discover
+
+00:03:49.353 --> 00:03:51.257
+when there's thousands of these devices
+
+00:03:51.257 --> 00:03:53.303
+roaming the seas?
+
+00:03:53.303 --> 00:03:55.579
+So you're probably all wondering: the cave.
+
+00:03:55.579 --> 00:03:57.405
+Did you find the gold?
+
+00:03:57.405 --> 00:03:58.957
+Well, we didn't find any gold,
+
+00:03:58.957 --> 00:04:02.186
+but we decided that what we found
+was much more valuable.
+
+00:04:02.186 --> 00:04:04.658
+It was the glimpse into a potential future
+
+00:04:04.658 --> 00:04:06.333
+for ocean exploration.
+
+00:04:06.333 --> 00:04:09.243
+It's something that's not limited to
+the James Camerons of the world,
+
+00:04:09.243 --> 00:04:11.838
+but something that we're all participating in.
+
+00:04:11.838 --> 00:04:13.171
+It's an underwater world
+
+00:04:13.171 --> 00:04:15.682
+we're all exploring together.
+
+00:04:15.682 --> 00:04:17.857
+Thank you.
+
+00:04:17.857 --> 00:04:21.857
+(Applause)

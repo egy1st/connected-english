@@ -1,0 +1,982 @@
+WEBVTT
+
+00:00:12.801 --> 00:00:15.980
+It was a Saturday afternoon in May,
+
+00:00:15.980 --> 00:00:18.494
+and I suddenly realized
+
+00:00:18.494 --> 00:00:21.948
+that the next day was Mother's Day,
+
+00:00:21.948 --> 00:00:23.794
+and I hadn't gotten anything for my mom,
+
+00:00:23.794 --> 00:00:25.195
+so I started thinking about
+
+00:00:25.195 --> 00:00:27.532
+what should I get my mom for Mother's Day?
+
+00:00:27.532 --> 00:00:29.376
+I thought, why don't I make her
+
+00:00:29.376 --> 00:00:32.425
+an interactive Mother's Day card
+
+00:00:32.425 --> 00:00:35.133
+using the Scratch software that I'd been developing
+
+00:00:35.133 --> 00:00:38.950
+with my research group at the MIT Media Lab?
+
+00:00:38.950 --> 00:00:42.330
+We developed it so that people could easily create
+
+00:00:42.330 --> 00:00:46.574
+their own interactive stories and games and animations,
+
+00:00:46.574 --> 00:00:50.343
+and then share their creations with one another.
+
+00:00:50.343 --> 00:00:54.211
+So I thought, this would be an opportunity to use Scratch
+
+00:00:54.211 --> 00:00:57.111
+to make an interactive card for my mom.
+
+00:00:57.111 --> 00:00:59.287
+Before making my own Mother's Day card,
+
+00:00:59.287 --> 00:01:01.272
+I thought I would take a look
+
+00:01:01.272 --> 00:01:02.845
+at the Scratch website.
+
+00:01:02.845 --> 00:01:06.203
+So over the last several years, kids around the world
+
+00:01:06.203 --> 00:01:09.397
+ages 8 and up, have shared their projects,
+
+00:01:09.397 --> 00:01:12.832
+and I thought, I wonder if, of those three million projects,
+
+00:01:12.832 --> 00:01:16.217
+whether anyone else has thought to put up Mother's Day cards.
+
+00:01:16.217 --> 00:01:19.211
+So in the search box I typed in
+
+00:01:19.211 --> 00:01:20.756
+"Mother's Day,"
+
+00:01:20.756 --> 00:01:23.759
+and I was surprised and delighted to see a list
+
+00:01:23.759 --> 00:01:26.463
+of dozens and dozens of Mother's Day cards
+
+00:01:26.463 --> 00:01:28.977
+that showed up on the Scratch website,
+
+00:01:28.977 --> 00:01:31.295
+many of them just in the past 24 hours
+
+00:01:31.295 --> 00:01:34.501
+by procrastinators just like myself.
+
+00:01:34.501 --> 00:01:37.623
+So I started taking a look at them. (Music)
+
+00:01:37.623 --> 00:01:40.079
+I saw one of them that featured a kitten
+
+00:01:40.079 --> 00:01:46.950
+and her mom and wishing her mom a happy Mother's Day.
+
+00:01:46.950 --> 00:01:49.481
+And the creator very considerately
+
+00:01:49.481 --> 00:01:52.985
+offered a replay for her mom.
+
+00:01:52.985 --> 00:01:55.369
+Another one was an interactive project where,
+
+00:01:55.369 --> 00:01:58.567
+when you moved the mouse over the letters of "Happy Mom Day,"
+
+00:01:58.567 --> 00:02:03.487
+it reveals a special happy Mother's Day slogan.
+
+00:02:03.487 --> 00:02:07.470
+(Music) In this one, the creator told a narrative
+
+00:02:07.470 --> 00:02:10.129
+about how she had Googled to find out
+
+00:02:10.129 --> 00:02:13.246
+when Mother's Day was happening.
+
+00:02:13.246 --> 00:02:17.389
+(Typing) And then once she found out when Mother's Day was happening,
+
+00:02:17.389 --> 00:02:19.867
+she delivered a special Mother's Day greeting
+
+00:02:19.867 --> 00:02:23.494
+of how much she loved her mom.
+
+00:02:23.494 --> 00:02:25.719
+So I really enjoyed looking at these projects
+
+00:02:25.719 --> 00:02:27.371
+and interacting with these projects.
+
+00:02:27.371 --> 00:02:31.212
+In fact, I liked it so much that, instead of making my own project,
+
+00:02:31.212 --> 00:02:35.966
+I sent my mom links to about a dozen of these projects. (Laughter)
+
+00:02:35.966 --> 00:02:39.546
+And actually, she reacted exactly the way that I hoped that she would.
+
+00:02:39.546 --> 00:02:40.931
+She wrote back to me and she said,
+
+00:02:40.931 --> 00:02:44.198
+"I'm so proud to have a son that created the software
+
+00:02:44.198 --> 00:02:48.310
+that allowed these kids to make Mother's Day cards for their mothers."
+
+00:02:48.310 --> 00:02:52.110
+So my mom was happy, and that made me happy,
+
+00:02:52.110 --> 00:02:56.734
+but actually I was even happier for another reason.
+
+00:02:56.734 --> 00:03:00.693
+I was happy because these kids were using Scratch
+
+00:03:00.693 --> 00:03:03.494
+just in the way that we had hoped that they would.
+
+00:03:03.494 --> 00:03:06.305
+As they created their interactive Mother's Day cards,
+
+00:03:06.305 --> 00:03:08.586
+you could see that they were really
+
+00:03:08.586 --> 00:03:11.898
+becoming fluent with new technologies.
+
+00:03:11.898 --> 00:03:13.361
+What do I mean by fluent?
+
+00:03:13.361 --> 00:03:17.393
+I mean that they were able to start expressing themselves
+
+00:03:17.393 --> 00:03:20.170
+and to start expressing their ideas.
+
+00:03:20.170 --> 00:03:22.824
+When you become fluent with language,
+
+00:03:22.824 --> 00:03:26.361
+it means you can write an entry in your journal
+
+00:03:26.361 --> 00:03:30.414
+or tell a joke to someone or write a letter to a friend.
+
+00:03:30.414 --> 00:03:33.571
+And it's similar with new technologies.
+
+00:03:33.571 --> 00:03:37.753
+By writing, be creating these interactive Mother's Day cards,
+
+00:03:37.753 --> 00:03:40.283
+these kids were showing that they were really fluent
+
+00:03:40.283 --> 00:03:41.956
+with new technologies.
+
+00:03:41.956 --> 00:03:44.721
+Now maybe you won't be so surprised by this,
+
+00:03:44.721 --> 00:03:47.417
+because a lot of times people feel that
+
+00:03:47.417 --> 00:03:50.817
+young people today can do all sorts of things with technology.
+
+00:03:50.817 --> 00:03:55.278
+I mean, all of us have heard young people referred to as "digital natives."
+
+00:03:55.278 --> 00:03:59.075
+But actually I'm sort of skeptical about this term.
+
+00:03:59.075 --> 00:04:02.576
+I'm not so sure we should be thinking of young people as digital natives.
+
+00:04:02.576 --> 00:04:05.129
+When you really look at it, how is it that young people
+
+00:04:05.129 --> 00:04:08.665
+spend most of their time using new technologies?
+
+00:04:08.665 --> 00:04:12.188
+You often see them in situations like this,
+
+00:04:12.188 --> 00:04:14.382
+or like this,
+
+00:04:14.382 --> 00:04:15.900
+and there's no doubt that young people
+
+00:04:15.900 --> 00:04:19.216
+are very comfortable and familiar browsing
+
+00:04:19.216 --> 00:04:23.738
+and chatting and texting and gaming.
+
+00:04:23.738 --> 00:04:26.937
+But that doesn't really make you fluent.
+
+00:04:26.937 --> 00:04:30.896
+So young people today have lots of experience
+
+00:04:30.896 --> 00:04:34.691
+and lots of familiarity with interacting with new technologies,
+
+00:04:34.691 --> 00:04:38.096
+but a lot less so of creating with new technologies
+
+00:04:38.096 --> 00:04:41.068
+and expressing themselves with new technologies.
+
+00:04:41.068 --> 00:04:43.460
+It's almost as if they can read
+
+00:04:43.460 --> 00:04:46.793
+but not write with new technologies.
+
+00:04:46.793 --> 00:04:50.691
+And I'm really interested in seeing, how can we help young people become fluent
+
+00:04:50.691 --> 00:04:53.220
+so they can write with new technologies?
+
+00:04:53.220 --> 00:04:56.580
+And that really means that they need to be able to
+
+00:04:56.580 --> 00:05:01.092
+write their own computer programs, or code.
+
+00:05:01.092 --> 00:05:03.804
+So, increasingly, people are starting to recognize
+
+00:05:03.804 --> 00:05:07.108
+the importance of learning to code.
+
+00:05:07.108 --> 00:05:09.710
+You know, in recent years, there have been
+
+00:05:09.710 --> 00:05:12.602
+hundreds of new organizations and websites
+
+00:05:12.602 --> 00:05:15.896
+that are helping young people learn to code.
+
+00:05:15.896 --> 00:05:19.487
+You look online, you'll see places like Codecademy
+
+00:05:19.487 --> 00:05:21.858
+and events like CoderDojo
+
+00:05:21.858 --> 00:05:24.289
+and sites like Girls Who Code,
+
+00:05:24.289 --> 00:05:25.983
+or Black Girls Code.
+
+00:05:25.983 --> 00:05:29.091
+It seems that everybody is getting into the act.
+
+00:05:29.091 --> 00:05:31.674
+You know, just at the beginning of this year,
+
+00:05:31.674 --> 00:05:33.039
+at the turn of the new year,
+
+00:05:33.039 --> 00:05:35.699
+New York City Mayor Michael Bloomberg
+
+00:05:35.699 --> 00:05:37.959
+made a New Year's resolution that he was going to learn
+
+00:05:37.959 --> 00:05:40.738
+to code in 2012.
+
+00:05:40.738 --> 00:05:43.906
+A few months later, the country of Estonia decided that
+
+00:05:43.906 --> 00:05:47.562
+all of its first graders should learn to code.
+
+00:05:47.562 --> 00:05:50.354
+And that triggered a debate in the U.K.
+
+00:05:50.354 --> 00:05:54.663
+about whether all the children there should learn to code.
+
+00:05:54.663 --> 00:05:57.506
+Now, for some of you, when you hear about this,
+
+00:05:57.506 --> 00:06:01.114
+it might seem sort of strange about everybody learning to code.
+
+00:06:01.114 --> 00:06:04.264
+When many people think of coding, they think of it
+
+00:06:04.264 --> 00:06:07.840
+as something that only a very narrow sub-community
+
+00:06:07.840 --> 00:06:10.498
+of people are going to be doing,
+
+00:06:10.498 --> 00:06:13.420
+and they think of coding looking like this.
+
+00:06:13.420 --> 00:06:15.586
+And in fact, if this is what coding is like,
+
+00:06:15.586 --> 00:06:18.081
+it will only be a narrow sub-community of people
+
+00:06:18.081 --> 00:06:21.153
+with special mathematical skills and technological background
+
+00:06:21.153 --> 00:06:23.419
+that can code.
+
+00:06:23.419 --> 00:06:25.919
+But coding doesn't have to be like this.
+
+00:06:25.919 --> 00:06:29.898
+Let me show you about what it's like to code in Scratch.
+
+00:06:29.898 --> 00:06:34.177
+So in Scratch, to code, you just snap blocks together.
+
+00:06:34.177 --> 00:06:36.092
+In this case, you take a move block,
+
+00:06:36.092 --> 00:06:37.861
+snap it into a stack,
+
+00:06:37.861 --> 00:06:40.619
+and the stacks of blocks control the behaviors
+
+00:06:40.619 --> 00:06:44.137
+of the different characters in your game or your story,
+
+00:06:44.137 --> 00:06:46.438
+in this case controlling the big fish.
+
+00:06:46.438 --> 00:06:49.889
+After you've created your program, you can click on "share,"
+
+00:06:49.889 --> 00:06:52.965
+and then share your project with other people,
+
+00:06:52.965 --> 00:06:54.788
+so that they can use the project
+
+00:06:54.788 --> 00:06:57.762
+and start working on the project as well.
+
+00:06:57.762 --> 00:07:01.084
+So, of course, making a fish game isn't the only thing
+
+00:07:01.084 --> 00:07:02.729
+you can do with Scratch.
+
+00:07:02.729 --> 00:07:04.709
+Of the millions of projects on the Scratch website,
+
+00:07:04.709 --> 00:07:07.533
+there's everything from animated stories
+
+00:07:07.533 --> 00:07:09.949
+to school science projects
+
+00:07:09.949 --> 00:07:12.013
+to anime soap operas
+
+00:07:12.013 --> 00:07:14.335
+to virtual construction kits
+
+00:07:14.335 --> 00:07:17.048
+to recreations of classic video games
+
+00:07:17.048 --> 00:07:19.317
+to political opinion polls
+
+00:07:19.317 --> 00:07:21.957
+to trigonometry tutorials
+
+00:07:21.957 --> 00:07:24.877
+to interactive artwork, and, yes,
+
+00:07:24.877 --> 00:07:27.661
+interactive Mother's Day cards.
+
+00:07:27.661 --> 00:07:30.697
+So I think there's so many different ways
+
+00:07:30.697 --> 00:07:34.157
+that people can express themselves using this,
+
+00:07:34.157 --> 00:07:37.557
+to be able to take their ideas and share their ideas with the world.
+
+00:07:37.557 --> 00:07:40.119
+And it doesn't just stay on the screen.
+
+00:07:40.119 --> 00:07:43.886
+You can also code to interact with the physical world around you.
+
+00:07:43.886 --> 00:07:46.365
+Here's an example from Hong Kong,
+
+00:07:46.365 --> 00:07:47.772
+where some kids made a game
+
+00:07:47.772 --> 00:07:51.053
+and then built their own physical interface device
+
+00:07:51.053 --> 00:07:53.945
+and had a light sensor, so the light sensor
+
+00:07:53.945 --> 00:07:55.888
+detects the hole in the board,
+
+00:07:55.888 --> 00:07:58.088
+so as they move the physical saw,
+
+00:07:58.088 --> 00:08:00.328
+the light sensor detects the hole
+
+00:08:00.328 --> 00:08:03.284
+and controls the virtual saw on the screen
+
+00:08:03.284 --> 00:08:06.064
+and saws down the tree.
+
+00:08:06.064 --> 00:08:08.173
+We're going to continue to look at new ways
+
+00:08:08.173 --> 00:08:11.229
+of bringing together the physical world and the virtual world
+
+00:08:11.229 --> 00:08:14.157
+and connecting to the world around us.
+
+00:08:14.157 --> 00:08:16.390
+This is an example from a new version of Scratch
+
+00:08:16.390 --> 00:08:20.013
+that we'll be releasing in the next few months,
+
+00:08:20.013 --> 00:08:22.063
+and we're looking again to be able
+
+00:08:22.063 --> 00:08:23.759
+to push you in new directions.
+
+00:08:23.759 --> 00:08:26.023
+Here's an example.
+
+00:08:26.023 --> 00:08:30.097
+It uses the webcam.
+
+00:08:30.097 --> 00:08:34.953
+And as I move my hand, I can pop the balloons
+
+00:08:34.953 --> 00:08:37.838
+or I can move the bug.
+
+00:08:37.838 --> 00:08:40.403
+So it's a little bit like Microsoft Kinect,
+
+00:08:40.403 --> 00:08:43.119
+where you interact with gestures in the world.
+
+00:08:43.119 --> 00:08:45.363
+But instead of just playing someone else's game,
+
+00:08:45.363 --> 00:08:47.605
+you get to create the games,
+
+00:08:47.605 --> 00:08:48.988
+and if you see someone else's game,
+
+00:08:48.988 --> 00:08:51.628
+you can just say "see inside,"
+
+00:08:51.628 --> 00:08:54.522
+and you can look at the stacks of blocks that control it.
+
+00:08:54.522 --> 00:08:58.077
+So there's a new block that says how much video motion there is,
+
+00:08:58.077 --> 00:09:01.198
+and then, if there's so much video motion,
+
+00:09:01.198 --> 00:09:04.577
+it will then tell the balloon to pop.
+
+00:09:04.577 --> 00:09:06.961
+The same way that this uses the camera
+
+00:09:06.961 --> 00:09:09.466
+to get information into Scratch,
+
+00:09:09.466 --> 00:09:12.473
+you can also use the microphone.
+
+00:09:12.473 --> 00:09:16.457
+Here's an example of a project using the microphone.
+
+00:09:16.457 --> 00:09:18.857
+So I'm going to let all of you control this game
+
+00:09:18.857 --> 00:09:21.103
+using your voices.
+
+00:09:21.103 --> 00:09:37.559
+(Crickets chirping) (Shouts) (Chomping)
+
+00:09:37.559 --> 00:09:46.188
+(Laughter)
+
+00:09:46.188 --> 00:09:54.972
+(Applause)
+
+00:09:54.972 --> 00:09:57.577
+As kids are creating projects like this,
+
+00:09:57.577 --> 00:09:59.842
+they're learning to code,
+
+00:09:59.842 --> 00:10:03.776
+but even more importantly, they're coding to learn.
+
+00:10:03.776 --> 00:10:06.065
+Because as they learn to code,
+
+00:10:06.065 --> 00:10:09.385
+it enables them to learn many other things,
+
+00:10:09.385 --> 00:10:12.257
+opens up many new opportunities for learning.
+
+00:10:12.257 --> 00:10:16.641
+Again, it's useful to make an analogy to reading and writing.
+
+00:10:16.641 --> 00:10:19.581
+When you learn to read and write, it opens up
+
+00:10:19.581 --> 00:10:22.641
+opportunities for you to learn so many other things.
+
+00:10:22.641 --> 00:10:26.401
+When you learn to read, you can then read to learn.
+
+00:10:26.401 --> 00:10:28.589
+And it's the same thing with coding.
+
+00:10:28.589 --> 00:10:31.136
+If you learn to code, you can code to learn.
+
+00:10:31.136 --> 00:10:33.690
+Now some of the things you can learn are sort of obvious.
+
+00:10:33.690 --> 00:10:36.188
+You learn more about how computers work.
+
+00:10:36.188 --> 00:10:38.506
+But that's just where it starts.
+
+00:10:38.506 --> 00:10:41.101
+When you learn to code, it opens up for you to learn
+
+00:10:41.101 --> 00:10:43.346
+many other things.
+
+00:10:43.346 --> 00:10:45.692
+Let me show you an example.
+
+00:10:45.692 --> 00:10:47.962
+Here's another project,
+
+00:10:47.962 --> 00:10:50.230
+and I saw this when I was visiting
+
+00:10:50.230 --> 00:10:52.372
+one of the computer clubhouses.
+
+00:10:52.372 --> 00:10:55.392
+These are after-school learning centers that we helped start
+
+00:10:55.392 --> 00:10:58.154
+that help young people from low-income communities
+
+00:10:58.154 --> 00:11:02.233
+learn to express themselves creatively with new technologies.
+
+00:11:02.233 --> 00:11:05.028
+And when I went to one of the clubhouses a couple years ago,
+
+00:11:05.028 --> 00:11:08.753
+I saw a 13-year-old boy who was using our Scratch software
+
+00:11:08.753 --> 00:11:11.649
+to create a game somewhat like this one,
+
+00:11:11.649 --> 00:11:14.572
+and he was very happy with his game and proud of his game,
+
+00:11:14.572 --> 00:11:17.537
+but also he wanted to do more.
+
+00:11:17.537 --> 00:11:19.841
+He wanted to keep score.
+
+00:11:19.841 --> 00:11:22.917
+So this was a game where the big fish eats the little fish,
+
+00:11:22.917 --> 00:11:25.844
+but he wanted to keep score, so that each time
+
+00:11:25.844 --> 00:11:29.222
+the big fish eats the little fish,
+
+00:11:29.222 --> 00:11:31.761
+the score would go up and it would keep track,
+
+00:11:31.761 --> 00:11:34.273
+and he didn't know how to do that.
+
+00:11:34.273 --> 00:11:36.538
+So I showed him.
+
+00:11:36.538 --> 00:11:40.115
+In Scratch, you can create something called a variable.
+
+00:11:40.115 --> 00:11:44.242
+I'll call it score.
+
+00:11:44.242 --> 00:11:47.073
+And that creates some new blocks for you,
+
+00:11:47.073 --> 00:11:51.739
+and also creates a little scoreboard that keeps track of the score,
+
+00:11:51.739 --> 00:11:56.991
+so each time I click on "change score," it increments the score.
+
+00:11:56.991 --> 00:11:59.516
+So I showed this to the clubhouse member --
+
+00:11:59.516 --> 00:12:02.217
+let's call him Victor -- and Victor,
+
+00:12:02.217 --> 00:12:05.019
+when he saw that this block would let him increment the score,
+
+00:12:05.019 --> 00:12:06.835
+he knew exactly what to do.
+
+00:12:06.835 --> 00:12:09.149
+He took the block
+
+00:12:09.149 --> 00:12:12.193
+and he put it into the program
+
+00:12:12.193 --> 00:12:16.386
+exactly where the big fish eats the little fish.
+
+00:12:16.386 --> 00:12:21.409
+So then, each time the big fish eats the little fish,
+
+00:12:21.409 --> 00:12:27.404
+he will increment the score, and the score will go up by one.
+
+00:12:27.404 --> 00:12:29.101
+And it's in fact working.
+
+00:12:29.101 --> 00:12:31.355
+And he saw this, and he was so excited,
+
+00:12:31.355 --> 00:12:33.034
+he reached his hand out to me,
+
+00:12:33.034 --> 00:12:35.583
+and he said, "Thank you, thank you, thank you."
+
+00:12:35.583 --> 00:12:37.652
+And what went through my mind was,
+
+00:12:37.652 --> 00:12:40.694
+how often is it that teachers are thanked by their students
+
+00:12:40.694 --> 00:12:44.097
+for teaching them variables? (Laughter)
+
+00:12:44.097 --> 00:12:46.578
+It doesn't happen in most classrooms,
+
+00:12:46.578 --> 00:12:49.537
+but that's because in most classrooms, when kids learn about variables,
+
+00:12:49.537 --> 00:12:52.045
+they don't know why they're learning it.
+
+00:12:52.045 --> 00:12:54.916
+It's nothing that, really, they can make use of.
+
+00:12:54.916 --> 00:12:57.078
+When you learn ideas like this in Scratch,
+
+00:12:57.078 --> 00:13:01.181
+you can learn it in a way that's really meaningful and motivating for you,
+
+00:13:01.181 --> 00:13:04.171
+that you can understand the reason for learning variables,
+
+00:13:04.171 --> 00:13:06.213
+and we see that kids learn it more deeply
+
+00:13:06.213 --> 00:13:07.628
+and learn it better.
+
+00:13:07.628 --> 00:13:10.669
+Victor had, I'm sure, been taught about variables in schools,
+
+00:13:10.669 --> 00:13:12.857
+but he really didn't -- he wasn't paying attention.
+
+00:13:12.857 --> 00:13:15.140
+Now he had a reason for learning variables.
+
+00:13:15.140 --> 00:13:18.214
+So when you learn through coding, and coding to learn,
+
+00:13:18.214 --> 00:13:23.098
+you're learning it in a meaningful context, and that's the best way of learning things.
+
+00:13:23.098 --> 00:13:26.553
+So as kids like Victor are creating projects like this,
+
+00:13:26.553 --> 00:13:29.337
+they're learning important concepts like variables,
+
+00:13:29.337 --> 00:13:31.465
+but that's just the start.
+
+00:13:31.465 --> 00:13:35.315
+As Victor worked on this project and created the scripts,
+
+00:13:35.315 --> 00:13:38.567
+he was also learning about the process of design,
+
+00:13:38.567 --> 00:13:41.186
+how to start with the glimmer of an idea
+
+00:13:41.186 --> 00:13:44.092
+and turn it into a fully-fledged, functioning project
+
+00:13:44.092 --> 00:13:46.599
+like you see here.
+
+00:13:46.599 --> 00:13:50.639
+So he was learning many different core principles of design,
+
+00:13:50.639 --> 00:13:53.881
+about how to experiment with new ideas,
+
+00:13:53.881 --> 00:13:58.586
+how to take complex ideas and break them down into simpler parts,
+
+00:13:58.586 --> 00:14:01.576
+how to collaborate with other people on your projects,
+
+00:14:01.576 --> 00:14:05.027
+about how to find and fix bugs when things go wrong,
+
+00:14:05.027 --> 00:14:08.081
+how to keep persistent and to persevere
+
+00:14:08.081 --> 00:14:11.486
+in the face of frustrations when things aren't working well.
+
+00:14:11.486 --> 00:14:13.259
+Now those are important skills
+
+00:14:13.259 --> 00:14:16.127
+that aren't just relevant for coding.
+
+00:14:16.127 --> 00:14:18.954
+They're relevant for all sorts of different activities.
+
+00:14:18.954 --> 00:14:22.122
+Now, who knows if Victor is going to grow up and become
+
+00:14:22.122 --> 00:14:25.046
+a programmer or a professional computer scientist?
+
+00:14:25.046 --> 00:14:26.858
+It's probably not so likely,
+
+00:14:26.858 --> 00:14:28.646
+but regardless of what he does,
+
+00:14:28.646 --> 00:14:32.350
+he'll be able to make use of these design skills that he learned.
+
+00:14:32.350 --> 00:14:34.934
+Regardless of whether he grows up to be a marketing manager
+
+00:14:34.934 --> 00:14:38.054
+or a mechanic or a community organizer,
+
+00:14:38.054 --> 00:14:40.510
+that these ideas are useful for everybody.
+
+00:14:40.510 --> 00:14:44.432
+Again, it's useful to think about this analogy with language.
+
+00:14:44.432 --> 00:14:48.788
+When you become fluent with reading and writing,
+
+00:14:48.788 --> 00:14:51.229
+it's not something that you're doing
+
+00:14:51.229 --> 00:14:53.189
+just to become a professional writer.
+
+00:14:53.189 --> 00:14:55.886
+Very few people become professional writers.
+
+00:14:55.886 --> 00:14:59.454
+But it's useful for everybody to learn how to read and write.
+
+00:14:59.454 --> 00:15:01.549
+Again, the same thing with coding.
+
+00:15:01.549 --> 00:15:03.771
+Most people won't grow up to become professional
+
+00:15:03.771 --> 00:15:06.990
+computer scientists or programmers,
+
+00:15:06.990 --> 00:15:09.328
+but those skills of thinking creatively,
+
+00:15:09.328 --> 00:15:11.842
+reasoning systematically, working collaboratively --
+
+00:15:11.842 --> 00:15:14.552
+skills you develop when you code in Scratch --
+
+00:15:14.552 --> 00:15:19.374
+are things that people can use no matter what they're doing in their work lives.
+
+00:15:19.374 --> 00:15:21.750
+And it's not just about your work life.
+
+00:15:21.750 --> 00:15:24.470
+Coding can also enable you to
+
+00:15:24.470 --> 00:15:27.646
+express your ideas and feelings in your personal life.
+
+00:15:27.646 --> 00:15:30.319
+Let me end with just one more example.
+
+00:15:30.319 --> 00:15:33.446
+So this is an example that came from
+
+00:15:33.446 --> 00:15:37.914
+after I had sent the Mother's Day cards to my mom,
+
+00:15:37.914 --> 00:15:41.015
+she decided that she wanted to learn Scratch.
+
+00:15:41.015 --> 00:15:44.046
+So she made this project for my birthday
+
+00:15:44.046 --> 00:15:47.622
+and sent me a happy birthday Scratch card.
+
+00:15:47.622 --> 00:15:51.478
+Now this project is not going to win any prizes for design,
+
+00:15:51.478 --> 00:15:54.453
+and you can rest assured that my 83-year-old mom
+
+00:15:54.453 --> 00:15:58.690
+is not training to become a professional programmer or computer scientist.
+
+00:15:58.690 --> 00:16:01.662
+But working on this project enabled her
+
+00:16:01.662 --> 00:16:04.328
+to make a connection to someone that she cares about
+
+00:16:04.328 --> 00:16:07.136
+and enabled her to keep on learning new things
+
+00:16:07.136 --> 00:16:09.568
+and continuing to practice her creativity
+
+00:16:09.568 --> 00:16:12.743
+and developing new ways of expressing herself.
+
+00:16:12.743 --> 00:16:16.954
+So as we take a look and we see that
+
+00:16:16.954 --> 00:16:19.518
+Michael Bloomberg is learning to code,
+
+00:16:19.518 --> 00:16:22.168
+all of the children of Estonia learn to code,
+
+00:16:22.168 --> 00:16:24.368
+even my mom has learned to code,
+
+00:16:24.368 --> 00:16:26.140
+don't you think it's about time that you might be
+
+00:16:26.140 --> 00:16:28.052
+thinking about learning to code?
+
+00:16:28.052 --> 00:16:30.245
+If you're interested in giving it a try,
+
+00:16:30.245 --> 00:16:32.681
+I'd encourage you to go to the Scratch website.
+
+00:16:32.681 --> 00:16:34.706
+It's scratch.mit.edu,
+
+00:16:34.706 --> 00:16:36.528
+and give a try at coding.
+
+00:16:36.528 --> 00:16:40.646
+Thanks very much. (Applause)

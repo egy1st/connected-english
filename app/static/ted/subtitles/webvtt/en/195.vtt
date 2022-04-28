@@ -1,0 +1,899 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+I want you to imagine that you're a student in my lab.
+
+00:00:05.000 --> 00:00:09.000
+What I want you to do is to create a biologically inspired design.
+
+00:00:09.000 --> 00:00:11.000
+And so here's the challenge:
+
+00:00:11.000 --> 00:00:17.000
+I want you to help me create a fully 3D, dynamic, parameterized contact model.
+
+00:00:17.000 --> 00:00:21.000
+The translation of that is, could you help me build a foot?
+
+00:00:21.000 --> 00:00:23.000
+And it is a true challenge, and I do want you to help me.
+
+00:00:23.000 --> 00:00:25.000
+Of course, in the challenge there is a prize.
+
+00:00:25.000 --> 00:00:32.000
+It's not quite the TED Prize, but it is an exclusive t-shirt from our lab.
+
+00:00:32.000 --> 00:00:38.000
+So please send me your ideas about how to design a foot.
+
+00:00:38.000 --> 00:00:42.000
+Now if we want to design a foot, what do we have to do?
+
+00:00:42.000 --> 00:00:45.000
+We have to first know what a foot is.
+
+00:00:45.000 --> 00:00:48.000
+If we go to the dictionary, it says, "It's the lower extremity of a leg
+
+00:00:48.000 --> 00:00:50.000
+that is in direct contact with the ground in standing or walking"
+
+00:00:50.000 --> 00:00:51.000
+That's the traditional definition.
+
+00:00:51.000 --> 00:00:54.000
+But if you wanted to really do research, what do you have to do?
+
+00:00:54.000 --> 00:00:57.000
+You have to go to the literature and look up what's known about feet.
+
+00:00:57.000 --> 00:00:59.000
+So you go to the literature. (Laughter)
+
+00:01:00.000 --> 00:01:02.000
+Maybe you're familiar with this literature.
+
+00:01:02.000 --> 00:01:05.000
+The problem is, there are many, many feet.
+
+00:01:05.000 --> 00:01:06.000
+How do you do this?
+
+00:01:06.000 --> 00:01:11.000
+You need to survey all feet and extract the principles of how they work.
+
+00:01:11.000 --> 00:01:13.000
+And I want you to help me do that in this next clip.
+
+00:01:13.000 --> 00:01:16.000
+As you see this clip, look for principles,
+
+00:01:16.000 --> 00:01:19.000
+and also think about experiments that you might design
+
+00:01:19.000 --> 00:01:23.000
+in order to understand how a foot works.
+
+00:01:32.000 --> 00:01:34.000
+See any common themes? Principles?
+
+00:01:34.000 --> 00:01:37.000
+What would you do?
+
+00:01:47.000 --> 00:01:49.000
+What experiments would you run?
+
+00:03:19.000 --> 00:03:25.000
+Wow. (Applause)
+
+00:03:25.000 --> 00:03:28.000
+Our research on the biomechanics of animal locomotion
+
+00:03:28.000 --> 00:03:30.000
+has allowed us to make a blueprint for a foot.
+
+00:03:30.000 --> 00:03:36.000
+It's a design inspired by nature, but it's not a copy of any specific foot you just looked at,
+
+00:03:36.000 --> 00:03:40.000
+but it's a synthesis of the secrets of many, many feet.
+
+00:03:40.000 --> 00:03:43.000
+Now it turns out that animals can go anywhere.
+
+00:03:43.000 --> 00:03:45.000
+They can locomote on substrates that vary as you saw --
+
+00:03:45.000 --> 00:03:49.000
+in the probability of contact, the movement of that surface
+
+00:03:49.000 --> 00:03:52.000
+and the type of footholds that are present.
+
+00:03:52.000 --> 00:03:54.000
+If you want to study how a foot works,
+
+00:03:54.000 --> 00:03:58.000
+we're going to have to simulate those surfaces, or simulate that debris.
+
+00:03:58.000 --> 00:04:03.000
+When we did that, here's a new experiment that we did:
+
+00:04:03.000 --> 00:04:05.000
+we put an animal and had it run -- this grass spider --
+
+00:04:05.000 --> 00:04:08.000
+on a surface with 99 percent of the contact area removed.
+
+00:04:08.000 --> 00:04:10.000
+But it didn't even slow down the animal.
+
+00:04:10.000 --> 00:04:13.000
+It's still running at the human equivalent of 300 miles per hour.
+
+00:04:13.000 --> 00:04:16.000
+Now how could it do that? Well, look more carefully.
+
+00:04:16.000 --> 00:04:22.000
+When we slow it down 50 times we see how the leg is hitting that simulated debris.
+
+00:04:22.000 --> 00:04:24.000
+The leg is acting as a foot.
+
+00:04:24.000 --> 00:04:27.000
+And in fact, the animal contacts other parts of its leg
+
+00:04:27.000 --> 00:04:30.000
+more frequently than the traditionally defined foot.
+
+00:04:30.000 --> 00:04:34.000
+The foot is distributed along the whole leg.
+
+00:04:34.000 --> 00:04:38.000
+You can do another experiment where you can take a cockroach with a foot,
+
+00:04:38.000 --> 00:04:40.000
+and you can remove its foot.
+
+00:04:40.000 --> 00:04:44.000
+I'm passing some cockroaches around. Take a look at their feet.
+
+00:04:44.000 --> 00:04:48.000
+Without a foot, here's what it does. It doesn't even slow down.
+
+00:04:48.000 --> 00:04:51.000
+It can run the same speed without even that segment.
+
+00:04:51.000 --> 00:04:54.000
+No problem for the cockroach -- they can grow them back, if you care.
+
+00:04:54.000 --> 00:04:56.000
+How do they do it?
+
+00:04:56.000 --> 00:04:59.000
+Look carefully: this is slowed down 100 times,
+
+00:04:59.000 --> 00:05:02.000
+and watch what it's doing with the rest of its leg.
+
+00:05:02.000 --> 00:05:05.000
+It's acting, again, as a distributed foot --
+
+00:05:05.000 --> 00:05:07.000
+very effective.
+
+00:05:07.000 --> 00:05:12.000
+Now, the question we had is, how general is a distributed foot?
+
+00:05:12.000 --> 00:05:21.000
+And the next behavior I'll show you of this animal just stunned us the first time that we saw it.
+
+00:05:21.000 --> 00:05:26.000
+Journalists, this is off the record; it's embargoed.
+
+00:05:26.000 --> 00:05:28.000
+Take a look at what that is!
+
+00:05:28.000 --> 00:05:35.000
+That's a bipedal octopus that's disguised as a rolling coconut.
+
+00:05:35.000 --> 00:05:39.000
+It was discovered by Christina Huffard
+
+00:05:39.000 --> 00:05:42.000
+and filmed by Sea Studios, right here from Monterey.
+
+00:05:44.000 --> 00:05:49.000
+We've also described another species of bipedal octopus.
+
+00:05:49.000 --> 00:05:52.000
+This one disguises itself as floating algae.
+
+00:05:52.000 --> 00:05:57.000
+It walks on two legs and it holds the other arms up in the air so that it can't be seen.
+
+00:05:57.000 --> 00:05:58.000
+(Applause)
+
+00:05:58.000 --> 00:06:06.000
+And look what it does with its foot to get over challenging terrain.
+
+00:06:06.000 --> 00:06:17.000
+It uses that beautiful distributed foot to make it as if those obstacles are not even there --
+
+00:06:17.000 --> 00:06:19.000
+truly extraordinary.
+
+00:06:21.000 --> 00:06:25.000
+In 1951, Escher made this drawing. He thought he created an animal fantasy.
+
+00:06:26.000 --> 00:06:28.000
+But we know that art imitates life,
+
+00:06:28.000 --> 00:06:31.000
+and it turns out nature, three million years ago, evolved the next animal.
+
+00:06:31.000 --> 00:06:33.000
+It's a shrimp-like animal called the stomatopod,
+
+00:06:33.000 --> 00:06:37.000
+and here's how it moves on the beaches of Panama:
+
+00:06:37.000 --> 00:06:41.000
+it actually rolls, and it can even roll uphill.
+
+00:06:41.000 --> 00:06:49.000
+It's the ultimate distributed foot: its whole body in this case is acting like its foot.
+
+00:06:51.000 --> 00:06:56.000
+So, if we want to then, to our blueprint, add the first important feature,
+
+00:06:56.000 --> 00:06:58.000
+we want to add distributed foot contact.
+
+00:06:58.000 --> 00:07:01.000
+Not just with the traditional foot, but also the leg,
+
+00:07:01.000 --> 00:07:02.000
+and even of the body.
+
+00:07:02.000 --> 00:07:06.000
+Can this help us inspire the design of novel robots?
+
+00:07:06.000 --> 00:07:09.000
+We biologically inspired this robot, named RHex,
+
+00:07:09.000 --> 00:07:13.000
+built by these extraordinary engineers over the last few years.
+
+00:07:13.000 --> 00:07:16.000
+RHex's foot started off to be quite simple,
+
+00:07:16.000 --> 00:07:21.000
+then it got tuned over time, and ultimately resulted in this half circle.
+
+00:07:21.000 --> 00:07:23.000
+Why is that? The video will show you.
+
+00:07:23.000 --> 00:07:30.000
+Watch where the robot, now, contacts its leg in order to deal with this very difficult terrain.
+
+00:07:30.000 --> 00:07:36.000
+What you'll see, in fact, is that it's using that half circle leg as a distributed foot.
+
+00:07:36.000 --> 00:07:38.000
+Watch it go over this.
+
+00:07:38.000 --> 00:07:40.000
+You can see it here well on this debris.
+
+00:07:41.000 --> 00:07:47.000
+Extraordinary. No sensing, all the control is built right into the tuned legs.
+
+00:07:47.000 --> 00:07:49.000
+Really simple, but beautiful.
+
+00:07:49.000 --> 00:07:52.000
+Now, you might have noticed something else about the animals
+
+00:07:52.000 --> 00:07:54.000
+when they were running over the rough terrain.
+
+00:07:54.000 --> 00:07:56.000
+And my assistant's going to help me here.
+
+00:07:56.000 --> 00:08:00.000
+When you touched the cockroach leg -- can you get the microphone for him?
+
+00:08:00.000 --> 00:08:03.000
+When you touched the cockroach leg, what did it feel like?
+
+00:08:03.000 --> 00:08:05.000
+Did you notice something?
+
+00:08:05.000 --> 00:08:06.000
+Boy: Spiny.
+
+00:08:06.000 --> 00:08:10.000
+Robert Full: It's spiny, right? It's really spiny, isn't it? It sort of hurts.
+
+00:08:10.000 --> 00:08:16.000
+Maybe we could give it to our curator and see if he'd be brave enough to touch the cockroach.
+
+00:08:16.000 --> 00:08:17.000
+(Laughter)
+
+00:08:17.000 --> 00:08:18.000
+Chris Anderson: Did you touch it?
+
+00:08:18.000 --> 00:08:21.000
+RF: So if you look carefully at this, what you see is that they have spines
+
+00:08:21.000 --> 00:08:24.000
+and until a few weeks ago, no one knew what they did.
+
+00:08:24.000 --> 00:08:27.000
+They assumed that they were for protection and for sensory structures.
+
+00:08:27.000 --> 00:08:31.000
+We found that they're for something else -- here's a segment of that spine.
+
+00:08:31.000 --> 00:08:34.000
+They're tuned such that they easily collapse in one direction
+
+00:08:34.000 --> 00:08:36.000
+to pull the leg out from debris,
+
+00:08:36.000 --> 00:08:42.000
+but they're stiff in the other direction so they capture disparities in the surface.
+
+00:08:42.000 --> 00:08:45.000
+Now crabs don't miss footholds, because they normally move on sand --
+
+00:08:45.000 --> 00:08:46.000
+until they come to our lab.
+
+00:08:47.000 --> 00:08:50.000
+And where they have a problem with this kind of mesh,
+
+00:08:50.000 --> 00:08:52.000
+because they don't have spines.
+
+00:08:53.000 --> 00:08:56.000
+The crabs are missing spines, so they have a problem in this kind of rough terrain.
+
+00:08:56.000 --> 00:08:59.000
+But of course, we can deal with that
+
+00:08:59.000 --> 00:09:02.000
+because we can produce artificial spines.
+
+00:09:03.000 --> 00:09:06.000
+We can make spines that catch on simulated debris
+
+00:09:06.000 --> 00:09:09.000
+and collapse on removal to easily pull them out.
+
+00:09:09.000 --> 00:09:12.000
+We did that by putting these artificial spines on crabs,
+
+00:09:12.000 --> 00:09:14.000
+as you see here, and then we tested them.
+
+00:09:14.000 --> 00:09:18.000
+Do we really understand that principle of tuning? The answer is, yes!
+
+00:09:18.000 --> 00:09:23.000
+This is slowed down 20-fold, and the crab just zooms across that simulated debris.
+
+00:09:23.000 --> 00:09:25.000
+(Laughter) (Applause)
+
+00:09:25.000 --> 00:09:27.000
+A little better than nature.
+
+00:09:28.000 --> 00:09:31.000
+So to our blueprint, we need to add tuned spines.
+
+00:09:31.000 --> 00:09:36.000
+Now will this help us think about the design of more effective climbing robots?
+
+00:09:36.000 --> 00:09:41.000
+Well, here's RHex: RHex has trouble on rails -- on smooth rails, as you see here.
+
+00:09:41.000 --> 00:09:45.000
+So why not add a spine? My colleagues did this at U. Penn.
+
+00:09:45.000 --> 00:09:49.000
+Dan Koditschek put some steel nails -- very simple version -- on the robot,
+
+00:09:49.000 --> 00:09:55.000
+and here's RHex, now, going over those steel -- those rails. No problem!
+
+00:09:55.000 --> 00:09:56.000
+How does it do it?
+
+00:09:56.000 --> 00:09:58.000
+Let's slow it down and you can see the spines in action.
+
+00:09:58.000 --> 00:10:01.000
+Watch the leg come around, and you'll see it grab on right there.
+
+00:10:01.000 --> 00:10:04.000
+It couldn't do that before; it would just slip and get stuck and tip over.
+
+00:10:04.000 --> 00:10:08.000
+And watch again, right there -- successful.
+
+00:10:08.000 --> 00:10:11.000
+Now just because we have a distributed foot and spines
+
+00:10:11.000 --> 00:10:13.000
+doesn't mean you can climb vertical surfaces.
+
+00:10:14.000 --> 00:10:16.000
+This is really, really difficult.
+
+00:10:16.000 --> 00:10:18.000
+But look at this animal do it!
+
+00:10:18.000 --> 00:10:24.000
+One of the ones I'm passing around is climbing up this vertical surface that's a smooth metal plate.
+
+00:10:24.000 --> 00:10:26.000
+It's extraordinary how fast it can do it --
+
+00:10:26.000 --> 00:10:30.000
+but if you slow it down, you see something that's quite extraordinary.
+
+00:10:30.000 --> 00:10:34.000
+It's a secret. The animal effectively climbs by slipping and look --
+
+00:10:34.000 --> 00:10:38.000
+and doing, actually, terribly, with respect to grabbing on the surface.
+
+00:10:38.000 --> 00:10:41.000
+It looks, in fact, like it's swimming up the surface.
+
+00:10:41.000 --> 00:10:45.000
+We can actually model that behavior better as a fluid, if you look at it.
+
+00:10:45.000 --> 00:10:49.000
+The distributed foot, actually, is working more like a paddle.
+
+00:10:49.000 --> 00:10:53.000
+The same is true when we looked at this lizard running on fluidized sand.
+
+00:10:53.000 --> 00:10:55.000
+Watch its feet.
+
+00:10:55.000 --> 00:10:57.000
+It's actually functioning as a paddle
+
+00:10:57.000 --> 00:11:03.000
+even though it's interacting with a surface that we normally think of as a solid.
+
+00:11:03.000 --> 00:11:08.000
+This is not different from what my former undergraduate discovered
+
+00:11:08.000 --> 00:11:12.000
+when she figured out how lizards can run on water itself.
+
+00:11:13.000 --> 00:11:18.000
+Can you use this to make a better robot?
+
+00:11:18.000 --> 00:11:21.000
+Martin Buehler did -- who's now at Boston Dynamics --
+
+00:11:21.000 --> 00:11:26.000
+he took this idea and made RHex to be Aqua RHex.
+
+00:11:26.000 --> 00:11:28.000
+So here's RHex with paddles,
+
+00:11:28.000 --> 00:11:33.000
+now converted into an incredibly maneuverable swimming robot.
+
+00:11:34.000 --> 00:11:37.000
+For rough surfaces, though, animals add claws.
+
+00:11:37.000 --> 00:11:38.000
+And you probably feel them if you grabbed it.
+
+00:11:38.000 --> 00:11:39.000
+Did you touch it?
+
+00:11:39.000 --> 00:11:40.000
+CA: I did.
+
+00:11:40.000 --> 00:11:42.000
+RF: And they do really well at grabbing onto surfaces with these claws.
+
+00:11:42.000 --> 00:11:48.000
+Mark Cutkosky at Stanford University, one of my collaborators, is an extraordinary engineer
+
+00:11:48.000 --> 00:11:51.000
+who developed this technique called Shape Deposition Manufacturing,
+
+00:11:51.000 --> 00:11:54.000
+where he can imbed claws right into an artificial foot.
+
+00:11:54.000 --> 00:11:59.000
+And here's the simple version of a foot for a new robot that I'll show you in a bit.
+
+00:11:59.000 --> 00:12:02.000
+So to our blueprint, let's attach claws.
+
+00:12:02.000 --> 00:12:05.000
+Now if we look at animals, though, to be really maneuverable in all surfaces,
+
+00:12:05.000 --> 00:12:07.000
+the animals use hybrid mechanisms
+
+00:12:07.000 --> 00:12:11.000
+that include claws, and spines, and hairs, and pads, and glue, and capillary adhesion
+
+00:12:11.000 --> 00:12:12.000
+and a whole bunch of other things.
+
+00:12:12.000 --> 00:12:14.000
+These are all from different insects.
+
+00:12:14.000 --> 00:12:16.000
+There's an ant crawling up a vertical surface.
+
+00:12:16.000 --> 00:12:17.000
+Let's look at that ant.
+
+00:12:18.000 --> 00:12:23.000
+This is the foot of an ant. You see the hairs and the claws and this thing here.
+
+00:12:23.000 --> 00:12:25.000
+This is when its foot's in the air.
+
+00:12:25.000 --> 00:12:29.000
+Watch what happens when the foot goes onto your sandwich.
+
+00:12:29.000 --> 00:12:31.000
+You see what happens?
+
+00:12:31.000 --> 00:12:35.000
+That pad comes out. And that's where the glue is.
+
+00:12:36.000 --> 00:12:39.000
+Here from underneath is an ant foot,
+
+00:12:39.000 --> 00:12:45.000
+and when the claws don't dig in, that pad automatically comes out without the ant doing anything.
+
+00:12:45.000 --> 00:12:46.000
+It just extrudes.
+
+00:12:46.000 --> 00:12:51.000
+And this was a hard shot to get -- I think this is the shot of the ant foot on the superstrings.
+
+00:12:51.000 --> 00:12:52.000
+So it's pretty tough to do.
+
+00:12:52.000 --> 00:12:55.000
+This is what it looks like close up --
+
+00:12:55.000 --> 00:12:57.000
+here's the ant foot, and there's the glue.
+
+00:12:57.000 --> 00:13:01.000
+And we discovered this glue may be an interesting two-phase mixture.
+
+00:13:01.000 --> 00:13:03.000
+It certainly helps it to hold on.
+
+00:13:03.000 --> 00:13:07.000
+So to our blueprint, we stick on some sticky pads.
+
+00:13:07.000 --> 00:13:11.000
+Now you might think for smooth surfaces we get inspiration here.
+
+00:13:11.000 --> 00:13:14.000
+Now we have something better here.
+
+00:13:14.000 --> 00:13:17.000
+The gecko's a really great example of nanotechnology in nature.
+
+00:13:17.000 --> 00:13:19.000
+These are its feet.
+
+00:13:19.000 --> 00:13:23.000
+They're -- almost look alien. And the secret, which they stick on with,
+
+00:13:23.000 --> 00:13:25.000
+involves their hairy toes.
+
+00:13:25.000 --> 00:13:29.000
+They can run up a surface at a meter per second,
+
+00:13:29.000 --> 00:13:32.000
+take 30 steps in that one second -- you can hardly see them.
+
+00:13:32.000 --> 00:13:35.000
+If we slow it down, they attach their feet at eight milliseconds,
+
+00:13:35.000 --> 00:13:38.000
+and detach them in 16 milliseconds.
+
+00:13:38.000 --> 00:13:45.000
+And when you watch how they detach it, it is bizarre.
+
+00:13:45.000 --> 00:13:50.000
+They peel away from the surface like you'd peel away a piece of tape.
+
+00:13:50.000 --> 00:13:53.000
+Very strange. How do they stick?
+
+00:13:53.000 --> 00:13:56.000
+If you look at their feet, they have leaf-like structures called linalae
+
+00:13:56.000 --> 00:13:57.000
+with millions of hairs.
+
+00:13:57.000 --> 00:14:00.000
+And each hair has the worst case of split ends possible.
+
+00:14:00.000 --> 00:14:03.000
+It has a hundred to a thousand split ends,
+
+00:14:03.000 --> 00:14:06.000
+and that's the secret, because it allows intimate contact.
+
+00:14:06.000 --> 00:14:10.000
+The gecko has a billion of these 200-nanometer-sized split ends.
+
+00:14:10.000 --> 00:14:15.000
+And they don't stick by glue, or they don't work like Velcro, or they don't work with suction.
+
+00:14:15.000 --> 00:14:19.000
+We discovered they work by intermolecular forces alone.
+
+00:14:19.000 --> 00:14:23.000
+So to our blueprint, we split some hairs.
+
+00:14:23.000 --> 00:14:26.000
+This has inspired the design of the first self-cleaning dry adhesive --
+
+00:14:26.000 --> 00:14:28.000
+the patent issued, we're happy to say.
+
+00:14:28.000 --> 00:14:31.000
+And here's the simplest version in nature,
+
+00:14:31.000 --> 00:14:34.000
+and here's my collaborator Ron Fearing's attempt
+
+00:14:34.000 --> 00:14:39.000
+at an artificial version of this dry adhesive made from polyurethane.
+
+00:14:39.000 --> 00:14:42.000
+And here's the first attempt to have it work on some load.
+
+00:14:42.000 --> 00:14:45.000
+There's enormous interest in this in a variety of different fields.
+
+00:14:45.000 --> 00:14:48.000
+You could think of a thousand possible uses, I'm sure.
+
+00:14:48.000 --> 00:14:53.000
+Lots of people have, and we're excited about realizing this as a product.
+
+00:14:53.000 --> 00:14:55.000
+We have imagined products; for example, this one:
+
+00:14:56.000 --> 00:15:01.000
+we imagined a bio-inspired Band-Aid, where we took the glue off the Band-Aid.
+
+00:15:01.000 --> 00:15:03.000
+We took some hairs from a molting gecko;
+
+00:15:03.000 --> 00:15:07.000
+put three rolls of them on here, and then made this Band-Aid.
+
+00:15:07.000 --> 00:15:09.000
+This is an undergraduate volunteer --
+
+00:15:09.000 --> 00:15:12.000
+we have 30,000 undergraduates so we can choose among them --
+
+00:15:12.000 --> 00:15:14.000
+that's actually just a red pen mark.
+
+00:15:14.000 --> 00:15:16.000
+But it makes an incredible Band-Aid.
+
+00:15:16.000 --> 00:15:24.000
+It's aerated, it can be peeled off easily, it doesn't cause any irritation, it works underwater.
+
+00:15:24.000 --> 00:15:29.000
+I think this is an extraordinary example of how curiosity-based research --
+
+00:15:29.000 --> 00:15:31.000
+we just wondered how they climbed up something --
+
+00:15:31.000 --> 00:15:34.000
+can lead to things that you could never imagine.
+
+00:15:34.000 --> 00:15:38.000
+It's just an example of why we need to support curiosity-based research.
+
+00:15:38.000 --> 00:15:41.000
+Here you are, pulling off the Band-Aid.
+
+00:15:41.000 --> 00:15:45.000
+So we've redefined, now, what a foot is.
+
+00:15:45.000 --> 00:15:47.000
+The question is, can we use these secrets, then,
+
+00:15:47.000 --> 00:15:50.000
+to inspire the design of a better foot, better than one that we see in nature?
+
+00:15:50.000 --> 00:15:52.000
+Here's the new project:
+
+00:15:52.000 --> 00:15:58.000
+we're trying to create the first climbing search-and-rescue robot -- no suction or magnets --
+
+00:15:58.000 --> 00:16:01.000
+that can only move on limited kinds of surfaces.
+
+00:16:01.000 --> 00:16:06.000
+I call the new robot RiSE, for "Robot in Scansorial Environment" -- that's a climbing environment --
+
+00:16:06.000 --> 00:16:10.000
+and we have an extraordinary team of biologists and engineers creating this robot.
+
+00:16:10.000 --> 00:16:12.000
+And here is RiSE.
+
+00:16:14.000 --> 00:16:17.000
+It's six-legged and has a tail. Here it is on a fence and a tree.
+
+00:16:17.000 --> 00:16:21.000
+And here are RiSE's first steps on an incline.
+
+00:16:21.000 --> 00:16:24.000
+You have the audio? You can hear it go up.
+
+00:16:24.000 --> 00:16:30.000
+And here it is coming up at you, in its first steps up a wall.
+
+00:16:30.000 --> 00:16:35.000
+Now it's only using its simplest feet here, so this is very new.
+
+00:16:35.000 --> 00:16:38.000
+But we think we got the dynamics right of the robot.
+
+00:16:39.000 --> 00:16:41.000
+Mark Cutkosky, though, is taking it a step further.
+
+00:16:41.000 --> 00:16:46.000
+He's the one able to build this shape-deposition manufactured feet and toes.
+
+00:16:46.000 --> 00:16:50.000
+The next step is to make compliant toes,
+
+00:16:50.000 --> 00:16:52.000
+and try to add spines and claws and set it for dry adhesives.
+
+00:16:52.000 --> 00:16:55.000
+So the idea is to first get the toes and a foot right,
+
+00:16:55.000 --> 00:16:58.000
+attempt to make that climb, and ultimately put it on the robot.
+
+00:16:58.000 --> 00:17:00.000
+And that's exactly what he's done.
+
+00:17:00.000 --> 00:17:05.000
+He's built, in fact, a climbing foot-bot inspired by nature.
+
+00:17:05.000 --> 00:17:09.000
+And here's Cutkosky's and his amazing students' design.
+
+00:17:09.000 --> 00:17:15.000
+So these are tuned toes -- there are six of them,
+
+00:17:15.000 --> 00:17:24.000
+and they use the principles that I just talked about collectively for the blueprint.
+
+00:17:24.000 --> 00:17:26.000
+So this is not using any suction, any glue,
+
+00:17:26.000 --> 00:17:29.000
+and it will ultimately, when it's attached to the robot --
+
+00:17:29.000 --> 00:17:32.000
+it's as biologically inspired as the animal --
+
+00:17:32.000 --> 00:17:37.000
+hopefully be able to climb any kind of a surface.
+
+00:17:37.000 --> 00:17:42.000
+Here you see it, next, going up the side of a building at Stanford.
+
+00:17:42.000 --> 00:17:45.000
+It's sped up -- again, it's a foot climbing.
+
+00:17:45.000 --> 00:17:47.000
+It's not the whole robot yet, we're working on it --
+
+00:17:47.000 --> 00:17:48.000
+now you can see how it's attaching.
+
+00:17:48.000 --> 00:17:54.000
+These tuned structures allow the spines, friction pads and ultimately the adhesive hairs
+
+00:17:54.000 --> 00:17:57.000
+to grab onto very challenging, difficult surfaces.
+
+00:17:57.000 --> 00:18:01.000
+And so they were able to get this thing -- this is now sped up 20 times --
+
+00:18:01.000 --> 00:18:05.000
+can you imagine it trying to go up and rescue somebody at that upper floor? OK?
+
+00:18:05.000 --> 00:18:07.000
+You can visualize this now; it's not impossible.
+
+00:18:07.000 --> 00:18:11.000
+It's a very challenging task. But more to come later.
+
+00:18:11.000 --> 00:18:15.000
+To finish: we've gotten design secrets from nature by looking at how feet are built.
+
+00:18:15.000 --> 00:18:18.000
+We've learned we should distribute control to smart parts.
+
+00:18:18.000 --> 00:18:19.000
+Don't put it all in the brain,
+
+00:18:19.000 --> 00:18:23.000
+but put some of the control in tuned feet, legs and even body.
+
+00:18:23.000 --> 00:18:26.000
+That nature uses hybrid solutions, not a single solution, to these problems,
+
+00:18:26.000 --> 00:18:29.000
+and they're integrated and beautifully robust.
+
+00:18:29.000 --> 00:18:37.000
+And third, we believe strongly that we do not want to mimic nature but instead be inspired by biology,
+
+00:18:37.000 --> 00:18:41.000
+and use these novel principles with the best engineering solutions that are out there
+
+00:18:41.000 --> 00:18:44.000
+to make -- potentially -- something better than nature.
+
+00:18:45.000 --> 00:18:47.000
+So there's a clear message:
+
+00:18:47.000 --> 00:18:50.000
+whether you care about a fundamental, basic research
+
+00:18:50.000 --> 00:18:53.000
+of really interesting, bizarre, wonderful animals,
+
+00:18:53.000 --> 00:18:54.000
+or you want to build a search-and-rescue robot
+
+00:18:54.000 --> 00:18:57.000
+that can help you in an earthquake, or to save someone in a fire,
+
+00:18:57.000 --> 00:19:02.000
+or you care about medicine, we must preserve nature's designs.
+
+00:19:02.000 --> 00:19:05.000
+Otherwise these secrets will be lost forever.
+
+00:19:05.000 --> 00:19:06.000
+Thank you.
+

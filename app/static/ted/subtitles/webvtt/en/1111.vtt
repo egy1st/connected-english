@@ -1,0 +1,269 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+I'm a huge believer in hands-on education.
+
+00:00:04.000 --> 00:00:06.000
+But you have to have the right tools.
+
+00:00:06.000 --> 00:00:09.000
+If I'm going to teach my daughter about electronics,
+
+00:00:09.000 --> 00:00:11.000
+I'm not going to give her a soldering iron.
+
+00:00:11.000 --> 00:00:13.000
+And similarly, she finds prototyping boards
+
+00:00:13.000 --> 00:00:16.000
+really frustrating for her little hands.
+
+00:00:16.000 --> 00:00:19.000
+So my wonderful student Sam and I
+
+00:00:19.000 --> 00:00:21.000
+decided to look at the most tangible thing we could think of:
+
+00:00:21.000 --> 00:00:23.000
+Play-Doh.
+
+00:00:23.000 --> 00:00:25.000
+And so we spent a summer
+
+00:00:25.000 --> 00:00:27.000
+looking at different Play-Doh recipes.
+
+00:00:27.000 --> 00:00:29.000
+And these recipes probably look really familiar
+
+00:00:29.000 --> 00:00:31.000
+to any of you who have made homemade play-dough --
+
+00:00:31.000 --> 00:00:34.000
+pretty standard ingredients you probably have in your kitchen.
+
+00:00:34.000 --> 00:00:36.000
+We have two favorite recipes --
+
+00:00:36.000 --> 00:00:38.000
+one that has these ingredients
+
+00:00:38.000 --> 00:00:40.000
+and a second that had sugar instead of salt.
+
+00:00:40.000 --> 00:00:43.000
+And they're great. We can make great little sculptures with these.
+
+00:00:43.000 --> 00:00:46.000
+But the really cool thing about them is when we put them together.
+
+00:00:46.000 --> 00:00:48.000
+You see that really salty Play-Doh?
+
+00:00:48.000 --> 00:00:50.000
+Well, it conducts electricity.
+
+00:00:50.000 --> 00:00:52.000
+And this is nothing new.
+
+00:00:52.000 --> 00:00:54.000
+It turns out that regular Play-Doh that you buy at the store conducts electricity,
+
+00:00:54.000 --> 00:00:57.000
+and high school physics teachers have used that for years.
+
+00:00:57.000 --> 00:00:59.000
+But our homemade play-dough
+
+00:00:59.000 --> 00:01:01.000
+actually has half the resistance of commercial Play-Doh.
+
+00:01:01.000 --> 00:01:03.000
+And that sugar dough?
+
+00:01:03.000 --> 00:01:05.000
+Well it's 150 times more resistant to electric current
+
+00:01:05.000 --> 00:01:07.000
+than that salt dough.
+
+00:01:07.000 --> 00:01:09.000
+So what does that mean?
+
+00:01:09.000 --> 00:01:12.000
+Well it means if you them together you suddenly have circuits --
+
+00:01:12.000 --> 00:01:15.000
+circuits that the most creative, tiny, little hands
+
+00:01:15.000 --> 00:01:18.000
+can build on their own.
+
+00:01:18.000 --> 00:01:23.000
+(Applause)
+
+00:01:23.000 --> 00:01:26.000
+And so I want to do a little demo for you.
+
+00:01:27.000 --> 00:01:29.000
+So if I take this salt dough,
+
+00:01:29.000 --> 00:01:31.000
+again, it's like the play-dough you probably made as kids,
+
+00:01:31.000 --> 00:01:33.000
+and I plug it in --
+
+00:01:33.000 --> 00:01:36.000
+it's a two-lead battery pack, simple battery pack,
+
+00:01:36.000 --> 00:01:38.000
+you can buy them at Radio Shack
+
+00:01:38.000 --> 00:01:40.000
+and pretty much anywhere else --
+
+00:01:40.000 --> 00:01:43.000
+we can actually then
+
+00:01:43.000 --> 00:01:46.000
+light things up.
+
+00:01:47.000 --> 00:01:49.000
+But if any of you have studied electrical engineering,
+
+00:01:49.000 --> 00:01:51.000
+we can also create a short circuit.
+
+00:01:51.000 --> 00:01:54.000
+If I push these together, the light turns off.
+
+00:01:54.000 --> 00:01:56.000
+Right, the current wants to run through the play-dough, not through that LED.
+
+00:01:56.000 --> 00:01:58.000
+If I separate them again, I have some light.
+
+00:01:58.000 --> 00:02:00.000
+Well now if I take that sugar dough,
+
+00:02:00.000 --> 00:02:02.000
+the sugar dough doesn't want to conduct electricity.
+
+00:02:02.000 --> 00:02:04.000
+It's like a wall to the electricity.
+
+00:02:04.000 --> 00:02:07.000
+If I place that between, now all the dough is touching,
+
+00:02:07.000 --> 00:02:09.000
+but if I stick that light back in,
+
+00:02:09.000 --> 00:02:11.000
+I have light.
+
+00:02:11.000 --> 00:02:14.000
+In fact, I could even add some movement to my sculptures.
+
+00:02:14.000 --> 00:02:16.000
+If I want a spinning tail, let's grab a motor,
+
+00:02:16.000 --> 00:02:19.000
+put some play-dough on it, stick it on
+
+00:02:19.000 --> 00:02:21.000
+and we have spinning.
+
+00:02:21.000 --> 00:02:25.000
+(Applause)
+
+00:02:25.000 --> 00:02:27.000
+And once you have the basics,
+
+00:02:27.000 --> 00:02:29.000
+we can make a slightly more complicated circuit.
+
+00:02:29.000 --> 00:02:32.000
+We call this our sushi circuit. It's very popular with kids.
+
+00:02:32.000 --> 00:02:35.000
+I plug in again the power to it.
+
+00:02:35.000 --> 00:02:38.000
+And now I can start talking about parallel and series circuits.
+
+00:02:38.000 --> 00:02:41.000
+I can start plugging in lots of lights.
+
+00:02:43.000 --> 00:02:46.000
+And we can start talking about things like electrical load.
+
+00:02:46.000 --> 00:02:48.000
+What happens if I put in lots of lights
+
+00:02:48.000 --> 00:02:50.000
+and then add a motor?
+
+00:02:50.000 --> 00:02:52.000
+It'll dim.
+
+00:02:52.000 --> 00:02:55.000
+We can even add microprocessors
+
+00:02:55.000 --> 00:02:57.000
+and have this as an input
+
+00:02:57.000 --> 00:03:00.000
+and create squishy sound music that we've done.
+
+00:03:00.000 --> 00:03:02.000
+You could do parallel and series circuits
+
+00:03:02.000 --> 00:03:05.000
+for kids using this.
+
+00:03:05.000 --> 00:03:08.000
+So this is all in your home kitchen.
+
+00:03:08.000 --> 00:03:11.000
+We've actually tried to turn it into an electrical engineering lab.
+
+00:03:11.000 --> 00:03:14.000
+We have a website, it's all there. These are the home recipes.
+
+00:03:14.000 --> 00:03:16.000
+We've got some videos. You can make them yourselves.
+
+00:03:16.000 --> 00:03:19.000
+And it's been really fun since we put them up to see where these have gone.
+
+00:03:19.000 --> 00:03:21.000
+We've had a mom in Utah who used them with her kids,
+
+00:03:21.000 --> 00:03:23.000
+to a science researcher in the U.K.,
+
+00:03:23.000 --> 00:03:26.000
+and curriculum developers in Hawaii.
+
+00:03:26.000 --> 00:03:28.000
+So I would encourage you all to grab some Play-Doh,
+
+00:03:28.000 --> 00:03:31.000
+grab some salt, grab some sugar and start playing.
+
+00:03:31.000 --> 00:03:34.000
+We don't usually think of our kitchen as an electrical engineering lab
+
+00:03:34.000 --> 00:03:36.000
+or little kids as circuit designers,
+
+00:03:36.000 --> 00:03:38.000
+but maybe we should.
+
+00:03:38.000 --> 00:03:40.000
+Have fun. Thank you.
+
+00:03:40.000 --> 00:03:47.000
+(Applause)
+

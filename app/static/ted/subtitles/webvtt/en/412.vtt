@@ -1,0 +1,206 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+In 1962, Buckminster Fuller
+
+00:00:03.000 --> 00:00:07.000
+presented the particularly audacious proposal for the Geoscope.
+
+00:00:07.000 --> 00:00:10.000
+It was a 200-foot diameter geodesic sphere
+
+00:00:10.000 --> 00:00:15.000
+to be suspended over the East River in New York City, in full view of the United Nations.
+
+00:00:15.000 --> 00:00:21.000
+It was a big idea, for sure, and it was one that he felt could truly inform
+
+00:00:21.000 --> 00:00:25.000
+and deeply affect the decision making of this body
+
+00:00:25.000 --> 00:00:29.000
+through animations of global data, trends
+
+00:00:29.000 --> 00:00:33.000
+and other information regarding the globe, on this sphere.
+
+00:00:33.000 --> 00:00:36.000
+And today, 45 years later,
+
+00:00:36.000 --> 00:00:39.000
+we clearly have no less need for this kind of clarity and perspective,
+
+00:00:39.000 --> 00:00:42.000
+but what we do have is improved technology.
+
+00:00:42.000 --> 00:00:45.000
+Today we don't need one million light bulbs to create a spherical display.
+
+00:00:45.000 --> 00:00:47.000
+We can use LEDs.
+
+00:00:47.000 --> 00:00:52.000
+LEDs are smaller, they're cheaper, they're longer lasting, they're more efficient.
+
+00:00:52.000 --> 00:00:54.000
+Most importantly for this, they're faster.
+
+00:00:54.000 --> 00:00:58.000
+And this speed, combined with today's high-performance micro-controllers,
+
+00:00:58.000 --> 00:01:01.000
+allows us to actually simulate, in this piece,
+
+00:01:01.000 --> 00:01:05.000
+over 17,000 LEDs -- using just 64.
+
+00:01:06.000 --> 00:01:10.000
+And the way this happens is through the phenomenon of persistence of vision.
+
+00:01:10.000 --> 00:01:14.000
+But as this ring rotates at about 1,700 rpm -- that's 28 times per second.
+
+00:01:15.000 --> 00:01:18.000
+The equator's speed is actually about 60 miles per hour.
+
+00:01:18.000 --> 00:01:20.000
+There are four on-board micro-controllers
+
+00:01:20.000 --> 00:01:23.000
+that, each time this ring rotates
+
+00:01:23.000 --> 00:01:25.000
+it, as it passes the rear of the display,
+
+00:01:25.000 --> 00:01:27.000
+it picks up a position signal.
+
+00:01:27.000 --> 00:01:29.000
+And from that, the on-board micro-controllers
+
+00:01:29.000 --> 00:01:34.000
+can extrapolate the position of the ring at all points around the revolution
+
+00:01:34.000 --> 00:01:37.000
+and display arbitrary bitmap images and animations.
+
+00:01:37.000 --> 00:01:40.000
+But this is really just the beginning.
+
+00:01:40.000 --> 00:01:43.000
+In addition to higher resolution versions of this display,
+
+00:01:43.000 --> 00:01:46.000
+my father and I are working on a new patent-pending design
+
+00:01:46.000 --> 00:01:49.000
+for a fully volumetric display using the same phenomenon.
+
+00:01:49.000 --> 00:01:52.000
+It achieves this by rotating LEDs about two axes.
+
+00:01:52.000 --> 00:01:55.000
+So as you can see here, this is a, eleven-inch diameter circuit board.
+
+00:01:55.000 --> 00:01:57.000
+These blocks represent LEDs.
+
+00:01:57.000 --> 00:02:01.000
+And so you could see that as this disc rotates about this axis,
+
+00:02:01.000 --> 00:02:04.000
+it will create a disc of light that we can control.
+
+00:02:04.000 --> 00:02:06.000
+That's nothing new: that's a propeller clock;
+
+00:02:06.000 --> 00:02:09.000
+that's the rims that you can buy for your car.
+
+00:02:09.000 --> 00:02:14.000
+But what is new is that, when we rotate this disc about this axis,
+
+00:02:14.000 --> 00:02:17.000
+this disc of light actually becomes a sphere of light.
+
+00:02:17.000 --> 00:02:19.000
+And so we can control that with micro-controllers
+
+00:02:19.000 --> 00:02:25.000
+and create a fully volumetric, three-dimensional display with just 256 LEDs.
+
+00:02:25.000 --> 00:02:27.000
+Now this piece is currently in process --
+
+00:02:27.000 --> 00:02:32.000
+due out in May -- but what we've done is we've put together a small demo,
+
+00:02:32.000 --> 00:02:36.000
+just to show the geometric translation of points into a sphere.
+
+00:02:36.000 --> 00:02:38.000
+I've got a little video to show you,
+
+00:02:38.000 --> 00:02:42.000
+but keep in mind that this is with no electronic control,
+
+00:02:42.000 --> 00:02:44.000
+and this is also with only four LEDs.
+
+00:02:44.000 --> 00:02:47.000
+This is actually only about 1.5 percent of what the final display will be in May.
+
+00:02:47.000 --> 00:02:49.000
+So, take a look.
+
+00:02:51.000 --> 00:02:55.000
+And here you can see it's rotating about the vertical axis only, creating circles.
+
+00:02:59.000 --> 00:03:01.000
+And then, as the other axis kicks in,
+
+00:03:01.000 --> 00:03:03.000
+those actually blur into a volume.
+
+00:03:03.000 --> 00:03:05.000
+And the shutter speed of the camera
+
+00:03:05.000 --> 00:03:08.000
+actually makes it slightly less effective in this case.
+
+00:03:08.000 --> 00:03:10.000
+But this piece is due out in May.
+
+00:03:10.000 --> 00:03:13.000
+It'll be on display at the Interactive Telecommunications Spring Show
+
+00:03:13.000 --> 00:03:15.000
+in Greenwich Village in New York City -- that's open to the public,
+
+00:03:15.000 --> 00:03:19.000
+definitely invite you all to come and attend -- it's a fantastic show.
+
+00:03:19.000 --> 00:03:23.000
+There are hundreds of student innovators with fantastic projects.
+
+00:03:23.000 --> 00:03:25.000
+This piece, actually, will be on display
+
+00:03:25.000 --> 00:03:27.000
+down in the Sierra Simulcast Lounge
+
+00:03:27.000 --> 00:03:29.000
+in the breaks between now and the end of the show.
+
+00:03:29.000 --> 00:03:31.000
+So I'd love to talk to you all, and invite you
+
+00:03:31.000 --> 00:03:33.000
+to come down and take a closer look.
+
+00:03:33.000 --> 00:03:35.000
+It's an honor to be here. Thanks very much.
+
+00:03:35.000 --> 00:03:36.000
+(Applause)
+

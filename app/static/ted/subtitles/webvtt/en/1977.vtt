@@ -1,0 +1,1117 @@
+WEBVTT
+
+00:00:00.709 --> 00:00:02.235
+Type is something we consume
+
+00:00:02.235 --> 00:00:04.157
+in enormous quantities.
+
+00:00:04.157 --> 00:00:05.239
+In much of the world,
+
+00:00:05.239 --> 00:00:07.107
+it's completely inescapable.
+
+00:00:07.107 --> 00:00:10.130
+But few consumers are concerned to know
+
+00:00:10.130 --> 00:00:12.462
+where a particular typeface came from
+
+00:00:12.462 --> 00:00:15.226
+or when or who designed it,
+
+00:00:15.226 --> 00:00:18.579
+if, indeed, there was any human agency involved
+
+00:00:18.579 --> 00:00:21.376
+in its creation, if it didn't just sort of materialize
+
+00:00:21.376 --> 00:00:25.088
+out of the software ether.
+
+00:00:25.088 --> 00:00:28.613
+But I do have to be concerned with those things.
+
+00:00:28.613 --> 00:00:30.130
+It's my job.
+
+00:00:30.130 --> 00:00:32.340
+I'm one of the tiny handful of people
+
+00:00:32.340 --> 00:00:34.454
+who gets badly bent out of shape
+
+00:00:34.454 --> 00:00:37.048
+by the bad spacing of the T and the E
+
+00:00:37.048 --> 00:00:38.948
+that you see there.
+
+00:00:38.948 --> 00:00:40.390
+I've got to take that slide off.
+
+00:00:40.390 --> 00:00:42.461
+I can't stand it. Nor can Chris.
+
+00:00:42.461 --> 00:00:44.122
+There. Good.
+
+00:00:44.122 --> 00:00:45.890
+So my talk is about the connection
+
+00:00:45.890 --> 00:00:49.290
+between technology and design of type.
+
+00:00:49.290 --> 00:00:51.953
+The technology has changed
+
+00:00:51.953 --> 00:00:54.825
+a number of times since I started work:
+
+00:00:54.825 --> 00:00:59.486
+photo, digital, desktop, screen, web.
+
+00:00:59.486 --> 00:01:01.224
+I've had to survive those changes and try
+
+00:01:01.224 --> 00:01:03.928
+to understand their implications for what I do
+
+00:01:03.928 --> 00:01:05.319
+for design.
+
+00:01:05.319 --> 00:01:10.489
+This slide is about the effect of tools on form.
+
+00:01:10.489 --> 00:01:13.390
+The two letters, the two K's,
+
+00:01:13.390 --> 00:01:16.715
+the one on your left, my right, is modern,
+
+00:01:16.715 --> 00:01:18.126
+made on a computer.
+
+00:01:18.126 --> 00:01:20.168
+All straight lines are dead straight.
+
+00:01:20.168 --> 00:01:22.978
+The curves have that kind of
+mathematical smoothness
+
+00:01:22.978 --> 00:01:26.724
+that the Bézier formula imposes.
+
+00:01:26.724 --> 00:01:29.221
+On the right, ancient Gothic,
+
+00:01:29.221 --> 00:01:33.280
+cut in the resistant material of steel by hand.
+
+00:01:33.280 --> 00:01:35.405
+None of the straight lines are actually straight.
+
+00:01:35.405 --> 00:01:37.570
+The curves are kind of subtle.
+
+00:01:37.570 --> 00:01:42.284
+It has that spark of life from the human hand
+
+00:01:42.284 --> 00:01:44.198
+that the machine or the program
+
+00:01:44.198 --> 00:01:46.131
+can never capture.
+
+00:01:46.131 --> 00:01:48.110
+What a contrast.
+
+00:01:48.110 --> 00:01:50.689
+Well, I tell a lie.
+
+00:01:50.689 --> 00:01:53.677
+A lie at TED. I'm really sorry.
+
+00:01:53.677 --> 00:01:55.798
+Both of these were made on a computer,
+
+00:01:55.798 --> 00:01:57.724
+same software, same Bézier curves,
+
+00:01:57.724 --> 00:01:59.416
+same font format.
+
+00:01:59.416 --> 00:02:01.950
+The one on your left
+
+00:02:01.950 --> 00:02:04.204
+was made by Zuzana Licko at Emigre,
+
+00:02:04.204 --> 00:02:05.639
+and I did the other one.
+
+00:02:05.639 --> 00:02:08.995
+The tool is the same, yet the letters are different.
+
+00:02:08.995 --> 00:02:10.518
+The letters are different
+
+00:02:10.518 --> 00:02:11.724
+because the designers are different.
+
+00:02:11.724 --> 00:02:14.985
+That's all. Zuzana wanted hers to look like that.
+
+00:02:14.985 --> 00:02:18.106
+I wanted mine to look like that. End of story.
+
+00:02:18.106 --> 00:02:20.310
+Type is very adaptable.
+
+00:02:20.310 --> 00:02:23.631
+Unlike a fine art, such as sculpture or architecture,
+
+00:02:23.631 --> 00:02:27.030
+type hides its methods.
+
+00:02:27.030 --> 00:02:29.827
+I think of myself as an industrial designer.
+
+00:02:29.827 --> 00:02:31.393
+The thing I design is manufactured,
+
+00:02:31.393 --> 00:02:33.269
+and it has a function:
+
+00:02:33.269 --> 00:02:35.107
+to be read, to convey meaning.
+
+00:02:35.107 --> 00:02:36.753
+But there is a bit more to it than that.
+
+00:02:36.753 --> 00:02:38.601
+There's the sort of aesthetic element.
+
+00:02:38.601 --> 00:02:41.317
+What makes these two letters different
+
+00:02:41.317 --> 00:02:44.349
+from different interpretations by different designers?
+
+00:02:44.349 --> 00:02:46.362
+What gives the work of some designers
+
+00:02:46.362 --> 00:02:49.273
+sort of characteristic personal style,
+
+00:02:49.273 --> 00:02:51.810
+as you might find in the work of a fashion designer,
+
+00:02:51.810 --> 00:02:54.885
+an automobile designer, whatever?
+
+00:02:54.885 --> 00:02:56.660
+There have been some cases, I admit,
+
+00:02:56.660 --> 00:02:57.810
+where I as a designer
+
+00:02:57.810 --> 00:03:00.899
+did feel the influence of technology.
+
+00:03:00.899 --> 00:03:03.959
+This is from the mid-'60s,
+
+00:03:03.959 --> 00:03:06.194
+the change from metal type to photo,
+
+00:03:06.194 --> 00:03:07.896
+hot to cold.
+
+00:03:07.896 --> 00:03:09.093
+This brought some benefits
+
+00:03:09.093 --> 00:03:12.439
+but also one particular drawback:
+
+00:03:12.439 --> 00:03:15.112
+a spacing system that only provided
+
+00:03:15.112 --> 00:03:19.095
+18 discrete units for letters
+
+00:03:19.095 --> 00:03:21.558
+to be accommodated on.
+
+00:03:21.558 --> 00:03:23.534
+I was asked at this time to design
+
+00:03:23.534 --> 00:03:26.272
+a series of condensed sans serif types
+
+00:03:26.272 --> 00:03:29.435
+with as many different variants as possible
+
+00:03:29.435 --> 00:03:33.282
+within this 18-unit box.
+
+00:03:33.282 --> 00:03:34.921
+Quickly looking at the arithmetic,
+
+00:03:34.921 --> 00:03:38.230
+I realized I could only actually make three
+
+00:03:38.230 --> 00:03:41.617
+of related design. Here you see them.
+
+00:03:41.617 --> 00:03:44.208
+In Helvetica Compressed, Extra Compressed,
+
+00:03:44.208 --> 00:03:48.019
+and Ultra Compressed, this rigid 18-unit system
+
+00:03:48.019 --> 00:03:49.592
+really boxed me in.
+
+00:03:49.592 --> 00:03:51.425
+It kind of determined the proportions
+
+00:03:51.425 --> 00:03:53.714
+of the design.
+
+00:03:53.714 --> 00:03:57.744
+Here are the typefaces, at least the lower cases.
+
+00:03:57.744 --> 00:04:00.436
+So do you look at these and say,
+
+00:04:00.436 --> 00:04:03.575
+"Poor Matthew, he had to submit to a problem,
+
+00:04:03.575 --> 00:04:07.382
+and by God it shows in the results."
+
+00:04:07.382 --> 00:04:08.689
+I hope not.
+
+00:04:08.689 --> 00:04:10.930
+If I were doing this same job today,
+
+00:04:10.930 --> 00:04:13.756
+instead of having 18 spacing units,
+
+00:04:13.756 --> 00:04:16.840
+I would have 1,000.
+
+00:04:16.840 --> 00:04:19.293
+Clearly I could make more variants,
+
+00:04:19.293 --> 00:04:23.989
+but would these three members
+of the family be better?
+
+00:04:23.989 --> 00:04:25.841
+It's hard to say without actually doing it,
+
+00:04:25.841 --> 00:04:27.548
+but they would not be better in the proportion
+
+00:04:27.548 --> 00:04:30.637
+of 1,000 to 18, I can tell you that.
+
+00:04:30.637 --> 00:04:32.575
+My instinct tells you that any improvement
+
+00:04:32.575 --> 00:04:35.653
+would be rather slight, because they were designed
+
+00:04:35.653 --> 00:04:38.574
+as functions of the system they were designed to fit,
+
+00:04:38.574 --> 00:04:40.983
+and as I said, type is very adaptable.
+
+00:04:40.983 --> 00:04:43.770
+It does hide its methods.
+
+00:04:43.770 --> 00:04:46.452
+All industrial designers work within constraints.
+
+00:04:46.452 --> 00:04:48.944
+This is not fine art.
+
+00:04:48.944 --> 00:04:50.822
+The question is, does a constraint
+
+00:04:50.822 --> 00:04:53.489
+force a compromise?
+
+00:04:53.489 --> 00:04:55.000
+By accepting a constraint,
+
+00:04:55.000 --> 00:04:57.449
+are you working to a lower standard?
+
+00:04:57.449 --> 00:04:59.411
+I don't believe so, and I've always been encouraged
+
+00:04:59.411 --> 00:05:01.535
+by something that Charles Eames said.
+
+00:05:01.535 --> 00:05:03.080
+He said he was conscious of working
+
+00:05:03.080 --> 00:05:04.118
+within constraints,
+
+00:05:04.118 --> 00:05:07.344
+but not of making compromises.
+
+00:05:07.344 --> 00:05:09.905
+The distinction between a constraint
+
+00:05:09.905 --> 00:05:12.280
+and a compromise is obviously very subtle,
+
+00:05:12.280 --> 00:05:17.951
+but it's very central to my attitude to work.
+
+00:05:17.951 --> 00:05:20.842
+Remember this reading experience?
+
+00:05:20.842 --> 00:05:22.267
+The phone book. I'll hold the slide
+
+00:05:22.267 --> 00:05:26.802
+so you can enjoy the nostalgia.
+
+00:05:26.802 --> 00:05:29.548
+This is from the mid-'70s early trials
+
+00:05:29.548 --> 00:05:32.177
+of Bell Centennial typeface I designed
+
+00:05:32.177 --> 00:05:33.951
+for the U.S. phone books,
+
+00:05:33.951 --> 00:05:37.270
+and it was my first experience of digital type,
+
+00:05:37.270 --> 00:05:41.440
+and quite a baptism.
+
+00:05:41.440 --> 00:05:43.039
+Designed for the phone books, as I said,
+
+00:05:43.039 --> 00:05:46.407
+to be printed at tiny size on newsprint
+
+00:05:46.407 --> 00:05:48.725
+on very high-speed rotary presses
+
+00:05:48.725 --> 00:05:51.477
+with ink that was kerosene and lampblack.
+
+00:05:51.477 --> 00:05:55.318
+This is not a hospitable environment
+
+00:05:55.318 --> 00:05:58.520
+for a typographic designer.
+
+00:05:58.520 --> 00:06:00.419
+So the challenge for me was to design type
+
+00:06:00.419 --> 00:06:01.920
+that performed as well as possible
+
+00:06:01.920 --> 00:06:06.665
+in these very adverse production conditions.
+
+00:06:06.665 --> 00:06:09.520
+As I say, we were in the infancy of digital type.
+
+00:06:09.520 --> 00:06:12.339
+I had to draw every character by hand
+
+00:06:12.339 --> 00:06:14.054
+on quadrille graph paper --
+
+00:06:14.054 --> 00:06:16.006
+there were four weights of Bell Centennial —
+
+00:06:16.006 --> 00:06:19.359
+pixel by pixel, then encode
+them raster line by raster line
+
+00:06:19.359 --> 00:06:20.340
+for the keyboard.
+
+00:06:20.340 --> 00:06:24.764
+It took two years, but I learned a lot.
+
+00:06:24.764 --> 00:06:26.394
+These letters look as though they've been chewed
+
+00:06:26.394 --> 00:06:27.838
+by the dog or something or other,
+
+00:06:27.838 --> 00:06:29.780
+but the missing pixels at the intersections
+
+00:06:29.780 --> 00:06:31.385
+of strokes or in the crotches
+
+00:06:31.385 --> 00:06:34.559
+are the result of my studying the effects
+
+00:06:34.559 --> 00:06:37.505
+of ink spread on cheap paper
+
+00:06:37.505 --> 00:06:41.242
+and reacting, revising the font accordingly.
+
+00:06:41.242 --> 00:06:44.492
+These strange artifacts are designed to compensate
+
+00:06:44.492 --> 00:06:47.244
+for the undesirable effects of scale
+
+00:06:47.244 --> 00:06:49.530
+and production process.
+
+00:06:49.530 --> 00:06:52.376
+At the outset, AT&amp;T had wanted
+
+00:06:52.376 --> 00:06:55.617
+to set the phone books in Helvetica,
+
+00:06:55.617 --> 00:06:57.282
+but as my friend Erik Spiekermann said
+
+00:06:57.282 --> 00:06:59.785
+in the Helvetica movie, if you've seen that,
+
+00:06:59.785 --> 00:07:01.820
+the letters in Helvetica were designed to be
+
+00:07:01.820 --> 00:07:04.561
+as similar to one another as possible.
+
+00:07:04.561 --> 00:07:07.835
+This is not the recipe for legibility at small size.
+
+00:07:07.835 --> 00:07:10.425
+It looks very elegant up on a slide.
+
+00:07:10.425 --> 00:07:12.615
+I had to disambiguate these forms
+
+00:07:12.615 --> 00:07:15.615
+of the figures as much as possible in Bell Centennial
+
+00:07:15.615 --> 00:07:17.910
+by sort of opening the shapes up, as you can see
+
+00:07:17.910 --> 00:07:20.823
+in the bottom part of that slide.
+
+00:07:20.823 --> 00:07:23.480
+So now we're on to the mid-'80s,
+
+00:07:23.480 --> 00:07:26.036
+the early days of digital outline fonts,
+
+00:07:26.036 --> 00:07:28.393
+vector technology.
+
+00:07:28.393 --> 00:07:30.431
+There was an issue at that time
+
+00:07:30.431 --> 00:07:32.287
+with the size of the fonts,
+
+00:07:32.287 --> 00:07:35.171
+the amount of data that was required to find
+
+00:07:35.171 --> 00:07:40.141
+and store a font in computer memory.
+
+00:07:40.141 --> 00:07:41.799
+It limited the number of fonts you could get
+
+00:07:41.799 --> 00:07:44.789
+on your typesetting system at any one time.
+
+00:07:44.789 --> 00:07:48.938
+I did an analysis of the data,
+
+00:07:48.938 --> 00:07:51.462
+and found that a typical serif face
+
+00:07:51.462 --> 00:07:52.921
+you see on the left
+
+00:07:52.921 --> 00:07:54.937
+needed nearly twice as much data
+
+00:07:54.937 --> 00:07:57.473
+as a sans serif in the middle
+
+00:07:57.473 --> 00:07:59.535
+because of all the points required
+
+00:07:59.535 --> 00:08:04.043
+to define the elegantly curved serif brackets.
+
+00:08:04.043 --> 00:08:07.477
+The numbers at the bottom of the slide, by the way,
+
+00:08:07.477 --> 00:08:09.179
+they represent the amount of data
+
+00:08:09.179 --> 00:08:12.984
+needed to store each of the fonts.
+
+00:08:12.984 --> 00:08:15.150
+So the sans serif, in the middle,
+
+00:08:15.150 --> 00:08:18.114
+sans the serifs, was much more economical,
+
+00:08:18.114 --> 00:08:20.313
+81 to 151.
+
+00:08:20.313 --> 00:08:23.970
+"Aha," I thought. "The engineers have a problem.
+
+00:08:23.970 --> 00:08:26.205
+Designer to the rescue."
+
+00:08:26.205 --> 00:08:28.552
+I made a serif type, you can see it on the right,
+
+00:08:28.552 --> 00:08:30.499
+without curved serifs.
+
+00:08:30.499 --> 00:08:32.915
+I made them polygonal, out
+of straight line segments,
+
+00:08:32.915 --> 00:08:34.898
+chamfered brackets.
+
+00:08:34.898 --> 00:08:39.266
+And look, as economical in data as a sans serif.
+
+00:08:39.266 --> 00:08:41.565
+We call it Charter, on the right.
+
+00:08:41.565 --> 00:08:43.535
+So I went to the head of engineering
+
+00:08:43.535 --> 00:08:45.993
+with my numbers, and I said proudly,
+
+00:08:45.993 --> 00:08:48.121
+"I have solved your problem."
+
+00:08:48.121 --> 00:08:51.834
+"Oh," he said. "What problem?"
+
+00:08:51.834 --> 00:08:53.480
+And I said, "Well, you know, the problem
+
+00:08:53.480 --> 00:08:56.897
+of the huge data you require
+for serif fonts and so on."
+
+00:08:56.897 --> 00:09:00.444
+"Oh," he said. "We solved that problem last week.
+
+00:09:00.444 --> 00:09:02.600
+We wrote a compaction routine that reduces
+
+00:09:02.600 --> 00:09:05.180
+the size of all fonts by an order of magnitude.
+
+00:09:05.180 --> 00:09:07.168
+You can have as many fonts on your system
+
+00:09:07.168 --> 00:09:08.726
+as you like."
+
+00:09:08.726 --> 00:09:11.340
+"Well, thank you for letting me know," I said.
+
+00:09:11.340 --> 00:09:12.970
+Foiled again.
+
+00:09:12.970 --> 00:09:15.015
+I was left with a design solution
+
+00:09:15.015 --> 00:09:19.488
+for a nonexistent technical problem.
+
+00:09:19.488 --> 00:09:21.957
+But here is where the story sort
+of gets interesting for me.
+
+00:09:21.957 --> 00:09:24.552
+I didn't just throw my design away
+
+00:09:24.552 --> 00:09:25.953
+in a fit of pique.
+
+00:09:25.953 --> 00:09:27.690
+I persevered.
+
+00:09:27.690 --> 00:09:29.858
+What had started as a technical exercise
+
+00:09:29.858 --> 00:09:33.122
+became an aesthetic exercise, really.
+
+00:09:33.122 --> 00:09:36.171
+In other words, I had come to like this typeface.
+
+00:09:36.171 --> 00:09:38.490
+Forget its origins. Screw that.
+
+00:09:38.490 --> 00:09:40.980
+I liked the design for its own sake.
+
+00:09:40.980 --> 00:09:43.363
+The simplified forms of Charter
+
+00:09:43.363 --> 00:09:45.446
+gave it a sort of plain-spoken quality
+
+00:09:45.446 --> 00:09:46.997
+and unfussy spareness
+
+00:09:46.997 --> 00:09:49.487
+that sort of pleased me.
+
+00:09:49.487 --> 00:09:52.040
+You know, at times of technical innovation,
+
+00:09:52.040 --> 00:09:53.560
+designers want to be influenced
+
+00:09:53.560 --> 00:09:55.296
+by what's in the air.
+
+00:09:55.296 --> 00:09:57.527
+We want to respond. We want to be pushed
+
+00:09:57.527 --> 00:10:00.938
+into exploring something new.
+
+00:10:00.938 --> 00:10:03.837
+So Charter is a sort of parable for me, really.
+
+00:10:03.837 --> 00:10:07.627
+In the end, there was no hard and fast causal link
+
+00:10:07.627 --> 00:10:10.820
+between the technology and the design of Charter.
+
+00:10:10.820 --> 00:10:14.582
+I had really misunderstood the technology.
+
+00:10:14.582 --> 00:10:17.910
+The technology did suggest something to me,
+
+00:10:17.910 --> 00:10:20.027
+but it did not force my hand,
+
+00:10:20.027 --> 00:10:22.744
+and I think this happens very often.
+
+00:10:22.744 --> 00:10:25.370
+You know, engineers are very smart,
+
+00:10:25.370 --> 00:10:26.926
+and despite occasional frustrations
+
+00:10:26.926 --> 00:10:28.453
+because I'm less smart,
+
+00:10:28.453 --> 00:10:30.180
+I've always enjoyed working with them
+
+00:10:30.180 --> 00:10:32.258
+and learning from them.
+
+00:10:32.258 --> 00:10:34.600
+Apropos, in the mid-'90s,
+
+00:10:34.600 --> 00:10:37.291
+I started talking to Microsoft
+
+00:10:37.291 --> 00:10:39.679
+about screen fonts.
+
+00:10:39.679 --> 00:10:42.100
+Up to that point, all the fonts on screen
+
+00:10:42.100 --> 00:10:44.853
+had been adapted from previously existing
+
+00:10:44.853 --> 00:10:47.230
+printing fonts, of course.
+
+00:10:47.230 --> 00:10:49.733
+But Microsoft foresaw correctly
+
+00:10:49.733 --> 00:10:51.883
+the movement, the stampede
+
+00:10:51.883 --> 00:10:54.670
+towards electronic communication,
+
+00:10:54.670 --> 00:10:56.700
+to reading and writing onscreen
+
+00:10:56.700 --> 00:10:59.833
+with the printed output as being sort of secondary
+
+00:10:59.833 --> 00:11:02.056
+in importance.
+
+00:11:02.056 --> 00:11:05.635
+So the priorities were just tipping at that point.
+
+00:11:05.635 --> 00:11:07.829
+They wanted a small core set of fonts
+
+00:11:07.829 --> 00:11:11.134
+that were not adapted but designed for the screen
+
+00:11:11.134 --> 00:11:13.707
+to face up to the problems of screen,
+
+00:11:13.707 --> 00:11:17.549
+which were their coarse resolution displays.
+
+00:11:17.549 --> 00:11:21.080
+I said to Microsoft, a typeface designed
+
+00:11:21.080 --> 00:11:22.649
+for a particular technology
+
+00:11:22.649 --> 00:11:26.024
+is a self-obsoleting typeface.
+
+00:11:26.024 --> 00:11:28.118
+I've designed too many faces in the past
+
+00:11:28.118 --> 00:11:31.697
+that were intended to mitigate technical problems.
+
+00:11:31.697 --> 00:11:34.532
+Thanks to the engineers, the
+technical problems went away.
+
+00:11:34.532 --> 00:11:37.021
+So did my typeface.
+
+00:11:37.021 --> 00:11:40.152
+It was only a stopgap.
+
+00:11:40.152 --> 00:11:41.693
+Microsoft came back to say that
+
+00:11:41.693 --> 00:11:43.323
+affordable computer monitors
+
+00:11:43.323 --> 00:11:44.520
+with better resolutions
+
+00:11:44.520 --> 00:11:47.116
+were at least a decade away.
+
+00:11:47.116 --> 00:11:49.770
+So I thought, well, a decade, that's not bad,
+
+00:11:49.770 --> 00:11:52.182
+that's more than a stopgap.
+
+00:11:52.182 --> 00:11:54.183
+So I was persuaded, I was convinced,
+
+00:11:54.183 --> 00:11:56.505
+and we went to work on what became Verdana
+
+00:11:56.505 --> 00:11:58.177
+and Georgia,
+
+00:11:58.177 --> 00:12:00.517
+for the first time working not on paper
+
+00:12:00.517 --> 00:12:04.477
+but directly onto the screen from the pixel up.
+
+00:12:04.477 --> 00:12:08.330
+At that time, screens were binary.
+
+00:12:08.330 --> 00:12:11.370
+The pixel was either on or it was off.
+
+00:12:11.370 --> 00:12:14.225
+Here you see the outline of a letter,
+
+00:12:14.225 --> 00:12:15.692
+the cap H,
+
+00:12:15.692 --> 00:12:18.493
+which is the thin black line, the contour,
+
+00:12:18.493 --> 00:12:21.369
+which is how it is stored in memory,
+
+00:12:21.369 --> 00:12:23.039
+superimposed on the bitmap,
+
+00:12:23.039 --> 00:12:25.187
+which is the grey area,
+
+00:12:25.187 --> 00:12:27.024
+which is how it's displayed on the screen.
+
+00:12:27.024 --> 00:12:30.170
+The bitmap is rasterized from the outline.
+
+00:12:30.170 --> 00:12:32.411
+Here in a cap H, which is all straight lines,
+
+00:12:32.411 --> 00:12:34.499
+the two are in almost perfect sync
+
+00:12:34.499 --> 00:12:38.867
+on the Cartesian grid.
+
+00:12:38.867 --> 00:12:41.993
+Not so with an O.
+
+00:12:41.993 --> 00:12:44.720
+This looks more like bricklaying
+than type design,
+
+00:12:44.720 --> 00:12:47.621
+but believe me, this is a good bitmap O,
+
+00:12:47.621 --> 00:12:49.636
+for the simple reason that it's symmetrical
+
+00:12:49.636 --> 00:12:52.116
+in both x and y axes.
+
+00:12:52.116 --> 00:12:54.974
+In a binary bitmap, you actually can't ask
+
+00:12:54.974 --> 00:12:56.694
+for more than that.
+
+00:12:56.694 --> 00:12:59.098
+I would sometimes make, I don't know,
+
+00:12:59.098 --> 00:13:01.454
+three or four different versions of a difficult letter
+
+00:13:01.454 --> 00:13:02.960
+like a lowercase A,
+
+00:13:02.960 --> 00:13:06.500
+and then stand back to choose which was the best.
+
+00:13:06.500 --> 00:13:08.595
+Well, there was no best,
+
+00:13:08.595 --> 00:13:11.020
+so the designer's judgment comes in
+
+00:13:11.020 --> 00:13:12.409
+in trying to decide
+
+00:13:12.409 --> 00:13:15.450
+which is the least bad.
+
+00:13:15.450 --> 00:13:17.900
+Is that a compromise?
+
+00:13:17.900 --> 00:13:19.446
+Not to me, if you are working
+
+00:13:19.446 --> 00:13:22.533
+at the highest standard the technology will allow,
+
+00:13:22.533 --> 00:13:24.742
+although that standard may be
+
+00:13:24.742 --> 00:13:27.221
+well short of the ideal.
+
+00:13:27.221 --> 00:13:28.812
+You may be able to see on this slide
+
+00:13:28.812 --> 00:13:30.974
+two different bitmap fonts there.
+
+00:13:30.974 --> 00:13:32.670
+The "a" in the upper one, I think,
+
+00:13:32.670 --> 00:13:34.583
+is better than the "a" in the lower one,
+
+00:13:34.583 --> 00:13:37.159
+but it still ain't great.
+
+00:13:37.159 --> 00:13:39.066
+You can maybe see the effect better
+
+00:13:39.066 --> 00:13:42.442
+if it's reduced. Well, maybe not.
+
+00:13:42.442 --> 00:13:44.838
+So I'm a pragmatist, not an idealist,
+
+00:13:44.838 --> 00:13:46.341
+out of necessity.
+
+00:13:46.341 --> 00:13:48.270
+For a certain kind of temperament,
+
+00:13:48.270 --> 00:13:49.970
+there is a certain kind of satisfaction
+
+00:13:49.970 --> 00:13:53.608
+in doing something that cannot be perfect
+
+00:13:53.608 --> 00:13:57.477
+but can still be done to the best of your ability.
+
+00:13:57.477 --> 00:14:02.334
+Here's the lowercase H from Georgia Italic.
+
+00:14:02.334 --> 00:14:04.607
+The bitmap looks jagged and rough.
+
+00:14:04.607 --> 00:14:06.466
+It is jagged and rough.
+
+00:14:06.466 --> 00:14:08.462
+But I discovered, by experiment,
+
+00:14:08.462 --> 00:14:11.679
+that there is an optimum slant
+
+00:14:11.679 --> 00:14:13.625
+for an italic on a screen
+
+00:14:13.625 --> 00:14:15.957
+so the strokes break well
+
+00:14:15.957 --> 00:14:18.440
+at the pixel boundaries.
+
+00:14:18.440 --> 00:14:21.221
+Look in this example how, rough as it is,
+
+00:14:21.221 --> 00:14:23.271
+how the left and right legs
+
+00:14:23.271 --> 00:14:25.220
+actually break at the same level.
+
+00:14:25.220 --> 00:14:28.740
+That's a victory. That's good, right there.
+
+00:14:28.740 --> 00:14:31.918
+And of course, at the lower depths,
+
+00:14:31.918 --> 00:14:33.841
+you don't get much choice.
+
+00:14:33.841 --> 00:14:38.886
+This is an S, in case you were wondering.
+
+00:14:38.886 --> 00:14:41.040
+Well, it's been 18 years now
+
+00:14:41.040 --> 00:14:43.690
+since Verdana and Georgia were released.
+
+00:14:43.690 --> 00:14:45.780
+Microsoft were absolutely right,
+
+00:14:45.780 --> 00:14:48.194
+it took a good 10 years,
+
+00:14:48.194 --> 00:14:50.474
+but screen displays now do have
+
+00:14:50.474 --> 00:14:52.927
+improved spatial resolution,
+
+00:14:52.927 --> 00:14:56.399
+and very much improved photometric resolution
+
+00:14:56.399 --> 00:14:59.553
+thanks to anti-aliasing and so on.
+
+00:14:59.553 --> 00:15:03.250
+So now that their mission is accomplished,
+
+00:15:03.250 --> 00:15:04.980
+has that meant the demise
+
+00:15:04.980 --> 00:15:06.860
+of the screen fonts that I designed
+
+00:15:06.860 --> 00:15:09.511
+for coarser displays back then?
+
+00:15:09.511 --> 00:15:12.906
+Will they outlive the now-obsolete screens
+
+00:15:12.906 --> 00:15:15.078
+and the flood of new web fonts
+
+00:15:15.078 --> 00:15:16.581
+coming on to the market?
+
+00:15:16.581 --> 00:15:18.441
+Or have they established their own
+
+00:15:18.441 --> 00:15:20.679
+sort of evolutionary niche
+
+00:15:20.679 --> 00:15:24.416
+that is independent of technology?
+
+00:15:24.416 --> 00:15:26.087
+In other words, have they been absorbed
+
+00:15:26.087 --> 00:15:29.400
+into the typographic mainstream?
+
+00:15:29.400 --> 00:15:33.058
+I'm not sure, but they've had a good run so far.
+
+00:15:33.058 --> 00:15:35.553
+Hey, 18 is a good age for anything
+
+00:15:35.553 --> 00:15:37.704
+with present-day rates of attrition,
+
+00:15:37.704 --> 00:15:39.618
+so I'm not complaining.
+
+00:15:39.618 --> 00:15:42.457
+Thank you.
+
+00:15:42.457 --> 00:15:44.634
+(Applause)
+

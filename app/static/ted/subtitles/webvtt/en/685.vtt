@@ -1,0 +1,1032 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:01.976
+We grew up
+
+00:00:02.000 --> 00:00:04.976
+interacting with the physical
+objects around us.
+
+00:00:05.000 --> 00:00:08.400
+There are an enormous number of them
+that we use every day.
+
+00:00:09.293 --> 00:00:11.976
+Unlike most of our computing devices,
+
+00:00:12.000 --> 00:00:14.253
+these objects are much more fun to use.
+
+00:00:15.920 --> 00:00:17.976
+When you talk about objects,
+
+00:00:18.000 --> 00:00:20.976
+one other thing automatically
+comes attached to that thing,
+
+00:00:21.000 --> 00:00:22.976
+and that is gestures:
+
+00:00:23.000 --> 00:00:24.976
+how we manipulate these objects,
+
+00:00:25.000 --> 00:00:27.976
+how we use these objects in everyday life.
+
+00:00:28.000 --> 00:00:30.976
+We use gestures not only to interact
+with these objects,
+
+00:00:31.000 --> 00:00:33.286
+but we also use them
+to interact with each other.
+
+00:00:33.310 --> 00:00:36.976
+A gesture of "Namaste!",
+maybe, to respect someone, or maybe,
+
+00:00:37.000 --> 00:00:39.429
+in India I don't need to teach
+a kid that this means
+
+00:00:39.453 --> 00:00:40.976
+"four runs" in cricket.
+
+00:00:41.000 --> 00:00:43.523
+It comes as a part
+of our everyday learning.
+
+00:00:44.456 --> 00:00:47.976
+So, I am very interested,
+from the beginning,
+
+00:00:48.000 --> 00:00:51.976
+how our knowledge
+about everyday objects and gestures,
+
+00:00:52.000 --> 00:00:53.976
+and how we use these objects,
+
+00:00:54.000 --> 00:00:56.976
+can be leveraged to our interactions
+with the digital world.
+
+00:00:57.000 --> 00:00:59.976
+Rather than using a keyboard and mouse,
+
+00:01:00.000 --> 00:01:02.976
+why can I not use my computer
+
+00:01:03.000 --> 00:01:05.976
+in the same way that I interact
+in the physical world?
+
+00:01:06.000 --> 00:01:08.976
+So, I started this exploration
+around eight years back,
+
+00:01:09.000 --> 00:01:11.976
+and it literally started
+with a mouse on my desk.
+
+00:01:12.000 --> 00:01:17.976
+Rather than using it for my computer,
+I actually opened it.
+
+00:01:18.000 --> 00:01:20.191
+Most of you might be aware
+that, in those days,
+
+00:01:20.215 --> 00:01:22.215
+the mouse used to come with a ball inside,
+
+00:01:22.239 --> 00:01:23.976
+and there were two rollers
+
+00:01:24.000 --> 00:01:26.976
+that actually guide the computer
+where the ball is moving,
+
+00:01:27.000 --> 00:01:29.096
+and, accordingly,
+where the mouse is moving.
+
+00:01:29.120 --> 00:01:31.976
+So, I was interested in these two rollers,
+
+00:01:32.000 --> 00:01:35.381
+and I actually wanted more, so I borrowed
+another mouse from a friend --
+
+00:01:35.405 --> 00:01:36.976
+never returned to him --
+
+00:01:37.000 --> 00:01:38.976
+and I now had four rollers.
+
+00:01:39.000 --> 00:01:41.976
+Interestingly, what I did
+with these rollers is,
+
+00:01:42.000 --> 00:01:46.976
+basically, I took them off of these mouses
+and then put them in one line.
+
+00:01:47.000 --> 00:01:49.976
+It had some strings
+and pulleys and some springs.
+
+00:01:50.000 --> 00:01:52.976
+What I got is basically
+a gesture-interface device
+
+00:01:53.000 --> 00:01:56.976
+that actually acts
+as a motion-sensing device
+
+00:01:57.000 --> 00:01:58.976
+made for two dollars.
+
+00:01:59.000 --> 00:02:01.976
+So, here, whatever movement
+I do in my physical world
+
+00:02:02.000 --> 00:02:04.976
+is actually replicated
+inside the digital world
+
+00:02:05.000 --> 00:02:08.096
+just using this small device
+that I made, around eight years back,
+
+00:02:08.120 --> 00:02:09.976
+in 2000.
+
+00:02:10.000 --> 00:02:12.667
+Because I was interested
+in integrating these two worlds,
+
+00:02:12.691 --> 00:02:13.976
+I thought of sticky notes.
+
+00:02:14.000 --> 00:02:16.976
+I thought, "Why can I not connect
+
+00:02:17.000 --> 00:02:19.143
+the normal interface
+of a physical sticky note
+
+00:02:19.167 --> 00:02:20.976
+to the digital world?"
+
+00:02:21.000 --> 00:02:23.148
+A message written
+on a sticky note to my mom,
+
+00:02:23.172 --> 00:02:24.376
+on paper,
+
+00:02:24.400 --> 00:02:25.976
+can come to an SMS,
+
+00:02:26.000 --> 00:02:27.976
+or maybe a meeting reminder
+
+00:02:28.000 --> 00:02:30.191
+automatically syncs
+with my digital calendar --
+
+00:02:30.215 --> 00:02:32.976
+a to-do list that automatically
+syncs with you.
+
+00:02:33.000 --> 00:02:35.976
+But you can also search
+in the digital world,
+
+00:02:36.000 --> 00:02:37.976
+or maybe you can write a query, saying,
+
+00:02:38.000 --> 00:02:39.976
+"What is Dr. Smith's address?"
+
+00:02:40.000 --> 00:02:42.191
+and this small system
+actually prints it out --
+
+00:02:42.215 --> 00:02:44.692
+so it actually acts like a paper
+input-output system,
+
+00:02:44.716 --> 00:02:47.501
+just made out of paper.
+
+00:02:50.000 --> 00:02:51.976
+In another exploration,
+
+00:02:52.000 --> 00:02:54.976
+I thought of making a pen
+that can draw in three dimensions.
+
+00:02:55.000 --> 00:02:58.976
+So, I implemented this pen
+that can help designers and architects
+
+00:02:59.000 --> 00:03:00.976
+not only think in three dimensions,
+
+00:03:01.000 --> 00:03:02.976
+but they can actually draw,
+
+00:03:03.000 --> 00:03:05.048
+so that it's more intuitive
+to use that way.
+
+00:03:05.072 --> 00:03:07.120
+Then I thought,
+"Why not make a Google Map,
+
+00:03:07.144 --> 00:03:08.976
+but in the physical world?"
+
+00:03:09.000 --> 00:03:11.976
+Rather than typing a keyword
+to find something,
+
+00:03:12.000 --> 00:03:13.976
+I put my objects on top of it.
+
+00:03:14.000 --> 00:03:17.191
+If I put a boarding pass, it will show me
+where the flight gate is.
+
+00:03:17.215 --> 00:03:19.976
+A coffee cup will show
+where you can find more coffee,
+
+00:03:20.000 --> 00:03:21.976
+or where you can trash the cup.
+
+00:03:22.000 --> 00:03:24.976
+So, these were some
+of the earlier explorations I did
+
+00:03:25.000 --> 00:03:28.000
+because the goal was to connect
+these two worlds seamlessly.
+
+00:03:29.000 --> 00:03:30.976
+Among all these experiments,
+
+00:03:31.000 --> 00:03:32.976
+there was one thing in common:
+
+00:03:33.000 --> 00:03:36.505
+I was trying to bring
+a part of the physical world
+
+00:03:36.529 --> 00:03:38.027
+to the digital world.
+
+00:03:38.051 --> 00:03:39.976
+I was taking some part of the objects,
+
+00:03:40.000 --> 00:03:42.977
+or any of the intuitiveness of real life,
+
+00:03:43.001 --> 00:03:45.190
+and bringing them to the digital world,
+
+00:03:45.214 --> 00:03:49.239
+because the goal was to make
+our computing interfaces more intuitive.
+
+00:03:49.263 --> 00:03:53.976
+But then I realized that we humans
+are not actually interested in computing.
+
+00:03:54.000 --> 00:03:56.976
+What we are interested in is information.
+
+00:03:57.000 --> 00:03:58.976
+We want to know about things.
+
+00:03:59.000 --> 00:04:01.381
+We want to know about
+dynamic things going around.
+
+00:04:01.405 --> 00:04:05.976
+So I thought, around last year --
+in the beginning of the last year --
+
+00:04:06.000 --> 00:04:09.477
+I started thinking, "Why can I not take
+this approach in the reverse way?"
+
+00:04:10.119 --> 00:04:12.176
+Maybe, "How about I take my digital world
+
+00:04:12.200 --> 00:04:16.976
+and paint the physical world
+with that digital information?"
+
+00:04:18.154 --> 00:04:21.776
+Because pixels are actually, right now,
+confined in these rectangular devices
+
+00:04:21.800 --> 00:04:23.547
+that fit in our pockets.
+
+00:04:23.571 --> 00:04:25.976
+Why can I not remove this confine
+
+00:04:26.000 --> 00:04:28.976
+and take that to my everyday
+objects, everyday life
+
+00:04:29.000 --> 00:04:31.143
+so that I don't need
+to learn the new language
+
+00:04:31.167 --> 00:04:32.964
+for interacting with those pixels?
+
+00:04:34.214 --> 00:04:36.976
+So, in order to realize this dream,
+
+00:04:37.000 --> 00:04:39.976
+I actually thought of putting
+a big-size projector on my head.
+
+00:04:40.000 --> 00:04:43.239
+I think that's why this is called
+a head-mounted projector, isn't it?
+
+00:04:43.263 --> 00:04:44.976
+I took it very literally,
+
+00:04:45.000 --> 00:04:46.976
+and took my bike helmet,
+
+00:04:47.000 --> 00:04:50.381
+put a little cut over there so that
+the projector actually fits nicely.
+
+00:04:50.405 --> 00:04:51.976
+So now, what I can do --
+
+00:04:52.000 --> 00:04:55.805
+I can augment the world around me
+with this digital information.
+
+00:04:56.658 --> 00:04:57.876
+But later,
+
+00:04:57.900 --> 00:05:00.059
+I realized that I actually
+wanted to interact
+
+00:05:00.083 --> 00:05:01.676
+with those digital pixels, also.
+
+00:05:01.700 --> 00:05:04.976
+So I put a small camera over there
+that acts as a digital eye.
+
+00:05:05.000 --> 00:05:06.976
+Later, we moved to a much better,
+
+00:05:07.000 --> 00:05:09.000
+consumer-oriented pendant version of that,
+
+00:05:09.024 --> 00:05:11.976
+that many of you now know
+as the SixthSense device.
+
+00:05:12.000 --> 00:05:14.976
+But the most interesting thing
+about this particular technology
+
+00:05:15.000 --> 00:05:18.976
+is that you can carry
+your digital world with you
+
+00:05:19.000 --> 00:05:20.976
+wherever you go.
+
+00:05:21.000 --> 00:05:23.976
+You can start using any surface,
+any wall around you,
+
+00:05:24.000 --> 00:05:25.976
+as an interface.
+
+00:05:26.000 --> 00:05:28.976
+The camera is actually tracking
+all your gestures.
+
+00:05:29.000 --> 00:05:30.976
+Whatever you're doing with your hands,
+
+00:05:31.000 --> 00:05:32.976
+it's understanding that gesture.
+
+00:05:33.000 --> 00:05:35.576
+And, actually, if you see,
+there are some color markers
+
+00:05:35.600 --> 00:05:38.076
+that in the beginning version
+we are using with it.
+
+00:05:38.100 --> 00:05:39.976
+You can start painting on any wall.
+
+00:05:40.000 --> 00:05:42.976
+You stop by a wall,
+and start painting on that wall.
+
+00:05:43.000 --> 00:05:45.143
+But we are not only tracking
+one finger, here.
+
+00:05:45.167 --> 00:05:48.976
+We are giving you the freedom
+of using all of both of your hands,
+
+00:05:49.000 --> 00:05:52.143
+so you can actually use both of your hands
+to zoom into or zoom out
+
+00:05:52.167 --> 00:05:54.143
+of a map just by pinching all present.
+
+00:05:54.167 --> 00:05:57.976
+The camera is actually doing --
+just, getting all the images --
+
+00:05:58.000 --> 00:06:00.976
+is doing the edge recognition
+and also the color recognition
+
+00:06:01.000 --> 00:06:03.976
+and so many other small algorithms
+are going on inside.
+
+00:06:04.000 --> 00:06:06.000
+So, technically,
+it's a little bit complex,
+
+00:06:06.024 --> 00:06:09.500
+but it gives you an output which is more
+intuitive to use, in some sense.
+
+00:06:09.524 --> 00:06:12.376
+But I'm more excited that you can
+actually take it outside.
+
+00:06:12.400 --> 00:06:14.976
+Rather than getting your camera
+out of your pocket,
+
+00:06:15.000 --> 00:06:17.976
+you can just do the gesture
+of taking a photo,
+
+00:06:18.000 --> 00:06:19.976
+and it takes a photo for you.
+
+00:06:20.000 --> 00:06:23.976
+(Applause)
+
+00:06:24.000 --> 00:06:25.000
+Thank you.
+
+00:06:25.599 --> 00:06:27.976
+And later I can find a wall, anywhere,
+
+00:06:28.000 --> 00:06:29.976
+and start browsing those photos
+
+00:06:30.000 --> 00:06:32.676
+or maybe, "OK, I want to modify
+this photo a little bit
+
+00:06:32.700 --> 00:06:34.686
+and send it as an email to a friend."
+
+00:06:34.710 --> 00:06:36.976
+So, we are looking for an era
+
+00:06:37.000 --> 00:06:39.976
+where computing will actually merge
+with the physical world.
+
+00:06:40.000 --> 00:06:42.976
+And, of course,
+if you don't have any surface,
+
+00:06:43.000 --> 00:06:45.976
+you can start using your palm
+for simple operations.
+
+00:06:46.000 --> 00:06:48.477
+Here, I'm dialing a phone number
+just using my hand.
+
+00:06:51.880 --> 00:06:54.976
+The camera is actually not
+only understanding your hand movements,
+
+00:06:55.000 --> 00:06:56.176
+but, interestingly,
+
+00:06:56.200 --> 00:06:59.439
+is also able to understand what objects
+you are holding in your hand.
+
+00:07:00.009 --> 00:07:03.976
+For example, in this case,
+
+00:07:04.000 --> 00:07:05.976
+the book cover is matched
+
+00:07:06.000 --> 00:07:08.976
+with so many thousands,
+or maybe millions of books online,
+
+00:07:09.000 --> 00:07:10.976
+and checking out which book it is.
+
+00:07:11.000 --> 00:07:12.476
+Once it has that information,
+
+00:07:12.500 --> 00:07:14.376
+it finds out more reviews about that,
+
+00:07:14.400 --> 00:07:16.976
+or maybe New York Times
+has a sound overview on that,
+
+00:07:17.000 --> 00:07:19.096
+so you can actually hear,
+on a physical book,
+
+00:07:19.120 --> 00:07:20.976
+a review as sound.
+
+00:07:21.000 --> 00:07:23.176
+(Video) Famous talk
+at Harvard University --
+
+00:07:23.200 --> 00:07:26.976
+This was Obama's visit last week to MIT.
+
+00:07:27.000 --> 00:07:30.465
+(Video) And particularly I want
+to thank two outstanding MIT --
+
+00:07:30.489 --> 00:07:33.523
+Pranav Mistry: So, I was seeing
+the live [video] of his talk,
+
+00:07:33.547 --> 00:07:35.489
+outside, on just a newspaper.
+
+00:07:36.000 --> 00:07:38.976
+Your newspaper will show you
+live weather information
+
+00:07:39.000 --> 00:07:41.606
+rather than having it updated.
+
+00:07:41.630 --> 00:07:44.477
+You have to check your computer
+in order to do that, right?
+
+00:07:44.501 --> 00:07:48.976
+(Applause)
+
+00:07:49.000 --> 00:07:51.976
+When I'm going back,
+I can just use my boarding pass
+
+00:07:52.000 --> 00:07:54.096
+to check how much my flight
+has been delayed,
+
+00:07:54.120 --> 00:07:55.976
+because at that particular time,
+
+00:07:56.000 --> 00:07:57.976
+I'm not feeling like opening my iPhone,
+
+00:07:58.000 --> 00:07:59.976
+and checking out a particular icon.
+
+00:08:00.000 --> 00:08:03.134
+And I think this technology
+will not only change the way --
+
+00:08:03.158 --> 00:08:04.134
+(Laughter)
+
+00:08:04.158 --> 00:08:05.176
+Yes.
+
+00:08:05.200 --> 00:08:07.678
+It will change the way
+we interact with people, also,
+
+00:08:07.702 --> 00:08:09.217
+not only the physical world.
+
+00:08:09.241 --> 00:08:11.976
+The fun part is, I'm going
+to the Boston metro,
+
+00:08:12.000 --> 00:08:16.976
+and playing a pong game inside the train
+on the ground, right?
+
+00:08:17.000 --> 00:08:18.076
+(Laughter)
+
+00:08:18.100 --> 00:08:20.196
+And I think the imagination
+is the only limit
+
+00:08:20.220 --> 00:08:21.976
+of what you can think of
+
+00:08:22.000 --> 00:08:24.476
+when this kind of technology
+merges with real life.
+
+00:08:24.500 --> 00:08:26.376
+But many of you argue, actually,
+
+00:08:26.400 --> 00:08:29.076
+that all of our work is not
+only about physical objects.
+
+00:08:29.100 --> 00:08:32.076
+We actually do lots
+of accounting and paper editing
+
+00:08:32.100 --> 00:08:34.391
+and all those kinds of things;
+what about that?
+
+00:08:34.415 --> 00:08:37.976
+And many of you are excited
+about the next-generation tablet computers
+
+00:08:38.000 --> 00:08:39.976
+to come out in the market.
+
+00:08:40.000 --> 00:08:41.976
+So, rather than waiting for that,
+
+00:08:42.000 --> 00:08:44.976
+I actually made my own,
+just using a piece of paper.
+
+00:08:45.000 --> 00:08:47.000
+So, what I did here
+is remove the camera --
+
+00:08:47.024 --> 00:08:50.976
+All the webcam cameras have
+a microphone inside the camera.
+
+00:08:51.000 --> 00:08:53.976
+I removed the microphone from that,
+
+00:08:54.000 --> 00:08:55.976
+and then just pinched that --
+
+00:08:56.000 --> 00:08:58.976
+like I just made a clip
+out of the microphone --
+
+00:08:59.000 --> 00:09:02.976
+and clipped that to a piece of paper,
+any paper that you found around.
+
+00:09:03.000 --> 00:09:05.976
+So now the sound of the touch
+
+00:09:06.000 --> 00:09:08.976
+is getting me when exactly
+I'm touching the paper.
+
+00:09:09.000 --> 00:09:12.976
+But the camera is actually tracking
+where my fingers are moving.
+
+00:09:13.000 --> 00:09:15.976
+You can of course watch movies.
+
+00:09:16.000 --> 00:09:18.976
+(Video) Good afternoon.
+My name is Russell,
+
+00:09:19.000 --> 00:09:21.976
+and I am a Wilderness
+Explorer in Tribe 54."
+
+00:09:22.000 --> 00:09:24.976
+PM: And you can of course play games.
+
+00:09:25.000 --> 00:09:27.976
+(Car engine)
+
+00:09:28.000 --> 00:09:31.334
+Here, the camera is actually understanding
+how you're holding the paper
+
+00:09:31.358 --> 00:09:32.976
+and playing a car-racing game.
+
+00:09:33.000 --> 00:09:36.000
+(Applause)
+
+00:09:37.396 --> 00:09:40.174
+Many of you already must have
+thought, OK, you can browse.
+
+00:09:40.198 --> 00:09:42.476
+Yeah. Of course you can
+browse to any websites
+
+00:09:42.500 --> 00:09:45.176
+or you can do all sorts
+of computing on a piece of paper
+
+00:09:45.200 --> 00:09:46.376
+wherever you need it.
+
+00:09:46.400 --> 00:09:48.976
+So, more interestingly,
+
+00:09:49.000 --> 00:09:51.976
+I'm interested in how we can
+take that in a more dynamic way.
+
+00:09:52.000 --> 00:09:54.976
+When I come back to my desk,
+I can just pinch that information
+
+00:09:55.000 --> 00:09:56.976
+back to my desktop
+
+00:09:57.000 --> 00:09:59.976
+so I can use my full-size computer.
+
+00:10:00.000 --> 00:10:01.976
+(Applause)
+
+00:10:02.000 --> 00:10:04.976
+And why only computers?
+We can just play with papers.
+
+00:10:05.000 --> 00:10:07.976
+Paper world is interesting to play with.
+
+00:10:08.000 --> 00:10:09.976
+Here, I'm taking a part of a document,
+
+00:10:10.000 --> 00:10:13.976
+and putting over here a second part
+from a second place,
+
+00:10:14.000 --> 00:10:18.976
+and I'm actually modifying the information
+that I have over there.
+
+00:10:19.000 --> 00:10:23.976
+Yeah. And I say, "OK, this looks nice,
+let me print it out, that thing."
+
+00:10:24.000 --> 00:10:26.381
+So I now have a print-out of that thing.
+
+00:10:26.405 --> 00:10:28.729
+So the workflow is more intuitive,
+
+00:10:28.753 --> 00:10:31.976
+the way we used to do it
+maybe 20 years back,
+
+00:10:32.000 --> 00:10:34.976
+rather than now switching
+between these two worlds.
+
+00:10:35.000 --> 00:10:37.976
+So, as a last thought,
+
+00:10:38.000 --> 00:10:42.376
+I think that integrating
+information to everyday objects
+
+00:10:42.400 --> 00:10:45.976
+will not only help us to get rid
+of the digital divide,
+
+00:10:46.000 --> 00:10:47.976
+the gap between these two worlds,
+
+00:10:48.000 --> 00:10:49.976
+but will also help us, in some way,
+
+00:10:50.000 --> 00:10:51.976
+to stay human,
+
+00:10:52.000 --> 00:10:55.000
+to be more connected
+to our physical world.
+
+00:10:58.408 --> 00:11:00.976
+And it will actually help us
+not end up being machines
+
+00:11:01.000 --> 00:11:02.718
+sitting in front of other machines.
+
+00:11:03.507 --> 00:11:05.976
+That's all. Thank you.
+
+00:11:06.000 --> 00:11:19.976
+(Applause)
+
+00:11:20.000 --> 00:11:21.176
+Thank you.
+
+00:11:21.200 --> 00:11:23.976
+(Applause)
+
+00:11:24.000 --> 00:11:27.976
+Chris Anderson: So, Pranav,
+first of all, you're a genius.
+
+00:11:28.000 --> 00:11:30.976
+This is incredible, really.
+
+00:11:31.000 --> 00:11:34.100
+What are you doing with this?
+Is there a company being planned?
+
+00:11:34.124 --> 00:11:35.976
+Or is this research forever, or what?
+
+00:11:36.000 --> 00:11:38.276
+Pranav Mistry: So, there are
+lots of companies,
+
+00:11:38.300 --> 00:11:41.296
+sponsor companies of Media Lab
+interested in taking this ahead
+
+00:11:41.320 --> 00:11:42.506
+in one or another way.
+
+00:11:42.530 --> 00:11:44.503
+Companies like mobile-phone operators
+
+00:11:44.527 --> 00:11:47.401
+want to take this in a different way
+than the NGOs in India,
+
+00:11:47.425 --> 00:11:49.601
+thinking, "Why can we only
+have 'Sixth Sense'?
+
+00:11:49.625 --> 00:11:53.076
+We should have a 'Fifth Sense'
+for missing-sense people who cannot speak.
+
+00:11:53.100 --> 00:11:56.391
+This technology can be used for them
+to speak out in a different way
+
+00:11:56.415 --> 00:11:57.691
+maybe a speaker system."
+
+00:11:57.715 --> 00:12:00.176
+CA: What are your own plans?
+Are you staying at MIT,
+
+00:12:00.200 --> 00:12:02.276
+or are you going to do
+something with this?
+
+00:12:02.300 --> 00:12:04.829
+PM: I'm trying to make this
+more available to people
+
+00:12:04.853 --> 00:12:07.529
+so that anyone can develop
+their own SixthSense device,
+
+00:12:07.553 --> 00:12:10.976
+because the hardware is actually
+not that hard to manufacture
+
+00:12:11.000 --> 00:12:12.976
+or hard to make your own.
+
+00:12:13.000 --> 00:12:15.572
+We will provide all the open source
+software for them,
+
+00:12:15.596 --> 00:12:16.976
+maybe starting next month.
+
+00:12:17.000 --> 00:12:18.976
+CA: Open source? Wow.
+
+00:12:19.000 --> 00:12:23.976
+(Applause)
+
+00:12:24.000 --> 00:12:27.429
+CA: Are you going to come back to India
+with some of this, at some point?
+
+00:12:27.453 --> 00:12:28.976
+PM: Yeah. Yes, yes, of course.
+
+00:12:29.000 --> 00:12:30.976
+CA: What are your plans? MIT? India?
+
+00:12:31.000 --> 00:12:33.476
+How are you going to split
+your time going forward?
+
+00:12:33.500 --> 00:12:35.976
+PM: There is a lot of energy here.
+Lots of learning.
+
+00:12:36.000 --> 00:12:39.976
+All of this work that you have seen
+is all about my learning in India.
+
+00:12:40.000 --> 00:12:42.976
+And now, if you see, it's more about
+the cost-effectiveness:
+
+00:12:43.000 --> 00:12:44.976
+this system costs you $300
+
+00:12:45.000 --> 00:12:47.976
+compared to the $20,000 surface tables,
+or anything like that.
+
+00:12:48.000 --> 00:12:53.976
+Or maybe even the $2 mouse gesture system
+at that time was costing around $5,000?
+
+00:12:54.000 --> 00:12:59.976
+I showed that, at a conference,
+to President Abdul Kalam, at that time,
+
+00:13:00.000 --> 00:13:03.524
+and then he said, "OK, we should use this
+in Bhabha Atomic Research Centre
+
+00:13:03.548 --> 00:13:04.976
+for some use of that."
+
+00:13:05.000 --> 00:13:08.096
+So I'm excited about how I can bring
+the technology to the masses
+
+00:13:08.120 --> 00:13:11.120
+rather than just keeping that technology
+in the lab environment.
+
+00:13:11.144 --> 00:13:14.976
+(Applause)
+
+00:13:15.000 --> 00:13:17.118
+CA: Based on the people we've seen at TED,
+
+00:13:17.142 --> 00:13:19.476
+I would say you're truly
+one of the two or three
+
+00:13:19.500 --> 00:13:21.376
+best inventors in the world right now.
+
+00:13:21.400 --> 00:13:22.976
+It's an honor to have you at TED.
+
+00:13:23.000 --> 00:13:24.976
+Thank you so much.
+
+00:13:25.000 --> 00:13:26.176
+That's fantastic.
+
+00:13:26.200 --> 00:13:30.000
+(Applause)
+

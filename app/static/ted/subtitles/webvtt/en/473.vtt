@@ -1,0 +1,503 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Four years ago, on the TED stage,
+
+00:00:03.000 --> 00:00:05.398
+I announced a company I was working with at the time
+
+00:00:05.398 --> 00:00:07.307
+called Odeo.
+
+00:00:07.307 --> 00:00:08.984
+And because of that announcement,
+
+00:00:08.984 --> 00:00:11.046
+we got a big article in The New York Times,
+
+00:00:11.046 --> 00:00:14.323
+which led to more press, which led to more attention,
+
+00:00:14.323 --> 00:00:17.000
+and me deciding to become CEO of that company --
+
+00:00:17.000 --> 00:00:19.000
+whereas I was just an adviser --
+
+00:00:19.000 --> 00:00:21.353
+and raising a round of venture capital
+
+00:00:21.353 --> 00:00:23.000
+and ramping up hiring.
+
+00:00:23.000 --> 00:00:26.846
+One of the guys I hired was an engineer named Jack Dorsey,
+
+00:00:26.846 --> 00:00:30.784
+and a year later, when we were trying to decide which way to go with Odeo,
+
+00:00:30.784 --> 00:00:35.446
+Jack presented an idea he'd been tinkering around with for a number of years
+
+00:00:35.446 --> 00:00:39.000
+that was based around sending simple status updates to friends.
+
+00:00:39.000 --> 00:00:41.246
+We were also playing with SMS at the time at Odeo,
+
+00:00:41.246 --> 00:00:43.092
+so we kind of put two and two together,
+
+00:00:43.092 --> 00:00:48.045
+and in early 2006 we launched Twitter as a side project at Odeo.
+
+00:00:48.045 --> 00:00:50.523
+Now, it's hard to justify doing a side project
+
+00:00:50.523 --> 00:00:52.876
+at a startup, where focus is so critical,
+
+00:00:52.876 --> 00:00:55.215
+but I had actually launched Blogger as a side project
+
+00:00:55.215 --> 00:00:56.538
+to my previous company,
+
+00:00:56.538 --> 00:00:59.000
+thinking it was just a little thing we'd do on the side,
+
+00:00:59.000 --> 00:01:01.600
+and it ended up taking over not only the company,
+
+00:01:01.600 --> 00:01:04.000
+but my life for the next five or six years.
+
+00:01:04.000 --> 00:01:06.337
+So I learned to follow hunches
+
+00:01:06.337 --> 00:01:08.200
+even though you can't necessarily justify them
+
+00:01:08.200 --> 00:01:09.629
+or know where they're going to go.
+
+00:01:09.629 --> 00:01:13.000
+And that's kind of what's happened with Twitter, time after time.
+
+00:01:13.000 --> 00:01:15.000
+So, for those of you unfamiliar,
+
+00:01:15.000 --> 00:01:18.461
+Twitter is based around a very simple, seemingly trivial concept.
+
+00:01:18.461 --> 00:01:21.676
+You say what you're doing in 140 characters or less,
+
+00:01:21.676 --> 00:01:25.000
+and people who are interested in you get those updates.
+
+00:01:25.000 --> 00:01:26.446
+If they're really interested,
+
+00:01:26.446 --> 00:01:29.584
+they get the update as a text message on their cell phone.
+
+00:01:29.584 --> 00:01:32.000
+So, for instance, I may Twitter right now
+
+00:01:32.000 --> 00:01:34.044
+that I'm giving a talk at TED.
+
+00:01:34.075 --> 00:01:36.784
+And in my case, when I hit send,
+
+00:01:36.784 --> 00:01:41.050
+up to 60,000 people will receive that message in a matter of seconds.
+
+00:01:41.050 --> 00:01:44.422
+Now, the fundamental idea is that Twitter
+
+00:01:44.422 --> 00:01:46.861
+lets people share moments of their lives
+
+00:01:46.861 --> 00:01:48.076
+whenever they want,
+
+00:01:48.076 --> 00:01:50.384
+be they momentous occasions
+
+00:01:50.384 --> 00:01:53.922
+or mundane ones.
+
+00:01:53.922 --> 00:01:56.752
+It is by sharing these moments as they're happening
+
+00:01:56.752 --> 00:02:00.526
+that lets people feel more connected and in touch,
+
+00:02:00.526 --> 00:02:02.706
+despite distance, and in real time.
+
+00:02:02.706 --> 00:02:05.678
+This is the primary use we saw of Twitter from the beginning,
+
+00:02:05.678 --> 00:02:08.037
+and what got us excited.
+
+00:02:08.037 --> 00:02:11.522
+What we didn't anticipate was the many, many other uses
+
+00:02:11.522 --> 00:02:14.603
+that would evolve from this very simple system.
+
+00:02:14.603 --> 00:02:16.600
+One of the things we realized
+
+00:02:16.600 --> 00:02:19.882
+was how important Twitter could be during real-time events.
+
+00:02:19.882 --> 00:02:23.179
+When the wildfires broke out in San Diego,
+
+00:02:23.179 --> 00:02:25.090
+in October of 2007,
+
+00:02:25.090 --> 00:02:27.295
+people turned to Twitter to report what was happening
+
+00:02:27.295 --> 00:02:29.329
+and to find information from neighbors
+
+00:02:29.329 --> 00:02:31.101
+about what was happening around them.
+
+00:02:31.101 --> 00:02:32.406
+But it wasn't just individuals.
+
+00:02:32.406 --> 00:02:35.989
+The L.A. Times actually turned to Twitter to dispense information as well,
+
+00:02:35.989 --> 00:02:38.006
+and put a Twitter feed on the front page,
+
+00:02:38.006 --> 00:02:40.094
+and the L.A. Fire Department and Red Cross
+
+00:02:40.094 --> 00:02:43.190
+used it to dispense news and updates as well.
+
+00:02:43.190 --> 00:02:46.253
+At this event, dozens of people here are Twittering
+
+00:02:46.253 --> 00:02:48.916
+and thousands of people around the world are following along
+
+00:02:48.916 --> 00:02:50.898
+because they want to know what it feels like to be here
+
+00:02:50.898 --> 00:02:52.474
+and what's happening.
+
+00:02:52.474 --> 00:02:55.554
+Among the other interesting things that have cropped up
+
+00:02:55.554 --> 00:02:57.603
+are many things from businesses,
+
+00:02:57.603 --> 00:03:00.245
+from marketing and communications and predictable things,
+
+00:03:00.245 --> 00:03:03.482
+to an insanely popular Korean-barbecue taco truck
+
+00:03:03.482 --> 00:03:05.738
+that drives around L.A. and Twitters where it stops,
+
+00:03:05.738 --> 00:03:10.754
+causing a line to form around the block.
+
+00:03:10.754 --> 00:03:13.800
+Politicians have recently begun Twittering.
+
+00:03:13.800 --> 00:03:15.890
+In fact, there are 47 members of Congress
+
+00:03:15.890 --> 00:03:17.641
+who currently have Twitter accounts.
+
+00:03:17.641 --> 00:03:20.071
+And they're tweeting, in some cases,
+
+00:03:20.071 --> 00:03:22.545
+from behind closed-door sessions with the President.
+
+00:03:22.545 --> 00:03:25.143
+In this case, this guy's not liking what he's hearing.
+
+00:03:25.143 --> 00:03:28.666
+The President himself is our most popular Twitter user,
+
+00:03:28.666 --> 00:03:32.553
+although his tweets have dropped off as of late,
+
+00:03:32.553 --> 00:03:37.344
+while Senator McCain's have picked up.
+
+00:03:37.344 --> 00:03:40.528
+As have this guy's.
+
+00:03:40.528 --> 00:03:44.393
+Twitter was originally designed as a broadcast medium:
+
+00:03:44.393 --> 00:03:46.425
+you send one message and it goes out to everybody,
+
+00:03:46.425 --> 00:03:48.481
+and you receive the messages you're interested in.
+
+00:03:48.481 --> 00:03:52.801
+One of the many ways that users shaped the evolution of Twitter
+
+00:03:52.801 --> 00:03:56.482
+was by inventing a way to reply to a specific person
+
+00:03:56.482 --> 00:03:58.788
+or a specific message.
+
+00:03:58.788 --> 00:04:01.957
+So, this syntax, the "@username" that Shaquille O'Neal's using here
+
+00:04:01.957 --> 00:04:03.661
+to reply to one of his fans,
+
+00:04:03.661 --> 00:04:05.501
+was completely invented by users,
+
+00:04:05.501 --> 00:04:08.534
+and we didn't build it into the system until it already became popular
+
+00:04:08.534 --> 00:04:10.501
+and then we made it easier.
+
+00:04:10.501 --> 00:04:13.332
+This is one of the many ways that users have shaped the system.
+
+00:04:13.332 --> 00:04:15.101
+Another is via the API.
+
+00:04:15.101 --> 00:04:17.005
+We built an application-programming interface,
+
+00:04:17.005 --> 00:04:21.322
+which basically means that programmers can write software that interacts with Twitter.
+
+00:04:21.322 --> 00:04:24.005
+We currently know about over 2,000 pieces of software
+
+00:04:24.005 --> 00:04:25.357
+that can send Twitter updates --
+
+00:04:25.357 --> 00:04:29.845
+interfaces for Mac, Windows, your iPhone, your BlackBerry --
+
+00:04:29.845 --> 00:04:32.237
+as well as things like
+
+00:04:32.237 --> 00:04:34.637
+a device that lets an unborn baby Twitter when it kicks
+
+00:04:34.637 --> 00:04:37.740
+or a plant Twitter when it needs water.
+
+00:04:37.740 --> 00:04:40.365
+Probably the most important third-party development
+
+00:04:40.365 --> 00:04:43.125
+came from a little company in Virginia called Summize.
+
+00:04:43.125 --> 00:04:45.396
+Summize built a Twitter search engine.
+
+00:04:45.396 --> 00:04:47.206
+And they tapped into the fact
+
+00:04:47.206 --> 00:04:49.413
+that, if you have millions of people around the world
+
+00:04:49.413 --> 00:04:51.821
+talking about what they're doing and what's around them,
+
+00:04:51.821 --> 00:04:56.648
+you have an incredible resource to find out about any topic or event
+
+00:04:56.648 --> 00:04:58.293
+while it's going on.
+
+00:04:58.293 --> 00:05:00.633
+This really changed how we perceived Twitter.
+
+00:05:00.633 --> 00:05:04.813
+For instance, here's what people are saying about TED.
+
+00:05:04.813 --> 00:05:08.102
+This is another way that our mind was shifted,
+
+00:05:08.102 --> 00:05:10.462
+and Twitter wasn't what we thought it was.
+
+00:05:10.462 --> 00:05:12.879
+We liked this so much we actually bought the company
+
+00:05:12.879 --> 00:05:15.310
+and are folding it into the main product.
+
+00:05:15.310 --> 00:05:18.694
+This not only lets you view Twitters in different ways,
+
+00:05:18.694 --> 00:05:21.134
+but it introduces new use cases as well.
+
+00:05:21.134 --> 00:05:23.846
+One of my favorites is what happened a few months ago
+
+00:05:23.846 --> 00:05:26.393
+when there was a gas shortage in Atlanta.
+
+00:05:26.393 --> 00:05:28.133
+Some users figured out
+
+00:05:28.133 --> 00:05:31.146
+that they would Twitter when they found gas --
+
+00:05:31.146 --> 00:05:33.422
+where it was, and how much it cost --
+
+00:05:33.422 --> 00:05:35.936
+and then appended the keyword "#atlgas"
+
+00:05:35.936 --> 00:05:39.614
+which let other people search for that and find gas themselves.
+
+00:05:39.614 --> 00:05:41.943
+And this trend of people using this communication network
+
+00:05:41.943 --> 00:05:43.319
+to help each other out
+
+00:05:43.319 --> 00:05:47.162
+goes far beyond the original idea of just keeping up with family and friends.
+
+00:05:47.162 --> 00:05:50.329
+It's happened more and more lately,
+
+00:05:50.329 --> 00:05:52.815
+whether it's raising money for homeless people
+
+00:05:52.815 --> 00:05:54.551
+or to dig wells in Africa
+
+00:05:54.551 --> 00:05:56.815
+or for a family in crisis.
+
+00:05:56.815 --> 00:05:59.639
+People have raised tens of thousands of dollars over Twitter
+
+00:05:59.639 --> 00:06:04.091
+in a matter of days on several occasions.
+
+00:06:04.091 --> 00:06:09.168
+It seems like when you give people easier ways to share information,
+
+00:06:09.168 --> 00:06:11.736
+more good things happen.
+
+00:06:11.736 --> 00:06:15.968
+I have no idea what will happen next with Twitter.
+
+00:06:15.968 --> 00:06:18.032
+I've learned to follow the hunch,
+
+00:06:18.032 --> 00:06:21.176
+but never assume where it will go.
+
+00:06:21.176 --> 00:06:23.360
+Thanks.
+
+00:06:23.360 --> 00:06:29.245
+(Applause)
+
+00:06:29.245 --> 00:06:31.016
+Chris Anderson: We're not quite done yet.
+
+00:06:31.016 --> 00:06:33.354
+So, look, if we could have this screen live.
+
+00:06:33.354 --> 00:06:35.722
+This is actually the most terrifying thing that any speaker can do
+
+00:06:35.722 --> 00:06:37.384
+after they've been to an event.
+
+00:06:37.384 --> 00:06:40.360
+It's totally intimidating.
+
+00:06:40.360 --> 00:06:43.480
+So, this would be the Twitter search screen.
+
+00:06:43.480 --> 00:06:47.215
+So we're going to just type a couple of random words into Twitter.
+
+00:06:47.215 --> 00:06:52.615
+For example: "Evan Williams."
+
+00:06:52.615 --> 00:06:56.923
+"Evan Williams, give people more good ways to share information and follow your hunch at TED."
+
+00:06:56.923 --> 00:07:00.000
+"Currently listening to Evan Williams." "Currently listening to Evan Williams." "Evan Williams --"
+
+00:07:00.000 --> 00:07:00.814
+Oh.
+
+00:07:00.814 --> 00:07:02.722
+"Evan Williams is just dying on stage here at TED.
+
+00:07:02.722 --> 00:07:05.860
+Worst talk ever!" (Laughter)
+
+00:07:05.860 --> 00:07:07.414
+Evan Williams: Nice. Thanks.
+
+00:07:07.414 --> 00:07:09.784
+CA: Just kidding.
+
+00:07:09.784 --> 00:07:12.538
+But, literally in the eight minutes he was talking,
+
+00:07:12.538 --> 00:07:14.891
+there are about fifty tweets that already came on the talk.
+
+00:07:14.891 --> 00:07:17.492
+So he'll see every aspect of the reaction:
+
+00:07:17.492 --> 00:07:19.752
+the fact that Barack Obama is the biggest Twitterer,
+
+00:07:19.752 --> 00:07:21.137
+the fact that it came out of TED.
+
+00:07:21.137 --> 00:07:24.091
+I don't think there's any other way of getting instant feedback that way.
+
+00:07:24.091 --> 00:07:26.368
+You have build something very fascinating,
+
+00:07:26.368 --> 00:07:28.691
+and it looks like its best times are still ahead of it.
+
+00:07:28.691 --> 00:07:30.399
+So, thank you very much, Evan. EW: Thank you.
+
+00:07:30.399 --> 00:07:37.000
+CA: That was very interesting.
+

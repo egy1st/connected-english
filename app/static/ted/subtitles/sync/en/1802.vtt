@@ -1,0 +1,547 @@
+WEBVTT
+
+00:00:12.486 --> 00:00:14.719
+Motor racing is a funny old business.
+
+00:00:14.743 --> 00:00:17.036
+We make a new car every year,
+
+00:00:17.060 --> 00:00:19.224
+and then we spend the rest of the season
+
+00:00:19.248 --> 00:00:22.000
+trying to understand
+what it is we've built
+
+00:00:22.024 --> 00:00:25.221
+to make it better, to make it faster.
+
+00:00:25.245 --> 00:00:28.496
+And then the next year, we start again.
+
+00:00:28.520 --> 00:00:32.734
+Now, the car you see in front
+of you is quite complicated.
+
+00:00:32.758 --> 00:00:36.353
+The chassis is made
+up of about 11,000 components,
+
+00:00:36.377 --> 00:00:38.821
+the engine another 6,000,
+
+00:00:38.845 --> 00:00:41.914
+the electronics
+about eight and a half thousand.
+
+00:00:41.938 --> 00:00:46.315
+So there's about 25,000 things
+there that can go wrong.
+
+00:00:46.339 --> 00:00:51.141
+So motor racing is very much
+about attention to detail.
+
+00:00:51.165 --> 00:00:54.404
+The other thing about Formula
+1 in particular
+
+00:00:54.428 --> 00:00:56.528
+is we're always changing the car.
+
+00:00:56.552 --> 00:00:58.808
+We're always trying to make it faster.
+
+00:00:58.832 --> 00:01:01.792
+So every two weeks, we will be making
+
+00:01:01.816 --> 00:01:05.992
+about 5,000 new components
+to fit to the car.
+
+00:01:06.016 --> 00:01:08.170
+Five to 10 percent of the race car
+
+00:01:08.194 --> 00:01:11.922
+will be different
+every two weeks of the year.
+
+00:01:11.946 --> 00:01:14.231
+So how do we do that?
+
+00:01:14.255 --> 00:01:17.975
+Well, we start our life
+with the racing car.
+
+00:01:17.999 --> 00:01:21.966
+We have a lot of sensors
+on the car to measure things.
+
+00:01:21.990 --> 00:01:23.848
+On the race car in front of you here
+
+00:01:23.872 --> 00:01:27.007
+there are about 120 sensors
+when it goes into a race.
+
+00:01:27.031 --> 00:01:30.659
+It's measuring all sorts
+of things around the car.
+
+00:01:30.683 --> 00:01:32.711
+That data is logged. We're logging about
+
+00:01:32.735 --> 00:01:36.415
+500 different parameters
+within the data systems,
+
+00:01:36.439 --> 00:01:40.080
+about 13,000 health parameters and events
+
+00:01:40.104 --> 00:01:44.645
+to say when things are not
+working the way they should do,
+
+00:01:44.669 --> 00:01:47.470
+and we're sending that data
+back to the garage
+
+00:01:47.494 --> 00:01:52.449
+using telemetry at a rate
+of two to four megabits per second.
+
+00:01:52.473 --> 00:01:55.576
+So during a two-hour race,
+each car will be sending
+
+00:01:55.600 --> 00:01:57.851
+750 million numbers.
+
+00:01:57.875 --> 00:02:00.994
+That's twice as many numbers
+as words that each of us
+
+00:02:01.018 --> 00:02:02.625
+speaks in a lifetime.
+
+00:02:02.649 --> 00:02:05.243
+It's a huge amount of data.
+
+00:02:05.267 --> 00:02:07.888
+But it's not enough just
+to have data and measure it.
+
+00:02:07.912 --> 00:02:10.046
+You need to be able to do
+something with it.
+
+00:02:10.070 --> 00:02:12.440
+So we've spent a lot of time and effort
+
+00:02:12.464 --> 00:02:14.309
+in turning the data into stories
+
+00:02:14.333 --> 00:02:17.414
+to be able to tell,
+what's the state of the engine,
+
+00:02:17.438 --> 00:02:19.686
+how are the tires degrading,
+
+00:02:19.710 --> 00:02:23.434
+what's the situation
+with fuel consumption?
+
+00:02:23.458 --> 00:02:26.222
+So all of this is taking data
+
+00:02:26.246 --> 00:02:30.024
+and turning it into knowledge
+that we can act upon.
+
+00:02:30.048 --> 00:02:32.662
+Okay, so let's have a look
+at a little bit of data.
+
+00:02:32.686 --> 00:02:34.692
+Let's pick a bit of data from
+
+00:02:34.716 --> 00:02:37.771
+another three-month-old patient.
+
+00:02:37.795 --> 00:02:41.942
+This is a child, and what you're
+seeing here is real data,
+
+00:02:41.966 --> 00:02:43.919
+and on the far right-hand side,
+
+00:02:43.943 --> 00:02:46.705
+where everything starts getting
+a little bit catastrophic,
+
+00:02:46.729 --> 00:02:50.090
+that is the patient going
+into cardiac arrest.
+
+00:02:50.114 --> 00:02:53.322
+It was deemed to be
+an unpredictable event.
+
+00:02:53.346 --> 00:02:57.111
+This was a heart attack
+that no one could see coming.
+
+00:02:57.135 --> 00:02:59.661
+But when we look at the information there,
+
+00:02:59.685 --> 00:03:02.010
+we can see that things
+are starting to become
+
+00:03:02.034 --> 00:03:06.039
+a little fuzzy about five minutes
+or so before the cardiac arrest.
+
+00:03:06.063 --> 00:03:08.076
+We can see small changes
+
+00:03:08.100 --> 00:03:10.459
+in things like the heart rate moving.
+
+00:03:10.483 --> 00:03:12.945
+These were all undetected
+by normal thresholds
+
+00:03:12.969 --> 00:03:15.353
+which would be applied to data.
+
+00:03:15.377 --> 00:03:18.496
+So the question is, why
+couldn't we see it?
+
+00:03:18.520 --> 00:03:21.077
+Was this a predictable event?
+
+00:03:21.101 --> 00:03:24.087
+Can we look more
+at the patterns in the data
+
+00:03:24.111 --> 00:03:27.467
+to be able to do things better?
+
+00:03:27.491 --> 00:03:30.117
+So this is a child,
+
+00:03:30.141 --> 00:03:33.349
+about the same age
+as the racing car on stage,
+
+00:03:33.373 --> 00:03:34.979
+three months old.
+
+00:03:35.003 --> 00:03:37.584
+It's a patient with a heart problem.
+
+00:03:37.608 --> 00:03:41.052
+Now, when you look at some of the data
+on the screen above,
+
+00:03:41.076 --> 00:03:45.954
+things like heart rate, pulse,
+oxygen, respiration rates,
+
+00:03:45.978 --> 00:03:49.030
+they're all unusual for a normal child,
+
+00:03:49.054 --> 00:03:51.672
+but they're quite normal
+for the child there,
+
+00:03:51.696 --> 00:03:55.810
+and so one of the challenges
+you have in health care is,
+
+00:03:55.834 --> 00:03:58.661
+how can I look at the patient
+in front of me,
+
+00:03:58.685 --> 00:04:01.708
+have something which is specific for her,
+
+00:04:01.732 --> 00:04:04.496
+and be able to detect when
+things start to change,
+
+00:04:04.520 --> 00:04:06.595
+when things start to deteriorate?
+
+00:04:06.619 --> 00:04:09.645
+Because like a racing car, any patient,
+
+00:04:09.669 --> 00:04:12.621
+when things start to go
+bad, you have a short time
+
+00:04:12.645 --> 00:04:14.452
+to make a difference.
+
+00:04:14.476 --> 00:04:17.206
+So what we did is we took a data system
+
+00:04:17.230 --> 00:04:20.337
+which we run every two weeks
+of the year in Formula 1
+
+00:04:20.361 --> 00:04:23.339
+and we installed it
+on the hospital computers
+
+00:04:23.363 --> 00:04:25.629
+at Birmingham Children's Hospital.
+
+00:04:25.653 --> 00:04:28.068
+We streamed data
+from the bedside instruments
+
+00:04:28.092 --> 00:04:30.625
+in their pediatric intensive care
+
+00:04:30.649 --> 00:04:34.080
+so that we could both look
+at the data in real time
+
+00:04:34.104 --> 00:04:36.952
+and, more importantly, to store the data
+
+00:04:36.976 --> 00:04:40.009
+so that we could start to learn from it.
+
+00:04:40.033 --> 00:04:44.393
+And then, we applied an application on top
+
+00:04:44.417 --> 00:04:47.663
+which would allow us to tease
+out the patterns in the data
+
+00:04:47.687 --> 00:04:50.619
+in real time so we could
+see what was happening,
+
+00:04:50.643 --> 00:04:54.332
+so we could determine when
+things started to change.
+
+00:04:54.356 --> 00:04:58.195
+Now, in motor racing, we're
+all a little bit ambitious,
+
+00:04:58.219 --> 00:05:00.744
+audacious, a little bit
+arrogant sometimes,
+
+00:05:00.768 --> 00:05:04.142
+so we decided we would also
+look at the children
+
+00:05:04.166 --> 00:05:07.099
+as they were being transported
+to intensive care.
+
+00:05:07.123 --> 00:05:09.647
+Why should we wait
+until they arrived in the hospital
+
+00:05:09.671 --> 00:05:11.247
+before we started to look?
+
+00:05:11.271 --> 00:05:14.244
+And so we installed a real-time link
+
+00:05:14.268 --> 00:05:17.080
+between the ambulance and the hospital,
+
+00:05:17.104 --> 00:05:20.856
+just using normal 3G
+telephony to send that data
+
+00:05:20.880 --> 00:05:23.343
+so that the ambulance became an extra bed
+
+00:05:23.367 --> 00:05:26.479
+in intensive care.
+
+00:05:26.503 --> 00:05:30.181
+And then we started looking at the data.
+
+00:05:30.205 --> 00:05:33.102
+So the wiggly lines
+at the top, all the colors,
+
+00:05:33.126 --> 00:05:36.296
+this is the normal sort of data
+you would see on a monitor --
+
+00:05:36.320 --> 00:05:40.068
+heart rate, pulse,
+oxygen within the blood,
+
+00:05:40.092 --> 00:05:42.703
+and respiration.
+
+00:05:42.727 --> 00:05:45.456
+The lines on the bottom,
+the blue and the red,
+
+00:05:45.480 --> 00:05:46.957
+these are the interesting ones.
+
+00:05:46.981 --> 00:05:50.025
+The red line is showing
+an automated version
+
+00:05:50.049 --> 00:05:51.622
+of the early warning score
+
+00:05:51.646 --> 00:05:54.361
+that Birmingham Children's Hospital
+were already running.
+
+00:05:54.385 --> 00:05:56.447
+They'd been running that since 2008,
+
+00:05:56.471 --> 00:05:58.703
+and already have stopped cardiac arrests
+
+00:05:58.727 --> 00:06:01.460
+and distress within the hospital.
+
+00:06:01.484 --> 00:06:03.892
+The blue line is an indication
+
+00:06:03.916 --> 00:06:06.392
+of when patterns start to change,
+
+00:06:06.416 --> 00:06:08.701
+and immediately, before we even started
+
+00:06:08.725 --> 00:06:10.409
+putting in clinical interpretation,
+
+00:06:10.433 --> 00:06:13.279
+we can see that the data
+is speaking to us.
+
+00:06:13.303 --> 00:06:16.815
+It's telling us that something
+is going wrong.
+
+00:06:16.839 --> 00:06:20.631
+The plot with the red and the green blobs,
+
+00:06:20.655 --> 00:06:23.436
+this is plotting different components
+
+00:06:23.460 --> 00:06:25.983
+of the data against each other.
+
+00:06:26.007 --> 00:06:29.823
+The green is us learning
+what is normal for that child.
+
+00:06:29.847 --> 00:06:32.433
+We call it the cloud of normality.
+
+00:06:32.457 --> 00:06:34.674
+And when things start to change,
+
+00:06:34.698 --> 00:06:37.238
+when conditions start to deteriorate,
+
+00:06:37.262 --> 00:06:39.476
+we move into the red line.
+
+00:06:39.500 --> 00:06:41.133
+There's no rocket science here.
+
+00:06:41.157 --> 00:06:45.246
+It is displaying data that exists
+already in a different way,
+
+00:06:45.270 --> 00:06:48.637
+to amplify it, to provide
+cues to the doctors,
+
+00:06:48.661 --> 00:06:51.375
+to the nurses, so they can
+see what's happening.
+
+00:06:51.399 --> 00:06:54.505
+In the same way that a good racing driver
+
+00:06:54.529 --> 00:06:58.549
+relies on cues to decide
+when to apply the brakes,
+
+00:06:58.573 --> 00:07:00.025
+when to turn into a corner,
+
+00:07:00.049 --> 00:07:02.943
+we need to help
+our physicians and our nurses
+
+00:07:02.967 --> 00:07:06.563
+to see when things
+are starting to go wrong.
+
+00:07:06.587 --> 00:07:09.509
+So we have a very ambitious program.
+
+00:07:09.533 --> 00:07:14.245
+We think that the race is on to do
+something differently.
+
+00:07:14.269 --> 00:07:17.149
+We are thinking big.
+It's the right thing to do.
+
+00:07:17.173 --> 00:07:20.561
+We have an approach which,
+if it's successful,
+
+00:07:20.585 --> 00:07:23.205
+there's no reason why it
+should stay within a hospital.
+
+00:07:23.229 --> 00:07:24.933
+It can go beyond the walls.
+
+00:07:24.957 --> 00:07:27.004
+With wireless connectivity these days,
+
+00:07:27.028 --> 00:07:30.448
+there is no reason why
+patients, doctors and nurses
+
+00:07:30.472 --> 00:07:32.619
+always have to be in the same place
+
+00:07:32.643 --> 00:07:34.612
+at the same time.
+
+00:07:34.636 --> 00:07:38.607
+And meanwhile, we'll take
+our little three-month-old baby,
+
+00:07:38.631 --> 00:07:42.364
+keep taking it to the track,
+keeping it safe,
+
+00:07:42.388 --> 00:07:44.697
+and making it faster and better.
+
+00:07:44.721 --> 00:07:46.102
+Thank you very much.
+
+00:07:46.126 --> 00:07:51.080
+(Applause)

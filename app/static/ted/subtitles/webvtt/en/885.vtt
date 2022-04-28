@@ -1,0 +1,407 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+So, if you're in the audience today,
+
+00:00:02.000 --> 00:00:05.000
+or maybe you're watching this talk in some other time or place,
+
+00:00:05.000 --> 00:00:08.000
+you are a participant in the digital rights ecosystem.
+
+00:00:08.000 --> 00:00:10.000
+Whether you're an artist, a technologist,
+
+00:00:10.000 --> 00:00:12.000
+a lawyer or a fan,
+
+00:00:12.000 --> 00:00:15.000
+the handling of copyright directly impacts your life.
+
+00:00:15.000 --> 00:00:17.000
+Rights management is no longer
+
+00:00:17.000 --> 00:00:20.000
+simply a question of ownership,
+
+00:00:20.000 --> 00:00:22.000
+it's a complex web of relationships
+
+00:00:22.000 --> 00:00:25.000
+and a critical part of our cultural landscape.
+
+00:00:25.000 --> 00:00:28.000
+YouTube cares deeply about the rights of content owners,
+
+00:00:28.000 --> 00:00:30.000
+but in order to give them choices about what they can do
+
+00:00:30.000 --> 00:00:33.000
+with copies, mashups and more,
+
+00:00:33.000 --> 00:00:35.000
+we need to first identify
+
+00:00:35.000 --> 00:00:38.000
+when copyrighted material is uploaded to our site.
+
+00:00:38.000 --> 00:00:41.000
+Let's look at a specific video so you can see how it works.
+
+00:00:41.000 --> 00:00:43.000
+Two years ago, recording artist Chris Brown
+
+00:00:43.000 --> 00:00:46.000
+released the official video of his single "Forever."
+
+00:00:46.000 --> 00:00:48.000
+A fan saw it on TV,
+
+00:00:48.000 --> 00:00:50.000
+recorded it with her camera phone,
+
+00:00:50.000 --> 00:00:53.000
+and uploaded it to YouTube.
+
+00:00:53.000 --> 00:00:56.000
+Because Sony Music had registered Chris Brown's video
+
+00:00:56.000 --> 00:00:58.000
+in our Content ID system,
+
+00:00:58.000 --> 00:01:00.000
+within seconds of attempting to upload the video,
+
+00:01:00.000 --> 00:01:02.000
+the copy was detected,
+
+00:01:02.000 --> 00:01:05.000
+giving Sony the choice of what to do next.
+
+00:01:05.000 --> 00:01:08.000
+But how do we know that the user's video was a copy?
+
+00:01:08.000 --> 00:01:10.000
+Well, it starts with content owners
+
+00:01:10.000 --> 00:01:12.000
+delivering assets into our database,
+
+00:01:12.000 --> 00:01:14.000
+along with a usage policy
+
+00:01:14.000 --> 00:01:17.000
+that tells us what to do when we find a match.
+
+00:01:18.000 --> 00:01:20.000
+We compare each upload
+
+00:01:20.000 --> 00:01:23.000
+against all of the reference files in our database.
+
+00:01:23.000 --> 00:01:25.000
+This heat map is going to show you
+
+00:01:25.000 --> 00:01:27.000
+how the brain of the system works.
+
+00:01:27.000 --> 00:01:29.000
+Here we can see the original reference file
+
+00:01:29.000 --> 00:01:32.000
+being compared to the user generated content.
+
+00:01:33.000 --> 00:01:35.000
+The system compares every moment
+
+00:01:35.000 --> 00:01:37.000
+of one to the other to see if there's a match.
+
+00:01:37.000 --> 00:01:39.000
+This means that we can identify a match
+
+00:01:39.000 --> 00:01:42.000
+even if the copy used is just a portion of the original file,
+
+00:01:42.000 --> 00:01:44.000
+plays it in slow motion
+
+00:01:44.000 --> 00:01:47.000
+and has degraded audio and video quality.
+
+00:01:47.000 --> 00:01:49.000
+And we do this every time
+
+00:01:49.000 --> 00:01:51.000
+that a video is uploaded to YouTube.
+
+00:01:51.000 --> 00:01:54.000
+And that's over 20 hours of video every minute.
+
+00:01:54.000 --> 00:01:56.000
+When we find a match,
+
+00:01:56.000 --> 00:01:59.000
+we apply the policy that the rights owner has set down.
+
+00:02:00.000 --> 00:02:03.000
+And the scale and the speed of this system
+
+00:02:03.000 --> 00:02:05.000
+is truly breathtaking.
+
+00:02:05.000 --> 00:02:08.000
+We're not just talking about a few videos,
+
+00:02:08.000 --> 00:02:10.000
+we're talking about over
+
+00:02:10.000 --> 00:02:13.000
+100 years of video every day,
+
+00:02:13.000 --> 00:02:15.000
+between new uploads and the legacy scans
+
+00:02:15.000 --> 00:02:18.000
+we regularly do across all of the content on the site.
+
+00:02:19.000 --> 00:02:21.000
+When we compare those hundred years of video,
+
+00:02:21.000 --> 00:02:23.000
+we're comparing it against millions
+
+00:02:23.000 --> 00:02:25.000
+of reference files in our database.
+
+00:02:25.000 --> 00:02:27.000
+It would be like 36,000 people
+
+00:02:27.000 --> 00:02:30.000
+staring at 36,000 monitors
+
+00:02:30.000 --> 00:02:33.000
+each and every day, without so much as a coffee break.
+
+00:02:33.000 --> 00:02:36.000
+Now, what do we do when we find a match?
+
+00:02:36.000 --> 00:02:39.000
+Well, most rights owners, instead of blocking,
+
+00:02:39.000 --> 00:02:41.000
+will allow the copy to be published.
+
+00:02:41.000 --> 00:02:43.000
+And then they benefit through the exposure,
+
+00:02:43.000 --> 00:02:46.000
+advertising and linked sales.
+
+00:02:46.000 --> 00:02:48.000
+Remember Chris Brown's video "Forever"?
+
+00:02:48.000 --> 00:02:50.000
+Well, it had its day in the sun and then it dropped off the charts,
+
+00:02:50.000 --> 00:02:53.000
+and that looked like the end of the story,
+
+00:02:53.000 --> 00:02:55.000
+but sometime last year, a young couple got married.
+
+00:02:55.000 --> 00:02:57.000
+This is their wedding video.
+
+00:02:57.000 --> 00:02:59.000
+You may have seen it.
+
+00:02:59.000 --> 00:03:01.000
+(Music)
+
+00:03:01.000 --> 00:03:03.000
+What's amazing about this is,
+
+00:03:03.000 --> 00:03:05.000
+if the processional of the wedding was this much fun,
+
+00:03:05.000 --> 00:03:07.000
+can you imagine how much fun the reception must have been?
+
+00:03:07.000 --> 00:03:09.000
+I mean, who are these people?
+
+00:03:09.000 --> 00:03:12.000
+I totally want to go to that wedding.
+
+00:03:12.000 --> 00:03:14.000
+So their little wedding video went on
+
+00:03:14.000 --> 00:03:17.000
+to get over 40 million views.
+
+00:03:17.000 --> 00:03:19.000
+And instead of Sony blocking,
+
+00:03:19.000 --> 00:03:21.000
+they allowed the upload to occur.
+
+00:03:21.000 --> 00:03:23.000
+And they put advertising against it
+
+00:03:23.000 --> 00:03:25.000
+and linked from it to iTunes.
+
+00:03:25.000 --> 00:03:28.000
+And the song, 18 months old,
+
+00:03:28.000 --> 00:03:31.000
+went back to number four on the iTunes charts.
+
+00:03:31.000 --> 00:03:34.000
+So Sony is generating revenue from both of these.
+
+00:03:34.000 --> 00:03:36.000
+And Jill and Kevin, the happy couple,
+
+00:03:36.000 --> 00:03:38.000
+they came back from their honeymoon
+
+00:03:38.000 --> 00:03:40.000
+and found that their video had gone crazy viral.
+
+00:03:40.000 --> 00:03:43.000
+And they've ended up on a bunch of talk shows,
+
+00:03:43.000 --> 00:03:45.000
+and they've used it as an opportunity to make a difference.
+
+00:03:45.000 --> 00:03:48.000
+The video's inspired over 26,000 dollars in donations
+
+00:03:48.000 --> 00:03:50.000
+to end domestic violence.
+
+00:03:50.000 --> 00:03:53.000
+The "JK Wedding [Entrance] Dance" became so popular
+
+00:03:53.000 --> 00:03:56.000
+that NBC parodied it on the season finale of "The Office,"
+
+00:03:56.000 --> 00:03:58.000
+which just goes to show,
+
+00:03:58.000 --> 00:04:01.000
+it's truly an ecosystem of culture.
+
+00:04:01.000 --> 00:04:04.000
+Because it's not just amateurs borrowing from big studios,
+
+00:04:04.000 --> 00:04:07.000
+but sometimes big studios borrowing back.
+
+00:04:07.000 --> 00:04:10.000
+By empowering choice, we can create a culture of opportunity.
+
+00:04:10.000 --> 00:04:12.000
+And all it took to change things around
+
+00:04:12.000 --> 00:04:15.000
+was to allow for choice through rights identification.
+
+00:04:15.000 --> 00:04:18.000
+So why has no one ever solved this problem before?
+
+00:04:18.000 --> 00:04:20.000
+It's because it's a big problem,
+
+00:04:20.000 --> 00:04:22.000
+and it's complicated and messy.
+
+00:04:22.000 --> 00:04:24.000
+It's not uncommon for a single video
+
+00:04:24.000 --> 00:04:26.000
+to have multiple rights owners.
+
+00:04:26.000 --> 00:04:28.000
+There's musical labels.
+
+00:04:28.000 --> 00:04:30.000
+There's multiple music publishers.
+
+00:04:30.000 --> 00:04:32.000
+And each of these can vary by country.
+
+00:04:32.000 --> 00:04:34.000
+There's lots of cases
+
+00:04:34.000 --> 00:04:36.000
+where we have more than one work mashed together.
+
+00:04:36.000 --> 00:04:38.000
+So we have to manage many claims
+
+00:04:38.000 --> 00:04:40.000
+to the same video.
+
+00:04:40.000 --> 00:04:43.000
+YouTube's Content ID system addresses all of these cases.
+
+00:04:43.000 --> 00:04:45.000
+But the system only works through
+
+00:04:45.000 --> 00:04:47.000
+the participation of rights owners.
+
+00:04:47.000 --> 00:04:50.000
+If you have content that others are uploading to YouTube,
+
+00:04:50.000 --> 00:04:52.000
+you should register in the Content ID system,
+
+00:04:52.000 --> 00:04:54.000
+and then you'll have the choice
+
+00:04:54.000 --> 00:04:56.000
+about how your content is used.
+
+00:04:56.000 --> 00:04:59.000
+And think carefully about the policies that you attach to that content.
+
+00:04:59.000 --> 00:05:01.000
+By simply blocking all reuse,
+
+00:05:01.000 --> 00:05:03.000
+you'll miss out on new art forms,
+
+00:05:03.000 --> 00:05:05.000
+new audiences,
+
+00:05:05.000 --> 00:05:07.000
+new distribution channels
+
+00:05:07.000 --> 00:05:09.000
+and new revenue streams.
+
+00:05:09.000 --> 00:05:12.000
+But it's not just about dollars and impressions.
+
+00:05:12.000 --> 00:05:14.000
+Just look at all the joy
+
+00:05:14.000 --> 00:05:16.000
+that was spread through progressive rights management
+
+00:05:16.000 --> 00:05:18.000
+and new technology.
+
+00:05:18.000 --> 00:05:21.000
+And I think we can all agree that joy is definitely an idea worth spreading.
+
+00:05:21.000 --> 00:05:23.000
+Thank you.
+
+00:05:23.000 --> 00:05:25.000
+(Applause)
+

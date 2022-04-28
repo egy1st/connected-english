@@ -1,0 +1,1413 @@
+WEBVTT
+
+00:00:00.535 --> 00:00:03.980
+I am a computer science and engineering
+professor here at Carnegie Mellon,
+
+00:00:03.980 --> 00:00:08.228
+and my research focuses on
+usable privacy and security,
+
+00:00:08.228 --> 00:00:10.996
+and so my friends like to give me examples
+
+00:00:10.996 --> 00:00:13.198
+of their frustrations with computing systems,
+
+00:00:13.198 --> 00:00:16.552
+especially frustrations related to
+
+00:00:16.552 --> 00:00:20.664
+unusable privacy and security.
+
+00:00:20.664 --> 00:00:23.375
+So passwords are something that I hear a lot about.
+
+00:00:23.375 --> 00:00:26.255
+A lot of people are frustrated with passwords,
+
+00:00:26.255 --> 00:00:27.949
+and it's bad enough
+
+00:00:27.949 --> 00:00:30.593
+when you have to have one really good password
+
+00:00:30.593 --> 00:00:32.415
+that you can remember
+
+00:00:32.415 --> 00:00:35.309
+but nobody else is going to be able to guess.
+
+00:00:35.309 --> 00:00:36.946
+But what do you do when you have accounts
+
+00:00:36.946 --> 00:00:38.754
+on a hundred different systems
+
+00:00:38.754 --> 00:00:41.030
+and you're supposed to have a unique password
+
+00:00:41.030 --> 00:00:44.067
+for each of these systems?
+
+00:00:44.067 --> 00:00:46.251
+It's tough.
+
+00:00:46.251 --> 00:00:48.010
+At Carnegie Mellon, they used to make it
+
+00:00:48.010 --> 00:00:49.309
+actually pretty easy for us
+
+00:00:49.309 --> 00:00:51.046
+to remember our passwords.
+
+00:00:51.046 --> 00:00:53.449
+The password requirement up through 2009
+
+00:00:53.449 --> 00:00:55.828
+was just that you had to have a password
+
+00:00:55.828 --> 00:00:58.039
+with at least one character.
+
+00:00:58.039 --> 00:01:00.927
+Pretty easy. But then they changed things,
+
+00:01:00.927 --> 00:01:03.597
+and at the end of 2009, they announced
+
+00:01:03.597 --> 00:01:05.973
+that we were going to have a new policy,
+
+00:01:05.973 --> 00:01:07.836
+and this new policy required
+
+00:01:07.836 --> 00:01:10.517
+passwords that were at least eight characters long,
+
+00:01:10.517 --> 00:01:12.292
+with an uppercase letter, lowercase letter,
+
+00:01:12.292 --> 00:01:13.580
+a digit, a symbol,
+
+00:01:13.580 --> 00:01:16.218
+you couldn't use the same
+character more than three times,
+
+00:01:16.218 --> 00:01:18.652
+and it wasn't allowed to be in a dictionary.
+
+00:01:18.652 --> 00:01:20.834
+Now, when they implemented this new policy,
+
+00:01:20.834 --> 00:01:23.144
+a lot of people, my colleagues and friends,
+
+00:01:23.144 --> 00:01:24.998
+came up to me and they said, "Wow,
+
+00:01:24.998 --> 00:01:26.510
+now that's really unusable.
+
+00:01:26.510 --> 00:01:27.703
+Why are they doing this to us,
+
+00:01:27.703 --> 00:01:29.414
+and why didn't you stop them?"
+
+00:01:29.414 --> 00:01:30.770
+And I said, "Well, you know what?
+
+00:01:30.770 --> 00:01:32.278
+They didn't ask me."
+
+00:01:32.278 --> 00:01:35.743
+But I got curious, and I decided to go talk
+
+00:01:35.743 --> 00:01:37.680
+to the people in charge of our computer systems
+
+00:01:37.680 --> 00:01:40.511
+and find out what led them to introduce
+
+00:01:40.511 --> 00:01:42.359
+this new policy,
+
+00:01:42.359 --> 00:01:43.943
+and they said that the university
+
+00:01:43.943 --> 00:01:46.309
+had joined a consortium of universities,
+
+00:01:46.309 --> 00:01:48.943
+and one of the requirements of membership
+
+00:01:48.943 --> 00:01:51.191
+was that we had to have stronger passwords
+
+00:01:51.191 --> 00:01:53.463
+that complied with some new requirements,
+
+00:01:53.463 --> 00:01:55.567
+and these requirements were that our passwords
+
+00:01:55.567 --> 00:01:57.171
+had to have a lot of entropy.
+
+00:01:57.171 --> 00:01:59.449
+Now entropy is a complicated term,
+
+00:01:59.449 --> 00:02:02.247
+but basically it measures the strength of passwords.
+
+00:02:02.247 --> 00:02:04.226
+But the thing is, there isn't actually
+
+00:02:04.226 --> 00:02:06.175
+a standard measure of entropy.
+
+00:02:06.175 --> 00:02:08.574
+Now, the National Institute
+of Standards and Technology
+
+00:02:08.574 --> 00:02:10.127
+has a set of guidelines
+
+00:02:10.127 --> 00:02:12.695
+which have some rules of thumb
+
+00:02:12.695 --> 00:02:14.135
+for measuring entropy,
+
+00:02:14.135 --> 00:02:17.030
+but they don't have anything too specific,
+
+00:02:17.030 --> 00:02:19.367
+and the reason they only have rules of thumb
+
+00:02:19.367 --> 00:02:22.503
+is it turns out they don't actually have any good data
+
+00:02:22.503 --> 00:02:24.023
+on passwords.
+
+00:02:24.023 --> 00:02:26.335
+In fact, their report states,
+
+00:02:26.335 --> 00:02:28.663
+"Unfortunately, we do not have much data
+
+00:02:28.663 --> 00:02:31.505
+on the passwords users
+choose under particular rules.
+
+00:02:31.505 --> 00:02:33.838
+NIST would like to obtain more data
+
+00:02:33.838 --> 00:02:36.300
+on the passwords users actually choose,
+
+00:02:36.300 --> 00:02:38.763
+but system administrators
+are understandably reluctant
+
+00:02:38.763 --> 00:02:41.703
+to reveal password data to others."
+
+00:02:41.703 --> 00:02:44.800
+So this is a problem, but our research group
+
+00:02:44.800 --> 00:02:46.940
+looked at it as an opportunity.
+
+00:02:46.940 --> 00:02:50.040
+We said, "Well, there's a need
+for good password data.
+
+00:02:50.040 --> 00:02:52.188
+Maybe we can collect some good password data
+
+00:02:52.188 --> 00:02:54.892
+and actually advance the state of the art here.
+
+00:02:54.892 --> 00:02:56.564
+So the first thing we did is,
+
+00:02:56.564 --> 00:02:58.120
+we got a bag of candy bars
+
+00:02:58.120 --> 00:02:59.206
+and we walked around campus
+
+00:02:59.206 --> 00:03:02.004
+and talked to students, faculty and staff,
+
+00:03:02.004 --> 00:03:03.534
+and asked them for information
+
+00:03:03.534 --> 00:03:05.086
+about their passwords.
+
+00:03:05.086 --> 00:03:08.090
+Now we didn't say, "Give us your password."
+
+00:03:08.090 --> 00:03:10.751
+No, we just asked them about their password.
+
+00:03:10.751 --> 00:03:12.229
+How long is it? Does it have a digit?
+
+00:03:12.229 --> 00:03:13.297
+Does it have a symbol?
+
+00:03:13.297 --> 00:03:15.342
+And were you annoyed at having to create
+
+00:03:15.342 --> 00:03:18.086
+a new one last week?
+
+00:03:18.086 --> 00:03:21.292
+So we got results from 470 students,
+
+00:03:21.292 --> 00:03:22.263
+faculty and staff,
+
+00:03:22.263 --> 00:03:24.777
+and indeed we confirmed that the new policy
+
+00:03:24.777 --> 00:03:26.230
+was very annoying,
+
+00:03:26.230 --> 00:03:28.022
+but we also found that people said
+
+00:03:28.022 --> 00:03:31.152
+they felt more secure with these new passwords.
+
+00:03:31.152 --> 00:03:33.458
+We found that most people knew
+
+00:03:33.458 --> 00:03:35.610
+they were not supposed to
+write their password down,
+
+00:03:35.610 --> 00:03:38.001
+and only 13 percent of them did,
+
+00:03:38.001 --> 00:03:40.417
+but disturbingly, 80 percent of people
+
+00:03:40.417 --> 00:03:42.541
+said they were reusing their password.
+
+00:03:42.541 --> 00:03:44.337
+Now, this is actually more dangerous
+
+00:03:44.337 --> 00:03:46.359
+than writing your password down,
+
+00:03:46.359 --> 00:03:49.920
+because it makes you much
+more susceptible to attackers.
+
+00:03:49.920 --> 00:03:53.038
+So if you have to, write your passwords down,
+
+00:03:53.038 --> 00:03:54.837
+but don't reuse them.
+
+00:03:54.837 --> 00:03:56.588
+We also found some interesting things
+
+00:03:56.588 --> 00:03:59.549
+about the symbols people use in passwords.
+
+00:03:59.549 --> 00:04:02.348
+So CMU allows 32 possible symbols,
+
+00:04:02.348 --> 00:04:04.781
+but as you can see, there's only a small number
+
+00:04:04.781 --> 00:04:06.583
+that most people are using,
+
+00:04:06.583 --> 00:04:09.524
+so we're not actually getting very much strength
+
+00:04:09.524 --> 00:04:11.990
+from the symbols in our passwords.
+
+00:04:11.990 --> 00:04:14.701
+So this was a really interesting study,
+
+00:04:14.701 --> 00:04:17.165
+and now we had data from 470 people,
+
+00:04:17.165 --> 00:04:18.470
+but in the scheme of things,
+
+00:04:18.470 --> 00:04:21.050
+that's really not very much password data,
+
+00:04:21.050 --> 00:04:22.495
+and so we looked around to see
+
+00:04:22.495 --> 00:04:25.055
+where could we find additional password data?
+
+00:04:25.055 --> 00:04:27.231
+So it turns out there are a lot of people
+
+00:04:27.231 --> 00:04:29.433
+going around stealing passwords,
+
+00:04:29.433 --> 00:04:31.910
+and they often go and post these passwords
+
+00:04:31.910 --> 00:04:33.247
+on the Internet.
+
+00:04:33.247 --> 00:04:34.920
+So we were able to get access
+
+00:04:34.920 --> 00:04:38.890
+to some of these stolen password sets.
+
+00:04:38.890 --> 00:04:41.218
+This is still not really ideal for research, though,
+
+00:04:41.218 --> 00:04:43.255
+because it's not entirely clear
+
+00:04:43.255 --> 00:04:45.439
+where all of these passwords came from,
+
+00:04:45.439 --> 00:04:47.681
+or exactly what policies were in effect
+
+00:04:47.681 --> 00:04:49.789
+when people created these passwords.
+
+00:04:49.789 --> 00:04:53.341
+So we wanted to find some better source of data.
+
+00:04:53.341 --> 00:04:54.975
+So we decided that one thing we could do
+
+00:04:54.975 --> 00:04:57.104
+is we could do a study and have people
+
+00:04:57.104 --> 00:05:00.344
+actually create passwords for our study.
+
+00:05:00.344 --> 00:05:03.165
+So we used a service called
+Amazon Mechanical Turk,
+
+00:05:03.165 --> 00:05:05.499
+and this is a service where you can post
+
+00:05:05.499 --> 00:05:07.803
+a small job online that takes a minute,
+
+00:05:07.803 --> 00:05:09.303
+a few minutes, an hour,
+
+00:05:09.303 --> 00:05:11.887
+and pay people, a penny, ten cents, a few dollars,
+
+00:05:11.887 --> 00:05:13.233
+to do a task for you,
+
+00:05:13.233 --> 00:05:15.355
+and then you pay them through Amazon.com.
+
+00:05:15.355 --> 00:05:17.649
+So we paid people about 50 cents
+
+00:05:17.649 --> 00:05:20.245
+to create a password following our rules
+
+00:05:20.245 --> 00:05:21.655
+and answering a survey,
+
+00:05:21.655 --> 00:05:24.180
+and then we paid them again to come back
+
+00:05:24.180 --> 00:05:26.251
+two days later and log in
+
+00:05:26.251 --> 00:05:28.825
+using their password and answering another survey.
+
+00:05:28.825 --> 00:05:33.289
+So we did this, and we collected 5,000 passwords,
+
+00:05:33.289 --> 00:05:35.984
+and we gave people a bunch of different policies
+
+00:05:35.984 --> 00:05:37.492
+to create passwords with.
+
+00:05:37.492 --> 00:05:39.402
+So some people had a pretty easy policy,
+
+00:05:39.402 --> 00:05:40.941
+we call it Basic8,
+
+00:05:40.941 --> 00:05:43.087
+and here the only rule was that your password
+
+00:05:43.087 --> 00:05:46.503
+had to have at least eight characters.
+
+00:05:46.503 --> 00:05:48.754
+Then some people had a much harder policy,
+
+00:05:48.754 --> 00:05:51.291
+and this was very similar to the CMU policy,
+
+00:05:51.291 --> 00:05:53.225
+that it had to have eight characters
+
+00:05:53.225 --> 00:05:55.601
+including uppercase, lowercase, digit, symbol,
+
+00:05:55.601 --> 00:05:57.990
+and pass a dictionary check.
+
+00:05:57.990 --> 00:05:59.325
+And one of the other policies we tried,
+
+00:05:59.325 --> 00:06:00.595
+and there were a whole bunch more,
+
+00:06:00.595 --> 00:06:02.835
+but one of the ones we tried was called Basic16,
+
+00:06:02.835 --> 00:06:05.467
+and the only requirement here
+
+00:06:05.467 --> 00:06:08.620
+was that your password had
+to have at least 16 characters.
+
+00:06:08.620 --> 00:06:11.078
+All right, so now we had 5,000 passwords,
+
+00:06:11.078 --> 00:06:14.641
+and so we had much more detailed information.
+
+00:06:14.641 --> 00:06:17.200
+Again we see that there's only a small number
+
+00:06:17.200 --> 00:06:19.115
+of symbols that people are actually using
+
+00:06:19.115 --> 00:06:21.001
+in their passwords.
+
+00:06:21.001 --> 00:06:23.600
+We also wanted to get an idea of how strong
+
+00:06:23.600 --> 00:06:26.371
+the passwords were that people were creating,
+
+00:06:26.371 --> 00:06:28.991
+but as you may recall, there isn't a good measure
+
+00:06:28.991 --> 00:06:30.745
+of password strength.
+
+00:06:30.745 --> 00:06:33.057
+So what we decided to do was to see
+
+00:06:33.057 --> 00:06:35.427
+how long it would take to crack these passwords
+
+00:06:35.427 --> 00:06:36.841
+using the best cracking tools
+
+00:06:36.841 --> 00:06:38.649
+that the bad guys are using,
+
+00:06:38.649 --> 00:06:40.665
+or that we could find information about
+
+00:06:40.665 --> 00:06:42.202
+in the research literature.
+
+00:06:42.202 --> 00:06:44.960
+So to give you an idea of how bad guys
+
+00:06:44.960 --> 00:06:47.130
+go about cracking passwords,
+
+00:06:47.130 --> 00:06:49.081
+they will steal a password file
+
+00:06:49.081 --> 00:06:51.234
+that will have all of the passwords
+
+00:06:51.234 --> 00:06:54.123
+in kind of a scrambled form, called a hash,
+
+00:06:54.123 --> 00:06:56.685
+and so what they'll do is they'll make a guess
+
+00:06:56.685 --> 00:06:58.397
+as to what a password is,
+
+00:06:58.397 --> 00:07:00.294
+run it through a hashing function,
+
+00:07:00.294 --> 00:07:02.059
+and see whether it matches
+
+00:07:02.059 --> 00:07:06.009
+the passwords they have on
+their stolen password list.
+
+00:07:06.009 --> 00:07:09.114
+So a dumb attacker will try every password in order.
+
+00:07:09.114 --> 00:07:12.682
+They'll start with AAAAA and move on to AAAAB,
+
+00:07:12.682 --> 00:07:15.100
+and this is going to take a really long time
+
+00:07:15.100 --> 00:07:16.626
+before they get any passwords
+
+00:07:16.626 --> 00:07:19.323
+that people are really likely to actually have.
+
+00:07:19.323 --> 00:07:21.506
+A smart attacker, on the other hand,
+
+00:07:21.506 --> 00:07:22.892
+does something much more clever.
+
+00:07:22.892 --> 00:07:24.718
+They look at the passwords
+
+00:07:24.718 --> 00:07:26.518
+that are known to be popular
+
+00:07:26.518 --> 00:07:28.245
+from these stolen password sets,
+
+00:07:28.245 --> 00:07:29.434
+and they guess those first.
+
+00:07:29.434 --> 00:07:31.568
+So they're going to start by guessing "password,"
+
+00:07:31.568 --> 00:07:34.319
+and then they'll guess "I love you," and "monkey,"
+
+00:07:34.319 --> 00:07:36.902
+and "12345678,"
+
+00:07:36.902 --> 00:07:38.214
+because these are the passwords
+
+00:07:38.214 --> 00:07:40.119
+that are most likely for people to have.
+
+00:07:40.119 --> 00:07:43.380
+In fact, some of you probably have these passwords.
+
+00:07:45.191 --> 00:07:46.489
+So what we found
+
+00:07:46.489 --> 00:07:49.895
+by running all of these 5,000 passwords we collected
+
+00:07:49.895 --> 00:07:54.001
+through these tests to see how strong they were,
+
+00:07:54.001 --> 00:07:56.753
+we found that the long passwords
+
+00:07:56.753 --> 00:07:58.033
+were actually pretty strong,
+
+00:07:58.033 --> 00:08:01.295
+and the complex passwords were pretty strong too.
+
+00:08:01.295 --> 00:08:03.737
+However, when we looked at the survey data,
+
+00:08:03.737 --> 00:08:06.761
+we saw that people were really frustrated
+
+00:08:06.761 --> 00:08:09.100
+by the very complex passwords,
+
+00:08:09.100 --> 00:08:11.730
+and the long passwords were a lot more usable,
+
+00:08:11.730 --> 00:08:13.055
+and in some cases, they were actually
+
+00:08:13.055 --> 00:08:15.963
+even stronger than the complex passwords.
+
+00:08:15.963 --> 00:08:17.132
+So this suggests that,
+
+00:08:17.132 --> 00:08:18.835
+instead of telling people that they need
+
+00:08:18.835 --> 00:08:20.357
+to put all these symbols and numbers
+
+00:08:20.357 --> 00:08:23.199
+and crazy things into their passwords,
+
+00:08:23.199 --> 00:08:25.221
+we might be better off just telling people
+
+00:08:25.221 --> 00:08:27.873
+to have long passwords.
+
+00:08:27.873 --> 00:08:29.665
+Now here's the problem, though:
+
+00:08:29.665 --> 00:08:31.920
+Some people had long passwords
+
+00:08:31.920 --> 00:08:33.475
+that actually weren't very strong.
+
+00:08:33.475 --> 00:08:35.472
+You can make long passwords
+
+00:08:35.472 --> 00:08:37.028
+that are still the sort of thing
+
+00:08:37.028 --> 00:08:38.770
+that an attacker could easily guess.
+
+00:08:38.770 --> 00:08:42.135
+So we need to do more than
+just say long passwords.
+
+00:08:42.135 --> 00:08:44.071
+There has to be some additional requirements,
+
+00:08:44.071 --> 00:08:47.040
+and some of our ongoing research is looking at
+
+00:08:47.040 --> 00:08:49.479
+what additional requirements we should add
+
+00:08:49.479 --> 00:08:51.583
+to make for stronger passwords
+
+00:08:51.583 --> 00:08:53.895
+that also are going to be easy for people
+
+00:08:53.895 --> 00:08:56.593
+to remember and type.
+
+00:08:56.593 --> 00:08:58.719
+Another approach to getting people to have
+
+00:08:58.719 --> 00:09:00.976
+stronger passwords is to use a password meter.
+
+00:09:00.976 --> 00:09:02.361
+Here are some examples.
+
+00:09:02.361 --> 00:09:03.762
+You may have seen these on the Internet
+
+00:09:03.762 --> 00:09:06.819
+when you were creating passwords.
+
+00:09:06.819 --> 00:09:09.067
+We decided to do a study to find out
+
+00:09:09.067 --> 00:09:11.954
+whether these password meters actually work.
+
+00:09:11.954 --> 00:09:13.375
+Do they actually help people
+
+00:09:13.375 --> 00:09:14.828
+have stronger passwords,
+
+00:09:14.828 --> 00:09:16.914
+and if so, which ones are better?
+
+00:09:16.914 --> 00:09:19.421
+So we tested password meters that were
+
+00:09:19.421 --> 00:09:21.519
+different sizes, shapes, colors,
+
+00:09:21.519 --> 00:09:22.935
+different words next to them,
+
+00:09:22.935 --> 00:09:26.210
+and we even tested one that was a dancing bunny.
+
+00:09:26.210 --> 00:09:27.792
+As you type a better password,
+
+00:09:27.792 --> 00:09:30.331
+the bunny dances faster and faster.
+
+00:09:30.331 --> 00:09:32.860
+So this was pretty fun.
+
+00:09:32.860 --> 00:09:34.427
+What we found
+
+00:09:34.427 --> 00:09:37.999
+was that password meters do work.
+
+00:09:37.999 --> 00:09:39.800
+(Laughter)
+
+00:09:39.800 --> 00:09:43.133
+Most of the password meters were actually effective,
+
+00:09:43.133 --> 00:09:45.654
+and the dancing bunny was very effective too,
+
+00:09:45.654 --> 00:09:48.535
+but the password meters that were the most effective
+
+00:09:48.535 --> 00:09:50.890
+were the ones that made you work harder
+
+00:09:50.890 --> 00:09:52.870
+before they gave you that thumbs up and said
+
+00:09:52.870 --> 00:09:54.247
+you were doing a good job,
+
+00:09:54.247 --> 00:09:55.759
+and in fact we found that most
+
+00:09:55.759 --> 00:09:58.040
+of the password meters on the Internet today
+
+00:09:58.040 --> 00:09:58.992
+are too soft.
+
+00:09:58.992 --> 00:10:01.195
+They tell you you're doing a good job too early,
+
+00:10:01.195 --> 00:10:03.124
+and if they would just wait a little bit
+
+00:10:03.124 --> 00:10:05.173
+before giving you that positive feedback,
+
+00:10:05.173 --> 00:10:08.333
+you probably would have better passwords.
+
+00:10:08.333 --> 00:10:12.180
+Now another approach to better passwords, perhaps,
+
+00:10:12.180 --> 00:10:15.070
+is to use pass phrases instead of passwords.
+
+00:10:15.070 --> 00:10:18.488
+So this was an xkcd cartoon 
+from a couple of years ago,
+
+00:10:18.488 --> 00:10:20.162
+and the cartoonist suggests
+
+00:10:20.162 --> 00:10:22.358
+that we should all use pass phrases,
+
+00:10:22.358 --> 00:10:25.528
+and if you look at the second row of this cartoon,
+
+00:10:25.528 --> 00:10:27.385
+you can see the cartoonist is suggesting
+
+00:10:27.385 --> 00:10:30.826
+that the pass phrase "correct horse battery staple"
+
+00:10:30.826 --> 00:10:33.307
+would be a very strong pass phrase
+
+00:10:33.307 --> 00:10:35.223
+and something really easy to remember.
+
+00:10:35.223 --> 00:10:38.020
+He says, in fact, you've already remembered it.
+
+00:10:38.020 --> 00:10:40.170
+And so we decided to do a research study
+
+00:10:40.170 --> 00:10:42.762
+to find out whether this was true or not.
+
+00:10:42.762 --> 00:10:44.537
+In fact, everybody who I talk to,
+
+00:10:44.537 --> 00:10:46.579
+who I mention I'm doing password research,
+
+00:10:46.579 --> 00:10:47.979
+they point out this cartoon.
+
+00:10:47.979 --> 00:10:49.553
+"Oh, have you seen it? That xkcd.
+
+00:10:49.553 --> 00:10:51.155
+Correct horse battery staple."
+
+00:10:51.155 --> 00:10:52.961
+So we did the research study to see
+
+00:10:52.961 --> 00:10:55.320
+what would actually happen.
+
+00:10:55.320 --> 00:10:58.380
+So in our study, we used Mechanical Turk again,
+
+00:10:58.380 --> 00:11:02.547
+and we had the computer pick the random words
+
+00:11:02.547 --> 00:11:03.647
+in the pass phrase.
+
+00:11:03.647 --> 00:11:04.800
+Now the reason we did this
+
+00:11:04.800 --> 00:11:06.386
+is that humans are not very good
+
+00:11:06.386 --> 00:11:07.770
+at picking random words.
+
+00:11:07.770 --> 00:11:09.032
+If we asked a human to do it,
+
+00:11:09.032 --> 00:11:12.030
+they would pick things that were not very random.
+
+00:11:12.030 --> 00:11:14.062
+So we tried a few different conditions.
+
+00:11:14.062 --> 00:11:16.152
+In one condition, the computer picked
+
+00:11:16.152 --> 00:11:18.368
+from a dictionary of the very common words
+
+00:11:18.368 --> 00:11:19.730
+in the English language,
+
+00:11:19.730 --> 00:11:21.494
+and so you'd get pass phrases like
+
+00:11:21.494 --> 00:11:23.418
+"try there three come."
+
+00:11:23.418 --> 00:11:25.150
+And we looked at that, and we said,
+
+00:11:25.150 --> 00:11:28.200
+"Well, that doesn't really seem very memorable."
+
+00:11:28.200 --> 00:11:30.440
+So then we tried picking words
+
+00:11:30.440 --> 00:11:32.961
+that came from specific parts of speech,
+
+00:11:32.961 --> 00:11:35.143
+so how about noun-verb-adjective-noun.
+
+00:11:35.143 --> 00:11:37.720
+That comes up with something
+that's sort of sentence-like.
+
+00:11:37.720 --> 00:11:39.790
+So you can get a pass phrase like
+
+00:11:39.790 --> 00:11:41.098
+"plan builds sure power"
+
+00:11:41.098 --> 00:11:43.884
+or "end determines red drug."
+
+00:11:43.884 --> 00:11:46.560
+And these seemed a little bit more memorable,
+
+00:11:46.560 --> 00:11:49.382
+and maybe people would like those a little bit better.
+
+00:11:49.382 --> 00:11:51.954
+We wanted to compare them with passwords,
+
+00:11:51.954 --> 00:11:55.150
+and so we had the computer
+pick random passwords,
+
+00:11:55.150 --> 00:11:57.140
+and these were nice and short, but as you can see,
+
+00:11:57.140 --> 00:11:59.946
+they don't really look very memorable.
+
+00:11:59.946 --> 00:12:01.342
+And then we decided to try something called
+
+00:12:01.342 --> 00:12:02.988
+a pronounceable password.
+
+00:12:02.988 --> 00:12:05.233
+So here the computer picks random syllables
+
+00:12:05.233 --> 00:12:06.367
+and puts them together
+
+00:12:06.367 --> 00:12:08.842
+so you have something sort of pronounceable,
+
+00:12:08.842 --> 00:12:11.444
+like "tufritvi" and "vadasabi."
+
+00:12:11.444 --> 00:12:13.591
+That one kind of rolls off your tongue.
+
+00:12:13.591 --> 00:12:15.807
+So these were random passwords that were
+
+00:12:15.807 --> 00:12:18.551
+generated by our computer.
+
+00:12:18.551 --> 00:12:21.529
+So what we found in this study was that, surprisingly,
+
+00:12:21.529 --> 00:12:25.297
+pass phrases were not actually all that good.
+
+00:12:25.297 --> 00:12:28.090
+People were not really better at remembering
+
+00:12:28.090 --> 00:12:31.043
+the pass phrases than these random passwords,
+
+00:12:31.043 --> 00:12:33.797
+and because the pass phrases are longer,
+
+00:12:33.797 --> 00:12:35.023
+they took longer to type
+
+00:12:35.023 --> 00:12:38.033
+and people made more errors while typing them in.
+
+00:12:38.033 --> 00:12:41.260
+So it's not really a clear win for pass phrases.
+
+00:12:41.260 --> 00:12:44.605
+Sorry, all of you xkcd fans.
+
+00:12:44.605 --> 00:12:46.497
+On the other hand, we did find
+
+00:12:46.497 --> 00:12:48.301
+that pronounceable passwords
+
+00:12:48.301 --> 00:12:49.772
+worked surprisingly well,
+
+00:12:49.772 --> 00:12:52.190
+and so we actually are doing some more research
+
+00:12:52.190 --> 00:12:55.385
+to see if we can make that
+approach work even better.
+
+00:12:55.385 --> 00:12:57.197
+So one of the problems
+
+00:12:57.197 --> 00:12:58.820
+with some of the studies that we've done
+
+00:12:58.820 --> 00:13:00.503
+is that because they're all done
+
+00:13:00.503 --> 00:13:02.093
+using Mechanical Turk,
+
+00:13:02.093 --> 00:13:03.905
+these are not people's real passwords.
+
+00:13:03.905 --> 00:13:06.010
+They're the passwords that they created
+
+00:13:06.010 --> 00:13:08.505
+or the computer created for them for our study.
+
+00:13:08.505 --> 00:13:10.073
+And we wanted to know whether people
+
+00:13:10.073 --> 00:13:12.385
+would actually behave the same way
+
+00:13:12.385 --> 00:13:14.612
+with their real passwords.
+
+00:13:14.612 --> 00:13:18.293
+So we talked to the information
+security office at Carnegie Mellon
+
+00:13:18.293 --> 00:13:22.096
+and asked them if we could
+have everybody's real passwords.
+
+00:13:22.096 --> 00:13:23.850
+Not surprisingly, they were a little bit reluctant
+
+00:13:23.850 --> 00:13:25.400
+to share them with us,
+
+00:13:25.400 --> 00:13:27.210
+but we were actually able to work out
+
+00:13:27.210 --> 00:13:28.250
+a system with them
+
+00:13:28.250 --> 00:13:30.359
+where they put all of the real passwords
+
+00:13:30.359 --> 00:13:33.450
+for 25,000 CMU students, faculty and staff,
+
+00:13:33.450 --> 00:13:35.898
+into a locked computer in a locked room,
+
+00:13:35.898 --> 00:13:37.292
+not connected to the Internet,
+
+00:13:37.292 --> 00:13:39.140
+and they ran code on it that we wrote
+
+00:13:39.140 --> 00:13:41.292
+to analyze these passwords.
+
+00:13:41.292 --> 00:13:42.618
+They audited our code.
+
+00:13:42.618 --> 00:13:43.930
+They ran the code.
+
+00:13:43.930 --> 00:13:45.668
+And so we never actually saw
+
+00:13:45.668 --> 00:13:48.485
+anybody's password.
+
+00:13:48.485 --> 00:13:50.000
+We got some interesting results,
+
+00:13:50.000 --> 00:13:51.696
+and those of you Tepper students in the back
+
+00:13:51.696 --> 00:13:54.571
+will be very interested in this.
+
+00:13:54.571 --> 00:13:58.302
+So we found that the passwords created
+
+00:13:58.302 --> 00:14:00.460
+by people affiliated with the
+school of computer science
+
+00:14:00.460 --> 00:14:02.784
+were actually 1.8 times stronger
+
+00:14:02.784 --> 00:14:06.522
+than those affiliated with the business school.
+
+00:14:06.522 --> 00:14:08.562
+We have lots of other really interesting
+
+00:14:08.562 --> 00:14:10.800
+demographic information as well.
+
+00:14:10.800 --> 00:14:12.646
+The other interesting thing that we found
+
+00:14:12.646 --> 00:14:15.086
+is that when we compared
+the Carnegie Mellon passwords
+
+00:14:15.086 --> 00:14:17.369
+to the Mechanical Turk-generated passwords,
+
+00:14:17.369 --> 00:14:19.988
+there was actually a lot of similarities,
+
+00:14:19.988 --> 00:14:21.936
+and so this helped validate our research method
+
+00:14:21.936 --> 00:14:24.446
+and show that actually, collecting passwords
+
+00:14:24.446 --> 00:14:26.254
+using these Mechanical Turk studies
+
+00:14:26.254 --> 00:14:29.042
+is actually a valid way to study passwords.
+
+00:14:29.042 --> 00:14:31.327
+So that was good news.
+
+00:14:31.327 --> 00:14:33.741
+Okay, I want to close by talking about
+
+00:14:33.741 --> 00:14:35.809
+some insights I gained while on sabbatical
+
+00:14:35.809 --> 00:14:39.010
+last year in the Carnegie Mellon art school.
+
+00:14:39.010 --> 00:14:40.291
+One of the things that I did
+
+00:14:40.291 --> 00:14:41.815
+is I made a number of quilts,
+
+00:14:41.815 --> 00:14:43.363
+and I made this quilt here.
+
+00:14:43.363 --> 00:14:45.262
+It's called "Security Blanket."
+
+00:14:45.262 --> 00:14:47.693
+(Laughter)
+
+00:14:47.693 --> 00:14:50.788
+And this quilt has the 1,000
+
+00:14:50.788 --> 00:14:53.116
+most frequent passwords stolen
+
+00:14:53.116 --> 00:14:55.687
+from the RockYou website.
+
+00:14:55.687 --> 00:14:57.748
+And the size of the passwords is proportional
+
+00:14:57.748 --> 00:14:59.649
+to how frequently they appeared
+
+00:14:59.649 --> 00:15:01.897
+in the stolen dataset.
+
+00:15:01.897 --> 00:15:04.529
+And what I did is I created this word cloud,
+
+00:15:04.529 --> 00:15:06.661
+and I went through all 1,000 words,
+
+00:15:06.661 --> 00:15:08.456
+and I categorized them into
+
+00:15:08.456 --> 00:15:10.836
+loose thematic categories.
+
+00:15:10.836 --> 00:15:12.739
+And it was, in some cases,
+
+00:15:12.739 --> 00:15:14.777
+it was kind of difficult to figure out
+
+00:15:14.777 --> 00:15:16.532
+what category they should be in,
+
+00:15:16.532 --> 00:15:18.431
+and then I color-coded them.
+
+00:15:18.431 --> 00:15:21.050
+So here are some examples of the difficulty.
+
+00:15:21.050 --> 00:15:22.231
+So "justin."
+
+00:15:22.231 --> 00:15:24.060
+Is that the name of the user,
+
+00:15:24.060 --> 00:15:25.382
+their boyfriend, their son?
+
+00:15:25.382 --> 00:15:28.270
+Maybe they're a Justin Bieber fan.
+
+00:15:28.270 --> 00:15:30.495
+Or "princess."
+
+00:15:30.495 --> 00:15:32.130
+Is that a nickname?
+
+00:15:32.130 --> 00:15:33.725
+Are they Disney princess fans?
+
+00:15:33.725 --> 00:15:37.419
+Or maybe that's the name of their cat.
+
+00:15:37.419 --> 00:15:39.074
+"Iloveyou" appears many times
+
+00:15:39.074 --> 00:15:40.619
+in many different languages.
+
+00:15:40.619 --> 00:15:44.354
+There's a lot of love in these passwords.
+
+00:15:44.354 --> 00:15:46.034
+If you look carefully, you'll see there's also
+
+00:15:46.034 --> 00:15:48.301
+some profanity,
+
+00:15:48.301 --> 00:15:50.251
+but it was really interesting to me to see
+
+00:15:50.251 --> 00:15:52.558
+that there's a lot more love than hate
+
+00:15:52.558 --> 00:15:54.850
+in these passwords.
+
+00:15:54.850 --> 00:15:56.340
+And there are animals,
+
+00:15:56.340 --> 00:15:57.700
+a lot of animals,
+
+00:15:57.700 --> 00:16:00.004
+and "monkey" is the most common animal
+
+00:16:00.004 --> 00:16:03.679
+and the 14th most popular password overall.
+
+00:16:03.679 --> 00:16:05.910
+And this was really curious to me,
+
+00:16:05.910 --> 00:16:08.433
+and I wondered, "Why are monkeys so popular?"
+
+00:16:08.433 --> 00:16:11.785
+And so in our last password study,
+
+00:16:11.785 --> 00:16:13.471
+any time we detected somebody
+
+00:16:13.471 --> 00:16:16.120
+creating a password with the word "monkey" in it,
+
+00:16:16.120 --> 00:16:19.150
+we asked them why they had
+a monkey in their password.
+
+00:16:19.150 --> 00:16:21.060
+And what we found out --
+
+00:16:21.060 --> 00:16:23.163
+we found 17 people so far, I think,
+
+00:16:23.163 --> 00:16:24.446
+who have the word "monkey" --
+
+00:16:24.446 --> 00:16:26.258
+We found out about a third of them said
+
+00:16:26.258 --> 00:16:27.998
+they have a pet named "monkey"
+
+00:16:27.998 --> 00:16:30.289
+or a friend whose nickname is "monkey,"
+
+00:16:30.289 --> 00:16:31.949
+and about a third of them said
+
+00:16:31.949 --> 00:16:33.482
+that they just like monkeys
+
+00:16:33.482 --> 00:16:35.120
+and monkeys are really cute.
+
+00:16:35.120 --> 00:16:38.759
+And that guy is really cute.
+
+00:16:38.759 --> 00:16:42.167
+So it seems that at the end of the day,
+
+00:16:42.167 --> 00:16:43.950
+when we make passwords,
+
+00:16:43.950 --> 00:16:45.924
+we either make something that's really easy
+
+00:16:45.924 --> 00:16:48.933
+to type, a common pattern,
+
+00:16:48.933 --> 00:16:51.419
+or things that remind us of the word password
+
+00:16:51.419 --> 00:16:54.731
+or the account that we've created the password for,
+
+00:16:54.731 --> 00:16:57.348
+or whatever.
+
+00:16:57.348 --> 00:16:59.990
+Or we think about things that make us happy,
+
+00:16:59.990 --> 00:17:01.294
+and we create our password
+
+00:17:01.294 --> 00:17:03.532
+based on things that make us happy.
+
+00:17:03.532 --> 00:17:06.395
+And while this makes typing
+
+00:17:06.395 --> 00:17:09.265
+and remembering your password more fun,
+
+00:17:09.265 --> 00:17:11.072
+it also makes it a lot easier
+
+00:17:11.072 --> 00:17:12.578
+to guess your password.
+
+00:17:12.578 --> 00:17:14.326
+So I know a lot of these TED Talks
+
+00:17:14.326 --> 00:17:15.960
+are inspirational
+
+00:17:15.960 --> 00:17:18.421
+and they make you think about nice, happy things,
+
+00:17:18.421 --> 00:17:20.318
+but when you're creating your password,
+
+00:17:20.318 --> 00:17:22.309
+try to think about something else.
+
+00:17:22.309 --> 00:17:23.416
+Thank you.
+
+00:17:23.416 --> 00:17:23.969
+(Applause)
+

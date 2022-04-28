@@ -1,0 +1,596 @@
+WEBVTT
+
+00:00:00.583 --> 00:00:03.786
+The Earth needs no introduction.
+
+00:00:03.786 --> 00:00:08.596
+It needs no introduction in part 
+because the Apollo 17 astronauts,
+
+00:00:08.596 --> 00:00:11.324
+when they were hurtling 
+around the moon in 1972,
+
+00:00:11.324 --> 00:00:15.396
+took this iconic image.
+
+00:00:15.396 --> 00:00:18.875
+It galvanized a whole 
+generation of human beings
+
+00:00:18.875 --> 00:00:21.553
+to realize that we're on 
+Spaceship Earth,
+
+00:00:21.553 --> 00:00:23.840
+fragile and finite as it is,
+
+
+00:00:23.840 --> 00:00:25.643
+and that we need 
+to take care of it.
+
+00:00:25.643 --> 00:00:28.624
+But while this picture
+is beautiful, it's static,
+
+00:00:28.624 --> 00:00:31.177
+and the Earth is constantly changing.
+
+00:00:31.177 --> 00:00:34.676
+It's changing on days' time
+scales with human activity.
+
+00:00:34.676 --> 00:00:37.975
+And the satellite imagery we 
+have of it today is old.
+
+00:00:37.975 --> 00:00:40.470
+Typically, years old.
+
+00:00:40.470 --> 00:00:44.735
+And that's important because
+you can't fix what you can't see.
+
+00:00:44.735 --> 00:00:49.595
+What we'd ideally want is images
+of the whole planet every day.
+
+00:00:49.595 --> 00:00:51.871
+So, what's standing in our way?
+
+00:00:51.871 --> 00:00:53.882
+What's the problem?
+
+00:00:53.882 --> 00:00:55.908
+This is the problem:
+
+00:00:55.908 --> 00:01:00.191
+Satellites are big, expensive 
+and they're slow.
+
+00:01:00.191 --> 00:01:02.332
+This one weighs three tons.
+
+00:01:02.332 --> 00:01:05.097
+It's six meters tall, four meters wide.
+
+00:01:05.097 --> 00:01:08.330
+It took up the entire fairing
+of a rocket just to launch it.
+
+00:01:08.330 --> 00:01:10.180
+One satellite, one rocket.
+
+00:01:10.180 --> 00:01:13.380
+It cost 855 million dollars.
+
+00:01:13.380 --> 00:01:15.614
+Satellites like these have 
+done an amazing job
+
+00:01:15.614 --> 00:01:18.730
+at helping us to understand our planet.
+
+00:01:18.730 --> 00:01:22.356
+But if we want to understand 
+it much more regularly,
+
+00:01:22.356 --> 00:01:24.402
+we need lots of satellites,
+
+00:01:24.402 --> 00:01:26.373
+and this model isn't scalable.
+
+00:01:26.373 --> 00:01:28.476
+So me and my friends, 
+we started Planet Labs
+
+00:01:28.476 --> 00:01:30.562
+to make satellites ultra-compact
+
+
+00:01:30.562 --> 00:01:32.849
+and small and highly capable.
+
+00:01:32.849 --> 00:01:37.860
+I'm going to show you what 
+our satellite looks like:
+
+00:01:40.363 --> 00:01:42.900
+This is our satellite.
+
+00:01:42.900 --> 00:01:44.863
+This is not a scale model,
+
+
+00:01:44.863 --> 00:01:46.371
+this is the real size.
+
+00:01:46.371 --> 00:01:48.757
+It's 10 by 10 by 30 centimeters,
+
+00:01:48.757 --> 00:01:51.046
+it weighs four kilograms,
+
+00:01:51.046 --> 00:01:53.583
+and we've stuffed the latest 
+and greatest electronics
+
+00:01:53.583 --> 00:01:55.840
+and sensor systems into 
+this little package
+
+00:01:55.840 --> 00:01:57.884
+so that even though this is really small,
+
+00:01:57.884 --> 00:02:02.977
+this can take pictures 10 times the
+resolution of the big satellite here,
+
+00:02:02.977 --> 00:02:07.387
+even though it weighs one 
+thousandth of the mass.
+
+00:02:07.387 --> 00:02:11.140
+And we call this satellite 
+"Dove" — Thank you.
+
+00:02:11.140 --> 00:02:13.435
+(Applause)
+
+00:02:13.435 --> 00:02:15.480
+We call this satellite "Dove,"
+
+00:02:15.480 --> 00:02:18.499
+and we call it "Dove" because 
+satellites are typically named
+
+00:02:18.499 --> 00:02:20.865
+after birds, but normally birds of prey:
+
+00:02:20.865 --> 00:02:23.702
+like Eagle, Hawk, Swoop, 
+Kill, I don't know,
+
+00:02:23.702 --> 00:02:25.417
+Kestrel, these sort of things.
+
+00:02:25.417 --> 00:02:27.342
+But ours have a 
+humanitarian mission,
+
+00:02:27.342 --> 00:02:29.175
+so we wanted to call them Doves.
+
+00:02:29.175 --> 00:02:31.109
+And we haven't just 
+built them, though.
+
+00:02:31.109 --> 00:02:32.450
+We've launched them.
+
+00:02:32.450 --> 00:02:35.568
+And not just one, but many.
+
+00:02:38.586 --> 00:02:40.953
+It all started in our garage.
+
+00:02:40.953 --> 00:02:43.767
+Yes, we built our first satellite
+prototype in our garage.
+
+00:02:43.767 --> 00:02:46.984
+Now, this is pretty normal for a
+Silicon Valley company that we are,
+
+00:02:46.984 --> 00:02:49.927
+but we believe it's the first time 
+for a space company.
+
+00:02:49.927 --> 00:02:53.395
+And that's not the only trick
+we learned from Silicon Valley.
+
+00:02:53.395 --> 00:02:56.587
+We rapidly prototype our satellites.
+
+00:02:56.587 --> 00:02:59.472
+We use "release early, 
+release often" on our software.
+
+00:02:59.472 --> 00:03:01.389
+And we take a different 
+risk approach.
+
+00:03:01.389 --> 00:03:03.392
+We take them outside and test them.
+
+00:03:03.392 --> 00:03:06.281
+We even put satellites in space
+just to test the satellites,
+
+00:03:06.281 --> 00:03:09.144
+and we've learned to manufacture
+our satellites at scale.
+
+00:03:09.144 --> 00:03:11.210
+We've used modern production techniques
+
+00:03:11.210 --> 00:03:13.923
+so we can build large numbers of them,
+
+00:03:13.923 --> 00:03:16.120
+I think for the first time.
+
+00:03:16.120 --> 00:03:19.120
+We call it agile aerospace,
+
+00:03:19.120 --> 00:03:24.808
+and that's what's enabled us to put
+so much capability into this little box.
+
+00:03:24.808 --> 00:03:29.300
+Now, what has bonded 
+our team over the years
+
+00:03:29.300 --> 00:03:34.436
+is the idea of democratizing
+access to satellite information.
+
+00:03:34.436 --> 00:03:37.221
+In fact, the founders of our 
+company, Chris, Robbie and I,
+
+00:03:37.221 --> 00:03:39.526
+we met over 15 years ago 
+at the United Nations
+
+00:03:39.526 --> 00:03:42.511
+when they were hosting a conference 
+about exactly that question:
+
+00:03:42.511 --> 00:03:44.180
+How do you use satellites 
+to help humanity?
+
+00:03:44.180 --> 00:03:45.932
+How do you use satellites to help 
+people in developing countries
+
+00:03:45.932 --> 00:03:47.939
+or with climate change?
+
+00:03:47.939 --> 00:03:50.405
+And this is what has bonded us.
+
+00:03:50.405 --> 00:03:54.970
+Our entire team is passionate about
+using satellites to help humanity.
+
+00:03:54.970 --> 00:03:56.747
+You could say 
+we're space geeks,
+
+00:03:56.747 --> 00:03:59.284
+but not only do we care 
+about what's up there,
+
+00:03:59.284 --> 00:04:01.376
+we care about what's down here, too.
+
+00:04:01.376 --> 00:04:03.102
+I'm going to show you a video
+
+00:04:03.102 --> 00:04:05.561
+from just four weeks ago 
+of two of our satellites
+
+00:04:05.561 --> 00:04:08.450
+being launched from the
+International Space Station.
+
+00:04:08.450 --> 00:04:10.240
+This is not an animation, 
+
+
+00:04:10.240 --> 00:04:13.490
+this is a video taken by the astronaut 
+looking out of the window.
+
+00:04:13.490 --> 00:04:16.479
+It gives you a bit of a sense of 
+scale of our two satellites.
+
+00:04:16.479 --> 00:04:18.796
+It's like some of the 
+smallest satellites ever
+
+00:04:18.796 --> 00:04:21.290
+are being launched from 
+the biggest satellite ever.
+
+00:04:21.290 --> 00:04:23.872
+And right at the end, the
+solar array glints in the sun.
+
+00:04:23.872 --> 00:04:26.241
+It's really cool. Wait for it.
+
+00:04:26.241 --> 00:04:29.854
+Boom! Yeah. It's the money shot.
+
+00:04:29.854 --> 00:04:31.864
+(Laughter)
+
+00:04:31.864 --> 00:04:34.875
+So we didn't just launch 
+two of them like this,
+
+00:04:34.875 --> 00:04:36.601
+we launched 28 of them.
+
+00:04:36.601 --> 00:04:40.214
+It's the largest constellation of
+Earth-imaging satellites in human history,
+
+00:04:40.214 --> 00:04:43.463
+and it's going to provide a
+completely radical new data set
+
+00:04:43.463 --> 00:04:45.467
+about our changing planet.
+
+00:04:45.467 --> 00:04:47.695
+But that's just the beginning.
+
+00:04:47.695 --> 00:04:50.777
+You see, we're going to launch
+more than 100 of these satellites
+
+00:04:50.777 --> 00:04:53.031
+like these over the 
+course of the next year.
+
+00:04:53.031 --> 00:04:56.680
+It's going to be the largest constellation
+of satellites in human history.
+
+00:04:56.680 --> 00:04:58.337
+And this is what it's going to do:
+
+00:04:58.337 --> 00:05:01.896
+Acting in a single-orbit plane that 
+stays fixed with respect to the sun,
+
+00:05:01.896 --> 00:05:03.569
+the Earth rotates underneath.
+
+00:05:03.569 --> 00:05:05.864
+They're all cameras pointed down,
+
+00:05:05.864 --> 00:05:08.833
+and they slowly scan across as 
+the Earth rotates underneath.
+
+00:05:08.833 --> 00:05:10.957
+The Earth rotates every 24 hours,
+
+00:05:10.957 --> 00:05:13.929
+so we scan every point on the 
+planet every 24 hours.
+
+00:05:13.929 --> 00:05:16.180
+It's a line scanner for the planet.
+
+00:05:16.180 --> 00:05:19.634
+We don't take a picture of 
+anywhere on the planet every day,
+
+00:05:19.634 --> 00:05:22.820
+we take a picture of every single
+place on the planet every day.
+
+00:05:22.820 --> 00:05:25.513
+Even though we launched these
+just a couple of weeks ago,
+
+00:05:25.513 --> 00:05:28.278
+we've already got some initial
+imagery from the satellites
+
+00:05:28.278 --> 00:05:31.694
+and I'm going to show it
+publicly for the first time right now.
+
+00:05:31.694 --> 00:05:34.504
+This is the very first picture
+taken by our satellite.
+
+00:05:34.504 --> 00:05:36.500
+It happened to be over 
+UC-Davis' campus
+
+00:05:36.500 --> 00:05:38.544
+in California when we 
+turned the camera on.
+
+00:05:38.544 --> 00:05:40.073
+But what's even cooler is when
+
+00:05:40.073 --> 00:05:43.200
+we compare it to the previous
+latest image of that area,
+
+00:05:43.200 --> 00:05:45.609
+which was taken many months ago.
+
+00:05:45.609 --> 00:05:48.174
+And the image on the left 
+is from our satellite,
+
+00:05:48.174 --> 00:05:50.221
+and we see buildings are being built.
+
+00:05:50.221 --> 00:05:54.210
+The general point is that we will be able
+to track urban growth as it happens
+
+00:05:54.210 --> 00:05:58.052
+around the whole world
+in all cities, every day.
+
+00:05:58.052 --> 00:05:59.579
+Water as well.
+
+00:05:59.579 --> 00:06:01.420
+Thank you.
+
+00:06:01.420 --> 00:06:02.987
+(Applause)
+
+00:06:02.987 --> 00:06:05.609
+We'll be able to see 
+the extent of all water bodies
+
+00:06:05.609 --> 00:06:08.820
+around the whole world every day
+and help water security.
+
+00:06:08.820 --> 00:06:10.992
+From water security 
+to food security.
+
+00:06:10.992 --> 00:06:13.495
+We'll see crops as they 
+grow in all the fields
+
+00:06:13.495 --> 00:06:16.520
+in every farmer's field around
+the planet every day.
+
+00:06:16.520 --> 00:06:19.423
+and help them to improve crop yield.
+
+00:06:19.423 --> 00:06:21.562
+This is a beautiful image that was taken
+
+00:06:21.562 --> 00:06:25.680
+just a few hours ago when the 
+satellite was flying over Argentina.
+
+00:06:25.680 --> 00:06:27.104
+The general point is
+
+00:06:27.104 --> 00:06:30.517
+there are probably hundreds and 
+thousands of applications of this data,
+
+00:06:30.517 --> 00:06:32.469
+I've mentioned a few, but there's others:
+
+00:06:32.469 --> 00:06:34.193
+deforestation, the ice caps melting.
+
+00:06:34.193 --> 00:06:37.480
+We can track all of these things,
+every tree on the planet every day.
+
+00:06:37.480 --> 00:06:40.598
+If you took the difference between
+today's image and yesterday's image,
+
+00:06:40.598 --> 00:06:44.674
+you'd see much of the world news —
+you'd see floods and fires and earthquakes.
+
+00:06:44.674 --> 00:06:48.283
+And we have decided, therefore, that the 
+best thing that we could do with our data
+
+00:06:48.283 --> 00:06:51.275
+is to ensure universal access to it.
+
+00:06:51.275 --> 00:06:53.400
+We want to ensure everyone can see it.
+
+00:06:53.400 --> 00:06:56.979
+Thank you. (Applause)
+
+00:06:56.979 --> 00:07:00.780
+We want to empower NGOs and 
+companies and scientists and journalists
+
+00:07:00.780 --> 00:07:04.253
+to be able to answer the questions
+that they have about the planet.
+
+00:07:04.254 --> 00:07:09.413
+We want to enable the developer community
+to run their apps on our data.
+
+00:07:09.413 --> 00:07:13.500
+In short, we want to democratize access
+to information about our planet.
+
+00:07:13.511 --> 00:07:16.311
+Which brings me back to this.
+
+00:07:16.311 --> 00:07:20.874
+You see, this will be an entirely
+new global data set.
+
+00:07:20.874 --> 00:07:22.801
+And we believe that together,
+
+00:07:22.801 --> 00:07:27.384
+we can help to take care 
+of our Spaceship Earth.
+
+00:07:27.384 --> 00:07:30.899
+And what I would like to leave
+you with is the following question:
+
+00:07:30.899 --> 00:07:35.170
+If you had access to imagery of the
+whole planet every single day,
+
+00:07:35.170 --> 00:07:36.804
+what would you do with that data?
+
+00:07:36.804 --> 00:07:38.412
+What problems would you solve?
+
+00:07:38.412 --> 00:07:40.382
+What exploration would you do?
+
+00:07:40.382 --> 00:07:42.474
+Well, I invite you to come
+and explore with us.
+
+00:07:42.474 --> 00:07:44.080
+Thank you very much.
+
+00:07:44.080 --> 00:08:16.180
+(Applause)
+

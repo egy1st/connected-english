@@ -1,0 +1,379 @@
+WEBVTT
+
+00:00:12.150 --> 00:00:14.150
+This may sound strange,
+
+00:00:14.150 --> 00:00:16.150
+but I'm a big fan of the concrete block.
+
+00:00:16.150 --> 00:00:19.150
+The first concrete blocks were manufactured in 1868
+
+00:00:19.150 --> 00:00:21.150
+with a very simple idea:
+
+00:00:21.150 --> 00:00:24.150
+modules made of cement of a fixed measurement
+
+00:00:24.150 --> 00:00:26.150
+that fit together.
+
+00:00:26.150 --> 00:00:28.150
+Very quickly concrete blocks became
+
+00:00:28.150 --> 00:00:31.150
+the most-used construction unit in the world.
+
+00:00:31.150 --> 00:00:33.150
+They enabled us to to build things that were larger than us,
+
+00:00:33.150 --> 00:00:35.150
+buildings, bridges,
+
+00:00:35.150 --> 00:00:37.150
+one brick at a time.
+
+00:00:37.150 --> 00:00:39.150
+Essentially concrete blocks had become
+
+00:00:39.150 --> 00:00:42.150
+the building block of our time.
+
+00:00:42.150 --> 00:00:44.150
+Almost a hundred years later in 1947,
+
+00:00:44.150 --> 00:00:46.150
+LEGO came up with this.
+
+00:00:46.150 --> 00:00:49.150
+It was called the Automatic Binding Brick.
+
+00:00:49.150 --> 00:00:51.150
+And in a few short years,
+
+00:00:51.150 --> 00:00:54.150
+LEGO bricks took place in every household.
+
+00:00:54.150 --> 00:00:57.150
+It's estimated that over 400 billion bricks have been produced --
+
+00:00:57.150 --> 00:01:00.150
+or 75 bricks for every person on the planet.
+
+00:01:00.150 --> 00:01:02.150
+You don't have to be an engineer
+
+00:01:02.150 --> 00:01:05.150
+to make beautiful houses, beautiful bridges, beautiful buildings.
+
+00:01:05.150 --> 00:01:07.150
+LEGO made it accessible.
+
+00:01:07.150 --> 00:01:10.150
+LEGO has essentially taken the concrete block, the building block of the world,
+
+00:01:10.150 --> 00:01:12.150
+and made it into the building block
+
+00:01:12.150 --> 00:01:14.150
+of our imagination.
+
+00:01:14.150 --> 00:01:16.150
+Meanwhile the exact same year,
+
+00:01:16.150 --> 00:01:19.150
+at Bell Labs the next revolution was about to be announced,
+
+00:01:19.150 --> 00:01:21.150
+the next building block.
+
+00:01:21.150 --> 00:01:23.150
+The transistor was a small plastic unit
+
+00:01:23.150 --> 00:01:25.150
+that would take us from a world
+
+00:01:25.150 --> 00:01:27.150
+of static bricks piled on top of each other
+
+00:01:27.150 --> 00:01:29.150
+to a world where everything was interactive.
+
+00:01:29.150 --> 00:01:31.150
+Like the concrete block,
+
+00:01:31.150 --> 00:01:33.150
+the transistor allows you to build
+
+00:01:33.150 --> 00:01:36.150
+much larger, more complex circuits, one brick at a time.
+
+00:01:36.150 --> 00:01:38.150
+But there's a main difference:
+
+00:01:38.150 --> 00:01:40.150
+The transistor was only for experts.
+
+00:01:40.150 --> 00:01:42.150
+I personally don't accept this,
+
+00:01:42.150 --> 00:01:44.150
+that the building block of our time
+
+00:01:44.150 --> 00:01:46.150
+is reserved for experts,
+
+00:01:46.150 --> 00:01:49.150
+so I decided to change that.
+
+00:01:49.150 --> 00:01:51.150
+Eight years ago when I was at the Media Lab,
+
+00:01:51.150 --> 00:01:53.150
+I started exploring this idea
+
+00:01:53.150 --> 00:01:55.150
+of how to put the power of engineers
+
+00:01:55.150 --> 00:01:57.150
+in the hands of artists and designers.
+
+00:01:57.150 --> 00:02:00.150
+A few years ago I started developing littleBits.
+
+00:02:00.150 --> 00:02:03.150
+Let me show you how they work.
+
+00:02:04.150 --> 00:02:07.150
+LittleBits are electronic modules
+
+00:02:07.150 --> 00:02:10.150
+with each one specific function.
+
+00:02:10.150 --> 00:02:12.150
+They're pre-engineered
+
+00:02:12.150 --> 00:02:15.150
+to be light, sound,
+
+00:02:15.150 --> 00:02:17.150
+motors and sensors.
+
+00:02:17.150 --> 00:02:19.150
+And the best part about it
+
+00:02:19.150 --> 00:02:22.150
+is they snap together with magnets.
+
+00:02:22.150 --> 00:02:25.150
+So you can't put them the wrong way.
+
+00:02:25.150 --> 00:02:27.150
+The bricks are color-coded.
+
+00:02:27.150 --> 00:02:30.150
+Green is output, blue is power,
+
+00:02:30.150 --> 00:02:32.150
+pink is input and orange is wire.
+
+00:02:32.150 --> 00:02:35.150
+So all you need to do is snap a blue to a green
+
+00:02:35.150 --> 00:02:38.150
+and very quickly you can start making larger circuits.
+
+00:02:38.150 --> 00:02:40.150
+You put a blue to a green,
+
+00:02:40.150 --> 00:02:42.150
+you can make light.
+
+00:02:42.150 --> 00:02:46.150
+You can put a knob in between
+
+00:02:46.150 --> 00:02:49.150
+and now you've made a little dimmer.
+
+00:02:49.150 --> 00:02:52.150
+Switch out the knob
+
+00:02:52.150 --> 00:02:54.150
+for a pulse module,
+
+00:02:54.150 --> 00:02:57.150
+which is here,
+
+00:02:57.150 --> 00:03:01.150
+and now you've made a little blinker.
+
+00:03:01.150 --> 00:03:03.150
+Add this buzzer
+
+00:03:03.150 --> 00:03:05.150
+for some extra punch
+
+00:03:05.150 --> 00:03:07.150
+and you've created a noise machine.
+
+00:03:07.150 --> 00:03:09.150
+I'm going to stop that.
+
+00:03:09.150 --> 00:03:12.150
+So beyond simple play,
+
+00:03:12.150 --> 00:03:14.150
+littleBits are actually pretty powerful.
+
+00:03:14.150 --> 00:03:17.150
+Instead of having to program, to wire, to solder,
+
+00:03:17.150 --> 00:03:19.150
+littleBits allow you to program
+
+00:03:19.150 --> 00:03:21.150
+using very simple intuitive gestures.
+
+00:03:21.150 --> 00:03:23.150
+So to make this blink faster or slower,
+
+00:03:23.150 --> 00:03:25.150
+you would just turn this knob
+
+00:03:25.150 --> 00:03:28.150
+and basically make it pulse faster or slower.
+
+00:03:28.150 --> 00:03:30.150
+The idea behind littleBits
+
+00:03:30.150 --> 00:03:32.150
+is that it's a growing library.
+
+00:03:32.150 --> 00:03:34.150
+We want to make every single interaction in the world
+
+00:03:34.150 --> 00:03:36.150
+into a ready-to-use brick.
+
+00:03:36.150 --> 00:03:38.150
+Lights, sounds, solar panels, motors --
+
+00:03:38.150 --> 00:03:40.150
+everything should be accessible.
+
+00:03:40.150 --> 00:03:43.150
+We've been giving littleBits to kids and seeing them play with them.
+
+00:03:43.150 --> 00:03:45.150
+And it's been an incredible experience.
+
+00:03:45.150 --> 00:03:47.150
+The nicest thing is how they start to understand
+
+00:03:47.150 --> 00:03:49.150
+the electronics around them from everyday
+
+00:03:49.150 --> 00:03:51.150
+that they don't learn at schools.
+
+00:03:51.150 --> 00:03:53.150
+For example, how a nightlight works,
+
+00:03:53.150 --> 00:03:55.150
+or why an elevator door stays open,
+
+00:03:55.150 --> 00:03:58.150
+or how an iPod responds to touch.
+
+00:03:58.150 --> 00:04:00.150
+We've also been taking littleBits to design schools.
+
+00:04:00.150 --> 00:04:03.150
+So for example, we've had designers
+
+00:04:03.150 --> 00:04:05.150
+with no experience with electronics whatsoever
+
+00:04:05.150 --> 00:04:08.150
+start to play with littleBits as a material.
+
+00:04:08.150 --> 00:04:11.150
+Here you see, with felt and paper water bottles,
+
+00:04:11.150 --> 00:04:13.150
+we have Geordie making ...
+
+00:04:13.150 --> 00:04:15.150
+(Clanging)
+
+00:04:15.150 --> 00:04:17.150
+(Buzzing)
+
+00:04:17.150 --> 00:04:20.150
+A few weeks ago we took littleBits to RISD
+
+00:04:20.150 --> 00:04:22.150
+and gave them to some designers
+
+00:04:22.150 --> 00:04:24.150
+with no experience in engineering whatsoever --
+
+00:04:24.150 --> 00:04:27.150
+just cardboard, wood and paper -- and told them "Make something."
+
+00:04:27.150 --> 00:04:29.150
+Here's an example of a project they made,
+
+00:04:29.150 --> 00:04:32.150
+a motion-activated confetti canon ball.
+
+00:04:32.150 --> 00:04:34.150
+(Laughter)
+
+00:04:34.150 --> 00:04:38.150
+But wait, this is actually my favorite project.
+
+00:04:38.150 --> 00:04:41.150
+It's a lobster made of playdough
+
+00:04:43.150 --> 00:04:45.150
+that's afraid of the dark.
+
+00:04:45.150 --> 00:04:49.150
+(Laughter)
+
+00:04:49.150 --> 00:04:52.150
+To these non-engineers, littleBits became another material,
+
+00:04:52.150 --> 00:04:54.150
+electronics became just another material.
+
+00:04:54.150 --> 00:04:57.150
+And we want to make this material accessible to everyone.
+
+00:04:57.150 --> 00:04:59.150
+So littleBits is open-source.
+
+00:04:59.150 --> 00:05:02.150
+You can go on the website, download all the design files, make them yourself.
+
+00:05:02.150 --> 00:05:04.150
+We want to encourage a world
+
+00:05:04.150 --> 00:05:07.150
+of creators, of inventors, of contributors,
+
+00:05:07.150 --> 00:05:09.150
+because this world that we live in,
+
+00:05:09.150 --> 00:05:11.150
+this interactive world, is ours.
+
+00:05:11.150 --> 00:05:13.150
+So go ahead and start inventing.
+
+00:05:13.150 --> 00:05:15.150
+Thank you.
+
+00:05:15.150 --> 00:05:18.150
+(Applause)

@@ -1,0 +1,1055 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+Last year, I told you the story, in seven minutes, of Project Orion,
+
+00:00:04.000 --> 00:00:06.000
+which was this very implausible technology
+
+00:00:06.000 --> 00:00:10.000
+that technically could have worked,
+
+00:00:10.000 --> 00:00:14.000
+but it had this one-year political window where it could have happened.
+
+00:00:14.000 --> 00:00:16.000
+So it didn't happen. It was a dream that did not happen.
+
+00:00:16.000 --> 00:00:21.000
+This year I'm going to tell you the story of the birth of digital computing.
+
+00:00:21.000 --> 00:00:23.000
+This was a perfect introduction.
+
+00:00:23.000 --> 00:00:25.000
+And it's a story that did work. It did happen,
+
+00:00:25.000 --> 00:00:27.000
+and the machines are all around us.
+
+00:00:27.000 --> 00:00:31.000
+And it was a technology that was inevitable.
+
+00:00:31.000 --> 00:00:33.000
+If the people I'm going to tell you the story about,
+
+00:00:33.000 --> 00:00:35.000
+if they hadn't done it, somebody else would have.
+
+00:00:35.000 --> 00:00:39.000
+So, it was sort of the right idea at the right time.
+
+00:00:39.000 --> 00:00:42.000
+This is Barricelli's universe. This is the universe we live in now.
+
+00:00:42.000 --> 00:00:44.000
+It's the universe in which these machines
+
+00:00:44.000 --> 00:00:50.000
+are now doing all these things, including changing biology.
+
+00:00:50.000 --> 00:00:55.000
+I'm starting the story with the first atomic bomb at Trinity,
+
+00:00:55.000 --> 00:00:57.000
+which was the Manhattan Project. It was a little bit like TED:
+
+00:00:57.000 --> 00:01:00.000
+it brought a whole lot of very smart people together.
+
+00:01:00.000 --> 00:01:02.000
+And three of the smartest people were
+
+00:01:02.000 --> 00:01:06.000
+Stan Ulam, Richard Feynman and John von Neumann.
+
+00:01:06.000 --> 00:01:08.000
+And it was Von Neumann who said, after the bomb,
+
+00:01:08.000 --> 00:01:12.000
+he was working on something much more important than bombs:
+
+00:01:12.000 --> 00:01:14.000
+he's thinking about computers.
+
+00:01:14.000 --> 00:01:18.000
+So, he wasn't only thinking about them; he built one. This is the machine he built.
+
+00:01:18.000 --> 00:01:22.000
+(Laughter)
+
+00:01:22.000 --> 00:01:24.000
+He built this machine,
+
+00:01:24.000 --> 00:01:27.000
+and we had a beautiful demonstration of how this thing really works,
+
+00:01:27.000 --> 00:01:30.000
+with these little bits. And it's an idea that goes way back.
+
+00:01:30.000 --> 00:01:33.000
+The first person to really explain that
+
+00:01:33.000 --> 00:01:36.000
+was Thomas Hobbes, who, in 1651,
+
+00:01:36.000 --> 00:01:39.000
+explained how arithmetic and logic are the same thing,
+
+00:01:39.000 --> 00:01:42.000
+and if you want to do artificial thinking and artificial logic,
+
+00:01:42.000 --> 00:01:44.000
+you can do it all with arithmetic.
+
+00:01:44.000 --> 00:01:48.000
+He said you needed addition and subtraction.
+
+00:01:48.000 --> 00:01:52.000
+Leibniz, who came a little bit later -- this is 1679 --
+
+00:01:52.000 --> 00:01:54.000
+showed that you didn't even need subtraction.
+
+00:01:54.000 --> 00:01:56.000
+You could do the whole thing with addition.
+
+00:01:56.000 --> 00:01:59.000
+Here, we have all the binary arithmetic and logic
+
+00:01:59.000 --> 00:02:01.000
+that drove the computer revolution.
+
+00:02:01.000 --> 00:02:05.000
+And Leibniz was the first person to really talk about building such a machine.
+
+00:02:05.000 --> 00:02:07.000
+He talked about doing it with marbles,
+
+00:02:07.000 --> 00:02:09.000
+having gates and what we now call shift registers,
+
+00:02:09.000 --> 00:02:12.000
+where you shift the gates, drop the marbles down the tracks.
+
+00:02:12.000 --> 00:02:14.000
+And that's what all these machines are doing,
+
+00:02:14.000 --> 00:02:16.000
+except, instead of doing it with marbles,
+
+00:02:16.000 --> 00:02:18.000
+they're doing it with electrons.
+
+00:02:18.000 --> 00:02:22.000
+And then we jump to Von Neumann, 1945,
+
+00:02:22.000 --> 00:02:24.000
+when he sort of reinvents the whole same thing.
+
+00:02:24.000 --> 00:02:27.000
+And 1945, after the war, the electronics existed
+
+00:02:27.000 --> 00:02:30.000
+to actually try and build such a machine.
+
+00:02:30.000 --> 00:02:34.000
+So June 1945 -- actually, the bomb hasn't even been dropped yet --
+
+00:02:34.000 --> 00:02:38.000
+and Von Neumann is putting together all the theory to actually build this thing,
+
+00:02:38.000 --> 00:02:40.000
+which also goes back to Turing,
+
+00:02:40.000 --> 00:02:43.000
+who, before that, gave the idea that you could do all this
+
+00:02:43.000 --> 00:02:47.000
+with a very brainless, little, finite state machine,
+
+00:02:47.000 --> 00:02:50.000
+just reading a tape in and reading a tape out.
+
+00:02:50.000 --> 00:02:53.000
+The other sort of genesis of what Von Neumann did
+
+00:02:53.000 --> 00:02:57.000
+was the difficulty of how you would predict the weather.
+
+00:02:57.000 --> 00:03:01.000
+Lewis Richardson saw how you could do this with a cellular array of people,
+
+00:03:01.000 --> 00:03:04.000
+giving them each a little chunk, and putting it together.
+
+00:03:04.000 --> 00:03:07.000
+Here, we have an electrical model illustrating a mind having a will,
+
+00:03:07.000 --> 00:03:09.000
+but capable of only two ideas.
+
+00:03:09.000 --> 00:03:10.000
+(Laughter)
+
+00:03:10.000 --> 00:03:13.000
+And that's really the simplest computer.
+
+00:03:13.000 --> 00:03:15.000
+It's basically why you need the qubit,
+
+00:03:15.000 --> 00:03:17.000
+because it only has two ideas.
+
+00:03:17.000 --> 00:03:19.000
+And you put lots of those together,
+
+00:03:19.000 --> 00:03:22.000
+you get the essentials of the modern computer:
+
+00:03:22.000 --> 00:03:25.000
+the arithmetic unit, the central control, the memory,
+
+00:03:25.000 --> 00:03:28.000
+the recording medium, the input and the output.
+
+00:03:28.000 --> 00:03:32.000
+But, there's one catch. This is the fatal -- you know,
+
+00:03:32.000 --> 00:03:35.000
+we saw it in starting these programs up.
+
+00:03:35.000 --> 00:03:37.000
+The instructions which govern this operation
+
+00:03:37.000 --> 00:03:39.000
+must be given in absolutely exhaustive detail.
+
+00:03:39.000 --> 00:03:42.000
+So, the programming has to be perfect, or it won't work.
+
+00:03:42.000 --> 00:03:44.000
+If you look at the origins of this,
+
+00:03:44.000 --> 00:03:48.000
+the classic history sort of takes it all back to the ENIAC here.
+
+00:03:48.000 --> 00:03:50.000
+But actually, the machine I'm going to tell you about,
+
+00:03:50.000 --> 00:03:53.000
+the Institute for Advanced Study machine, which is way up there,
+
+00:03:53.000 --> 00:03:55.000
+really should be down there. So, I'm trying to revise history,
+
+00:03:55.000 --> 00:03:58.000
+and give some of these guys more credit than they've had.
+
+00:03:58.000 --> 00:04:00.000
+Such a computer would open up universes,
+
+00:04:00.000 --> 00:04:04.000
+which are, at the present, outside the range of any instruments.
+
+00:04:04.000 --> 00:04:07.000
+So it opens up a whole new world, and these people saw it.
+
+00:04:07.000 --> 00:04:09.000
+The guy who was supposed to build this machine
+
+00:04:09.000 --> 00:04:12.000
+was the guy in the middle, Vladimir Zworykin, from RCA.
+
+00:04:12.000 --> 00:04:15.000
+RCA, in probably one of the lousiest business decisions
+
+00:04:15.000 --> 00:04:18.000
+of all time, decided not to go into computers.
+
+00:04:18.000 --> 00:04:23.000
+But the first meetings, November 1945, were at RCA's offices.
+
+00:04:23.000 --> 00:04:27.000
+RCA started this whole thing off, and said, you know,
+
+00:04:27.000 --> 00:04:30.000
+televisions are the future, not computers.
+
+00:04:30.000 --> 00:04:32.000
+The essentials were all there --
+
+00:04:32.000 --> 00:04:36.000
+all the things that make these machines run.
+
+00:04:36.000 --> 00:04:39.000
+Von Neumann, and a logician, and a mathematician from the army
+
+00:04:39.000 --> 00:04:41.000
+put this together. Then, they needed a place to build it.
+
+00:04:41.000 --> 00:04:45.000
+When RCA said no, that's when they decided to build it in Princeton,
+
+00:04:45.000 --> 00:04:47.000
+where Freeman works at the Institute.
+
+00:04:47.000 --> 00:04:49.000
+That's where I grew up as a kid.
+
+00:04:49.000 --> 00:04:53.000
+That's me, that's my sister Esther, who's talked to you before,
+
+00:04:53.000 --> 00:04:56.000
+so we both go back to the birth of this thing.
+
+00:04:56.000 --> 00:04:58.000
+That's Freeman, a long time ago,
+
+00:04:58.000 --> 00:04:59.000
+and that was me.
+
+00:04:59.000 --> 00:05:02.000
+And this is Von Neumann and Morgenstern,
+
+00:05:02.000 --> 00:05:04.000
+who wrote the "Theory of Games."
+
+00:05:04.000 --> 00:05:08.000
+All these forces came together there, in Princeton.
+
+00:05:08.000 --> 00:05:10.000
+Oppenheimer, who had built the bomb.
+
+00:05:10.000 --> 00:05:14.000
+The machine was actually used mainly for doing bomb calculations.
+
+00:05:14.000 --> 00:05:16.000
+And Julian Bigelow, who took
+
+00:05:16.000 --> 00:05:20.000
+Zworkykin's place as the engineer, to actually figure out, using electronics,
+
+00:05:20.000 --> 00:05:23.000
+how you would build this thing. The whole gang of people who came to work on this,
+
+00:05:23.000 --> 00:05:28.000
+and women in front, who actually did most of the coding, were the first programmers.
+
+00:05:28.000 --> 00:05:32.000
+These were the prototype geeks, the nerds.
+
+00:05:32.000 --> 00:05:34.000
+They didn't fit in at the Institute.
+
+00:05:34.000 --> 00:05:37.000
+This is a letter from the director, concerned about --
+
+00:05:37.000 --> 00:05:40.000
+"especially unfair on the matter of sugar."
+
+00:05:40.000 --> 00:05:41.000
+(Laughter)
+
+00:05:41.000 --> 00:05:42.000
+You can read the text.
+
+00:05:42.000 --> 00:05:48.000
+(Laughter)
+
+00:05:48.000 --> 00:05:52.000
+This is hackers getting in trouble for the first time.
+
+00:05:52.000 --> 00:05:57.000
+(Laughter).
+
+00:05:57.000 --> 00:05:59.000
+These were not theoretical physicists.
+
+00:05:59.000 --> 00:06:04.000
+They were real soldering-gun type guys, and they actually built this thing.
+
+00:06:04.000 --> 00:06:06.000
+And we take it for granted now, that each of these machines
+
+00:06:06.000 --> 00:06:11.000
+has billions of transistors, doing billions of cycles per second without failing.
+
+00:06:11.000 --> 00:06:15.000
+They were using vacuum tubes, very narrow, sloppy techniques
+
+00:06:15.000 --> 00:06:20.000
+to get actually binary behavior out of these radio vacuum tubes.
+
+00:06:20.000 --> 00:06:23.000
+They actually used 6J6, the common radio tube,
+
+00:06:23.000 --> 00:06:27.000
+because they found they were more reliable than the more expensive tubes.
+
+00:06:27.000 --> 00:06:31.000
+And what they did at the Institute was publish every step of the way.
+
+00:06:31.000 --> 00:06:34.000
+Reports were issued, so that this machine was cloned
+
+00:06:34.000 --> 00:06:37.000
+at 15 other places around the world.
+
+00:06:37.000 --> 00:06:41.000
+And it really was. It was the original microprocessor.
+
+00:06:41.000 --> 00:06:43.000
+All the computers now are copies of that machine.
+
+00:06:43.000 --> 00:06:46.000
+The memory was in cathode ray tubes --
+
+00:06:46.000 --> 00:06:49.000
+a whole bunch of spots on the face of the tube --
+
+00:06:49.000 --> 00:06:52.000
+very, very sensitive to electromagnetic disturbances.
+
+00:06:52.000 --> 00:06:54.000
+So, there's 40 of these tubes,
+
+00:06:54.000 --> 00:06:57.000
+like a V-40 engine running the memory.
+
+00:06:57.000 --> 00:06:58.000
+(Laughter)
+
+00:06:58.000 --> 00:07:03.000
+The input and the output was by teletype tape at first.
+
+00:07:03.000 --> 00:07:05.000
+This is a wire drive, using bicycle wheels.
+
+00:07:05.000 --> 00:07:10.000
+This is the archetype of the hard disk that's in your machine now.
+
+00:07:10.000 --> 00:07:12.000
+Then they switched to a magnetic drum.
+
+00:07:12.000 --> 00:07:14.000
+This is modifying IBM equipment,
+
+00:07:14.000 --> 00:07:18.000
+which is the origins of the whole data-processing industry, later at IBM.
+
+00:07:18.000 --> 00:07:21.000
+And this is the beginning of computer graphics.
+
+00:07:21.000 --> 00:07:24.000
+The "Graph'g-Beam Turn On." This next slide,
+
+00:07:24.000 --> 00:07:31.000
+that's the -- as far as I know -- the first digital bitmap display, 1954.
+
+00:07:31.000 --> 00:07:34.000
+So, Von Neumann was already off in a theoretical cloud,
+
+00:07:34.000 --> 00:07:37.000
+doing abstract sorts of studies of how you could build
+
+00:07:37.000 --> 00:07:40.000
+reliable machines out of unreliable components.
+
+00:07:40.000 --> 00:07:42.000
+Those guys drinking all the tea with sugar in it
+
+00:07:42.000 --> 00:07:46.000
+were writing in their logbooks, trying to get this thing to work, with all
+
+00:07:46.000 --> 00:07:49.000
+these 2,600 vacuum tubes that failed half the time.
+
+00:07:49.000 --> 00:07:54.000
+And that's what I've been doing, this last six months, is going through the logs.
+
+00:07:54.000 --> 00:07:57.000
+"Running time: two minutes. Input, output: 90 minutes."
+
+00:07:57.000 --> 00:08:00.000
+This includes a large amount of human error.
+
+00:08:00.000 --> 00:08:03.000
+So they are always trying to figure out, what's machine error? What's human error?
+
+00:08:03.000 --> 00:08:05.000
+What's code, what's hardware?
+
+00:08:05.000 --> 00:08:07.000
+That's an engineer gazing at tube number 36,
+
+00:08:07.000 --> 00:08:09.000
+trying to figure out why the memory's not in focus.
+
+00:08:09.000 --> 00:08:12.000
+He had to focus the memory -- seems OK.
+
+00:08:12.000 --> 00:08:16.000
+So, he had to focus each tube just to get the memory up and running,
+
+00:08:16.000 --> 00:08:18.000
+let alone having, you know, software problems.
+
+00:08:18.000 --> 00:08:20.000
+"No use, went home." (Laughter)
+
+00:08:20.000 --> 00:08:23.000
+"Impossible to follow the damn thing, where's a directory?"
+
+00:08:23.000 --> 00:08:25.000
+So, already, they're complaining about the manuals:
+
+00:08:25.000 --> 00:08:29.000
+"before closing down in disgust ... "
+
+00:08:29.000 --> 00:08:31.000
+"The General Arithmetic: Operating Logs."
+
+00:08:31.000 --> 00:08:34.000
+Burning lots of midnight oil.
+
+00:08:34.000 --> 00:08:36.000
+"MANIAC," which became the acronym for the machine,
+
+00:08:36.000 --> 00:08:39.000
+Mathematical and Numerical Integrator and Calculator, "lost its memory."
+
+00:08:39.000 --> 00:08:45.000
+"MANIAC regained its memory, when the power went off." "Machine or human?"
+
+00:08:45.000 --> 00:08:48.000
+"Aha!" So, they figured out it's a code problem.
+
+00:08:48.000 --> 00:08:50.000
+"Found trouble in code, I hope."
+
+00:08:50.000 --> 00:08:53.000
+"Code error, machine not guilty."
+
+00:08:53.000 --> 00:08:56.000
+"Damn it, I can be just as stubborn as this thing."
+
+00:08:56.000 --> 00:09:01.000
+(Laughter)
+
+00:09:01.000 --> 00:09:03.000
+"And the dawn came." So they ran all night.
+
+00:09:03.000 --> 00:09:07.000
+Twenty-four hours a day, this thing was running, mainly running bomb calculations.
+
+00:09:07.000 --> 00:09:12.000
+"Everything up to this point is wasted time." "What's the use? Good night."
+
+00:09:12.000 --> 00:09:16.000
+"Master control off. The hell with it. Way off." (Laughter)
+
+00:09:16.000 --> 00:09:18.000
+"Something's wrong with the air conditioner --
+
+00:09:18.000 --> 00:09:21.000
+smell of burning V-belts in the air."
+
+00:09:21.000 --> 00:09:23.000
+"A short -- do not turn the machine on."
+
+00:09:23.000 --> 00:09:28.000
+"IBM machine putting a tar-like substance on the cards. The tar is from the roof."
+
+00:09:28.000 --> 00:09:30.000
+So they really were working under tough conditions.
+
+00:09:30.000 --> 00:09:31.000
+(Laughter)
+
+00:09:31.000 --> 00:09:33.000
+Here, "A mouse has climbed into the blower
+
+00:09:33.000 --> 00:09:37.000
+behind the regulator rack, set blower to vibrating. Result: no more mouse."
+
+00:09:37.000 --> 00:09:42.000
+(Laughter)
+
+00:09:42.000 --> 00:09:49.000
+"Here lies mouse. Born: ?. Died: 4:50 a.m., May 1953."
+
+00:09:49.000 --> 00:09:50.000
+(Laughter)
+
+00:09:50.000 --> 00:09:52.000
+There's an inside joke someone has penciled in:
+
+00:09:52.000 --> 00:09:54.000
+"Here lies Marston Mouse."
+
+00:09:54.000 --> 00:09:56.000
+If you're a mathematician, you get that,
+
+00:09:56.000 --> 00:09:57.000
+because Marston was a mathematician who
+
+00:09:57.000 --> 00:10:00.000
+objected to the computer being there.
+
+00:10:00.000 --> 00:10:04.000
+"Picked a lightning bug off the drum." "Running at two kilocycles."
+
+00:10:04.000 --> 00:10:06.000
+That's two thousand cycles per second --
+
+00:10:06.000 --> 00:10:09.000
+"yes, I'm chicken" -- so two kilocycles was slow speed.
+
+00:10:09.000 --> 00:10:12.000
+The high speed was 16 kilocycles.
+
+00:10:12.000 --> 00:10:15.000
+I don't know if you remember a Mac that was 16 Megahertz,
+
+00:10:15.000 --> 00:10:17.000
+that's slow speed.
+
+00:10:17.000 --> 00:10:20.000
+"I have now duplicated both results.
+
+00:10:20.000 --> 00:10:23.000
+How will I know which is right, assuming one result is correct?
+
+00:10:23.000 --> 00:10:25.000
+This now is the third different output.
+
+00:10:25.000 --> 00:10:27.000
+I know when I'm licked."
+
+00:10:27.000 --> 00:10:29.000
+(Laughter)
+
+00:10:29.000 --> 00:10:31.000
+"We've duplicated errors before."
+
+00:10:31.000 --> 00:10:34.000
+"Machine run, fine. Code isn't."
+
+00:10:34.000 --> 00:10:36.000
+"Only happens when the machine is running."
+
+00:10:36.000 --> 00:10:40.000
+And sometimes things are okay.
+
+00:10:40.000 --> 00:10:44.000
+"Machine a thing of beauty, and a joy forever." "Perfect running."
+
+00:10:44.000 --> 00:10:48.000
+"Parting thought: when there's bigger and better errors, we'll have them."
+
+00:10:48.000 --> 00:10:51.000
+So, nobody was supposed to know they were actually designing bombs.
+
+00:10:51.000 --> 00:10:53.000
+They're designing hydrogen bombs. But someone in the logbook,
+
+00:10:53.000 --> 00:10:55.000
+late one night, finally drew a bomb.
+
+00:10:55.000 --> 00:10:57.000
+So, that was the result. It was Mike,
+
+00:10:57.000 --> 00:11:00.000
+the first thermonuclear bomb, in 1952.
+
+00:11:00.000 --> 00:11:02.000
+That was designed on that machine,
+
+00:11:02.000 --> 00:11:04.000
+in the woods behind the Institute.
+
+00:11:04.000 --> 00:11:08.000
+So Von Neumann invited a whole gang of weirdos
+
+00:11:08.000 --> 00:11:11.000
+from all over the world to work on all these problems.
+
+00:11:11.000 --> 00:11:15.000
+Barricelli, he came to do what we now call, really, artificial life,
+
+00:11:15.000 --> 00:11:18.000
+trying to see if, in this artificial universe --
+
+00:11:18.000 --> 00:11:21.000
+he was a viral-geneticist, way, way, way ahead of his time.
+
+00:11:21.000 --> 00:11:24.000
+He's still ahead of some of the stuff that's being done now.
+
+00:11:24.000 --> 00:11:29.000
+Trying to start an artificial genetic system running in the computer.
+
+00:11:29.000 --> 00:11:32.000
+Began -- his universe started March 3, '53.
+
+00:11:32.000 --> 00:11:37.000
+So it's almost exactly -- it's 50 years ago next Tuesday, I guess.
+
+00:11:37.000 --> 00:11:39.000
+And he saw everything in terms of --
+
+00:11:39.000 --> 00:11:41.000
+he could read the binary code straight off the machine.
+
+00:11:41.000 --> 00:11:43.000
+He had a wonderful rapport.
+
+00:11:43.000 --> 00:11:46.000
+Other people couldn't get the machine running. It always worked for him.
+
+00:11:46.000 --> 00:11:48.000
+Even errors were duplicated.
+
+00:11:48.000 --> 00:11:49.000
+(Laughter)
+
+00:11:49.000 --> 00:11:52.000
+"Dr. Barricelli claims machine is wrong, code is right."
+
+00:11:52.000 --> 00:11:55.000
+So he designed this universe, and ran it.
+
+00:11:55.000 --> 00:11:58.000
+When the bomb people went home, he was allowed in there.
+
+00:11:58.000 --> 00:12:01.000
+He would run that thing all night long, running these things,
+
+00:12:01.000 --> 00:12:03.000
+if anybody remembers Stephen Wolfram,
+
+00:12:03.000 --> 00:12:05.000
+who reinvented this stuff.
+
+00:12:05.000 --> 00:12:07.000
+And he published it. It wasn't locked up and disappeared.
+
+00:12:07.000 --> 00:12:09.000
+It was published in the literature.
+
+00:12:09.000 --> 00:12:12.000
+"If it's that easy to create living organisms, why not create a few yourself?"
+
+00:12:12.000 --> 00:12:14.000
+So, he decided to give it a try,
+
+00:12:14.000 --> 00:12:18.000
+to start this artificial biology going in the machines.
+
+00:12:18.000 --> 00:12:20.000
+And he found all these, sort of --
+
+00:12:20.000 --> 00:12:22.000
+it was like a naturalist coming in
+
+00:12:22.000 --> 00:12:25.000
+and looking at this tiny, 5,000-byte universe,
+
+00:12:25.000 --> 00:12:27.000
+and seeing all these things happening
+
+00:12:27.000 --> 00:12:30.000
+that we see in the outside world, in biology.
+
+00:12:30.000 --> 00:12:36.000
+This is some of the generations of his universe.
+
+00:12:36.000 --> 00:12:38.000
+But they're just going to stay numbers;
+
+00:12:38.000 --> 00:12:40.000
+they're not going to become organisms.
+
+00:12:40.000 --> 00:12:41.000
+They have to have something.
+
+00:12:41.000 --> 00:12:43.000
+You have a genotype and you have to have a phenotype.
+
+00:12:43.000 --> 00:12:46.000
+They have to go out and do something. And he started doing that,
+
+00:12:46.000 --> 00:12:49.000
+started giving these little numerical organisms things they could play with --
+
+00:12:49.000 --> 00:12:51.000
+playing chess with other machines and so on.
+
+00:12:51.000 --> 00:12:53.000
+And they did start to evolve.
+
+00:12:53.000 --> 00:12:55.000
+And he went around the country after that.
+
+00:12:55.000 --> 00:12:59.000
+Every time there was a new, fast machine, he started using it,
+
+00:12:59.000 --> 00:13:01.000
+and saw exactly what's happening now.
+
+00:13:01.000 --> 00:13:07.000
+That the programs, instead of being turned off -- when you quit the program,
+
+00:13:07.000 --> 00:13:09.000
+you'd keep running
+
+00:13:09.000 --> 00:13:13.000
+and, basically, all the sorts of things like Windows is doing,
+
+00:13:13.000 --> 00:13:15.000
+running as a multi-cellular organism on many machines,
+
+00:13:15.000 --> 00:13:16.000
+he envisioned all that happening.
+
+00:13:16.000 --> 00:13:19.000
+And he saw that evolution itself was an intelligent process.
+
+00:13:19.000 --> 00:13:22.000
+It wasn't any sort of creator intelligence,
+
+00:13:22.000 --> 00:13:25.000
+but the thing itself was a giant parallel computation
+
+00:13:25.000 --> 00:13:27.000
+that would have some intelligence.
+
+00:13:27.000 --> 00:13:29.000
+And he went out of his way to say
+
+00:13:29.000 --> 00:13:32.000
+that he was not saying this was lifelike,
+
+00:13:32.000 --> 00:13:34.000
+or a new kind of life.
+
+00:13:34.000 --> 00:13:37.000
+It just was another version of the same thing happening.
+
+00:13:37.000 --> 00:13:40.000
+And there's really no difference between what he was doing in the computer
+
+00:13:40.000 --> 00:13:43.000
+and what nature did billions of years ago.
+
+00:13:43.000 --> 00:13:45.000
+And could you do it again now?
+
+00:13:45.000 --> 00:13:49.000
+So, when I went into these archives looking at this stuff, lo and behold,
+
+00:13:49.000 --> 00:13:51.000
+the archivist came up one day, saying,
+
+00:13:51.000 --> 00:13:54.000
+"I think we found another box that had been thrown out."
+
+00:13:54.000 --> 00:13:56.000
+And it was his universe on punch cards.
+
+00:13:56.000 --> 00:14:02.000
+So there it is, 50 years later, sitting there -- sort of suspended animation.
+
+00:14:02.000 --> 00:14:04.000
+That's the instructions for running --
+
+00:14:04.000 --> 00:14:06.000
+this is actually the source code
+
+00:14:06.000 --> 00:14:08.000
+for one of those universes,
+
+00:14:08.000 --> 00:14:10.000
+with a note from the engineers
+
+00:14:10.000 --> 00:14:11.000
+saying they're having some problems.
+
+00:14:11.000 --> 00:14:16.000
+"There must be something about this code that you haven't explained yet."
+
+00:14:16.000 --> 00:14:19.000
+And I think that's really the truth. We still don't understand
+
+00:14:19.000 --> 00:14:23.000
+how these very simple instructions can lead to increasing complexity.
+
+00:14:23.000 --> 00:14:25.000
+What's the dividing line between
+
+00:14:25.000 --> 00:14:29.000
+when that is lifelike and when it really is alive?
+
+00:14:29.000 --> 00:14:33.000
+These cards, now, thanks to me showing up, are being saved.
+
+00:14:33.000 --> 00:14:35.000
+And the question is, should we run them or not?
+
+00:14:35.000 --> 00:14:37.000
+You know, could we get them running?
+
+00:14:37.000 --> 00:14:38.000
+Do you want to let it loose on the Internet?
+
+00:14:38.000 --> 00:14:40.000
+These machines would think they --
+
+00:14:40.000 --> 00:14:43.000
+these organisms, if they came back to life now --
+
+00:14:43.000 --> 00:14:45.000
+whether they've died and gone to heaven, there's a universe.
+
+00:14:45.000 --> 00:14:50.000
+My laptop is 10 thousand million times
+
+00:14:50.000 --> 00:14:55.000
+the size of the universe that they lived in when Barricelli quit the project.
+
+00:14:55.000 --> 00:14:57.000
+He was thinking far ahead, to
+
+00:14:57.000 --> 00:15:00.000
+how this would really grow into a new kind of life.
+
+00:15:00.000 --> 00:15:02.000
+And that's what's happening!
+
+00:15:02.000 --> 00:15:04.000
+When Juan Enriquez told us about
+
+00:15:04.000 --> 00:15:08.000
+these 12 trillion bits being transferred back and forth,
+
+00:15:08.000 --> 00:15:12.000
+of all this genomics data going to the proteomics lab,
+
+00:15:12.000 --> 00:15:14.000
+that's what Barricelli imagined:
+
+00:15:14.000 --> 00:15:17.000
+that this digital code in these machines
+
+00:15:17.000 --> 00:15:19.000
+is actually starting to code --
+
+00:15:19.000 --> 00:15:22.000
+it already is coding from nucleic acids.
+
+00:15:22.000 --> 00:15:25.000
+We've been doing that since, you know, since we started PCR
+
+00:15:25.000 --> 00:15:31.000
+and synthesizing small strings of DNA.
+
+00:15:31.000 --> 00:15:34.000
+And real soon, we're actually going to be synthesizing the proteins,
+
+00:15:34.000 --> 00:15:39.000
+and, like Steve showed us, that just opens an entirely new world.
+
+00:15:39.000 --> 00:15:42.000
+It's a world that Von Neumann himself envisioned.
+
+00:15:42.000 --> 00:15:45.000
+This was published after he died: his sort of unfinished notes
+
+00:15:45.000 --> 00:15:47.000
+on self-reproducing machines,
+
+00:15:47.000 --> 00:15:50.000
+what it takes to get the machines sort of jump-started
+
+00:15:50.000 --> 00:15:52.000
+to where they begin to reproduce.
+
+00:15:52.000 --> 00:15:54.000
+It took really three people:
+
+00:15:54.000 --> 00:15:57.000
+Barricelli had the concept of the code as a living thing;
+
+00:15:57.000 --> 00:16:00.000
+Von Neumann saw how you could build the machines --
+
+00:16:00.000 --> 00:16:03.000
+that now, last count, four million
+
+00:16:03.000 --> 00:16:06.000
+of these Von Neumann machines is built every 24 hours;
+
+00:16:06.000 --> 00:16:10.000
+and Julian Bigelow, who died 10 days ago --
+
+00:16:10.000 --> 00:16:13.000
+this is John Markoff's obituary for him --
+
+00:16:13.000 --> 00:16:15.000
+he was the important missing link,
+
+00:16:15.000 --> 00:16:17.000
+the engineer who came in
+
+00:16:17.000 --> 00:16:20.000
+and knew how to put those vacuum tubes together and make it work.
+
+00:16:20.000 --> 00:16:22.000
+And all our computers have, inside them,
+
+00:16:22.000 --> 00:16:26.000
+the copies of the architecture that he had to just design
+
+00:16:26.000 --> 00:16:29.000
+one day, sort of on pencil and paper.
+
+00:16:29.000 --> 00:16:31.000
+And we owe a tremendous credit to that.
+
+00:16:31.000 --> 00:16:35.000
+And he explained, in a very generous way,
+
+00:16:35.000 --> 00:16:37.000
+the spirit that brought all these different people to
+
+00:16:37.000 --> 00:16:40.000
+the Institute for Advanced Study in the '40s to do this project,
+
+00:16:40.000 --> 00:16:43.000
+and make it freely available with no patents, no restrictions,
+
+00:16:43.000 --> 00:16:46.000
+no intellectual property disputes to the rest of the world.
+
+00:16:46.000 --> 00:16:49.000
+That's the last entry in the logbook
+
+00:16:49.000 --> 00:16:52.000
+when the machine was shut down, July 1958.
+
+00:16:52.000 --> 00:16:55.000
+And it's Julian Bigelow who was running it until midnight
+
+00:16:55.000 --> 00:16:57.000
+when the machine was officially turned off.
+
+00:16:57.000 --> 00:16:59.000
+And that's the end.
+
+00:16:59.000 --> 00:17:01.000
+Thank you very much.
+
+00:17:01.000 --> 00:17:02.000
+(Applause)
+

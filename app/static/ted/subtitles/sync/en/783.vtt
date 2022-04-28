@@ -1,0 +1,427 @@
+WEBVTT
+
+00:00:13.150 --> 00:00:15.150
+If I can leave you with one big idea today,
+
+00:00:15.150 --> 00:00:17.150
+it's that the whole of the data
+
+00:00:17.150 --> 00:00:19.150
+in which we consume
+
+00:00:19.150 --> 00:00:21.150
+is greater that the sum of the parts,
+
+00:00:21.150 --> 00:00:24.150
+and instead of thinking about information overload,
+
+00:00:24.150 --> 00:00:26.150
+what I'd like you to think about is how
+
+00:00:26.150 --> 00:00:29.150
+we can use information so that patterns pop
+
+00:00:29.150 --> 00:00:32.150
+and we can see trends that would otherwise be invisible.
+
+00:00:32.150 --> 00:00:35.150
+So what we're looking at right here is a typical mortality chart
+
+00:00:35.150 --> 00:00:37.150
+organized by age.
+
+00:00:37.150 --> 00:00:39.150
+This tool that I'm using here is a little experiment.
+
+00:00:39.150 --> 00:00:42.150
+It's called Pivot, and with Pivot what I can do
+
+00:00:42.150 --> 00:00:46.150
+is I can choose to filter in one particular cause of deaths -- say, accidents.
+
+00:00:46.150 --> 00:00:49.150
+And, right away, I see there's a different pattern that emerges.
+
+00:00:49.150 --> 00:00:51.150
+This is because, in the mid-area here,
+
+00:00:51.150 --> 00:00:53.150
+people are at their most active,
+
+00:00:53.150 --> 00:00:55.150
+and over here they're at their most frail.
+
+00:00:55.150 --> 00:00:57.150
+We can step back out again
+
+00:00:57.150 --> 00:00:59.150
+and then reorganize the data by cause of death,
+
+00:00:59.150 --> 00:01:02.150
+seeing that circulatory diseases and cancer
+
+00:01:02.150 --> 00:01:05.150
+are the usual suspects, but not for everyone.
+
+00:01:05.150 --> 00:01:08.150
+If we go ahead and we filter by age --
+
+00:01:08.150 --> 00:01:10.150
+say 40 years or less --
+
+00:01:10.150 --> 00:01:12.150
+we see that accidents are actually
+
+00:01:12.150 --> 00:01:15.150
+the greatest cause that people have to be worried about.
+
+00:01:15.150 --> 00:01:18.150
+And if you drill into that, it's especially the case for men.
+
+00:01:18.150 --> 00:01:20.150
+So you get the idea
+
+00:01:20.150 --> 00:01:23.150
+that viewing information, viewing data in this way,
+
+00:01:23.150 --> 00:01:25.150
+is a lot like swimming
+
+00:01:25.150 --> 00:01:28.150
+in a living information info-graphic.
+
+00:01:28.150 --> 00:01:30.150
+And if we can do this for raw data,
+
+00:01:30.150 --> 00:01:33.150
+why not do it for content as well?
+
+00:01:33.150 --> 00:01:35.150
+So what we have right here
+
+00:01:35.150 --> 00:01:38.150
+is the cover of every single Sports Illustrated
+
+00:01:38.150 --> 00:01:40.150
+ever produced.
+
+00:01:40.150 --> 00:01:42.150
+It's all here; it's all on the web.
+
+00:01:42.150 --> 00:01:45.150
+You can go back to your rooms and try this after my talk.
+
+00:01:45.150 --> 00:01:48.150
+With Pivot, you can drill into a decade.
+
+00:01:48.150 --> 00:01:50.150
+You can drill into a particular year.
+
+00:01:50.150 --> 00:01:53.150
+You can jump right into a specific issue.
+
+00:01:53.150 --> 00:01:55.150
+So I'm looking at this; I see the athletes
+
+00:01:55.150 --> 00:01:57.150
+that have appeared in this issue, the sports.
+
+00:01:57.150 --> 00:02:00.150
+I'm a Lance Armstrong fan, so I'll go ahead and I'll click on that,
+
+00:02:00.150 --> 00:02:02.150
+which reveals, for me, all the issues
+
+00:02:02.150 --> 00:02:04.150
+in which Lance Armstrong's been a part of.
+
+00:02:04.150 --> 00:02:07.150
+(Applause)
+
+00:02:07.150 --> 00:02:10.150
+Now, if I want to just kind of take a peek at these,
+
+00:02:10.150 --> 00:02:12.150
+I might think,
+
+00:02:12.150 --> 00:02:14.150
+"Well, what about taking a look at all of cycling?"
+
+00:02:14.150 --> 00:02:16.150
+So I can step back, and expand on that.
+
+00:02:16.150 --> 00:02:18.150
+And I see Greg LeMond now.
+
+00:02:18.150 --> 00:02:20.150
+And so you get the idea that when you
+
+00:02:20.150 --> 00:02:22.150
+navigate over information this way --
+
+00:02:22.150 --> 00:02:24.150
+going narrower, broader,
+
+00:02:24.150 --> 00:02:26.150
+backing in, backing out --
+
+00:02:26.150 --> 00:02:28.150
+you're not searching, you're not browsing.
+
+00:02:28.150 --> 00:02:30.150
+You're doing something that's actually a little bit different.
+
+00:02:30.150 --> 00:02:33.150
+It's in between, and we think it changes
+
+00:02:33.150 --> 00:02:35.150
+the way information can be used.
+
+00:02:35.150 --> 00:02:37.150
+So I want to extrapolate on this idea a bit
+
+00:02:37.150 --> 00:02:39.150
+with something that's a little bit crazy.
+
+00:02:39.150 --> 00:02:42.150
+What we're done here is we've taken every single Wikipedia page
+
+00:02:42.150 --> 00:02:45.150
+and we reduced it down to a little summary.
+
+00:02:45.150 --> 00:02:48.150
+So the summary consists of just a little synopsis
+
+00:02:48.150 --> 00:02:51.150
+and an icon to indicate the topical area that it comes from.
+
+00:02:51.150 --> 00:02:54.150
+I'm only showing the top 500
+
+00:02:54.150 --> 00:02:56.150
+most popular Wikipedia pages right here.
+
+00:02:56.150 --> 00:02:58.150
+But even in this limited view,
+
+00:02:58.150 --> 00:03:00.150
+we can do a lot of things.
+
+00:03:00.150 --> 00:03:02.150
+Right away, we get a sense of what are the topical domains
+
+00:03:02.150 --> 00:03:04.150
+that are most popular on Wikipedia.
+
+00:03:04.150 --> 00:03:06.150
+I'm going to go ahead and select government.
+
+00:03:06.150 --> 00:03:09.150
+Now, having selected government,
+
+00:03:09.150 --> 00:03:11.150
+I can now see that the Wikipedia categories
+
+00:03:11.150 --> 00:03:13.150
+that most frequently correspond to that
+
+00:03:13.150 --> 00:03:16.150
+are Time magazine People of the Year.
+
+00:03:16.150 --> 00:03:19.150
+So this is really important because this is an insight
+
+00:03:19.150 --> 00:03:22.150
+that was not contained within any one Wikipedia page.
+
+00:03:22.150 --> 00:03:24.150
+It's only possible to see that insight
+
+00:03:24.150 --> 00:03:27.150
+when you step back and look at all of them.
+
+00:03:27.150 --> 00:03:29.150
+Looking at one of these particular summaries,
+
+00:03:29.150 --> 00:03:32.150
+I can then drill into the concept of
+
+00:03:32.150 --> 00:03:34.150
+Time magazine Person of the Year,
+
+00:03:34.150 --> 00:03:36.150
+bringing up all of them.
+
+00:03:36.150 --> 00:03:38.150
+So looking at these people,
+
+00:03:38.150 --> 00:03:41.150
+I can see that the majority come from government;
+
+00:03:42.150 --> 00:03:45.150
+some have come from natural sciences;
+
+00:03:46.150 --> 00:03:49.150
+some, fewer still, have come from business --
+
+00:03:50.150 --> 00:03:52.150
+there's my boss --
+
+00:03:52.150 --> 00:03:57.150
+and one has come from music.
+
+00:03:57.150 --> 00:03:59.150
+And interestingly enough,
+
+00:03:59.150 --> 00:04:02.150
+Bono is also a TED Prize winner.
+
+00:04:02.150 --> 00:04:05.150
+So we can go, jump, and take a look at all the TED Prize winners.
+
+00:04:05.150 --> 00:04:08.150
+So you see, we're navigating the web for the first time
+
+00:04:08.150 --> 00:04:11.150
+as if it's actually a web, not from page-to-page,
+
+00:04:11.150 --> 00:04:13.150
+but at a higher level of abstraction.
+
+00:04:13.150 --> 00:04:15.150
+And so I want to show you one other thing
+
+00:04:15.150 --> 00:04:18.150
+that may catch you a little bit by surprise.
+
+00:04:18.150 --> 00:04:21.150
+I'm just showing the New York Times website here.
+
+00:04:21.150 --> 00:04:23.150
+So Pivot, this application --
+
+00:04:23.150 --> 00:04:25.150
+I don't want to call it a browser; it's really not a browser,
+
+00:04:25.150 --> 00:04:28.150
+but you can view web pages with it --
+
+00:04:28.150 --> 00:04:30.150
+and we bring that zoomable technology
+
+00:04:30.150 --> 00:04:33.150
+to every single web page like this.
+
+00:04:33.150 --> 00:04:36.150
+So I can step back,
+
+00:04:36.150 --> 00:04:38.150
+pop right back into a specific section.
+
+00:04:38.150 --> 00:04:40.150
+Now the reason why this is important is because,
+
+00:04:40.150 --> 00:04:43.150
+by virtue of just viewing web pages in this way,
+
+00:04:43.150 --> 00:04:45.150
+I can look at my entire browsing history
+
+00:04:45.150 --> 00:04:47.150
+in the exact same way.
+
+00:04:47.150 --> 00:04:49.150
+So I can drill into what I've done
+
+00:04:49.150 --> 00:04:51.150
+over specific time frames.
+
+00:04:51.150 --> 00:04:53.150
+Here, in fact, is the state
+
+00:04:53.150 --> 00:04:55.150
+of all the demo that I just gave.
+
+00:04:55.150 --> 00:04:58.150
+And I can sort of replay some stuff that I was looking at earlier today.
+
+00:04:58.150 --> 00:05:01.150
+And, if I want to step back and look at everything,
+
+00:05:01.150 --> 00:05:03.150
+I can slice and dice my history,
+
+00:05:03.150 --> 00:05:05.150
+perhaps by my search history --
+
+00:05:05.150 --> 00:05:07.150
+here, I was doing some nepotistic searching,
+
+00:05:07.150 --> 00:05:10.150
+looking for Bing, over here for Live Labs Pivot.
+
+00:05:10.150 --> 00:05:12.150
+And from these, I can drill into the web page
+
+00:05:12.150 --> 00:05:14.150
+and just launch them again.
+
+00:05:14.150 --> 00:05:17.150
+It's one metaphor repurposed multiple times,
+
+00:05:17.150 --> 00:05:19.150
+and in each case it makes the whole greater
+
+00:05:19.150 --> 00:05:21.150
+than the sum of the parts with the data.
+
+00:05:21.150 --> 00:05:24.150
+So right now, in this world,
+
+00:05:24.150 --> 00:05:27.150
+we think about data as being this curse.
+
+00:05:27.150 --> 00:05:30.150
+We talk about the curse of information overload.
+
+00:05:30.150 --> 00:05:33.150
+We talk about drowning in data.
+
+00:05:33.150 --> 00:05:35.150
+What if we can actually turn that upside down
+
+00:05:35.150 --> 00:05:37.150
+and turn the web upside down,
+
+00:05:37.150 --> 00:05:40.150
+so that instead of navigating from one thing to the next,
+
+00:05:40.150 --> 00:05:43.150
+we get used to the habit of being able to go from many things to many things,
+
+00:05:43.150 --> 00:05:45.150
+and then being able to see the patterns
+
+00:05:45.150 --> 00:05:47.150
+that were otherwise hidden?
+
+00:05:47.150 --> 00:05:52.150
+If we can do that, then instead of being trapped in data,
+
+00:05:52.150 --> 00:05:55.150
+we might actually extract information.
+
+00:05:55.150 --> 00:05:57.150
+And, instead of dealing just with information,
+
+00:05:57.150 --> 00:05:59.150
+we can tease out knowledge.
+
+00:05:59.150 --> 00:06:02.150
+And if we get the knowledge, then maybe even there's wisdom to be found.
+
+00:06:02.150 --> 00:06:04.150
+So with that, I thank you.
+
+00:06:04.150 --> 00:06:12.150
+(Applause)

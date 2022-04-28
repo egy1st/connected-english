@@ -1,0 +1,1101 @@
+WEBVTT
+
+00:00:00.539 --> 00:00:03.358
+I know this is going to sound strange,
+
+00:00:03.382 --> 00:00:08.365
+but I think robots can inspire us
+to be better humans.
+
+00:00:09.245 --> 00:00:12.339
+See, I grew up in Bethlehem, Pennsylvania,
+
+00:00:12.363 --> 00:00:14.301
+the home of Bethlehem Steel.
+
+00:00:14.991 --> 00:00:17.103
+My father was an engineer,
+
+00:00:17.127 --> 00:00:21.446
+and when I was growing up,
+he would teach me how things worked.
+
+00:00:21.470 --> 00:00:23.564
+We would build projects together,
+
+00:00:23.588 --> 00:00:26.356
+like model rockets and slot cars.
+
+00:00:26.732 --> 00:00:29.640
+Here's the go-kart that we built together.
+
+00:00:30.208 --> 00:00:31.952
+That's me behind the wheel,
+
+00:00:31.976 --> 00:00:34.200
+with my sister and my best
+friend at the time.
+
+00:00:35.875 --> 00:00:37.801
+And one day,
+
+00:00:37.825 --> 00:00:40.908
+he came home, when I was
+about 10 years old,
+
+00:00:40.932 --> 00:00:43.558
+and at the dinner table, he announced
+
+00:00:43.582 --> 00:00:47.294
+that for our next project, 
+we were going to build ...
+
+00:00:47.318 --> 00:00:48.468
+a robot.
+
+00:00:49.604 --> 00:00:50.759
+A robot.
+
+00:00:51.120 --> 00:00:53.183
+Now, I was thrilled about this,
+
+00:00:53.207 --> 00:00:57.009
+because at school,
+there was a bully named Kevin,
+
+00:00:57.033 --> 00:00:58.922
+and he was picking on me,
+
+00:00:58.946 --> 00:01:01.336
+because I was the only
+Jewish kid in class.
+
+00:01:01.910 --> 00:01:04.283
+So I couldn't wait to get
+started to work on this,
+
+00:01:04.307 --> 00:01:06.917
+so I could introduce Kevin to my robot.
+
+00:01:06.941 --> 00:01:07.971
+(Laughter)
+
+00:01:07.995 --> 00:01:12.238
+(Robot noises)
+
+00:01:17.552 --> 00:01:18.944
+(Laughter)
+
+00:01:18.968 --> 00:01:22.817
+But that wasn't the kind of robot
+my dad had in mind.
+
+00:01:22.841 --> 00:01:23.909
+(Laughter)
+
+00:01:23.933 --> 00:01:27.565
+See, he owned a chromium-plating company,
+
+00:01:27.589 --> 00:01:33.462
+and they had to move heavy steel parts
+between tanks of chemicals.
+
+00:01:33.486 --> 00:01:36.859
+And so he needed
+an industrial robot like this,
+
+00:01:36.883 --> 00:01:38.986
+that could basically do the heavy lifting.
+
+00:01:39.684 --> 00:01:43.275
+But my dad didn't get
+the kind of robot he wanted, either.
+
+00:01:43.870 --> 00:01:46.300
+He and I worked on it for several years,
+
+00:01:46.324 --> 00:01:51.069
+but it was the 1970s, and the technology
+that was available to amateurs
+
+00:01:51.093 --> 00:01:52.419
+just wasn't there yet.
+
+00:01:53.992 --> 00:01:56.777
+So Dad continued to do
+this kind of work by hand.
+
+00:01:57.595 --> 00:01:59.023
+And a few years later,
+
+00:01:59.730 --> 00:02:01.306
+he was diagnosed with cancer.
+
+00:02:03.822 --> 00:02:05.392
+You see,
+
+00:02:05.416 --> 00:02:08.012
+what the robot we were trying
+to build was telling him
+
+00:02:08.036 --> 00:02:10.192
+was not about doing the heavy lifting.
+
+00:02:10.216 --> 00:02:11.367
+It was a warning
+
+00:02:11.391 --> 00:02:13.895
+about his exposure to the toxic chemicals.
+
+00:02:15.184 --> 00:02:17.477
+He didn't recognize that at the time,
+
+00:02:17.501 --> 00:02:19.187
+and he contracted leukemia.
+
+00:02:19.827 --> 00:02:21.719
+And he died at the age of 45.
+
+00:02:23.354 --> 00:02:25.130
+I was devastated by this.
+
+00:02:25.703 --> 00:02:28.465
+And I never forgot the robot
+that he and I tried to build.
+
+00:02:30.195 --> 00:02:33.748
+When I was at college, I decided
+to study engineering, like him.
+
+00:02:35.081 --> 00:02:39.629
+And I went to Carnegie Mellon,
+and I earned my PhD in robotics.
+
+00:02:39.653 --> 00:02:41.562
+I've been studying robots ever since.
+
+00:02:42.721 --> 00:02:47.316
+So what I'd like to tell you about
+are four robot projects,
+
+00:02:47.340 --> 00:02:50.389
+and how they've inspired me
+to be a better human.
+
+00:02:54.206 --> 00:02:59.820
+By 1993, I was a young professor at USC,
+
+00:02:59.844 --> 00:03:02.662
+and I was just building up
+my own robotics lab,
+
+00:03:02.686 --> 00:03:05.907
+and this was the year
+the World Wide Web came out.
+
+00:03:06.487 --> 00:03:09.472
+And I remember my students
+were the ones who told me about it,
+
+00:03:09.496 --> 00:03:11.813
+and we would -- we were just amazed.
+
+00:03:11.837 --> 00:03:15.220
+We started playing with this,
+and that afternoon,
+
+00:03:15.244 --> 00:03:19.522
+we realized that we could use
+this new, universal interface
+
+00:03:19.546 --> 00:03:23.974
+to allow anyone in the world
+to operate the robot in our lab.
+
+00:03:25.339 --> 00:03:29.381
+So, rather than have it fight
+or do industrial work,
+
+00:03:30.413 --> 00:03:32.943
+we decided to build a planter,
+
+00:03:32.967 --> 00:03:34.918
+put the robot into the center of it,
+
+00:03:34.942 --> 00:03:36.620
+and we called it the Telegarden.
+
+00:03:37.736 --> 00:03:42.253
+And we had put a camera
+in the gripper of the hand of the robot,
+
+00:03:42.277 --> 00:03:45.208
+and we wrote some
+special scripts and software,
+
+00:03:45.232 --> 00:03:47.266
+so that anyone in the world could come in,
+
+00:03:47.290 --> 00:03:49.074
+and by clicking on the screen,
+
+00:03:49.098 --> 00:03:52.719
+they could move the robot around
+and visit the garden.
+
+00:03:53.416 --> 00:03:57.267
+But we also set up some other software
+
+00:03:57.291 --> 00:04:01.207
+that lets you participate
+and help us water the garden, remotely.
+
+00:04:01.643 --> 00:04:03.932
+And if you watered it a few times,
+
+00:04:03.956 --> 00:04:06.231
+we'd give you your own seed to plant.
+
+00:04:07.167 --> 00:04:10.643
+Now, this was an engineering project,
+
+00:04:10.667 --> 00:04:14.779
+and we published some papers
+on the system design of it,
+
+00:04:14.803 --> 00:04:17.448
+but we also thought of it
+as an art installation.
+
+00:04:18.638 --> 00:04:20.787
+It was invited, after the first year,
+
+00:04:20.811 --> 00:04:23.831
+by the Ars Electronica Museum in Austria,
+
+00:04:23.855 --> 00:04:26.677
+to have it installed in their lobby.
+
+00:04:27.558 --> 00:04:31.545
+And I'm happy to say, it remained
+online there, 24 hours a day,
+
+00:04:31.569 --> 00:04:33.400
+for almost nine years.
+
+00:04:34.369 --> 00:04:38.144
+That robot was operated by more people
+
+00:04:38.168 --> 00:04:40.065
+than any other robot in history.
+
+00:04:41.303 --> 00:04:42.930
+Now, one day,
+
+00:04:42.954 --> 00:04:46.302
+I got a call out of the blue
+from a student,
+
+00:04:47.211 --> 00:04:51.369
+who asked a very simple
+but profound question.
+
+00:04:52.361 --> 00:04:55.187
+He said, "Is the robot real?"
+
+00:04:56.599 --> 00:04:58.885
+Now, everyone else had assumed it was,
+
+00:04:58.909 --> 00:05:01.425
+and we knew it was,
+because we were working with it.
+
+00:05:01.449 --> 00:05:02.847
+But I knew what he meant,
+
+00:05:02.871 --> 00:05:04.313
+because it would be possible
+
+00:05:04.337 --> 00:05:07.122
+to take a bunch of pictures
+of flowers in a garden
+
+00:05:07.146 --> 00:05:10.785
+and then, basically, index them
+in a computer system,
+
+00:05:10.809 --> 00:05:13.436
+such that it would appear
+that there was a real robot,
+
+00:05:13.460 --> 00:05:14.610
+when there wasn't.
+
+00:05:15.088 --> 00:05:16.612
+And the more I thought about it,
+
+00:05:16.636 --> 00:05:20.215
+I couldn't think of a good answer
+for how he could tell the difference.
+
+00:05:20.628 --> 00:05:23.425
+This was right about the time
+that I was offered a position
+
+00:05:23.449 --> 00:05:24.750
+here at Berkeley.
+
+00:05:24.774 --> 00:05:26.419
+And when I got here,
+
+00:05:26.443 --> 00:05:28.805
+I looked up Hubert Dreyfus,
+
+00:05:28.829 --> 00:05:31.756
+who's a world-renowned
+professor of philosophy,
+
+00:05:32.582 --> 00:05:35.312
+And I talked with him
+about this and he said,
+
+00:05:35.336 --> 00:05:39.438
+"This is one of the oldest
+and most central problems in philosophy.
+
+00:05:39.462 --> 00:05:43.479
+It goes back to the Skeptics
+and up through Descartes.
+
+00:05:43.503 --> 00:05:46.685
+It's the issue of epistemology,
+
+00:05:46.709 --> 00:05:49.577
+the study of how do we know
+that something is true."
+
+00:05:50.625 --> 00:05:52.625
+So he and I started working together,
+
+00:05:52.649 --> 00:05:55.520
+and we coined a new term:
+"telepistemology,"
+
+00:05:56.757 --> 00:05:58.893
+the study of knowledge at a distance.
+
+00:05:59.303 --> 00:06:03.794
+We invited leading artists,
+engineers and philosophers
+
+00:06:03.818 --> 00:06:05.137
+to write essays about this,
+
+00:06:05.161 --> 00:06:08.865
+and the results are collected
+in this book from MIT Press.
+
+00:06:09.959 --> 00:06:12.055
+So thanks to this student,
+
+00:06:12.079 --> 00:06:15.398
+who questioned what everyone else
+had assumed to be true,
+
+00:06:15.422 --> 00:06:19.399
+this project taught me
+an important lesson about life,
+
+00:06:19.423 --> 00:06:22.410
+which is to always question assumptions.
+
+00:06:23.807 --> 00:06:25.983
+Now, the second project
+I'll tell you about
+
+00:06:26.007 --> 00:06:27.999
+grew out of the Telegarden.
+
+00:06:28.023 --> 00:06:30.844
+As it was operating, my students
+and I were very interested
+
+00:06:30.868 --> 00:06:33.209
+in how people were interacting
+with each other,
+
+00:06:33.233 --> 00:06:35.290
+and what they were doing with the garden.
+
+00:06:35.314 --> 00:06:36.465
+So we started thinking:
+
+00:06:36.489 --> 00:06:38.457
+what if the robot could leave the garden
+
+00:06:38.481 --> 00:06:41.295
+and go out into some other
+interesting environment?
+
+00:06:41.319 --> 00:06:44.060
+Like, for example,
+what if it could go to a dinner party
+
+00:06:44.084 --> 00:06:45.545
+at the White House?
+
+00:06:45.569 --> 00:06:47.068
+(Laughter)
+
+00:06:48.401 --> 00:06:51.970
+So, because we were interested
+more in the system design
+
+00:06:51.994 --> 00:06:54.937
+and the user interface
+than in the hardware,
+
+00:06:54.961 --> 00:06:56.112
+we decided that,
+
+00:06:56.136 --> 00:07:00.623
+rather than have a robot replace
+the human to go to the party,
+
+00:07:00.647 --> 00:07:02.877
+we'd have a human replace the robot.
+
+00:07:03.679 --> 00:07:05.139
+We called it the Tele-Actor.
+
+00:07:05.978 --> 00:07:07.986
+We got a human,
+
+00:07:08.010 --> 00:07:11.118
+someone who's very
+outgoing and gregarious,
+
+00:07:11.142 --> 00:07:15.397
+and she was outfitted with a helmet
+with various equipment,
+
+00:07:15.421 --> 00:07:16.705
+cameras and microphones,
+
+00:07:16.729 --> 00:07:19.794
+and then a backpack with wireless
+Internet connection.
+
+00:07:20.882 --> 00:07:23.026
+And the idea was that she could go
+
+00:07:23.050 --> 00:07:25.500
+into a remote and interesting environment,
+
+00:07:25.524 --> 00:07:27.541
+and then over the Internet,
+
+00:07:27.565 --> 00:07:30.157
+people could experience
+what she was experiencing.
+
+00:07:30.736 --> 00:07:33.707
+So they could see what she was seeing,
+
+00:07:33.731 --> 00:07:37.014
+but then, more importantly,
+they could participate,
+
+00:07:37.038 --> 00:07:41.788
+by interacting with each other
+and coming up with ideas
+
+00:07:41.812 --> 00:07:45.781
+about what she should do next
+and where she should go,
+
+00:07:45.805 --> 00:07:48.011
+and then conveying those
+to the Tele-Actor.
+
+00:07:49.069 --> 00:07:51.490
+So we got a chance to take the Tele-Actor
+
+00:07:51.514 --> 00:07:54.322
+to the Webby Awards in San Francisco.
+
+00:07:55.129 --> 00:07:58.369
+And that year, Sam Donaldson was the host.
+
+00:08:00.290 --> 00:08:02.980
+Just before the curtain went
+up, I had about 30 seconds
+
+00:08:03.004 --> 00:08:06.746
+to explain to Mr. Donaldson
+what we were going to do.
+
+00:08:08.119 --> 00:08:11.636
+And I said, "The Tele-Actor
+is going to be joining you onstage.
+
+00:08:11.660 --> 00:08:14.014
+This is a new experimental project,
+
+00:08:14.038 --> 00:08:16.633
+and people are watching her
+on their screens,
+
+00:08:16.657 --> 00:08:19.948
+there's cameras involved
+and there's microphones
+
+00:08:19.972 --> 00:08:21.758
+and she's got an earbud in her ear,
+
+00:08:21.782 --> 00:08:24.099
+and people over the network
+are giving her advice
+
+00:08:24.123 --> 00:08:25.281
+about what to do next."
+
+00:08:25.305 --> 00:08:26.700
+And he said, "Wait a second.
+
+00:08:27.806 --> 00:08:28.979
+That's what I do."
+
+00:08:29.003 --> 00:08:33.980
+(Laughter)
+
+00:08:34.004 --> 00:08:35.876
+So he loved the concept,
+
+00:08:35.900 --> 00:08:40.153
+and when the Tele-Actor walked onstage,
+she walked right up to him,
+
+00:08:40.177 --> 00:08:42.636
+and she gave him a big kiss
+right on the lips.
+
+00:08:42.660 --> 00:08:44.612
+(Laughter)
+
+00:08:44.636 --> 00:08:47.558
+We were totally surprised --
+we had no idea that would happen.
+
+00:08:47.582 --> 00:08:50.200
+And he was great, he just gave her
+a big hug in return,
+
+00:08:50.224 --> 00:08:51.881
+and it worked out great.
+
+00:08:51.905 --> 00:08:53.945
+But that night, as we were packing up,
+
+00:08:53.969 --> 00:08:58.524
+I asked the Tele-Actor,
+how did the Tele-Directors decide
+
+00:08:58.548 --> 00:09:01.548
+that they would give
+a kiss to Sam Donaldson?
+
+00:09:03.135 --> 00:09:04.592
+And she said they hadn't.
+
+00:09:05.274 --> 00:09:07.892
+She said, when she was
+just about to walk onstage,
+
+00:09:07.916 --> 00:09:10.890
+the Tele-Directors still were trying
+to agree on what to do,
+
+00:09:10.914 --> 00:09:14.014
+and so she just walked onstage
+and did what felt most natural.
+
+00:09:14.038 --> 00:09:18.552
+(Laughter)
+
+00:09:18.576 --> 00:09:21.668
+So, the success
+of the Tele-Actor that night
+
+00:09:21.692 --> 00:09:25.945
+was due to the fact
+that she was a wonderful actor.
+
+00:09:25.969 --> 00:09:28.398
+She knew when to trust her instincts.
+
+00:09:28.422 --> 00:09:32.351
+And so that project taught me
+another lesson about life,
+
+00:09:32.375 --> 00:09:36.022
+which is that, when in doubt, improvise.
+
+00:09:36.046 --> 00:09:37.712
+(Laughter)
+
+00:09:38.664 --> 00:09:43.583
+Now, the third project
+grew out of my experience
+
+00:09:43.607 --> 00:09:45.456
+when my father was in the hospital.
+
+00:09:47.284 --> 00:09:50.637
+He was undergoing a treatment --
+chemotherapy treatments --
+
+00:09:50.661 --> 00:09:54.931
+and there's a related treatment
+called brachytherapy,
+
+00:09:54.955 --> 00:09:58.743
+where tiny, radioactive seeds
+are placed into the body
+
+00:09:58.767 --> 00:10:00.501
+to treat cancerous tumors.
+
+00:10:01.572 --> 00:10:03.843
+And the way it's done,
+as you can see here,
+
+00:10:03.867 --> 00:10:08.234
+is that surgeons
+insert needles into the body
+
+00:10:08.258 --> 00:10:09.573
+to deliver the seeds.
+
+00:10:09.974 --> 00:10:13.672
+And all these needles
+are inserted in parallel.
+
+00:10:14.445 --> 00:10:19.838
+So it's very common that some
+of the needles penetrate sensitive organs.
+
+00:10:20.635 --> 00:10:27.608
+And as a result, the needles damage
+these organs, cause damage,
+
+00:10:27.632 --> 00:10:30.041
+which leads to trauma and side effects.
+
+00:10:30.581 --> 00:10:32.225
+So my students and I wondered:
+
+00:10:32.249 --> 00:10:36.771
+what if we could modify the system,
+
+00:10:36.795 --> 00:10:39.420
+so that the needles
+could come in at different angles?
+
+00:10:40.395 --> 00:10:42.238
+So we simulated this;
+
+00:10:42.262 --> 00:10:45.707
+we developed some optimization
+algorithms and we simulated this.
+
+00:10:45.731 --> 00:10:46.882
+And we were able to show
+
+00:10:46.906 --> 00:10:49.468
+that we are able to avoid
+the delicate organs,
+
+00:10:49.492 --> 00:10:54.545
+and yet still achieve the coverage
+of the tumors with the radiation.
+
+00:10:55.313 --> 00:10:58.787
+So now, we're working with doctors at UCSF
+
+00:10:58.811 --> 00:11:01.078
+and engineers at Johns Hopkins,
+
+00:11:01.102 --> 00:11:05.064
+and we're building a robot
+that has a number of --
+
+00:11:05.088 --> 00:11:07.687
+it's a specialized design
+with different joints
+
+00:11:07.711 --> 00:11:12.034
+that can allow the needles to come in
+at an infinite variety of angles.
+
+00:11:12.483 --> 00:11:16.205
+And as you can see here,
+they can avoid delicate organs
+
+00:11:16.229 --> 00:11:18.893
+and still reach the targets
+they're aiming for.
+
+00:11:20.019 --> 00:11:25.004
+So, by questioning this assumption
+that all the needles have to be parallel,
+
+00:11:25.028 --> 00:11:27.654
+this project also taught me
+an important lesson:
+
+00:11:28.114 --> 00:11:32.869
+When in doubt, when your path
+is blocked, pivot.
+
+00:11:33.797 --> 00:11:37.637
+And the last project
+also has to do with medical robotics.
+
+00:11:38.187 --> 00:11:41.757
+And this is something
+that's grown out of a system
+
+00:11:41.781 --> 00:11:45.129
+called the da Vinci surgical robot.
+
+00:11:45.866 --> 00:11:48.310
+And this is a commercially
+available device.
+
+00:11:48.334 --> 00:11:51.307
+It's being used in over 2,000
+hospitals around the world.
+
+00:11:52.013 --> 00:11:56.386
+The idea is it allows the surgeon
+to operate comfortably
+
+00:11:56.410 --> 00:11:58.187
+in his own coordinate frame.
+
+00:12:00.762 --> 00:12:06.531
+Many of the subtasks in surgery are very
+routine and tedious, like suturing,
+
+00:12:06.555 --> 00:12:08.822
+and currently, all of these are performed
+
+00:12:08.846 --> 00:12:12.713
+under the specific and immediate
+control of the surgeon.
+
+00:12:13.374 --> 00:12:15.642
+So the surgeon becomes fatigued over time.
+
+00:12:16.086 --> 00:12:17.522
+And we've been wondering,
+
+00:12:17.546 --> 00:12:21.917
+what if we could program the robot
+to perform some of these subtasks,
+
+00:12:21.941 --> 00:12:23.322
+and thereby free the surgeon
+
+00:12:23.346 --> 00:12:26.581
+to focus on the more complicated
+parts of the surgery,
+
+00:12:26.605 --> 00:12:29.405
+and also cut down on the time
+that the surgery would take
+
+00:12:29.429 --> 00:12:32.268
+if we could get the robot
+to do them a little bit faster?
+
+00:12:32.958 --> 00:12:36.380
+Now, it's hard to program a robot
+to do delicate things like this.
+
+00:12:36.943 --> 00:12:41.149
+But it turns out my colleague
+Pieter Abbeel, who's here at Berkeley,
+
+00:12:41.173 --> 00:12:46.653
+has developed a new set of techniques
+for teaching robots from example.
+
+00:12:47.170 --> 00:12:49.913
+So he's gotten robots to fly helicopters,
+
+00:12:49.937 --> 00:12:53.191
+do incredibly interesting,
+beautiful acrobatics,
+
+00:12:53.215 --> 00:12:55.182
+by watching human experts fly them.
+
+00:12:56.152 --> 00:12:58.058
+So we got one of these robots.
+
+00:12:58.082 --> 00:13:00.622
+We started working with Pieter
+and his students.
+
+00:13:00.646 --> 00:13:04.826
+And we asked a surgeon
+to perform a task --
+
+00:13:06.761 --> 00:13:07.912
+with the robot.
+
+00:13:07.936 --> 00:13:10.961
+So what we're doing is asking
+the surgeon to perform the task,
+
+00:13:10.985 --> 00:13:13.021
+and we record the motions of the robot.
+
+00:13:13.045 --> 00:13:14.471
+So here's an example.
+
+00:13:14.495 --> 00:13:17.616
+I'll use tracing out
+a figure eight as an example.
+
+00:13:18.170 --> 00:13:21.804
+So here's what it looks like
+when the robot --
+
+00:13:21.828 --> 00:13:24.896
+this is what the robot's path
+looks like, those three examples.
+
+00:13:24.920 --> 00:13:29.056
+Now, those are much better
+than what a novice like me could do,
+
+00:13:29.080 --> 00:13:31.774
+but they're still jerky and imprecise.
+
+00:13:31.798 --> 00:13:34.739
+So we record all these examples, the data,
+
+00:13:34.763 --> 00:13:37.624
+and then go through a sequence of steps.
+
+00:13:38.278 --> 00:13:41.404
+First, we use a technique
+called dynamic time warping
+
+00:13:41.428 --> 00:13:42.918
+from speech recognition.
+
+00:13:42.942 --> 00:13:46.279
+And this allows us to temporally
+align all of the examples.
+
+00:13:46.918 --> 00:13:52.120
+And then we apply Kalman filtering,
+a technique from control theory,
+
+00:13:52.144 --> 00:13:55.113
+that allows us to statistically
+analyze all the noise
+
+00:13:55.137 --> 00:13:59.259
+and extract the desired
+trajectory that underlies them.
+
+00:14:01.283 --> 00:14:03.833
+Now we take those human demonstrations --
+
+00:14:03.857 --> 00:14:05.532
+they're all noisy and imperfect --
+
+00:14:05.556 --> 00:14:08.154
+and we extract from them
+an inferred task trajectory
+
+00:14:08.178 --> 00:14:10.704
+and control sequence for the robot.
+
+00:14:11.181 --> 00:14:13.497
+We then execute that on the robot,
+
+00:14:13.521 --> 00:14:15.546
+we observe what happens,
+
+00:14:15.570 --> 00:14:16.927
+then we adjust the controls,
+
+00:14:16.951 --> 00:14:19.747
+using a sequence of techniques
+called iterative learning.
+
+00:14:21.129 --> 00:14:24.538
+Then what we do is we increase
+the velocity a little bit.
+
+00:14:25.244 --> 00:14:28.379
+We observe the results,
+adjust the controls again,
+
+00:14:29.340 --> 00:14:31.112
+and observe what happens.
+
+00:14:31.136 --> 00:14:33.303
+And we go through this several rounds.
+
+00:14:33.327 --> 00:14:34.508
+And here's the result.
+
+00:14:34.968 --> 00:14:36.706
+That's the inferred task trajectory,
+
+00:14:36.730 --> 00:14:39.951
+and here's the robot
+moving at the speed of the human.
+
+00:14:39.975 --> 00:14:42.080
+Here's four times the speed of the human.
+
+00:14:42.477 --> 00:14:43.961
+Here's seven times.
+
+00:14:45.004 --> 00:14:49.829
+And here's the robot operating
+at 10 times the speed of the human.
+
+00:14:50.762 --> 00:14:53.663
+So we're able to get a robot
+to perform a delicate task
+
+00:14:53.687 --> 00:14:56.573
+like a surgical subtask,
+
+00:14:57.081 --> 00:14:58.962
+at 10 times the speed of a human.
+
+00:15:00.185 --> 00:15:02.445
+So this project also,
+
+00:15:02.469 --> 00:15:04.994
+because of its involved
+practicing and learning,
+
+00:15:05.018 --> 00:15:06.780
+doing something over and over again,
+
+00:15:06.804 --> 00:15:09.381
+this project also has a lesson, which is:
+
+00:15:09.405 --> 00:15:11.809
+if you want to do something well,
+
+00:15:13.084 --> 00:15:17.524
+there's no substitute
+for practice, practice, practice.
+
+00:15:21.186 --> 00:15:24.673
+So these are four of the lessons
+that I've learned from robots
+
+00:15:24.697 --> 00:15:25.995
+over the years.
+
+00:15:27.312 --> 00:15:32.819
+And the field of robotics
+has gotten much better over time.
+
+00:15:34.319 --> 00:15:36.595
+Nowadays, high school students
+can build robots,
+
+00:15:36.619 --> 00:15:39.503
+like the industrial robot
+my dad and I tried to build.
+
+00:15:40.675 --> 00:15:43.445
+But, it's very -- now ...
+
+00:15:43.954 --> 00:15:47.255
+And now, I have a daughter,
+
+00:15:47.857 --> 00:15:49.014
+named Odessa.
+
+00:15:49.673 --> 00:15:50.926
+She's eight years old.
+
+00:15:51.682 --> 00:15:53.331
+And she likes robots, too.
+
+00:15:53.970 --> 00:15:55.366
+Maybe it runs in the family.
+
+00:15:55.390 --> 00:15:56.630
+(Laughter)
+
+00:15:56.654 --> 00:15:58.749
+I wish she could meet my dad.
+
+00:16:00.303 --> 00:16:03.043
+And now I get to teach her
+how things work,
+
+00:16:03.067 --> 00:16:05.297
+and we get to build projects together.
+
+00:16:05.321 --> 00:16:08.527
+And I wonder what kind of lessons
+she'll learn from them.
+
+00:16:10.147 --> 00:16:14.154
+Robots are the most human of our machines.
+
+00:16:14.983 --> 00:16:17.937
+They can't solve all
+of the world's problems,
+
+00:16:17.961 --> 00:16:21.484
+but I think they have something
+important to teach us.
+
+00:16:22.276 --> 00:16:24.277
+I invite all of you
+
+00:16:24.301 --> 00:16:27.879
+to think about the innovations
+that you're interested in,
+
+00:16:28.712 --> 00:16:30.955
+the machines that you wish for.
+
+00:16:31.660 --> 00:16:34.267
+And think about
+what they might be telling you.
+
+00:16:35.211 --> 00:16:38.956
+Because I have a hunch that many
+of our technological innovations,
+
+00:16:38.980 --> 00:16:40.651
+the devices we dream about,
+
+00:16:42.166 --> 00:16:45.015
+can inspire us to be better humans.
+
+00:16:45.984 --> 00:16:47.135
+Thank you.
+
+00:16:47.159 --> 00:16:49.071
+(Applause)
+

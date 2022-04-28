@@ -1,0 +1,1617 @@
+WEBVTT
+
+00:00:00.873 --> 00:00:02.031
+A couple of years ago,
+
+00:00:02.055 --> 00:00:05.164
+when I was attending
+the TED conference in Long Beach,
+
+00:00:05.188 --> 00:00:06.553
+I met Harriet.
+
+00:00:06.577 --> 00:00:09.976
+We'd actually met online before --
+not the way you're thinking.
+
+00:00:10.000 --> 00:00:12.435
+We were introduced
+because we both knew Linda Avey,
+
+00:00:12.459 --> 00:00:15.763
+one of the founders of the first
+online personal genomic companies.
+
+00:00:15.787 --> 00:00:18.484
+And because we shared
+our genetic information with Linda,
+
+00:00:18.508 --> 00:00:20.415
+she could see that Harriet and I shared
+
+00:00:20.439 --> 00:00:24.329
+a very rare type of mitochondrial DNA,
+haplotype K1a1b1a,
+
+00:00:24.353 --> 00:00:26.348
+which meant we were distantly related.
+
+00:00:26.372 --> 00:00:29.205
+We actually share the same
+genealogy with Ötzi the Iceman.
+
+00:00:29.229 --> 00:00:30.740
+So -- Ötzi, Harriet and me.
+
+00:00:30.764 --> 00:00:34.165
+And being the current day, of course,
+we started our own Facebook group.
+
+00:00:34.189 --> 00:00:35.488
+You're all welcome to join.
+
+00:00:35.512 --> 00:00:38.592
+When I met Harriet in person
+the next year at the TED conference,
+
+00:00:38.616 --> 00:00:41.604
+she'd gone online and ordered
+our own happy haplotype T-shirts.
+
+00:00:41.628 --> 00:00:42.639
+(Laughter)
+
+00:00:42.663 --> 00:00:44.206
+Why am I telling you this story?
+
+00:00:44.230 --> 00:00:46.572
+What does it have to do
+with the future of health?
+
+00:00:46.596 --> 00:00:48.572
+Well, the way I met Harriet is an example
+
+00:00:48.596 --> 00:00:52.347
+of how leveraging cross-disciplinary,
+exponentially growing technologies
+
+00:00:52.371 --> 00:00:54.682
+is affecting our future
+of health and wellness --
+
+00:00:54.706 --> 00:00:56.056
+from low-cost gene analysis
+
+00:00:56.080 --> 00:00:58.198
+to the ability to do
+powerful bioinformatics
+
+00:00:58.222 --> 00:01:01.031
+to the connection of the Internet
+and social networking.
+
+00:01:01.589 --> 00:01:03.189
+What I'd like to talk about today
+
+00:01:03.213 --> 00:01:05.473
+is understanding
+these exponential technologies.
+
+00:01:05.497 --> 00:01:07.054
+We often think linearly.
+
+00:01:07.078 --> 00:01:09.666
+But if you think about it,
+if you have a lily pad
+
+00:01:09.690 --> 00:01:11.653
+and it just divided every single day --
+
+00:01:11.677 --> 00:01:15.333
+two, four, eight, sixteen --
+in 15 days, you'd have 32,000.
+
+00:01:15.357 --> 00:01:17.292
+What do you think you'd have in a month?
+
+00:01:17.316 --> 00:01:18.467
+We're at a billion.
+
+00:01:18.491 --> 00:01:20.163
+If we start to think exponentially,
+
+00:01:20.187 --> 00:01:23.639
+we can see how this is starting to affect
+all the technologies around us.
+
+00:01:23.663 --> 00:01:26.766
+Many of these technologies,
+speaking as a physician and innovator,
+
+00:01:26.790 --> 00:01:29.882
+we can start to leverage,
+to impact the future of our own health
+
+00:01:29.906 --> 00:01:31.057
+and of health care,
+
+00:01:31.081 --> 00:01:34.166
+and to address many of the major
+challenges in health care today,
+
+00:01:34.190 --> 00:01:37.355
+ranging from the exponential costs
+to the aging population,
+
+00:01:37.379 --> 00:01:40.079
+the way we really don't use
+information very well today,
+
+00:01:40.103 --> 00:01:41.593
+the fragmentation of care
+
+00:01:41.617 --> 00:01:45.347
+and the often very difficult course
+of adoption of innovation.
+
+00:01:45.371 --> 00:01:49.166
+And one of the major things we can do
+is move the curve to the left.
+
+00:01:49.190 --> 00:01:51.907
+We spend most of our money
+on the last 20 percent of life.
+
+00:01:51.931 --> 00:01:54.991
+What if we could incentivize physicians
+in the health care system
+
+00:01:55.015 --> 00:01:56.171
+and our own selves
+
+00:01:56.195 --> 00:01:58.710
+to move the curve to the left
+and improve our health,
+
+00:01:58.734 --> 00:02:00.178
+leveraging technology as well?
+
+00:02:00.202 --> 00:02:02.626
+Now my favorite example
+of exponential technology,
+
+00:02:02.650 --> 00:02:03.950
+we all have in our pocket.
+
+00:02:03.974 --> 00:02:07.245
+If you think about it,
+these are really dramatically improving.
+
+00:02:07.269 --> 00:02:09.175
+I mean, this is the iPhone 4.
+
+00:02:09.199 --> 00:02:12.387
+Imagine what the iPhone 8
+will be able to do.
+
+00:02:12.411 --> 00:02:14.329
+Now, I've gained some insight into this.
+
+00:02:14.353 --> 00:02:16.928
+I've been the track share
+for the medicine portion
+
+00:02:16.952 --> 00:02:19.459
+of a new institution
+called Singularity University,
+
+00:02:19.483 --> 00:02:20.872
+based in Silicon Valley.
+
+00:02:20.896 --> 00:02:23.856
+We bring together each summer
+about 100 very talented students
+
+00:02:23.880 --> 00:02:25.046
+from around the world.
+
+00:02:25.070 --> 00:02:27.936
+And we look at these exponential
+technologies from medicine,
+
+00:02:27.960 --> 00:02:31.106
+biotech, artificial intelligence,
+robotics, nanotechnology, space,
+
+00:02:31.130 --> 00:02:33.609
+and address how we can cross-train
+and leverage these
+
+00:02:33.633 --> 00:02:34.973
+to impact major unmet goals.
+
+00:02:34.997 --> 00:02:37.004
+We also have seven-day executive programs.
+
+00:02:37.028 --> 00:02:39.411
+And coming up next month is FutureMed,
+
+00:02:39.435 --> 00:02:42.809
+a program to help cross-train
+and leverage technologies into medicine.
+
+00:02:42.833 --> 00:02:44.354
+Now, I mentioned the phone.
+
+00:02:44.378 --> 00:02:47.689
+These mobile phones have over 20,000
+different mobile apps available.
+
+00:02:47.713 --> 00:02:50.955
+There's one out of the UK
+where you can pee on a little chip,
+
+00:02:50.979 --> 00:02:52.260
+connect it to your iPhone,
+
+00:02:52.284 --> 00:02:53.439
+and check for an STD.
+
+00:02:53.463 --> 00:02:55.766
+I don't know if I'd try that,
+but it's available.
+
+00:02:55.790 --> 00:02:57.615
+There are other sorts of applications.
+
+00:02:57.639 --> 00:02:59.915
+Merging your phone
+and diagnostics, for example,
+
+00:02:59.939 --> 00:03:01.980
+measuring your blood glucose
+on your iPhone
+
+00:03:02.004 --> 00:03:03.711
+and sending that to your physician,
+
+00:03:03.735 --> 00:03:06.502
+so they can better understand
+and you can better understand
+
+00:03:06.526 --> 00:03:08.106
+your blood sugars as a diabetic.
+
+00:03:08.130 --> 00:03:11.251
+So let's see how exponential
+technologies are taking health care.
+
+00:03:11.275 --> 00:03:12.441
+Let's start with faster.
+
+00:03:12.465 --> 00:03:14.874
+It's no secret that computers,
+through Moore's law,
+
+00:03:14.898 --> 00:03:16.541
+are speeding up faster and faster.
+
+00:03:16.565 --> 00:03:18.626
+We can do more powerful things with them.
+
+00:03:18.650 --> 00:03:21.451
+They're really approaching --
+in many cases, surpassing --
+
+00:03:21.475 --> 00:03:22.921
+the ability of the human mind.
+
+00:03:22.945 --> 00:03:26.779
+But where I think computational speed
+is most applicable is in imaging.
+
+00:03:26.803 --> 00:03:29.435
+The ability now to look
+inside the body in real time
+
+00:03:29.459 --> 00:03:30.917
+with very high resolution
+
+00:03:30.941 --> 00:03:32.401
+is really becoming incredible.
+
+00:03:32.425 --> 00:03:35.461
+And we're layering multiple
+technologies -- PET scans, CT scans
+
+00:03:35.485 --> 00:03:37.507
+and molecular diagnostics --
+
+00:03:37.531 --> 00:03:39.796
+to find and seek things
+at different levels.
+
+00:03:40.356 --> 00:03:43.807
+Here you're going to see the very highest
+resolution MRI scan done today,
+
+00:03:43.831 --> 00:03:46.650
+of Marc Hodosh, the curator of TEDMED.
+
+00:03:46.674 --> 00:03:48.817
+And now we can see inside of the brain
+
+00:03:48.841 --> 00:03:51.433
+at a resolution and ability
+never before available,
+
+00:03:51.457 --> 00:03:55.523
+and essentially learn how to reconstruct
+and maybe even reengineer
+
+00:03:55.547 --> 00:03:57.231
+or backwards engineer the brain,
+
+00:03:57.255 --> 00:04:00.232
+so we can better understand
+pathology, disease and therapy.
+
+00:04:00.256 --> 00:04:03.548
+We can look inside with real-time
+fMRI in the brain at real time.
+
+00:04:03.572 --> 00:04:06.861
+And by understanding these sorts
+of processes and these connections,
+
+00:04:06.885 --> 00:04:09.948
+we're going to understand the effects
+of medication or meditation
+
+00:04:09.972 --> 00:04:12.579
+and better personalize
+and make effective, for example,
+
+00:04:12.603 --> 00:04:14.206
+psychoactive drugs.
+
+00:04:14.230 --> 00:04:16.998
+The scanners for these are getting
+smaller, less expensive
+
+00:04:17.022 --> 00:04:18.173
+and more portable.
+
+00:04:18.197 --> 00:04:20.668
+And this sort of data explosion
+available from these
+
+00:04:20.692 --> 00:04:22.626
+is really almost becoming a challenge.
+
+00:04:22.650 --> 00:04:25.627
+The scan of today takes up
+about 800 books, or 20 gigabytes.
+
+00:04:25.651 --> 00:04:28.922
+The scan in a couple of years
+will be one terabyte, or 800,000 books.
+
+00:04:28.946 --> 00:04:30.715
+How do you leverage that information?
+
+00:04:30.739 --> 00:04:31.890
+Let's get personal.
+
+00:04:31.914 --> 00:04:35.121
+I won't ask who here's had a colonoscopy,
+but if you're over age 50,
+
+00:04:35.145 --> 00:04:37.138
+it's time for your screening colonoscopy.
+
+00:04:37.162 --> 00:04:39.593
+How'd you like to avoid
+the pointy end of the stick?
+
+00:04:39.617 --> 00:04:41.668
+Now there's essentially
+virtual colonoscopy.
+
+00:04:41.692 --> 00:04:42.983
+Compare those two pictures.
+
+00:04:43.007 --> 00:04:46.274
+As a radiologist, you can basically
+fly through your patient's colon,
+
+00:04:46.298 --> 00:04:48.593
+and augmenting that
+with artificial intelligence,
+
+00:04:48.617 --> 00:04:51.246
+potentially identify a lesion
+that we might have missed,
+
+00:04:51.270 --> 00:04:52.846
+but using AI on top of radiology,
+
+00:04:52.870 --> 00:04:54.921
+we can find lesions
+that were missed before.
+
+00:04:54.945 --> 00:04:57.472
+Maybe this will encourage
+people to get colonoscopies
+
+00:04:57.496 --> 00:04:58.879
+that wouldn't have otherwise.
+
+00:04:58.903 --> 00:05:00.915
+This is an example of this paradigm shift.
+
+00:05:00.939 --> 00:05:04.340
+We're moving to this integration
+of biomedicine, information technology,
+
+00:05:04.364 --> 00:05:07.670
+wireless and, I would say, mobile now --
+this era of digital medicine.
+
+00:05:07.694 --> 00:05:11.238
+Even my stethoscope is now digital,
+and of course, there's an app for that.
+
+00:05:11.262 --> 00:05:13.797
+We're moving, obviously,
+to the era of the tricorder.
+
+00:05:13.821 --> 00:05:16.270
+So the handheld ultrasound
+is basically surpassing
+
+00:05:16.294 --> 00:05:18.292
+and supplanting the stethoscope.
+
+00:05:18.316 --> 00:05:21.278
+These are now at a price point
+of what used to be 100,000 euros
+
+00:05:21.302 --> 00:05:23.141
+or a couple hundred-thousand dollars.
+
+00:05:23.165 --> 00:05:24.318
+For about 5,000 dollars,
+
+00:05:24.342 --> 00:05:27.668
+I can have the power of a very powerful
+diagnostic device in my hand.
+
+00:05:27.692 --> 00:05:30.784
+Merging this now with the advent
+of electronic medical records --
+
+00:05:30.808 --> 00:05:33.389
+in the US, we're still
+less than 20 percent electronic;
+
+00:05:33.413 --> 00:05:36.209
+here in the Netherlands,
+I think it's more than 80 percent.
+
+00:05:36.233 --> 00:05:38.521
+Now that we're switching
+to merging medical data,
+
+00:05:38.545 --> 00:05:40.220
+making it available electronically,
+
+00:05:40.244 --> 00:05:42.892
+we can crowd-source the information,
+and as a physician,
+
+00:05:42.916 --> 00:05:45.252
+I can access my patients' data
+from wherever I am,
+
+00:05:45.276 --> 00:05:46.706
+just through my mobile device.
+
+00:05:46.730 --> 00:05:49.843
+And now, of course, we're in the era
+of the iPad, even the iPad 2.
+
+00:05:49.867 --> 00:05:51.018
+Just last month,
+
+00:05:51.042 --> 00:05:53.257
+the first FDA-approved
+application was approved
+
+00:05:53.281 --> 00:05:56.774
+to allow radiologists to do actual
+reading on these sorts of devices.
+
+00:05:56.798 --> 00:05:59.419
+So certainly, the physicians
+of today, including myself,
+
+00:05:59.443 --> 00:06:01.420
+are completely reliable on these devices.
+
+00:06:01.444 --> 00:06:03.263
+And as you saw just about a month ago,
+
+00:06:03.287 --> 00:06:05.780
+Watson from IBM beat
+the two champions in "Jeopardy."
+
+00:06:05.804 --> 00:06:08.242
+So I want you to imagine
+when, in a couple of years,
+
+00:06:08.266 --> 00:06:10.726
+we've started to apply
+this cloud-based information,
+
+00:06:10.750 --> 00:06:14.350
+when we really have the AI physician
+and leverage our brains to connectivity
+
+00:06:14.374 --> 00:06:17.324
+to make decisions and diagnostics
+at a level never done.
+
+00:06:17.348 --> 00:06:20.547
+Already today, you don't need to go
+to your physician in many cases.
+
+00:06:20.571 --> 00:06:24.113
+Only in about 20 percent of visits
+do you need to lay hands on the patient.
+
+00:06:24.137 --> 00:06:25.998
+We're now in the era of virtual visits.
+
+00:06:26.022 --> 00:06:28.515
+From Skype-type visits
+you can do with American Well,
+
+00:06:28.539 --> 00:06:31.596
+to Cisco, that's developed a very complex
+health presence system,
+
+00:06:31.620 --> 00:06:34.827
+the ability to interact with
+your health care provider is different.
+
+00:06:34.851 --> 00:06:37.876
+And these are being augmented
+even by our devices, again, today.
+
+00:06:37.900 --> 00:06:40.669
+My friend Jessica sent me
+a picture of her head laceration,
+
+00:06:40.693 --> 00:06:42.901
+so I can save her a trip
+to the emergency room,
+
+00:06:42.925 --> 00:06:44.354
+and do diagnostics that way.
+
+00:06:44.378 --> 00:06:46.772
+Or maybe we can leverage
+today's gaming technology,
+
+00:06:46.796 --> 00:06:48.042
+like the Microsoft Kinect,
+
+00:06:48.066 --> 00:06:51.243
+hack that to enable diagnostics,
+for example, in diagnosing stroke,
+
+00:06:51.267 --> 00:06:53.856
+using simple motion detection,
+using $100 devices.
+
+00:06:53.880 --> 00:06:57.065
+We can actually now visit
+our patients robotically.
+
+00:06:57.089 --> 00:06:58.240
+This is the RP7;
+
+00:06:58.264 --> 00:07:01.222
+if I'm a hematologist,
+I can visit another clinic or hospital.
+
+00:07:01.246 --> 00:07:03.641
+These are being augmented
+by a whole suite of tools
+
+00:07:03.665 --> 00:07:04.861
+actually in the home now.
+
+00:07:04.885 --> 00:07:06.739
+We already have wireless scales.
+
+00:07:06.763 --> 00:07:09.468
+You step on the scale,
+tweet your weight to your friends,
+
+00:07:09.492 --> 00:07:10.734
+they can keep you in line.
+
+00:07:10.758 --> 00:07:12.576
+We have wireless blood pressure cuffs.
+
+00:07:12.600 --> 00:07:15.107
+A whole gamut of technologies
+are being put together.
+
+00:07:15.131 --> 00:07:17.945
+Instead of wearing kludgy devices,
+we put on a simple patch.
+
+00:07:17.969 --> 00:07:19.462
+This was developed at Stanford.
+
+00:07:19.486 --> 00:07:22.565
+It's called iRhythm; it completely
+supplants the prior technology
+
+00:07:22.589 --> 00:07:25.241
+at a much lower price point,
+with much more effectivity.
+
+00:07:25.265 --> 00:07:27.740
+We're also in the era today
+of quantified self.
+
+00:07:27.764 --> 00:07:31.369
+Consumers now can basically buy
+$100 devices, like this little Fitbit.
+
+00:07:31.393 --> 00:07:33.414
+I can measure my steps,
+my caloric outtake.
+
+00:07:33.438 --> 00:07:35.491
+I can get insight into that
+on a daily basis
+
+00:07:35.515 --> 00:07:37.523
+and share it with my friends or physician.
+
+00:07:37.547 --> 00:07:40.626
+There's watches that measure
+your heart rate, Zeo sleep monitors,
+
+00:07:40.650 --> 00:07:42.733
+a suite of tools
+that enable you to leverage
+
+00:07:42.757 --> 00:07:44.571
+and have insight into your own health.
+
+00:07:44.595 --> 00:07:46.603
+As we start to integrate this information,
+
+00:07:46.627 --> 00:07:49.508
+we'll know better what to do with it,
+and have better insight
+
+00:07:49.532 --> 00:07:51.959
+into our own pathologies,
+health and wellness.
+
+00:07:51.983 --> 00:07:54.626
+There's even mirrors
+that can pick up your pulse rate.
+
+00:07:54.650 --> 00:07:56.409
+And I would argue, in the future,
+
+00:07:56.433 --> 00:07:59.595
+we'll have wearable devices
+in our clothes, monitoring us 24/7.
+
+00:07:59.619 --> 00:08:03.036
+And just like the OnStar system
+in cars, your red light might go on.
+
+00:08:03.060 --> 00:08:06.105
+It won't say "check engine";
+it'll be a "check your body" light,
+
+00:08:06.129 --> 00:08:07.813
+and you'll go get it taken care of.
+
+00:08:07.837 --> 00:08:09.010
+Probably in a few years,
+
+00:08:09.034 --> 00:08:11.840
+you'll look in your mirror
+and it'll be diagnosing you.
+
+00:08:11.864 --> 00:08:13.086
+(Laughter)
+
+00:08:13.110 --> 00:08:15.189
+For those of you with kiddos at home,
+
+00:08:15.213 --> 00:08:18.158
+how would you like a wireless
+diaper that supports your --
+
+00:08:18.182 --> 00:08:19.242
+(Laughter)
+
+00:08:19.266 --> 00:08:21.463
+More information, I think,
+than you might need,
+
+00:08:21.487 --> 00:08:22.924
+but it's going to be here.
+
+00:08:22.948 --> 00:08:26.048
+Now, we've heard a lot today
+about technology and connection.
+
+00:08:26.072 --> 00:08:27.884
+And I think some of these technologies
+
+00:08:27.908 --> 00:08:31.326
+will enable us to be more connected
+with our patients, to take more time
+
+00:08:31.350 --> 00:08:33.931
+and do the important
+human-touch elements of medicine,
+
+00:08:33.955 --> 00:08:35.633
+as augmented by these technologies.
+
+00:08:35.657 --> 00:08:38.026
+Now, we've talked about
+augmenting the patient.
+
+00:08:38.050 --> 00:08:39.726
+How about augmenting the physician?
+
+00:08:39.750 --> 00:08:42.140
+We're now in the era
+of super-enabling the surgeon,
+
+00:08:42.164 --> 00:08:45.626
+who can now go into the body and do
+robotic surgery, which is here today,
+
+00:08:45.650 --> 00:08:49.113
+at a level that was not really possible
+even five years ago.
+
+00:08:49.137 --> 00:08:52.257
+And now this is being augmented
+with further layers of technology,
+
+00:08:52.281 --> 00:08:53.436
+like augmented reality.
+
+00:08:53.460 --> 00:08:56.391
+So the surgeon can see
+inside the patient, through their lens,
+
+00:08:56.415 --> 00:08:58.726
+where the tumor is,
+where the blood vessels are.
+
+00:08:58.750 --> 00:09:00.855
+This can be integrated
+with decision support.
+
+00:09:00.879 --> 00:09:04.040
+A surgeon in New York can help
+a surgeon in Amsterdam, for example.
+
+00:09:04.064 --> 00:09:07.440
+And we're entering an era
+of truly scarless surgery called NOTES,
+
+00:09:07.464 --> 00:09:10.055
+where the robotic endoscope
+can come out the stomach
+
+00:09:10.079 --> 00:09:11.527
+and pull out that gallbladder,
+
+00:09:11.551 --> 00:09:13.902
+all in a scarless way and robotically.
+
+00:09:13.926 --> 00:09:17.242
+This is called NOTES, and it's coming --
+basically scarless surgery,
+
+00:09:17.266 --> 00:09:19.324
+as mediated by robotic surgery.
+
+00:09:19.348 --> 00:09:21.444
+Now, how about controlling other elements?
+
+00:09:21.468 --> 00:09:23.898
+For those who have
+disabilities -- the paraplegic,
+
+00:09:23.922 --> 00:09:26.709
+there's the brain-computer
+interface, or BCI,
+
+00:09:26.733 --> 00:09:28.922
+where chips have been put
+on the motor cortex
+
+00:09:28.946 --> 00:09:30.766
+of completely quadriplegic patients,
+
+00:09:30.790 --> 00:09:33.450
+and they can control
+a cursor or a wheelchair
+
+00:09:33.474 --> 00:09:35.007
+or, potentially, a robotic arm.
+
+00:09:35.031 --> 00:09:36.627
+These devices are getting smaller
+
+00:09:36.651 --> 00:09:38.878
+and going into more and more
+of these patients.
+
+00:09:38.902 --> 00:09:40.114
+Still in clinical trials,
+
+00:09:40.138 --> 00:09:42.539
+but imagine when we can connect
+these, for example,
+
+00:09:42.563 --> 00:09:44.179
+to the amazing bionic limb,
+
+00:09:44.203 --> 00:09:47.025
+such as the DEKA Arm,
+built by Dean Kamen and colleagues,
+
+00:09:47.049 --> 00:09:49.069
+which has 17 degrees
+of motion and freedom,
+
+00:09:49.093 --> 00:09:51.121
+and can allow the person who's lost a limb
+
+00:09:51.145 --> 00:09:54.480
+to have much higher dexterity or control
+than they've had in the past.
+
+00:09:54.504 --> 00:09:57.548
+So we're really entering the era
+of wearable robotics, actually.
+
+00:09:57.572 --> 00:09:59.786
+If you haven't lost a limb
+but had a stroke,
+
+00:09:59.810 --> 00:10:01.497
+you can wear these augmented limbs.
+
+00:10:01.521 --> 00:10:05.017
+Or if you're a paraplegic -- I've visited
+the folks at Berkeley Bionics --
+
+00:10:05.041 --> 00:10:06.210
+they've developed eLEGS.
+
+00:10:06.234 --> 00:10:07.600
+I took this video last week.
+
+00:10:07.624 --> 00:10:11.409
+Here's a paraplegic patient, walking
+by strapping on these exoskeletons.
+
+00:10:11.433 --> 00:10:13.444
+He's otherwise completely
+wheelchair-bound.
+
+00:10:13.468 --> 00:10:15.484
+This is the early era
+of wearable robotics.
+
+00:10:15.508 --> 00:10:17.787
+And by leveraging
+these sorts of technologies,
+
+00:10:17.811 --> 00:10:20.148
+we're going to change
+the definition of disability
+
+00:10:20.172 --> 00:10:22.702
+to, in some cases, be superability,
+or super-enabling.
+
+00:10:22.726 --> 00:10:25.916
+This is Aimee Mullins, who lost
+her lower limbs as a young child,
+
+00:10:25.940 --> 00:10:28.253
+and Hugh Herr, who's a professor at MIT,
+
+00:10:28.277 --> 00:10:30.278
+who lost his limbs in a climbing accident.
+
+00:10:30.302 --> 00:10:33.697
+And now both of them can climb better,
+move faster, swim differently
+
+00:10:33.721 --> 00:10:37.208
+with their prosthetics
+than us normal-abled persons.
+
+00:10:37.232 --> 00:10:38.672
+How about other exponentials?
+
+00:10:38.696 --> 00:10:42.106
+Clearly the obesity trend is exponentially
+going in the wrong direction,
+
+00:10:42.130 --> 00:10:43.565
+including with huge costs.
+
+00:10:43.589 --> 00:10:46.712
+But the trend in medicine
+is to get exponentially smaller.
+
+00:10:46.736 --> 00:10:50.311
+A few examples: we're now in the era
+of "Fantastic Voyage," the iPill.
+
+00:10:50.335 --> 00:10:52.736
+You can swallow this
+completely integrated device.
+
+00:10:52.760 --> 00:10:54.626
+It can take pictures of your GI system,
+
+00:10:54.650 --> 00:10:57.406
+help diagnose and treat
+as it moves through your GI tract.
+
+00:10:57.430 --> 00:10:59.249
+We get into even smaller micro-robots
+
+00:10:59.273 --> 00:11:02.170
+that will eventually, autonomously,
+move through your system,
+
+00:11:02.194 --> 00:11:04.251
+and be able to do things surgeons can't do
+
+00:11:04.275 --> 00:11:05.811
+in a much less invasive manner.
+
+00:11:05.835 --> 00:11:08.424
+Sometimes these might
+self-assemble in your GI system,
+
+00:11:08.448 --> 00:11:10.172
+and be augmented in that reality.
+
+00:11:10.196 --> 00:11:12.688
+On the cardiac side,
+pacemakers are getting smaller
+
+00:11:12.712 --> 00:11:14.049
+and much easier to place,
+
+00:11:14.073 --> 00:11:17.156
+so no need to train an interventional
+cardiologist to place them.
+
+00:11:17.180 --> 00:11:20.116
+And they'll be wirelessly telemetered
+to your mobile devices,
+
+00:11:20.140 --> 00:11:22.626
+so you can go places
+and be monitored remotely.
+
+00:11:22.650 --> 00:11:24.248
+These are shrinking even further.
+
+00:11:24.272 --> 00:11:27.528
+This one is in prototyping
+by Medtronic; it's smaller than a penny.
+
+00:11:27.552 --> 00:11:30.977
+Artificial retinas, the ability to put
+arrays on the back of the eyeball
+
+00:11:31.001 --> 00:11:32.425
+and allow the blind to see --
+
+00:11:32.449 --> 00:11:34.760
+also in early trials,
+but moving into the future.
+
+00:11:34.784 --> 00:11:36.515
+These are going to be game-changing.
+
+00:11:36.539 --> 00:11:38.227
+Or for those of us who are sighted,
+
+00:11:38.251 --> 00:11:40.613
+how about having
+the assisted-living contact lens?
+
+00:11:40.637 --> 00:11:43.459
+Bluetooth, Wi-Fi available --
+beams back images to your eye.
+
+00:11:43.483 --> 00:11:44.506
+(Laughter)
+
+00:11:44.530 --> 00:11:46.733
+Now, if you have trouble
+maintaining your diet,
+
+00:11:46.757 --> 00:11:48.713
+it might help to have some extra imagery
+
+00:11:48.737 --> 00:11:52.371
+to remind you how many calories
+are going to be coming at you.
+
+00:11:52.395 --> 00:11:55.146
+How about enabling the pathologist
+to use their cell phone
+
+00:11:55.170 --> 00:11:56.716
+to see at a microscopic level
+
+00:11:56.740 --> 00:12:00.054
+and to lumber that data back to the cloud
+and make better diagnostics?
+
+00:12:00.078 --> 00:12:02.364
+In fact, the whole era
+of laboratory medicine
+
+00:12:02.388 --> 00:12:03.540
+is completely changing.
+
+00:12:03.564 --> 00:12:05.517
+We can now leverage microfluidics,
+
+00:12:05.541 --> 00:12:07.758
+like this chip made
+by Steve Quake at Stanford.
+
+00:12:07.782 --> 00:12:10.418
+Microfluidics can replace
+an entire lab of technicians;
+
+00:12:10.442 --> 00:12:13.581
+put it on a chip, enable thousands
+of tests at the point of care,
+
+00:12:13.605 --> 00:12:14.757
+anywhere in the world.
+
+00:12:14.781 --> 00:12:18.185
+This will really leverage technology
+to the rural and the underserved
+
+00:12:18.209 --> 00:12:21.724
+and enable what used to be thousand-dollar
+tests to be done for pennies,
+
+00:12:21.748 --> 00:12:23.100
+and at the point of care.
+
+00:12:23.124 --> 00:12:25.625
+If we go down the small
+pathway a little bit further,
+
+00:12:25.649 --> 00:12:27.548
+we're entering the era of nanomedicine,
+
+00:12:27.572 --> 00:12:29.494
+the ability to make devices super-small,
+
+00:12:29.518 --> 00:12:31.838
+to the point where we can
+design red blood cells
+
+00:12:31.862 --> 00:12:34.937
+or microrobots that monitor
+our blood system or immune system,
+
+00:12:34.961 --> 00:12:38.049
+or even those that might clear out
+the clots from our arteries.
+
+00:12:38.073 --> 00:12:39.813
+Now how about exponentially cheaper?
+
+00:12:39.837 --> 00:12:42.670
+Not something we usually think
+about in the era of medicine,
+
+00:12:42.694 --> 00:12:46.598
+but hard disks used to be 3,400 dollars
+for 10 megabytes -- exponentially cheaper.
+
+00:12:46.622 --> 00:12:49.284
+In genomics now, the genome
+cost about a billion dollars
+
+00:12:49.308 --> 00:12:51.567
+about 10 years ago,
+when the first one came out.
+
+00:12:51.591 --> 00:12:54.955
+We're now approaching essentially
+a $1,000 genome, probably next year.
+
+00:12:54.979 --> 00:12:56.512
+And in two years, a $100 genome.
+
+00:12:56.536 --> 00:12:58.260
+What will we do with $100 genomes?
+
+00:12:58.284 --> 00:13:00.638
+Soon we'll have millions
+of these tests available.
+
+00:13:00.662 --> 00:13:04.153
+Then it gets interesting, when we start
+to crowd-source that information,
+
+00:13:04.177 --> 00:13:06.423
+and enter the era
+of true personalized medicine:
+
+00:13:06.447 --> 00:13:08.979
+the right drug for the right person
+at the right time,
+
+00:13:09.003 --> 00:13:12.296
+instead of what we're doing now,
+which is the same drug for everybody,
+
+00:13:12.320 --> 00:13:15.426
+blockbuster drug medications,
+which don't work for the individual.
+
+00:13:15.450 --> 00:13:18.669
+Many different companies are working
+on leveraging these approaches.
+
+00:13:18.693 --> 00:13:21.098
+I'll show you a simple example,
+from 23andMe again.
+
+00:13:21.122 --> 00:13:23.232
+My data indicates
+I've got about average risk
+
+00:13:23.256 --> 00:13:25.947
+for developing macular degeneration,
+a kind of blindness.
+
+00:13:25.971 --> 00:13:28.597
+But if I take that same data,
+upload it to deCODEme,
+
+00:13:28.621 --> 00:13:32.876
+I can look at my risk for type 2 diabetes;
+I'm at almost twice the risk.
+
+00:13:32.900 --> 00:13:36.117
+I might want to watch how much dessert
+I have at lunch, for example.
+
+00:13:36.141 --> 00:13:37.492
+It might change my behavior.
+
+00:13:37.516 --> 00:13:39.758
+Leveraging my knowledge
+of my pharmacogenomics:
+
+00:13:39.782 --> 00:13:43.117
+how my genes modulate,
+what my drugs do and what doses I need
+
+00:13:43.141 --> 00:13:44.832
+will become increasingly important,
+
+00:13:44.856 --> 00:13:47.207
+and once in the hands
+of individuals and patients,
+
+00:13:47.231 --> 00:13:49.753
+will make better drug dosing
+and selection available.
+
+00:13:49.777 --> 00:13:52.619
+So again, it's not just genes,
+it's multiple details --
+
+00:13:52.643 --> 00:13:54.762
+our habits, our environmental exposures.
+
+00:13:54.786 --> 00:13:57.597
+When was the last time your doctor
+asked where you've lived?
+
+00:13:57.621 --> 00:14:00.332
+Geomedicine: where you live,
+what you've been exposed to,
+
+00:14:00.356 --> 00:14:02.073
+can dramatically affect your health.
+
+00:14:02.097 --> 00:14:03.628
+We can capture that information.
+
+00:14:03.652 --> 00:14:05.561
+Genomics, proteomics, the environment --
+
+00:14:05.585 --> 00:14:08.450
+all this data streaming at us
+individually and as physicians:
+
+00:14:08.474 --> 00:14:09.626
+How do we manage it?
+
+00:14:09.650 --> 00:14:12.712
+We're now entering the era
+of systems medicine, systems biology,
+
+00:14:12.736 --> 00:14:15.237
+where we can start to integrate
+all this information.
+
+00:14:15.261 --> 00:14:18.069
+And by looking at the patterns,
+for example, in our blood,
+
+00:14:18.093 --> 00:14:19.906
+of 10,000 biomarkers in a single test,
+
+00:14:19.930 --> 00:14:23.465
+we can look at patterns and detect disease
+at a much earlier stage.
+
+00:14:23.489 --> 00:14:26.923
+This is called by Lee Hood,
+the father of the field, P4 Medicine.
+
+00:14:26.947 --> 00:14:29.573
+We'll be predictive and know
+what you're likely to have.
+
+00:14:29.597 --> 00:14:32.420
+We can be preventative;
+that prevention can be personalized.
+
+00:14:32.444 --> 00:14:34.973
+More importantly,
+it'll be increasingly participatory.
+
+00:14:34.997 --> 00:14:36.836
+Through websites like PatientsLikeMe
+
+00:14:36.860 --> 00:14:39.971
+or managing your data on Microsoft
+HealthVault or Google Health,
+
+00:14:39.995 --> 00:14:42.142
+leveraging this together
+in participatory ways
+
+00:14:42.166 --> 00:14:43.650
+will be increasingly important.
+
+00:14:43.674 --> 00:14:45.630
+I'll finish up with exponentially better.
+
+00:14:45.654 --> 00:14:48.171
+We'd like to get therapies
+better and more effective.
+
+00:14:48.195 --> 00:14:50.676
+Today we treat high blood pressure
+mostly with pills.
+
+00:14:50.700 --> 00:14:52.087
+What if we take a new device,
+
+00:14:52.111 --> 00:14:54.997
+knock out the nerve vessels
+that help mediate blood pressure,
+
+00:14:55.021 --> 00:14:57.626
+and in a single therapy,
+basically cure hypertension?
+
+00:14:57.650 --> 00:14:59.711
+This is a new device
+doing essentially that.
+
+00:14:59.735 --> 00:15:01.797
+It should be on the market
+in a year or two.
+
+00:15:01.821 --> 00:15:03.925
+How about more targeted
+therapies for cancer?
+
+00:15:03.949 --> 00:15:07.498
+I'm an oncologist and know that most
+of what we give is essentially poison.
+
+00:15:07.522 --> 00:15:11.311
+We learned at Stanford and other places
+that we can discover cancer stem cells,
+
+00:15:11.335 --> 00:15:14.563
+the ones that seem to be really
+responsible for disease relapse.
+
+00:15:14.587 --> 00:15:16.506
+So if you think of cancer as a weed,
+
+00:15:16.530 --> 00:15:19.423
+we often can whack the weed away
+and it seems to shrink,
+
+00:15:19.447 --> 00:15:20.615
+but it often comes back.
+
+00:15:20.639 --> 00:15:22.376
+So we're attacking the wrong target.
+
+00:15:22.400 --> 00:15:23.862
+The cancer stem cells remain,
+
+00:15:23.886 --> 00:15:26.142
+and the tumor can return
+months or years later.
+
+00:15:26.166 --> 00:15:28.647
+We're now learning to identify
+the cancer stem cells
+
+00:15:28.671 --> 00:15:31.787
+and identify those as targets
+and go for the long-term cure.
+
+00:15:31.811 --> 00:15:34.104
+We're entering the era
+of personalized oncology,
+
+00:15:34.128 --> 00:15:36.491
+the ability to leverage
+all of this data together,
+
+00:15:36.515 --> 00:15:37.666
+analyze the tumor
+
+00:15:37.690 --> 00:15:41.004
+and come up with a real, specific cocktail
+for the individual patient.
+
+00:15:41.028 --> 00:15:42.861
+I'll close with regenerative medicine.
+
+00:15:42.885 --> 00:15:44.627
+I've studied a lot about stem cells.
+
+00:15:44.651 --> 00:15:46.853
+Embryonic stem cells
+are particularly powerful.
+
+00:15:46.877 --> 00:15:48.988
+We have adult stem cells
+throughout our body;
+
+00:15:49.012 --> 00:15:51.137
+we use those in bone marrow
+transplantation.
+
+00:15:51.161 --> 00:15:54.963
+Geron, last year, started the first trial
+using human embryonic stem cells
+
+00:15:54.987 --> 00:15:56.552
+to treat spinal cord injuries.
+
+00:15:56.576 --> 00:15:58.626
+Still a phase I trial, but evolving.
+
+00:15:58.650 --> 00:16:02.423
+We've been using adult stem cells
+in clinical trials for about 15 years
+
+00:16:02.447 --> 00:16:06.026
+to approach a whole range of topics,
+particularly cardiovascular disease.
+
+00:16:06.050 --> 00:16:09.766
+If we take our own bone marrow cells
+and treat a patient with a heart attack,
+
+00:16:09.790 --> 00:16:12.702
+we can see much improved
+heart function and better survival
+
+00:16:12.726 --> 00:16:15.679
+using our own bone marrow derived cells
+after a heart attack.
+
+00:16:15.703 --> 00:16:17.739
+I invented a device
+called the MarrowMiner,
+
+00:16:17.763 --> 00:16:20.200
+a much less invasive way
+for harvesting bone marrow.
+
+00:16:20.224 --> 00:16:23.483
+It's now been FDA approved;
+hopefully on the market in the next year.
+
+00:16:23.507 --> 00:16:25.384
+Hopefully you can appreciate the device
+
+00:16:25.408 --> 00:16:29.178
+going through the patient's body removing
+bone marrow, not with 200 punctures,
+
+00:16:29.202 --> 00:16:31.595
+but with a single puncture,
+under local anesthesia.
+
+00:16:31.619 --> 00:16:33.203
+Where is stem-cell therapy going?
+
+00:16:33.227 --> 00:16:34.378
+If you think about it,
+
+00:16:34.402 --> 00:16:37.877
+every cell in your body has the same DNA
+you had when you were an embryo.
+
+00:16:37.901 --> 00:16:39.845
+We can now reprogram your skin cells
+
+00:16:39.869 --> 00:16:42.782
+to actually act like a pluripotent
+embryonic stem cell
+
+00:16:42.806 --> 00:16:46.454
+and utilize those, potentially, to treat
+multiple organs in the same patient,
+
+00:16:46.478 --> 00:16:48.201
+making personalized stem cell lines.
+
+00:16:48.225 --> 00:16:51.010
+I think there'll be a new era
+of your own stem cell banking
+
+00:16:51.034 --> 00:16:54.502
+to have in the freezer your own cardiac
+cells, myocytes and neural cells
+
+00:16:54.526 --> 00:16:56.879
+to use them in the future,
+should you need them.
+
+00:16:56.903 --> 00:17:00.125
+We're integrating this now
+with a whole era of cellular engineering,
+
+00:17:00.149 --> 00:17:03.717
+and integrating exponential technologies
+for essentially 3D organ printing,
+
+00:17:03.741 --> 00:17:05.425
+replacing the ink with cells,
+
+00:17:05.449 --> 00:17:08.246
+and essentially building
+and reconstructing a 3D organ.
+
+00:17:08.270 --> 00:17:09.796
+That's where things are heading.
+
+00:17:09.820 --> 00:17:10.981
+Still very early days,
+
+00:17:11.005 --> 00:17:13.752
+but I think, as integration
+of exponential technologies,
+
+00:17:13.776 --> 00:17:14.940
+this is the example.
+
+00:17:14.964 --> 00:17:17.451
+So in closing, as you think
+about technology trends
+
+00:17:17.475 --> 00:17:19.315
+and how to impact health and medicine,
+
+00:17:19.339 --> 00:17:21.316
+we're entering an era of miniaturization,
+
+00:17:21.340 --> 00:17:23.562
+decentralization and personalization.
+
+00:17:23.586 --> 00:17:25.394
+And by pulling these things together,
+
+00:17:25.418 --> 00:17:28.403
+if we start to think about
+how to understand and leverage them,
+
+00:17:28.427 --> 00:17:31.778
+we're going to empower the patient,
+enable the doctor, enhance wellness
+
+00:17:31.802 --> 00:17:34.249
+and begin to cure the well
+before they get sick.
+
+00:17:34.273 --> 00:17:37.811
+Because I know as a doctor, if someone
+comes to me with stage I disease,
+
+00:17:37.835 --> 00:17:39.626
+I'm thrilled; we can often cure them.
+
+00:17:39.650 --> 00:17:40.820
+But often it's too late,
+
+00:17:40.844 --> 00:17:42.973
+and it's stage III or IV
+cancer, for example.
+
+00:17:42.997 --> 00:17:45.112
+So by leveraging
+these technologies together,
+
+00:17:45.136 --> 00:17:48.373
+I think we'll enter a new era
+that I like to call stage 0 medicine.
+
+00:17:48.397 --> 00:17:51.666
+And as a cancer doctor,
+I'm looking forward to being out of a job.
+
+00:17:51.690 --> 00:17:52.912
+Thanks very much.
+
+00:17:52.936 --> 00:17:54.914
+(Applause)
+
+00:17:54.938 --> 00:17:56.635
+Host: Thank you. Thank you.
+
+00:17:56.659 --> 00:17:58.459
+(Applause)
+
+00:17:58.483 --> 00:18:00.483
+Take a bow, take a bow.
+

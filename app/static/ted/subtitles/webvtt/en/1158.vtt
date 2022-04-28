@@ -1,0 +1,623 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Many believe driving is an activity
+
+00:00:03.000 --> 00:00:05.000
+solely reserved for those who can see.
+
+00:00:05.000 --> 00:00:08.000
+A blind person driving a vehicle safely and independently
+
+00:00:08.000 --> 00:00:11.000
+was thought to be an impossible task, until now.
+
+00:00:11.000 --> 00:00:13.000
+Hello, my name is Dennis Hong,
+
+00:00:13.000 --> 00:00:15.000
+and we're bringing freedom and independence to the blind
+
+00:00:15.000 --> 00:00:18.000
+by building a vehicle for the visually impaired.
+
+00:00:18.000 --> 00:00:21.000
+So before I talk about this car for the blind,
+
+00:00:21.000 --> 00:00:23.000
+let me briefly tell you about another project that I worked on
+
+00:00:23.000 --> 00:00:25.000
+called the DARPA Urban Challenge.
+
+00:00:25.000 --> 00:00:27.000
+Now this was about building a robotic car
+
+00:00:27.000 --> 00:00:29.000
+that can drive itself.
+
+00:00:29.000 --> 00:00:31.000
+You press start, nobody touches anything,
+
+00:00:31.000 --> 00:00:34.000
+and it can reach its destination fully autonomously.
+
+00:00:34.000 --> 00:00:37.000
+So in 2007, our team won half a million dollars
+
+00:00:37.000 --> 00:00:39.000
+by placing third place in this competition.
+
+00:00:39.000 --> 00:00:41.000
+So about that time,
+
+00:00:41.000 --> 00:00:43.000
+the National Federation of the Blind, or NFB,
+
+00:00:43.000 --> 00:00:45.000
+challenged the research committee
+
+00:00:45.000 --> 00:00:47.000
+about who can develop a car
+
+00:00:47.000 --> 00:00:49.000
+that lets a blind person drive safely and independently.
+
+00:00:49.000 --> 00:00:51.000
+We decided to give it a try,
+
+00:00:51.000 --> 00:00:53.000
+because we thought, "Hey, how hard could it be?"
+
+00:00:53.000 --> 00:00:55.000
+We have already an autonomous vehicle.
+
+00:00:55.000 --> 00:00:57.000
+We just put a blind person in it and we're done, right?
+
+00:00:57.000 --> 00:00:59.000
+(Laughter)
+
+00:00:59.000 --> 00:01:01.000
+We couldn't have been more wrong.
+
+00:01:01.000 --> 00:01:03.000
+What NFB wanted
+
+00:01:03.000 --> 00:01:06.000
+was not a vehicle that can drive a blind person around,
+
+00:01:06.000 --> 00:01:09.000
+but a vehicle where a blind person can make active decisions and drive.
+
+00:01:09.000 --> 00:01:11.000
+So we had to throw everything out the window
+
+00:01:11.000 --> 00:01:13.000
+and start from scratch.
+
+00:01:13.000 --> 00:01:15.000
+So to test this crazy idea,
+
+00:01:15.000 --> 00:01:17.000
+we developed a small dune buggy prototype vehicle
+
+00:01:17.000 --> 00:01:19.000
+to test the feasibility.
+
+00:01:19.000 --> 00:01:21.000
+And in the summer of 2009,
+
+00:01:21.000 --> 00:01:24.000
+we invited dozens of blind youth from all over the country
+
+00:01:24.000 --> 00:01:26.000
+and gave them a chance to take it for a spin.
+
+00:01:26.000 --> 00:01:28.000
+It was an absolutely amazing experience.
+
+00:01:28.000 --> 00:01:30.000
+But the problem with this car was
+
+00:01:30.000 --> 00:01:33.000
+it was designed to only be driven in a very controlled environment,
+
+00:01:33.000 --> 00:01:35.000
+in a flat, closed-off parking lot --
+
+00:01:35.000 --> 00:01:37.000
+even the lanes defined by red traffic cones.
+
+00:01:37.000 --> 00:01:39.000
+So with this success,
+
+00:01:39.000 --> 00:01:41.000
+we decided to take the next big step,
+
+00:01:41.000 --> 00:01:44.000
+to develop a real car that can be driven on real roads.
+
+00:01:44.000 --> 00:01:46.000
+So how does it work?
+
+00:01:46.000 --> 00:01:48.000
+Well, it's a rather complex system,
+
+00:01:48.000 --> 00:01:51.000
+but let me try to explain it, maybe simplify it.
+
+00:01:51.000 --> 00:01:53.000
+So we have three steps.
+
+00:01:53.000 --> 00:01:55.000
+We have perception, computation
+
+00:01:55.000 --> 00:01:57.000
+and non-visual interfaces.
+
+00:01:57.000 --> 00:01:59.000
+Now obviously the driver cannot see,
+
+00:01:59.000 --> 00:02:01.000
+so the system needs to perceive the environment
+
+00:02:01.000 --> 00:02:03.000
+and gather information for the driver.
+
+00:02:03.000 --> 00:02:06.000
+For that, we use an initial measurement unit.
+
+00:02:06.000 --> 00:02:08.000
+So it measures acceleration, angular acceleration --
+
+00:02:08.000 --> 00:02:10.000
+like a human ear, inner ear.
+
+00:02:10.000 --> 00:02:12.000
+We fuse that information with a GPS unit
+
+00:02:12.000 --> 00:02:15.000
+to get an estimate of the location of the car.
+
+00:02:15.000 --> 00:02:18.000
+We also use two cameras to detect the lanes of the road.
+
+00:02:18.000 --> 00:02:20.000
+And we also use three laser range finders.
+
+00:02:20.000 --> 00:02:23.000
+The lasers scan the environment to detect obstacles --
+
+00:02:23.000 --> 00:02:25.000
+a car approaching from the front, the back
+
+00:02:25.000 --> 00:02:28.000
+and also any obstacles that run into the roads,
+
+00:02:28.000 --> 00:02:30.000
+any obstacles around the vehicle.
+
+00:02:30.000 --> 00:02:33.000
+So all this vast amount of information is then fed into the computer,
+
+00:02:33.000 --> 00:02:35.000
+and the computer can do two things.
+
+00:02:35.000 --> 00:02:38.000
+One is, first of all, process this information
+
+00:02:38.000 --> 00:02:40.000
+to have an understanding of the environment --
+
+00:02:40.000 --> 00:02:43.000
+these are the lanes of the road, there's the obstacles --
+
+00:02:43.000 --> 00:02:45.000
+and convey this information to the driver.
+
+00:02:45.000 --> 00:02:47.000
+The system is also smart enough
+
+00:02:47.000 --> 00:02:49.000
+to figure out the safest way to operate the car.
+
+00:02:49.000 --> 00:02:51.000
+So we can also generate instructions
+
+00:02:51.000 --> 00:02:53.000
+on how to operate the controls of the vehicle.
+
+00:02:53.000 --> 00:02:55.000
+But the problem is this: How do we convey
+
+00:02:55.000 --> 00:02:57.000
+this information and instructions
+
+00:02:57.000 --> 00:02:59.000
+to a person who cannot see
+
+00:02:59.000 --> 00:03:02.000
+fast enough and accurate enough so he can drive?
+
+00:03:02.000 --> 00:03:04.000
+So for this, we developed many different types
+
+00:03:04.000 --> 00:03:07.000
+of non-visual user interface technology.
+
+00:03:07.000 --> 00:03:09.000
+So starting from a three-dimensional ping sound system,
+
+00:03:09.000 --> 00:03:11.000
+a vibrating vest,
+
+00:03:11.000 --> 00:03:14.000
+a click wheel with voice commands, a leg strip,
+
+00:03:14.000 --> 00:03:16.000
+even a shoe that applies pressure to the foot.
+
+00:03:16.000 --> 00:03:18.000
+But today we're going to talk about
+
+00:03:18.000 --> 00:03:20.000
+three of these non-visual user interfaces.
+
+00:03:20.000 --> 00:03:23.000
+Now the first interface is called a DriveGrip.
+
+00:03:23.000 --> 00:03:25.000
+So these are a pair of gloves,
+
+00:03:25.000 --> 00:03:27.000
+and it has vibrating elements on the knuckle part
+
+00:03:27.000 --> 00:03:30.000
+so you can convey instructions about how to steer --
+
+00:03:30.000 --> 00:03:32.000
+the direction and the intensity.
+
+00:03:32.000 --> 00:03:34.000
+Another device is called SpeedStrip.
+
+00:03:34.000 --> 00:03:37.000
+So this is a chair -- as a matter of fact, it's actually a massage chair.
+
+00:03:37.000 --> 00:03:41.000
+We gut it out, and we rearrange the vibrating elements in different patterns,
+
+00:03:41.000 --> 00:03:44.000
+and we actuate them to convey information about the speed,
+
+00:03:44.000 --> 00:03:47.000
+and also instructions how to use the gas and the brake pedal.
+
+00:03:47.000 --> 00:03:49.000
+So over here, you can see
+
+00:03:49.000 --> 00:03:51.000
+how the computer understands the environment,
+
+00:03:51.000 --> 00:03:53.000
+and because you cannot see the vibration,
+
+00:03:53.000 --> 00:03:56.000
+we actually put red LED's on the driver so that you can see what's happening.
+
+00:03:56.000 --> 00:03:58.000
+This is the sensory data,
+
+00:03:58.000 --> 00:04:01.000
+and that data is transferred to the devices through the computer.
+
+00:04:01.000 --> 00:04:03.000
+So these two devices, DriveGrip and SpeedStrip,
+
+00:04:03.000 --> 00:04:05.000
+are very effective.
+
+00:04:05.000 --> 00:04:07.000
+But the problem is
+
+00:04:07.000 --> 00:04:09.000
+these are instructional cue devices.
+
+00:04:09.000 --> 00:04:11.000
+So this is not really freedom, right?
+
+00:04:11.000 --> 00:04:13.000
+The computer tells you how to drive --
+
+00:04:13.000 --> 00:04:15.000
+turn left, turn right, speed up, stop.
+
+00:04:15.000 --> 00:04:17.000
+We call this the "backseat-driver problem."
+
+00:04:17.000 --> 00:04:20.000
+So we're moving away from the instructional cue devices,
+
+00:04:20.000 --> 00:04:22.000
+and we're now focusing more
+
+00:04:22.000 --> 00:04:24.000
+on the informational devices.
+
+00:04:24.000 --> 00:04:26.000
+A good example for this informational non-visual user interface
+
+00:04:26.000 --> 00:04:28.000
+is called AirPix.
+
+00:04:28.000 --> 00:04:30.000
+So think of it as a monitor for the blind.
+
+00:04:30.000 --> 00:04:32.000
+So it's a small tablet, has many holes in it,
+
+00:04:32.000 --> 00:04:34.000
+and compressed air comes out,
+
+00:04:34.000 --> 00:04:36.000
+so it can actually draw images.
+
+00:04:36.000 --> 00:04:38.000
+So even though you are blind, you can put your hand over it,
+
+00:04:38.000 --> 00:04:40.000
+you can see the lanes of the road and obstacles.
+
+00:04:40.000 --> 00:04:43.000
+Actually, you can also change the frequency of the air coming out
+
+00:04:43.000 --> 00:04:45.000
+and possibly the temperature.
+
+00:04:45.000 --> 00:04:48.000
+So it's actually a multi-dimensional user interface.
+
+00:04:48.000 --> 00:04:51.000
+So here you can see the left camera, the right camera from the vehicle
+
+00:04:51.000 --> 00:04:54.000
+and how the computer interprets that and sends that information to the AirPix.
+
+00:04:54.000 --> 00:04:56.000
+For this, we're showing a simulator,
+
+00:04:56.000 --> 00:04:59.000
+a blind person driving using the AirPix.
+
+00:04:59.000 --> 00:05:02.000
+This simulator was also very useful for training the blind drivers
+
+00:05:02.000 --> 00:05:04.000
+and also quickly testing different types of ideas
+
+00:05:04.000 --> 00:05:06.000
+for different types of non-visual user interfaces.
+
+00:05:06.000 --> 00:05:08.000
+So basically that's how it works.
+
+00:05:08.000 --> 00:05:10.000
+So just a month ago,
+
+00:05:10.000 --> 00:05:12.000
+on January 29th,
+
+00:05:12.000 --> 00:05:14.000
+we unveiled this vehicle for the very first time to the public
+
+00:05:14.000 --> 00:05:17.000
+at the world-famous Daytona International Speedway
+
+00:05:17.000 --> 00:05:19.000
+during the Rolex 24 racing event.
+
+00:05:19.000 --> 00:05:22.000
+We also had some surprises. Let's take a look.
+
+00:05:22.000 --> 00:05:32.000
+(Music)
+
+00:05:32.000 --> 00:05:36.000
+(Video) Announcer: This is an historic day in January.
+
+00:05:36.000 --> 00:05:40.000
+He's coming up to the grandstand, fellow Federationists.
+
+00:05:40.000 --> 00:05:46.000
+(Cheering)
+
+00:05:46.000 --> 00:05:49.000
+(Honking)
+
+00:05:49.000 --> 00:05:51.000
+There's the grandstand now.
+
+00:05:51.000 --> 00:05:55.000
+And he's [unclear] following that van that's out in front of him.
+
+00:05:55.000 --> 00:05:57.000
+Well there comes the first box.
+
+00:05:57.000 --> 00:06:00.000
+Now let's see if Mark avoids it.
+
+00:06:00.000 --> 00:06:03.000
+He does. He passes it on the right.
+
+00:06:05.000 --> 00:06:08.000
+Third box is out. The fourth box is out.
+
+00:06:08.000 --> 00:06:11.000
+And he's perfectly making his way between the two.
+
+00:06:11.000 --> 00:06:13.000
+He's closing in on the van
+
+00:06:13.000 --> 00:06:16.000
+to make the moving pass.
+
+00:06:17.000 --> 00:06:19.000
+Well this is what it's all about,
+
+00:06:19.000 --> 00:06:23.000
+this kind of dynamic display of audacity and ingenuity.
+
+00:06:24.000 --> 00:06:27.000
+He's approaching the end of the run,
+
+00:06:27.000 --> 00:06:32.000
+makes his way between the barrels that are set up there.
+
+00:06:32.000 --> 00:06:35.000
+(Honking)
+
+00:06:35.000 --> 00:06:38.000
+(Applause)
+
+00:06:41.000 --> 00:06:43.000
+Dennis Hong: I'm so happy for you.
+
+00:06:43.000 --> 00:06:45.000
+Mark's going to give me a ride back to the hotel.
+
+00:06:45.000 --> 00:06:47.000
+Mark Riccobono: Yes.
+
+00:06:50.000 --> 00:06:59.000
+(Applause)
+
+00:06:59.000 --> 00:07:01.000
+DH: So since we started this project,
+
+00:07:01.000 --> 00:07:04.000
+we've been getting hundreds of letters, emails, phone calls
+
+00:07:04.000 --> 00:07:06.000
+from people from all around the world.
+
+00:07:06.000 --> 00:07:09.000
+Letters thanking us, but sometimes you also get funny letters like this one:
+
+00:07:09.000 --> 00:07:13.000
+"Now I understand why there is Braille on a drive-up ATM machine."
+
+00:07:13.000 --> 00:07:15.000
+(Laughter)
+
+00:07:15.000 --> 00:07:17.000
+But sometimes --
+
+00:07:17.000 --> 00:07:19.000
+(Laughter)
+
+00:07:19.000 --> 00:07:21.000
+But sometimes I also do get --
+
+00:07:21.000 --> 00:07:23.000
+I wouldn't call it hate mail --
+
+00:07:23.000 --> 00:07:25.000
+but letters of really strong concern:
+
+00:07:25.000 --> 00:07:27.000
+"Dr. Hong, are you insane,
+
+00:07:27.000 --> 00:07:29.000
+trying to put blind people on the road?
+
+00:07:29.000 --> 00:07:31.000
+You must be out of your mind."
+
+00:07:31.000 --> 00:07:33.000
+But this vehicle is a prototype vehicle,
+
+00:07:33.000 --> 00:07:35.000
+and it's not going to be on the road
+
+00:07:35.000 --> 00:07:37.000
+until it's proven as safe as, or safer than, today's vehicle.
+
+00:07:37.000 --> 00:07:40.000
+And I truly believe that this can happen.
+
+00:07:40.000 --> 00:07:42.000
+But still, will the society,
+
+00:07:42.000 --> 00:07:44.000
+would they accept such a radical idea?
+
+00:07:44.000 --> 00:07:46.000
+How are we going to handle insurance?
+
+00:07:46.000 --> 00:07:48.000
+How are we going to issue driver's licenses?
+
+00:07:48.000 --> 00:07:51.000
+There's many of these different kinds of hurdles besides technology challenges
+
+00:07:51.000 --> 00:07:54.000
+that we need to address before this becomes a reality.
+
+00:07:54.000 --> 00:07:56.000
+Of course, the main goal of this project
+
+00:07:56.000 --> 00:07:58.000
+is to develop a car for the blind.
+
+00:07:58.000 --> 00:08:00.000
+But potentially more important than this
+
+00:08:00.000 --> 00:08:03.000
+is the tremendous value of the spin-off technology
+
+00:08:03.000 --> 00:08:05.000
+that can come from this project.
+
+00:08:05.000 --> 00:08:07.000
+The sensors that are used can see through the dark,
+
+00:08:07.000 --> 00:08:09.000
+the fog and rain.
+
+00:08:09.000 --> 00:08:11.000
+And together with this new type of interfaces,
+
+00:08:11.000 --> 00:08:13.000
+we can use these technologies
+
+00:08:13.000 --> 00:08:15.000
+and apply them to safer cars for sighted people.
+
+00:08:15.000 --> 00:08:18.000
+Or for the blind, everyday home appliances --
+
+00:08:18.000 --> 00:08:20.000
+in the educational setting, in the office setting.
+
+00:08:20.000 --> 00:08:23.000
+Just imagine, in a classroom a teacher writes on the blackboard
+
+00:08:23.000 --> 00:08:26.000
+and a blind student can see what's written and read
+
+00:08:26.000 --> 00:08:28.000
+using these non-visual interfaces.
+
+00:08:28.000 --> 00:08:31.000
+This is priceless.
+
+00:08:31.000 --> 00:08:34.000
+So today, the things I've showed you today, is just the beginning.
+
+00:08:34.000 --> 00:08:36.000
+Thank you very much.
+
+00:08:36.000 --> 00:08:47.000
+(Applause)
+

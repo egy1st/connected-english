@@ -1,0 +1,304 @@
+WEBVTT
+
+00:00:00.788 --> 00:00:02.533
+You may not realize this,
+
+00:00:02.533 --> 00:00:07.413
+but there are more bacteria in your body
+than stars in our entire galaxy.
+
+00:00:08.040 --> 00:00:11.167
+This fascinating universe
+of bacteria inside of us
+
+00:00:11.167 --> 00:00:13.443
+is an integral part of our health,
+
+00:00:13.443 --> 00:00:15.532
+and our technology is evolving so rapidly
+
+00:00:15.532 --> 00:00:20.291
+that today we can program these bacteria
+like we program computers.
+
+00:00:21.060 --> 00:00:22.939
+Now, the diagram that you see here,
+
+00:00:22.939 --> 00:00:25.470
+I know it looks like
+some kind of sports play,
+
+00:00:25.470 --> 00:00:29.626
+but it is actually a blueprint of
+the first bacterial program I developed.
+
+00:00:29.626 --> 00:00:32.947
+And like writing software,
+we can print and write DNA
+
+00:00:32.947 --> 00:00:36.174
+into different algorithms
+and programs inside of bacteria.
+
+00:00:36.824 --> 00:00:39.519
+What this program does
+is produces fluorescent proteins
+
+00:00:39.519 --> 00:00:40.957
+in a rhythmic fashion
+
+00:00:40.957 --> 00:00:42.559
+and generates a small molecule
+
+00:00:42.559 --> 00:00:45.137
+that allows bacteria
+to communicate and synchronize,
+
+00:00:45.137 --> 00:00:46.975
+as you're seeing in this movie.
+
+00:00:47.505 --> 00:00:49.785
+The growing colony of bacteria
+that you see here
+
+00:00:49.785 --> 00:00:51.778
+is about the width of a human hair.
+
+00:00:51.778 --> 00:00:54.285
+Now, what you can't see
+is that our genetic program
+
+00:00:54.285 --> 00:00:57.768
+instructs these bacteria
+to each produce small molecules,
+
+00:00:57.768 --> 00:01:01.181
+and these molecules travel between
+the thousands of individual bacteria
+
+00:01:01.181 --> 00:01:03.897
+telling them when to turn on and off.
+
+00:01:03.897 --> 00:01:07.148
+And the bacteria synchronize
+quite well at this scale,
+
+00:01:07.148 --> 00:01:11.142
+but because the molecule that synchronizes
+them together can only travel so fast,
+
+00:01:11.142 --> 00:01:14.718
+in larger colonies of bacteria,
+this results in traveling waves
+
+00:01:14.718 --> 00:01:17.620
+between bacteria that are
+far away from each other,
+
+00:01:17.620 --> 00:01:21.356
+and you can see these waves going
+from right to left across the screen.
+
+00:01:21.356 --> 00:01:24.144
+Now, our genetic program
+relies on a natural phenomenon
+
+00:01:24.144 --> 00:01:25.317
+called quorum sensing,
+
+00:01:25.317 --> 00:01:28.649
+in which bacteria trigger coordinated
+and sometimes virulent behaviors
+
+00:01:28.649 --> 00:01:31.590
+once they reach a critical density.
+
+00:01:31.590 --> 00:01:34.245
+You can observe quorum sensing
+in action in this movie,
+
+00:01:34.245 --> 00:01:37.887
+where a growing colony of bacteria
+only begins to glow
+
+00:01:37.887 --> 00:01:40.258
+once it reaches a high
+or critical density.
+
+00:01:40.258 --> 00:01:42.100
+Our genetic program
+
+00:01:42.100 --> 00:01:45.251
+continues producing these
+rhythmic patterns of fluorescent proteins
+
+00:01:45.251 --> 00:01:47.619
+as the colony grows outwards.
+
+00:01:47.619 --> 00:01:51.310
+This particular movie and experiment
+we call The Supernova,
+
+00:01:51.310 --> 00:01:54.340
+because it looks like an exploding star.
+
+00:01:54.340 --> 00:01:56.730
+Now, besides programming
+these beautiful patterns,
+
+00:01:56.730 --> 00:01:59.321
+I wondered, what else can we get
+these bacteria to do?
+
+00:01:59.321 --> 00:02:01.900
+And I decided to explore
+how we can program bacteria
+
+00:02:01.900 --> 00:02:04.689
+to detect and treat diseases
+in our bodies like cancer.
+
+00:02:06.009 --> 00:02:08.307
+One of the surprising facts about bacteria
+
+00:02:08.307 --> 00:02:11.744
+is that they can naturally grow
+inside of tumors.
+
+00:02:11.744 --> 00:02:13.508
+This happens because typically tumors
+
+00:02:13.508 --> 00:02:15.923
+are areas where the immune system
+has no access,
+
+00:02:15.923 --> 00:02:17.920
+and so bacteria find these tumors
+
+00:02:17.920 --> 00:02:21.751
+and use them as a safe haven
+to grow and thrive.
+
+00:02:21.751 --> 00:02:23.585
+We started using probiotic bacteria
+
+00:02:23.585 --> 00:02:26.209
+which are safe bacteria
+that have a health benefit,
+
+00:02:26.209 --> 00:02:28.670
+and found that
+when orally delivered to mice,
+
+00:02:28.670 --> 00:02:32.826
+these probiotics would selectively
+grow inside of liver tumors.
+
+00:02:32.826 --> 00:02:34.780
+We realized that the most convenient way
+
+00:02:34.780 --> 00:02:36.861
+to highlight the presence
+of the probiotics,
+
+00:02:36.861 --> 00:02:38.724
+and hence, the presence of the tumors,
+
+00:02:38.724 --> 00:02:40.953
+was to get these bacteria
+to produce a signal
+
+00:02:40.953 --> 00:02:43.069
+that would be detectable in the urine,
+
+00:02:43.069 --> 00:02:45.481
+and so we specifically
+programmed these probiotics
+
+00:02:45.481 --> 00:02:48.360
+to make a molecule that would change
+the color of your urine
+
+00:02:48.360 --> 00:02:51.170
+to indicate the presence of cancer.
+
+00:02:51.170 --> 00:02:53.180
+We went on to show that this technology
+
+00:02:53.180 --> 00:02:56.370
+could sensitively and specifically
+detect liver cancer,
+
+00:02:56.370 --> 00:02:59.060
+one that is challenging
+to detect otherwise.
+
+00:02:59.891 --> 00:03:02.890
+Now, since these bacteria
+specifically localize to tumors,
+
+00:03:02.890 --> 00:03:05.478
+we've been programming them
+to not only detect cancer
+
+00:03:05.478 --> 00:03:07.266
+but also to treat cancer
+
+00:03:07.266 --> 00:03:10.493
+by producing therapeutic molecules
+from within the tumor environment
+
+00:03:10.493 --> 00:03:12.815
+that shrink the existing tumors,
+
+00:03:12.815 --> 00:03:15.570
+and we've been doing this
+using quorum sensing programs
+
+00:03:15.570 --> 00:03:17.413
+like you saw in the previous movies.
+
+00:03:17.413 --> 00:03:21.110
+Altogether, imagine in the future
+taking a programmed probiotic
+
+00:03:21.110 --> 00:03:23.589
+that could detect and treat cancer,
+
+00:03:23.589 --> 00:03:26.170
+or even other diseases.
+
+00:03:26.960 --> 00:03:28.604
+Our ability to program bacteria
+
+00:03:28.604 --> 00:03:30.299
+and program life
+
+00:03:30.299 --> 00:03:33.248
+opens up new horizons in cancer research,
+
+00:03:33.248 --> 00:03:35.983
+and to share this vision,
+I worked with artist Vik Muniz
+
+00:03:35.983 --> 00:03:37.799
+to create the symbol of the universe,
+
+00:03:37.799 --> 00:03:41.440
+made entirely out of bacteria
+or cancer cells.
+
+00:03:41.443 --> 00:03:46.645
+Ultimately, my hope is that the beauty
+and purpose of this microscopic universe
+
+00:03:46.645 --> 00:03:51.544
+can inspire new and creative approaches
+for the future of cancer research.
+
+00:03:51.544 --> 00:03:54.168
+Thank you.
+
+00:03:54.168 --> 00:03:57.934
+(Applause)
+

@@ -1,0 +1,1123 @@
+WEBVTT
+
+00:00:00.869 --> 00:00:02.620
+Four years ago,
+
+00:00:02.620 --> 00:00:04.422
+a security researcher,
+
+00:00:04.422 --> 00:00:08.671
+or, as most people would call it, a hacker,
+
+00:00:08.671 --> 00:00:10.838
+found a way to literally
+
+00:00:10.838 --> 00:00:14.041
+make ATMs throw money at him.
+
+00:00:14.041 --> 00:00:17.382
+His name was Barnaby Jack,
+
+00:00:17.382 --> 00:00:21.041
+and this technique was later called "jackpotting"
+
+00:00:21.041 --> 00:00:22.950
+in his honor.
+
+00:00:22.950 --> 00:00:24.799
+I'm here today because I think
+
+00:00:24.799 --> 00:00:27.850
+we actually need hackers.
+
+00:00:27.850 --> 00:00:29.712
+Barnaby Jack
+
+00:00:29.712 --> 00:00:31.199
+could have easily turned
+
+00:00:31.199 --> 00:00:35.397
+into a career criminal or James Bond villain
+
+00:00:35.397 --> 00:00:36.893
+with his knowledge,
+
+00:00:36.893 --> 00:00:39.381
+but he chose to show the world
+
+00:00:39.381 --> 00:00:42.070
+his research instead.
+
+00:00:42.070 --> 00:00:43.923
+He believed that sometimes
+
+00:00:43.923 --> 00:00:45.963
+you have to demo a threat
+
+00:00:45.963 --> 00:00:48.880
+to spark a solution.
+
+00:00:48.880 --> 00:00:50.810
+And I feel the same way.
+
+00:00:50.810 --> 00:00:52.660
+That's why I'm here today.
+
+00:00:52.660 --> 00:00:55.938
+We are often terrified and fascinated
+
+00:00:55.938 --> 00:00:59.399
+by the power hackers now have.
+
+00:00:59.399 --> 00:01:01.131
+They scare us.
+
+00:01:01.131 --> 00:01:03.116
+But the choices they make
+
+00:01:03.116 --> 00:01:05.286
+have dramatic outcomes
+
+00:01:05.286 --> 00:01:08.274
+that influence us all.
+
+00:01:08.274 --> 00:01:11.609
+So I am here today because I think we need hackers,
+
+00:01:11.609 --> 00:01:15.192
+and in fact, they just might be
+
+00:01:15.192 --> 00:01:19.532
+the immune system for the information age.
+
+00:01:19.532 --> 00:01:21.565
+Sometimes they make us sick,
+
+00:01:21.565 --> 00:01:24.920
+but they also find those hidden threats
+
+00:01:24.920 --> 00:01:26.244
+in our world,
+
+00:01:26.244 --> 00:01:29.089
+and they make us fix it.
+
+00:01:29.089 --> 00:01:31.447
+I knew that I might get hacked
+
+00:01:31.447 --> 00:01:33.855
+for giving this talk,
+
+00:01:33.855 --> 00:01:36.328
+so let me save you the effort.
+
+00:01:36.328 --> 00:01:38.162
+In true TED fashion,
+
+00:01:38.162 --> 00:01:42.135
+here is my most embarrassing picture.
+
+00:01:42.135 --> 00:01:45.005
+But it would be difficult for you to find me in it,
+
+00:01:45.005 --> 00:01:48.743
+because I'm the one who looks like a boy
+
+00:01:48.743 --> 00:01:50.548
+standing to the side.
+
+00:01:50.548 --> 00:01:52.930
+I was such a nerd back then
+
+00:01:52.930 --> 00:01:55.532
+that even the boys on the
+Dungeons and Dragons team
+
+00:01:55.532 --> 00:01:57.729
+wouldn't let me join.
+
+00:01:57.729 --> 00:01:59.714
+This is who I was,
+
+00:01:59.714 --> 00:02:03.829
+but this is who I wanted to be:
+
+00:02:03.829 --> 00:02:05.727
+Angelina Jolie.
+
+00:02:05.727 --> 00:02:07.282
+She portrayed Acid Burn
+
+00:02:07.282 --> 00:02:09.776
+in the '95 film "Hackers."
+
+00:02:09.776 --> 00:02:12.954
+She was pretty and she could rollerblade,
+
+00:02:12.954 --> 00:02:17.063
+but being a hacker, that made her powerful.
+
+00:02:17.063 --> 00:02:19.523
+And I wanted to be just like her,
+
+00:02:19.523 --> 00:02:21.889
+so I started spending a lot of time
+
+00:02:21.889 --> 00:02:24.774
+on hacker chat rooms and online forums.
+
+00:02:24.774 --> 00:02:27.107
+I remember one late night
+
+00:02:27.107 --> 00:02:29.368
+I found a bit of PHP code.
+
+00:02:29.368 --> 00:02:30.990
+I didn't really know what it did,
+
+00:02:30.990 --> 00:02:32.615
+but I copy-pasted it
+
+00:02:32.615 --> 00:02:34.329
+and used it anyway
+
+00:02:34.329 --> 00:02:36.802
+to get into a password-protected site
+
+00:02:36.802 --> 00:02:38.606
+like that.
+
+00:02:38.606 --> 00:02:40.009
+Open Sesame.
+
+00:02:40.009 --> 00:02:41.531
+It was a simple trick,
+
+00:02:41.531 --> 00:02:44.536
+and I was just a script kiddie back then,
+
+00:02:44.536 --> 00:02:45.974
+but to me, that trick,
+
+00:02:45.974 --> 00:02:48.189
+it felt like this,
+
+00:02:48.189 --> 00:02:50.633
+like I had discovered limitless potential
+
+00:02:50.633 --> 00:02:52.424
+at my fingertips.
+
+00:02:52.424 --> 00:02:55.733
+This is the rush of power that hackers feel.
+
+00:02:55.733 --> 00:02:58.637
+It's geeks just like me
+
+00:02:58.637 --> 00:03:01.869
+discovering they have access to superpower,
+
+00:03:01.869 --> 00:03:04.496
+one that requires the skill and tenacity
+
+00:03:04.496 --> 00:03:06.004
+of their intellect,
+
+00:03:06.004 --> 00:03:09.565
+but thankfully no radioactive spiders.
+
+00:03:09.565 --> 00:03:11.406
+But with great power
+
+00:03:11.406 --> 00:03:13.710
+comes great responsibility,
+
+00:03:13.710 --> 00:03:17.374
+and you all like to think that if we had such powers,
+
+00:03:17.374 --> 00:03:19.653
+we would only use them for good.
+
+00:03:19.653 --> 00:03:23.000
+But what if you could read your ex's emails,
+
+00:03:23.000 --> 00:03:26.112
+or add a couple zeros to your bank account.
+
+00:03:26.112 --> 00:03:28.132
+What would you do then?
+
+00:03:28.132 --> 00:03:30.369
+Indeed, many hackers do not resist
+
+00:03:30.369 --> 00:03:32.357
+those temptations,
+
+00:03:32.357 --> 00:03:35.482
+and so they are responsible in one way or another
+
+00:03:35.482 --> 00:03:37.886
+to billions of dollars lost each year
+
+00:03:37.886 --> 00:03:41.147
+to fraud, malware or plain old identity theft,
+
+00:03:41.147 --> 00:03:43.025
+which is a serious issue.
+
+00:03:43.025 --> 00:03:45.010
+But there are other hackers,
+
+00:03:45.010 --> 00:03:47.772
+hackers who just like to break things,
+
+00:03:47.772 --> 00:03:50.480
+and it is precisely those hackers
+
+00:03:50.480 --> 00:03:53.773
+that can find the weaker elements in our world
+
+00:03:53.773 --> 00:03:55.450
+and make us fix it.
+
+00:03:55.450 --> 00:03:57.370
+This is what happened last year
+
+00:03:57.370 --> 00:03:59.379
+when another security researcher
+
+00:03:59.379 --> 00:04:00.944
+called Kyle Lovett
+
+00:04:00.944 --> 00:04:02.501
+discovered a gaping hole
+
+00:04:02.501 --> 00:04:05.461
+in the design of certain wireless routers
+
+00:04:05.461 --> 00:04:08.000
+like you might have in your home or office.
+
+00:04:08.000 --> 00:04:10.645
+He learned that anyone could remotely connect
+
+00:04:10.645 --> 00:04:12.967
+to these devices over the Internet
+
+00:04:12.967 --> 00:04:15.728
+and download documents from hard drives
+
+00:04:15.728 --> 00:04:17.903
+attached to those routers,
+
+00:04:17.903 --> 00:04:19.750
+no password needed.
+
+00:04:19.750 --> 00:04:22.087
+He reported it to the company, of course,
+
+00:04:22.087 --> 00:04:24.401
+but they ignored his report.
+
+00:04:24.401 --> 00:04:26.265
+Perhaps they thought universal access
+
+00:04:26.265 --> 00:04:29.250
+was a feature, not a bug,
+
+00:04:29.250 --> 00:04:31.105
+until two months ago
+
+00:04:31.105 --> 00:04:32.538
+when a group of hackers used it
+
+00:04:32.538 --> 00:04:34.992
+to get into people's files.
+
+00:04:34.992 --> 00:04:37.393
+But they didn't steal anything.
+
+00:04:37.393 --> 00:04:39.410
+They left a note:
+
+00:04:39.410 --> 00:04:41.288
+Your router and your documents
+
+00:04:41.288 --> 00:04:43.447
+can be accessed by anyone in the world.
+
+00:04:43.447 --> 00:04:45.715
+Here's what you should do to fix it.
+
+00:04:45.715 --> 00:04:48.093
+We hope we helped.
+
+00:04:48.093 --> 00:04:50.623
+By getting into people's files like that,
+
+00:04:50.623 --> 00:04:52.083
+yeah, they broke the law,
+
+00:04:52.083 --> 00:04:54.551
+but they also forced that company
+
+00:04:54.551 --> 00:04:56.532
+to fix their product.
+
+00:04:56.532 --> 00:04:58.700
+Making vulnerabilities known to the public
+
+00:04:58.700 --> 00:05:01.445
+is a practice called full disclosure
+
+00:05:01.445 --> 00:05:03.047
+in the hacker community,
+
+00:05:03.047 --> 00:05:05.081
+and it is controversial,
+
+00:05:05.081 --> 00:05:07.613
+but it does make me think of how hackers
+
+00:05:07.613 --> 00:05:10.599
+have an evolving effect on technologies we use
+
+00:05:10.599 --> 00:05:12.095
+every day.
+
+00:05:12.095 --> 00:05:14.373
+This is what Khalil did.
+
+00:05:14.373 --> 00:05:16.988
+Khalil is a Palestinian hacker from the West Bank,
+
+00:05:16.988 --> 00:05:20.997
+and he found a serious privacy flaw on Facebook
+
+00:05:20.997 --> 00:05:22.847
+which he attempted to report
+
+00:05:22.847 --> 00:05:25.837
+through the company's bug bounty program.
+
+00:05:25.837 --> 00:05:28.494
+These are usually great arrangements for companies
+
+00:05:28.494 --> 00:05:31.671
+to reward hackers disclosing vulnerabilities
+
+00:05:31.671 --> 00:05:33.360
+they find in their code.
+
+00:05:33.360 --> 00:05:36.910
+Unfortunately, due to some miscommunications,
+
+00:05:36.910 --> 00:05:39.946
+his report was not acknowledged.
+
+00:05:39.946 --> 00:05:41.791
+Frustrated with the exchange,
+
+00:05:41.791 --> 00:05:45.068
+he took to use his own discovery
+
+00:05:45.068 --> 00:05:48.203
+to post on Mark Zuckerberg's wall.
+
+00:05:48.203 --> 00:05:50.970
+This got their attention, all right,
+
+00:05:50.970 --> 00:05:54.265
+and they fixed the bug,
+
+00:05:54.265 --> 00:05:57.120
+but because he hadn't reported it properly,
+
+00:05:57.120 --> 00:05:59.345
+he was denied the bounty usually paid out
+
+00:05:59.345 --> 00:06:01.349
+for such discoveries.
+
+00:06:01.349 --> 00:06:03.338
+Thankfully for Khalil,
+
+00:06:03.338 --> 00:06:06.224
+a group of hackers were watching out for him.
+
+00:06:06.224 --> 00:06:10.033
+In fact, they raised more than 13,000 dollars
+
+00:06:10.033 --> 00:06:12.111
+to reward him for this discovery,
+
+00:06:12.111 --> 00:06:15.311
+raising a vital discussion in the technology industry
+
+00:06:15.311 --> 00:06:18.370
+about how we come up with incentives
+
+00:06:18.370 --> 00:06:20.960
+for hackers to do the right thing.
+
+00:06:20.960 --> 00:06:23.980
+But I think there's a greater story here still.
+
+00:06:23.980 --> 00:06:26.915
+Even companies founded by hackers,
+
+00:06:26.915 --> 00:06:29.302
+like Facebook was,
+
+00:06:29.302 --> 00:06:31.885
+still have a complicated relationship
+
+00:06:31.885 --> 00:06:33.689
+when it comes to hackers.
+
+00:06:33.689 --> 00:06:36.520
+And so for more conservative organizations,
+
+00:06:36.520 --> 00:06:40.038
+it is going to take time and adapting
+
+00:06:40.038 --> 00:06:42.620
+in order to embrace hacker culture
+
+00:06:42.620 --> 00:06:45.741
+and the creative chaos that it brings with it.
+
+00:06:45.741 --> 00:06:48.183
+But I think it's worth the effort,
+
+00:06:48.183 --> 00:06:50.163
+because the alternative,
+
+00:06:50.163 --> 00:06:53.993
+to blindly fight all hackers,
+
+00:06:53.993 --> 00:06:56.581
+is to go against the power you cannot control
+
+00:06:56.581 --> 00:06:59.882
+at the cost of stifling innovation
+
+00:06:59.882 --> 00:07:02.076
+and regulating knowledge.
+
+00:07:02.076 --> 00:07:06.370
+These are things that will come back and bite you.
+
+00:07:06.370 --> 00:07:07.848
+It is even more true
+
+00:07:07.848 --> 00:07:09.927
+if we go after hackers
+
+00:07:09.927 --> 00:07:12.964
+that are willing to risk their own freedom
+
+00:07:12.964 --> 00:07:15.867
+for ideals like the freedom of the web,
+
+00:07:15.867 --> 00:07:19.930
+especially in times like this, like today even,
+
+00:07:19.930 --> 00:07:22.550
+as governments and corporates
+
+00:07:22.550 --> 00:07:25.776
+fight to control the Internet.
+
+00:07:25.776 --> 00:07:28.100
+I find it astounding
+
+00:07:28.100 --> 00:07:31.113
+that someone from the shadowy
+corners of cyberspace
+
+00:07:31.113 --> 00:07:33.928
+can become its voice of opposition,
+
+00:07:33.928 --> 00:07:36.570
+its last line of defense even,
+
+00:07:36.570 --> 00:07:39.987
+perhaps someone like Anonymous,
+
+00:07:39.987 --> 00:07:43.840
+the leading brand of global hacktivism.
+
+00:07:43.840 --> 00:07:46.100
+This universal hacker movement
+
+00:07:46.100 --> 00:07:47.706
+needs no introduction today,
+
+00:07:47.706 --> 00:07:49.809
+but six years ago
+
+00:07:49.809 --> 00:07:53.238
+they were not much more than an Internet subculture
+
+00:07:53.238 --> 00:07:56.157
+dedicated to sharing silly pictures of funny cats
+
+00:07:56.157 --> 00:07:59.587
+and Internet trolling campaigns.
+
+00:07:59.587 --> 00:08:04.429
+Their moment of transformation was in early 2008
+
+00:08:04.429 --> 00:08:06.079
+when the Church of Scientology
+
+00:08:06.079 --> 00:08:09.146
+attempted to remove certain leaked videos
+
+00:08:09.146 --> 00:08:13.549
+from appearing on certain websites.
+
+00:08:13.549 --> 00:08:15.989
+This is when Anonymous was forged
+
+00:08:15.989 --> 00:08:18.620
+out of the seemingly random collection
+
+00:08:18.620 --> 00:08:20.363
+of Internet dwellers.
+
+00:08:20.363 --> 00:08:22.817
+It turns out,
+
+00:08:22.817 --> 00:08:24.146
+the Internet doesn't like it
+
+00:08:24.146 --> 00:08:26.769
+when you try to remove things from it,
+
+00:08:26.769 --> 00:08:29.739
+and it will react with cyberattacks
+
+00:08:29.739 --> 00:08:31.840
+and elaborate pranks
+
+00:08:31.840 --> 00:08:34.489
+and with a series of organized protests
+
+00:08:34.489 --> 00:08:35.834
+all around the world,
+
+00:08:35.834 --> 00:08:37.822
+from my hometown of Tel Aviv
+
+00:08:37.822 --> 00:08:40.066
+to Adelaide, Australia.
+
+00:08:40.066 --> 00:08:43.196
+This proved that Anonymous and this idea
+
+00:08:43.196 --> 00:08:46.279
+can rally the masses from the keyboards
+
+00:08:46.279 --> 00:08:47.855
+to the streets,
+
+00:08:47.855 --> 00:08:49.802
+and it laid the foundations
+
+00:08:49.802 --> 00:08:52.020
+for dozens of future operations
+
+00:08:52.020 --> 00:08:53.960
+against perceived injustices
+
+00:08:53.960 --> 00:08:57.316
+to their online and offline world.
+
+00:08:57.316 --> 00:08:59.341
+Since then, they've gone after many targets.
+
+00:08:59.341 --> 00:09:02.130
+They've uncovered corruption, abuse.
+
+00:09:02.130 --> 00:09:04.950
+They've hacked popes and politicians,
+
+00:09:04.950 --> 00:09:06.627
+and I think their effect is larger
+
+00:09:06.627 --> 00:09:09.424
+than simple denial of service attacks
+
+00:09:09.424 --> 00:09:10.800
+that take down websites
+
+00:09:10.800 --> 00:09:14.438
+or even leak sensitive documents.
+
+00:09:14.438 --> 00:09:17.480
+I think that, like Robin Hood,
+
+00:09:17.480 --> 00:09:21.380
+they are in the business of redistribution,
+
+00:09:21.380 --> 00:09:24.112
+but what they are after isn't your money.
+
+00:09:24.112 --> 00:09:28.842
+It's not your documents. It's your attention.
+
+00:09:28.842 --> 00:09:33.382
+They grab the spotlight for causes they support,
+
+00:09:33.382 --> 00:09:36.013
+forcing us to take note,
+
+00:09:36.013 --> 00:09:38.478
+acting as a global magnifying glass
+
+00:09:38.478 --> 00:09:40.622
+for issues that we are not as aware of
+
+00:09:40.622 --> 00:09:42.731
+but perhaps we should be.
+
+00:09:42.731 --> 00:09:44.584
+They have been called many names
+
+00:09:44.584 --> 00:09:46.355
+from criminals to terrorists,
+
+00:09:46.355 --> 00:09:49.801
+and I cannot justify their illegal means,
+
+00:09:49.801 --> 00:09:51.942
+but the ideas they fight for
+
+00:09:51.942 --> 00:09:55.968
+are ones that matter to us all.
+
+00:09:55.968 --> 00:09:57.951
+The reality is,
+
+00:09:57.951 --> 00:10:00.756
+hackers can do a lot more than break things.
+
+00:10:00.756 --> 00:10:03.229
+They can bring people together.
+
+00:10:03.229 --> 00:10:05.552
+And if the Internet doesn't like it
+
+00:10:05.552 --> 00:10:08.199
+when you try to remove things from it,
+
+00:10:08.199 --> 00:10:09.100
+just watch what happens
+
+00:10:09.100 --> 00:10:11.929
+when you try to shut the Internet down.
+
+00:10:11.929 --> 00:10:16.521
+This took place in Egypt in January 2011,
+
+00:10:16.521 --> 00:10:19.737
+and as President Hosni Mubarak
+
+00:10:19.737 --> 00:10:21.791
+attempted a desperate move
+
+00:10:21.791 --> 00:10:25.633
+to quash the rising revolution on the streets of Cairo,
+
+00:10:25.633 --> 00:10:27.503
+he sent his personal troops
+
+00:10:27.503 --> 00:10:31.146
+down to Egypt's Internet service providers
+
+00:10:31.146 --> 00:10:33.617
+and had them physically kill the switch
+
+00:10:33.617 --> 00:10:37.862
+on the country's connection to the world overnight.
+
+00:10:37.862 --> 00:10:39.477
+For a government to do a thing like that
+
+00:10:39.477 --> 00:10:41.196
+was unprecedented,
+
+00:10:41.196 --> 00:10:44.660
+and for hackers, it made it personal.
+
+00:10:44.660 --> 00:10:46.748
+Hackers like the Telecomix group
+
+00:10:46.748 --> 00:10:48.621
+were already active on the ground,
+
+00:10:48.621 --> 00:10:51.439
+helping Egyptians bypass censorship
+
+00:10:51.439 --> 00:10:53.929
+using clever workarounds like Morse code
+
+00:10:53.929 --> 00:10:55.957
+and ham radio.
+
+00:10:55.957 --> 00:10:58.086
+It was high season for low tech,
+
+00:10:58.086 --> 00:11:00.650
+which the government couldn't block,
+
+00:11:00.650 --> 00:11:03.892
+but when the Net went completely down,
+
+00:11:03.892 --> 00:11:06.830
+Telecomix brought in the big guns.
+
+00:11:06.830 --> 00:11:09.001
+They found European service providers
+
+00:11:09.001 --> 00:11:11.310
+that still had 20-year-old
+
+00:11:11.310 --> 00:11:13.890
+analog dial-up access infrastructure.
+
+00:11:13.890 --> 00:11:17.292
+They opened up 300 of those lines
+
+00:11:17.292 --> 00:11:19.766
+for Egyptians to use,
+
+00:11:19.766 --> 00:11:22.603
+serving slow but sweet Internet connection
+
+00:11:22.603 --> 00:11:24.004
+for Egyptians.
+
+00:11:24.004 --> 00:11:25.299
+This worked.
+
+00:11:25.299 --> 00:11:27.092
+It worked so well, in fact,
+
+00:11:27.092 --> 00:11:29.372
+one guy even used it to download an episode
+
+00:11:29.372 --> 00:11:33.710
+of "How I Met Your Mother."
+
+00:11:33.710 --> 00:11:37.631
+But while Egypt's future is still uncertain,
+
+00:11:37.631 --> 00:11:40.284
+when the same thing happened in Syria
+
+00:11:40.284 --> 00:11:41.804
+just one year later,
+
+00:11:41.804 --> 00:11:45.539
+Telecomix were prepared with those Internet lines,
+
+00:11:45.539 --> 00:11:46.708
+and Anonymous,
+
+00:11:46.708 --> 00:11:48.954
+they were perhaps the first international group
+
+00:11:48.954 --> 00:11:50.658
+to officially denounce the actions
+
+00:11:50.658 --> 00:11:52.571
+of the Syrian military
+
+00:11:52.571 --> 00:11:55.375
+by defacing their website.
+
+00:11:55.375 --> 00:11:58.867
+But with this sort of power,
+
+00:11:58.867 --> 00:12:01.213
+it really depends on where you stand,
+
+00:12:01.213 --> 00:12:04.722
+because one man's hero
+
+00:12:04.722 --> 00:12:06.969
+can be another's villain,
+
+00:12:06.969 --> 00:12:09.367
+and so the Syrian Electronic Army
+
+00:12:09.367 --> 00:12:11.838
+is a pro-Assad group of hackers
+
+00:12:11.838 --> 00:12:14.503
+who support his contentious regime.
+
+00:12:14.503 --> 00:12:17.185
+They've taken down multiple high-profile targets
+
+00:12:17.185 --> 00:12:18.820
+in the past few years,
+
+00:12:18.820 --> 00:12:22.203
+including the Associated Press's Twitter account,
+
+00:12:22.203 --> 00:12:25.219
+in which they posted a message
+
+00:12:25.219 --> 00:12:27.375
+about an attack on the White House
+
+00:12:27.375 --> 00:12:30.638
+injuring President Obama.
+
+00:12:30.638 --> 00:12:32.783
+This tweet was fake, of course,
+
+00:12:32.783 --> 00:12:35.722
+but the resulting drop in the Dow Jones index
+
+00:12:35.722 --> 00:12:39.099
+that day was most certainly not,
+
+00:12:39.099 --> 00:12:42.361
+and a lot of people lost a lot of money.
+
+00:12:42.361 --> 00:12:46.267
+This sort of thing is happening
+all over the world right now.
+
+00:12:46.267 --> 00:12:49.214
+In conflicts from the Crimean Peninsula
+
+00:12:49.214 --> 00:12:51.576
+to Latin America,
+
+00:12:51.576 --> 00:12:53.880
+from Europe to the United States,
+
+00:12:53.880 --> 00:12:56.937
+hackers are a force for social,
+
+00:12:56.937 --> 00:13:00.703
+political and military influence.
+
+00:13:00.703 --> 00:13:02.954
+As individuals or in groups,
+
+00:13:02.954 --> 00:13:05.594
+volunteers or military conflicts,
+
+00:13:05.594 --> 00:13:08.235
+there are hackers everywhere.
+
+00:13:08.235 --> 00:13:10.330
+They come from all walks of life,
+
+00:13:10.330 --> 00:13:15.254
+ethnicities, ideologies and genders, I might add.
+
+00:13:15.254 --> 00:13:19.053
+They are now shaping the world's stage.
+
+00:13:19.053 --> 00:13:21.898
+Hackers represent an exceptional force for change
+
+00:13:21.898 --> 00:13:24.062
+in the 21st century.
+
+00:13:24.062 --> 00:13:26.599
+This is because access to information
+
+00:13:26.599 --> 00:13:29.912
+is a critical currency of power,
+
+00:13:29.912 --> 00:13:32.878
+one which governments would like to control,
+
+00:13:32.878 --> 00:13:35.339
+a thing they attempt to do by setting up
+
+00:13:35.339 --> 00:13:38.999
+all-you-can-eat surveillance programs,
+
+00:13:38.999 --> 00:13:41.737
+a thing they need hackers for, by the way.
+
+00:13:41.737 --> 00:13:44.384
+And so the establishment has long had
+
+00:13:44.384 --> 00:13:48.091
+a love-hate relationship when it comes to hackers,
+
+00:13:48.091 --> 00:13:50.849
+because the same people who demonize hacking
+
+00:13:50.849 --> 00:13:55.931
+also utilize it at large.
+
+00:13:55.931 --> 00:13:57.179
+Two years ago,
+
+00:13:57.179 --> 00:13:59.952
+I saw General Keith Alexander.
+
+00:13:59.952 --> 00:14:04.170
+He's the NSA director and U.S. cyber commander,
+
+00:14:04.170 --> 00:14:07.878
+but instead of his four star general uniform,
+
+00:14:07.878 --> 00:14:10.174
+he was wearing jeans and a t-shirt.
+
+00:14:10.174 --> 00:14:11.918
+This was at DEF CON,
+
+00:14:11.918 --> 00:14:15.023
+the world's largest hacker conference.
+
+00:14:15.023 --> 00:14:16.950
+Perhaps like me, General Alexander
+
+00:14:16.950 --> 00:14:20.770
+didn't see 12,000 criminals that day in Vegas.
+
+00:14:20.770 --> 00:14:23.881
+I think he saw untapped potential.
+
+00:14:23.881 --> 00:14:27.254
+In fact, he was there to give a hiring pitch.
+
+00:14:27.254 --> 00:14:29.894
+"In this room right here," he said,
+
+00:14:29.894 --> 00:14:32.284
+"is the talent our nation needs."
+
+00:14:32.284 --> 00:14:35.664
+Well, hackers in the back row replied,
+
+00:14:35.664 --> 00:14:37.790
+"Then stop arresting us."
+
+00:14:37.790 --> 00:14:41.224
+(Applause)
+
+00:14:41.224 --> 00:14:43.803
+Indeed, for years,
+
+00:14:43.803 --> 00:14:46.619
+hackers have been on the wrong side of the fence,
+
+00:14:46.619 --> 00:14:49.527
+but in light of what we know now,
+
+00:14:49.527 --> 00:14:53.800
+who is more watchful of our online world?
+
+00:14:53.800 --> 00:14:56.806
+The rules of the game are not that clear anymore,
+
+00:14:56.806 --> 00:15:00.218
+but hackers are perhaps the only ones
+
+00:15:00.218 --> 00:15:04.101
+still capable of challenging
+overreaching governments
+
+00:15:04.101 --> 00:15:06.316
+and data-hoarding corporates
+
+00:15:06.316 --> 00:15:08.794
+on their own playing field.
+
+00:15:08.794 --> 00:15:11.914
+To me, that represents hope.
+
+00:15:11.914 --> 00:15:13.238
+For the past three decades,
+
+00:15:13.238 --> 00:15:14.789
+hackers have done a lot of things,
+
+00:15:14.789 --> 00:15:18.006
+but they have also impacted civil liberties,
+
+00:15:18.006 --> 00:15:20.376
+innovation and Internet freedom,
+
+00:15:20.376 --> 00:15:23.305
+so I think it's time we take a good look
+
+00:15:23.305 --> 00:15:25.435
+at how we choose to portray them,
+
+00:15:25.435 --> 00:15:29.019
+because if we keep expecting
+them to be the bad guys,
+
+00:15:29.019 --> 00:15:32.489
+how can they be the heroes too?
+
+00:15:32.489 --> 00:15:34.500
+My years in the hacker world
+
+00:15:34.500 --> 00:15:36.142
+have made me realize
+
+00:15:36.142 --> 00:15:41.875
+both the problem and the beauty about hackers:
+
+00:15:41.875 --> 00:15:45.033
+They just can't see something broken in the world
+
+00:15:45.033 --> 00:15:46.680
+and leave it be.
+
+00:15:46.680 --> 00:15:48.360
+They are compelled
+
+00:15:48.360 --> 00:15:51.890
+to either exploit it or try and change it,
+
+00:15:51.890 --> 00:15:55.806
+and so they find the vulnerable aspects
+
+00:15:55.806 --> 00:15:57.940
+in our rapidly changing world.
+
+00:15:57.940 --> 00:16:02.282
+They make us, they force us to fix things
+
+00:16:02.282 --> 00:16:04.001
+or demand something better,
+
+00:16:04.001 --> 00:16:05.995
+and I think we need them
+
+00:16:05.995 --> 00:16:08.201
+to do just that,
+
+00:16:08.201 --> 00:16:11.470
+because after all, it is not information
+
+00:16:11.470 --> 00:16:14.575
+that wants to be free, it's us.
+
+00:16:14.575 --> 00:16:17.937
+Thank you very much.
+
+00:16:17.937 --> 00:16:20.295
+Thank you. (Applause)
+
+00:16:20.295 --> 00:16:22.180
+Hack the planet!
+

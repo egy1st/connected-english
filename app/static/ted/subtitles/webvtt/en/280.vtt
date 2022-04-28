@@ -1,0 +1,959 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:06.000
+Welcome. If I could have the first slide, please?
+
+00:00:15.000 --> 00:00:20.000
+Contrary to calculations made by some engineers, bees can fly,
+
+00:00:20.000 --> 00:00:27.000
+dolphins can swim, and geckos can even climb
+
+00:00:27.000 --> 00:00:33.000
+up the smoothest surfaces. Now, what I want to do, in the short time I have,
+
+00:00:33.000 --> 00:00:37.000
+is to try to allow each of you to experience
+
+00:00:37.000 --> 00:00:43.000
+the thrill of revealing nature's design.
+
+00:00:43.000 --> 00:00:45.000
+I get to do this all the time, and it's just incredible.
+
+00:00:45.000 --> 00:00:51.000
+I want to try to share just a little bit of that with you in this presentation.
+
+00:00:51.000 --> 00:00:53.000
+The challenge of looking at nature's designs --
+
+00:00:53.000 --> 00:00:57.000
+and I'll tell you the way that we perceive it, and the way we've used it.
+
+00:00:57.000 --> 00:00:59.000
+The challenge, of course, is to answer this question:
+
+00:00:59.000 --> 00:01:02.000
+what permits this extraordinary performance of animals
+
+00:01:02.000 --> 00:01:05.000
+that allows them basically to go anywhere?
+
+00:01:05.000 --> 00:01:12.000
+And if we could figure that out, how can we implement those designs?
+
+00:01:12.000 --> 00:01:15.000
+Well, many biologists will tell engineers, and others,
+
+00:01:15.000 --> 00:01:18.000
+organisms have millions of years to get it right;
+
+00:01:18.000 --> 00:01:21.000
+they're spectacular; they can do everything wonderfully well.
+
+00:01:21.000 --> 00:01:25.000
+So, the answer is bio-mimicry: just copy nature directly.
+
+00:01:25.000 --> 00:01:30.000
+We know from working on animals that the truth is
+
+00:01:30.000 --> 00:01:34.000
+that's exactly what you don't want to do -- because evolution works
+
+00:01:34.000 --> 00:01:37.000
+on the just-good-enough principle, not on a perfecting principle.
+
+00:01:37.000 --> 00:01:41.000
+And the constraints in building any organism, when you look at it,
+
+00:01:41.000 --> 00:01:46.000
+are really severe. Natural technologies have incredible constraints.
+
+00:01:46.000 --> 00:01:49.000
+Think about it. If you were an engineer and I told you
+
+00:01:49.000 --> 00:01:54.000
+that you had to build an automobile, but it had to start off to be this big,
+
+00:01:54.000 --> 00:01:58.000
+then it had to grow to be full size and had to work every step along the way.
+
+00:01:58.000 --> 00:02:02.000
+Or think about the fact that if you build an automobile, I'll tell you that you also -- inside it --
+
+00:02:02.000 --> 00:02:06.000
+have to put a factory that allows you to make another automobile.
+
+00:02:06.000 --> 00:02:08.000
+(Laughter)
+
+00:02:08.000 --> 00:02:12.000
+And you can absolutely never, absolutely never, because of history
+
+00:02:12.000 --> 00:02:16.000
+and the inherited plan, start with a clean slate.
+
+00:02:16.000 --> 00:02:19.000
+So, organisms have this important history.
+
+00:02:19.000 --> 00:02:24.000
+Really evolution works more like a tinkerer than an engineer.
+
+00:02:24.000 --> 00:02:27.000
+And this is really important when you begin to look at animals.
+
+00:02:27.000 --> 00:02:34.000
+Instead, we believe you need to be inspired by biology.
+
+00:02:34.000 --> 00:02:38.000
+You need to discover the general principles of nature,
+
+00:02:38.000 --> 00:02:41.000
+and then use these analogies when they're advantageous.
+
+00:02:44.000 --> 00:02:47.000
+This is a real challenge to do this, because animals,
+
+00:02:47.000 --> 00:02:50.000
+when you start to really look inside them -- how they work --
+
+00:02:50.000 --> 00:02:54.000
+appear hopelessly complex. There's no detailed history
+
+00:02:54.000 --> 00:02:57.000
+of the design plans, you can't go look it up anywhere.
+
+00:02:57.000 --> 00:03:01.000
+They have way too many motions for their joints, too many muscles.
+
+00:03:01.000 --> 00:03:04.000
+Even the simplest animal we think of, something like an insect,
+
+00:03:04.000 --> 00:03:07.000
+and they have more neurons and connections than you can imagine.
+
+00:03:07.000 --> 00:03:12.000
+How can you make sense of this? Well, we believed --
+
+00:03:12.000 --> 00:03:17.000
+and we hypothesized -- that one way animals could work simply,
+
+00:03:17.000 --> 00:03:20.000
+is if the control of their movements
+
+00:03:20.000 --> 00:03:26.000
+tended to be built into their bodies themselves.
+
+00:03:26.000 --> 00:03:33.000
+What we discovered was that two-, four-, six- and eight-legged animals
+
+00:03:33.000 --> 00:03:36.000
+all produce the same forces on the ground when they move.
+
+00:03:36.000 --> 00:03:40.000
+They all work like this kangaroo, they bounce.
+
+00:03:40.000 --> 00:03:44.000
+And they can be modeled by a spring-mass system that we call the spring mass system
+
+00:03:44.000 --> 00:03:47.000
+because we're biomechanists. It's actually a pogo stick.
+
+00:03:47.000 --> 00:03:51.000
+They all produce the pattern of a pogo stick. How is that true?
+
+00:03:51.000 --> 00:03:57.000
+Well, a human, one of your legs works like two legs of a trotting dog,
+
+00:03:57.000 --> 00:04:01.000
+or works like three legs, together as one, of a trotting insect,
+
+00:04:01.000 --> 00:04:03.000
+or four legs as one of a trotting crab.
+
+00:04:03.000 --> 00:04:07.000
+And then they alternate in their propulsion,
+
+00:04:07.000 --> 00:04:12.000
+but the patterns are all the same. Almost every organism we've looked at this way
+
+00:04:12.000 --> 00:04:14.000
+-- you'll see next week, I'll give you a hint,
+
+00:04:14.000 --> 00:04:17.000
+there'll be an article coming out that says that really big things
+
+00:04:17.000 --> 00:04:21.000
+like T. rex probably couldn't do this, but you'll see that next week.
+
+00:04:21.000 --> 00:04:23.000
+Now, what's interesting is the animals, then -- we said -- bounce along
+
+00:04:23.000 --> 00:04:26.000
+the vertical plane this way, and in our collaborations with Pixar,
+
+00:04:26.000 --> 00:04:28.000
+in "A Bug's Life," we discussed the
+
+00:04:28.000 --> 00:04:31.000
+bipedal nature of the characters of the ants.
+
+00:04:31.000 --> 00:04:33.000
+And we told them, of course, they move in another plane as well.
+
+00:04:33.000 --> 00:04:36.000
+And they asked us this question. They say, "Why model
+
+00:04:36.000 --> 00:04:38.000
+just in the sagittal plane or the vertical plane,
+
+00:04:38.000 --> 00:04:40.000
+when you're telling us these animals are moving
+
+00:04:40.000 --> 00:04:43.000
+in the horizontal plane?" This is a good question.
+
+00:04:43.000 --> 00:04:46.000
+Nobody in biology ever modeled it this way.
+
+00:04:46.000 --> 00:04:50.000
+We took their advice and we modeled the animals moving
+
+00:04:50.000 --> 00:04:53.000
+in the horizontal plane as well. We took their three legs,
+
+00:04:53.000 --> 00:04:54.000
+we collapsed them down as one.
+
+00:04:54.000 --> 00:04:57.000
+We got some of the best mathematicians in the world
+
+00:04:57.000 --> 00:04:59.000
+from Princeton to work on this problem.
+
+00:04:59.000 --> 00:05:02.000
+And we were able to create a model
+
+00:05:02.000 --> 00:05:03.000
+where animals are not only bouncing up and down,
+
+00:05:03.000 --> 00:05:07.000
+but they're also bouncing side to side at the same time.
+
+00:05:07.000 --> 00:05:09.000
+And many organisms fit this kind of pattern.
+
+00:05:09.000 --> 00:05:11.000
+Now, why is this important to have this model?
+
+00:05:11.000 --> 00:05:14.000
+Because it's very interesting. When you take this model
+
+00:05:14.000 --> 00:05:17.000
+and you perturb it, you give it a push,
+
+00:05:17.000 --> 00:05:21.000
+as it bumps into something, it self-stabilizes, with no brain
+
+00:05:21.000 --> 00:05:25.000
+or no reflexes, just by the structure alone.
+
+00:05:25.000 --> 00:05:30.000
+It's a beautiful model. Let's look at the mathematics.
+
+00:05:30.000 --> 00:05:32.000
+(Laughter)
+
+00:05:32.000 --> 00:05:33.000
+That's enough!
+
+00:05:33.000 --> 00:05:37.000
+(Laughter)
+
+00:05:37.000 --> 00:05:39.000
+The animals, when you look at them running,
+
+00:05:39.000 --> 00:05:42.000
+appear to be self-stabilizing like this,
+
+00:05:42.000 --> 00:05:45.000
+using basically springy legs. That is, the legs can do
+
+00:05:45.000 --> 00:05:48.000
+computations on their own; the control algorithms, in a sense,
+
+00:05:48.000 --> 00:05:51.000
+are embedded in the form of the animal itself.
+
+00:05:51.000 --> 00:05:58.000
+Why haven't we been more inspired by nature and these kinds of discoveries?
+
+00:05:58.000 --> 00:06:02.000
+Well, I would argue that human technologies are really different from
+
+00:06:02.000 --> 00:06:05.000
+natural technologies, at least they have been so far.
+
+00:06:05.000 --> 00:06:10.000
+Think about the typical kind of robot that you see.
+
+00:06:10.000 --> 00:06:13.000
+Human technologies have tended to be large, flat,
+
+00:06:13.000 --> 00:06:18.000
+with right angles, stiff, made of metal. They have rolling devices
+
+00:06:18.000 --> 00:06:21.000
+and axles. There are very few motors, very few sensors.
+
+00:06:21.000 --> 00:06:26.000
+Whereas nature tends to be small, and curved,
+
+00:06:26.000 --> 00:06:29.000
+and it bends and twists, and has legs instead, and appendages,
+
+00:06:29.000 --> 00:06:32.000
+and has many muscles and many, many sensors.
+
+00:06:32.000 --> 00:06:36.000
+So it's a very different design. However, what's changing,
+
+00:06:36.000 --> 00:06:38.000
+what's really exciting -- and I'll show you some of that next --
+
+00:06:38.000 --> 00:06:41.000
+is that as human technology takes on more of the characteristics
+
+00:06:41.000 --> 00:06:47.000
+of nature, then nature really can become a much more useful teacher.
+
+00:06:47.000 --> 00:06:49.000
+And here's one example that's really exciting.
+
+00:06:49.000 --> 00:06:51.000
+This is a collaboration we have with Stanford.
+
+00:06:51.000 --> 00:06:55.000
+And they developed this new technique, called Shape Deposition Manufacturing.
+
+00:06:55.000 --> 00:06:59.000
+It's a technique where they can mix materials together and mold any shape
+
+00:06:59.000 --> 00:07:03.000
+that they like, and put in the material properties.
+
+00:07:03.000 --> 00:07:06.000
+They can embed sensors and actuators right in the form itself.
+
+00:07:06.000 --> 00:07:11.000
+For example, here's a leg: the clear part is stiff,
+
+00:07:11.000 --> 00:07:14.000
+the white part is compliant, and you don't need any axles there or anything.
+
+00:07:14.000 --> 00:07:17.000
+It just bends by itself beautifully.
+
+00:07:17.000 --> 00:07:20.000
+So, you can put those properties in. It inspired them to show off
+
+00:07:20.000 --> 00:07:26.000
+this design by producing a little robot they named Sprawl.
+
+00:07:26.000 --> 00:07:30.000
+Our work has also inspired another robot, a biologically inspired bouncing robot,
+
+00:07:30.000 --> 00:07:32.000
+from the University of Michigan and McGill
+
+00:07:32.000 --> 00:07:40.000
+named RHex, for robot hexapod, and this one's autonomous.
+
+00:07:40.000 --> 00:07:43.000
+Let's go to the video, and let me show you some of these animals moving
+
+00:07:43.000 --> 00:07:45.000
+and then some of the simple robots
+
+00:07:45.000 --> 00:07:48.000
+that have been inspired by our discoveries.
+
+00:07:48.000 --> 00:07:52.000
+Here's what some of you did this morning, although you did it outside,
+
+00:07:52.000 --> 00:07:54.000
+not on a treadmill.
+
+00:07:54.000 --> 00:07:57.000
+Here's what we do.
+
+00:07:57.000 --> 00:07:59.000
+(Laughter)
+
+00:07:59.000 --> 00:08:04.000
+This is a death's head cockroach. This is an American cockroach
+
+00:08:04.000 --> 00:08:05.000
+you think you don't have in your kitchen.
+
+00:08:05.000 --> 00:08:12.000
+This is an eight-legged scorpion, six-legged ant, forty-four-legged centipede.
+
+00:08:12.000 --> 00:08:15.000
+Now, I said all these animals are sort of working like pogo sticks --
+
+00:08:15.000 --> 00:08:19.000
+they're bouncing along as they move. And you can see that
+
+00:08:19.000 --> 00:08:22.000
+in this ghost crab, from the beaches of Panama and North Carolina.
+
+00:08:22.000 --> 00:08:25.000
+It goes up to four meters per second when it runs.
+
+00:08:25.000 --> 00:08:28.000
+It actually leaps into the air, and has aerial phases
+
+00:08:28.000 --> 00:08:32.000
+when it does it, like a horse, and you'll see it's bouncing here.
+
+00:08:32.000 --> 00:08:35.000
+What we discovered is whether you look at the leg of a human
+
+00:08:35.000 --> 00:08:41.000
+like Richard, or a cockroach, or a crab, or a kangaroo,
+
+00:08:41.000 --> 00:08:46.000
+the relative leg stiffness of that spring is the same for everything we've seen so far.
+
+00:08:46.000 --> 00:08:48.000
+Now, what good are springy legs then? What can they do?
+
+00:08:48.000 --> 00:08:50.000
+Well, we wanted to see if they allowed the animals
+
+00:08:50.000 --> 00:08:53.000
+to have greater stability and maneuverability.
+
+00:08:53.000 --> 00:08:57.000
+So, we built a terrain that had obstacles three times the hip height
+
+00:08:57.000 --> 00:08:58.000
+of the animals that we're looking at.
+
+00:08:58.000 --> 00:09:02.000
+And we were certain they couldn't do this. And here's what they did.
+
+00:09:02.000 --> 00:09:05.000
+The animal ran over it and it didn't even slow down!
+
+00:09:05.000 --> 00:09:07.000
+It didn't decrease its preferred speed at all.
+
+00:09:07.000 --> 00:09:10.000
+We couldn't believe that it could do this. It said to us
+
+00:09:10.000 --> 00:09:15.000
+that if you could build a robot with very simple, springy legs,
+
+00:09:15.000 --> 00:09:21.000
+you could make it as maneuverable as any that's ever been built.
+
+00:09:21.000 --> 00:09:23.000
+Here's the first example of that. This is the Stanford
+
+00:09:23.000 --> 00:09:26.000
+Shape Deposition Manufactured robot, named Sprawl.
+
+00:09:26.000 --> 00:09:32.000
+It has six legs -- there are the tuned, springy legs.
+
+00:09:32.000 --> 00:09:35.000
+It moves in a gait that an insect uses, and here it is
+
+00:09:35.000 --> 00:09:42.000
+going on the treadmill. Now, what's important about this robot,
+
+00:09:42.000 --> 00:09:45.000
+compared to other robots, is that it can't see anything,
+
+00:09:45.000 --> 00:09:51.000
+it can't feel anything, it doesn't have a brain, yet it can maneuver
+
+00:09:51.000 --> 00:09:57.000
+over these obstacles without any difficulty whatsoever.
+
+00:09:57.000 --> 00:10:01.000
+It's this technique of building the properties into the form.
+
+00:10:01.000 --> 00:10:04.000
+This is a graduate student. This is what he's doing to his thesis project --
+
+00:10:04.000 --> 00:10:06.000
+very robust, if a graduate student
+
+00:10:06.000 --> 00:10:08.000
+does that to his thesis project.
+
+00:10:08.000 --> 00:10:09.000
+(Laughter)
+
+00:10:09.000 --> 00:10:13.000
+This is from McGill and University of Michigan. This is the RHex,
+
+00:10:13.000 --> 00:10:16.000
+making its first outing in a demo.
+
+00:10:16.000 --> 00:10:20.000
+(Laughter)
+
+00:10:20.000 --> 00:10:25.000
+Same principle: it only has six moving parts,
+
+00:10:25.000 --> 00:10:31.000
+six motors, but it has springy, tuned legs. It moves in the gait of the insect.
+
+00:10:31.000 --> 00:10:35.000
+It has the middle leg moving in synchrony with the front,
+
+00:10:35.000 --> 00:10:39.000
+and the hind leg on the other side. Sort of an alternating tripod,
+
+00:10:39.000 --> 00:10:43.000
+and they can negotiate obstacles just like the animal.
+
+00:10:43.000 --> 00:10:49.000
+(Laughter)
+
+00:10:49.000 --> 00:10:50.000
+(Voice: Oh my God.)
+
+00:10:50.000 --> 00:10:55.000
+(Applause)
+
+00:10:55.000 --> 00:10:57.000
+Robert Full: It'll go on different surfaces -- here's sand --
+
+00:10:57.000 --> 00:11:02.000
+although we haven't perfected the feet yet, but I'll talk about that later.
+
+00:11:02.000 --> 00:11:05.000
+Here's RHex entering the woods.
+
+00:11:05.000 --> 00:11:07.000
+(Laughter)
+
+00:11:20.000 --> 00:11:24.000
+Again, this robot can't see anything, it can't feel anything,
+
+00:11:24.000 --> 00:11:30.000
+it has no brain. It's just working with a tuned mechanical system,
+
+00:11:30.000 --> 00:11:40.000
+with very simple parts, but inspired from the fundamental dynamics of the animal.
+
+00:11:40.000 --> 00:11:48.000
+(Voice: Ah, I love him, Bob.) RF: Here's it going down a pathway.
+
+00:11:48.000 --> 00:11:51.000
+I presented this to the jet propulsion lab at NASA, and they said
+
+00:11:51.000 --> 00:11:55.000
+that they had no ability to go down craters to look for ice,
+
+00:11:55.000 --> 00:11:59.000
+and life, ultimately, on Mars. And he said --
+
+00:11:59.000 --> 00:12:01.000
+especially with legged-robots, because they're way too complicated.
+
+00:12:01.000 --> 00:12:06.000
+Nothing can do that. And I talk next. I showed them this video
+
+00:12:06.000 --> 00:12:09.000
+with the simple design of RHex here. And just to convince them
+
+00:12:09.000 --> 00:12:13.000
+we should go to Mars in 2011, I tinted the video orange
+
+00:12:13.000 --> 00:12:16.000
+just to give them the sense of being on Mars.
+
+00:12:16.000 --> 00:12:17.000
+(Laughter)
+
+00:12:17.000 --> 00:12:23.000
+(Applause)
+
+00:12:25.000 --> 00:12:28.000
+Another reason why animals have extraordinary performance,
+
+00:12:28.000 --> 00:12:31.000
+and can go anywhere, is because they have an effective interaction
+
+00:12:31.000 --> 00:12:34.000
+with the environment. The animal I'm going to show you,
+
+00:12:34.000 --> 00:12:38.000
+that we studied to look at this, is the gecko.
+
+00:12:38.000 --> 00:12:45.000
+We have one here and notice its position. It's holding on.
+
+00:12:45.000 --> 00:12:48.000
+Now I'm going to challenge you. I'm going show you a video.
+
+00:12:48.000 --> 00:12:50.000
+One of the animals is going to be running on the level,
+
+00:12:50.000 --> 00:12:54.000
+and the other one's going to be running up a wall. Which one's which?
+
+00:12:54.000 --> 00:12:59.000
+They're going at a meter a second. How many think the one on the left
+
+00:12:59.000 --> 00:13:01.000
+is running up the wall?
+
+00:13:01.000 --> 00:13:05.000
+(Applause)
+
+00:13:05.000 --> 00:13:10.000
+Okay. The point is it's really hard to tell, isn't it? It's incredible,
+
+00:13:10.000 --> 00:13:12.000
+we looked at students do this and they couldn't tell.
+
+00:13:12.000 --> 00:13:15.000
+They can run up a wall at a meter a second, 15 steps per second,
+
+00:13:15.000 --> 00:13:19.000
+and they look like they're running on the level. How do they do this?
+
+00:13:19.000 --> 00:13:25.000
+It's just phenomenal. The one on the right was going up the hill.
+
+00:13:25.000 --> 00:13:29.000
+How do they do this? They have bizarre toes. They have toes
+
+00:13:29.000 --> 00:13:33.000
+that uncurl like party favors when you blow them out,
+
+00:13:33.000 --> 00:13:36.000
+and then peel off the surface, like tape.
+
+00:13:36.000 --> 00:13:38.000
+Like if we had a piece of tape now, we'd peel it this way.
+
+00:13:38.000 --> 00:13:45.000
+They do this with their toes. It's bizarre! This peeling inspired
+
+00:13:45.000 --> 00:13:48.000
+iRobot -- that we work with -- to build Mecho-Geckos.
+
+00:13:48.000 --> 00:13:55.000
+Here's a legged version and a tractor version, or a bulldozer version.
+
+00:13:55.000 --> 00:13:57.000
+Let's see some of the geckos move with some video,
+
+00:13:57.000 --> 00:14:00.000
+and then I'll show you a little bit of a clip of the robots.
+
+00:14:00.000 --> 00:14:03.000
+Here's the gecko running up a vertical surface. There it goes,
+
+00:14:03.000 --> 00:14:10.000
+in real time. There it goes again. Obviously, we have to slow this down a little bit.
+
+00:14:10.000 --> 00:14:12.000
+You can't use regular cameras.
+
+00:14:12.000 --> 00:14:15.000
+You have to take 1,000 pictures per second to see this.
+
+00:14:15.000 --> 00:14:18.000
+And here's some video at 1,000 frames per second.
+
+00:14:18.000 --> 00:14:20.000
+Now, I want you to look at the animal's back.
+
+00:14:20.000 --> 00:14:23.000
+Do you see how much it's bending like that? We can't figure that out --
+
+00:14:23.000 --> 00:14:26.000
+that's an unsolved mystery. We don't know how it works.
+
+00:14:26.000 --> 00:14:29.000
+If you have a son or a daughter that wants to come to Berkeley,
+
+00:14:29.000 --> 00:14:33.000
+come to my lab and we'll figure this out. Okay, send them to Berkeley
+
+00:14:33.000 --> 00:14:36.000
+because that's the next thing I want to do. Here's the gecko mill.
+
+00:14:36.000 --> 00:14:37.000
+(Laughter)
+
+00:14:37.000 --> 00:14:40.000
+It's a see-through treadmill with a see-through treadmill belt,
+
+00:14:40.000 --> 00:14:43.000
+so we can watch the animal's feet, and videotape them
+
+00:14:43.000 --> 00:14:46.000
+through the treadmill belt, to see how they move.
+
+00:14:46.000 --> 00:14:50.000
+Here's the animal that we have here, running on a vertical surface.
+
+00:14:50.000 --> 00:14:56.000
+Pick a foot and try to watch a toe, and see if you can see what the animal's doing.
+
+00:14:56.000 --> 00:14:58.000
+See it uncurl and then peel these toes.
+
+00:14:58.000 --> 00:15:05.000
+It can do this in 14 milliseconds. It's unbelievable.
+
+00:15:05.000 --> 00:15:09.000
+Here are the robots that they inspire, the Mecho-Geckos from iRobot.
+
+00:15:09.000 --> 00:15:14.000
+First we'll see the animals toes peeling -- look at that.
+
+00:15:14.000 --> 00:15:18.000
+And here's the peeling action of the Mecho-Gecko.
+
+00:15:18.000 --> 00:15:21.000
+It uses a pressure-sensitive adhesive to do it.
+
+00:15:21.000 --> 00:15:24.000
+Peeling in the animal. Peeling in the Mecho-Gecko --
+
+00:15:24.000 --> 00:15:27.000
+that allows them climb autonomously. Can go on the flat surface,
+
+00:15:27.000 --> 00:15:30.000
+transition to a wall, and then go onto a ceiling.
+
+00:15:30.000 --> 00:15:36.000
+There's the bulldozer version. Now, it doesn't use pressure-sensitive glue.
+
+00:15:36.000 --> 00:15:38.000
+The animal does not use that.
+
+00:15:38.000 --> 00:15:40.000
+But that's what we're limited to, at the moment.
+
+00:15:40.000 --> 00:15:45.000
+What does the animal do? The animal has weird toes.
+
+00:15:45.000 --> 00:15:49.000
+And if you look at the toes, they have these little leaves there,
+
+00:15:49.000 --> 00:15:51.000
+and if you blow them up and zoom in, you'll see
+
+00:15:51.000 --> 00:15:54.000
+that's there's little striations in these leaves.
+
+00:15:54.000 --> 00:16:01.000
+And if you zoom in 270 times, you'll see it looks like a rug.
+
+00:16:01.000 --> 00:16:04.000
+And if you blow that up, and zoom in 900 times,
+
+00:16:04.000 --> 00:16:09.000
+you see there are hairs there, tiny hairs. And if you look carefully,
+
+00:16:09.000 --> 00:16:15.000
+those tiny hairs have striations. And if you zoom in on those 30,000 times,
+
+00:16:15.000 --> 00:16:18.000
+you'll see each hair has split ends.
+
+00:16:18.000 --> 00:16:23.000
+And if you blow those up, they have these little structures on the end.
+
+00:16:23.000 --> 00:16:25.000
+The smallest branch of the hairs looks like spatulae,
+
+00:16:25.000 --> 00:16:32.000
+and an animal like that has one billion of these nano-size split ends,
+
+00:16:32.000 --> 00:16:37.000
+to get very close to the surface. In fact, there's the diameter of your hair --
+
+00:16:37.000 --> 00:16:43.000
+a gecko has two million of these, and each hair has 100 to 1,000 split ends.
+
+00:16:43.000 --> 00:16:46.000
+Think of the contact of that that's possible.
+
+00:16:46.000 --> 00:16:48.000
+We were fortunate to work with another group
+
+00:16:48.000 --> 00:16:50.000
+at Stanford that built us a special manned sensor,
+
+00:16:50.000 --> 00:16:53.000
+that we were able to measure the force of an individual hair.
+
+00:16:53.000 --> 00:16:58.000
+Here's an individual hair with a little split end there.
+
+00:16:58.000 --> 00:17:00.000
+When we measured the forces, they were enormous.
+
+00:17:00.000 --> 00:17:03.000
+They were so large that a patch of hairs about this size --
+
+00:17:03.000 --> 00:17:07.000
+the gecko's foot could support the weight of a small child,
+
+00:17:07.000 --> 00:17:11.000
+about 40 pounds, easily. Now, how do they do it?
+
+00:17:11.000 --> 00:17:15.000
+We've recently discovered this. Do they do it by friction?
+
+00:17:15.000 --> 00:17:18.000
+No, force is too low. Do they do it by electrostatics?
+
+00:17:18.000 --> 00:17:20.000
+No, you can change the charge -- they still hold on.
+
+00:17:20.000 --> 00:17:23.000
+Do they do it by interlocking? That's kind of a like a Velcro-like thing.
+
+00:17:23.000 --> 00:17:26.000
+No, you can put them on molecular smooth surfaces -- they don't do it.
+
+00:17:26.000 --> 00:17:30.000
+How about suction? They stick on in a vacuum.
+
+00:17:30.000 --> 00:17:33.000
+How about wet adhesion? Or capillary adhesion?
+
+00:17:33.000 --> 00:17:36.000
+They don't have any glue, and they even stick under water just fine.
+
+00:17:36.000 --> 00:17:38.000
+If you put their foot under water, they grab on.
+
+00:17:38.000 --> 00:17:42.000
+How do they do it then? Believe it or not, they grab on
+
+00:17:42.000 --> 00:17:46.000
+by intermolecular forces, by Van der Waals forces.
+
+00:17:46.000 --> 00:17:48.000
+You know, you probably had this a long time ago in chemistry,
+
+00:17:48.000 --> 00:17:50.000
+where you had these two atoms, they're close together,
+
+00:17:50.000 --> 00:17:53.000
+and the electrons are moving around. That tiny force is sufficient
+
+00:17:53.000 --> 00:17:56.000
+to allow them to do that because it's added up so many times
+
+00:17:56.000 --> 00:17:59.000
+with these small structures.
+
+00:17:59.000 --> 00:18:04.000
+What we're doing is, we're taking that inspiration of the hairs,
+
+00:18:04.000 --> 00:18:09.000
+and with another colleague at Berkeley, we're manufacturing them.
+
+00:18:09.000 --> 00:18:12.000
+And just recently we've made a breakthrough, where we now believe
+
+00:18:12.000 --> 00:18:17.000
+we're going to be able to create the first synthetic, self-cleaning,
+
+00:18:17.000 --> 00:18:22.000
+dry adhesive. Many companies are interested in this.
+
+00:18:22.000 --> 00:18:25.000
+(Laughter)
+
+00:18:25.000 --> 00:18:27.000
+We also presented to Nike even.
+
+00:18:27.000 --> 00:18:30.000
+(Laughter)
+
+00:18:30.000 --> 00:18:36.000
+(Applause)
+
+00:18:36.000 --> 00:18:39.000
+We'll see where this goes. We were so excited about this
+
+00:18:39.000 --> 00:18:42.000
+that we realized that that small-size scale --
+
+00:18:42.000 --> 00:18:45.000
+and where everything gets sticky, and gravity doesn't matter anymore --
+
+00:18:45.000 --> 00:18:48.000
+we needed to look at ants and their feet, because
+
+00:18:48.000 --> 00:18:53.000
+one of my other colleagues at Berkeley has built a six-millimeter silicone
+
+00:18:53.000 --> 00:18:56.000
+robot with legs. But it gets stuck. It doesn't move very well.
+
+00:18:56.000 --> 00:18:59.000
+But the ants do, and we'll figure out why, so that ultimately
+
+00:18:59.000 --> 00:19:02.000
+we'll make this move. And imagine: you're going to be able
+
+00:19:02.000 --> 00:19:07.000
+to have swarms of these six-millimeter robots available to run around.
+
+00:19:07.000 --> 00:19:10.000
+Where's this going? I think you can see it already.
+
+00:19:10.000 --> 00:19:14.000
+Clearly, the Internet is already having eyes and ears,
+
+00:19:14.000 --> 00:19:18.000
+you have web cams and so forth. But it's going to also have legs and hands.
+
+00:19:18.000 --> 00:19:20.000
+You're going to be able to do programmable
+
+00:19:20.000 --> 00:19:24.000
+work through these kinds of robots, so that you can run,
+
+00:19:24.000 --> 00:19:33.000
+fly and swim anywhere. We saw David Kelly is at the beginning of that with his fish.
+
+00:19:33.000 --> 00:19:35.000
+So, in conclusion, I think the message is clear.
+
+00:19:35.000 --> 00:19:39.000
+If you need a message, if nature's not enough, if you care about
+
+00:19:39.000 --> 00:19:41.000
+search and rescue, or mine clearance, or medicine,
+
+00:19:41.000 --> 00:19:45.000
+or the various things we're working on, we must preserve
+
+00:19:45.000 --> 00:19:49.000
+nature's designs, otherwise these secrets will be lost forever.
+
+00:19:49.000 --> 00:19:50.000
+Thank you.
+
+00:19:50.000 --> 00:19:59.000
+(Applause)
+

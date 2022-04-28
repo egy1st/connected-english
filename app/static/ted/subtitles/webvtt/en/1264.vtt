@@ -1,0 +1,1208 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+So historically there has
+
+00:00:02.000 --> 00:00:05.000
+been a huge divide between what people
+
+00:00:05.000 --> 00:00:08.000
+consider to be non-living systems on one
+
+00:00:08.000 --> 00:00:10.000
+side, and living systems on the other side.
+
+00:00:10.000 --> 00:00:12.000
+So we go from, say, this beautiful and
+
+00:00:12.000 --> 00:00:15.000
+complex crystal as non-life, and this rather
+
+00:00:15.000 --> 00:00:18.000
+beautiful and complex cat on the other side.
+
+00:00:18.000 --> 00:00:21.000
+Over the last hundred and fifty years or so,
+
+00:00:21.000 --> 00:00:23.000
+science has kind of blurred this distinction
+
+00:00:23.000 --> 00:00:25.000
+between non-living and living systems, and
+
+00:00:25.000 --> 00:00:27.000
+now we consider that there may be a kind
+
+00:00:27.000 --> 00:00:30.000
+of continuum that exists between the two.
+
+00:00:30.000 --> 00:00:32.000
+We'll just take one example here:
+
+00:00:32.000 --> 00:00:34.000
+a virus is a natural system, right?
+
+00:00:34.000 --> 00:00:36.000
+But it's very simple. It's very simplistic.
+
+00:00:36.000 --> 00:00:38.000
+It doesn't really satisfy all the requirements,
+
+00:00:38.000 --> 00:00:40.000
+it doesn't have all the characteristics
+
+00:00:40.000 --> 00:00:42.000
+of living systems and is in fact a parasite
+
+00:00:42.000 --> 00:00:45.000
+on other living systems in order to, say,
+
+00:00:45.000 --> 00:00:47.000
+reproduce and evolve.
+
+00:00:47.000 --> 00:00:49.000
+But what we're going to be talking about here
+
+00:00:49.000 --> 00:00:51.000
+tonight are experiments done on this sort of
+
+00:00:51.000 --> 00:00:53.000
+non-living end of this spectrum -- so actually
+
+00:00:53.000 --> 00:00:56.000
+doing chemical experiments in the laboratory,
+
+00:00:56.000 --> 00:00:58.000
+mixing together nonliving ingredients
+
+00:00:58.000 --> 00:01:00.000
+to make new structures, and that these
+
+00:01:00.000 --> 00:01:02.000
+new structures might have some of the
+
+00:01:02.000 --> 00:01:04.000
+characteristics of living systems.
+
+00:01:04.000 --> 00:01:06.000
+Really what I'm talking about here is
+
+00:01:06.000 --> 00:01:08.000
+trying to create a kind of artificial life.
+
+00:01:08.000 --> 00:01:10.000
+So what are these characteristics that I'm
+
+00:01:10.000 --> 00:01:12.000
+talking about? These are them.
+
+00:01:12.000 --> 00:01:14.000
+We consider first that life has a body.
+
+00:01:14.000 --> 00:01:16.000
+Now this is necessary to distinguish the self
+
+00:01:16.000 --> 00:01:18.000
+from the environment.
+
+00:01:18.000 --> 00:01:20.000
+Life also has a metabolism. Now this is a
+
+00:01:20.000 --> 00:01:23.000
+process by which life can convert resources
+
+00:01:23.000 --> 00:01:25.000
+from the environment into building blocks
+
+00:01:25.000 --> 00:01:28.000
+so it can maintain and build itself.
+
+00:01:28.000 --> 00:01:30.000
+Life also has a kind of inheritable information.
+
+00:01:30.000 --> 00:01:32.000
+Now we, as humans, we store our information
+
+00:01:32.000 --> 00:01:35.000
+as DNA in our genomes and we pass this
+
+00:01:35.000 --> 00:01:37.000
+information on to our offspring.
+
+00:01:37.000 --> 00:01:39.000
+If we couple the first two -- the body and the metabolism --
+
+00:01:39.000 --> 00:01:41.000
+we can come up with a system that could
+
+00:01:41.000 --> 00:01:43.000
+perhaps move and replicate, and if we
+
+00:01:43.000 --> 00:01:46.000
+coupled these now to inheritable information,
+
+00:01:46.000 --> 00:01:48.000
+we can come up with a system that would be
+
+00:01:48.000 --> 00:01:50.000
+more lifelike, and would perhaps evolve.
+
+00:01:50.000 --> 00:01:52.000
+And so these are the things we will try to do
+
+00:01:52.000 --> 00:01:54.000
+in the lab, make some experiments that have
+
+00:01:54.000 --> 00:01:57.000
+one or more of these characteristics of life.
+
+00:01:57.000 --> 00:01:59.000
+So how do we do this? Well, we use
+
+00:01:59.000 --> 00:02:01.000
+a model system that we term a protocell.
+
+00:02:01.000 --> 00:02:03.000
+You might think of this as kind of like a
+
+00:02:03.000 --> 00:02:05.000
+primitive cell. It is a simple chemical
+
+00:02:05.000 --> 00:02:08.000
+model of a living cell, and if you consider
+
+00:02:08.000 --> 00:02:10.000
+for example a cell in your body may have
+
+00:02:10.000 --> 00:02:12.000
+on the order of millions of different types
+
+00:02:12.000 --> 00:02:14.000
+of molecules that need to come together,
+
+00:02:14.000 --> 00:02:16.000
+play together in a complex network
+
+00:02:16.000 --> 00:02:19.000
+to produce something that we call alive.
+
+00:02:19.000 --> 00:02:21.000
+In the laboratory what we want to do
+
+00:02:21.000 --> 00:02:23.000
+is much the same, but with on the order of
+
+00:02:23.000 --> 00:02:25.000
+tens of different types of molecules --
+
+00:02:25.000 --> 00:02:27.000
+so a drastic reduction in complexity, but still
+
+00:02:27.000 --> 00:02:30.000
+trying to produce something that looks lifelike.
+
+00:02:30.000 --> 00:02:32.000
+And so what we do is, we start simple
+
+00:02:32.000 --> 00:02:35.000
+and we work our way up to living systems.
+
+00:02:35.000 --> 00:02:37.000
+Consider for a moment this quote by
+
+00:02:37.000 --> 00:02:39.000
+Leduc, a hundred years ago, considering a
+
+00:02:39.000 --> 00:02:41.000
+kind of synthetic biology:
+
+00:02:41.000 --> 00:02:43.000
+"The synthesis of life, should it ever occur,
+
+00:02:43.000 --> 00:02:45.000
+will not be the sensational discovery which we
+
+00:02:45.000 --> 00:02:47.000
+usually associate with the idea."
+
+00:02:47.000 --> 00:02:49.000
+That's his first statement. So if we actually
+
+00:02:49.000 --> 00:02:51.000
+create life in the laboratories, it's
+
+00:02:51.000 --> 00:02:53.000
+probably not going to impact our lives at all.
+
+00:02:53.000 --> 00:02:55.000
+"If we accept the theory of evolution, then
+
+00:02:55.000 --> 00:02:57.000
+the first dawn of synthesis of life must consist
+
+00:02:57.000 --> 00:02:59.000
+in the production of forms intermediate
+
+00:02:59.000 --> 00:03:01.000
+between the inorganic and the organic
+
+00:03:01.000 --> 00:03:03.000
+world, or between the non-living
+
+00:03:03.000 --> 00:03:05.000
+and living world, forms which possess
+
+00:03:05.000 --> 00:03:07.000
+only some of the rudimentary attributes of life"
+
+00:03:07.000 --> 00:03:09.000
+-- so, the ones I just discussed --
+
+00:03:09.000 --> 00:03:11.000
+"to which other attributes will be slowly added
+
+00:03:11.000 --> 00:03:13.000
+in the course of development by the
+
+00:03:13.000 --> 00:03:15.000
+evolutionary actions of the environment."
+
+00:03:15.000 --> 00:03:17.000
+So we start simple, we make some structures
+
+00:03:17.000 --> 00:03:19.000
+that may have some of these characteristics
+
+00:03:19.000 --> 00:03:21.000
+of life, and then we try to develop that
+
+00:03:21.000 --> 00:03:23.000
+to become more lifelike.
+
+00:03:23.000 --> 00:03:25.000
+This is how we can start to make a protocell.
+
+00:03:25.000 --> 00:03:27.000
+We use this idea called self-assembly.
+
+00:03:27.000 --> 00:03:29.000
+What that means is, I can mix some
+
+00:03:29.000 --> 00:03:31.000
+chemicals together in a test tube in my lab,
+
+00:03:31.000 --> 00:03:33.000
+and these chemicals will start to self-associate
+
+00:03:33.000 --> 00:03:35.000
+to form larger and larger structures.
+
+00:03:35.000 --> 00:03:37.000
+So say on the order of tens of thousands,
+
+00:03:37.000 --> 00:03:39.000
+hundreds of thousands of molecules will
+
+00:03:39.000 --> 00:03:41.000
+come together to form a large structure
+
+00:03:41.000 --> 00:03:43.000
+that didn't exist before.
+
+00:03:43.000 --> 00:03:45.000
+And in this particular example,
+
+00:03:45.000 --> 00:03:47.000
+what I took is some membrane molecules,
+
+00:03:47.000 --> 00:03:49.000
+mixed those together in the right environment,
+
+00:03:49.000 --> 00:03:51.000
+and within seconds it forms these rather
+
+00:03:51.000 --> 00:03:53.000
+complex and beautiful structures here.
+
+00:03:53.000 --> 00:03:55.000
+These membranes are also quite similar,
+
+00:03:55.000 --> 00:03:57.000
+morphologically and functionally,
+
+00:03:57.000 --> 00:03:59.000
+to the membranes in your body,
+
+00:03:59.000 --> 00:04:01.000
+and we can use these, as they say,
+
+00:04:01.000 --> 00:04:03.000
+to form the body of our protocell.
+
+00:04:03.000 --> 00:04:04.000
+Likewise,
+
+00:04:04.000 --> 00:04:06.000
+we can work with oil and water systems.
+
+00:04:06.000 --> 00:04:08.000
+As you know, when you put oil and water together,
+
+00:04:08.000 --> 00:04:10.000
+they don't mix, but through self-assembly
+
+00:04:10.000 --> 00:04:12.000
+we can get a nice oil droplet to form,
+
+00:04:12.000 --> 00:04:14.000
+and we can actually use this as a body for
+
+00:04:14.000 --> 00:04:16.000
+our artificial organism or for our protocell,
+
+00:04:16.000 --> 00:04:18.000
+as you will see later.
+
+00:04:18.000 --> 00:04:20.000
+So that's just forming some body stuff, right?
+
+00:04:20.000 --> 00:04:22.000
+Some architectures.
+
+00:04:22.000 --> 00:04:24.000
+What about the other aspects of living systems?
+
+00:04:24.000 --> 00:04:26.000
+So we came up with this protocell model here
+
+00:04:26.000 --> 00:04:28.000
+that I'm showing.
+
+00:04:28.000 --> 00:04:30.000
+We started with a natural occurring clay
+
+00:04:30.000 --> 00:04:32.000
+called montmorillonite.
+
+00:04:32.000 --> 00:04:34.000
+This is natural from the environment, this clay.
+
+00:04:34.000 --> 00:04:36.000
+It forms a surface that is, say, chemically active.
+
+00:04:36.000 --> 00:04:38.000
+It could run a metabolism on it.
+
+00:04:38.000 --> 00:04:40.000
+Certain kind of molecules like to associate
+
+00:04:40.000 --> 00:04:42.000
+with the clay. For example, in this case, RNA, shown in red
+
+00:04:42.000 --> 00:04:44.000
+-- this is a relative of DNA,
+
+00:04:44.000 --> 00:04:46.000
+it's an informational molecule --
+
+00:04:46.000 --> 00:04:48.000
+it can come along and it starts to associate
+
+00:04:48.000 --> 00:04:50.000
+with the surface of this clay.
+
+00:04:50.000 --> 00:04:52.000
+This structure, then, can organize the
+
+00:04:52.000 --> 00:04:54.000
+formation of a membrane boundary around
+
+00:04:54.000 --> 00:04:56.000
+itself, so it can make a body of
+
+00:04:56.000 --> 00:04:58.000
+liquid molecules around itself, and that's
+
+00:04:58.000 --> 00:05:00.000
+shown in green here on this micrograph.
+
+00:05:00.000 --> 00:05:02.000
+So just through self-assembly, mixing things
+
+00:05:02.000 --> 00:05:05.000
+together in the lab, we can come up with, say,
+
+00:05:05.000 --> 00:05:07.000
+a metabolic surface with some
+
+00:05:07.000 --> 00:05:09.000
+informational molecules attached
+
+00:05:09.000 --> 00:05:11.000
+inside of this membrane body, right?
+
+00:05:11.000 --> 00:05:15.000
+So we're on a road towards living systems.
+
+00:05:15.000 --> 00:05:17.000
+But if you saw this protocell, you would not
+
+00:05:17.000 --> 00:05:19.000
+confuse this with something that was actually alive.
+
+00:05:19.000 --> 00:05:21.000
+It's actually quite lifeless. Once it forms,
+
+00:05:21.000 --> 00:05:23.000
+it doesn't really do anything.
+
+00:05:23.000 --> 00:05:25.000
+So, something is missing.
+
+00:05:25.000 --> 00:05:27.000
+Some things are missing.
+
+00:05:27.000 --> 00:05:29.000
+So some things that are missing is,
+
+00:05:29.000 --> 00:05:31.000
+for example, if you had a flow of energy
+
+00:05:31.000 --> 00:05:33.000
+through a system, what we'd want
+
+00:05:33.000 --> 00:05:35.000
+is a protocell that can harvest
+
+00:05:35.000 --> 00:05:37.000
+some of that energy in order to maintain itself,
+
+00:05:37.000 --> 00:05:39.000
+much like living systems do.
+
+00:05:39.000 --> 00:05:41.000
+So we came up with a different protocell
+
+00:05:41.000 --> 00:05:43.000
+model, and this is actually simpler than the previous one.
+
+00:05:43.000 --> 00:05:45.000
+In this protocell model, it's just an oil droplet,
+
+00:05:45.000 --> 00:05:47.000
+but a chemical metabolism inside
+
+00:05:47.000 --> 00:05:49.000
+that allows this protocell to use energy
+
+00:05:49.000 --> 00:05:52.000
+to do something, to actually become dynamic,
+
+00:05:52.000 --> 00:05:54.000
+as we'll see here.
+
+00:05:54.000 --> 00:05:56.000
+You add the droplet to the system.
+
+00:05:56.000 --> 00:05:58.000
+It's a pool of water, and the protocell
+
+00:05:58.000 --> 00:06:00.000
+starts moving itself around in the system.
+
+00:06:00.000 --> 00:06:02.000
+Okay? Oil droplet forms
+
+00:06:02.000 --> 00:06:04.000
+through self-assembly, has a chemical
+
+00:06:04.000 --> 00:06:06.000
+metabolism inside so it can use energy,
+
+00:06:06.000 --> 00:06:08.000
+and it uses that energy to move itself
+
+00:06:08.000 --> 00:06:10.000
+around in its environment.
+
+00:06:10.000 --> 00:06:12.000
+As we heard earlier, movement is very
+
+00:06:12.000 --> 00:06:14.000
+important in these kinds of living systems.
+
+00:06:14.000 --> 00:06:16.000
+It is moving around, exploring its environment,
+
+00:06:16.000 --> 00:06:18.000
+and remodeling its environment, as you see,
+
+00:06:18.000 --> 00:06:20.000
+by these chemical waves that are forming by the protocell.
+
+00:06:20.000 --> 00:06:22.000
+So it's acting, in a sense, like a living system
+
+00:06:22.000 --> 00:06:25.000
+trying to preserve itself.
+
+00:06:25.000 --> 00:06:28.000
+We take this same moving protocell here,
+
+00:06:28.000 --> 00:06:30.000
+and we put it in another experiment,
+
+00:06:30.000 --> 00:06:32.000
+get it moving. Then I'm going
+
+00:06:32.000 --> 00:06:34.000
+to add some food to the system,
+
+00:06:34.000 --> 00:06:37.000
+and you'll see that in blue here, right?
+
+00:06:37.000 --> 00:06:39.000
+So I add some food source to the system.
+
+00:06:39.000 --> 00:06:41.000
+The protocell moves. It encounters the food.
+
+00:06:41.000 --> 00:06:43.000
+It reconfigures itself and actually then
+
+00:06:43.000 --> 00:06:45.000
+is able to climb to the highest concentration
+
+00:06:45.000 --> 00:06:47.000
+of food in that system and stop there.
+
+00:06:47.000 --> 00:06:49.000
+Alright? So not only do we have this system
+
+00:06:49.000 --> 00:06:51.000
+that has a body, it has a metabolism,
+
+00:06:51.000 --> 00:06:54.000
+it can use energy, it moves around.
+
+00:06:54.000 --> 00:06:56.000
+It can sense its local environment
+
+00:06:56.000 --> 00:06:58.000
+and actually find resources
+
+00:06:58.000 --> 00:07:00.000
+in the environment to sustain itself.
+
+00:07:00.000 --> 00:07:02.000
+Now, this doesn't have a brain, it doesn't have
+
+00:07:02.000 --> 00:07:04.000
+a neural system. This is just a sack of
+
+00:07:04.000 --> 00:07:06.000
+chemicals that is able to have this interesting
+
+00:07:06.000 --> 00:07:08.000
+and complex lifelike behavior.
+
+00:07:08.000 --> 00:07:10.000
+If we count the number of chemicals
+
+00:07:10.000 --> 00:07:12.000
+in that system, actually, including the water
+
+00:07:12.000 --> 00:07:14.000
+that's in the dish, we have five chemicals
+
+00:07:14.000 --> 00:07:16.000
+that can do this.
+
+00:07:16.000 --> 00:07:18.000
+So then we put these protocells together in a
+
+00:07:18.000 --> 00:07:20.000
+single experiment to see what they would do,
+
+00:07:20.000 --> 00:07:22.000
+and depending on the conditions, we have
+
+00:07:22.000 --> 00:07:24.000
+some protocells on the left that are
+
+00:07:24.000 --> 00:07:26.000
+moving around and it likes to touch the other
+
+00:07:26.000 --> 00:07:28.000
+structures in its environment.
+
+00:07:28.000 --> 00:07:30.000
+On the other hand we have two moving
+
+00:07:30.000 --> 00:07:32.000
+protocells that like to circle each other,
+
+00:07:32.000 --> 00:07:34.000
+and they form a kind of a dance, a complex dance with each other.
+
+00:07:34.000 --> 00:07:36.000
+Right? So not only do individual protocells
+
+00:07:36.000 --> 00:07:38.000
+have behavior, what we've interpreted as
+
+00:07:38.000 --> 00:07:40.000
+behavior in this system, but we also have
+
+00:07:40.000 --> 00:07:43.000
+basically population-level behavior
+
+00:07:43.000 --> 00:07:46.000
+similar to what organisms have.
+
+00:07:46.000 --> 00:07:49.000
+So now that you're all experts on protocells,
+
+00:07:49.000 --> 00:07:51.000
+we're going to play a game with these protocells.
+
+00:07:51.000 --> 00:07:53.000
+We're going to make two different kinds.
+
+00:07:53.000 --> 00:07:56.000
+Protocell A has a certain kind of chemistry
+
+00:07:56.000 --> 00:07:58.000
+inside that, when activated, the protocell
+
+00:07:58.000 --> 00:08:00.000
+starts to vibrate around, just dancing.
+
+00:08:00.000 --> 00:08:02.000
+So remember, these are primitive things,
+
+00:08:02.000 --> 00:08:04.000
+so dancing protocells, that's very
+
+00:08:04.000 --> 00:08:06.000
+interesting to us. (Laughter)
+
+00:08:06.000 --> 00:08:08.000
+The second protocell has a different
+
+00:08:08.000 --> 00:08:10.000
+chemistry inside, and when activated,
+
+00:08:10.000 --> 00:08:12.000
+the protocells all come together and they fuse
+
+00:08:12.000 --> 00:08:14.000
+into one big one. Right?
+
+00:08:14.000 --> 00:08:16.000
+And we just put these two together
+
+00:08:16.000 --> 00:08:18.000
+in the same system.
+
+00:08:18.000 --> 00:08:20.000
+So there's population A,
+
+00:08:20.000 --> 00:08:22.000
+there's population B, and then
+
+00:08:22.000 --> 00:08:24.000
+we activate the system,
+
+00:08:24.000 --> 00:08:26.000
+and protocell Bs, they're the blue ones,
+
+00:08:26.000 --> 00:08:28.000
+they all come together. They fuse together
+
+00:08:28.000 --> 00:08:30.000
+to form one big blob, and the other protocell
+
+00:08:30.000 --> 00:08:32.000
+just dances around. And this just happens
+
+00:08:32.000 --> 00:08:34.000
+until all of the energy in the system is
+
+00:08:34.000 --> 00:08:37.000
+basically used up, and then, game over.
+
+00:08:37.000 --> 00:08:39.000
+So then I repeated this experiment
+
+00:08:39.000 --> 00:08:41.000
+a bunch of times, and one time
+
+00:08:41.000 --> 00:08:43.000
+something very interesting happened.
+
+00:08:43.000 --> 00:08:45.000
+So, I added these protocells together
+
+00:08:45.000 --> 00:08:47.000
+to the system, and protocell A and protocell B
+
+00:08:47.000 --> 00:08:49.000
+fused together to form a hybrid protocell AB.
+
+00:08:49.000 --> 00:08:51.000
+That didn't happen before. There it goes.
+
+00:08:51.000 --> 00:08:54.000
+There's a protocell AB now in this system.
+
+00:08:54.000 --> 00:08:57.000
+Protocell AB likes to dance around for a bit,
+
+00:08:57.000 --> 00:09:00.000
+while protocell B does the fusing, okay?
+
+00:09:00.000 --> 00:09:03.000
+But then something even more interesting happens.
+
+00:09:03.000 --> 00:09:05.000
+Watch when these two large protocells,
+
+00:09:05.000 --> 00:09:07.000
+the hybrid ones, fuse together.
+
+00:09:07.000 --> 00:09:10.000
+Now we have a dancing protocell
+
+00:09:10.000 --> 00:09:14.000
+and a self-replication event. Right. (Laughter)
+
+00:09:14.000 --> 00:09:16.000
+Just with blobs of chemicals, again.
+
+00:09:16.000 --> 00:09:18.000
+So the way this works is, you have
+
+00:09:18.000 --> 00:09:20.000
+a simple system of five chemicals here,
+
+00:09:20.000 --> 00:09:22.000
+a simple system here. When they hybridize,
+
+00:09:22.000 --> 00:09:24.000
+you then form something that's different than
+
+00:09:24.000 --> 00:09:26.000
+before, it's more complex than before,
+
+00:09:26.000 --> 00:09:28.000
+and you get the emergence of another kind of
+
+00:09:28.000 --> 00:09:30.000
+lifelike behavior which
+
+00:09:30.000 --> 00:09:32.000
+in this case is replication.
+
+00:09:32.000 --> 00:09:34.000
+So since we can make some interesting
+
+00:09:34.000 --> 00:09:36.000
+protocells that we like, interesting colors and
+
+00:09:36.000 --> 00:09:38.000
+interesting behaviors, and they're very easy
+
+00:09:38.000 --> 00:09:40.000
+to make, and they have interesting lifelike
+
+00:09:40.000 --> 00:09:43.000
+properties, perhaps these protocells have
+
+00:09:43.000 --> 00:09:45.000
+something to tell us about the origin of life
+
+00:09:45.000 --> 00:09:47.000
+on the Earth. Perhaps these represent an
+
+00:09:47.000 --> 00:09:49.000
+easily accessible step, one of the first steps
+
+00:09:49.000 --> 00:09:52.000
+by which life got started on the early Earth.
+
+00:09:52.000 --> 00:09:54.000
+Certainly, there were molecules present on
+
+00:09:54.000 --> 00:09:56.000
+the early Earth, but they wouldn't have been
+
+00:09:56.000 --> 00:09:58.000
+these pure compounds that we worked with
+
+00:09:58.000 --> 00:10:00.000
+in the lab and I showed in these experiments.
+
+00:10:00.000 --> 00:10:02.000
+Rather, they'd be a real complex mixture of
+
+00:10:02.000 --> 00:10:04.000
+all kinds of stuff, because
+
+00:10:04.000 --> 00:10:06.000
+uncontrolled chemical reactions produce
+
+00:10:06.000 --> 00:10:08.000
+a diverse mixture of organic compounds.
+
+00:10:08.000 --> 00:10:11.000
+Think of it like a primordial ooze, okay?
+
+00:10:11.000 --> 00:10:13.000
+And it's a pool that's too difficult to fully
+
+00:10:13.000 --> 00:10:15.000
+characterize, even by modern methods, and
+
+00:10:15.000 --> 00:10:17.000
+the product looks brown, like this tar here
+
+00:10:17.000 --> 00:10:19.000
+on the left. A pure compound
+
+00:10:19.000 --> 00:10:21.000
+is shown on the right, for contrast.
+
+00:10:21.000 --> 00:10:23.000
+So this is similar to what happens when you
+
+00:10:23.000 --> 00:10:25.000
+take pure sugar crystals in your kitchen,
+
+00:10:25.000 --> 00:10:27.000
+you put them in a pan, and you apply energy.
+
+00:10:27.000 --> 00:10:29.000
+You turn up the heat, you start making
+
+00:10:29.000 --> 00:10:31.000
+or breaking chemical bonds in the sugar,
+
+00:10:31.000 --> 00:10:33.000
+forming a brownish caramel, right?
+
+00:10:33.000 --> 00:10:35.000
+If you let that go unregulated, you'll
+
+00:10:35.000 --> 00:10:37.000
+continue to make and break chemical bonds,
+
+00:10:37.000 --> 00:10:39.000
+forming an even more diverse mixture of
+
+00:10:39.000 --> 00:10:41.000
+molecules that then forms this kind of black
+
+00:10:41.000 --> 00:10:43.000
+tarry stuff in your pan, right, that's
+
+00:10:43.000 --> 00:10:45.000
+difficult to wash out. So that's what
+
+00:10:45.000 --> 00:10:47.000
+the origin of life would have looked like.
+
+00:10:47.000 --> 00:10:49.000
+You needed to get life out of this junk that
+
+00:10:49.000 --> 00:10:51.000
+is present on the early Earth,
+
+00:10:51.000 --> 00:10:53.000
+four, 4.5 billion years ago.
+
+00:10:53.000 --> 00:10:55.000
+So the challenge then is,
+
+00:10:55.000 --> 00:10:57.000
+throw away all your pure chemicals in the lab,
+
+00:10:57.000 --> 00:10:59.000
+and try to make some protocells with lifelike
+
+00:10:59.000 --> 00:11:02.000
+properties from this kind of primordial ooze.
+
+00:11:02.000 --> 00:11:04.000
+So we're able to then see the self-assembly
+
+00:11:04.000 --> 00:11:06.000
+of these oil droplet bodies again
+
+00:11:06.000 --> 00:11:08.000
+that we've seen previously,
+
+00:11:08.000 --> 00:11:10.000
+and the black spots inside of there
+
+00:11:10.000 --> 00:11:12.000
+represent this kind of black tar -- this diverse,
+
+00:11:12.000 --> 00:11:14.000
+very complex, organic black tar.
+
+00:11:14.000 --> 00:11:16.000
+And we put them into one of these
+
+00:11:16.000 --> 00:11:18.000
+experiments, as you've seen earlier, and then
+
+00:11:18.000 --> 00:11:20.000
+we watch lively movement that comes out.
+
+00:11:20.000 --> 00:11:22.000
+They look really good, very nice movement,
+
+00:11:22.000 --> 00:11:24.000
+and also they appear to have some kind of
+
+00:11:24.000 --> 00:11:26.000
+behavior where they kind of circle
+
+00:11:26.000 --> 00:11:29.000
+around each other and follow each other,
+
+00:11:29.000 --> 00:11:31.000
+similar to what we've seen before -- but again,
+
+00:11:31.000 --> 00:11:33.000
+working with just primordial conditions,
+
+00:11:33.000 --> 00:11:35.000
+no pure chemicals.
+
+00:11:35.000 --> 00:11:37.000
+These are also, these tar-fueled protocells,
+
+00:11:37.000 --> 00:11:39.000
+are also able to locate resources
+
+00:11:39.000 --> 00:11:40.000
+in their environment.
+
+00:11:40.000 --> 00:11:42.000
+I'm going to add some resource from the left,
+
+00:11:42.000 --> 00:11:44.000
+here, that defuses into the system,
+
+00:11:44.000 --> 00:11:46.000
+and you can see, they really like that.
+
+00:11:46.000 --> 00:11:48.000
+They become very energetic, and able
+
+00:11:48.000 --> 00:11:50.000
+to find the resource in the environment,
+
+00:11:50.000 --> 00:11:52.000
+similar to what we saw before.
+
+00:11:52.000 --> 00:11:54.000
+But again, these are done in these primordial
+
+00:11:54.000 --> 00:11:56.000
+conditions, really messy conditions,
+
+00:11:56.000 --> 00:11:58.000
+not sort of sterile laboratory conditions.
+
+00:11:58.000 --> 00:12:00.000
+These are very dirty little protocells,
+
+00:12:00.000 --> 00:12:02.000
+as a matter of fact. (Laughter)
+
+00:12:02.000 --> 00:12:05.000
+But they have lifelike properties, is the point.
+
+00:12:05.000 --> 00:12:08.000
+So, doing these artificial life experiments
+
+00:12:08.000 --> 00:12:11.000
+helps us define a potential path between
+
+00:12:11.000 --> 00:12:14.000
+non-living and living systems.
+
+00:12:14.000 --> 00:12:16.000
+And not only that, but it helps us
+
+00:12:16.000 --> 00:12:18.000
+broaden our view of what life is
+
+00:12:18.000 --> 00:12:20.000
+and what possible life there could be
+
+00:12:20.000 --> 00:12:22.000
+out there -- life that could be very different
+
+00:12:22.000 --> 00:12:25.000
+from life that we find here on Earth.
+
+00:12:25.000 --> 00:12:27.000
+And that leads me to the next
+
+00:12:27.000 --> 00:12:29.000
+term, which is "weird life."
+
+00:12:29.000 --> 00:12:32.000
+This is a term by Steve Benner.
+
+00:12:32.000 --> 00:12:34.000
+This is used in reference to a report
+
+00:12:34.000 --> 00:12:36.000
+in 2007 by the National Research Council
+
+00:12:36.000 --> 00:12:38.000
+in the United States, wherein
+
+00:12:38.000 --> 00:12:40.000
+they tried to understand how we can
+
+00:12:40.000 --> 00:12:42.000
+look for life elsewhere in the universe, okay,
+
+00:12:42.000 --> 00:12:44.000
+especially if that life is very different from life
+
+00:12:44.000 --> 00:12:47.000
+on Earth. If we went to another planet and
+
+00:12:47.000 --> 00:12:49.000
+we thought there might be life there,
+
+00:12:49.000 --> 00:12:51.000
+how could we even recognize it as life?
+
+00:12:51.000 --> 00:12:53.000
+Well, they came up with three very general
+
+00:12:53.000 --> 00:12:55.000
+criteria. First is -- and they're listed here.
+
+00:12:55.000 --> 00:12:57.000
+The first is, the system has to be in
+
+00:12:57.000 --> 00:12:59.000
+non-equilibrium. That means the system
+
+00:12:59.000 --> 00:13:00.000
+cannot be dead, in a matter of fact.
+
+00:13:00.000 --> 00:13:02.000
+Basically what that means is, you have
+
+00:13:02.000 --> 00:13:04.000
+an input of energy into the system that life
+
+00:13:04.000 --> 00:13:07.000
+can use and exploit to maintain itself.
+
+00:13:07.000 --> 00:13:09.000
+This is similar to having the Sun shining
+
+00:13:09.000 --> 00:13:11.000
+on the Earth, driving photosynthesis,
+
+00:13:11.000 --> 00:13:13.000
+driving the ecosystem.
+
+00:13:13.000 --> 00:13:15.000
+Without the Sun, there's likely to be
+
+00:13:15.000 --> 00:13:17.000
+no life on this planet.
+
+00:13:17.000 --> 00:13:19.000
+Secondly, life needs to be in liquid form,
+
+00:13:19.000 --> 00:13:21.000
+so that means even if we had some
+
+00:13:21.000 --> 00:13:23.000
+interesting structures, interesting molecules
+
+00:13:23.000 --> 00:13:25.000
+together but they were frozen solid,
+
+00:13:25.000 --> 00:13:27.000
+then this is not a good place for life.
+
+00:13:27.000 --> 00:13:29.000
+And thirdly, we need to be able to make
+
+00:13:29.000 --> 00:13:31.000
+and break chemical bonds. And again
+
+00:13:31.000 --> 00:13:33.000
+this is important because life transforms
+
+00:13:33.000 --> 00:13:35.000
+resources from the environment into
+
+00:13:35.000 --> 00:13:37.000
+building blocks so it can maintain itself.
+
+00:13:37.000 --> 00:13:39.000
+Now today, I told you about very strange
+
+00:13:39.000 --> 00:13:41.000
+and weird protocells -- some that contain clay,
+
+00:13:41.000 --> 00:13:44.000
+some that have primordial ooze in them,
+
+00:13:44.000 --> 00:13:46.000
+some that have basically oil
+
+00:13:46.000 --> 00:13:48.000
+instead of water inside of them.
+
+00:13:48.000 --> 00:13:50.000
+Most of these don't contain DNA,
+
+00:13:50.000 --> 00:13:52.000
+but yet they have lifelike properties.
+
+00:13:52.000 --> 00:13:55.000
+But these protocells satisfy
+
+00:13:55.000 --> 00:13:58.000
+these general requirements of living systems.
+
+00:13:58.000 --> 00:14:00.000
+So by making these chemical, artificial
+
+00:14:00.000 --> 00:14:02.000
+life experiments, we hope not only
+
+00:14:02.000 --> 00:14:04.000
+to understand something fundamental
+
+00:14:04.000 --> 00:14:06.000
+about the origin of life and the existence
+
+00:14:06.000 --> 00:14:08.000
+of life on this planet, but also
+
+00:14:08.000 --> 00:14:10.000
+what possible life there could be
+
+00:14:10.000 --> 00:14:13.000
+out there in the universe. Thank you.
+
+00:14:13.000 --> 00:14:17.000
+(Applause)
+

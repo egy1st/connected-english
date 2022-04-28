@@ -1,0 +1,1043 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+As you pointed out, every time you come here, you learn something.
+
+00:00:04.000 --> 00:00:06.000
+This morning, the world's experts
+
+00:00:06.000 --> 00:00:10.000
+from I guess three or four different companies on building seats,
+
+00:00:10.000 --> 00:00:15.000
+I think concluded that ultimately, the solution is, people shouldn't sit down.
+
+00:00:15.000 --> 00:00:17.000
+I could have told them that.
+
+00:00:17.000 --> 00:00:19.000
+(Laughter)
+
+00:00:19.000 --> 00:00:25.000
+Yesterday, the automotive guys gave us some new insights.
+
+00:00:25.000 --> 00:00:31.000
+They pointed out that, I believe it was between 30 and 50 years from today,
+
+00:00:31.000 --> 00:00:34.000
+they will be steering cars by wire,
+
+00:00:34.000 --> 00:00:36.000
+without all that mechanical stuff.
+
+00:00:36.000 --> 00:00:38.000
+(Laughter)
+
+00:00:38.000 --> 00:00:40.000
+That's reassuring.
+
+00:00:40.000 --> 00:00:44.000
+(Applause)
+
+00:00:44.000 --> 00:00:49.000
+They then pointed out that there'd be, sort of, the other controls by wire,
+
+00:00:49.000 --> 00:00:51.000
+to get rid of all that mechanical stuff.
+
+00:00:51.000 --> 00:00:56.000
+That's pretty good, but why not get rid of the wires?
+
+00:00:56.000 --> 00:01:00.000
+Then you don't need anything to control the car, except thinking about it.
+
+00:01:04.000 --> 00:01:06.000
+I would love to talk about the technology,
+
+00:01:06.000 --> 00:01:10.000
+and sometime, in what's past the 15 minutes,
+
+00:01:10.000 --> 00:01:12.000
+I'll be happy to talk to all the techno-geeks around here
+
+00:01:12.000 --> 00:01:14.000
+about what's in here.
+
+00:01:16.000 --> 00:01:20.000
+But if I had one thing to say about this, before we get to first,
+
+00:01:20.000 --> 00:01:25.000
+it would be that from the time we started building this,
+
+00:01:26.000 --> 00:01:28.000
+the big idea wasn't the technology.
+
+00:01:28.000 --> 00:01:31.000
+It really was a big idea in technology when we started applying it
+
+00:01:31.000 --> 00:01:33.000
+in the iBOT for the disabled community.
+
+00:01:33.000 --> 00:01:39.000
+The big idea here is, I think, a new piece of a solution
+
+00:01:39.000 --> 00:01:43.000
+to a fairly big problem in transportation.
+
+00:01:43.000 --> 00:01:48.000
+And maybe to put that in perspective: there's so much data on this,
+
+00:01:48.000 --> 00:01:50.000
+I'll be happy to give it to you in different forms.
+
+00:01:50.000 --> 00:01:53.000
+You never know what strikes the fancy of whom,
+
+00:01:53.000 --> 00:01:58.000
+but everybody is perfectly willing to believe the car changed the world.
+
+00:01:58.000 --> 00:02:02.000
+And Henry Ford, just about 100 years ago, started cranking out Model Ts.
+
+00:02:02.000 --> 00:02:04.000
+What I don't think most people think about
+
+00:02:04.000 --> 00:02:07.000
+is the context of how technology is applied.
+
+00:02:08.000 --> 00:02:11.000
+For instance, in that time, 91 percent of America
+
+00:02:11.000 --> 00:02:14.000
+lived either on farms or in small towns.
+
+00:02:14.000 --> 00:02:17.000
+So, the car --
+
+00:02:17.000 --> 00:02:21.000
+the horseless carriage that replaced the horse and carriage -- was a big deal;
+
+00:02:21.000 --> 00:02:23.000
+it went twice as fast as a horse and carriage.
+
+00:02:23.000 --> 00:02:25.000
+It was half as long.
+
+00:02:25.000 --> 00:02:29.000
+And it was an environmental improvement, because, for instance,
+
+00:02:29.000 --> 00:02:34.000
+in 1903 they outlawed horses and buggies in downtown Manhattan,
+
+00:02:34.000 --> 00:02:37.000
+because you can imagine what the roads look like
+
+00:02:37.000 --> 00:02:40.000
+when you have a million horses,
+
+00:02:40.000 --> 00:02:44.000
+and a million of them urinating and doing other things,
+
+00:02:44.000 --> 00:02:50.000
+and the typhoid and other problems created were almost unimaginable.
+
+00:02:50.000 --> 00:02:54.000
+So the car was the clean environmental alternative to a horse and buggy.
+
+00:02:54.000 --> 00:02:58.000
+It also was a way for people to get from their farm to a farm,
+
+00:02:58.000 --> 00:03:01.000
+or their farm to a town, or from a town to a city.
+
+00:03:01.000 --> 00:03:05.000
+It all made sense, with 91 percent of the people living there.
+
+00:03:06.000 --> 00:03:10.000
+By the 1950s, we started connecting all the towns together
+
+00:03:10.000 --> 00:03:14.000
+with what a lot of people claim is the eighth wonder of the world, the highway system.
+
+00:03:14.000 --> 00:03:17.000
+And it is certainly a wonder.
+
+00:03:17.000 --> 00:03:21.000
+And by the way, as I take shots at old technologies,
+
+00:03:21.000 --> 00:03:25.000
+I want to assure everybody, and particularly the automotive industry --
+
+00:03:25.000 --> 00:03:27.000
+who's been very supportive of us --
+
+00:03:27.000 --> 00:03:34.000
+that I don't think this in any way competes with airplanes, or cars.
+
+00:03:35.000 --> 00:03:38.000
+But think about where the world is today.
+
+00:03:39.000 --> 00:03:42.000
+50 percent of the global population now lives in cities.
+
+00:03:42.000 --> 00:03:45.000
+That's 3.2 billion people.
+
+00:03:46.000 --> 00:03:48.000
+We've solved all the transportation problems
+
+00:03:48.000 --> 00:03:51.000
+that have changed the world to get it to where we are today.
+
+00:03:51.000 --> 00:03:54.000
+500 years ago, sailing ships started getting reliable enough;
+
+00:03:54.000 --> 00:03:56.000
+we found a new continent.
+
+00:03:56.000 --> 00:04:00.000
+150 years ago, locomotives got efficient enough, steam power,
+
+00:04:00.000 --> 00:04:03.000
+that we turned the continent into a country.
+
+00:04:03.000 --> 00:04:06.000
+Over the last hundred years, we started building cars,
+
+00:04:06.000 --> 00:04:09.000
+and then over the 50 years we've connected every city to every other city
+
+00:04:09.000 --> 00:04:11.000
+in an extraordinarily efficient way,
+
+00:04:11.000 --> 00:04:14.000
+and we have a very high standard of living as a consequence of that.
+
+00:04:14.000 --> 00:04:19.000
+But during that entire process, more and more people have been born,
+
+00:04:19.000 --> 00:04:21.000
+and more and more people are moving to cities.
+
+00:04:21.000 --> 00:04:25.000
+China alone is going to move four to six hundred million people
+
+00:04:25.000 --> 00:04:28.000
+into cities in the next decade and a half.
+
+00:04:29.000 --> 00:04:35.000
+And so, nobody, I think, would argue that airplanes, in the last 50 years,
+
+00:04:35.000 --> 00:04:39.000
+have turned the continent and the country now into a neighborhood.
+
+00:04:39.000 --> 00:04:41.000
+And if you just look at how technology has been applied,
+
+00:04:41.000 --> 00:04:45.000
+we've solved all the long-range, high-speed, high-volume,
+
+00:04:45.000 --> 00:04:47.000
+large-weight problems of moving things around.
+
+00:04:48.000 --> 00:04:50.000
+Nobody would want to give them up.
+
+00:04:50.000 --> 00:04:53.000
+And I certainly wouldn't want to give up my airplane,
+
+00:04:53.000 --> 00:04:57.000
+or my helicopter, or my Humvee, or my Porsche.
+
+00:04:57.000 --> 00:05:00.000
+I love them all. I don't keep any of them in my living room.
+
+00:05:00.000 --> 00:05:05.000
+The fact is, the last mile is the problem,
+
+00:05:05.000 --> 00:05:08.000
+and half the world now lives in dense cities.
+
+00:05:08.000 --> 00:05:10.000
+And people spend, depending on who they are,
+
+00:05:10.000 --> 00:05:15.000
+between 90 and 95 percent of their energy getting around on foot.
+
+00:05:15.000 --> 00:05:18.000
+I think there's -- I don't know what data would impress you,
+
+00:05:18.000 --> 00:05:24.000
+but how about, 43 percent of the refined fuel produced in the world
+
+00:05:24.000 --> 00:05:29.000
+is consumed by cars in metropolitan areas in the United States.
+
+00:05:30.000 --> 00:05:35.000
+Three million people die every year in cities due to bad air,
+
+00:05:35.000 --> 00:05:38.000
+and almost all particulate pollution on this planet
+
+00:05:38.000 --> 00:05:43.000
+is produced by transportation devices, particularly sitting in cities.
+
+00:05:43.000 --> 00:05:47.000
+And again, I say that not to attack any industry,
+
+00:05:47.000 --> 00:05:50.000
+I think -- I really do -- I love my airplane,
+
+00:05:50.000 --> 00:05:53.000
+and cars on highways moving 60 miles an hour
+
+00:05:53.000 --> 00:05:55.000
+are extraordinarily efficient,
+
+00:05:55.000 --> 00:05:58.000
+both from an engineering point of view,
+
+00:05:58.000 --> 00:06:01.000
+an energy consumption point of view, and a utility point of view.
+
+00:06:01.000 --> 00:06:04.000
+And we all love our cars, and I do.
+
+00:06:04.000 --> 00:06:07.000
+The problem is, you get into the city and you want to go four blocks,
+
+00:06:08.000 --> 00:06:11.000
+it's neither fun nor efficient nor productive.
+
+00:06:11.000 --> 00:06:13.000
+It's not sustainable.
+
+00:06:13.000 --> 00:06:19.000
+If -- in China, in the year 1998, 417 million people used bicycles;
+
+00:06:19.000 --> 00:06:22.000
+1.7 million people used cars.
+
+00:06:23.000 --> 00:06:27.000
+If five percent of that population became, quote, middle class,
+
+00:06:27.000 --> 00:06:32.000
+and wanted to go the way we've gone in the last hundred years
+
+00:06:32.000 --> 00:06:35.000
+at the same time that 50 percent of their population are moving into cities
+
+00:06:35.000 --> 00:06:39.000
+of the size and density of Manhattan, every six weeks --
+
+00:06:39.000 --> 00:06:41.000
+it isn't sustainable environmentally;
+
+00:06:41.000 --> 00:06:45.000
+it isn't sustainable economically -- there just ain't enough oil --
+
+00:06:45.000 --> 00:06:47.000
+and it's not sustainable politically.
+
+00:06:47.000 --> 00:06:49.000
+I mean, what are we fighting over right now?
+
+00:06:49.000 --> 00:06:53.000
+We can make it complicated, but what's the world fighting over right now?
+
+00:06:53.000 --> 00:07:00.000
+So it seemed to me that somebody had to work on that last mile,
+
+00:07:00.000 --> 00:07:03.000
+and it was dumb luck. We were working on iBOTs,
+
+00:07:03.000 --> 00:07:05.000
+but once we made this, we instantly decided
+
+00:07:05.000 --> 00:07:09.000
+it could be a great alternative to jet skis. You don't need the water.
+
+00:07:09.000 --> 00:07:11.000
+Or snowmobiles. You don't need the snow.
+
+00:07:11.000 --> 00:07:17.000
+Or skiing. It's just fun, and people love to move around doing fun things.
+
+00:07:18.000 --> 00:07:20.000
+And every one of those industries, by the way --
+
+00:07:20.000 --> 00:07:23.000
+just golf carts alone is a multi-billion-dollar industry.
+
+00:07:23.000 --> 00:07:26.000
+But rather than go license this off, which is what we normally do,
+
+00:07:26.000 --> 00:07:30.000
+it seemed to me that if we put all our effort not into the technology,
+
+00:07:30.000 --> 00:07:34.000
+but into an understanding of a world that's solved all its other problems,
+
+00:07:34.000 --> 00:07:39.000
+but has somehow come to accept that cities -- which,
+
+00:07:39.000 --> 00:07:42.000
+right back from ancient Greece on, were meant to walk around,
+
+00:07:42.000 --> 00:07:45.000
+cities that were architected and built for people --
+
+00:07:45.000 --> 00:07:47.000
+now have a footprint that,
+
+00:07:47.000 --> 00:07:49.000
+while we've solved every other transportation problem --
+
+00:07:49.000 --> 00:07:51.000
+and it's like Moore's law.
+
+00:07:51.000 --> 00:07:56.000
+I mean, look at the time it took to cross a continent in a Conestoga wagon,
+
+00:07:56.000 --> 00:07:59.000
+then on a railroad, then an airplane.
+
+00:07:59.000 --> 00:08:02.000
+Every other form of transportation's been improved.
+
+00:08:03.000 --> 00:08:07.000
+In 5,000 years, we've gone backwards in getting around cities.
+
+00:08:07.000 --> 00:08:10.000
+They've gotten bigger; they're spread out.
+
+00:08:10.000 --> 00:08:15.000
+The most expensive real estate on this planet in every city --
+
+00:08:15.000 --> 00:08:19.000
+Wilshire Boulevard, or Fifth Avenue, or Tokyo, or Paris --
+
+00:08:19.000 --> 00:08:22.000
+the most expensive real estate is their downtowns.
+
+00:08:22.000 --> 00:08:26.000
+65 percent of the landmass of our cities are parked cars.
+
+00:08:26.000 --> 00:08:28.000
+The 20 largest cities in the world.
+
+00:08:28.000 --> 00:08:33.000
+So you wonder, what if cities could give to their pedestrians
+
+00:08:33.000 --> 00:08:37.000
+what we take for granted as we now go between cities?
+
+00:08:37.000 --> 00:08:41.000
+What if you could make them fun, attractive, clean,
+
+00:08:41.000 --> 00:08:43.000
+environmentally friendly?
+
+00:08:45.000 --> 00:08:48.000
+What if it would make it a little bit more palatable
+
+00:08:48.000 --> 00:08:54.000
+to have access via this, as that last link to mass transit,
+
+00:08:54.000 --> 00:08:57.000
+to get out to your cars so we can all live in the suburbs
+
+00:08:57.000 --> 00:08:59.000
+and use our cars the way we want,
+
+00:08:59.000 --> 00:09:03.000
+and then have our cities energized again?
+
+00:09:04.000 --> 00:09:06.000
+We thought it would be really neat to do that,
+
+00:09:06.000 --> 00:09:08.000
+and one of the problems we really were worried about
+
+00:09:08.000 --> 00:09:11.000
+is: how do we get legal on the sidewalk?
+
+00:09:11.000 --> 00:09:15.000
+Because technically I've got motors; I've got wheels -- I'm a motor vehicle.
+
+00:09:15.000 --> 00:09:17.000
+I don't look like a motor vehicle.
+
+00:09:17.000 --> 00:09:19.000
+I have the same footprint as a pedestrian;
+
+00:09:19.000 --> 00:09:23.000
+I have the same unique capability
+
+00:09:23.000 --> 00:09:25.000
+to deal with other pedestrians in a crowded space.
+
+00:09:25.000 --> 00:09:27.000
+I took this down to Ground Zero,
+
+00:09:27.000 --> 00:09:30.000
+and knocked my way through crowds for an hour.
+
+00:09:30.000 --> 00:09:35.000
+I'm a pedestrian. But the law typically lags technology by a generation or two,
+
+00:09:35.000 --> 00:09:41.000
+and if we get told we don't belong on the sidewalk, we have two choices.
+
+00:09:41.000 --> 00:09:43.000
+We're a recreational vehicle that doesn't really matter,
+
+00:09:43.000 --> 00:09:48.000
+and I don't spend my time doing that kind of stuff.
+
+00:09:48.000 --> 00:09:50.000
+Or maybe we should be out in the street
+
+00:09:50.000 --> 00:09:53.000
+in front of a Greyhound bus or a vehicle.
+
+00:09:54.000 --> 00:09:56.000
+We've been so concerned about that,
+
+00:09:56.000 --> 00:09:58.000
+we went to the Postmaster General of the United States,
+
+00:09:58.000 --> 00:10:01.000
+as the first person we ever showed on the outside,
+
+00:10:01.000 --> 00:10:05.000
+and said, "Put your people on it. Everybody trusts their postman.
+
+00:10:05.000 --> 00:10:10.000
+And they belong on the sidewalks, and they'll use it seriously."
+
+00:10:10.000 --> 00:10:13.000
+He agreed. We went to a number of police departments
+
+00:10:13.000 --> 00:10:15.000
+that want their police officers back in the neighborhood
+
+00:10:15.000 --> 00:10:19.000
+on the beat, carrying 70 pounds of stuff. They love it.
+
+00:10:19.000 --> 00:10:23.000
+And I can't believe a policeman is going to give themselves a ticket.
+
+00:10:23.000 --> 00:10:26.000
+(Laughter)
+
+00:10:26.000 --> 00:10:28.000
+So we've been working really, really hard,
+
+00:10:28.000 --> 00:10:31.000
+but we knew that the technology would not be as hard to develop
+
+00:10:31.000 --> 00:10:36.000
+as an attitude about what's important, and how to apply the technology.
+
+00:10:36.000 --> 00:10:39.000
+We went out and we found some visionary people
+
+00:10:39.000 --> 00:10:44.000
+with enough money to let us design and build these things,
+
+00:10:44.000 --> 00:10:48.000
+and in hopefully enough time to get them accepted.
+
+00:10:48.000 --> 00:10:53.000
+So, I'm happy, really, I am happy to talk about this technology as much as you want.
+
+00:10:53.000 --> 00:10:57.000
+And yes, it's really fun, and yes, you should all go out and try it.
+
+00:10:57.000 --> 00:10:59.000
+But if I could ask you to do one thing,
+
+00:10:59.000 --> 00:11:01.000
+it's not to think about it as a piece of technology,
+
+00:11:01.000 --> 00:11:05.000
+but just imagine that, although we all understand somehow
+
+00:11:05.000 --> 00:11:09.000
+that it's reasonable that we use our 4,000-pound machine,
+
+00:11:09.000 --> 00:11:11.000
+which can go 60 miles an hour,
+
+00:11:11.000 --> 00:11:13.000
+that can bring you everywhere you want to go,
+
+00:11:13.000 --> 00:11:19.000
+and somehow it's also what we used for the last mile,
+
+00:11:19.000 --> 00:11:22.000
+and it's broken, and it doesn't work.
+
+00:11:22.000 --> 00:11:25.000
+One of the more exciting things that occurred to us
+
+00:11:25.000 --> 00:11:30.000
+about why it might get accepted, happened out here in California.
+
+00:11:30.000 --> 00:11:32.000
+A few weeks ago, after we launched it,
+
+00:11:32.000 --> 00:11:37.000
+we were here with a news crew on Venice Beach, zipping up and back,
+
+00:11:37.000 --> 00:11:39.000
+and he's marveling at the technology,
+
+00:11:39.000 --> 00:11:41.000
+and meanwhile bicycles are zipping by,
+
+00:11:41.000 --> 00:11:43.000
+and skateboarders are zipping by,
+
+00:11:43.000 --> 00:11:47.000
+and a little old lady -- I mean, if you looked in the dictionary,
+
+00:11:47.000 --> 00:11:50.000
+a little old lady -- came by me --
+
+00:11:50.000 --> 00:11:54.000
+and now that I'm on this, I'm the height of a normal adult now --
+
+00:11:54.000 --> 00:12:00.000
+and she just stops, and the camera is there, and she looks up at me
+
+00:12:00.000 --> 00:12:03.000
+and says, "Can I try that?"
+
+00:12:03.000 --> 00:12:06.000
+And what was I -- you know, how are you going to say anything?
+
+00:12:06.000 --> 00:12:08.000
+And so I said, "Sure."
+
+00:12:08.000 --> 00:12:14.000
+So I get off, and she gets on, and with a little bit of the usual, ah,
+
+00:12:14.000 --> 00:12:19.000
+then she turns around, and she goes about 20 feet,
+
+00:12:19.000 --> 00:12:22.000
+and she turns back around, and she's all smiles.
+
+00:12:22.000 --> 00:12:28.000
+And she comes back to me and she stops, and she says,
+
+00:12:28.000 --> 00:12:32.000
+"Finally, they made something for us."
+
+00:12:32.000 --> 00:12:34.000
+And the camera is looking down at her.
+
+00:12:34.000 --> 00:12:36.000
+I'm thinking, "Wow, that was great --
+
+00:12:36.000 --> 00:12:37.000
+(Laughter)
+
+00:12:37.000 --> 00:12:39.000
+-- please lady, don't say another word."
+
+00:12:39.000 --> 00:12:42.000
+(Laughter)
+
+00:12:42.000 --> 00:12:44.000
+And the camera is down at her,
+
+00:12:44.000 --> 00:12:46.000
+and this guy has to put the microphone in her face,
+
+00:12:46.000 --> 00:12:48.000
+said, "What do you mean by that?"
+
+00:12:48.000 --> 00:12:50.000
+And I figured, "It's all over now,"
+
+00:12:50.000 --> 00:12:54.000
+and she looks up and she says, "Well,"
+
+00:12:54.000 --> 00:12:57.000
+she's still watching these guys go; she says, "I can't ride a bike," no,
+
+00:12:57.000 --> 00:13:01.000
+she says, "I can't use a skateboard, and I've never used roller blades,"
+
+00:13:01.000 --> 00:13:03.000
+she knew them by name;
+
+00:13:03.000 --> 00:13:06.000
+she says, "And it's been 50 years since I rode a bicycle."
+
+00:13:06.000 --> 00:13:10.000
+Then she looks up, she's looking up, and she says,
+
+00:13:10.000 --> 00:13:14.000
+"And I'm 81 years old, and I don't drive a car anymore.
+
+00:13:14.000 --> 00:13:18.000
+I still have to get to the store, and I can't carry a lot of things."
+
+00:13:18.000 --> 00:13:22.000
+And it suddenly occurred to me, that among my many fears,
+
+00:13:22.000 --> 00:13:25.000
+were not just that the bureaucracy and the regulators
+
+00:13:25.000 --> 00:13:28.000
+and the legislators might not get it --
+
+00:13:28.000 --> 00:13:33.000
+it was that, fundamentally, you believe there's pressure among the people
+
+00:13:33.000 --> 00:13:36.000
+not to invade the most precious little bit of space left,
+
+00:13:36.000 --> 00:13:38.000
+the sidewalks in these cities.
+
+00:13:38.000 --> 00:13:42.000
+When you look at the 36 inches of legal requirement for sidewalk,
+
+00:13:42.000 --> 00:13:45.000
+then the eight foot for the parked car, then the three lanes,
+
+00:13:45.000 --> 00:13:47.000
+and then the other eight feet -- it's --
+
+00:13:47.000 --> 00:13:51.000
+that little piece is all that's there.
+
+00:13:51.000 --> 00:13:53.000
+But she looks up and says this,
+
+00:13:53.000 --> 00:13:55.000
+and it occurs to me, well, kids aren't going to mind these things,
+
+00:13:55.000 --> 00:13:59.000
+and they don't vote, and business people and then young adults
+
+00:13:59.000 --> 00:14:01.000
+aren't going to mind these things -- they're pretty cool --
+
+00:14:01.000 --> 00:14:03.000
+so I guess subliminally I was worried
+
+00:14:03.000 --> 00:14:06.000
+that it's the older population that's going to worry.
+
+00:14:06.000 --> 00:14:11.000
+So, having seen this, and having worried about it for eight years,
+
+00:14:11.000 --> 00:14:15.000
+the first thing I do is pick up my phone and ask our marketing and regulatory guys,
+
+00:14:15.000 --> 00:14:18.000
+call AARP, get an appointment right away.
+
+00:14:18.000 --> 00:14:20.000
+We've got to show them this thing.
+
+00:14:20.000 --> 00:14:23.000
+And they took it to Washington; they showed them;
+
+00:14:23.000 --> 00:14:25.000
+and they're going to be involved now,
+
+00:14:25.000 --> 00:14:29.000
+watching how these things get absorbed in a number of cities,
+
+00:14:29.000 --> 00:14:33.000
+like Atlanta, where we're doing trials to see if it really can, in fact,
+
+00:14:33.000 --> 00:14:36.000
+help re-energize their downtown.
+
+00:14:36.000 --> 00:14:43.000
+(Applause)
+
+00:14:43.000 --> 00:14:48.000
+The bottom line is, whether you believe the United Nations,
+
+00:14:48.000 --> 00:14:50.000
+or any of the other think tanks --
+
+00:14:50.000 --> 00:14:54.000
+in the next 20 years, all human population growth on this planet
+
+00:14:54.000 --> 00:14:56.000
+will be in cities.
+
+00:14:56.000 --> 00:14:59.000
+In Asia alone, it will be over a billion people.
+
+00:14:59.000 --> 00:15:03.000
+They learned to start with cell phones.
+
+00:15:03.000 --> 00:15:06.000
+They didn't have to take the 100-year trip we took.
+
+00:15:06.000 --> 00:15:09.000
+They start at the top of the technology food chain.
+
+00:15:09.000 --> 00:15:12.000
+We've got to start building cities and human environments
+
+00:15:12.000 --> 00:15:15.000
+where a 150-pound person can go a couple of miles
+
+00:15:15.000 --> 00:15:18.000
+in a dense, rich, green-space environment,
+
+00:15:18.000 --> 00:15:22.000
+without being in a 4,000-pound machine to do it.
+
+00:15:22.000 --> 00:15:25.000
+Cars were not meant for parallel parking;
+
+00:15:25.000 --> 00:15:29.000
+they're wonderful machines to go between cities, but just think about it:
+
+00:15:29.000 --> 00:15:34.000
+we've solved all the long-range, high-speed problems.
+
+00:15:34.000 --> 00:15:39.000
+The Greeks went from the theater of Dionysus to the Parthenon in their sandals.
+
+00:15:39.000 --> 00:15:41.000
+You do it in your sneakers.
+
+00:15:41.000 --> 00:15:43.000
+Not much has changed.
+
+00:15:43.000 --> 00:15:48.000
+If this thing goes only three times as fast as walking -- three times --
+
+00:15:48.000 --> 00:15:50.000
+a 30-minute walk becomes 10 minutes.
+
+00:15:50.000 --> 00:15:55.000
+Your choice, when living in a city, if it's now 10 minutes --
+
+00:15:55.000 --> 00:15:59.000
+because at 30 minutes you want an alternative, whether it's a bus, a train --
+
+00:15:59.000 --> 00:16:01.000
+we've got to build an infrastructure -- a light rail --
+
+00:16:01.000 --> 00:16:03.000
+or you're going to keep parking those cars.
+
+00:16:03.000 --> 00:16:06.000
+But if you could put a pin in most cities,
+
+00:16:06.000 --> 00:16:12.000
+and imagine how far you could, if you had the time, walk in one half-hour, it's the city.
+
+00:16:12.000 --> 00:16:14.000
+If you could make it fun, and make it eight or 10 minutes,
+
+00:16:14.000 --> 00:16:17.000
+you can't find your car, un-park your car, move your car,
+
+00:16:17.000 --> 00:16:19.000
+re-park your car and go somewhere;
+
+00:16:19.000 --> 00:16:22.000
+you can't get to a cab or a subway.
+
+00:16:22.000 --> 00:16:25.000
+We could change the way people allocate their resources,
+
+00:16:25.000 --> 00:16:28.000
+the way this planet uses its energy,
+
+00:16:28.000 --> 00:16:30.000
+make it more fun.
+
+00:16:30.000 --> 00:16:34.000
+And we're hoping to some extent history will say we were right.
+
+00:16:35.000 --> 00:16:38.000
+That's Segway. This is a Stirling cycle engine;
+
+00:16:38.000 --> 00:16:42.000
+this had been confused by a lot of things we're doing.
+
+00:16:42.000 --> 00:16:47.000
+This little beast, right now, is producing a few hundred watts of electricity.
+
+00:16:47.000 --> 00:16:49.000
+Yes, it could be attached to this,
+
+00:16:49.000 --> 00:16:52.000
+and yes, on a kilogram of propane,
+
+00:16:52.000 --> 00:16:57.000
+you could drive from New York to Boston if you so choose.
+
+00:16:57.000 --> 00:17:01.000
+Perhaps more interesting about this little engine is it'll burn any fuel,
+
+00:17:01.000 --> 00:17:03.000
+because some of you might be skeptical
+
+00:17:03.000 --> 00:17:07.000
+about the capability of this to have an impact,
+
+00:17:07.000 --> 00:17:11.000
+where most of the world you can't simply plug into your 120-volt outlet.
+
+00:17:11.000 --> 00:17:13.000
+We've been working on this,
+
+00:17:13.000 --> 00:17:15.000
+actually, as an alternative energy source,
+
+00:17:15.000 --> 00:17:17.000
+starting way back with Johnson &amp; Johnson, to run an iBOT,
+
+00:17:17.000 --> 00:17:21.000
+because the best batteries you could get --
+
+00:17:21.000 --> 00:17:23.000
+10 watt-hours per kilogram in lead,
+
+00:17:23.000 --> 00:17:25.000
+20 watt-hours per kilogram nickel-cadmium,
+
+00:17:25.000 --> 00:17:27.000
+40 watt-hours per kilogram in nickel-metal hydride,
+
+00:17:27.000 --> 00:17:30.000
+60 watt-hours per kilogram in lithium,
+
+00:17:30.000 --> 00:17:35.000
+8,750 watt-hours of energy in every kilogram of propane or gasoline --
+
+00:17:35.000 --> 00:17:37.000
+which is why nobody drives electric cars.
+
+00:17:37.000 --> 00:17:43.000
+But, in any event, if you can burn it with the same efficiency --
+
+00:17:43.000 --> 00:17:46.000
+because it's external combustion -- as your kitchen stove,
+
+00:17:46.000 --> 00:17:49.000
+if you can burn any fuel, it turns out to be pretty neat.
+
+00:17:49.000 --> 00:17:52.000
+It makes just enough electricity to, for instance, do this,
+
+00:17:52.000 --> 00:17:55.000
+which at night is enough electricity, in the rest of the world,
+
+00:17:55.000 --> 00:17:58.000
+as Mr. Holly -- Dr. Holly -- pointed out,
+
+00:17:58.000 --> 00:18:01.000
+can run computers and a light bulb.
+
+00:18:01.000 --> 00:18:05.000
+But more interestingly, the thermodynamics of this say,
+
+00:18:05.000 --> 00:18:08.000
+you're never going to get more than 20 percent efficiency.
+
+00:18:08.000 --> 00:18:11.000
+It doesn't matter much -- it says if you get 200 watts of electricity,
+
+00:18:11.000 --> 00:18:14.000
+you'll get 700 or 800 watts of heat.
+
+00:18:14.000 --> 00:18:19.000
+If you wanted to boil water and re-condense it at a rate of 10 gallons an hour,
+
+00:18:19.000 --> 00:18:22.000
+it takes about 25, a little over 25.3 kilowatt --
+
+00:18:22.000 --> 00:18:26.000
+25,000 watts of continuous power -- to do it.
+
+00:18:26.000 --> 00:18:28.000
+That's so much energy, you couldn't afford to desalinate
+
+00:18:28.000 --> 00:18:30.000
+or clean water in this country that way.
+
+00:18:30.000 --> 00:18:34.000
+Certainly, in the rest of the world, your choice is to devastate the place,
+
+00:18:34.000 --> 00:18:39.000
+turning everything that will burn into heat, or drink the water that's available.
+
+00:18:39.000 --> 00:18:43.000
+The number one cause of death on this planet among humans is bad water.
+
+00:18:43.000 --> 00:18:45.000
+Depending on whose numbers you believe,
+
+00:18:45.000 --> 00:18:48.000
+it's between 60 and 85,000 people per day.
+
+00:18:48.000 --> 00:18:51.000
+We don't need sophisticated heart transplants around the world.
+
+00:18:51.000 --> 00:18:53.000
+We need water.
+
+00:18:53.000 --> 00:18:56.000
+And women shouldn't have to spend four hours a day looking for it,
+
+00:18:56.000 --> 00:18:58.000
+or watching their kids die.
+
+00:18:58.000 --> 00:19:01.000
+We figured out how to put a vapor-compression distiller on this thing,
+
+00:19:01.000 --> 00:19:04.000
+with a counter-flow heat exchanger to take the waste heat,
+
+00:19:04.000 --> 00:19:08.000
+then using a little bit of the electricity control that process,
+
+00:19:08.000 --> 00:19:14.000
+and for 450 watts, which is a little more than half of its waste heat,
+
+00:19:14.000 --> 00:19:16.000
+it will make 10 gallons an hour of distilled water
+
+00:19:16.000 --> 00:19:18.000
+from anything that comes into it to cool it.
+
+00:19:18.000 --> 00:19:21.000
+So if we put this box on here in a few years,
+
+00:19:21.000 --> 00:19:27.000
+could we have a solution to transportation, electricity,
+
+00:19:27.000 --> 00:19:31.000
+and communication, and maybe drinkable water
+
+00:19:31.000 --> 00:19:35.000
+in a sustainable package that weighs 60 pounds?
+
+00:19:35.000 --> 00:19:37.000
+I don't know, but we'll try it.
+
+00:19:37.000 --> 00:19:39.000
+I better shut up.
+
+00:19:39.000 --> 00:19:49.000
+(Applause)
+

@@ -1,0 +1,890 @@
+WEBVTT
+
+00:00:00.950 --> 00:00:02.626
+When I was seven years old,
+
+00:00:02.650 --> 00:00:06.761
+some well-meaning adult asked me
+what I wanted to be when I grew up.
+
+00:00:06.785 --> 00:00:08.803
+Proudly, I said: "An artist."
+
+00:00:08.827 --> 00:00:10.188
+"No, you don't," he said,
+
+00:00:10.212 --> 00:00:12.494
+"You can't make a living being an artist!"
+
+00:00:12.915 --> 00:00:15.990
+My little seven-year-old
+Picasso dreams were crushed.
+
+00:00:16.014 --> 00:00:17.686
+But I gathered myself,
+
+00:00:17.710 --> 00:00:19.569
+went off in search of a new dream,
+
+00:00:19.593 --> 00:00:22.451
+eventually settling on being a scientist,
+
+00:00:22.475 --> 00:00:25.119
+perhaps something like
+the next Albert Einstein.
+
+00:00:25.783 --> 00:00:27.724
+(Laughter)
+
+00:00:28.086 --> 00:00:30.087
+I have always loved math and science,
+
+00:00:30.111 --> 00:00:31.622
+later, coding.
+
+00:00:31.646 --> 00:00:34.665
+And so I decided to study
+computer programming in college.
+
+00:00:35.312 --> 00:00:36.463
+In my junior year,
+
+00:00:36.487 --> 00:00:40.278
+my computer graphics professor
+showed us these wonderful short films.
+
+00:00:40.917 --> 00:00:44.128
+It was the first computer animation
+any of us had ever seen.
+
+00:00:44.566 --> 00:00:47.346
+I watched these films
+in wonder, transfixed,
+
+00:00:47.370 --> 00:00:49.581
+fireworks going off in my head,
+
+00:00:49.605 --> 00:00:52.403
+thinking, "That is what
+I want to do with my life."
+
+00:00:53.006 --> 00:00:56.539
+The idea that all the math, science
+and code I had been learning
+
+00:00:56.563 --> 00:00:59.701
+could come together to create
+these worlds and characters
+
+00:00:59.725 --> 00:01:01.587
+and stories I connected with,
+
+00:01:01.611 --> 00:01:03.142
+was pure magic for me.
+
+00:01:04.126 --> 00:01:06.015
+Just two years later, I started working
+
+00:01:06.039 --> 00:01:09.058
+at the place that made those films,
+Pixar Animation Studios.
+
+00:01:09.082 --> 00:01:11.812
+It was here I learned how
+we actually execute those films.
+
+00:01:12.303 --> 00:01:13.462
+To create our movies,
+
+00:01:13.486 --> 00:01:16.255
+we create a three-dimensional
+world inside the computer.
+
+00:01:16.922 --> 00:01:20.525
+We start with a point that makes
+a line that makes a face
+
+00:01:20.549 --> 00:01:22.257
+that creates characters,
+
+00:01:22.281 --> 00:01:24.953
+or trees and rocks
+that eventually become a forest.
+
+00:01:25.326 --> 00:01:27.438
+And because it's
+a three-dimensional world,
+
+00:01:27.462 --> 00:01:29.858
+we can move a camera
+around inside that world.
+
+00:01:31.004 --> 00:01:33.417
+I was fascinated by all of it.
+
+00:01:33.441 --> 00:01:35.722
+But then I got my first taste of lighting.
+
+00:01:36.581 --> 00:01:40.230
+Lighting in practice is placing lights
+inside this three-dimensional world.
+
+00:01:40.254 --> 00:01:42.974
+I actually have icons of lights
+I move around in there.
+
+00:01:42.998 --> 00:01:44.720
+Here you can see I've added a light,
+
+00:01:44.744 --> 00:01:47.608
+I'm turning on the rough version
+of lighting in our software,
+
+00:01:47.632 --> 00:01:48.863
+turn on shadows
+
+00:01:48.887 --> 00:01:50.291
+and placing the light.
+
+00:01:50.315 --> 00:01:51.482
+As I place a light,
+
+00:01:51.506 --> 00:01:54.218
+I think about what it might
+look like in real life,
+
+00:01:54.242 --> 00:01:58.168
+but balance that out with what we need
+artistically and for the story.
+
+00:01:58.981 --> 00:02:02.131
+So it might look like this at first,
+
+00:02:02.155 --> 00:02:04.569
+but as we adjust this and move that
+
+00:02:04.593 --> 00:02:06.138
+in weeks of work,
+
+00:02:06.162 --> 00:02:08.377
+in rough form it might look like this,
+
+00:02:09.252 --> 00:02:11.401
+and in final form, like this.
+
+00:02:16.306 --> 00:02:20.357
+There's this moment in lighting
+that made me fall utterly in love with it.
+
+00:02:20.381 --> 00:02:22.131
+It's where we go from this
+
+00:02:22.807 --> 00:02:24.021
+to this.
+
+00:02:24.045 --> 00:02:26.581
+It's the moment where
+all the pieces come together,
+
+00:02:26.605 --> 00:02:29.208
+and suddenly the world comes to life
+
+00:02:29.232 --> 00:02:31.620
+as if it's an actual place that exists.
+
+00:02:32.009 --> 00:02:33.716
+This moment never gets old,
+
+00:02:33.740 --> 00:02:37.608
+especially for that little seven-year-old
+girl that wanted to be an artist.
+
+00:02:37.632 --> 00:02:38.785
+As I learned to light,
+
+00:02:38.809 --> 00:02:41.340
+I learned about using light
+to help tell story,
+
+00:02:42.442 --> 00:02:44.173
+to set the time of day,
+
+00:02:45.258 --> 00:02:46.810
+to create the mood,
+
+00:02:47.978 --> 00:02:49.879
+to guide the audience's eye,
+
+00:02:50.850 --> 00:02:53.009
+how to make a character look appealing
+
+00:02:53.033 --> 00:02:54.990
+or stand out in a busy set.
+
+00:02:56.224 --> 00:02:57.534
+Did you see WALL-E?
+
+00:02:57.558 --> 00:02:58.597
+(Laughter)
+
+00:02:58.621 --> 00:02:59.834
+There he is.
+
+00:03:01.490 --> 00:03:02.713
+As you can see,
+
+00:03:02.737 --> 00:03:05.444
+we can create any world that we want
+inside the computer.
+
+00:03:05.468 --> 00:03:08.166
+We can make a world with monsters,
+
+00:03:08.837 --> 00:03:10.666
+with robots that fall in love,
+
+00:03:11.291 --> 00:03:13.335
+we can even make pigs fly.
+
+00:03:13.359 --> 00:03:17.772
+(Laughter)
+
+00:03:18.361 --> 00:03:20.138
+While this is an incredible thing,
+
+00:03:20.162 --> 00:03:22.637
+this untethered artistic freedom,
+
+00:03:22.661 --> 00:03:24.643
+it can create chaos.
+
+00:03:24.667 --> 00:03:27.518
+It can create unbelievable worlds,
+
+00:03:27.542 --> 00:03:29.026
+unbelievable movement,
+
+00:03:29.050 --> 00:03:31.200
+things that are jarring to the audience.
+
+00:03:31.224 --> 00:03:33.985
+So to combat this, we tether
+ourselves with science.
+
+00:03:34.432 --> 00:03:36.406
+We use science and the world we know
+
+00:03:36.430 --> 00:03:37.780
+as a backbone,
+
+00:03:37.804 --> 00:03:41.278
+to ground ourselves in something
+relatable and recognizable.
+
+00:03:41.806 --> 00:03:44.335
+"Finding Nemo" is an excellent
+example of this.
+
+00:03:44.359 --> 00:03:47.004
+A major portion of the movie
+takes place underwater.
+
+00:03:47.028 --> 00:03:49.278
+But how do you make it look underwater?
+
+00:03:49.302 --> 00:03:50.933
+In early research and development,
+
+00:03:50.957 --> 00:03:54.855
+we took a clip of underwater footage
+and recreated it in the computer.
+
+00:03:54.879 --> 00:03:56.140
+Then we broke it back down
+
+00:03:56.164 --> 00:03:58.938
+to see which elements make up
+that underwater look.
+
+00:03:59.526 --> 00:04:01.133
+One of the most critical elements
+
+00:04:01.157 --> 00:04:03.339
+was how the light travels
+through the water.
+
+00:04:03.363 --> 00:04:06.159
+So we coded up a light
+that mimics this physics --
+
+00:04:06.183 --> 00:04:07.927
+first, the visibility of the water,
+
+00:04:07.951 --> 00:04:10.060
+and then what happens with the color.
+
+00:04:10.503 --> 00:04:14.045
+Objects close to the eye
+have their full, rich colors.
+
+00:04:14.069 --> 00:04:16.272
+As light travels deeper into the water,
+
+00:04:16.296 --> 00:04:18.206
+we lose the red wavelengths,
+
+00:04:18.230 --> 00:04:19.574
+then the green wavelengths,
+
+00:04:19.598 --> 00:04:21.948
+leaving us with blue at the far depths.
+
+00:04:22.666 --> 00:04:25.766
+In this clip you can see
+two other important elements.
+
+00:04:25.790 --> 00:04:27.812
+The first is the surge and swell,
+
+00:04:27.836 --> 00:04:29.553
+or the invisible underwater current
+
+00:04:29.577 --> 00:04:32.762
+that pushes the bits of particulate
+around in the water.
+
+00:04:32.786 --> 00:04:34.803
+The second is the caustics.
+
+00:04:34.827 --> 00:04:36.337
+These are the ribbons of light,
+
+00:04:36.361 --> 00:04:38.385
+like you might see
+on the bottom of a pool,
+
+00:04:38.409 --> 00:04:40.959
+that are created when the sun
+bends through the crests
+
+00:04:40.983 --> 00:04:43.657
+of the ripples and waves
+on the ocean's surface.
+
+00:04:45.038 --> 00:04:46.336
+Here we have the fog beams.
+
+00:04:46.360 --> 00:04:48.015
+These give us color depth cues,
+
+00:04:48.039 --> 00:04:50.134
+but also tells which direction is up
+
+00:04:50.158 --> 00:04:52.434
+in shots where we don't
+see the water surface.
+
+00:04:52.788 --> 00:04:54.907
+The other really cool thing
+you can see here
+
+00:04:54.931 --> 00:04:58.091
+is that we lit that particulate
+only with the caustics,
+
+00:04:58.115 --> 00:05:00.773
+so that as it goes in and out
+of those ribbons of light,
+
+00:05:00.797 --> 00:05:02.310
+it appears and disappears,
+
+00:05:02.334 --> 00:05:05.403
+lending a subtle, magical
+sparkle to the underwater.
+
+00:05:06.530 --> 00:05:09.072
+You can see how we're using the science --
+
+00:05:09.096 --> 00:05:11.972
+the physics of water,
+light and movement --
+
+00:05:11.996 --> 00:05:14.042
+to tether that artistic freedom.
+
+00:05:14.570 --> 00:05:16.891
+But we are not beholden to it.
+
+00:05:16.915 --> 00:05:18.714
+We considered each of these elements
+
+00:05:18.738 --> 00:05:21.752
+and which ones had to be
+scientifically accurate
+
+00:05:21.776 --> 00:05:25.858
+and which ones we could push and pull
+to suit the story and the mood.
+
+00:05:25.882 --> 00:05:29.691
+We realized early on that color
+was one we had some leeway with.
+
+00:05:29.715 --> 00:05:32.327
+So here's a traditionally colored
+underwater scene.
+
+00:05:32.351 --> 00:05:35.192
+But here, we can take Sydney Harbor
+and push it fairly green
+
+00:05:35.216 --> 00:05:37.476
+to suit the sad mood of what's happening.
+
+00:05:38.315 --> 00:05:41.574
+In this scene, it's really important
+we see deep into the underwater,
+
+00:05:41.598 --> 00:05:44.265
+so we understand what
+the East Australian Current is,
+
+00:05:44.289 --> 00:05:47.677
+that the turtles are diving into
+and going on this roller coaster ride.
+
+00:05:47.701 --> 00:05:49.638
+So we pushed the visibility of the water
+
+00:05:49.662 --> 00:05:52.365
+well past anything you would
+ever see in real life.
+
+00:05:52.843 --> 00:05:54.005
+Because in the end,
+
+00:05:54.029 --> 00:05:58.653
+we are not trying to recreate
+the scientifically correct real world,
+
+00:05:58.677 --> 00:06:00.717
+we're trying to create a believable world,
+
+00:06:00.741 --> 00:06:04.688
+one the audience can immerse
+themselves in to experience the story.
+
+00:06:05.344 --> 00:06:08.067
+We use science to create
+something wonderful.
+
+00:06:08.522 --> 00:06:12.818
+We use story and artistic touch
+to get us to a place of wonder.
+
+00:06:13.578 --> 00:06:16.054
+This guy, WALL-E, is a great
+example of that.
+
+00:06:16.078 --> 00:06:18.508
+He finds beauty in the simplest things.
+
+00:06:18.532 --> 00:06:21.621
+But when he came in to lighting,
+we knew we had a big problem.
+
+00:06:21.978 --> 00:06:25.423
+We got so geeked-out on making
+WALL-E this convincing robot,
+
+00:06:25.447 --> 00:06:28.827
+that we made his binoculars
+practically optically perfect.
+
+00:06:28.851 --> 00:06:30.381
+(Laughter)
+
+00:06:31.328 --> 00:06:35.322
+His binoculars are one of the most
+critical acting devices he has.
+
+00:06:35.346 --> 00:06:38.888
+He doesn't have a face or even
+traditional dialogue, for that matter.
+
+00:06:38.912 --> 00:06:41.839
+So the animators were heavily
+dependent on the binoculars
+
+00:06:41.863 --> 00:06:44.116
+to sell his acting and emotions.
+
+00:06:44.510 --> 00:06:46.219
+We started lighting and we realized
+
+00:06:46.243 --> 00:06:50.457
+the triple lenses inside his binoculars
+were a mess of reflections.
+
+00:06:50.989 --> 00:06:53.042
+He was starting to look glassy-eyed.
+
+00:06:53.066 --> 00:06:54.790
+(Laughter)
+
+00:06:54.814 --> 00:06:58.228
+Now, glassy-eyed
+is a fundamentally awful thing
+
+00:06:58.252 --> 00:07:00.268
+when you are trying
+to convince an audience
+
+00:07:00.292 --> 00:07:03.775
+that a robot has a personality
+and he's capable of falling in love.
+
+00:07:04.498 --> 00:07:08.022
+So we went to work on these optically
+perfect binoculars,
+
+00:07:08.046 --> 00:07:11.748
+trying to find a solution that would
+maintain his true robot materials
+
+00:07:11.772 --> 00:07:13.763
+but solve this reflection problem.
+
+00:07:14.096 --> 00:07:15.554
+So we started with the lenses.
+
+00:07:15.578 --> 00:07:16.970
+Here's the flat-front lens,
+
+00:07:16.994 --> 00:07:18.500
+we have a concave lens
+
+00:07:18.524 --> 00:07:19.781
+and a convex lens.
+
+00:07:19.805 --> 00:07:21.910
+And here you see all three together,
+
+00:07:21.934 --> 00:07:23.819
+showing us all these reflections.
+
+00:07:24.208 --> 00:07:25.838
+We tried turning them down,
+
+00:07:25.862 --> 00:07:27.558
+we tried blocking them,
+
+00:07:27.582 --> 00:07:29.022
+nothing was working.
+
+00:07:29.786 --> 00:07:30.937
+You can see here,
+
+00:07:30.961 --> 00:07:34.085
+sometimes we needed something specific
+reflected in his eyes --
+
+00:07:34.109 --> 00:07:35.260
+usually Eve.
+
+00:07:35.284 --> 00:07:38.815
+So we couldn't just use some faked
+abstract image on the lenses.
+
+00:07:38.839 --> 00:07:40.989
+So here we have Eve on the first lens,
+
+00:07:41.013 --> 00:07:43.064
+we put Eve on the second lens,
+
+00:07:43.088 --> 00:07:44.333
+it's not working.
+
+00:07:44.357 --> 00:07:45.517
+We turn it down,
+
+00:07:45.541 --> 00:07:47.217
+it's still not working.
+
+00:07:47.241 --> 00:07:49.571
+And then we have our eureka moment.
+
+00:07:49.595 --> 00:07:53.411
+We add a light to WALL-E
+that accidentally leaks into his eyes.
+
+00:07:54.092 --> 00:07:57.482
+You can see it light up
+these gray aperture blades.
+
+00:07:58.237 --> 00:08:01.560
+Suddenly, those aperture blades
+are poking through that reflection
+
+00:08:01.584 --> 00:08:03.369
+the way nothing else has.
+
+00:08:03.966 --> 00:08:07.508
+Now we recognize WALL-E as having an eye.
+
+00:08:07.532 --> 00:08:10.181
+As humans we have the white of our eye,
+
+00:08:10.205 --> 00:08:11.356
+the colored iris
+
+00:08:11.380 --> 00:08:12.601
+and the black pupil.
+
+00:08:12.948 --> 00:08:16.289
+Now WALL-E has the black of an eye,
+
+00:08:16.313 --> 00:08:17.840
+the gray aperture blades
+
+00:08:17.864 --> 00:08:19.283
+and the black pupil.
+
+00:08:19.689 --> 00:08:23.331
+Suddenly, WALL-E feels like he has a soul,
+
+00:08:23.355 --> 00:08:26.233
+like there's a character
+with emotion inside.
+
+00:08:28.038 --> 00:08:29.855
+Later in the movie towards the end,
+
+00:08:29.879 --> 00:08:31.357
+WALL-E loses his personality,
+
+00:08:31.381 --> 00:08:32.959
+essentially going dead.
+
+00:08:33.381 --> 00:08:36.910
+This is the perfect time to bring back
+that glassy-eyed look.
+
+00:08:37.553 --> 00:08:40.033
+In the next scene,
+WALL-E comes back to life.
+
+00:08:40.057 --> 00:08:43.240
+We bring that light back to bring
+the aperture blades back,
+
+00:08:43.264 --> 00:08:46.724
+and he returns to that sweet,
+soulful robot we've come to love.
+
+00:08:50.444 --> 00:08:51.808
+(Video) WALL-E: Eva?
+
+00:08:54.841 --> 00:08:57.961
+Danielle Feinberg: There's a beauty
+in these unexpected moments --
+
+00:08:57.985 --> 00:09:01.551
+when you find the key
+to unlocking a robot's soul,
+
+00:09:01.575 --> 00:09:04.738
+the moment when you discover
+what you want to do with your life.
+
+00:09:05.135 --> 00:09:08.437
+The jellyfish in "Finding Nemo"
+was one of those moments for me.
+
+00:09:08.833 --> 00:09:12.052
+There are scenes in every movie
+that struggle to come together.
+
+00:09:12.076 --> 00:09:14.011
+This was one of those scenes.
+
+00:09:14.035 --> 00:09:16.169
+The director had a vision for this scene
+
+00:09:16.193 --> 00:09:20.001
+based on some wonderful footage
+of jellyfish in the South Pacific.
+
+00:09:21.139 --> 00:09:22.996
+As we went along,
+
+00:09:23.020 --> 00:09:24.473
+we were floundering.
+
+00:09:24.497 --> 00:09:26.586
+The reviews with the director
+
+00:09:26.610 --> 00:09:29.299
+turned from the normal
+look-and-feel conversation
+
+00:09:29.323 --> 00:09:33.450
+into more and more questions
+about numbers and percentages.
+
+00:09:34.085 --> 00:09:35.776
+Maybe because unlike normal,
+
+00:09:35.800 --> 00:09:38.053
+we were basing it on
+something in real life,
+
+00:09:38.077 --> 00:09:40.662
+or maybe just because we had lost our way.
+
+00:09:40.686 --> 00:09:43.797
+But it had become about using
+our brain without our eyes,
+
+00:09:43.821 --> 00:09:45.676
+the science without the art.
+
+00:09:46.251 --> 00:09:49.430
+That scientific tether
+was strangling the scene.
+
+00:09:50.534 --> 00:09:52.380
+But even through all the frustrations,
+
+00:09:52.404 --> 00:09:54.439
+I still believed it could be beautiful.
+
+00:09:54.463 --> 00:09:56.122
+So when it came in to lighting,
+
+00:09:56.146 --> 00:09:57.377
+I dug in.
+
+00:09:58.149 --> 00:10:01.440
+As I worked to balance
+the blues and the pinks,
+
+00:10:01.464 --> 00:10:04.280
+the caustics dancing
+on the jellyfish bells,
+
+00:10:04.304 --> 00:10:06.478
+the undulating fog beams,
+
+00:10:06.502 --> 00:10:08.924
+something promising began to appear.
+
+00:10:09.686 --> 00:10:12.913
+I came in one morning and checked
+the previous night's work.
+
+00:10:12.937 --> 00:10:14.413
+And I got excited.
+
+00:10:14.437 --> 00:10:16.545
+And then I showed it
+to the lighting director
+
+00:10:16.569 --> 00:10:17.744
+and she got excited.
+
+00:10:17.768 --> 00:10:22.184
+Soon, I was showing to the director
+in a dark room full of 50 people.
+
+00:10:22.563 --> 00:10:23.826
+In director review,
+
+00:10:23.850 --> 00:10:25.908
+you hope you might get some nice words,
+
+00:10:26.349 --> 00:10:28.645
+then you get some notes
+and fixes, generally.
+
+00:10:29.408 --> 00:10:31.845
+And then, hopefully, you get a final,
+
+00:10:31.869 --> 00:10:33.917
+signaling to move on to the next stage.
+
+00:10:34.462 --> 00:10:37.830
+I gave my intro, and I played
+the jellyfish scene.
+
+00:10:38.703 --> 00:10:42.555
+And the director was silent
+for an uncomfortably long amount of time.
+
+00:10:43.240 --> 00:10:45.747
+Just long enough for me to think,
+
+00:10:45.771 --> 00:10:47.627
+"Oh no, this is doomed."
+
+00:10:48.919 --> 00:10:50.679
+And then he started clapping.
+
+00:10:51.381 --> 00:10:53.773
+And then the production
+designer started clapping.
+
+00:10:54.240 --> 00:10:56.384
+And then the whole room was clapping.
+
+00:11:02.285 --> 00:11:05.371
+This is the moment
+that I live for in lighting.
+
+00:11:05.395 --> 00:11:07.558
+The moment where it all comes together
+
+00:11:07.582 --> 00:11:10.229
+and we get a world that we can believe in.
+
+00:11:10.718 --> 00:11:14.606
+We use math, science and code
+to create these amazing worlds.
+
+00:11:15.030 --> 00:11:17.876
+We use storytelling and art
+to bring them to life.
+
+00:11:18.440 --> 00:11:22.451
+It's this interweaving of art and science
+
+00:11:22.475 --> 00:11:26.138
+that elevates the world
+to a place of wonder,
+
+00:11:26.162 --> 00:11:27.795
+a place with soul,
+
+00:11:27.819 --> 00:11:29.589
+a place we can believe in,
+
+00:11:30.262 --> 00:11:33.603
+a place where the things
+you imagine can become real --
+
+00:11:35.071 --> 00:11:38.283
+and a world where a girl suddenly realizes
+
+00:11:38.307 --> 00:11:40.467
+not only is she a scientist,
+
+00:11:40.491 --> 00:11:41.806
+but also an artist.
+
+00:11:42.544 --> 00:11:43.695
+Thank you.
+
+00:11:43.719 --> 00:11:46.999
+(Applause)
+

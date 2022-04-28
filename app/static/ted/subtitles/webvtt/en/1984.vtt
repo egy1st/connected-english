@@ -1,0 +1,504 @@
+WEBVTT
+
+00:00:00.721 --> 00:00:03.388
+A computer is an incredibly powerful means
+
+00:00:03.388 --> 00:00:05.042
+of creative expression,
+
+00:00:05.042 --> 00:00:06.613
+but for the most part,
+
+00:00:06.613 --> 00:00:08.778
+that expression is confined to the screens
+
+00:00:08.778 --> 00:00:11.196
+of our laptops and mobile phones.
+
+00:00:11.196 --> 00:00:13.396
+And I'd like to tell you a story about
+
+00:00:13.396 --> 00:00:15.352
+bringing this power of the computer
+
+00:00:15.352 --> 00:00:17.722
+to move things around and interact with us
+
+00:00:17.722 --> 00:00:20.635
+off of the screen and into the physical world
+
+00:00:20.635 --> 00:00:21.824
+in which we live.
+
+00:00:21.824 --> 00:00:23.442
+A few years ago, I got a call from
+
+00:00:23.442 --> 00:00:25.928
+a luxury fashion store called Barneys New York,
+
+00:00:25.928 --> 00:00:27.192
+and the next thing I knew,
+
+00:00:27.192 --> 00:00:29.885
+I was designing storefront kinetic sculptures
+
+00:00:29.885 --> 00:00:31.277
+for their window displays.
+
+00:00:31.277 --> 00:00:32.672
+This one's called "The Chase."
+
+00:00:32.672 --> 00:00:34.018
+There are two pairs of shoes,
+
+00:00:34.018 --> 00:00:35.643
+a man's pair and a woman's pair,
+
+00:00:35.643 --> 00:00:38.547
+and they play out this slow, tense chase
+
+00:00:38.547 --> 00:00:39.825
+around the window
+
+00:00:39.825 --> 00:00:42.050
+in which the man scoots up behind the woman
+
+00:00:42.050 --> 00:00:43.623
+and gets in her personal space,
+
+00:00:43.623 --> 00:00:45.558
+and then she moves away.
+
+00:00:45.558 --> 00:00:47.399
+Each of the shoes has magnets in it,
+
+00:00:47.399 --> 00:00:49.402
+and there are magnets underneath the table
+
+00:00:49.402 --> 00:00:51.366
+that move the shoes around.
+
+00:00:51.366 --> 00:00:53.398
+My friend Andy Cavatorta was building
+
+00:00:53.398 --> 00:00:56.940
+a robotic harp for Bjork's Biophilia tour
+
+00:00:56.940 --> 00:00:59.332
+and I wound up building the electronics
+
+00:00:59.332 --> 00:01:01.521
+and motion control software
+
+00:01:01.521 --> 00:01:03.987
+to make the harps move and play music.
+
+00:01:03.987 --> 00:01:05.998
+The harp has four separate pendulums,
+
+00:01:05.998 --> 00:01:08.124
+and each pendulum has 11 strings,
+
+00:01:08.124 --> 00:01:10.612
+so the harp swings on its axis and also rotates
+
+00:01:10.612 --> 00:01:12.815
+in order to play different musical notes,
+
+00:01:12.815 --> 00:01:14.977
+and the harps are all networked together
+
+00:01:14.977 --> 00:01:16.777
+so that they can play the right notes
+
+00:01:16.777 --> 00:01:19.403
+at the right time in the music.
+
+00:01:19.403 --> 00:01:21.827
+I built an interactive chemistry exhibit
+
+00:01:21.827 --> 00:01:24.426
+at the Museum of Science and Industry in Chicago,
+
+00:01:24.426 --> 00:01:27.407
+and this exhibit lets people use physical objects
+
+00:01:27.407 --> 00:01:30.443
+to grab chemical elements off of the periodic table
+
+00:01:30.443 --> 00:01:31.851
+and bring them together to cause
+
+00:01:31.851 --> 00:01:33.617
+chemical reactions to happen.
+
+00:01:33.617 --> 00:01:35.541
+And the museum noticed that people
+
+00:01:35.541 --> 00:01:37.767
+were spending a lot of time with this exhibit,
+
+00:01:37.767 --> 00:01:40.914
+and a researcher from a science education center
+
+00:01:40.914 --> 00:01:43.719
+in Australia decided to study this exhibit
+
+00:01:43.719 --> 00:01:45.959
+and try to figure out what was going on.
+
+00:01:45.959 --> 00:01:48.252
+And she found that the physical objects
+
+00:01:48.252 --> 00:01:49.916
+that people were using were helping people
+
+00:01:49.916 --> 00:01:51.930
+understand how to use the exhibit,
+
+00:01:51.930 --> 00:01:54.873
+and were helping people learn in a social way.
+
+00:01:54.873 --> 00:01:57.139
+And when you think about
+it, this makes a lot of sense,
+
+00:01:57.139 --> 00:01:59.379
+that using specialized physical objects
+
+00:01:59.379 --> 00:02:02.651
+would help people use an interface more easily.
+
+00:02:02.651 --> 00:02:05.490
+I mean, our hands and our minds are optimized
+
+00:02:05.490 --> 00:02:08.759
+to think about and interact with tangible objects.
+
+00:02:08.759 --> 00:02:10.821
+Think about which you find easier to use,
+
+00:02:10.821 --> 00:02:13.140
+a physical keyboard or an onscreen keyboard
+
+00:02:13.140 --> 00:02:15.240
+like on a phone?
+
+00:02:15.240 --> 00:02:16.265
+But the thing that struck me
+
+00:02:16.265 --> 00:02:18.264
+about all of these different projects
+
+00:02:18.264 --> 00:02:21.381
+is that they really had to be built from scratch,
+
+00:02:21.381 --> 00:02:23.171
+down to the level of the electronics
+
+00:02:23.171 --> 00:02:24.277
+and the printed circuit boards and
+
+00:02:24.277 --> 00:02:27.022
+all the mechanisms all the way up to the software.
+
+00:02:27.022 --> 00:02:28.784
+I wanted to create something
+
+00:02:28.784 --> 00:02:32.103
+where we could move objects
+under computer control
+
+00:02:32.103 --> 00:02:34.352
+and create interactions around that idea
+
+00:02:34.352 --> 00:02:36.567
+without having to go through this process
+
+00:02:36.567 --> 00:02:37.950
+of building something from scratch
+
+00:02:37.950 --> 00:02:39.325
+every single time.
+
+00:02:39.325 --> 00:02:41.316
+So my first attempt at this
+
+00:02:41.316 --> 00:02:43.000
+was at the MIT Media Lab
+
+00:02:43.000 --> 00:02:44.581
+with Professor Hiroshi Ishii,
+
+00:02:44.581 --> 00:02:46.416
+and we built this array of
+
+00:02:46.416 --> 00:02:48.673
+512 different electromagnets,
+
+00:02:48.673 --> 00:02:51.300
+and together they were able to move objects around
+
+00:02:51.300 --> 00:02:52.836
+on top of their surface.
+
+00:02:52.836 --> 00:02:54.384
+But the problem with this
+
+00:02:54.384 --> 00:02:56.040
+was that these magnets
+
+00:02:56.040 --> 00:02:58.200
+cost over 10,000 dollars.
+
+00:02:58.200 --> 00:02:59.866
+Although each one was pretty small,
+
+00:02:59.866 --> 00:03:01.575
+altogether they weighed so much
+
+00:03:01.575 --> 00:03:02.830
+that the table that they were on
+
+00:03:02.830 --> 00:03:04.388
+started to sag.
+
+00:03:04.388 --> 00:03:05.720
+So I wanted to build something
+
+00:03:05.720 --> 00:03:07.336
+where you could have this kind of interaction
+
+00:03:07.336 --> 00:03:09.979
+on any tabletop surface.
+
+00:03:09.979 --> 00:03:12.060
+So to explore this idea,
+
+00:03:12.060 --> 00:03:14.210
+I built an army of small robots,
+
+00:03:14.210 --> 00:03:16.975
+and each of these robots has
+what are called omni wheels.
+
+00:03:16.975 --> 00:03:18.280
+They're these special wheels
+
+00:03:18.280 --> 00:03:20.946
+that can move equally easily in all directions,
+
+00:03:20.946 --> 00:03:23.535
+and when you couple these robots
+
+00:03:23.535 --> 00:03:25.445
+with a video projector,
+
+00:03:25.445 --> 00:03:27.253
+you have these physical tools
+
+00:03:27.253 --> 00:03:30.153
+for interacting with digital information.
+
+00:03:30.153 --> 00:03:31.995
+So here's an example of what I mean.
+
+00:03:31.995 --> 00:03:33.917
+This is a video editing application
+
+00:03:33.917 --> 00:03:35.403
+where all of the controls
+
+00:03:35.403 --> 00:03:37.710
+for manipulating the video are physical.
+
+00:03:37.710 --> 00:03:39.292
+So if we want to tweak the color,
+
+00:03:39.292 --> 00:03:40.644
+we just enter the color mode,
+
+00:03:40.644 --> 00:03:41.940
+and then we get three different dials
+
+00:03:41.940 --> 00:03:43.318
+for tweaking the color,
+
+00:03:43.318 --> 00:03:45.279
+or if we want to adjust the audio,
+
+00:03:45.279 --> 00:03:48.620
+then we get two different dials
+for that, these physical objects.
+
+00:03:48.620 --> 00:03:51.466
+So here the left and right channel stay in sync,
+
+00:03:51.466 --> 00:03:53.209
+but if we want to, we can override that
+
+00:03:53.209 --> 00:03:56.208
+by grabbing both of them at the same time.
+
+00:03:56.208 --> 00:03:58.136
+So the idea is that we get the speed
+
+00:03:58.136 --> 00:04:01.253
+and efficiency benefits of using these physical dials
+
+00:04:01.253 --> 00:04:04.043
+together with the flexibility and versatility
+
+00:04:04.043 --> 00:04:07.374
+of a system that's designed in software.
+
+00:04:07.374 --> 00:04:09.309
+And this is a mapping application
+
+00:04:09.309 --> 00:04:11.436
+for disaster response.
+
+00:04:11.436 --> 00:04:13.381
+So you have these physical objects
+
+00:04:13.381 --> 00:04:15.608
+that represent police, fire and rescue,
+
+00:04:15.608 --> 00:04:17.161
+and a dispatcher can grab them
+
+00:04:17.161 --> 00:04:18.487
+and place them on the map
+
+00:04:18.487 --> 00:04:20.476
+to tell those units where to go,
+
+00:04:20.476 --> 00:04:22.852
+and then the position of the units on the map
+
+00:04:22.852 --> 00:04:24.821
+gets synced up with the position
+
+00:04:24.821 --> 00:04:28.448
+of those units in the real world.
+
+00:04:28.448 --> 00:04:30.060
+This is a video chat application.
+
+00:04:30.060 --> 00:04:32.412
+It's amazing how much emotion you can convey
+
+00:04:32.412 --> 00:04:33.625
+with just a few simple movements
+
+00:04:33.625 --> 00:04:36.050
+of a physical object.
+
+00:04:36.050 --> 00:04:39.102
+With this interface, we open up
+a huge array of possibilities
+
+00:04:39.102 --> 00:04:41.180
+in between traditional board games
+
+00:04:41.180 --> 00:04:42.594
+and arcade games,
+
+00:04:42.594 --> 00:04:45.141
+where the physical possibilities of interaction
+
+00:04:45.141 --> 00:04:48.854
+make so many different styles of play possible.
+
+00:04:48.854 --> 00:04:51.243
+But one of the areas that I'm most excited
+
+00:04:51.243 --> 00:04:53.057
+about using this platform for
+
+00:04:53.057 --> 00:04:55.600
+is applying it to problems that are difficult
+
+00:04:55.600 --> 00:04:57.854
+for computers or people to solve alone.
+
+00:04:57.854 --> 00:05:00.476
+One example of those is protein folding.
+
+00:05:00.476 --> 00:05:01.888
+So here we have an interface
+
+00:05:01.888 --> 00:05:05.402
+where we have physical handles onto a protein,
+
+00:05:05.402 --> 00:05:07.153
+and we can grab those handles
+
+00:05:07.153 --> 00:05:10.140
+and try to move the protein and
+try to fold it in different ways.
+
+00:05:10.140 --> 00:05:13.140
+And if we move it in a way that
+doesn't really make sense
+
+00:05:13.140 --> 00:05:15.107
+with the underlying molecular simulation,
+
+00:05:15.107 --> 00:05:17.309
+we get this physical feedback where we can
+
+00:05:17.309 --> 00:05:19.282
+actually feel these physical handles
+
+00:05:19.282 --> 00:05:20.890
+pulling back against us.
+
+00:05:20.890 --> 00:05:22.421
+So feeling what's going on
+
+00:05:22.421 --> 00:05:24.660
+inside a molecular simulation
+
+00:05:24.660 --> 00:05:27.606
+is a whole different level of interaction.
+
+00:05:27.606 --> 00:05:30.587
+So we're just beginning to explore
+
+00:05:30.587 --> 00:05:33.098
+what's possible when we use software
+
+00:05:33.098 --> 00:05:34.589
+to control the movement
+
+00:05:34.589 --> 00:05:36.832
+of objects in our environment.
+
+00:05:36.832 --> 00:05:39.736
+Maybe this is the computer of the future.
+
+00:05:39.736 --> 00:05:41.352
+There's no touchscreen.
+
+00:05:41.352 --> 00:05:43.383
+There's no technology visible at all.
+
+00:05:43.383 --> 00:05:45.227
+But when we want to have a video chat
+
+00:05:45.227 --> 00:05:46.688
+or play a game
+
+00:05:46.688 --> 00:05:49.401
+or lay out the slides to our next TED Talk,
+
+00:05:49.401 --> 00:05:51.674
+the objects on the table come alive.
+
+00:05:51.674 --> 00:05:53.026
+Thank you.
+
+00:05:53.026 --> 00:05:55.149
+(Applause)
+

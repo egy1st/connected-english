@@ -1,0 +1,914 @@
+WEBVTT
+
+00:00:00.657 --> 00:00:03.159
+Some years ago, I set out to try to understand
+
+00:00:03.159 --> 00:00:05.887
+if there was a possibility to develop biofuels
+
+00:00:05.887 --> 00:00:10.589
+on a scale that would actually compete with fossil fuels
+
+00:00:10.589 --> 00:00:14.273
+but not compete with agriculture for water,
+
+00:00:14.273 --> 00:00:16.711
+fertilizer or land.
+
+00:00:16.711 --> 00:00:18.241
+So here's what I came up with.
+
+00:00:18.241 --> 00:00:19.849
+Imagine that we build an enclosure where we put it
+
+00:00:19.849 --> 00:00:22.127
+just underwater, and we fill it with wastewater
+
+00:00:22.127 --> 00:00:25.255
+and some form of microalgae that produces oil,
+
+00:00:25.255 --> 00:00:27.415
+and we make it out of some kind of flexible material
+
+00:00:27.415 --> 00:00:29.487
+that moves with waves underwater,
+
+00:00:29.487 --> 00:00:31.527
+and the system that we're going to build, of course,
+
+00:00:31.527 --> 00:00:33.847
+will use solar energy to grow the algae,
+
+00:00:33.847 --> 00:00:36.058
+and they use CO2, which is good,
+
+00:00:36.058 --> 00:00:38.423
+and they produce oxygen as they grow.
+
+00:00:38.423 --> 00:00:42.087
+The algae that grow are in a container that
+
+00:00:42.087 --> 00:00:44.879
+distributes the heat to the surrounding water,
+
+00:00:44.879 --> 00:00:47.143
+and you can harvest them and make biofuels
+
+00:00:47.143 --> 00:00:49.823
+and cosmetics and fertilizer and animal feed,
+
+00:00:49.823 --> 00:00:52.663
+and of course you'd have to make a large area of this,
+
+00:00:52.663 --> 00:00:55.215
+so you'd have to worry about other stakeholders
+
+00:00:55.215 --> 00:00:59.407
+like fishermen and ships and such things, but hey,
+
+00:00:59.407 --> 00:01:01.670
+we're talking about biofuels,
+
+00:01:01.670 --> 00:01:03.872
+and we know the importance of potentially getting
+
+00:01:03.872 --> 00:01:06.351
+an alternative liquid fuel.
+
+00:01:06.351 --> 00:01:09.032
+Why are we talking about microalgae?
+
+00:01:09.032 --> 00:01:12.719
+Here you see a graph showing you the different types
+
+00:01:12.719 --> 00:01:16.571
+of crops that are being considered for making biofuels,
+
+00:01:16.571 --> 00:01:19.134
+so you can see some things like soybean,
+
+00:01:19.134 --> 00:01:21.451
+which makes 50 gallons per acre per year,
+
+00:01:21.451 --> 00:01:26.508
+or sunflower or canola or jatropha or palm, and that
+
+00:01:26.508 --> 00:01:31.002
+tall graph there shows what microalgae can contribute.
+
+00:01:31.002 --> 00:01:33.533
+That is to say, microalgae contributes between 2,000
+
+00:01:33.533 --> 00:01:36.325
+and 5,000 gallons per acre per year,
+
+00:01:36.325 --> 00:01:39.677
+compared to the 50 gallons per acre per year from soy.
+
+00:01:39.677 --> 00:01:42.941
+So what are microalgae? Microalgae are micro --
+
+00:01:42.941 --> 00:01:45.389
+that is, they're extremely small, as you can see here
+
+00:01:45.389 --> 00:01:48.357
+a picture of those single-celled organisms
+
+00:01:48.357 --> 00:01:50.667
+compared to a human hair.
+
+00:01:50.667 --> 00:01:53.493
+Those small organisms have been around
+
+00:01:53.493 --> 00:01:55.533
+for millions of years and there's thousands
+
+00:01:55.533 --> 00:01:57.757
+of different species of microalgae in the world,
+
+00:01:57.757 --> 00:02:00.781
+some of which are the fastest-growing plants on the planet,
+
+00:02:00.781 --> 00:02:03.973
+and produce, as I just showed you, lots and lots of oil.
+
+00:02:03.973 --> 00:02:07.261
+Now, why do we want to do this offshore?
+
+00:02:07.261 --> 00:02:10.109
+Well, the reason we're doing this offshore is because
+
+00:02:10.109 --> 00:02:14.705
+if you look at our coastal cities, there isn't a choice,
+
+00:02:14.705 --> 00:02:17.504
+because we're going to use waste water, as I suggested,
+
+00:02:17.504 --> 00:02:19.415
+and if you look at where most of the waste water
+
+00:02:19.415 --> 00:02:22.984
+treatment plants are, they're embedded in the cities.
+
+00:02:22.984 --> 00:02:26.667
+This is the city of San Francisco, which has 900 miles
+
+00:02:26.667 --> 00:02:29.322
+of sewer pipes under the city already,
+
+00:02:29.322 --> 00:02:33.298
+and it releases its waste water offshore.
+
+00:02:33.298 --> 00:02:37.210
+So different cities around the world treat their waste water
+
+00:02:37.210 --> 00:02:39.578
+differently. Some cities process it.
+
+00:02:39.578 --> 00:02:41.224
+Some cities just release the water.
+
+00:02:41.224 --> 00:02:43.882
+But in all cases, the water that's released is
+
+00:02:43.882 --> 00:02:46.842
+perfectly adequate for growing microalgae.
+
+00:02:46.842 --> 00:02:48.507
+So let's envision what the system might look like.
+
+00:02:48.507 --> 00:02:50.609
+We call it OMEGA, which is an acronym for
+
+00:02:50.609 --> 00:02:55.040
+Offshore Membrane Enclosures for Growing Algae.
+
+00:02:55.040 --> 00:02:57.592
+At NASA, you have to have good acronyms.
+
+00:02:57.592 --> 00:03:00.435
+So how does it work? I sort of showed you how it works already.
+
+00:03:00.435 --> 00:03:04.155
+We put waste water and some source of CO2
+
+00:03:04.155 --> 00:03:07.202
+into our floating structure,
+
+00:03:07.202 --> 00:03:10.843
+and the waste water provides nutrients for the algae to grow,
+
+00:03:10.843 --> 00:03:13.561
+and they sequester CO2 that would otherwise go off
+
+00:03:13.561 --> 00:03:16.171
+into the atmosphere as a greenhouse gas.
+
+00:03:16.171 --> 00:03:18.499
+They of course use solar energy to grow,
+
+00:03:18.499 --> 00:03:21.050
+and the wave energy on the surface provides energy
+
+00:03:21.050 --> 00:03:23.354
+for mixing the algae, and the temperature
+
+00:03:23.354 --> 00:03:25.914
+is controlled by the surrounding water temperature.
+
+00:03:25.914 --> 00:03:29.268
+The algae that grow produce oxygen, as I've mentioned,
+
+00:03:29.268 --> 00:03:32.556
+and they also produce biofuels and fertilizer and food and
+
+00:03:32.556 --> 00:03:35.997
+other bi-algal products of interest.
+
+00:03:35.997 --> 00:03:39.414
+And the system is contained. What do I mean by that?
+
+00:03:39.414 --> 00:03:41.540
+It's modular. Let's say something happens that's
+
+00:03:41.540 --> 00:03:43.734
+totally unexpected to one of the modules.
+
+00:03:43.734 --> 00:03:45.933
+It leaks. It's struck by lightning.
+
+00:03:45.933 --> 00:03:48.542
+The waste water that leaks out is water that already now
+
+00:03:48.542 --> 00:03:50.930
+goes into that coastal environment, and
+
+00:03:50.930 --> 00:03:53.178
+the algae that leak out are biodegradable,
+
+00:03:53.178 --> 00:03:54.264
+and because they're living in waste water,
+
+00:03:54.264 --> 00:03:57.333
+they're fresh water algae, which means they can't
+
+00:03:57.333 --> 00:03:59.130
+live in salt water, so they die.
+
+00:03:59.130 --> 00:04:01.290
+The plastic we'll build it out of is some kind of
+
+00:04:01.290 --> 00:04:03.922
+well-known plastic that we have good experience with, and
+
+00:04:03.922 --> 00:04:08.773
+we'll rebuild our modules to be able to reuse them again.
+
+00:04:08.773 --> 00:04:12.345
+So we may be able to go beyond that when thinking about
+
+00:04:12.345 --> 00:04:14.822
+this system that I'm showing you, and that is to say
+
+00:04:14.822 --> 00:04:17.656
+we need to think in terms of the water, the fresh water,
+
+00:04:17.656 --> 00:04:20.022
+which is also going to be an issue in the future,
+
+00:04:20.022 --> 00:04:21.859
+and we're working on methods now
+
+00:04:21.859 --> 00:04:24.381
+for recovering the waste water.
+
+00:04:24.381 --> 00:04:27.173
+The other thing to consider is the structure itself.
+
+00:04:27.173 --> 00:04:30.224
+It provides a surface for things in the ocean,
+
+00:04:30.224 --> 00:04:33.467
+and this surface, which is covered by seaweeds
+
+00:04:33.467 --> 00:04:35.961
+and other organisms in the ocean,
+
+00:04:35.961 --> 00:04:39.948
+will become enhanced marine habitat
+
+00:04:39.948 --> 00:04:41.611
+so it increases biodiversity.
+
+00:04:41.611 --> 00:04:43.611
+And finally, because it's an offshore structure,
+
+00:04:43.611 --> 00:04:46.513
+we can think in terms of how it might contribute
+
+00:04:46.513 --> 00:04:50.267
+to an aquaculture activity offshore.
+
+00:04:50.267 --> 00:04:51.856
+So you're probably thinking, "Gee, this sounds
+
+00:04:51.856 --> 00:04:56.427
+like a good idea. What can we do to try to see if it's real?"
+
+00:04:56.427 --> 00:05:00.242
+Well, I set up laboratories in Santa Cruz
+
+00:05:00.242 --> 00:05:03.404
+at the California Fish and Game facility,
+
+00:05:03.404 --> 00:05:06.453
+and that facility allowed us to have big seawater tanks
+
+00:05:06.453 --> 00:05:08.176
+to test some of these ideas.
+
+00:05:08.176 --> 00:05:10.798
+We also set up experiments in San Francisco
+
+00:05:10.798 --> 00:05:13.629
+at one of the three waste water treatment plants,
+
+00:05:13.629 --> 00:05:16.125
+again a facility to test ideas.
+
+00:05:16.125 --> 00:05:19.429
+And finally, we wanted to see where we could look at
+
+00:05:19.429 --> 00:05:22.133
+what the impact of this structure would be
+
+00:05:22.133 --> 00:05:25.790
+in the marine environment, and we set up a field site
+
+00:05:25.790 --> 00:05:28.253
+at a place called Moss Landing Marine Lab
+
+00:05:28.253 --> 00:05:30.613
+in Monterey Bay, where we worked in a harbor
+
+00:05:30.613 --> 00:05:35.459
+to see what impact this would have on marine organisms.
+
+00:05:35.459 --> 00:05:38.549
+The laboratory that we set up in Santa Cruz was our skunkworks.
+
+00:05:38.549 --> 00:05:41.447
+It was a place where we were growing algae
+
+00:05:41.447 --> 00:05:44.112
+and welding plastic and building tools
+
+00:05:44.112 --> 00:05:45.635
+and making a lot of mistakes,
+
+00:05:45.635 --> 00:05:47.566
+or, as Edison said, we were
+
+00:05:47.566 --> 00:05:51.016
+finding the 10,000 ways that the system wouldn't work.
+
+00:05:51.016 --> 00:05:55.262
+Now, we grew algae in waste water, and we built tools
+
+00:05:55.262 --> 00:05:58.694
+that allowed us to get into the lives of algae
+
+00:05:58.694 --> 00:06:00.416
+so that we could monitor the way they grow,
+
+00:06:00.416 --> 00:06:03.118
+what makes them happy, how do we make sure that
+
+00:06:03.118 --> 00:06:07.020
+we're going to have a culture that will survive and thrive.
+
+00:06:07.020 --> 00:06:10.109
+So the most important feature that we needed to develop were these
+
+00:06:10.109 --> 00:06:12.837
+so-called photobioreactors, or PBRs.
+
+00:06:12.837 --> 00:06:14.180
+These were the structures that would be floating at the
+
+00:06:14.180 --> 00:06:17.605
+surface made out of some inexpensive plastic material
+
+00:06:17.605 --> 00:06:20.262
+that'll allow the algae to grow, and we had built lots and lots
+
+00:06:20.262 --> 00:06:23.391
+of designs, most of which were horrible failures,
+
+00:06:23.391 --> 00:06:25.726
+and when we finally got to a design that worked,
+
+00:06:25.726 --> 00:06:28.013
+at about 30 gallons, we scaled it up
+
+00:06:28.013 --> 00:06:31.629
+to 450 gallons in San Francisco.
+
+00:06:31.629 --> 00:06:33.823
+So let me show you how the system works.
+
+00:06:33.823 --> 00:06:37.535
+We basically take waste water with algae of our choice in it,
+
+00:06:37.535 --> 00:06:40.241
+and we circulate it through this floating structure,
+
+00:06:40.241 --> 00:06:42.973
+this tubular, flexible plastic structure,
+
+00:06:42.973 --> 00:06:44.466
+and it circulates through this thing,
+
+00:06:44.466 --> 00:06:47.178
+and there's sunlight of course, it's at the surface,
+
+00:06:47.178 --> 00:06:49.583
+and the algae grow on the nutrients.
+
+00:06:49.583 --> 00:06:52.005
+But this is a bit like putting your head in a plastic bag.
+
+00:06:52.005 --> 00:06:55.247
+The algae are not going to suffocate because of CO2,
+
+00:06:55.262 --> 00:06:56.101
+as we would.
+
+00:06:56.101 --> 00:06:58.760
+They suffocate because they produce oxygen, and they
+
+00:06:58.760 --> 00:07:00.936
+don't really suffocate, but the oxygen that they produce
+
+00:07:00.936 --> 00:07:04.040
+is problematic, and they use up all the CO2.
+
+00:07:04.040 --> 00:07:06.472
+So the next thing we had to figure out was how we could
+
+00:07:06.472 --> 00:07:09.701
+remove the oxygen, which we did by building this column
+
+00:07:09.701 --> 00:07:11.178
+which circulated some of the water,
+
+00:07:11.178 --> 00:07:14.548
+and put back CO2, which we did by bubbling the system
+
+00:07:14.548 --> 00:07:17.000
+before we recirculated the water.
+
+00:07:17.000 --> 00:07:18.704
+And what you see here is the prototype,
+
+00:07:18.704 --> 00:07:22.502
+which was the first attempt at building this type of column.
+
+00:07:22.502 --> 00:07:24.942
+The larger column that we then installed in San Francisco
+
+00:07:24.942 --> 00:07:26.570
+in the installed system.
+
+00:07:26.570 --> 00:07:29.968
+So the column actually had another very nice feature,
+
+00:07:29.968 --> 00:07:33.085
+and that is the algae settle in the column,
+
+00:07:33.085 --> 00:07:36.659
+and this allowed us to accumulate the algal biomass
+
+00:07:36.659 --> 00:07:39.626
+in a context where we could easily harvest it.
+
+00:07:39.626 --> 00:07:42.401
+So we would remove the algaes that concentrated
+
+00:07:42.401 --> 00:07:44.969
+in the bottom of this column, and then we could
+
+00:07:44.969 --> 00:07:48.792
+harvest that by a procedure where you float the algae
+
+00:07:48.792 --> 00:07:52.688
+to the surface and can skim it off with a net.
+
+00:07:52.688 --> 00:07:56.325
+So we wanted to also investigate what would be the impact
+
+00:07:56.325 --> 00:07:59.256
+of this system in the marine environment,
+
+00:07:59.256 --> 00:08:02.736
+and I mentioned we set up this experiment at a field site
+
+00:08:02.736 --> 00:08:04.976
+in Moss Landing Marine Lab.
+
+00:08:04.976 --> 00:08:07.816
+Well, we found of course that this material became
+
+00:08:07.816 --> 00:08:10.728
+overgrown with algae, and we needed then to develop
+
+00:08:10.728 --> 00:08:13.136
+a cleaning procedure, and we also looked at how
+
+00:08:13.136 --> 00:08:16.073
+seabirds and marine mammals interacted, and in fact you
+
+00:08:16.073 --> 00:08:19.096
+see here a sea otter that found this incredibly interesting,
+
+00:08:19.096 --> 00:08:22.200
+and would periodically work its way across this little
+
+00:08:22.200 --> 00:08:25.088
+floating water bed, and we wanted to hire this guy
+
+00:08:25.088 --> 00:08:27.177
+or train him to be able to clean the surface
+
+00:08:27.177 --> 00:08:29.584
+of these things, but that's for the future.
+
+00:08:29.584 --> 00:08:30.905
+Now really what we were doing,
+
+00:08:30.905 --> 00:08:32.677
+we were working in four areas.
+
+00:08:32.677 --> 00:08:35.560
+Our research covered the biology of the system,
+
+00:08:35.560 --> 00:08:37.728
+which included studying the way algae grew,
+
+00:08:37.728 --> 00:08:41.377
+but also what eats the algae, and what kills the algae.
+
+00:08:41.377 --> 00:08:43.556
+We did engineering to understand what we would need
+
+00:08:43.556 --> 00:08:45.849
+to be able to do to build this structure,
+
+00:08:45.849 --> 00:08:48.552
+not only on the small scale, but how we would build it
+
+00:08:48.552 --> 00:08:51.868
+on this enormous scale that will ultimately be required.
+
+00:08:51.868 --> 00:08:55.068
+I mentioned we looked at birds and marine mammals
+
+00:08:55.068 --> 00:08:57.597
+and looked at basically the environmental impact
+
+00:08:57.597 --> 00:09:00.748
+of the system, and finally we looked at the economics,
+
+00:09:00.748 --> 00:09:02.395
+and what I mean by economics is,
+
+00:09:02.395 --> 00:09:05.500
+what is the energy required to run the system?
+
+00:09:05.500 --> 00:09:06.922
+Do you get more energy out of the system
+
+00:09:06.922 --> 00:09:08.503
+than you have to put into the system
+
+00:09:08.503 --> 00:09:10.516
+to be able to make the system run?
+
+00:09:10.516 --> 00:09:12.262
+And what about operating costs?
+
+00:09:12.262 --> 00:09:14.320
+And what about capital costs?
+
+00:09:14.320 --> 00:09:18.478
+And what about, just, the whole economic structure?
+
+00:09:18.478 --> 00:09:21.196
+So let me tell you that it's not going to be easy,
+
+00:09:21.196 --> 00:09:23.756
+and there's lots more work to do in all four
+
+00:09:23.756 --> 00:09:27.348
+of those areas to be able to really make the system work.
+
+00:09:27.348 --> 00:09:30.268
+But we don't have a lot of time, and I'd like to show you
+
+00:09:30.268 --> 00:09:33.770
+the artist's conception of how this system might look
+
+00:09:33.770 --> 00:09:36.450
+if we find ourselves in a protected bay
+
+00:09:36.450 --> 00:09:39.634
+somewhere in the world, and we have in the background
+
+00:09:39.634 --> 00:09:42.402
+in this image, the waste water treatment plant
+
+00:09:42.402 --> 00:09:45.275
+and a source of flue gas for the CO2,
+
+00:09:45.275 --> 00:09:48.010
+but when you do the economics of this system,
+
+00:09:48.010 --> 00:09:51.082
+you find that in fact it will be difficult to make it work.
+
+00:09:51.082 --> 00:09:55.652
+Unless you look at the system as a way to treat waste water,
+
+00:09:55.652 --> 00:09:59.380
+sequester carbon, and potentially for photovoltaic panels
+
+00:09:59.380 --> 00:10:02.860
+or wave energy or even wind energy,
+
+00:10:02.860 --> 00:10:04.131
+and if you start thinking in terms of
+
+00:10:04.131 --> 00:10:07.172
+integrating all of these different activities,
+
+00:10:07.172 --> 00:10:11.819
+you could also include in such a facility aquaculture.
+
+00:10:11.819 --> 00:10:14.747
+So we would have under this system a shellfish aquaculture
+
+00:10:14.747 --> 00:10:16.841
+where we're growing mussels or scallops.
+
+00:10:16.841 --> 00:10:19.833
+We'd be growing oysters and things
+
+00:10:19.833 --> 00:10:22.671
+that would be producing high value products and food,
+
+00:10:22.671 --> 00:10:25.441
+and this would be a market driver as we build the system
+
+00:10:25.441 --> 00:10:28.755
+to larger and larger scales so that it becomes, ultimately,
+
+00:10:28.755 --> 00:10:34.556
+competitive with the idea of doing it for fuels.
+
+00:10:34.556 --> 00:10:37.253
+So there's always a big question that comes up,
+
+00:10:37.253 --> 00:10:40.597
+because plastic in the ocean has got a really bad reputation
+
+00:10:40.597 --> 00:10:43.586
+right now, and so we've been thinking cradle to cradle.
+
+00:10:43.586 --> 00:10:46.303
+What are we going to do with all this plastic that we're
+
+00:10:46.303 --> 00:10:49.044
+going to need to use in our marine environment?
+
+00:10:49.044 --> 00:10:50.562
+Well, I don't know if you know about this,
+
+00:10:50.562 --> 00:10:53.324
+but in California, there's a huge amount of plastic
+
+00:10:53.324 --> 00:10:56.669
+that's used in fields right now as plastic mulch,
+
+00:10:56.669 --> 00:10:59.893
+and this is plastic that's making these tiny little greenhouses
+
+00:10:59.893 --> 00:11:02.644
+right along the surface of the soil, and this provides
+
+00:11:02.644 --> 00:11:05.902
+warming the soil to increase the growing season,
+
+00:11:05.902 --> 00:11:08.445
+it allows us to control weeds,
+
+00:11:08.445 --> 00:11:12.037
+and, of course, it makes the watering much more efficient.
+
+00:11:12.037 --> 00:11:14.350
+So the OMEGA system will be part
+
+00:11:14.350 --> 00:11:17.429
+of this type of an outcome, and that when we're finished
+
+00:11:17.429 --> 00:11:20.118
+using it in the marine environment, we'll be using it,
+
+00:11:20.118 --> 00:11:22.671
+hopefully, on fields.
+
+00:11:22.671 --> 00:11:23.991
+Where are we going to put this,
+
+00:11:23.991 --> 00:11:26.502
+and what will it look like offshore?
+
+00:11:26.502 --> 00:11:29.493
+Here's an image of what we could do in San Francisco Bay.
+
+00:11:29.493 --> 00:11:32.173
+San Francisco produces 65 million gallons a day
+
+00:11:32.173 --> 00:11:34.933
+of waste water. If we imagine a five-day retention time
+
+00:11:34.933 --> 00:11:37.302
+for this system, we'd need 325 million gallons
+
+00:11:37.302 --> 00:11:41.328
+to accomodate, and that would be about 1,280 acres
+
+00:11:41.328 --> 00:11:44.947
+of these OMEGA modules floating in San Francisco Bay.
+
+00:11:44.947 --> 00:11:46.741
+Well, that's less than one percent
+
+00:11:46.741 --> 00:11:48.492
+of the surface area of the bay.
+
+00:11:48.492 --> 00:11:52.234
+It would produce, at 2,000 gallons per acre per year,
+
+00:11:52.234 --> 00:11:55.230
+it would produce over 2 million gallons of fuel,
+
+00:11:55.230 --> 00:11:57.430
+which is about 20 percent of the biodiesel,
+
+00:11:57.430 --> 00:12:00.438
+or of the diesel that would be required in San Francisco,
+
+00:12:00.438 --> 00:12:03.628
+and that's without doing anything about efficiency.
+
+00:12:03.628 --> 00:12:06.598
+Where else could we potentially put this system?
+
+00:12:06.598 --> 00:12:09.498
+There's lots of possibilities.
+
+00:12:09.498 --> 00:12:11.550
+There's, of course, San Francisco Bay, as I mentioned.
+
+00:12:11.550 --> 00:12:13.366
+San Diego Bay is another example,
+
+00:12:13.366 --> 00:12:16.279
+Mobile Bay or Chesapeake Bay, but the reality is,
+
+00:12:16.279 --> 00:12:18.371
+as sea level rises, there's going to be lots and lots
+
+00:12:18.371 --> 00:12:22.278
+of new opportunities to consider. (Laughter)
+
+00:12:22.278 --> 00:12:25.846
+So what I'm telling you about is a system
+
+00:12:25.846 --> 00:12:29.478
+of integrated activities.
+
+00:12:29.478 --> 00:12:32.088
+Biofuels production is integrated with alternative energy
+
+00:12:32.088 --> 00:12:34.890
+is integrated with aquaculture.
+
+00:12:34.890 --> 00:12:38.814
+I set out to find a pathway
+
+00:12:38.814 --> 00:12:44.460
+to innovative production of sustainable biofuels,
+
+00:12:44.460 --> 00:12:47.708
+and en route I discovered that what's really required
+
+00:12:47.708 --> 00:12:54.985
+for sustainability is integration more than innovation.
+
+00:12:54.985 --> 00:12:58.415
+Long term, I have great faith
+
+00:12:58.415 --> 00:13:03.560
+in our collective and connected ingenuity.
+
+00:13:03.560 --> 00:13:07.876
+I think there is almost no limit to what we can accomplish
+
+00:13:07.876 --> 00:13:10.078
+if we are radically open
+
+00:13:10.078 --> 00:13:13.808
+and we don't care who gets the credit.
+
+00:13:13.808 --> 00:13:18.024
+Sustainable solutions for our future problems
+
+00:13:18.024 --> 00:13:20.424
+are going to be diverse
+
+00:13:20.424 --> 00:13:22.889
+and are going to be many.
+
+00:13:22.889 --> 00:13:25.680
+I think we need to consider everything,
+
+00:13:25.680 --> 00:13:28.712
+everything from alpha to OMEGA.
+
+00:13:28.712 --> 00:13:31.592
+Thank you. (Applause)
+
+00:13:31.592 --> 00:13:36.942
+(Applause)
+
+00:13:37.347 --> 00:13:40.559
+Chris Anderson: Just a quick question for you, Jonathan.
+
+00:13:40.559 --> 00:13:42.767
+Can this project continue to move forward within
+
+00:13:42.767 --> 00:13:46.732
+NASA or do you need some very ambitious
+
+00:13:46.732 --> 00:13:50.808
+green energy fund to come and take it by the throat?
+
+00:13:50.808 --> 00:13:52.111
+Jonathan Trent: So it's really gotten to a stage now
+
+00:13:52.111 --> 00:13:55.125
+in NASA where they would like to spin it out into something
+
+00:13:55.125 --> 00:13:57.516
+which would go offshore, and there are a lot of issues
+
+00:13:57.516 --> 00:13:59.743
+with doing it in the United States because of limited
+
+00:13:59.743 --> 00:14:02.237
+permitting issues and the time required to get permits
+
+00:14:02.237 --> 00:14:03.751
+to do things offshore.
+
+00:14:03.751 --> 00:14:06.549
+It really requires, at this point, people on the outside,
+
+00:14:06.549 --> 00:14:08.853
+and we're being radically open with this technology
+
+00:14:08.853 --> 00:14:10.565
+in which we're going to launch it out there
+
+00:14:10.565 --> 00:14:12.841
+for anybody and everybody who's interested
+
+00:14:12.841 --> 00:14:14.681
+to take it on and try to make it real.
+
+00:14:14.681 --> 00:14:17.158
+CA: So that's interesting. You're not patenting it.
+
+00:14:17.158 --> 00:14:18.833
+You're publishing it.
+
+00:14:18.833 --> 00:14:19.596
+JT: Absolutely.
+
+00:14:19.596 --> 00:14:21.487
+CA: All right. Thank you so much.
+
+00:14:21.487 --> 00:14:25.062
+JT: Thank you. (Applause)
+

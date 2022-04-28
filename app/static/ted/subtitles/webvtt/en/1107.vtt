@@ -1,0 +1,731 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+The idea behind the Stuxnet computer worm
+
+00:00:03.000 --> 00:00:05.000
+is actually quite simple.
+
+00:00:05.000 --> 00:00:08.000
+We don't want Iran to get the bomb.
+
+00:00:08.000 --> 00:00:11.000
+Their major asset for developing nuclear weapons
+
+00:00:11.000 --> 00:00:15.000
+is the Natanz uranium enrichment facility.
+
+00:00:15.000 --> 00:00:17.000
+The gray boxes that you see,
+
+00:00:17.000 --> 00:00:20.000
+these are real-time control systems.
+
+00:00:20.000 --> 00:00:23.000
+Now if we manage to compromise these systems
+
+00:00:23.000 --> 00:00:26.000
+that control drive speeds and valves,
+
+00:00:26.000 --> 00:00:29.000
+we can actually cause a lot of problems
+
+00:00:29.000 --> 00:00:31.000
+with the centrifuge.
+
+00:00:31.000 --> 00:00:33.000
+The gray boxes don't run Windows software;
+
+00:00:33.000 --> 00:00:36.000
+they are a completely different technology.
+
+00:00:36.000 --> 00:00:38.000
+But if we manage
+
+00:00:38.000 --> 00:00:41.000
+to place a good Windows virus
+
+00:00:41.000 --> 00:00:43.000
+on a notebook
+
+00:00:43.000 --> 00:00:45.000
+that is used by a maintenance engineer
+
+00:00:45.000 --> 00:00:48.000
+to configure this gray box,
+
+00:00:48.000 --> 00:00:50.000
+then we are in business.
+
+00:00:50.000 --> 00:00:53.000
+And this is the plot behind Stuxnet.
+
+00:00:53.000 --> 00:00:58.000
+So we start with a Windows dropper.
+
+00:00:58.000 --> 00:01:01.000
+The payload goes onto the gray box,
+
+00:01:01.000 --> 00:01:03.000
+damages the centrifuge,
+
+00:01:03.000 --> 00:01:05.000
+and the Iranian nuclear program is delayed --
+
+00:01:05.000 --> 00:01:07.000
+mission accomplished.
+
+00:01:07.000 --> 00:01:09.000
+That's easy, huh?
+
+00:01:09.000 --> 00:01:12.000
+I want to tell you how we found that out.
+
+00:01:12.000 --> 00:01:15.000
+When we started our research on Stuxnet six months ago,
+
+00:01:15.000 --> 00:01:18.000
+it was completely unknown what the purpose of this thing was.
+
+00:01:18.000 --> 00:01:20.000
+The only thing that was known
+
+00:01:20.000 --> 00:01:23.000
+is it's very, very complex on the Windows part, the dropper part,
+
+00:01:23.000 --> 00:01:26.000
+used multiple zero-day vulnerabilities.
+
+00:01:26.000 --> 00:01:29.000
+And it seemed to want to do something
+
+00:01:29.000 --> 00:01:31.000
+with these gray boxes, these real-time control systems.
+
+00:01:31.000 --> 00:01:33.000
+So that got our attention,
+
+00:01:33.000 --> 00:01:35.000
+and we started a lab project
+
+00:01:35.000 --> 00:01:39.000
+where we infected our environment with Stuxnet
+
+00:01:39.000 --> 00:01:41.000
+and checked this thing out.
+
+00:01:41.000 --> 00:01:44.000
+And then some very funny things happened.
+
+00:01:44.000 --> 00:01:47.000
+Stuxnet behaved like a lab rat
+
+00:01:47.000 --> 00:01:50.000
+that didn't like our cheese --
+
+00:01:50.000 --> 00:01:52.000
+sniffed, but didn't want to eat.
+
+00:01:52.000 --> 00:01:54.000
+Didn't make sense to me.
+
+00:01:54.000 --> 00:01:57.000
+And after we experimented with different flavors of cheese,
+
+00:01:57.000 --> 00:02:01.000
+I realized, well, this is a directed attack.
+
+00:02:01.000 --> 00:02:03.000
+It's completely directed.
+
+00:02:03.000 --> 00:02:05.000
+The dropper is prowling actively
+
+00:02:05.000 --> 00:02:07.000
+on the gray box
+
+00:02:07.000 --> 00:02:10.000
+if a specific configuration is found,
+
+00:02:10.000 --> 00:02:14.000
+and even if the actual program code that it's trying to infect
+
+00:02:14.000 --> 00:02:16.000
+is actually running on that target.
+
+00:02:16.000 --> 00:02:19.000
+And if not, Stuxnet does nothing.
+
+00:02:19.000 --> 00:02:21.000
+So that really got my attention,
+
+00:02:21.000 --> 00:02:23.000
+and we started to work on this
+
+00:02:23.000 --> 00:02:25.000
+nearly around the clock,
+
+00:02:25.000 --> 00:02:28.000
+because I thought, "Well, we don't know what the target is.
+
+00:02:28.000 --> 00:02:30.000
+It could be, let's say for example,
+
+00:02:30.000 --> 00:02:32.000
+a U.S. power plant,
+
+00:02:32.000 --> 00:02:34.000
+or a chemical plant in Germany.
+
+00:02:34.000 --> 00:02:37.000
+So we better find out what the target is soon."
+
+00:02:37.000 --> 00:02:39.000
+So we extracted and decompiled
+
+00:02:39.000 --> 00:02:41.000
+the attack code,
+
+00:02:41.000 --> 00:02:44.000
+and we discovered that it's structured in two digital bombs --
+
+00:02:44.000 --> 00:02:47.000
+a smaller one and a bigger one.
+
+00:02:47.000 --> 00:02:51.000
+And we also saw that they are very professionally engineered
+
+00:02:51.000 --> 00:02:55.000
+by people who obviously had all insider information.
+
+00:02:55.000 --> 00:02:57.000
+They knew all the bits and bites
+
+00:02:57.000 --> 00:02:59.000
+that they had to attack.
+
+00:02:59.000 --> 00:03:02.000
+They probably even know the shoe size of the operator.
+
+00:03:02.000 --> 00:03:04.000
+So they know everything.
+
+00:03:04.000 --> 00:03:07.000
+And if you have heard that the dropper of Stuxnet
+
+00:03:07.000 --> 00:03:09.000
+is complex and high-tech,
+
+00:03:09.000 --> 00:03:11.000
+let me tell you this:
+
+00:03:11.000 --> 00:03:13.000
+the payload is rocket science.
+
+00:03:13.000 --> 00:03:15.000
+It's way above everything
+
+00:03:15.000 --> 00:03:18.000
+that we have ever seen before.
+
+00:03:18.000 --> 00:03:21.000
+Here you see a sample of this actual attack code.
+
+00:03:21.000 --> 00:03:23.000
+We are talking about --
+
+00:03:23.000 --> 00:03:26.000
+around about 15,000 lines of code.
+
+00:03:26.000 --> 00:03:29.000
+Looks pretty much like old-style assembly language.
+
+00:03:29.000 --> 00:03:31.000
+And I want to tell you how we were able
+
+00:03:31.000 --> 00:03:33.000
+to make sense out of this code.
+
+00:03:33.000 --> 00:03:36.000
+So what we were looking for is, first of all, system function calls,
+
+00:03:36.000 --> 00:03:38.000
+because we know what they do.
+
+00:03:38.000 --> 00:03:42.000
+And then we were looking for timers and data structures
+
+00:03:42.000 --> 00:03:44.000
+and trying to relate them to the real world --
+
+00:03:44.000 --> 00:03:46.000
+to potential real world targets.
+
+00:03:46.000 --> 00:03:49.000
+So we do need target theories
+
+00:03:49.000 --> 00:03:52.000
+that we can prove or disprove.
+
+00:03:52.000 --> 00:03:54.000
+In order to get target theories,
+
+00:03:54.000 --> 00:03:56.000
+we remember
+
+00:03:56.000 --> 00:03:58.000
+that it's definitely hardcore sabotage,
+
+00:03:58.000 --> 00:04:00.000
+it must be a high-value target
+
+00:04:00.000 --> 00:04:03.000
+and it is most likely located in Iran,
+
+00:04:03.000 --> 00:04:07.000
+because that's where most of the infections had been reported.
+
+00:04:07.000 --> 00:04:10.000
+Now you don't find several thousand targets in that area.
+
+00:04:10.000 --> 00:04:12.000
+It basically boils down
+
+00:04:12.000 --> 00:04:14.000
+to the Bushehr nuclear power plant
+
+00:04:14.000 --> 00:04:16.000
+and to the Natanz fuel enrichment plant.
+
+00:04:16.000 --> 00:04:18.000
+So I told my assistant,
+
+00:04:18.000 --> 00:04:21.000
+"Get me a list of all centrifuge and power plant experts from our client base."
+
+00:04:21.000 --> 00:04:23.000
+And I phoned them up and picked their brain
+
+00:04:23.000 --> 00:04:25.000
+in an effort to match their expertise
+
+00:04:25.000 --> 00:04:28.000
+with what we found in code and data.
+
+00:04:28.000 --> 00:04:30.000
+And that worked pretty well.
+
+00:04:30.000 --> 00:04:32.000
+So we were able to associate
+
+00:04:32.000 --> 00:04:34.000
+the small digital warhead
+
+00:04:34.000 --> 00:04:36.000
+with the rotor control.
+
+00:04:36.000 --> 00:04:39.000
+The rotor is that moving part within the centrifuge,
+
+00:04:39.000 --> 00:04:41.000
+that black object that you see.
+
+00:04:41.000 --> 00:04:44.000
+And if you manipulate the speed of this rotor,
+
+00:04:44.000 --> 00:04:46.000
+you are actually able to crack the rotor
+
+00:04:46.000 --> 00:04:50.000
+and eventually even have the centrifuge explode.
+
+00:04:50.000 --> 00:04:52.000
+What we also saw
+
+00:04:52.000 --> 00:04:54.000
+is that the goal of the attack
+
+00:04:54.000 --> 00:04:57.000
+was really to do it slowly and creepy --
+
+00:04:57.000 --> 00:04:59.000
+obviously in an effort
+
+00:04:59.000 --> 00:05:02.000
+to drive maintenance engineers crazy,
+
+00:05:02.000 --> 00:05:05.000
+that they would not be able to figure this out quickly.
+
+00:05:05.000 --> 00:05:08.000
+The big digital warhead -- we had a shot at this
+
+00:05:08.000 --> 00:05:10.000
+by looking very closely
+
+00:05:10.000 --> 00:05:12.000
+at data and data structures.
+
+00:05:12.000 --> 00:05:14.000
+So for example, the number 164
+
+00:05:14.000 --> 00:05:16.000
+really stands out in that code;
+
+00:05:16.000 --> 00:05:18.000
+you can't overlook it.
+
+00:05:18.000 --> 00:05:20.000
+I started to research scientific literature
+
+00:05:20.000 --> 00:05:22.000
+on how these centrifuges
+
+00:05:22.000 --> 00:05:24.000
+are actually built in Natanz
+
+00:05:24.000 --> 00:05:26.000
+and found they are structured
+
+00:05:26.000 --> 00:05:28.000
+in what is called a cascade,
+
+00:05:28.000 --> 00:05:32.000
+and each cascade holds 164 centrifuges.
+
+00:05:32.000 --> 00:05:34.000
+So that made sense, that was a match.
+
+00:05:34.000 --> 00:05:36.000
+And it even got better.
+
+00:05:36.000 --> 00:05:38.000
+These centrifuges in Iran
+
+00:05:38.000 --> 00:05:42.000
+are subdivided into 15, what is called, stages.
+
+00:05:42.000 --> 00:05:44.000
+And guess what we found in the attack code?
+
+00:05:44.000 --> 00:05:46.000
+An almost identical structure.
+
+00:05:46.000 --> 00:05:49.000
+So again, that was a real good match.
+
+00:05:49.000 --> 00:05:52.000
+And this gave us very high confidence for what we were looking at.
+
+00:05:52.000 --> 00:05:55.000
+Now don't get me wrong here, it didn't go like this.
+
+00:05:55.000 --> 00:05:58.000
+These results have been obtained
+
+00:05:58.000 --> 00:06:01.000
+over several weeks of really hard labor.
+
+00:06:01.000 --> 00:06:04.000
+And we often went into just a dead end
+
+00:06:04.000 --> 00:06:06.000
+and had to recover.
+
+00:06:06.000 --> 00:06:08.000
+Anyway, so we figured out
+
+00:06:08.000 --> 00:06:10.000
+that both digital warheads
+
+00:06:10.000 --> 00:06:12.000
+were actually aiming at one and the same target,
+
+00:06:12.000 --> 00:06:14.000
+but from different angles.
+
+00:06:14.000 --> 00:06:17.000
+The small warhead is taking one cascade,
+
+00:06:17.000 --> 00:06:20.000
+and spinning up the rotors and slowing them down,
+
+00:06:20.000 --> 00:06:22.000
+and the big warhead
+
+00:06:22.000 --> 00:06:24.000
+is talking to six cascades
+
+00:06:24.000 --> 00:06:26.000
+and manipulating valves.
+
+00:06:26.000 --> 00:06:28.000
+So in all, we are very confident
+
+00:06:28.000 --> 00:06:30.000
+that we have actually determined what the target is.
+
+00:06:30.000 --> 00:06:33.000
+It is Natanz, and it is only Natanz.
+
+00:06:33.000 --> 00:06:35.000
+So we don't have to worry
+
+00:06:35.000 --> 00:06:37.000
+that other targets
+
+00:06:37.000 --> 00:06:39.000
+might be hit by Stuxnet.
+
+00:06:39.000 --> 00:06:42.000
+Here's some very cool stuff that we saw --
+
+00:06:42.000 --> 00:06:44.000
+really knocked my socks off.
+
+00:06:44.000 --> 00:06:46.000
+Down there is the gray box,
+
+00:06:46.000 --> 00:06:49.000
+and on the top you see the centrifuges.
+
+00:06:49.000 --> 00:06:51.000
+Now what this thing does
+
+00:06:51.000 --> 00:06:54.000
+is it intercepts the input values from sensors --
+
+00:06:54.000 --> 00:06:56.000
+so for example, from pressure sensors
+
+00:06:56.000 --> 00:06:58.000
+and vibration sensors --
+
+00:06:58.000 --> 00:07:01.000
+and it provides legitimate program code,
+
+00:07:01.000 --> 00:07:03.000
+which is still running during the attack,
+
+00:07:03.000 --> 00:07:05.000
+with fake input data.
+
+00:07:05.000 --> 00:07:07.000
+And as a matter of fact, this fake input data
+
+00:07:07.000 --> 00:07:10.000
+is actually prerecorded by Stuxnet.
+
+00:07:10.000 --> 00:07:12.000
+So it's just like from the Hollywood movies
+
+00:07:12.000 --> 00:07:14.000
+where during the heist,
+
+00:07:14.000 --> 00:07:17.000
+the observation camera is fed with prerecorded video.
+
+00:07:17.000 --> 00:07:19.000
+That's cool, huh?
+
+00:07:20.000 --> 00:07:22.000
+The idea here is obviously
+
+00:07:22.000 --> 00:07:25.000
+not only to fool the operators in the control room.
+
+00:07:25.000 --> 00:07:29.000
+It actually is much more dangerous and aggressive.
+
+00:07:29.000 --> 00:07:31.000
+The idea
+
+00:07:31.000 --> 00:07:34.000
+is to circumvent a digital safety system.
+
+00:07:35.000 --> 00:07:37.000
+We need digital safety systems
+
+00:07:37.000 --> 00:07:40.000
+where a human operator could not act quick enough.
+
+00:07:40.000 --> 00:07:42.000
+So for example, in a power plant,
+
+00:07:42.000 --> 00:07:45.000
+when your big steam turbine gets too over speed,
+
+00:07:45.000 --> 00:07:48.000
+you must open relief valves within a millisecond.
+
+00:07:48.000 --> 00:07:51.000
+Obviously, this cannot be done by a human operator.
+
+00:07:51.000 --> 00:07:53.000
+So this is where we need digital safety systems.
+
+00:07:53.000 --> 00:07:55.000
+And when they are compromised,
+
+00:07:55.000 --> 00:07:58.000
+then real bad things can happen.
+
+00:07:58.000 --> 00:08:00.000
+Your plant can blow up.
+
+00:08:00.000 --> 00:08:03.000
+And neither your operators nor your safety system will notice it.
+
+00:08:03.000 --> 00:08:05.000
+That's scary.
+
+00:08:05.000 --> 00:08:07.000
+But it gets worse.
+
+00:08:07.000 --> 00:08:10.000
+And this is very important, what I'm going to say.
+
+00:08:10.000 --> 00:08:12.000
+Think about this:
+
+00:08:12.000 --> 00:08:15.000
+this attack is generic.
+
+00:08:15.000 --> 00:08:19.000
+It doesn't have anything to do, in specifics,
+
+00:08:19.000 --> 00:08:21.000
+with centrifuges,
+
+00:08:21.000 --> 00:08:24.000
+with uranium enrichment.
+
+00:08:24.000 --> 00:08:27.000
+So it would work as well, for example,
+
+00:08:27.000 --> 00:08:29.000
+in a power plant
+
+00:08:29.000 --> 00:08:32.000
+or in an automobile factory.
+
+00:08:32.000 --> 00:08:34.000
+It is generic.
+
+00:08:34.000 --> 00:08:36.000
+And you don't have -- as an attacker --
+
+00:08:36.000 --> 00:08:39.000
+you don't have to deliver this payload
+
+00:08:39.000 --> 00:08:41.000
+by a USB stick,
+
+00:08:41.000 --> 00:08:43.000
+as we saw it in the case of Stuxnet.
+
+00:08:43.000 --> 00:08:46.000
+You could also use conventional worm technology for spreading.
+
+00:08:46.000 --> 00:08:49.000
+Just spread it as wide as possible.
+
+00:08:49.000 --> 00:08:51.000
+And if you do that,
+
+00:08:51.000 --> 00:08:53.000
+what you end up with
+
+00:08:53.000 --> 00:08:58.000
+is a cyber weapon of mass destruction.
+
+00:08:59.000 --> 00:09:01.000
+That's the consequence
+
+00:09:01.000 --> 00:09:04.000
+that we have to face.
+
+00:09:04.000 --> 00:09:07.000
+So unfortunately,
+
+00:09:07.000 --> 00:09:10.000
+the biggest number of targets for such attacks
+
+00:09:10.000 --> 00:09:12.000
+are not in the Middle East.
+
+00:09:12.000 --> 00:09:15.000
+They're in the United States and Europe and in Japan.
+
+00:09:15.000 --> 00:09:17.000
+So all of the green areas,
+
+00:09:17.000 --> 00:09:20.000
+these are your target-rich environments.
+
+00:09:20.000 --> 00:09:23.000
+We have to face the consequences,
+
+00:09:23.000 --> 00:09:26.000
+and we better start to prepare right now.
+
+00:09:26.000 --> 00:09:28.000
+Thanks.
+
+00:09:28.000 --> 00:09:34.000
+(Applause)
+
+00:09:34.000 --> 00:09:36.000
+Chris Anderson: I've got a question.
+
+00:09:38.000 --> 00:09:40.000
+Ralph, it's been quite widely reported
+
+00:09:40.000 --> 00:09:42.000
+that people assume that Mossad
+
+00:09:42.000 --> 00:09:44.000
+is the main entity behind this.
+
+00:09:44.000 --> 00:09:47.000
+Is that your opinion?
+
+00:09:47.000 --> 00:09:49.000
+Ralph Langner: Okay, you really want to hear that?
+
+00:09:49.000 --> 00:09:51.000
+Yeah. Okay.
+
+00:09:51.000 --> 00:09:54.000
+My opinion is that the Mossad is involved,
+
+00:09:54.000 --> 00:09:57.000
+but that the leading force is not Israel.
+
+00:09:57.000 --> 00:09:59.000
+So the leading force behind that
+
+00:09:59.000 --> 00:10:02.000
+is the cyber superpower.
+
+00:10:02.000 --> 00:10:04.000
+There is only one,
+
+00:10:04.000 --> 00:10:06.000
+and that's the United States --
+
+00:10:06.000 --> 00:10:08.000
+fortunately, fortunately.
+
+00:10:08.000 --> 00:10:10.000
+Because otherwise,
+
+00:10:10.000 --> 00:10:13.000
+our problems would even be bigger.
+
+00:10:13.000 --> 00:10:17.000
+CA: Thank you for scaring the living daylights out of us. Thank you, Ralph.
+
+00:10:17.000 --> 00:10:19.000
+(Applause)
+

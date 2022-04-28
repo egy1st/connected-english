@@ -1,0 +1,1019 @@
+WEBVTT
+
+00:00:00.641 --> 00:00:02.995
+I would like to tell you a story
+
+00:00:02.995 --> 00:00:06.171
+connecting the notorious privacy incident
+
+00:00:06.171 --> 00:00:08.940
+involving Adam and Eve,
+
+00:00:08.940 --> 00:00:12.386
+and the remarkable shift in the boundaries
+
+00:00:12.386 --> 00:00:15.072
+between public and private which has occurred
+
+00:00:15.072 --> 00:00:16.842
+in the past 10 years.
+
+00:00:16.842 --> 00:00:18.140
+You know the incident.
+
+00:00:18.140 --> 00:00:21.470
+Adam and Eve one day in the Garden of Eden
+
+00:00:21.470 --> 00:00:23.313
+realize they are naked.
+
+00:00:23.313 --> 00:00:24.813
+They freak out.
+
+00:00:24.813 --> 00:00:27.570
+And the rest is history.
+
+00:00:27.570 --> 00:00:29.758
+Nowadays, Adam and Eve
+
+00:00:29.758 --> 00:00:32.119
+would probably act differently.
+
+00:00:32.119 --> 00:00:34.387
+[@Adam Last nite was a blast! loved dat apple LOL]
+
+00:00:34.387 --> 00:00:36.260
+[@Eve yep.. babe, know what happened to my pants tho?]
+
+00:00:36.260 --> 00:00:38.896
+We do reveal so much more information
+
+00:00:38.896 --> 00:00:42.230
+about ourselves online than ever before,
+
+00:00:42.230 --> 00:00:43.934
+and so much information about us
+
+00:00:43.934 --> 00:00:46.158
+is being collected by organizations.
+
+00:00:46.158 --> 00:00:49.440
+Now there is much to gain and benefit
+
+00:00:49.440 --> 00:00:51.886
+from this massive analysis of personal information,
+
+00:00:51.886 --> 00:00:53.832
+or big data,
+
+00:00:53.832 --> 00:00:56.470
+but there are also complex tradeoffs that come
+
+00:00:56.470 --> 00:00:59.568
+from giving away our privacy.
+
+00:00:59.568 --> 00:01:03.591
+And my story is about these tradeoffs.
+
+00:01:03.591 --> 00:01:06.175
+We start with an observation which, in my mind,
+
+00:01:06.175 --> 00:01:09.502
+has become clearer and clearer in the past few years,
+
+00:01:09.502 --> 00:01:11.599
+that any personal information
+
+00:01:11.599 --> 00:01:13.884
+can become sensitive information.
+
+00:01:13.884 --> 00:01:18.009
+Back in the year 2000, about 100 billion photos
+
+00:01:18.009 --> 00:01:19.921
+were shot worldwide,
+
+00:01:19.921 --> 00:01:22.986
+but only a minuscule proportion of them
+
+00:01:22.986 --> 00:01:24.869
+were actually uploaded online.
+
+00:01:24.869 --> 00:01:28.230
+In 2010, only on Facebook, in a single month,
+
+00:01:28.230 --> 00:01:31.500
+2.5 billion photos were uploaded,
+
+00:01:31.500 --> 00:01:33.382
+most of them identified.
+
+00:01:33.382 --> 00:01:35.262
+In the same span of time,
+
+00:01:35.262 --> 00:01:40.132
+computers' ability to recognize people in photos
+
+00:01:40.132 --> 00:01:43.740
+improved by three orders of magnitude.
+
+00:01:43.740 --> 00:01:45.622
+What happens when you combine
+
+00:01:45.622 --> 00:01:47.123
+these technologies together:
+
+00:01:47.123 --> 00:01:49.781
+increasing availability of facial data;
+
+00:01:49.781 --> 00:01:53.429
+improving facial recognizing ability by computers;
+
+00:01:53.429 --> 00:01:55.611
+but also cloud computing,
+
+00:01:55.611 --> 00:01:57.499
+which gives anyone in this theater
+
+00:01:57.499 --> 00:01:59.059
+the kind of computational power
+
+00:01:59.059 --> 00:02:00.945
+which a few years ago was only the domain
+
+00:02:00.945 --> 00:02:02.727
+of three-letter agencies;
+
+00:02:02.727 --> 00:02:04.105
+and ubiquitous computing,
+
+00:02:04.105 --> 00:02:06.997
+which allows my phone, which is not a supercomputer,
+
+00:02:06.997 --> 00:02:08.668
+to connect to the Internet
+
+00:02:08.668 --> 00:02:11.002
+and do there hundreds of thousands
+
+00:02:11.002 --> 00:02:13.641
+of face metrics in a few seconds?
+
+00:02:13.641 --> 00:02:16.269
+Well, we conjecture that the result
+
+00:02:16.269 --> 00:02:18.333
+of this combination of technologies
+
+00:02:18.333 --> 00:02:21.221
+will be a radical change in our very notions
+
+00:02:21.221 --> 00:02:23.478
+of privacy and anonymity.
+
+00:02:23.478 --> 00:02:25.471
+To test that, we did an experiment
+
+00:02:25.471 --> 00:02:27.592
+on Carnegie Mellon University campus.
+
+00:02:27.592 --> 00:02:29.691
+We asked students who were walking by
+
+00:02:29.691 --> 00:02:31.470
+to participate in a study,
+
+00:02:31.470 --> 00:02:34.032
+and we took a shot with a webcam,
+
+00:02:34.032 --> 00:02:36.814
+and we asked them to fill out a survey on a laptop.
+
+00:02:36.814 --> 00:02:38.793
+While they were filling out the survey,
+
+00:02:38.793 --> 00:02:41.590
+we uploaded their shot to a cloud-computing cluster,
+
+00:02:41.590 --> 00:02:43.317
+and we started using a facial recognizer
+
+00:02:43.317 --> 00:02:45.722
+to match that shot to a database
+
+00:02:45.722 --> 00:02:48.115
+of some hundreds of thousands of images
+
+00:02:48.115 --> 00:02:51.711
+which we had downloaded from Facebook profiles.
+
+00:02:51.711 --> 00:02:54.970
+By the time the subject reached the last page
+
+00:02:54.970 --> 00:02:58.317
+on the survey, the page had been dynamically updated
+
+00:02:58.317 --> 00:03:00.630
+with the 10 best matching photos
+
+00:03:00.630 --> 00:03:02.915
+which the recognizer had found,
+
+00:03:02.915 --> 00:03:04.653
+and we asked the subjects to indicate
+
+00:03:04.653 --> 00:03:08.773
+whether he or she found themselves in the photo.
+
+00:03:08.773 --> 00:03:12.472
+Do you see the subject?
+
+00:03:12.472 --> 00:03:15.317
+Well, the computer did, and in fact did so
+
+00:03:15.317 --> 00:03:17.466
+for one out of three subjects.
+
+00:03:17.466 --> 00:03:20.650
+So essentially, we can start from an anonymous face,
+
+00:03:20.650 --> 00:03:24.134
+offline or online, and we can use facial recognition
+
+00:03:24.134 --> 00:03:26.494
+to give a name to that anonymous face
+
+00:03:26.494 --> 00:03:28.602
+thanks to social media data.
+
+00:03:28.602 --> 00:03:30.474
+But a few years back, we did something else.
+
+00:03:30.474 --> 00:03:32.297
+We started from social media data,
+
+00:03:32.297 --> 00:03:35.348
+we combined it statistically with data
+
+00:03:35.348 --> 00:03:37.450
+from U.S. government social security,
+
+00:03:37.450 --> 00:03:40.774
+and we ended up predicting social security numbers,
+
+00:03:40.774 --> 00:03:42.286
+which in the United States
+
+00:03:42.286 --> 00:03:44.326
+are extremely sensitive information.
+
+00:03:44.326 --> 00:03:46.419
+Do you see where I'm going with this?
+
+00:03:46.419 --> 00:03:49.341
+So if you combine the two studies together,
+
+00:03:49.341 --> 00:03:50.853
+then the question becomes,
+
+00:03:50.853 --> 00:03:53.573
+can you start from a face and,
+
+00:03:53.573 --> 00:03:55.884
+using facial recognition, find a name
+
+00:03:55.884 --> 00:03:58.553
+and publicly available information
+
+00:03:58.553 --> 00:04:00.485
+about that name and that person,
+
+00:04:00.485 --> 00:04:02.733
+and from that publicly available information
+
+00:04:02.733 --> 00:04:04.775
+infer non-publicly available information,
+
+00:04:04.775 --> 00:04:06.381
+much more sensitive ones
+
+00:04:06.381 --> 00:04:07.873
+which you link back to the face?
+
+00:04:07.873 --> 00:04:09.789
+And the answer is, yes, we can, and we did.
+
+00:04:09.789 --> 00:04:12.357
+Of course, the accuracy keeps getting worse.
+
+00:04:12.357 --> 00:04:13.301
+[27% of subjects' first 5 SSN digits identified (with 4 attempts)]
+
+00:04:13.301 --> 00:04:17.128
+But in fact, we even decided to develop an iPhone app
+
+00:04:17.128 --> 00:04:19.843
+which uses the phone's internal camera
+
+00:04:19.843 --> 00:04:21.443
+to take a shot of a subject
+
+00:04:21.443 --> 00:04:22.930
+and then upload it to a cloud
+
+00:04:22.930 --> 00:04:25.592
+and then do what I just described to you in real time:
+
+00:04:25.592 --> 00:04:27.680
+looking for a match, finding public information,
+
+00:04:27.680 --> 00:04:29.410
+trying to infer sensitive information,
+
+00:04:29.410 --> 00:04:32.001
+and then sending back to the phone
+
+00:04:32.001 --> 00:04:35.610
+so that it is overlaid on the face of the subject,
+
+00:04:35.610 --> 00:04:37.511
+an example of augmented reality,
+
+00:04:37.511 --> 00:04:39.962
+probably a creepy example of augmented reality.
+
+00:04:39.962 --> 00:04:43.301
+In fact, we didn't develop the app to make it available,
+
+00:04:43.301 --> 00:04:45.223
+just as a proof of concept.
+
+00:04:45.223 --> 00:04:47.536
+In fact, take these technologies
+
+00:04:47.536 --> 00:04:49.373
+and push them to their logical extreme.
+
+00:04:49.373 --> 00:04:52.092
+Imagine a future in which strangers around you
+
+00:04:52.092 --> 00:04:54.403
+will look at you through their Google Glasses
+
+00:04:54.403 --> 00:04:56.710
+or, one day, their contact lenses,
+
+00:04:56.710 --> 00:05:00.730
+and use seven or eight data points about you
+
+00:05:00.730 --> 00:05:03.312
+to infer anything else
+
+00:05:03.312 --> 00:05:05.915
+which may be known about you.
+
+00:05:05.915 --> 00:05:10.709
+What will this future without secrets look like?
+
+00:05:10.709 --> 00:05:12.673
+And should we care?
+
+00:05:12.673 --> 00:05:14.564
+We may like to believe
+
+00:05:14.564 --> 00:05:17.604
+that the future with so much wealth of data
+
+00:05:17.604 --> 00:05:20.118
+would be a future with no more biases,
+
+00:05:20.118 --> 00:05:23.701
+but in fact, having so much information
+
+00:05:23.701 --> 00:05:25.892
+doesn't mean that we will make decisions
+
+00:05:25.892 --> 00:05:27.598
+which are more objective.
+
+00:05:27.598 --> 00:05:30.158
+In another experiment, we presented to our subjects
+
+00:05:30.158 --> 00:05:32.404
+information about a potential job candidate.
+
+00:05:32.404 --> 00:05:35.582
+We included in this information some references
+
+00:05:35.582 --> 00:05:38.228
+to some funny, absolutely legal,
+
+00:05:38.228 --> 00:05:40.693
+but perhaps slightly embarrassing information
+
+00:05:40.693 --> 00:05:42.713
+that the subject had posted online.
+
+00:05:42.713 --> 00:05:45.079
+Now interestingly, among our subjects,
+
+00:05:45.079 --> 00:05:48.162
+some had posted comparable information,
+
+00:05:48.162 --> 00:05:50.524
+and some had not.
+
+00:05:50.524 --> 00:05:52.473
+Which group do you think
+
+00:05:52.473 --> 00:05:57.025
+was more likely to judge harshly our subject?
+
+00:05:57.025 --> 00:05:58.982
+Paradoxically, it was the group
+
+00:05:58.982 --> 00:06:00.715
+who had posted similar information,
+
+00:06:00.715 --> 00:06:03.657
+an example of moral dissonance.
+
+00:06:03.657 --> 00:06:05.407
+Now you may be thinking,
+
+00:06:05.407 --> 00:06:07.109
+this does not apply to me,
+
+00:06:07.109 --> 00:06:09.271
+because I have nothing to hide.
+
+00:06:09.271 --> 00:06:11.753
+But in fact, privacy is not about
+
+00:06:11.753 --> 00:06:15.429
+having something negative to hide.
+
+00:06:15.429 --> 00:06:17.783
+Imagine that you are the H.R. director
+
+00:06:17.783 --> 00:06:20.730
+of a certain organization, and you receive résumés,
+
+00:06:20.730 --> 00:06:23.203
+and you decide to find more information about the candidates.
+
+00:06:23.203 --> 00:06:25.663
+Therefore, you Google their names
+
+00:06:25.663 --> 00:06:27.903
+and in a certain universe,
+
+00:06:27.903 --> 00:06:29.911
+you find this information.
+
+00:06:29.911 --> 00:06:34.348
+Or in a parallel universe, you find this information.
+
+00:06:34.348 --> 00:06:37.065
+Do you think that you would be equally likely
+
+00:06:37.065 --> 00:06:39.868
+to call either candidate for an interview?
+
+00:06:39.868 --> 00:06:42.150
+If you think so, then you are not
+
+00:06:42.150 --> 00:06:44.732
+like the U.S. employers who are, in fact,
+
+00:06:44.732 --> 00:06:48.039
+part of our experiment, meaning we did exactly that.
+
+00:06:48.039 --> 00:06:51.221
+We created Facebook profiles, manipulating traits,
+
+00:06:51.221 --> 00:06:54.072
+then we started sending out résumés to companies in the U.S.,
+
+00:06:54.072 --> 00:06:55.980
+and we detected, we monitored,
+
+00:06:55.980 --> 00:06:58.373
+whether they were searching for our candidates,
+
+00:06:58.373 --> 00:07:00.205
+and whether they were acting on the information
+
+00:07:00.205 --> 00:07:02.143
+they found on social media. And they were.
+
+00:07:02.143 --> 00:07:04.244
+Discrimination was happening through social media
+
+00:07:04.244 --> 00:07:07.317
+for equally skilled candidates.
+
+00:07:07.317 --> 00:07:11.892
+Now marketers like us to believe
+
+00:07:11.892 --> 00:07:14.161
+that all information about us will always
+
+00:07:14.161 --> 00:07:17.434
+be used in a manner which is in our favor.
+
+00:07:17.434 --> 00:07:21.149
+But think again. Why should that be always the case?
+
+00:07:21.149 --> 00:07:23.813
+In a movie which came out a few years ago,
+
+00:07:23.813 --> 00:07:26.366
+"Minority Report," a famous scene
+
+00:07:26.366 --> 00:07:28.942
+had Tom Cruise walk in a mall
+
+00:07:28.942 --> 00:07:32.718
+and holographic personalized advertising
+
+00:07:32.718 --> 00:07:34.553
+would appear around him.
+
+00:07:34.553 --> 00:07:37.780
+Now, that movie is set in 2054,
+
+00:07:37.780 --> 00:07:39.422
+about 40 years from now,
+
+00:07:39.422 --> 00:07:42.330
+and as exciting as that technology looks,
+
+00:07:42.330 --> 00:07:44.976
+it already vastly underestimates
+
+00:07:44.976 --> 00:07:47.116
+the amount of information that organizations
+
+00:07:47.116 --> 00:07:49.599
+can gather about you, and how they can use it
+
+00:07:49.599 --> 00:07:52.997
+to influence you in a way that you will not even detect.
+
+00:07:52.997 --> 00:07:55.100
+So as an example, this is another experiment
+
+00:07:55.100 --> 00:07:57.373
+actually we are running, not yet completed.
+
+00:07:57.373 --> 00:07:59.692
+Imagine that an organization has access
+
+00:07:59.692 --> 00:08:01.748
+to your list of Facebook friends,
+
+00:08:01.748 --> 00:08:03.520
+and through some kind of algorithm
+
+00:08:03.520 --> 00:08:07.254
+they can detect the two friends that you like the most.
+
+00:08:07.254 --> 00:08:09.534
+And then they create, in real time,
+
+00:08:09.534 --> 00:08:12.376
+a facial composite of these two friends.
+
+00:08:12.376 --> 00:08:15.445
+Now studies prior to ours have shown that people
+
+00:08:15.445 --> 00:08:18.330
+don't recognize any longer even themselves
+
+00:08:18.330 --> 00:08:20.792
+in facial composites, but they react
+
+00:08:20.792 --> 00:08:22.909
+to those composites in a positive manner.
+
+00:08:22.909 --> 00:08:26.324
+So next time you are looking for a certain product,
+
+00:08:26.324 --> 00:08:28.883
+and there is an ad suggesting you to buy it,
+
+00:08:28.883 --> 00:08:31.790
+it will not be just a standard spokesperson.
+
+00:08:31.790 --> 00:08:34.103
+It will be one of your friends,
+
+00:08:34.103 --> 00:08:37.406
+and you will not even know that this is happening.
+
+00:08:37.406 --> 00:08:39.819
+Now the problem is that
+
+00:08:39.819 --> 00:08:42.338
+the current policy mechanisms we have
+
+00:08:42.338 --> 00:08:45.776
+to protect ourselves from the abuses of personal information
+
+00:08:45.776 --> 00:08:48.760
+are like bringing a knife to a gunfight.
+
+00:08:48.760 --> 00:08:51.673
+One of these mechanisms is transparency,
+
+00:08:51.673 --> 00:08:54.873
+telling people what you are going to do with their data.
+
+00:08:54.873 --> 00:08:56.979
+And in principle, that's a very good thing.
+
+00:08:56.979 --> 00:09:00.646
+It's necessary, but it is not sufficient.
+
+00:09:00.646 --> 00:09:04.344
+Transparency can be misdirected.
+
+00:09:04.344 --> 00:09:06.448
+You can tell people what you are going to do,
+
+00:09:06.448 --> 00:09:08.680
+and then you still nudge them to disclose
+
+00:09:08.680 --> 00:09:11.303
+arbitrary amounts of personal information.
+
+00:09:11.303 --> 00:09:14.189
+So in yet another experiment, this one with students,
+
+00:09:14.189 --> 00:09:17.247
+we asked them to provide information
+
+00:09:17.247 --> 00:09:19.060
+about their campus behavior,
+
+00:09:19.060 --> 00:09:22.000
+including pretty sensitive questions, such as this one.
+
+00:09:22.000 --> 00:09:22.621
+[Have you ever cheated in an exam?]
+
+00:09:22.621 --> 00:09:24.921
+Now to one group of subjects, we told them,
+
+00:09:24.921 --> 00:09:27.762
+"Only other students will see your answers."
+
+00:09:27.762 --> 00:09:29.341
+To another group of subjects, we told them,
+
+00:09:29.341 --> 00:09:32.902
+"Students and faculty will see your answers."
+
+00:09:32.902 --> 00:09:35.493
+Transparency. Notification. And sure enough, this worked,
+
+00:09:35.493 --> 00:09:36.900
+in the sense that the first group of subjects
+
+00:09:36.900 --> 00:09:39.468
+were much more likely to disclose than the second.
+
+00:09:39.468 --> 00:09:40.988
+It makes sense, right?
+
+00:09:40.988 --> 00:09:42.478
+But then we added the misdirection.
+
+00:09:42.478 --> 00:09:45.238
+We repeated the experiment with the same two groups,
+
+00:09:45.238 --> 00:09:47.665
+this time adding a delay
+
+00:09:47.665 --> 00:09:50.600
+between the time we told subjects
+
+00:09:50.600 --> 00:09:52.680
+how we would use their data
+
+00:09:52.680 --> 00:09:57.068
+and the time we actually started answering the questions.
+
+00:09:57.068 --> 00:09:59.629
+How long a delay do you think we had to add
+
+00:09:59.629 --> 00:10:04.242
+in order to nullify the inhibitory effect
+
+00:10:04.242 --> 00:10:07.653
+of knowing that faculty would see your answers?
+
+00:10:07.653 --> 00:10:09.433
+Ten minutes?
+
+00:10:09.433 --> 00:10:11.224
+Five minutes?
+
+00:10:11.224 --> 00:10:13.000
+One minute?
+
+00:10:13.000 --> 00:10:15.049
+How about 15 seconds?
+
+00:10:15.049 --> 00:10:17.717
+Fifteen seconds were sufficient to have the two groups
+
+00:10:17.717 --> 00:10:19.285
+disclose the same amount of information,
+
+00:10:19.285 --> 00:10:22.031
+as if the second group now no longer cares
+
+00:10:22.031 --> 00:10:24.687
+for faculty reading their answers.
+
+00:10:24.687 --> 00:10:28.023
+Now I have to admit that this talk so far
+
+00:10:28.023 --> 00:10:30.503
+may sound exceedingly gloomy,
+
+00:10:30.503 --> 00:10:32.224
+but that is not my point.
+
+00:10:32.224 --> 00:10:34.923
+In fact, I want to share with you the fact that
+
+00:10:34.923 --> 00:10:36.695
+there are alternatives.
+
+00:10:36.695 --> 00:10:39.194
+The way we are doing things now is not the only way
+
+00:10:39.194 --> 00:10:42.231
+they can done, and certainly not the best way
+
+00:10:42.231 --> 00:10:44.258
+they can be done.
+
+00:10:44.258 --> 00:10:48.429
+When someone tells you, "People don't care about privacy,"
+
+00:10:48.429 --> 00:10:51.071
+consider whether the game has been designed
+
+00:10:51.071 --> 00:10:53.795
+and rigged so that they cannot care about privacy,
+
+00:10:53.795 --> 00:10:57.057
+and coming to the realization that these manipulations occur
+
+00:10:57.057 --> 00:10:58.664
+is already halfway through the process
+
+00:10:58.664 --> 00:11:00.922
+of being able to protect yourself.
+
+00:11:00.922 --> 00:11:04.632
+When someone tells you that privacy is incompatible
+
+00:11:04.632 --> 00:11:06.481
+with the benefits of big data,
+
+00:11:06.481 --> 00:11:08.954
+consider that in the last 20 years,
+
+00:11:08.954 --> 00:11:10.871
+researchers have created technologies
+
+00:11:10.871 --> 00:11:14.189
+to allow virtually any electronic transactions
+
+00:11:14.189 --> 00:11:17.938
+to take place in a more privacy-preserving manner.
+
+00:11:17.938 --> 00:11:20.493
+We can browse the Internet anonymously.
+
+00:11:20.493 --> 00:11:23.171
+We can send emails that can only be read
+
+00:11:23.171 --> 00:11:26.880
+by the intended recipient, not even the NSA.
+
+00:11:26.880 --> 00:11:29.877
+We can have even privacy-preserving data mining.
+
+00:11:29.877 --> 00:11:33.771
+In other words, we can have the benefits of big data
+
+00:11:33.771 --> 00:11:35.903
+while protecting privacy.
+
+00:11:35.903 --> 00:11:39.694
+Of course, these technologies imply a shifting
+
+00:11:39.694 --> 00:11:41.240
+of cost and revenues
+
+00:11:41.240 --> 00:11:43.347
+between data holders and data subjects,
+
+00:11:43.347 --> 00:11:46.800
+which is why, perhaps, you don't hear more about them.
+
+00:11:46.800 --> 00:11:50.506
+Which brings me back to the Garden of Eden.
+
+00:11:50.506 --> 00:11:53.286
+There is a second privacy interpretation
+
+00:11:53.286 --> 00:11:55.095
+of the story of the Garden of Eden
+
+00:11:55.095 --> 00:11:57.191
+which doesn't have to do with the issue
+
+00:11:57.191 --> 00:11:59.416
+of Adam and Eve feeling naked
+
+00:11:59.416 --> 00:12:01.797
+and feeling ashamed.
+
+00:12:01.797 --> 00:12:04.578
+You can find echoes of this interpretation
+
+00:12:04.578 --> 00:12:07.360
+in John Milton's "Paradise Lost."
+
+00:12:07.360 --> 00:12:11.557
+In the garden, Adam and Eve are materially content.
+
+00:12:11.557 --> 00:12:13.661
+They're happy. They are satisfied.
+
+00:12:13.661 --> 00:12:15.954
+However, they also lack knowledge
+
+00:12:15.954 --> 00:12:17.594
+and self-awareness.
+
+00:12:17.594 --> 00:12:20.913
+The moment they eat the aptly named
+
+00:12:20.913 --> 00:12:22.206
+fruit of knowledge,
+
+00:12:22.206 --> 00:12:24.811
+that's when they discover themselves.
+
+00:12:24.811 --> 00:12:28.842
+They become aware. They achieve autonomy.
+
+00:12:28.842 --> 00:12:31.968
+The price to pay, however, is leaving the garden.
+
+00:12:31.968 --> 00:12:35.849
+So privacy, in a way, is both the means
+
+00:12:35.849 --> 00:12:38.811
+and the price to pay for freedom.
+
+00:12:38.811 --> 00:12:41.581
+Again, marketers tell us
+
+00:12:41.581 --> 00:12:44.600
+that big data and social media
+
+00:12:44.600 --> 00:12:47.579
+are not just a paradise of profit for them,
+
+00:12:47.579 --> 00:12:50.036
+but a Garden of Eden for the rest of us.
+
+00:12:50.036 --> 00:12:51.274
+We get free content.
+
+00:12:51.274 --> 00:12:54.397
+We get to play Angry Birds. We get targeted apps.
+
+00:12:54.397 --> 00:12:57.294
+But in fact, in a few years, organizations
+
+00:12:57.294 --> 00:12:58.903
+will know so much about us,
+
+00:12:58.903 --> 00:13:01.613
+they will be able to infer our desires
+
+00:13:01.613 --> 00:13:03.817
+before we even form them, and perhaps
+
+00:13:03.817 --> 00:13:06.264
+buy products on our behalf
+
+00:13:06.264 --> 00:13:08.538
+before we even know we need them.
+
+00:13:08.538 --> 00:13:11.775
+Now there was one English author
+
+00:13:11.775 --> 00:13:14.820
+who anticipated this kind of future
+
+00:13:14.820 --> 00:13:16.225
+where we would trade away
+
+00:13:16.225 --> 00:13:19.773
+our autonomy and freedom for comfort.
+
+00:13:19.773 --> 00:13:21.934
+Even more so than George Orwell,
+
+00:13:21.934 --> 00:13:24.695
+the author is, of course, Aldous Huxley.
+
+00:13:24.695 --> 00:13:27.549
+In "Brave New World," he imagines a society
+
+00:13:27.549 --> 00:13:29.720
+where technologies that we created
+
+00:13:29.720 --> 00:13:31.579
+originally for freedom
+
+00:13:31.579 --> 00:13:34.146
+end up coercing us.
+
+00:13:34.146 --> 00:13:38.937
+However, in the book, he also offers us a way out
+
+00:13:38.937 --> 00:13:42.375
+of that society, similar to the path
+
+00:13:42.375 --> 00:13:46.330
+that Adam and Eve had to follow to leave the garden.
+
+00:13:46.330 --> 00:13:48.477
+In the words of the Savage,
+
+00:13:48.477 --> 00:13:51.546
+regaining autonomy and freedom is possible,
+
+00:13:51.546 --> 00:13:54.225
+although the price to pay is steep.
+
+00:13:54.225 --> 00:13:59.940
+So I do believe that one of the defining fights
+
+00:13:59.940 --> 00:14:02.503
+of our times will be the fight
+
+00:14:02.503 --> 00:14:04.890
+for the control over personal information,
+
+00:14:04.890 --> 00:14:08.397
+the fight over whether big data will become a force
+
+00:14:08.397 --> 00:14:09.686
+for freedom,
+
+00:14:09.686 --> 00:14:14.432
+rather than a force which will hiddenly manipulate us.
+
+00:14:14.432 --> 00:14:17.025
+Right now, many of us
+
+00:14:17.025 --> 00:14:19.778
+do not even know that the fight is going on,
+
+00:14:19.778 --> 00:14:22.450
+but it is, whether you like it or not.
+
+00:14:22.450 --> 00:14:25.254
+And at the risk of playing the serpent,
+
+00:14:25.254 --> 00:14:28.151
+I will tell you that the tools for the fight
+
+00:14:28.151 --> 00:14:31.160
+are here, the awareness of what is going on,
+
+00:14:31.160 --> 00:14:32.515
+and in your hands,
+
+00:14:32.515 --> 00:14:36.255
+just a few clicks away.
+
+00:14:36.255 --> 00:14:37.737
+Thank you.
+
+00:14:37.737 --> 00:14:42.214
+(Applause)
+

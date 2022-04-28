@@ -1,0 +1,877 @@
+WEBVTT
+
+00:00:00.864 --> 00:00:03.187
+We live in a very complex environment:
+
+00:00:03.187 --> 00:00:05.091
+complexity and dynamism
+
+00:00:05.091 --> 00:00:07.154
+and patterns of evidence
+
+00:00:07.154 --> 00:00:10.039
+from satellite photographs, from videos.
+
+00:00:10.039 --> 00:00:13.050
+You can even see it outside your window.
+
+00:00:13.050 --> 00:00:16.910
+It's endlessly complex, but somehow familiar,
+
+00:00:16.910 --> 00:00:18.870
+but the patterns kind of repeat,
+
+00:00:18.870 --> 00:00:21.360
+but they never repeat exactly.
+
+00:00:21.360 --> 00:00:25.487
+It's a huge challenge to understand.
+
+00:00:25.487 --> 00:00:27.619
+The patterns that you see
+
+00:00:27.619 --> 00:00:31.339
+are there at all of the different scales,
+
+00:00:31.339 --> 00:00:34.245
+but you can't chop it into one little bit and say,
+
+00:00:34.245 --> 00:00:36.908
+"Oh, well let me just make a smaller climate."
+
+00:00:36.908 --> 00:00:41.120
+I can't use the normal products of reductionism
+
+00:00:41.120 --> 00:00:43.842
+to get a smaller and smaller thing that I can study
+
+00:00:43.842 --> 00:00:46.150
+in a laboratory and say, "Oh,
+
+00:00:46.150 --> 00:00:48.546
+now that's something I now understand."
+
+00:00:48.546 --> 00:00:51.913
+It's the whole or it's nothing.
+
+00:00:51.913 --> 00:00:54.465
+The different scales that give you
+
+00:00:54.465 --> 00:00:56.587
+these kinds of patterns
+
+00:00:56.587 --> 00:01:00.044
+range over an enormous range of magnitude,
+
+00:01:00.044 --> 00:01:02.460
+roughly 14 orders of magnitude,
+
+00:01:02.460 --> 00:01:04.951
+from the small microscopic particles
+
+00:01:04.951 --> 00:01:07.327
+that seed clouds
+
+00:01:07.327 --> 00:01:09.887
+to the size of the planet itself,
+
+00:01:09.887 --> 00:01:11.163
+from 10 to the minus six
+
+00:01:11.163 --> 00:01:12.240
+to 10 to the eight,
+
+00:01:12.240 --> 00:01:14.532
+14 orders of spatial magnitude.
+
+00:01:14.532 --> 00:01:17.943
+In time, from milliseconds to millennia,
+
+00:01:17.943 --> 00:01:20.998
+again around 14 orders of magnitude.
+
+00:01:20.998 --> 00:01:22.385
+What does that mean?
+
+00:01:22.385 --> 00:01:24.324
+Okay, well if you think about how
+
+00:01:24.324 --> 00:01:26.984
+you can calculate these things,
+
+00:01:26.984 --> 00:01:28.944
+you can take what you can see,
+
+00:01:28.944 --> 00:01:29.970
+okay, I'm going to chop it up
+
+00:01:29.970 --> 00:01:31.349
+into lots of little boxes,
+
+00:01:31.349 --> 00:01:33.704
+and that's the result of physics, right?
+
+00:01:33.704 --> 00:01:35.429
+And if I think about a weather model,
+
+00:01:35.429 --> 00:01:37.923
+that spans about five orders of magnitude,
+
+00:01:37.923 --> 00:01:41.050
+from the planet to a few kilometers,
+
+00:01:41.050 --> 00:01:42.588
+and the time scale
+
+00:01:42.588 --> 00:01:47.000
+from a few minutes to 10 days, maybe a month.
+
+00:01:47.000 --> 00:01:48.395
+We're interested in more than that.
+
+00:01:48.395 --> 00:01:49.700
+We're interested in the climate.
+
+00:01:49.700 --> 00:01:51.841
+That's years, that's millennia,
+
+00:01:51.841 --> 00:01:54.414
+and we need to go to even smaller scales.
+
+00:01:54.414 --> 00:01:56.015
+The stuff that we can't resolve,
+
+00:01:56.015 --> 00:01:57.980
+the sub-scale processes,
+
+00:01:57.980 --> 00:01:59.960
+we need to approximate in some way.
+
+00:01:59.960 --> 00:02:01.722
+That is a huge challenge.
+
+00:02:01.722 --> 00:02:03.910
+Climate models in the 1990s
+
+00:02:03.910 --> 00:02:05.880
+took an even smaller chunk of that,
+
+00:02:05.880 --> 00:02:07.898
+only about three orders of magnitude.
+
+00:02:07.898 --> 00:02:09.993
+Climate models in the 2010s,
+
+00:02:09.993 --> 00:02:11.767
+kind of what we're working with now,
+
+00:02:11.767 --> 00:02:14.707
+four orders of magnitude.
+
+00:02:14.707 --> 00:02:17.010
+We have 14 to go,
+
+00:02:17.010 --> 00:02:19.210
+and we're increasing our capability
+
+00:02:19.210 --> 00:02:21.080
+of simulating those at about
+
+00:02:21.080 --> 00:02:24.626
+one extra order of magnitude every decade.
+
+00:02:24.626 --> 00:02:26.521
+One extra order of magnitude in space
+
+00:02:26.521 --> 00:02:29.770
+is 10,000 times more calculations.
+
+00:02:29.770 --> 00:02:32.150
+And we keep adding more things,
+
+00:02:32.150 --> 00:02:34.524
+more questions to these different models.
+
+00:02:34.524 --> 00:02:37.257
+So what does a climate model look like?
+
+00:02:37.257 --> 00:02:39.598
+This is an old climate model, admittedly,
+
+00:02:39.598 --> 00:02:43.678
+a punch card, a single line of Fortran code.
+
+00:02:43.678 --> 00:02:45.656
+We no longer use punch cards.
+
+00:02:45.656 --> 00:02:47.897
+We do still use Fortran.
+
+00:02:47.897 --> 00:02:49.854
+New-fangled ideas like C
+
+00:02:49.854 --> 00:02:53.089
+really haven't had a big impact
+
+00:02:53.089 --> 00:02:55.456
+on the climate modeling community.
+
+00:02:55.456 --> 00:02:56.856
+But how do we go about doing it?
+
+00:02:56.856 --> 00:03:01.480
+How do we go from that complexity that you saw
+
+00:03:01.480 --> 00:03:04.010
+to a line of code?
+
+00:03:04.010 --> 00:03:05.583
+We do it one piece at a time.
+
+00:03:05.583 --> 00:03:07.461
+This is a picture of sea ice
+
+00:03:07.461 --> 00:03:09.559
+taken flying over the Arctic.
+
+00:03:09.559 --> 00:03:11.597
+We can look at all of the different equations
+
+00:03:11.597 --> 00:03:14.709
+that go into making the ice grow
+
+00:03:14.709 --> 00:03:16.823
+or melt or change shape.
+
+00:03:16.823 --> 00:03:17.954
+We can look at the fluxes.
+
+00:03:17.954 --> 00:03:19.906
+We can look at the rate at which
+
+00:03:19.906 --> 00:03:22.751
+snow turns to ice, and we can code that.
+
+00:03:22.751 --> 00:03:25.080
+We can encapsulate that in code.
+
+00:03:25.080 --> 00:03:26.306
+These models are around
+
+00:03:26.306 --> 00:03:28.389
+a million lines of code at this point,
+
+00:03:28.389 --> 00:03:31.859
+and growing by tens of thousands of lines of code
+
+00:03:31.859 --> 00:03:33.050
+every year.
+
+00:03:33.050 --> 00:03:34.703
+So you can look at that piece,
+
+00:03:34.703 --> 00:03:36.625
+but you can look at the other pieces too.
+
+00:03:36.625 --> 00:03:38.558
+What happens when you have clouds?
+
+00:03:38.558 --> 00:03:40.717
+What happens when clouds form,
+
+00:03:40.717 --> 00:03:42.599
+when they dissipate, when they rain out?
+
+00:03:42.599 --> 00:03:44.341
+That's another piece.
+
+00:03:44.341 --> 00:03:46.187
+What happens when we have radiation
+
+00:03:46.187 --> 00:03:48.721
+coming from the sun, going through the atmosphere,
+
+00:03:48.721 --> 00:03:50.647
+being absorbed and reflected?
+
+00:03:50.647 --> 00:03:54.626
+We can code each of those
+very small pieces as well.
+
+00:03:54.626 --> 00:03:56.042
+There are other pieces:
+
+00:03:56.042 --> 00:03:59.502
+the winds changing the ocean currents.
+
+00:03:59.502 --> 00:04:03.272
+We can talk about the role of vegetation
+
+00:04:03.272 --> 00:04:05.601
+in transporting water from the soils
+
+00:04:05.601 --> 00:04:07.570
+back into the atmosphere.
+
+00:04:07.570 --> 00:04:10.484
+And each of these different elements
+
+00:04:10.484 --> 00:04:14.108
+we can encapsulate and put into a system.
+
+00:04:14.108 --> 00:04:19.256
+Each of those pieces ends up adding to the whole.
+
+00:04:19.256 --> 00:04:21.553
+And you get something like this.
+
+00:04:21.553 --> 00:04:24.401
+You get a beautiful representation
+
+00:04:24.401 --> 00:04:27.023
+of what's going on in the climate system,
+
+00:04:27.023 --> 00:04:30.412
+where each and every one of those
+
+00:04:30.412 --> 00:04:33.194
+emergent patterns that you can see,
+
+00:04:33.194 --> 00:04:35.197
+the swirls in the Southern Ocean,
+
+00:04:35.197 --> 00:04:37.953
+the tropical cyclone in the Gulf of Mexico,
+
+00:04:37.953 --> 00:04:39.594
+and there's two more that are going to pop up
+
+00:04:39.594 --> 00:04:41.948
+in the Pacific at any point now,
+
+00:04:41.948 --> 00:04:44.661
+those rivers of atmospheric water,
+
+00:04:44.661 --> 00:04:47.518
+all of those are emergent properties
+
+00:04:47.518 --> 00:04:49.642
+that come from the interactions
+
+00:04:49.642 --> 00:04:53.137
+of all of those small-scale processes I mentioned.
+
+00:04:53.137 --> 00:04:55.042
+There's no code that says,
+
+00:04:55.042 --> 00:04:56.899
+"Do a wiggle in the Southern Ocean."
+
+00:04:56.899 --> 00:04:59.567
+There's no code that says, "Have two
+
+00:04:59.567 --> 00:05:02.465
+tropical cyclones that spin around each other."
+
+00:05:02.465 --> 00:05:06.277
+All of those things are emergent properties.
+
+00:05:06.277 --> 00:05:08.423
+This is all very good. This is all great.
+
+00:05:08.423 --> 00:05:09.693
+But what we really want to know
+
+00:05:09.693 --> 00:05:11.642
+is what happens to these emergent properties
+
+00:05:11.642 --> 00:05:13.347
+when we kick the system?
+
+00:05:13.347 --> 00:05:16.880
+When something changes, what
+happens to those properties?
+
+00:05:16.880 --> 00:05:19.869
+And there's lots of different ways to kick the system.
+
+00:05:19.869 --> 00:05:21.902
+There are wobbles in the Earth's orbit
+
+00:05:21.902 --> 00:05:23.781
+over hundreds of thousands of years
+
+00:05:23.781 --> 00:05:25.807
+that change the climate.
+
+00:05:25.807 --> 00:05:27.943
+There are changes in the solar cycles,
+
+00:05:27.943 --> 00:05:31.048
+every 11 years and longer, that change the climate.
+
+00:05:31.048 --> 00:05:34.622
+Big volcanoes go off and change the climate.
+
+00:05:34.622 --> 00:05:37.860
+Changes in biomass burning, in smoke,
+
+00:05:37.860 --> 00:05:39.723
+in aerosol particles, all of those things
+
+00:05:39.723 --> 00:05:41.545
+change the climate.
+
+00:05:41.545 --> 00:05:45.604
+The ozone hole changed the climate.
+
+00:05:45.604 --> 00:05:47.821
+Deforestation changes the climate
+
+00:05:47.821 --> 00:05:49.747
+by changing the surface properties
+
+00:05:49.747 --> 00:05:51.737
+and how water is evaporated
+
+00:05:51.737 --> 00:05:54.203
+and moved around in the system.
+
+00:05:54.203 --> 00:05:56.488
+Contrails change the climate
+
+00:05:56.488 --> 00:05:59.355
+by creating clouds where there were none before,
+
+00:05:59.355 --> 00:06:03.953
+and of course greenhouse gases change the system.
+
+00:06:03.953 --> 00:06:06.974
+Each of these different kicks
+
+00:06:06.974 --> 00:06:09.125
+provides us with a target
+
+00:06:09.125 --> 00:06:11.960
+to evaluate whether we understand
+
+00:06:11.960 --> 00:06:14.121
+something about this system.
+
+00:06:14.121 --> 00:06:16.513
+So we can go to look at
+
+00:06:16.513 --> 00:06:19.217
+what model skill is.
+
+00:06:19.217 --> 00:06:21.250
+Now I use the word "skill" advisedly:
+
+00:06:21.250 --> 00:06:23.661
+Models are not right or wrong; they're always wrong.
+
+00:06:23.661 --> 00:06:25.381
+They're always approximations.
+
+00:06:25.381 --> 00:06:27.275
+The question you have to ask
+
+00:06:27.275 --> 00:06:30.354
+is whether a model tells you more information
+
+00:06:30.354 --> 00:06:32.279
+than you would have had otherwise.
+
+00:06:32.279 --> 00:06:35.660
+If it does, it's skillful.
+
+00:06:35.660 --> 00:06:38.114
+This is the impact of the ozone hole
+
+00:06:38.114 --> 00:06:40.974
+on sea level pressure, so
+low pressure, high pressures,
+
+00:06:40.974 --> 00:06:43.569
+around the southern oceans, around Antarctica.
+
+00:06:43.569 --> 00:06:45.482
+This is observed data.
+
+00:06:45.482 --> 00:06:47.570
+This is modeled data.
+
+00:06:47.570 --> 00:06:49.164
+There's a good match
+
+00:06:49.164 --> 00:06:51.115
+because we understand the physics
+
+00:06:51.115 --> 00:06:54.253
+that controls the temperatures in the stratosphere
+
+00:06:54.253 --> 00:06:55.999
+and what that does to the winds
+
+00:06:55.999 --> 00:06:58.180
+around the southern oceans.
+
+00:06:58.180 --> 00:06:59.699
+We can look at other examples.
+
+00:06:59.699 --> 00:07:02.555
+The eruption of Mount Pinatubo in 1991
+
+00:07:02.555 --> 00:07:05.354
+put an enormous amount of aerosols, small particles,
+
+00:07:05.354 --> 00:07:06.941
+into the stratosphere.
+
+00:07:06.941 --> 00:07:10.088
+That changed the radiation
+balance of the whole planet.
+
+00:07:10.088 --> 00:07:12.870
+There was less energy coming
+in than there was before,
+
+00:07:12.870 --> 00:07:14.528
+so that cooled the planet,
+
+00:07:14.528 --> 00:07:16.547
+and those red lines and those green lines,
+
+00:07:16.547 --> 00:07:19.112
+those are the differences between what we expected
+
+00:07:19.112 --> 00:07:20.800
+and what actually happened.
+
+00:07:20.800 --> 00:07:22.583
+The models are skillful,
+
+00:07:22.583 --> 00:07:24.276
+not just in the global mean,
+
+00:07:24.276 --> 00:07:27.320
+but also in the regional patterns.
+
+00:07:27.320 --> 00:07:30.160
+I could go through a dozen more examples:
+
+00:07:30.160 --> 00:07:33.010
+the skill associated with solar cycles,
+
+00:07:33.010 --> 00:07:35.080
+changing the ozone in the stratosphere;
+
+00:07:35.080 --> 00:07:37.427
+the skill associated with orbital changes
+
+00:07:37.427 --> 00:07:39.483
+over 6,000 years.
+
+00:07:39.483 --> 00:07:41.881
+We can look at that too, and the models are skillful.
+
+00:07:41.881 --> 00:07:44.975
+The models are skillful in response to the ice sheets
+
+00:07:44.975 --> 00:07:46.495
+20,000 years ago.
+
+00:07:46.495 --> 00:07:48.166
+The models are skillful
+
+00:07:48.166 --> 00:07:51.070
+when it comes to the 20th-century trends
+
+00:07:51.070 --> 00:07:52.585
+over the decades.
+
+00:07:52.585 --> 00:07:54.867
+Models are successful at modeling
+
+00:07:54.867 --> 00:07:57.472
+lake outbursts into the North Atlantic
+
+00:07:57.472 --> 00:07:59.237
+8,000 years ago.
+
+00:07:59.237 --> 00:08:02.327
+And we can get a good match to the data.
+
+00:08:03.463 --> 00:08:05.850
+Each of these different targets,
+
+00:08:05.850 --> 00:08:07.980
+each of these different evaluations,
+
+00:08:07.980 --> 00:08:10.371
+leads us to add more scope
+
+00:08:10.371 --> 00:08:11.522
+to these models,
+
+00:08:11.522 --> 00:08:14.266
+and leads us to more and more
+
+00:08:14.266 --> 00:08:18.254
+complex situations that we can ask
+
+00:08:18.254 --> 00:08:20.823
+more and more interesting questions,
+
+00:08:20.823 --> 00:08:23.533
+like, how does dust from the Sahara,
+
+00:08:23.533 --> 00:08:25.267
+that you can see in the orange,
+
+00:08:25.267 --> 00:08:28.710
+interact with tropical cyclones in the Atlantic?
+
+00:08:28.710 --> 00:08:32.187
+How do organic aerosols from biomass burning,
+
+00:08:32.187 --> 00:08:34.910
+which you can see in the red dots,
+
+00:08:34.910 --> 00:08:37.844
+intersect with clouds and rainfall patterns?
+
+00:08:37.844 --> 00:08:39.631
+How does pollution, which you can see
+
+00:08:39.631 --> 00:08:43.530
+in the white wisps of sulfate pollution in Europe,
+
+00:08:43.530 --> 00:08:46.865
+how does that affect the
+temperatures at the surface
+
+00:08:46.865 --> 00:08:50.353
+and the sunlight that you get at the surface?
+
+00:08:50.353 --> 00:08:53.841
+We can look at this across the world.
+
+00:08:53.841 --> 00:08:57.501
+We can look at the pollution from China.
+
+00:08:57.501 --> 00:09:01.099
+We can look at the impacts of storms
+
+00:09:01.099 --> 00:09:04.543
+on sea salt particles in the atmosphere.
+
+00:09:04.543 --> 00:09:07.104
+We can see the combination
+
+00:09:07.104 --> 00:09:09.275
+of all of these different things
+
+00:09:09.275 --> 00:09:10.743
+happening all at once,
+
+00:09:10.743 --> 00:09:13.150
+and we can ask much more interesting questions.
+
+00:09:13.150 --> 00:09:17.774
+How do air pollution and climate coexist?
+
+00:09:17.774 --> 00:09:19.283
+Can we change things
+
+00:09:19.283 --> 00:09:21.872
+that affect air pollution and
+climate at the same time?
+
+00:09:21.872 --> 00:09:24.216
+The answer is yes.
+
+00:09:24.216 --> 00:09:27.260
+So this is a history of the 20th century.
+
+00:09:27.260 --> 00:09:29.503
+The first one is the model.
+
+00:09:29.503 --> 00:09:30.910
+The weather is a little bit different
+
+00:09:30.910 --> 00:09:32.199
+to what actually happened.
+
+00:09:32.199 --> 00:09:34.231
+The second one are the observations.
+
+00:09:34.231 --> 00:09:36.556
+And we're going through the 1930s.
+
+00:09:36.556 --> 00:09:39.380
+There's variability, there are things going on,
+
+00:09:39.380 --> 00:09:41.562
+but it's all kind of in the noise.
+
+00:09:41.562 --> 00:09:44.424
+As you get towards the 1970s,
+
+00:09:44.424 --> 00:09:46.433
+things are going to start to change.
+
+00:09:46.433 --> 00:09:48.495
+They're going to start to look more similar,
+
+00:09:48.495 --> 00:09:51.053
+and by the time you get to the 2000s,
+
+00:09:51.063 --> 00:09:53.705
+you're already seeing the
+patterns of global warming,
+
+00:09:53.705 --> 00:09:56.454
+both in the observations and in the model.
+
+00:09:56.454 --> 00:09:58.581
+We know what happened over the 20th century.
+
+00:09:58.581 --> 00:10:00.341
+Right? We know that it's gotten warmer.
+
+00:10:00.341 --> 00:10:01.952
+We know where it's gotten warmer.
+
+00:10:01.952 --> 00:10:04.692
+And if you ask the models why did that happen,
+
+00:10:04.692 --> 00:10:06.817
+and you say, okay, well, yes,
+
+00:10:06.817 --> 00:10:08.683
+basically it's because of the carbon dioxide
+
+00:10:08.683 --> 00:10:10.662
+we put into the atmosphere.
+
+00:10:10.662 --> 00:10:12.344
+We have a very good match
+
+00:10:12.344 --> 00:10:14.971
+up until the present day.
+
+00:10:14.971 --> 00:10:18.391
+But there's one key reason why we look at models,
+
+00:10:18.391 --> 00:10:20.612
+and that's because of this phrase here.
+
+00:10:20.612 --> 00:10:23.107
+Because if we had observations of the future,
+
+00:10:23.107 --> 00:10:26.436
+we obviously would trust them more than models,
+
+00:10:26.436 --> 00:10:28.380
+But unfortunately,
+
+00:10:28.380 --> 00:10:33.920
+observations of the future
+are not available at this time.
+
+00:10:33.920 --> 00:10:36.625
+So when we go out into the
+future, there's a difference.
+
+00:10:36.625 --> 00:10:39.187
+The future is unknown, the future is uncertain,
+
+00:10:39.187 --> 00:10:41.591
+and there are choices.
+
+00:10:41.591 --> 00:10:43.424
+Here are the choices that we have.
+
+00:10:43.424 --> 00:10:45.563
+We can do some work to mitigate
+
+00:10:45.563 --> 00:10:48.358
+the emissions of carbon dioxide into the atmosphere.
+
+00:10:48.358 --> 00:10:50.284
+That's the top one.
+
+00:10:50.284 --> 00:10:52.190
+We can do more work
+
+00:10:52.190 --> 00:10:54.366
+to really bring it down
+
+00:10:54.366 --> 00:10:56.584
+so that by the end of the century,
+
+00:10:56.584 --> 00:10:59.048
+it's not much more than there is now.
+
+00:10:59.048 --> 00:11:02.815
+Or we can just leave it to fate
+
+00:11:02.815 --> 00:11:04.308
+and continue on
+
+00:11:04.308 --> 00:11:08.054
+with a business-as-usual type of attitude.
+
+00:11:08.054 --> 00:11:11.510
+The differences between these choices
+
+00:11:11.510 --> 00:11:16.307
+can't be answered by looking at models.
+
+00:11:16.307 --> 00:11:17.946
+There's a great phrase
+
+00:11:17.946 --> 00:11:19.739
+that Sherwood Rowland,
+
+00:11:19.739 --> 00:11:23.603
+who won the Nobel Prize for the chemistry
+
+00:11:23.603 --> 00:11:25.876
+that led to ozone depletion,
+
+00:11:25.876 --> 00:11:28.273
+when he was accepting his Nobel Prize,
+
+00:11:28.273 --> 00:11:29.652
+he asked this question:
+
+00:11:29.652 --> 00:11:31.963
+"What is the use of having developed a science
+
+00:11:31.963 --> 00:11:35.224
+well enough to make predictions if, in the end,
+
+00:11:35.224 --> 00:11:38.053
+all we're willing to do is stand around
+
+00:11:38.053 --> 00:11:40.760
+and wait for them to come true?"
+
+00:11:40.760 --> 00:11:43.497
+The models are skillful,
+
+00:11:43.497 --> 00:11:46.815
+but what we do with the
+information from those models
+
+00:11:46.815 --> 00:11:48.986
+is totally up to you.
+
+00:11:48.986 --> 00:11:50.924
+Thank you.
+
+00:11:50.924 --> 00:11:53.840
+(Applause)
+

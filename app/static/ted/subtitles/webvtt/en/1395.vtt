@@ -1,0 +1,461 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+I like to build stuff.
+
+00:00:02.000 --> 00:00:04.000
+I've always liked to build stuff.
+
+00:00:04.000 --> 00:00:06.000
+My team at Biosense,
+
+00:00:06.000 --> 00:00:09.000
+a startup I co-founded with my doctor and engineer friends,
+
+00:00:09.000 --> 00:00:11.000
+has built a technology called ToucHB,
+
+00:00:11.000 --> 00:00:14.000
+which can do blood testing of hemoglobin
+
+00:00:14.000 --> 00:00:16.000
+without pricks, without needles.
+
+00:00:16.000 --> 00:00:18.000
+I believe
+
+00:00:18.000 --> 00:00:20.000
+this is going to democratize health care.
+
+00:00:20.000 --> 00:00:22.000
+They're two big words, I don't know what they mean.
+
+00:00:22.000 --> 00:00:24.000
+(Laughter)
+
+00:00:24.000 --> 00:00:27.000
+In fact, in 2009, I was even more clueless.
+
+00:00:27.000 --> 00:00:29.000
+I had absolutely no idea
+
+00:00:29.000 --> 00:00:31.000
+what was going to happen next.
+
+00:00:31.000 --> 00:00:34.000
+I was, in fact, busy trying to finish off my Ph.D.,
+
+00:00:34.000 --> 00:00:37.000
+which was in a completely unrelated area
+
+00:00:37.000 --> 00:00:40.000
+of how people interact, contributors interact,
+
+00:00:40.000 --> 00:00:43.000
+how articles are formed in Wikipedia --
+
+00:00:43.000 --> 00:00:46.000
+trying to figure out how quality emerges from the system.
+
+00:00:46.000 --> 00:00:49.000
+I was also building something
+
+00:00:49.000 --> 00:00:51.000
+called the Copenhagen Wheel,
+
+00:00:51.000 --> 00:00:53.000
+which is just a really beautiful, beautiful electric bike
+
+00:00:53.000 --> 00:00:56.000
+at a lab at MIT called SENSEable City Lab.
+
+00:00:56.000 --> 00:00:59.000
+I was lucky enough that I visited Mumbai, my house,
+
+00:00:59.000 --> 00:01:02.000
+back for a vacation.
+
+00:01:02.000 --> 00:01:04.000
+So at that time
+
+00:01:04.000 --> 00:01:06.000
+I was planning a road trip.
+
+00:01:06.000 --> 00:01:08.000
+I visited a place called Parol
+
+00:01:08.000 --> 00:01:11.000
+about two hours north of Mumbai.
+
+00:01:11.000 --> 00:01:15.000
+This is a place where my friend, Abhishek Sen was interning.
+
+00:01:15.000 --> 00:01:17.000
+He's a doctor there.
+
+00:01:17.000 --> 00:01:19.000
+And that's his actual photograph.
+
+00:01:19.000 --> 00:01:22.000
+(Laughter)
+
+00:01:22.000 --> 00:01:25.000
+So Abhishek actually made me wait.
+
+00:01:25.000 --> 00:01:28.000
+He was out there in Parol delivering a baby.
+
+00:01:28.000 --> 00:01:30.000
+I was waiting, and when he did emerge,
+
+00:01:30.000 --> 00:01:32.000
+he was ashen-faced.
+
+00:01:32.000 --> 00:01:35.000
+He told me that there had been two deaths;
+
+00:01:35.000 --> 00:01:37.000
+the mother and child both had died.
+
+00:01:37.000 --> 00:01:39.000
+The reason, he told me,
+
+00:01:39.000 --> 00:01:42.000
+was something called post partum hemorrhage.
+
+00:01:42.000 --> 00:01:44.000
+He explained this meant severe internal bleeding.
+
+00:01:44.000 --> 00:01:46.000
+What was really shocking for me
+
+00:01:46.000 --> 00:01:48.000
+was that he said that this is entirely due
+
+00:01:48.000 --> 00:01:51.000
+to undiagnosed anemia.
+
+00:01:51.000 --> 00:01:55.000
+Now anemia -- I'm an engineer, but even I knew --
+
+00:01:55.000 --> 00:01:58.000
+that anemia is something which is not supposed to be fatal.
+
+00:01:58.000 --> 00:02:01.000
+It is something which probably the cure is known.
+
+00:02:01.000 --> 00:02:03.000
+I mean, folic acid, iron tablets --
+
+00:02:03.000 --> 00:02:05.000
+very cheap, affordable cures exist
+
+00:02:05.000 --> 00:02:07.000
+to control anemia.
+
+00:02:07.000 --> 00:02:09.000
+So why was this woman dying?
+
+00:02:09.000 --> 00:02:12.000
+It was completely preventable.
+
+00:02:12.000 --> 00:02:14.000
+Five minutes away from there,
+
+00:02:14.000 --> 00:02:17.000
+I had the center, the medical center,
+
+00:02:17.000 --> 00:02:20.000
+which was distributing subsidized iron tablets.
+
+00:02:20.000 --> 00:02:23.000
+So the whole nature of this thing completely shocked me.
+
+00:02:23.000 --> 00:02:26.000
+And I knew that there had to be a way to prevent this.
+
+00:02:26.000 --> 00:02:29.000
+My mom is a pediatrician, and I asked her.
+
+00:02:29.000 --> 00:02:32.000
+She told me that this is how you would typically test for anemia.
+
+00:02:32.000 --> 00:02:34.000
+Take a blood sample
+
+00:02:34.000 --> 00:02:37.000
+and run it through a machine called a Coulter counter.
+
+00:02:37.000 --> 00:02:39.000
+This is a $10,000 machine which was available in Mumbai.
+
+00:02:39.000 --> 00:02:41.000
+It's also available here or in any part, I guess,
+
+00:02:41.000 --> 00:02:43.000
+in Europe and most cities in the world.
+
+00:02:43.000 --> 00:02:46.000
+But this is not available in Parol.
+
+00:02:46.000 --> 00:02:48.000
+Also, that woman who was operating the machine, the technician,
+
+00:02:48.000 --> 00:02:50.000
+is not available in Parol.
+
+00:02:50.000 --> 00:02:54.000
+(Laughter)
+
+00:02:54.000 --> 00:02:56.000
+Now this struck me as --
+
+00:02:56.000 --> 00:02:59.000
+I love to fix things. I wanted to fix this.
+
+00:02:59.000 --> 00:03:01.000
+I got a friend of mine, an engineer, and three other doctors --
+
+00:03:01.000 --> 00:03:03.000
+Abhishek joined the team --
+
+00:03:03.000 --> 00:03:06.000
+and we wanted to solve this problem.
+
+00:03:06.000 --> 00:03:08.000
+By the time I step down from here
+
+00:03:08.000 --> 00:03:10.000
+there will be 10 people who have lost their lives
+
+00:03:10.000 --> 00:03:13.000
+through a completely, completely preventable problem.
+
+00:03:13.000 --> 00:03:15.000
+Now let me take you back to Parol.
+
+00:03:15.000 --> 00:03:18.000
+You saw the woman there, the nurse.
+
+00:03:18.000 --> 00:03:20.000
+In India this is called an ASHA worker.
+
+00:03:20.000 --> 00:03:22.000
+It's essentially a village health worker, a matron.
+
+00:03:22.000 --> 00:03:24.000
+She is really the center of the health care system.
+
+00:03:24.000 --> 00:03:26.000
+Public health care runs on the ASHA worker,
+
+00:03:26.000 --> 00:03:28.000
+not the doctor.
+
+00:03:28.000 --> 00:03:31.000
+Now we knew we had to design something
+
+00:03:31.000 --> 00:03:33.000
+which she could use.
+
+00:03:33.000 --> 00:03:36.000
+We knew it had to be these three things that the machine had to have.
+
+00:03:36.000 --> 00:03:38.000
+We knew it had to be something
+
+00:03:38.000 --> 00:03:40.000
+which had no needles, no pricking,
+
+00:03:40.000 --> 00:03:43.000
+so it would have adoption, it would not have medical waste,
+
+00:03:43.000 --> 00:03:45.000
+all those problems.
+
+00:03:45.000 --> 00:03:48.000
+It had to be simple enough for that woman ASHA worker to use.
+
+00:03:48.000 --> 00:03:51.000
+And thirdly, it had to be something which she could carry in her kit.
+
+00:03:51.000 --> 00:03:54.000
+She goes village to village doing screenings.
+
+00:03:54.000 --> 00:03:56.000
+We thought we could build it,
+
+00:03:56.000 --> 00:03:59.000
+so we built it.
+
+00:03:59.000 --> 00:04:05.000
+(Applause)
+
+00:04:05.000 --> 00:04:08.000
+But, but it didn't work.
+
+00:04:08.000 --> 00:04:10.000
+(Laughter)
+
+00:04:10.000 --> 00:04:12.000
+So we built it again.
+
+00:04:12.000 --> 00:04:14.000
+And we did this 32 times.
+
+00:04:14.000 --> 00:04:17.000
+(Laughter)
+
+00:04:17.000 --> 00:04:19.000
+But I'm very excited to tell you
+
+00:04:19.000 --> 00:04:22.000
+that last year
+
+00:04:22.000 --> 00:04:25.000
+we did build it -- it works.
+
+00:04:25.000 --> 00:04:28.000
+And I have it here in my purse.
+
+00:04:30.000 --> 00:04:32.000
+So this is a machine
+
+00:04:32.000 --> 00:04:34.000
+called the ToucHB Quik.
+
+00:04:34.000 --> 00:04:37.000
+What it does
+
+00:04:37.000 --> 00:04:40.000
+is it measures my hemoglobin, oxygen and pulse rate.
+
+00:04:40.000 --> 00:04:43.000
+I put it on my finger, switch it on,
+
+00:04:43.000 --> 00:04:45.000
+and in about 20 seconds
+
+00:04:45.000 --> 00:04:47.000
+it'll give me, on the little screen here,
+
+00:04:47.000 --> 00:04:49.000
+a value of hemoglobin,
+
+00:04:49.000 --> 00:04:52.000
+oxygen saturation and heart rate.
+
+00:04:52.000 --> 00:04:54.000
+This will help ASHA workers
+
+00:04:54.000 --> 00:04:57.000
+diagnose anemia at the point of care.
+
+00:04:57.000 --> 00:05:03.000
+(Applause)
+
+00:05:03.000 --> 00:05:06.000
+I'll explain a little bit about how it works.
+
+00:05:06.000 --> 00:05:08.000
+You might have seen a little light inside of it.
+
+00:05:08.000 --> 00:05:11.000
+In fact, there are three lights in there, three wavelengths of light.
+
+00:05:11.000 --> 00:05:14.000
+And we essentially pass light
+
+00:05:14.000 --> 00:05:16.000
+right through the tissue,
+
+00:05:16.000 --> 00:05:19.000
+and from understanding how much of it is transmitted,
+
+00:05:19.000 --> 00:05:21.000
+how much of it is scattered and how much of it is absorbed,
+
+00:05:21.000 --> 00:05:23.000
+we can figure out
+
+00:05:23.000 --> 00:05:25.000
+how much hemoglobin is there in the blood.
+
+00:05:25.000 --> 00:05:27.000
+And this is something which is based on a principle
+
+00:05:27.000 --> 00:05:29.000
+called photoplethysmography.
+
+00:05:29.000 --> 00:05:31.000
+We are actually really very excited
+
+00:05:31.000 --> 00:05:33.000
+about what else non-invasive techniques like this
+
+00:05:33.000 --> 00:05:35.000
+will be able to crack in the future.
+
+00:05:35.000 --> 00:05:38.000
+One of the things which my intern here, Pratesh, built
+
+00:05:38.000 --> 00:05:40.000
+is a mobile application,
+
+00:05:40.000 --> 00:05:42.000
+which can now send all this data anywhere it wants to go.
+
+00:05:42.000 --> 00:05:44.000
+There's a bunch of very exciting stuff which we are doing.
+
+00:05:44.000 --> 00:05:47.000
+I would love to tell you a little bit more about it.
+
+00:05:47.000 --> 00:05:49.000
+But fundamentally,
+
+00:05:49.000 --> 00:05:51.000
+what I believe is that the map behind of me
+
+00:05:51.000 --> 00:05:53.000
+is called basically the map of anemia.
+
+00:05:53.000 --> 00:05:56.000
+It's the death rates caused by anemia globally.
+
+00:05:56.000 --> 00:05:58.000
+You'll notice, of course,
+
+00:05:58.000 --> 00:06:00.000
+that there are hot spots --
+
+00:06:00.000 --> 00:06:02.000
+South Asia, Africa.
+
+00:06:02.000 --> 00:06:04.000
+My business plan is very simple.
+
+00:06:04.000 --> 00:06:07.000
+I'm just going to sell these to every clinic in the world.
+
+00:06:07.000 --> 00:06:09.000
+That's a simple bottom-line business plan.
+
+00:06:09.000 --> 00:06:11.000
+And by the time I'm done, in 2020,
+
+00:06:11.000 --> 00:06:14.000
+when the WHO publishes the data again,
+
+00:06:14.000 --> 00:06:16.000
+this is going to be the map of anemia.
+
+00:06:16.000 --> 00:06:18.000
+(Applause)
+
+00:06:18.000 --> 00:06:20.000
+Thank you.
+
+00:06:20.000 --> 00:06:22.000
+(Applause)
+

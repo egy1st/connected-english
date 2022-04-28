@@ -1,0 +1,703 @@
+WEBVTT
+
+00:00:00.285 --> 00:00:02.359
+I'm going to talk about hackers.
+
+00:00:02.359 --> 00:00:04.279
+And the image that comes to your mind
+
+00:00:04.279 --> 00:00:06.738
+when I say that word is probably not
+
+00:00:06.738 --> 00:00:08.255
+of Benjamin Franklin,
+
+00:00:08.255 --> 00:00:11.443
+but I'm going to explain to you why it should be.
+
+00:00:11.443 --> 00:00:12.920
+The image that comes to your mind
+
+00:00:12.920 --> 00:00:15.606
+is probably more likely of a pasty kid
+
+00:00:15.606 --> 00:00:18.122
+sitting in a basement doing something mischievous,
+
+00:00:18.122 --> 00:00:22.257
+or of a shady criminal who is
+trying to steal your identity,
+
+00:00:22.257 --> 00:00:25.280
+or of an international rogue
+
+00:00:25.280 --> 00:00:27.991
+with a political agenda.
+
+00:00:27.991 --> 00:00:32.524
+And mainstream culture has kind of fed this idea
+
+00:00:32.524 --> 00:00:37.033
+that hackers are people that we should be afraid of.
+
+00:00:37.033 --> 00:00:38.665
+But like most things in technology
+
+00:00:38.665 --> 00:00:40.114
+and the technology world,
+
+00:00:40.114 --> 00:00:43.289
+hacking has equal power for good as it has for evil.
+
+00:00:43.289 --> 00:00:45.723
+For every hacker that's trying to steal your identity
+
+00:00:45.723 --> 00:00:47.961
+there's one that's building a tool
+
+00:00:47.961 --> 00:00:51.092
+that will help you find your
+loved ones after a disaster
+
+00:00:51.092 --> 00:00:54.571
+or to monitor environmental quality
+
+00:00:54.571 --> 00:00:57.308
+after an oil spill.
+
+00:00:57.308 --> 00:01:01.180
+Hacking is really just any amateur innovation
+
+00:01:01.180 --> 00:01:02.576
+on an existing system,
+
+00:01:02.576 --> 00:01:05.406
+and it is a deeply democratic activity.
+
+00:01:05.406 --> 00:01:06.805
+It's about critical thinking.
+
+00:01:06.805 --> 00:01:09.839
+It's about questioning existing ways of doing things.
+
+00:01:09.839 --> 00:01:13.227
+It's the idea that if you see a 
+problem, you work to fix it,
+
+00:01:13.227 --> 00:01:15.258
+and not just complain about it.
+
+00:01:15.258 --> 00:01:19.168
+And in many ways, hacking is what built America.
+
+00:01:19.168 --> 00:01:21.313
+Betsy Ross was a hacker.
+
+00:01:21.313 --> 00:01:24.508
+The Underground Railroad was a brilliant hack.
+
+00:01:24.508 --> 00:01:27.384
+And from the Wright brothers to Steve Jobs,
+
+00:01:27.384 --> 00:01:29.923
+hacking has always been at the foundation
+
+00:01:29.923 --> 00:01:32.975
+of American democracy.
+
+00:01:32.975 --> 00:01:37.276
+So if there's one thing I want
+to leave you here with today,
+
+00:01:37.276 --> 00:01:39.847
+it's that the next time you
+think about who a hacker is,
+
+00:01:39.847 --> 00:01:43.869
+you think not of this guy
+
+00:01:43.869 --> 00:01:46.449
+but of this guy, Benjamin Franklin,
+
+00:01:46.449 --> 00:01:49.407
+who was one of the greatest hackers of all time.
+
+00:01:49.407 --> 00:01:51.548
+He was one of America's most prolific inventors,
+
+00:01:51.548 --> 00:01:53.730
+though he famously never filed a patent,
+
+00:01:53.730 --> 00:01:55.324
+because he thought that all human knowledge
+
+00:01:55.324 --> 00:01:57.952
+should be freely available.
+
+00:01:57.952 --> 00:02:00.984
+He brought us bifocals and the lightning rod,
+
+00:02:00.984 --> 00:02:03.181
+and of course there was his collaboration
+
+00:02:03.181 --> 00:02:06.146
+on the invention of American democracy.
+
+00:02:06.146 --> 00:02:08.469
+And in Code For America, we really try to embody
+
+00:02:08.469 --> 00:02:10.487
+the spirit of Ben Franklin.
+
+00:02:10.487 --> 00:02:13.929
+He was a tinkerer and a statesman
+
+00:02:13.929 --> 00:02:15.789
+whose conception of citizenship
+
+00:02:15.789 --> 00:02:17.876
+was always predicated on action.
+
+00:02:17.876 --> 00:02:20.661
+He believed that government could be built
+
+00:02:20.661 --> 00:02:22.301
+by the people,
+
+00:02:22.301 --> 00:02:26.850
+and we call those people civic hackers.
+
+00:02:26.850 --> 00:02:29.305
+So it's no wonder that the values
+
+00:02:29.305 --> 00:02:31.973
+that underly a healthy democracy,
+
+00:02:31.973 --> 00:02:34.966
+like collaboration and empowerment
+
+00:02:34.966 --> 00:02:37.029
+and participation and enterprise,
+
+00:02:37.029 --> 00:02:40.515
+are the same values that underly the Internet.
+
+00:02:40.515 --> 00:02:42.611
+And so it's no surprise that many hackers
+
+00:02:42.611 --> 00:02:45.968
+are turning their attention to
+the problem of government.
+
+00:02:45.968 --> 00:02:48.021
+But before I give you a few examples
+
+00:02:48.021 --> 00:02:49.843
+of what civic hacking looks like,
+
+00:02:49.843 --> 00:02:51.359
+I want to make clear that you don't have
+
+00:02:51.359 --> 00:02:53.453
+to be a programmer to be a civic hacker.
+
+00:02:53.453 --> 00:02:55.208
+You just have to believe that you can bring
+
+00:02:55.208 --> 00:02:57.475
+a 21st-century tool set to bear
+
+00:02:57.475 --> 00:02:59.914
+on the problems that government faces.
+
+00:02:59.914 --> 00:03:01.959
+And we hear all the time from our community
+
+00:03:01.959 --> 00:03:04.247
+of civic hackers at Code for America
+
+00:03:04.247 --> 00:03:06.855
+that they didn't understand
+how much nontechnical work
+
+00:03:06.855 --> 00:03:08.881
+actually went into civic hacking projects.
+
+00:03:08.881 --> 00:03:10.372
+So keep that in mind.
+
+00:03:10.372 --> 00:03:14.462
+All of you are potential civic hackers.
+
+00:03:14.462 --> 00:03:16.482
+So what does civic hacking look like?
+
+00:03:16.482 --> 00:03:18.746
+Our team last year in Honolulu,
+
+00:03:18.746 --> 00:03:21.361
+which in this case was three full-time fellows
+
+00:03:21.361 --> 00:03:23.513
+who were doing a year of public service,
+
+00:03:23.513 --> 00:03:27.478
+were asked by the city to rebuild the website.
+
+00:03:27.478 --> 00:03:30.557
+And it's a massive thing of
+tens of thousands of pages
+
+00:03:30.557 --> 00:03:32.673
+which just wasn't going to be possible
+
+00:03:32.673 --> 00:03:34.426
+in the few months that they had.
+
+00:03:34.426 --> 00:03:36.883
+So instead, they decided to build a parallel site
+
+00:03:36.883 --> 00:03:39.345
+that better conformed to how citizens actually
+
+00:03:39.345 --> 00:03:42.684
+want to interact with information on a city website.
+
+00:03:42.684 --> 00:03:44.621
+They're looking for answers to questions,
+
+00:03:44.621 --> 00:03:47.247
+and they want to take action when they're done,
+
+00:03:47.247 --> 00:03:49.533
+which is really hard to do from a site
+
+00:03:49.533 --> 00:03:51.182
+that looks like this.
+
+00:03:51.182 --> 00:03:53.427
+So our team built Honolulu Answers,
+
+00:03:53.427 --> 00:03:55.793
+which is a super-simple search interface
+
+00:03:55.793 --> 00:03:58.246
+where you enter a search term or a question
+
+00:03:58.246 --> 00:04:00.944
+and get back plain language answers
+
+00:04:00.944 --> 00:04:03.384
+that drive a user towards action.
+
+00:04:03.384 --> 00:04:06.241
+Now the site itself was easy enough to build,
+
+00:04:06.241 --> 00:04:08.144
+but the team was faced with the challenge
+
+00:04:08.144 --> 00:04:10.854
+of how they populate all of the content.
+
+00:04:10.854 --> 00:04:12.530
+It would have taken the three of them
+
+00:04:12.530 --> 00:04:13.907
+a very long time,
+
+00:04:13.907 --> 00:04:16.906
+especially given that none of 
+them are actually from Honolulu.
+
+00:04:16.906 --> 00:04:18.981
+And so they did something that's really radical,
+
+00:04:18.981 --> 00:04:20.654
+when you think about how government
+
+00:04:20.654 --> 00:04:22.695
+is used to working.
+
+00:04:22.695 --> 00:04:25.707
+They asked citizens to write the content.
+
+00:04:25.707 --> 00:04:27.201
+So you've heard of a hack-a-thon.
+
+00:04:27.201 --> 00:04:28.865
+They held a write-a-thon,
+
+00:04:28.865 --> 00:04:31.502
+where on one Saturday afternoon --
+
+00:04:31.502 --> 00:04:33.543
+("What do I do about wild pigs 
+being a nuisance?") (Laughter) —
+
+00:04:33.543 --> 00:04:37.589
+Wild pigs are a huge problem 
+in Honolulu, apparently.
+
+00:04:37.589 --> 00:04:39.632
+In one Saturday afternoon,
+
+00:04:39.632 --> 00:04:41.966
+they were able to populate most of the content
+
+00:04:41.966 --> 00:04:43.627
+for most of the frequently asked questions,
+
+00:04:43.627 --> 00:04:45.860
+but more importantly than that,
+
+00:04:45.860 --> 00:04:49.975
+they created a new way for citizens 
+to participate in their government.
+
+00:04:49.975 --> 00:04:53.020
+Now, I think this is a really cool story in and of itself,
+
+00:04:53.020 --> 00:04:55.357
+but it gets more awesome.
+
+00:04:55.357 --> 00:04:57.963
+On the National Day of Civic Hacking
+
+00:04:57.963 --> 00:05:00.374
+this past June in Oakland, where I live,
+
+00:05:00.374 --> 00:05:02.403
+the Code For America team in Oakland
+
+00:05:02.403 --> 00:05:04.603
+took the open source code base of Honolulu Answers
+
+00:05:04.603 --> 00:05:06.614
+and turned it into Oakland Answers,
+
+00:05:06.614 --> 00:05:08.693
+and again we held a write-a-thon
+
+00:05:08.693 --> 00:05:12.041
+where we took the most frequently asked questions
+
+00:05:12.041 --> 00:05:13.703
+and had citizens write the answers to them,
+
+00:05:13.703 --> 00:05:15.172
+and I got into the act.
+
+00:05:15.172 --> 00:05:18.773
+I authored this answer, and a few others.
+
+00:05:18.773 --> 00:05:21.885
+And I'm trying to this day to articulate
+
+00:05:21.885 --> 00:05:24.931
+the sense of empowerment and responsibility
+
+00:05:24.931 --> 00:05:28.511
+that I feel for the place that I live
+
+00:05:28.511 --> 00:05:32.553
+based simply on this small act of participation.
+
+00:05:32.553 --> 00:05:36.278
+And by stitching together my small act
+
+00:05:36.278 --> 00:05:39.084
+with the thousands of other
+small acts of participation
+
+00:05:39.084 --> 00:05:41.665
+that we're enabling through civic hacking,
+
+00:05:41.665 --> 00:05:44.449
+we think we can reenergize citizenship
+
+00:05:44.449 --> 00:05:47.499
+and restore trust in government.
+
+00:05:47.499 --> 00:05:48.836
+At this point, you may be wondering
+
+00:05:48.836 --> 00:05:50.562
+what city officials think of all this.
+
+00:05:50.562 --> 00:05:52.115
+They actually love it.
+
+00:05:52.115 --> 00:05:54.309
+As most of you guys know, cities are being asked
+
+00:05:54.309 --> 00:05:57.030
+every day to do more with less,
+
+00:05:57.030 --> 00:05:59.228
+and they're always looking for innovative solutions
+
+00:05:59.228 --> 00:06:00.962
+to entrenched problems.
+
+00:06:00.962 --> 00:06:04.496
+So when you give citizens a way to participate
+
+00:06:04.496 --> 00:06:06.334
+beyond attending a town hall meeting,
+
+00:06:06.334 --> 00:06:08.286
+cities can actually capture
+
+00:06:08.286 --> 00:06:11.040
+the capacity in their communities
+
+00:06:11.040 --> 00:06:14.075
+to do the business of government.
+
+00:06:14.075 --> 00:06:16.068
+Now I don't want to leave the impression
+
+00:06:16.068 --> 00:06:18.180
+that civic hacking is just an American phenomenon.
+
+00:06:18.180 --> 00:06:19.883
+It's happening across the globe,
+
+00:06:19.883 --> 00:06:21.536
+and one of my favorite examples
+
+00:06:21.536 --> 00:06:23.967
+is from Mexico City, where earlier this year,
+
+00:06:23.967 --> 00:06:26.077
+the Mexico House of Representatives
+
+00:06:26.077 --> 00:06:30.389
+entered into a contract with
+a software development firm
+
+00:06:30.389 --> 00:06:33.569
+to build an app that legislators would use
+
+00:06:33.569 --> 00:06:34.820
+to track bills.
+
+00:06:34.820 --> 00:06:37.496
+So this was just for the handful of legislators
+
+00:06:37.496 --> 00:06:40.070
+in the House.
+
+00:06:40.070 --> 00:06:42.739
+And the contract was a two-year contract
+
+00:06:42.739 --> 00:06:46.665
+for 9.3 million dollars.
+
+00:06:46.665 --> 00:06:49.017
+Now a lot of people were really angry about this,
+
+00:06:49.017 --> 00:06:51.964
+especially geeks who knew that 9.3 million dollars
+
+00:06:51.964 --> 00:06:54.268
+was an absolutely outrageous amount of money
+
+00:06:54.268 --> 00:06:56.239
+for what was a very simple app.
+
+00:06:56.239 --> 00:06:58.668
+But instead of taking to the streets,
+
+00:06:58.668 --> 00:07:00.876
+they issued a challenge.
+
+00:07:00.876 --> 00:07:03.707
+They asked programmers in Mexico
+
+00:07:03.707 --> 00:07:06.910
+to build something better and cheaper,
+
+00:07:06.910 --> 00:07:11.361
+and they offered a prize of 9,300 dollars --
+
+00:07:11.361 --> 00:07:13.262
+10,000 times cheaper
+
+00:07:13.262 --> 00:07:14.910
+than the government contract,
+
+00:07:14.910 --> 00:07:18.013
+and they gave the entrants 10 days.
+
+00:07:18.013 --> 00:07:19.825
+And in those 10 days,
+
+00:07:19.825 --> 00:07:23.886
+they submitted 173 apps,
+
+00:07:23.886 --> 00:07:26.520
+five of which were presented to Congress
+
+00:07:26.520 --> 00:07:28.621
+and are still in the app store today.
+
+00:07:28.621 --> 00:07:30.442
+And because of this action,
+
+00:07:30.442 --> 00:07:32.570
+that contract was vacated,
+
+00:07:32.570 --> 00:07:34.702
+and now this has sparked a movement in Mexico City
+
+00:07:34.702 --> 00:07:36.459
+which is home to one of our partners,
+
+00:07:36.459 --> 00:07:38.917
+Code for Mexico City.
+
+00:07:38.917 --> 00:07:41.668
+And so what you see in all three of these places,
+
+00:07:41.668 --> 00:07:44.485
+in Honolulu and in Oakland and in Mexico City,
+
+00:07:44.485 --> 00:07:47.676
+are the elements that are
+at the core of civic hacking.
+
+00:07:47.676 --> 00:07:50.699
+It's citizens who saw things
+that could be working better
+
+00:07:50.699 --> 00:07:52.630
+and they decided to fix them,
+
+00:07:52.630 --> 00:07:54.289
+and through that work, they're creating
+
+00:07:54.289 --> 00:07:57.480
+a 21st-century ecosystem of participation.
+
+00:07:57.480 --> 00:07:59.510
+They're creating a whole new set of ways
+
+00:07:59.510 --> 00:08:01.516
+for citizens to be involved,
+
+00:08:01.516 --> 00:08:05.461
+besides voting or signing a petition or protesting.
+
+00:08:05.461 --> 00:08:09.438
+They can actually build government.
+
+00:08:09.438 --> 00:08:12.574
+So back to our friend Ben Franklin,
+
+00:08:12.574 --> 00:08:15.320
+who, one of his lesser-known accomplishments
+
+00:08:15.320 --> 00:08:19.195
+was that in 1736 he founded
+
+00:08:19.195 --> 00:08:22.753
+the first volunteer firefighting
+company in Philadelphia,
+
+00:08:22.753 --> 00:08:24.452
+called a brigade.
+
+00:08:24.452 --> 00:08:26.678
+And it's because he and his friends noticed
+
+00:08:26.678 --> 00:08:28.377
+that the city was having trouble keeping up
+
+00:08:28.377 --> 00:08:30.447
+with all the fires that were happening in the city,
+
+00:08:30.447 --> 00:08:33.236
+so in true civic hacker fashion,
+
+00:08:33.236 --> 00:08:35.886
+they built a solution.
+
+00:08:35.886 --> 00:08:38.396
+And we have our own brigades at Code for America
+
+00:08:38.396 --> 00:08:41.542
+working on the projects that I've just described,
+
+00:08:41.542 --> 00:08:43.280
+and we want to ask you
+
+00:08:43.280 --> 00:08:45.742
+to follow in Ben Franklin's footsteps
+
+00:08:45.742 --> 00:08:47.209
+and come join us.
+
+00:08:47.209 --> 00:08:49.499
+We have 31 brigades in the U.S.
+
+00:08:49.499 --> 00:08:50.767
+We are pleased to announce today
+
+00:08:50.767 --> 00:08:53.043
+that we're opening up the 
+brigade to international cities
+
+00:08:53.043 --> 00:08:54.635
+for the first time,
+
+00:08:54.635 --> 00:08:58.616
+starting with cities in Poland and Japan and Ireland.
+
+00:08:58.616 --> 00:09:00.715
+You can find out if there's a brigade where you live
+
+00:09:00.715 --> 00:09:03.209
+at brigade.codeforamerica.org,
+
+00:09:03.209 --> 00:09:05.648
+and if there's not a brigade
+where you live, we will help you.
+
+00:09:05.648 --> 00:09:07.504
+We've created a tool kit which also lives
+
+00:09:07.504 --> 00:09:09.068
+at brigade.codeforamerica.org,
+
+00:09:09.068 --> 00:09:11.608
+and we will support you along the way.
+
+00:09:11.608 --> 00:09:15.523
+Our goal is to create a global
+network of civic hackers
+
+00:09:15.523 --> 00:09:18.276
+who are innovating on the existing system
+
+00:09:18.276 --> 00:09:21.236
+in order to build tools that will solve
+
+00:09:21.236 --> 00:09:23.102
+entrenched problems,
+
+00:09:23.102 --> 00:09:25.129
+that will support local government,
+
+00:09:25.129 --> 00:09:26.688
+and that will empower citizens.
+
+00:09:26.688 --> 00:09:29.063
+So please come hack with us.
+
+00:09:29.063 --> 00:09:30.611
+Thank you.
+
+00:09:30.611 --> 00:09:33.161
+(Applause)
+

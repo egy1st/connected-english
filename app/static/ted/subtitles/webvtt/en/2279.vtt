@@ -1,0 +1,736 @@
+WEBVTT
+
+00:00:00.556 --> 00:00:04.573
+Our emotions influence
+every aspect of our lives,
+
+00:00:04.573 --> 00:00:08.149
+from our health and how we learn,
+to how we do business and make decisions,
+
+00:00:08.149 --> 00:00:09.922
+big ones and small.
+
+00:00:10.672 --> 00:00:14.162
+Our emotions also influence
+how we connect with one another.
+
+00:00:15.132 --> 00:00:19.108
+We've evolved to live
+in a world like this,
+
+00:00:19.108 --> 00:00:23.427
+but instead, we're living
+more and more of our lives like this --
+
+00:00:23.427 --> 00:00:26.561
+this is the text message
+from my daughter last night --
+
+00:00:26.561 --> 00:00:29.301
+in a world that's devoid of emotion.
+
+00:00:29.301 --> 00:00:31.252
+So I'm on a mission to change that.
+
+00:00:31.252 --> 00:00:35.343
+I want to bring emotions
+back into our digital experiences.
+
+00:00:36.223 --> 00:00:39.300
+I started on this path 15 years ago.
+
+00:00:39.300 --> 00:00:41.366
+I was a computer scientist in Egypt,
+
+00:00:41.366 --> 00:00:45.871
+and I had just gotten accepted to
+a Ph.D. program at Cambridge University.
+
+00:00:45.871 --> 00:00:47.984
+So I did something quite unusual
+
+00:00:47.984 --> 00:00:52.209
+for a young newlywed Muslim Egyptian wife:
+
+00:00:53.599 --> 00:00:56.598
+With the support of my husband,
+who had to stay in Egypt,
+
+00:00:56.598 --> 00:00:59.616
+I packed my bags and I moved to England.
+
+00:00:59.616 --> 00:01:02.844
+At Cambridge, thousands of miles
+away from home,
+
+00:01:02.844 --> 00:01:06.257
+I realized I was spending
+more hours with my laptop
+
+00:01:06.257 --> 00:01:08.486
+than I did with any other human.
+
+00:01:08.486 --> 00:01:13.339
+Yet despite this intimacy, my laptop
+had absolutely no idea how I was feeling.
+
+00:01:13.339 --> 00:01:16.550
+It had no idea if I was happy,
+
+00:01:16.550 --> 00:01:19.538
+having a bad day, or stressed, confused,
+
+00:01:19.538 --> 00:01:22.460
+and so that got frustrating.
+
+00:01:23.600 --> 00:01:28.831
+Even worse, as I communicated
+online with my family back home,
+
+00:01:29.421 --> 00:01:32.703
+I felt that all my emotions
+disappeared in cyberspace.
+
+00:01:32.703 --> 00:01:37.858
+I was homesick, I was lonely,
+and on some days I was actually crying,
+
+00:01:37.858 --> 00:01:42.786
+but all I had to communicate
+these emotions was this.
+
+00:01:42.786 --> 00:01:44.806
+(Laughter)
+
+00:01:44.806 --> 00:01:49.780
+Today's technology
+has lots of I.Q., but no E.Q.;
+
+00:01:49.780 --> 00:01:52.956
+lots of cognitive intelligence,
+but no emotional intelligence.
+
+00:01:52.956 --> 00:01:55.153
+So that got me thinking,
+
+00:01:55.153 --> 00:01:58.777
+what if our technology
+could sense our emotions?
+
+00:01:58.777 --> 00:02:02.853
+What if our devices could sense
+how we felt and reacted accordingly,
+
+00:02:02.853 --> 00:02:05.866
+just the way an emotionally
+intelligent friend would?
+
+00:02:06.666 --> 00:02:10.230
+Those questions led me and my team
+
+00:02:10.230 --> 00:02:14.607
+to create technologies that can read
+and respond to our emotions,
+
+00:02:14.607 --> 00:02:17.697
+and our starting point was the human face.
+
+00:02:18.577 --> 00:02:21.750
+So our human face happens to be
+one of the most powerful channels
+
+00:02:21.750 --> 00:02:25.766
+that we all use to communicate
+social and emotional states,
+
+00:02:25.766 --> 00:02:28.776
+everything from enjoyment, surprise,
+
+00:02:28.776 --> 00:02:32.979
+empathy and curiosity.
+
+00:02:32.979 --> 00:02:37.907
+In emotion science, we call each
+facial muscle movement an action unit.
+
+00:02:37.907 --> 00:02:40.832
+So for example, action unit 12,
+
+00:02:40.832 --> 00:02:42.870
+it's not a Hollywood blockbuster,
+
+00:02:42.870 --> 00:02:46.312
+it is actually a lip corner pull,
+which is the main component of a smile.
+
+00:02:46.312 --> 00:02:49.300
+Try it everybody. Let's get
+some smiles going on.
+
+00:02:49.300 --> 00:02:51.954
+Another example is action unit 4.
+It's the brow furrow.
+
+00:02:51.954 --> 00:02:54.192
+It's when you draw your eyebrows together
+
+00:02:54.192 --> 00:02:56.459
+and you create all
+these textures and wrinkles.
+
+00:02:56.459 --> 00:03:00.754
+We don't like them, but it's
+a strong indicator of a negative emotion.
+
+00:03:00.754 --> 00:03:02.960
+So we have about 45 of these action units,
+
+00:03:02.960 --> 00:03:06.350
+and they combine to express
+hundreds of emotions.
+
+00:03:06.350 --> 00:03:10.251
+Teaching a computer to read
+these facial emotions is hard,
+
+00:03:10.251 --> 00:03:13.223
+because these action units,
+they can be fast, they're subtle,
+
+00:03:13.223 --> 00:03:15.777
+and they combine in many different ways.
+
+00:03:15.777 --> 00:03:19.515
+So take, for example,
+the smile and the smirk.
+
+00:03:19.515 --> 00:03:23.268
+They look somewhat similar,
+but they mean very different things.
+
+00:03:23.268 --> 00:03:24.986
+(Laughter)
+
+00:03:24.986 --> 00:03:27.990
+So the smile is positive,
+
+00:03:27.990 --> 00:03:29.260
+a smirk is often negative.
+
+00:03:29.260 --> 00:03:33.136
+Sometimes a smirk
+can make you become famous.
+
+00:03:33.136 --> 00:03:35.960
+But seriously, it's important
+for a computer to be able
+
+00:03:35.960 --> 00:03:38.815
+to tell the difference
+between the two expressions.
+
+00:03:38.815 --> 00:03:40.627
+So how do we do that?
+
+00:03:40.627 --> 00:03:42.414
+We give our algorithms
+
+00:03:42.414 --> 00:03:46.524
+tens of thousands of examples
+of people we know to be smiling,
+
+00:03:46.524 --> 00:03:49.589
+from different ethnicities, ages, genders,
+
+00:03:49.589 --> 00:03:52.400
+and we do the same for smirks.
+
+00:03:52.400 --> 00:03:53.954
+And then, using deep learning,
+
+00:03:53.954 --> 00:03:56.810
+the algorithm looks for all these
+textures and wrinkles
+
+00:03:56.810 --> 00:03:59.390
+and shape changes on our face,
+
+00:03:59.390 --> 00:04:02.592
+and basically learns that all smiles
+have common characteristics,
+
+00:04:02.592 --> 00:04:05.773
+all smirks have subtly
+different characteristics.
+
+00:04:05.773 --> 00:04:08.141
+And the next time it sees a new face,
+
+00:04:08.141 --> 00:04:10.440
+it essentially learns that
+
+00:04:10.440 --> 00:04:13.473
+this face has the same
+characteristics of a smile,
+
+00:04:13.473 --> 00:04:17.751
+and it says, "Aha, I recognize this.
+This is a smile expression."
+
+00:04:18.381 --> 00:04:21.181
+So the best way to demonstrate
+how this technology works
+
+00:04:21.181 --> 00:04:23.317
+is to try a live demo,
+
+00:04:23.317 --> 00:04:27.230
+so I need a volunteer,
+preferably somebody with a face.
+
+00:04:27.230 --> 00:04:29.564
+(Laughter)
+
+00:04:29.564 --> 00:04:32.335
+Cloe's going to be our volunteer today.
+
+00:04:33.325 --> 00:04:37.783
+So over the past five years, we've moved
+from being a research project at MIT
+
+00:04:37.783 --> 00:04:38.939
+to a company,
+
+00:04:38.939 --> 00:04:42.131
+where my team has worked really hard
+to make this technology work,
+
+00:04:42.131 --> 00:04:44.540
+as we like to say, in the wild.
+
+00:04:44.540 --> 00:04:47.210
+And we've also shrunk it so that
+the core emotion engine
+
+00:04:47.210 --> 00:04:50.530
+works on any mobile device
+with a camera, like this iPad.
+
+00:04:50.530 --> 00:04:53.316
+So let's give this a try.
+
+00:04:54.756 --> 00:04:58.680
+As you can see, the algorithm
+has essentially found Cloe's face,
+
+00:04:58.680 --> 00:05:00.372
+so it's this white bounding box,
+
+00:05:00.372 --> 00:05:02.943
+and it's tracking the main
+feature points on her face,
+
+00:05:02.943 --> 00:05:05.799
+so her eyebrows, her eyes,
+her mouth and her nose.
+
+00:05:05.799 --> 00:05:08.786
+The question is,
+can it recognize her expression?
+
+00:05:08.786 --> 00:05:10.457
+So we're going to test the machine.
+
+00:05:10.457 --> 00:05:14.643
+So first of all, give me your poker face.
+Yep, awesome. (Laughter)
+
+00:05:14.643 --> 00:05:17.456
+And then as she smiles,
+this is a genuine smile, it's great.
+
+00:05:17.456 --> 00:05:19.756
+So you can see the green bar
+go up as she smiles.
+
+00:05:19.756 --> 00:05:20.978
+Now that was a big smile.
+
+00:05:20.978 --> 00:05:24.021
+Can you try a subtle smile
+to see if the computer can recognize?
+
+00:05:24.021 --> 00:05:26.352
+It does recognize subtle smiles as well.
+
+00:05:26.352 --> 00:05:28.477
+We've worked really hard
+to make that happen.
+
+00:05:28.477 --> 00:05:31.439
+And then eyebrow raised,
+indicator of surprise.
+
+00:05:31.439 --> 00:05:35.688
+Brow furrow, which is
+an indicator of confusion.
+
+00:05:35.688 --> 00:05:39.695
+Frown. Yes, perfect.
+
+00:05:39.695 --> 00:05:43.188
+So these are all the different
+action units. There's many more of them.
+
+00:05:43.188 --> 00:05:45.220
+This is just a slimmed-down demo.
+
+00:05:45.220 --> 00:05:48.368
+But we call each reading
+an emotion data point,
+
+00:05:48.368 --> 00:05:51.337
+and then they can fire together
+to portray different emotions.
+
+00:05:51.337 --> 00:05:55.990
+So on the right side of the demo --
+look like you're happy.
+
+00:05:55.990 --> 00:05:57.444
+So that's joy. Joy fires up.
+
+00:05:57.444 --> 00:05:59.371
+And then give me a disgust face.
+
+00:05:59.371 --> 00:06:03.643
+Try to remember what it was like
+when Zayn left One Direction.
+
+00:06:03.643 --> 00:06:05.153
+(Laughter)
+
+00:06:05.153 --> 00:06:09.495
+Yeah, wrinkle your nose. Awesome.
+
+00:06:09.495 --> 00:06:13.226
+And the valence is actually quite
+negative, so you must have been a big fan.
+
+00:06:13.226 --> 00:06:15.926
+So valence is how positive
+or negative an experience is,
+
+00:06:15.926 --> 00:06:18.712
+and engagement is how
+expressive she is as well.
+
+00:06:18.712 --> 00:06:22.126
+So imagine if Cloe had access
+to this real-time emotion stream,
+
+00:06:22.126 --> 00:06:24.935
+and she could share it
+with anybody she wanted to.
+
+00:06:24.935 --> 00:06:27.858
+Thank you.
+
+00:06:27.858 --> 00:06:32.479
+(Applause)
+
+00:06:33.749 --> 00:06:39.019
+So, so far, we have amassed
+12 billion of these emotion data points.
+
+00:06:39.019 --> 00:06:41.630
+It's the largest emotion
+database in the world.
+
+00:06:41.630 --> 00:06:44.593
+We've collected it
+from 2.9 million face videos,
+
+00:06:44.593 --> 00:06:47.193
+people who have agreed
+to share their emotions with us,
+
+00:06:47.193 --> 00:06:50.398
+and from 75 countries around the world.
+
+00:06:50.398 --> 00:06:52.113
+It's growing every day.
+
+00:06:52.603 --> 00:06:54.670
+It blows my mind away
+
+00:06:54.670 --> 00:06:57.865
+that we can now quantify something
+as personal as our emotions,
+
+00:06:57.865 --> 00:07:00.100
+and we can do it at this scale.
+
+00:07:00.100 --> 00:07:02.277
+So what have we learned to date?
+
+00:07:03.057 --> 00:07:05.388
+Gender.
+
+00:07:05.388 --> 00:07:09.034
+Our data confirms something
+that you might suspect.
+
+00:07:09.034 --> 00:07:10.891
+Women are more expressive than men.
+
+00:07:10.891 --> 00:07:13.574
+Not only do they smile more,
+their smiles last longer,
+
+00:07:13.574 --> 00:07:16.478
+and we can now really quantify
+what it is that men and women
+
+00:07:16.478 --> 00:07:18.614
+respond to differently.
+
+00:07:18.614 --> 00:07:20.904
+Let's do culture: So in the United States,
+
+00:07:20.904 --> 00:07:24.108
+women are 40 percent
+more expressive than men,
+
+00:07:24.108 --> 00:07:27.753
+but curiously, we don't see any difference
+in the U.K. between men and women.
+
+00:07:27.753 --> 00:07:30.259
+(Laughter)
+
+00:07:31.296 --> 00:07:35.323
+Age: People who are 50 years and older
+
+00:07:35.323 --> 00:07:38.759
+are 25 percent more emotive
+than younger people.
+
+00:07:39.899 --> 00:07:43.751
+Women in their 20s smile a lot more
+than men the same age,
+
+00:07:43.751 --> 00:07:47.590
+perhaps a necessity for dating.
+
+00:07:47.590 --> 00:07:50.207
+But perhaps what surprised us
+the most about this data
+
+00:07:50.207 --> 00:07:53.410
+is that we happen
+to be expressive all the time,
+
+00:07:53.410 --> 00:07:56.243
+even when we are sitting
+in front of our devices alone,
+
+00:07:56.243 --> 00:07:59.517
+and it's not just when we're watching
+cat videos on Facebook.
+
+00:08:00.217 --> 00:08:03.227
+We are expressive when we're emailing,
+texting, shopping online,
+
+00:08:03.227 --> 00:08:05.527
+or even doing our taxes.
+
+00:08:05.527 --> 00:08:07.919
+Where is this data used today?
+
+00:08:07.919 --> 00:08:10.682
+In understanding how we engage with media,
+
+00:08:10.682 --> 00:08:13.166
+so understanding virality
+and voting behavior;
+
+00:08:13.166 --> 00:08:15.906
+and also empowering
+or emotion-enabling technology,
+
+00:08:15.906 --> 00:08:20.527
+and I want to share some examples
+that are especially close to my heart.
+
+00:08:21.197 --> 00:08:24.265
+Emotion-enabled wearable glasses
+can help individuals
+
+00:08:24.265 --> 00:08:27.493
+who are visually impaired
+read the faces of others,
+
+00:08:27.493 --> 00:08:31.680
+and it can help individuals
+on the autism spectrum interpret emotion,
+
+00:08:31.680 --> 00:08:34.458
+something that they really struggle with.
+
+00:08:35.918 --> 00:08:38.777
+In education, imagine
+if your learning apps
+
+00:08:38.777 --> 00:08:41.587
+sense that you're confused and slow down,
+
+00:08:41.587 --> 00:08:43.444
+or that you're bored, so it's sped up,
+
+00:08:43.444 --> 00:08:46.413
+just like a great teacher
+would in a classroom.
+
+00:08:47.043 --> 00:08:49.644
+What if your wristwatch tracked your mood,
+
+00:08:49.644 --> 00:08:52.337
+or your car sensed that you're tired,
+
+00:08:52.337 --> 00:08:54.885
+or perhaps your fridge
+knows that you're stressed,
+
+00:08:54.885 --> 00:09:00.951
+so it auto-locks to prevent you
+from binge eating. (Laughter)
+
+00:09:00.951 --> 00:09:03.668
+I would like that, yeah.
+
+00:09:03.668 --> 00:09:05.595
+What if, when I was in Cambridge,
+
+00:09:05.595 --> 00:09:07.908
+I had access to my real-time
+emotion stream,
+
+00:09:07.908 --> 00:09:11.437
+and I could share that with my family
+back home in a very natural way,
+
+00:09:11.437 --> 00:09:15.408
+just like I would've if we were all
+in the same room together?
+
+00:09:15.408 --> 00:09:18.550
+I think five years down the line,
+
+00:09:18.550 --> 00:09:20.887
+all our devices are going
+to have an emotion chip,
+
+00:09:20.887 --> 00:09:24.951
+and we won't remember what it was like
+when we couldn't just frown at our device
+
+00:09:24.951 --> 00:09:29.200
+and our device would say, "Hmm,
+you didn't like that, did you?"
+
+00:09:29.200 --> 00:09:32.961
+Our biggest challenge is that there are
+so many applications of this technology,
+
+00:09:32.961 --> 00:09:35.864
+my team and I realize that we can't
+build them all ourselves,
+
+00:09:35.864 --> 00:09:39.360
+so we've made this technology available
+so that other developers
+
+00:09:39.360 --> 00:09:41.474
+can get building and get creative.
+
+00:09:41.474 --> 00:09:45.560
+We recognize that
+there are potential risks
+
+00:09:45.560 --> 00:09:47.627
+and potential for abuse,
+
+00:09:47.627 --> 00:09:50.576
+but personally, having spent
+many years doing this,
+
+00:09:50.576 --> 00:09:53.548
+I believe that the benefits to humanity
+
+00:09:53.548 --> 00:09:55.823
+from having emotionally
+intelligent technology
+
+00:09:55.823 --> 00:09:59.399
+far outweigh the potential for misuse.
+
+00:09:59.399 --> 00:10:01.930
+And I invite you all to be
+part of the conversation.
+
+00:10:01.930 --> 00:10:04.484
+The more people who know
+about this technology,
+
+00:10:04.484 --> 00:10:07.661
+the more we can all have a voice
+in how it's being used.
+
+00:10:09.081 --> 00:10:13.655
+So as more and more
+of our lives become digital,
+
+00:10:13.655 --> 00:10:17.153
+we are fighting a losing battle
+trying to curb our usage of devices
+
+00:10:17.153 --> 00:10:19.382
+in order to reclaim our emotions.
+
+00:10:20.622 --> 00:10:24.536
+So what I'm trying to do instead
+is to bring emotions into our technology
+
+00:10:24.536 --> 00:10:26.765
+and make our technologies more responsive.
+
+00:10:26.765 --> 00:10:29.435
+So I want those devices
+that have separated us
+
+00:10:29.435 --> 00:10:31.897
+to bring us back together.
+
+00:10:31.897 --> 00:10:36.485
+And by humanizing technology,
+we have this golden opportunity
+
+00:10:36.485 --> 00:10:39.782
+to reimagine how we
+connect with machines,
+
+00:10:39.782 --> 00:10:44.263
+and therefore, how we, as human beings,
+
+00:10:44.263 --> 00:10:46.167
+connect with one another.
+
+00:10:46.167 --> 00:10:48.327
+Thank you.
+
+00:10:48.327 --> 00:10:51.640
+(Applause)
+

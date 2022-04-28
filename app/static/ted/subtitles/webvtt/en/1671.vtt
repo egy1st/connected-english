@@ -1,0 +1,713 @@
+WEBVTT
+
+00:00:00.330 --> 00:00:03.181
+The kind of neuroscience that I do and my colleagues do
+
+00:00:03.181 --> 00:00:05.347
+is almost like the weatherman.
+
+00:00:05.347 --> 00:00:08.863
+We are always chasing storms.
+
+00:00:08.863 --> 00:00:13.746
+We want to see and measure storms -- brainstorms, that is.
+
+00:00:13.746 --> 00:00:16.514
+And we all talk about brainstorms in our daily lives,
+
+00:00:16.514 --> 00:00:19.964
+but we rarely see or listen to one.
+
+00:00:19.964 --> 00:00:21.598
+So I always like to start these talks
+
+00:00:21.598 --> 00:00:24.580
+by actually introducing you to one of them.
+
+00:00:24.580 --> 00:00:28.007
+Actually, the first time we recorded more than one neuron --
+
+00:00:28.007 --> 00:00:30.230
+a hundred brain cells simultaneously --
+
+00:00:30.230 --> 00:00:32.699
+we could measure the electrical sparks
+
+00:00:32.699 --> 00:00:35.379
+of a hundred cells in the same animal,
+
+00:00:35.379 --> 00:00:37.181
+this is the first image we got,
+
+00:00:37.181 --> 00:00:39.496
+the first 10 seconds of this recording.
+
+00:00:39.496 --> 00:00:42.847
+So we got a little snippet of a thought,
+
+00:00:42.847 --> 00:00:45.752
+and we could see it in front of us.
+
+00:00:45.752 --> 00:00:46.764
+I always tell the students
+
+00:00:46.764 --> 00:00:50.870
+that we could also call neuroscientists some sort of astronomer,
+
+00:00:50.870 --> 00:00:52.496
+because we are dealing with a system
+
+00:00:52.496 --> 00:00:55.413
+that is only comparable in terms of number of cells
+
+00:00:55.413 --> 00:00:58.349
+to the number of galaxies that we have in the universe.
+
+00:00:58.349 --> 00:01:01.379
+And here we are, out of billions of neurons,
+
+00:01:01.379 --> 00:01:04.197
+just recording, 10 years ago, a hundred.
+
+00:01:04.197 --> 00:01:05.780
+We are doing a thousand now.
+
+00:01:05.780 --> 00:01:11.180
+And we hope to understand something fundamental about our human nature.
+
+00:01:11.180 --> 00:01:13.112
+Because, if you don't know yet,
+
+00:01:13.112 --> 00:01:18.362
+everything that we use to define what human nature is comes from these storms,
+
+00:01:18.362 --> 00:01:23.013
+comes from these storms that roll over the hills and valleys of our brains
+
+00:01:23.013 --> 00:01:26.898
+and define our memories, our beliefs,
+
+00:01:26.898 --> 00:01:29.598
+our feelings, our plans for the future.
+
+00:01:29.598 --> 00:01:31.996
+Everything that we ever do,
+
+00:01:31.996 --> 00:01:37.063
+everything that every human has ever done, do or will do,
+
+00:01:37.063 --> 00:01:42.497
+requires the toil of populations of neurons producing these kinds of storms.
+
+00:01:42.497 --> 00:01:44.980
+And the sound of a brainstorm, if you've never heard one,
+
+00:01:44.980 --> 00:01:48.329
+is somewhat like this.
+
+00:01:48.329 --> 00:01:51.475
+You can put it louder if you can.
+
+00:01:51.475 --> 00:01:57.878
+My son calls this "making popcorn while listening to a badly-tuned A.M. station."
+
+00:01:57.878 --> 00:01:59.363
+This is a brain.
+
+00:01:59.363 --> 00:02:02.797
+This is what happens when you route these electrical storms to a loudspeaker
+
+00:02:02.797 --> 00:02:05.663
+and you listen to a hundred brain cells firing,
+
+00:02:05.663 --> 00:02:10.285
+your brain will sound like this -- my brain, any brain.
+
+00:02:10.285 --> 00:02:14.047
+And what we want to do as neuroscientists in this time
+
+00:02:14.047 --> 00:02:19.397
+is to actually listen to these symphonies, these brain symphonies,
+
+00:02:19.397 --> 00:02:22.797
+and try to extract from them the messages they carry.
+
+00:02:22.797 --> 00:02:25.648
+In particular, about 12 years ago
+
+00:02:25.648 --> 00:02:28.696
+we created a preparation that we named brain-machine interfaces.
+
+00:02:28.696 --> 00:02:31.398
+And you have a scheme here that describes how it works.
+
+00:02:31.398 --> 00:02:36.964
+The idea is, let's have some sensors that listen to these storms, this electrical firing,
+
+00:02:36.964 --> 00:02:40.046
+and see if you can, in the same time that it takes
+
+00:02:40.046 --> 00:02:45.015
+for this storm to leave the brain and reach the legs or the arms of an animal --
+
+00:02:45.015 --> 00:02:47.879
+about half a second --
+
+00:02:47.879 --> 00:02:50.230
+let's see if we can read these signals,
+
+00:02:50.230 --> 00:02:53.630
+extract the motor messages that are embedded in it,
+
+00:02:53.630 --> 00:02:55.902
+translate it into digital commands
+
+00:02:55.902 --> 00:02:57.788
+and send it to an artificial device
+
+00:02:57.788 --> 00:03:03.681
+that will reproduce the voluntary motor wheel of that brain in real time.
+
+00:03:03.681 --> 00:03:07.529
+And see if we can measure how well we can translate that message
+
+00:03:07.529 --> 00:03:11.047
+when we compare to the way the body does that.
+
+00:03:11.047 --> 00:03:13.913
+And if we can actually provide feedback,
+
+00:03:13.913 --> 00:03:19.647
+sensory signals that go back from this robotic, mechanical, computational actuator
+
+00:03:19.647 --> 00:03:21.898
+that is now under the control of the brain,
+
+00:03:21.898 --> 00:03:23.209
+back to the brain,
+
+00:03:23.209 --> 00:03:25.330
+how the brain deals with that,
+
+00:03:25.330 --> 00:03:30.231
+of receiving messages from an artificial piece of machinery.
+
+00:03:30.231 --> 00:03:32.552
+And that's exactly what we did 10 years ago.
+
+00:03:32.552 --> 00:03:35.513
+We started with a superstar monkey called Aurora
+
+00:03:35.513 --> 00:03:37.981
+that became one of the superstars of this field.
+
+00:03:37.981 --> 00:03:40.280
+And Aurora liked to play video games.
+
+00:03:40.280 --> 00:03:41.653
+As you can see here,
+
+00:03:41.653 --> 00:03:46.597
+she likes to use a joystick, like any one of us, any of our kids, to play this game.
+
+00:03:46.597 --> 00:03:51.268
+And as a good primate, she even tries to cheat before she gets the right answer.
+
+00:03:51.268 --> 00:03:55.551
+So even before a target appears that she's supposed to cross
+
+00:03:55.551 --> 00:03:58.401
+with the cursor that she's controlling with this joystick,
+
+00:03:58.401 --> 00:04:02.352
+Aurora is trying to find the target, no matter where it is.
+
+00:04:02.352 --> 00:04:03.821
+And if she's doing that,
+
+00:04:03.821 --> 00:04:07.135
+because every time she crosses that target with the little cursor,
+
+00:04:07.135 --> 00:04:10.085
+she gets a drop of Brazilian orange juice.
+
+00:04:10.085 --> 00:04:13.035
+And I can tell you, any monkey will do anything for you
+
+00:04:13.035 --> 00:04:16.135
+if you get a little drop of Brazilian orange juice.
+
+00:04:16.135 --> 00:04:18.866
+Actually any primate will do that.
+
+00:04:18.866 --> 00:04:20.200
+Think about that.
+
+00:04:20.200 --> 00:04:23.600
+Well, while Aurora was playing this game, as you saw,
+
+00:04:23.600 --> 00:04:26.035
+and doing a thousand trials a day
+
+00:04:26.035 --> 00:04:29.918
+and getting 97 percent correct and 350 milliliters of orange juice,
+
+00:04:29.918 --> 00:04:33.317
+we are recording the brainstorms that are produced in her head
+
+00:04:33.317 --> 00:04:34.964
+and sending them to a robotic arm
+
+00:04:34.964 --> 00:04:38.835
+that was learning to reproduce the movements that Aurora was making.
+
+00:04:38.835 --> 00:04:42.618
+Because the idea was to actually turn on this brain-machine interface
+
+00:04:42.618 --> 00:04:47.318
+and have Aurora play the game just by thinking,
+
+00:04:47.318 --> 00:04:49.935
+without interference of her body.
+
+00:04:49.935 --> 00:04:52.851
+Her brainstorms would control an arm
+
+00:04:52.851 --> 00:04:55.560
+that would move the cursor and cross the target.
+
+00:04:55.560 --> 00:04:58.751
+And to our shock, that's exactly what Aurora did.
+
+00:04:58.751 --> 00:05:02.951
+She played the game without moving her body.
+
+00:05:02.951 --> 00:05:05.188
+So every trajectory that you see of the cursor now,
+
+00:05:05.188 --> 00:05:08.400
+this is the exact first moment she got that.
+
+00:05:08.400 --> 00:05:10.184
+That's the exact first moment
+
+00:05:10.184 --> 00:05:16.951
+a brain intention was liberated from the physical domains of a body of a primate
+
+00:05:16.951 --> 00:05:20.651
+and could act outside, in that outside world,
+
+00:05:20.651 --> 00:05:23.617
+just by controlling an artificial device.
+
+00:05:23.617 --> 00:05:28.534
+And Aurora kept playing the game, kept finding the little target
+
+00:05:28.534 --> 00:05:32.451
+and getting the orange juice that she wanted to get, that she craved for.
+
+00:05:32.451 --> 00:05:39.152
+Well, she did that because she, at that time, had acquired a new arm.
+
+00:05:39.152 --> 00:05:42.115
+The robotic arm that you see moving here 30 days later,
+
+00:05:42.115 --> 00:05:44.801
+after the first video that I showed to you,
+
+00:05:44.801 --> 00:05:47.451
+is under the control of Aurora's brain
+
+00:05:47.451 --> 00:05:50.619
+and is moving the cursor to get to the target.
+
+00:05:50.619 --> 00:05:54.518
+And Aurora now knows that she can play the game with this robotic arm,
+
+00:05:54.518 --> 00:06:00.234
+but she has not lost the ability to use her biological arms to do what she pleases.
+
+00:06:00.234 --> 00:06:04.301
+She can scratch her back, she can scratch one of us, she can play another game.
+
+00:06:04.301 --> 00:06:05.901
+By all purposes and means,
+
+00:06:05.901 --> 00:06:10.017
+Aurora's brain has incorporated that artificial device
+
+00:06:10.017 --> 00:06:12.767
+as an extension of her body.
+
+00:06:12.767 --> 00:06:16.300
+The model of the self that Aurora had in her mind
+
+00:06:16.300 --> 00:06:20.384
+has been expanded to get one more arm.
+
+00:06:20.384 --> 00:06:22.734
+Well, we did that 10 years ago.
+
+00:06:22.734 --> 00:06:25.567
+Just fast forward 10 years.
+
+00:06:25.567 --> 00:06:30.550
+Just last year we realized that you don't even need to have a robotic device.
+
+00:06:30.550 --> 00:06:36.034
+You can just build a computational body, an avatar, a monkey avatar.
+
+00:06:36.034 --> 00:06:40.284
+And you can actually use it for our monkeys to either interact with them,
+
+00:06:40.284 --> 00:06:44.723
+or you can train them to assume in a virtual world
+
+00:06:44.723 --> 00:06:47.767
+the first-person perspective of that avatar
+
+00:06:47.767 --> 00:06:53.418
+and use her brain activity to control the movements of the avatar's arms or legs.
+
+00:06:53.418 --> 00:06:56.184
+And what we did basically was to train the animals
+
+00:06:56.184 --> 00:06:59.234
+to learn how to control these avatars
+
+00:06:59.234 --> 00:07:03.133
+and explore objects that appear in the virtual world.
+
+00:07:03.133 --> 00:07:05.434
+And these objects are visually identical,
+
+00:07:05.434 --> 00:07:09.317
+but when the avatar crosses the surface of these objects,
+
+00:07:09.317 --> 00:07:15.717
+they send an electrical message that is proportional to the microtactile texture of the object
+
+00:07:15.717 --> 00:07:19.733
+that goes back directly to the monkey's brain,
+
+00:07:19.733 --> 00:07:24.785
+informing the brain what it is the avatar is touching.
+
+00:07:24.785 --> 00:07:29.550
+And in just four weeks, the brain learns to process this new sensation
+
+00:07:29.550 --> 00:07:35.984
+and acquires a new sensory pathway -- like a new sense.
+
+00:07:35.984 --> 00:07:38.400
+And you truly liberate the brain now
+
+00:07:38.400 --> 00:07:42.784
+because you are allowing the brain to send motor commands to move this avatar.
+
+00:07:42.784 --> 00:07:47.784
+And the feedback that comes from the avatar is being processed directly by the brain
+
+00:07:47.784 --> 00:07:50.217
+without the interference of the skin.
+
+00:07:50.217 --> 00:07:52.751
+So what you see here is this is the design of the task.
+
+00:07:52.751 --> 00:07:57.001
+You're going to see an animal basically touching these three targets.
+
+00:07:57.001 --> 00:08:01.350
+And he has to select one because only one carries the reward,
+
+00:08:01.350 --> 00:08:03.217
+the orange juice that they want to get.
+
+00:08:03.217 --> 00:08:08.850
+And he has to select it by touch using a virtual arm, an arm that doesn't exist.
+
+00:08:08.850 --> 00:08:10.850
+And that's exactly what they do.
+
+00:08:10.850 --> 00:08:14.285
+This is a complete liberation of the brain
+
+00:08:14.285 --> 00:08:18.567
+from the physical constraints of the body and the motor in a perceptual task.
+
+00:08:18.567 --> 00:08:22.734
+The animal is controlling the avatar to touch the targets.
+
+00:08:22.734 --> 00:08:28.385
+And he's sensing the texture by receiving an electrical message directly in the brain.
+
+00:08:28.385 --> 00:08:32.268
+And the brain is deciding what is the texture associated with the reward.
+
+00:08:32.268 --> 00:08:36.100
+The legends that you see in the movie don't appear for the monkey.
+
+00:08:36.100 --> 00:08:38.584
+And by the way, they don't read English anyway,
+
+00:08:38.584 --> 00:08:43.800
+so they are here just for you to know that the correct target is shifting position.
+
+00:08:43.800 --> 00:08:47.734
+And yet, they can find them by tactile discrimination,
+
+00:08:47.734 --> 00:08:50.951
+and they can press it and select it.
+
+00:08:50.951 --> 00:08:53.633
+So when we look at the brains of these animals,
+
+00:08:53.633 --> 00:08:57.300
+on the top panel you see the alignment of 125 cells
+
+00:08:57.300 --> 00:09:01.501
+showing what happens with the brain activity, the electrical storms,
+
+00:09:01.501 --> 00:09:03.568
+of this sample of neurons in the brain
+
+00:09:03.568 --> 00:09:05.684
+when the animal is using a joystick.
+
+00:09:05.684 --> 00:09:08.284
+And that's a picture that every neurophysiologist knows.
+
+00:09:08.284 --> 00:09:13.467
+The basic alignment shows that these cells are coding for all possible directions.
+
+00:09:13.467 --> 00:09:19.150
+The bottom picture is what happens when the body stops moving
+
+00:09:19.150 --> 00:09:25.284
+and the animal starts controlling either a robotic device or a computational avatar.
+
+00:09:25.284 --> 00:09:28.350
+As fast as we can reset our computers,
+
+00:09:28.350 --> 00:09:34.168
+the brain activity shifts to start representing this new tool,
+
+00:09:34.168 --> 00:09:39.418
+as if this too was a part of that primate's body.
+
+00:09:39.418 --> 00:09:44.133
+The brain is assimilating that too, as fast as we can measure.
+
+00:09:44.133 --> 00:09:47.751
+So that suggests to us that our sense of self
+
+00:09:47.751 --> 00:09:51.901
+does not end at the last layer of the epithelium of our bodies,
+
+00:09:51.901 --> 00:09:57.619
+but it ends at the last layer of electrons of the tools that we're commanding with our brains.
+
+00:09:57.619 --> 00:10:02.383
+Our violins, our cars, our bicycles, our soccer balls, our clothing --
+
+00:10:02.383 --> 00:10:09.234
+they all become assimilated by this voracious, amazing, dynamic system called the brain.
+
+00:10:09.234 --> 00:10:10.933
+How far can we take it?
+
+00:10:10.933 --> 00:10:15.151
+Well, in an experiment that we ran a few years ago, we took this to the limit.
+
+00:10:15.151 --> 00:10:17.633
+We had an animal running on a treadmill
+
+00:10:17.633 --> 00:10:19.900
+at Duke University on the East Coast of the United States,
+
+00:10:19.900 --> 00:10:22.600
+producing the brainstorms necessary to move.
+
+00:10:22.600 --> 00:10:26.691
+And we had a robotic device, a humanoid robot,
+
+00:10:26.691 --> 00:10:29.085
+in Kyoto, Japan at ATR Laboratories
+
+00:10:29.085 --> 00:10:35.179
+that was dreaming its entire life to be controlled by a brain,
+
+00:10:35.179 --> 00:10:38.452
+a human brain, or a primate brain.
+
+00:10:38.452 --> 00:10:43.050
+What happens here is that the brain activity that generated the movements in the monkey
+
+00:10:43.050 --> 00:10:46.517
+was transmitted to Japan and made this robot walk
+
+00:10:46.517 --> 00:10:50.584
+while footage of this walking was sent back to Duke,
+
+00:10:50.584 --> 00:10:55.817
+so that the monkey could see the legs of this robot walking in front of her.
+
+00:10:55.817 --> 00:10:59.884
+So she could be rewarded, not by what her body was doing
+
+00:10:59.884 --> 00:11:04.845
+but for every correct step of the robot on the other side of the planet
+
+00:11:04.845 --> 00:11:07.454
+controlled by her brain activity.
+
+00:11:07.454 --> 00:11:14.572
+Funny thing, that round trip around the globe took 20 milliseconds less
+
+00:11:14.572 --> 00:11:18.722
+than it takes for that brainstorm to leave its head, the head of the monkey,
+
+00:11:18.722 --> 00:11:22.592
+and reach its own muscle.
+
+00:11:22.592 --> 00:11:28.622
+The monkey was moving a robot that was six times bigger, across the planet.
+
+00:11:28.622 --> 00:11:35.022
+This is one of the experiments in which that robot was able to walk autonomously.
+
+00:11:35.022 --> 00:11:40.289
+This is CB1 fulfilling its dream in Japan
+
+00:11:40.289 --> 00:11:43.989
+under the control of the brain activity of a primate.
+
+00:11:43.989 --> 00:11:45.978
+So where are we taking all this?
+
+00:11:45.978 --> 00:11:48.321
+What are we going to do with all this research,
+
+00:11:48.321 --> 00:11:53.989
+besides studying the properties of this dynamic universe that we have between our ears?
+
+00:11:53.989 --> 00:11:58.822
+Well the idea is to take all this knowledge and technology
+
+00:11:58.822 --> 00:12:04.306
+and try to restore one of the most severe neurological problems that we have in the world.
+
+00:12:04.306 --> 00:12:08.889
+Millions of people have lost the ability to translate these brainstorms
+
+00:12:08.889 --> 00:12:11.005
+into action, into movement.
+
+00:12:11.005 --> 00:12:16.239
+Although their brains continue to produce those storms and code for movements,
+
+00:12:16.239 --> 00:12:21.406
+they cannot cross a barrier that was created by a lesion on the spinal cord.
+
+00:12:21.406 --> 00:12:23.856
+So our idea is to create a bypass,
+
+00:12:23.856 --> 00:12:27.888
+is to use these brain-machine interfaces to read these signals,
+
+00:12:27.888 --> 00:12:31.938
+larger-scale brainstorms that contain the desire to move again,
+
+00:12:31.938 --> 00:12:35.907
+bypass the lesion using computational microengineering
+
+00:12:35.907 --> 00:12:43.021
+and send it to a new body, a whole body called an exoskeleton,
+
+00:12:43.021 --> 00:12:48.588
+a whole robotic suit that will become the new body of these patients.
+
+00:12:48.588 --> 00:12:52.714
+And you can see an image produced by this consortium.
+
+00:12:52.714 --> 00:12:56.773
+This is a nonprofit consortium called the Walk Again Project
+
+00:12:56.773 --> 00:12:59.556
+that is putting together scientists from Europe,
+
+00:12:59.556 --> 00:13:01.421
+from here in the United States, and in Brazil
+
+00:13:01.421 --> 00:13:05.938
+together to work to actually get this new body built --
+
+00:13:05.938 --> 00:13:09.272
+a body that we believe, through the same plastic mechanisms
+
+00:13:09.272 --> 00:13:15.074
+that allow Aurora and other monkeys to use these tools through a brain-machine interface
+
+00:13:15.074 --> 00:13:20.704
+and that allows us to incorporate the tools that we produce and use in our daily life.
+
+00:13:20.704 --> 00:13:24.388
+This same mechanism, we hope, will allow these patients,
+
+00:13:24.388 --> 00:13:28.156
+not only to imagine again the movements that they want to make
+
+00:13:28.156 --> 00:13:31.363
+and translate them into movements of this new body,
+
+00:13:31.363 --> 00:13:38.121
+but for this body to be assimilated as the new body that the brain controls.
+
+00:13:38.121 --> 00:13:41.972
+So I was told about 10 years ago
+
+00:13:41.972 --> 00:13:47.038
+that this would never happen, that this was close to impossible.
+
+00:13:47.038 --> 00:13:49.489
+And I can only tell you that as a scientist,
+
+00:13:49.489 --> 00:13:52.475
+I grew up in southern Brazil in the mid-'60s
+
+00:13:52.475 --> 00:13:57.523
+watching a few crazy guys telling [us] that they would go to the Moon.
+
+00:13:57.523 --> 00:13:58.984
+And I was five years old,
+
+00:13:58.984 --> 00:14:03.224
+and I never understood why NASA didn't hire Captain Kirk and Spock to do the job;
+
+00:14:03.224 --> 00:14:05.656
+after all, they were very proficient --
+
+00:14:05.656 --> 00:14:09.106
+but just seeing that as a kid
+
+00:14:09.106 --> 00:14:12.091
+made me believe, as my grandmother used to tell me,
+
+00:14:12.091 --> 00:14:13.936
+that "impossible is just the possible
+
+00:14:13.936 --> 00:14:17.840
+that someone has not put in enough effort to make it come true."
+
+00:14:17.840 --> 00:14:21.639
+So they told me that it's impossible to make someone walk.
+
+00:14:21.639 --> 00:14:24.890
+I think I'm going to follow my grandmother's advice.
+
+00:14:24.890 --> 00:14:26.340
+Thank you.
+
+00:14:26.340 --> 00:14:34.369
+(Applause)
+

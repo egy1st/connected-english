@@ -1,0 +1,1159 @@
+WEBVTT
+
+00:00:02.058 --> 00:00:04.882
+Hello. Well, let me start
+by asking you a question:
+
+00:00:05.537 --> 00:00:08.905
+How many of you had to fill out
+some sort of web form
+
+00:00:08.929 --> 00:00:13.318
+where you've been asked to read
+a distorted sequence of characters?
+
+00:00:16.163 --> 00:00:18.097
+How many of you found it really annoying?
+
+00:00:18.611 --> 00:00:20.761
+Okay, outstanding. So I invented that.
+
+00:00:20.761 --> 00:00:22.373
+(Laughter)
+
+00:00:22.397 --> 00:00:25.848
+(Applause)
+
+00:00:29.954 --> 00:00:31.789
+That thing is called a CAPTCHA.
+
+00:00:31.789 --> 00:00:35.837
+And it is there to make sure
+the entity filling out the form
+
+00:00:35.861 --> 00:00:38.713
+is actually a human and not
+some sort of computer program
+
+00:00:38.737 --> 00:00:43.084
+that was written to submit the form
+millions and millions of times.
+
+00:00:43.108 --> 00:00:45.014
+The reason it works is because humans
+
+00:00:45.038 --> 00:00:47.443
+have no trouble reading
+these squiggly characters,
+
+00:00:47.467 --> 00:00:50.308
+whereas computer programs
+simply can't do it as well yet.
+
+00:00:50.332 --> 00:00:54.276
+For example, when you're buying tickets
+online for attending a concert
+
+00:00:54.276 --> 00:00:57.494
+the reason you have to type
+
+00:00:57.518 --> 00:01:02.183
+these distorted characters is to prevent
+
+00:01:02.207 --> 00:01:04.155
+scalpers from writing a program
+
+00:01:04.179 --> 00:01:07.004
+that can buy millions of tickets,
+two at a time.
+
+00:01:07.028 --> 00:01:08.956
+CAPTCHAs are used all over the Internet.
+
+00:01:08.980 --> 00:01:10.511
+And since they're used so often,
+
+00:01:10.535 --> 00:01:15.822
+a lot of times the precise sequence
+of random characters shown to the user
+
+00:01:15.846 --> 00:01:17.422
+is not so fortunate.
+
+00:01:17.446 --> 00:01:20.923
+So this is an example from Yahoo.
+
+00:01:20.947 --> 00:01:23.314
+The random characters that happened
+
+00:01:23.338 --> 00:01:27.306
+to be shown to the user were W, A, I, T
+
+00:01:27.330 --> 00:01:29.621
+which spells a word.
+
+00:01:29.645 --> 00:01:32.564
+But the best part is the message
+that the Yahoo help desk
+
+00:01:32.588 --> 00:01:35.634
+got about 20 minutes later.
+
+00:01:35.658 --> 00:01:38.358
+["Help! I've been waiting
+for over 20 minutes,
+
+00:01:38.382 --> 00:01:41.800
+and nothing happens."]
+(Laughter)
+
+00:01:42.390 --> 00:01:45.734
+This of course, is not as bad
+as this poor person.
+
+00:01:45.758 --> 00:01:49.017
+[REBOOT]
+(Laughter)
+
+00:01:49.041 --> 00:01:51.549
+I can tell funny stories
+about captchas for hours
+
+00:01:51.573 --> 00:01:53.409
+but since I cannot do that
+
+00:01:53.433 --> 00:01:56.218
+let me tell you about a project
+that we did afterwards
+
+00:01:56.242 --> 00:01:58.463
+which is sort of the next
+evolution of CAPTCHA.
+
+00:01:58.488 --> 00:01:59.845
+We call it reCAPTCHA,
+
+00:01:59.869 --> 00:02:03.251
+which is something that
+we started at the University,
+
+00:02:03.275 --> 00:02:05.431
+and then we turned it
+into a startup company.
+
+00:02:05.455 --> 00:02:07.374
+And then Google acquired this company.
+
+00:02:07.399 --> 00:02:09.917
+so, all what I'm going to say
+for the next 5 minutes
+
+00:02:09.941 --> 00:02:11.505
+is owned by Google.
+
+00:02:11.529 --> 00:02:14.751
+So, please, do not spread the word.
+
+00:02:14.775 --> 00:02:18.633
+So let me tell you
+how this project started.
+
+00:02:18.657 --> 00:02:23.127
+It turns out that about 200 million
+CAPTCHAs are typed everyday.
+
+00:02:23.151 --> 00:02:26.239
+When I first heard this,
+I was quite proud of myself.
+
+00:02:26.263 --> 00:02:29.266
+I thought, "look at the impact
+that my research has had."
+
+00:02:29.290 --> 00:02:31.205
+But then I started feeling bad.
+
+00:02:31.229 --> 00:02:33.108
+They are not only obnoxious, but also
+
+00:02:33.133 --> 00:02:36.577
+each time you type a CAPTCHA
+
+00:02:36.601 --> 00:02:38.933
+essentially you waste
+10 seconds of your time.
+
+00:02:38.957 --> 00:02:42.684
+And if you multiply that
+by 200 million you get that
+
+00:02:42.708 --> 00:02:46.722
+humanity as a whole is wasting
+about 500,000 hours every day
+
+00:02:46.746 --> 00:02:48.949
+typing these annoying CAPTCHAs.
+
+00:02:48.973 --> 00:02:51.417
+So then I started feeling bad.
+
+00:02:51.441 --> 00:02:54.469
+And then I started thinking,
+is there any way
+
+00:02:54.493 --> 00:02:58.341
+we can use this effort for something
+that is good for humanity?
+
+00:02:58.365 --> 00:03:03.695
+While you're typing a CAPTCHA,
+during those 10 seconds,
+
+00:03:03.719 --> 00:03:05.844
+your brain is doing something amazing.
+
+00:03:05.868 --> 00:03:09.576
+Your brain is doing something
+that computers cannot yet do.
+
+00:03:09.600 --> 00:03:11.432
+So can we get you to do some
+
+00:03:11.456 --> 00:03:13.166
+useful work to mankind?
+
+00:03:13.190 --> 00:03:14.371
+Putting it differently,
+
+00:03:14.396 --> 00:03:16.977
+is there some humongous problem
+that we cannot yet get
+
+00:03:17.001 --> 00:03:18.523
+computers to solve,
+
+00:03:18.547 --> 00:03:20.675
+yet we can split into tiny chunks
+
+00:03:20.699 --> 00:03:22.856
+such that each time
+somebody solves a CAPTCHA
+
+00:03:22.881 --> 00:03:24.934
+they solve a little bit of this problem?
+
+00:03:24.957 --> 00:03:27.868
+The answer to that is "yes,"
+and this is what we're doing now.
+
+00:03:27.893 --> 00:03:32.591
+So what you may not know is that
+nowadays while you're typing a CAPTCHA,
+
+00:03:32.615 --> 00:03:35.772
+not only are you authenticating
+yourself as a human,
+
+00:03:35.796 --> 00:03:38.676
+but in addition you're actually
+helping us to digitize books.
+
+00:03:38.827 --> 00:03:40.616
+So let me explain how this works.
+
+00:03:40.640 --> 00:03:44.297
+So there's a lot of projects out there
+trying to digitize the existing books.
+
+00:03:44.322 --> 00:03:45.749
+Google is digitizing books.
+
+00:03:45.773 --> 00:03:48.418
+Amazon, with the Kindle,
+is digitizing books.
+
+00:03:48.443 --> 00:03:51.116
+The way this works
+is you start with an old book.
+
+00:03:51.141 --> 00:03:53.142
+You've seen those things, right?
+
+00:03:53.166 --> 00:03:54.204
+Like a book?
+
+00:03:54.229 --> 00:03:55.557
+(Laughter)
+
+00:03:55.582 --> 00:03:58.063
+So you start with a book,
+and then you scan it.
+
+00:03:58.087 --> 00:04:03.549
+Now scanning a book is like taking
+a digital photograph of every page.
+
+00:04:07.567 --> 00:04:09.883
+The next step in the process
+is that the computer
+
+00:04:09.908 --> 00:04:15.128
+needs to be able to decipher
+all of the words in this image.
+
+00:04:15.152 --> 00:04:18.815
+Now the problem is that for older books
+that were written several years ago
+
+00:04:18.839 --> 00:04:21.291
+the computer cannot recognize
+a lot of the words
+
+00:04:21.315 --> 00:04:25.119
+because the ink has faded
+and the pages have turned yellow.
+
+00:04:25.143 --> 00:04:26.953
+Thus the words look a bit different
+
+00:04:26.977 --> 00:04:29.803
+and the computer cannot recognize them.
+
+00:04:29.827 --> 00:04:32.468
+So, for books that were written
+more than 50 years ago,
+
+00:04:32.493 --> 00:04:35.895
+the computer cannot recognize
+about 30 percent of the words.
+
+00:04:35.919 --> 00:04:37.084
+So what we're doing now
+
+00:04:37.109 --> 00:04:40.400
+is we're taking all of the words
+that the computer cannot recognize
+
+00:04:40.425 --> 00:04:43.824
+and we're getting people to read them
+for us while they're typing
+
+00:04:43.848 --> 00:04:45.311
+a CAPTCHA on the Internet.
+
+00:04:45.335 --> 00:04:47.727
+So, the next time you type a CAPTCHA -
+
+00:04:47.751 --> 00:04:54.322
+(Applause)
+
+00:04:54.346 --> 00:04:57.535
+these words that you're typing
+
+00:04:57.559 --> 00:05:00.927
+are actually words that are coming
+from books that are being digitized
+
+00:05:00.951 --> 00:05:03.145
+that the computer could not recognize.
+
+00:05:03.169 --> 00:05:06.958
+And now the reason we have
+two words nowadays instead of one
+
+00:05:06.982 --> 00:05:12.167
+is because we need to verify
+if the answer is correct.
+
+00:05:13.588 --> 00:05:17.682
+Because one of the words is such
+that the system knows what it was,
+
+00:05:17.706 --> 00:05:20.728
+and the other is a word that
+the system just got out of a book,
+
+00:05:20.753 --> 00:05:23.538
+it didn't know what it was,
+and it's presented to you.
+
+00:05:24.014 --> 00:05:27.069
+We're going to ask you to type both words.
+
+00:05:27.093 --> 00:05:29.072
+And we won't tell you which one's which.
+
+00:05:29.096 --> 00:05:30.682
+And if you type the correct word
+
+00:05:30.707 --> 00:05:33.483
+for the one for which the system
+already knows the answer,
+
+00:05:33.508 --> 00:05:35.069
+it assumes you are human,
+
+00:05:35.093 --> 00:05:39.600
+and it also gets some confidence
+that you typed the other word correctly.
+
+00:05:39.624 --> 00:05:43.264
+And if we repeat this process
+to like 10 different people
+
+00:05:43.288 --> 00:05:45.582
+and all of them agree
+on what the new word is,
+
+00:05:45.606 --> 00:05:47.884
+we are very confident
+that this new word
+
+00:05:47.908 --> 00:05:49.850
+was accurately digitized.
+
+00:05:49.874 --> 00:05:51.920
+So this is how the system works.
+
+00:05:51.944 --> 00:05:54.396
+The good thing is that
+it has been very successful.
+
+00:05:54.428 --> 00:05:57.825
+We're digitizing about
+100 million words a day,
+
+00:05:57.849 --> 00:06:01.513
+which is the equivalent of
+about two million books a year.
+
+00:06:01.537 --> 00:06:04.436
+And this is all being done
+one word at a time
+
+00:06:04.460 --> 00:06:07.016
+by just people typing CAPTCHAs
+on the Internet.
+
+00:06:07.040 --> 00:06:10.672
+Now, since we're doing
+so many words per day,
+
+00:06:10.696 --> 00:06:14.724
+funny things can happen.
+
+00:06:14.748 --> 00:06:18.286
+And this is especially true
+because now we're giving people
+
+00:06:18.310 --> 00:06:21.676
+two randomly chosen English words
+next to each other.
+
+00:06:21.700 --> 00:06:23.976
+So funny things can happen.
+
+00:06:24.000 --> 00:06:25.976
+For example, we presented this word.
+
+00:06:26.000 --> 00:06:30.284
+It's the word "Christians";
+there's nothing wrong with it.
+
+00:06:30.308 --> 00:06:33.976
+But if you present it along with
+another randomly chosen word,
+
+00:06:34.000 --> 00:06:35.276
+bad things can happen.
+
+00:06:35.300 --> 00:06:38.128
+So we get this.
+[bad Christians]
+
+00:06:38.152 --> 00:06:39.317
+(Laughter)
+
+00:06:39.341 --> 00:06:40.860
+It's quite funny.
+
+00:06:40.884 --> 00:06:43.316
+But it's even worse,
+because the particular website
+
+00:06:43.340 --> 00:06:45.251
+where we showed this
+
+00:06:45.275 --> 00:06:50.080
+actually happened to be called
+The Embassy of the Kingdom of God.
+
+00:06:50.104 --> 00:06:51.841
+(Laughter)
+
+00:06:51.865 --> 00:06:52.959
+Oops!
+
+00:06:52.984 --> 00:06:54.882
+Here's another really bad one.
+
+00:06:54.906 --> 00:06:59.417
+American politician, JohnEdwards.com
+[Damn liberal]
+
+00:06:59.441 --> 00:07:03.691
+(Laughter)
+
+00:07:03.715 --> 00:07:06.836
+So we keep on insulting people everyday.
+
+00:07:06.860 --> 00:07:08.971
+Now, we're not just insulting people.
+
+00:07:08.995 --> 00:07:11.851
+Quite often,
+interesting things can happen.
+
+00:07:11.875 --> 00:07:15.009
+So this actually has given rise
+to an Internet meme
+
+00:07:15.033 --> 00:07:17.367
+that millions of people
+have participated in,
+
+00:07:17.391 --> 00:07:20.173
+which is called CAPTCHA art.
+
+00:07:20.197 --> 00:07:21.759
+Here's how it works.
+
+00:07:21.783 --> 00:07:25.505
+Imagine you're using the
+Internet and you see a CAPTCHA
+
+00:07:25.529 --> 00:07:27.917
+that you think is somewhat peculiar,
+
+00:07:27.941 --> 00:07:30.204
+like this CAPTCHA.
+
+00:07:30.228 --> 00:07:33.484
+Then what you're supposed to do
+is you take a screen shot of it.
+
+00:07:33.508 --> 00:07:35.395
+Then of course,
+you fill out the CAPTCHA
+
+00:07:35.420 --> 00:07:38.119
+because you help us
+digitize a book, please.
+
+00:07:38.143 --> 00:07:40.160
+But then, first you take a screen shot,
+
+00:07:40.184 --> 00:07:44.389
+and then you draw something
+that is related to it, like this.
+
+00:07:44.413 --> 00:07:46.082
+[invisible toaster]
+
+00:07:46.106 --> 00:07:47.136
+(Laughter)
+
+00:07:47.161 --> 00:07:50.639
+It's just an example of CAPTCHA art.
+
+00:07:50.662 --> 00:07:54.359
+There are tens of thousands of these.
+Some of them are interesting.
+
+00:07:54.383 --> 00:07:57.672
+Some of them are very cute.
+[clenched it!]
+
+00:07:57.696 --> 00:08:01.190
+Some of them are funnier.
+
+00:08:01.214 --> 00:08:07.551
+[stoned founders]
+(Laughter)
+
+00:08:07.575 --> 00:08:11.761
+This is my favorite number
+of this whole project: 900 millions.
+
+00:08:11.785 --> 00:08:14.921
+This is the number of distinct people
+
+00:08:14.945 --> 00:08:17.307
+that have helped us digitize
+at least one word
+
+00:08:17.331 --> 00:08:19.067
+out of a book through reCAPTCHA.
+
+00:08:19.091 --> 00:08:21.186
+A little over 10%
+of the world's population,
+
+00:08:21.211 --> 00:08:22.946
+has helped digitize human knowledge.
+
+00:08:22.970 --> 00:08:25.992
+And it is numbers like these
+that motivate my research agenda.
+
+00:08:26.016 --> 00:08:29.553
+So the question that motivates
+my research is the following:
+
+00:08:29.577 --> 00:08:32.626
+If you look at humanity's
+large-scale achievements,
+
+00:08:32.652 --> 00:08:35.371
+these really big things that humanity
+has gotten together
+
+00:08:35.397 --> 00:08:40.099
+like building the pyramids of Egypt
+or the Panama Canal
+
+00:08:40.123 --> 00:08:42.357
+or putting a man on the Moon --
+
+00:08:42.381 --> 00:08:44.813
+there is a curious fact about them,
+
+00:08:44.837 --> 00:08:48.268
+and it is that they were all done
+with about the same number of people.
+
+00:08:48.292 --> 00:08:50.836
+They were all done with
+about 100,000 people.
+
+00:08:50.860 --> 00:08:53.231
+We can ask ourselves
+why is that all of them used
+
+00:08:53.256 --> 00:08:54.842
+about the same number of people.
+
+00:08:54.867 --> 00:08:57.368
+The reason for that is because,
+before the Internet,
+
+00:08:57.393 --> 00:09:00.797
+coordinating more than
+100,000 people was impossible.
+
+00:09:00.821 --> 00:09:03.535
+But now with the Internet,
+I've just shown you a project
+
+00:09:03.559 --> 00:09:06.433
+where we've coordinated
+900 million people.
+
+00:09:06.457 --> 00:09:08.734
+So the question that
+motivates my research is,
+
+00:09:08.758 --> 00:09:11.238
+if we can put a man on the Moon
+with 100,000 people,
+
+00:09:11.262 --> 00:09:14.219
+what can we do with
+100 million people?
+
+00:09:14.243 --> 00:09:17.371
+Based on this question,
+we've been working on a lot of projects.
+
+00:09:17.395 --> 00:09:19.397
+I will not tell you
+about all we have done.
+
+00:09:19.421 --> 00:09:22.446
+But, let me tell you about
+one that we are working on now.
+
+00:09:22.470 --> 00:09:25.479
+We've been working on this
+for about two years now.
+
+00:09:25.503 --> 00:09:29.737
+And we're going to launch it
+in about 30 days.
+
+00:09:29.761 --> 00:09:32.511
+It's called Duolingo.
+
+00:09:32.535 --> 00:09:35.484
+This project started asking
+the following question:
+
+00:09:35.508 --> 00:09:39.798
+How can we get 100 million people
+
+00:09:39.822 --> 00:09:45.173
+translating the Web into
+every major language for free?
+
+00:09:45.197 --> 00:09:47.736
+So there's a lot of things
+to say about this question.
+
+00:09:47.760 --> 00:09:49.441
+First of all, translating the Web.
+
+00:09:49.466 --> 00:09:51.960
+Right now it is partitioned
+into multiple languages.
+
+00:09:51.984 --> 00:09:54.065
+A large fraction of it is in English.
+
+00:09:54.089 --> 00:09:56.524
+If you don't know any English,
+you can't access it.
+
+00:09:56.548 --> 00:09:58.618
+But large fractions are
+in other languages,
+
+00:09:58.643 --> 00:10:01.443
+and if you don't know the languages
+you can't access them.
+
+00:10:01.468 --> 00:10:05.026
+I would like to translate all
+of the Web into every major language.
+
+00:10:05.310 --> 00:10:08.209
+Now some of you may say,
+
+00:10:08.233 --> 00:10:10.686
+why can't we use computers to translate?
+
+00:10:10.710 --> 00:10:14.677
+Machine translation nowadays is starting
+to translate some sentences.
+
+00:10:14.701 --> 00:10:17.079
+Well the problem with that is that
+
+00:10:17.103 --> 00:10:18.797
+it's not yet good enough,
+
+00:10:18.821 --> 00:10:23.275
+and it probably won't be
+for the next 20 to 30 years.
+
+00:10:23.299 --> 00:10:26.531
+So let me show you an example of something
+
+00:10:26.555 --> 00:10:28.240
+that was translated by a machine.
+
+00:10:28.264 --> 00:10:32.834
+Actually it was a forum
+about programming questions.
+
+00:10:37.614 --> 00:10:40.208
+It was a programming question
+translated from Japanese
+
+00:10:40.233 --> 00:10:44.667
+into English and from then into Spanish,
+though my translation is good.
+
+00:10:44.691 --> 00:10:46.941
+The other one is bad. You'll see.
+
+00:10:46.965 --> 00:10:50.447
+So I'll just let you read.
+
+00:10:50.471 --> 00:10:53.308
+This person starts apologizing for
+the machine translation.
+
+00:10:53.332 --> 00:10:55.954
+Indeed, this was done with
+the best translation program
+
+00:10:55.978 --> 00:10:57.421
+from Japanese into English.
+
+00:10:57.445 --> 00:11:03.475
+Remember, it's a question
+about computer programming.
+
+00:11:03.499 --> 00:11:06.076
+So here you are the preamble
+to the question.
+
+00:11:06.100 --> 00:11:11.893
+[At often, the goat-time install
+a error is vomit.] (Laughter)
+
+00:11:11.917 --> 00:11:13.995
+Then comes the first part of the question.
+
+00:11:14.020 --> 00:11:19.726
+[How many times like the wind, a pole,
+and the dragon?] (Laughter)
+
+00:11:19.750 --> 00:11:21.801
+Then comes my favorite part
+of the question.
+
+00:11:21.825 --> 00:11:25.939
+[This insult to father's stones?]
+(Laughter)
+
+00:11:25.963 --> 00:11:28.444
+And then comes my favorite
+part of the whole thing.
+
+00:11:28.468 --> 00:11:32.451
+[Please apologize for your stupidity.
+There are a many thank you.] (Laughter)
+
+00:11:32.475 --> 00:11:34.950
+Okay, so computer translation
+isn't yet good enough.
+
+00:11:34.974 --> 00:11:36.594
+We need people to translate.
+
+00:11:36.618 --> 00:11:39.332
+So what I want is to get
+100 million people
+
+00:11:39.356 --> 00:11:42.640
+translating the Web into
+every major language for free.
+
+00:11:42.665 --> 00:11:45.600
+I couldn't afford paying
+100 million people for the job,
+
+00:11:45.625 --> 00:11:47.202
+so I want them to do it for free.
+
+00:11:47.227 --> 00:11:48.940
+Now if this is what you want to do,
+
+00:11:48.965 --> 00:11:51.485
+you pretty quickly realize
+you're going to run into
+
+00:11:51.509 --> 00:11:55.949
+two pretty big obstacles,
+needing to be hurdled.
+
+00:11:55.973 --> 00:12:00.028
+The first one is a lack of bilinguals.
+
+00:12:00.052 --> 00:12:03.159
+So I don't even know if there
+exists 100 million people out there
+
+00:12:03.183 --> 00:12:06.501
+using the Web who are bilingual
+enough to help us translate.
+
+00:12:06.525 --> 00:12:07.570
+That's a big problem.
+
+00:12:07.594 --> 00:12:09.708
+The other problem is a lack of motivation.
+
+00:12:09.732 --> 00:12:13.720
+How are we going to motivate people
+to actually translate the Web for free?
+
+00:12:13.744 --> 00:12:18.844
+After thinking about this for months,
+
+00:12:18.868 --> 00:12:20.864
+we realized there's actually a way
+
+00:12:20.888 --> 00:12:23.610
+to solve both these problems
+with the same solution.
+
+00:12:23.634 --> 00:12:26.720
+We realized that there's a way
+to kill two birds with one stone.
+
+00:12:26.745 --> 00:12:30.892
+And that is to transform
+language translation
+
+00:12:30.916 --> 00:12:33.986
+into something that millions
+of people want to do,
+
+00:12:34.010 --> 00:12:37.882
+and that also helps with
+the problem of lack of bilinguals,
+
+00:12:37.906 --> 00:12:40.416
+and that is language education.
+
+00:12:40.441 --> 00:12:44.061
+It turns out there are millions of people
+wanting to learn other languages.
+
+00:12:44.085 --> 00:12:49.119
+Today there are over 1.2 billion people
+learning a foreign language.
+
+00:12:49.143 --> 00:12:52.326
+And it's not just because
+they're being forced to do so in school.
+
+00:12:52.350 --> 00:12:54.936
+For example, in the United States alone,
+there are over
+
+00:12:54.961 --> 00:12:58.936
+5 million people who have paid
+over $500 for software
+
+00:12:58.961 --> 00:13:00.459
+to learn a new language.
+
+00:13:00.483 --> 00:13:03.364
+Many people want to learn a new language.
+
+00:13:03.388 --> 00:13:06.667
+So what we've been working on
+for the last two years
+
+00:13:06.691 --> 00:13:08.824
+is a new website called Duolingo,
+
+00:13:08.848 --> 00:13:11.816
+where the basic idea is
+people learn a new language
+
+00:13:11.840 --> 00:13:17.188
+for free, while simultaneously
+translating the Web.
+
+00:13:17.916 --> 00:13:19.977
+And so they're learning by doing.
+
+00:13:20.001 --> 00:13:21.634
+So this is how it works.
+
+00:13:21.658 --> 00:13:25.528
+The way this works is whenever
+you're a just a beginner,
+
+00:13:25.552 --> 00:13:28.036
+we give you very,
+very simple sentences on the Web.
+
+00:13:28.060 --> 00:13:31.716
+And if you don't know a word
+we'll tell you what each word means
+
+00:13:31.740 --> 00:13:34.159
+though you are asked
+to "translate this sentence".
+
+00:13:34.184 --> 00:13:36.058
+And it turns out that it really works.
+
+00:13:36.082 --> 00:13:38.358
+Even though people know nothing
+of the language
+
+00:13:38.383 --> 00:13:41.635
+if we explain what each word means,
+they'll be able to translate it.
+
+00:13:41.660 --> 00:13:43.432
+As you see how other people translate
+
+00:13:43.456 --> 00:13:45.842
+the same sentence,
+you start learning the language.
+
+00:13:45.866 --> 00:13:47.857
+And as you get more and more advanced,
+
+00:13:47.881 --> 00:13:51.078
+we give you more and more
+complex sentences to translate.
+
+00:13:51.102 --> 00:13:53.431
+This is how
+you are going to help us translate.
+
+00:13:53.455 --> 00:13:55.104
+This is how the site works.
+
+00:13:55.128 --> 00:13:57.118
+We're mostly done building it,
+
+00:13:57.142 --> 00:13:59.415
+and now we're testing it.
+
+00:13:59.439 --> 00:14:01.184
+When we started working on this
+
+00:14:01.208 --> 00:14:03.653
+I didn't think it could work, really.
+
+00:14:03.677 --> 00:14:06.183
+But it turns out that
+it works, indeed. It's amazing.
+
+00:14:06.207 --> 00:14:08.988
+First, people really
+can learn a language with it.
+
+00:14:09.012 --> 00:14:12.369
+In this case we are testing it with people
+
+00:14:12.393 --> 00:14:14.751
+knowing English,
+wanting to learn Spanish,
+
+00:14:14.775 --> 00:14:16.049
+and vice versa.
+
+00:14:16.073 --> 00:14:18.309
+So people really do learn a language.
+
+00:14:18.333 --> 00:14:19.920
+And they learn it about as well
+
+00:14:19.945 --> 00:14:22.077
+as the leading language learning software,
+
+00:14:22.102 --> 00:14:24.498
+which is very good,
+but perhaps more surprisingly,
+
+00:14:24.523 --> 00:14:28.924
+the translations that we get from people
+using the site are very good.
+
+00:14:28.948 --> 00:14:30.767
+They are as accurate as those
+
+00:14:30.791 --> 00:14:33.291
+of professional language translators.
+
+00:14:33.315 --> 00:14:36.407
+Now of course,
+we play a trick here and it is that
+
+00:14:36.431 --> 00:14:40.748
+we combine the translations
+of multiple beginners, several students,
+
+00:14:40.772 --> 00:14:42.490
+and choose the best.
+
+00:14:42.514 --> 00:14:44.742
+But it turns out
+that that best translation
+
+00:14:44.767 --> 00:14:47.925
+is as good as those of
+professional language translators.
+
+00:14:47.949 --> 00:14:53.553
+Now even though we're combining
+multiple translations,
+
+00:14:54.857 --> 00:14:57.073
+another good thing about Duolingo is that
+
+00:14:57.097 --> 00:15:00.188
+the site actually
+can translate pretty fast.
+
+00:15:00.212 --> 00:15:03.531
+So let me show you an estimate
+of how fast we could translate.
+
+00:15:03.555 --> 00:15:06.579
+If we wanted to translate Wikipedia
+from English into Spanish --
+
+00:15:06.604 --> 00:15:09.319
+of course, Wikipedia exists in Spanish
+but is much smaller
+
+00:15:09.343 --> 00:15:12.098
+than its English counterpart,
+about 20 percent of it --
+
+00:15:12.122 --> 00:15:15.711
+If we wanted to translate Wikipedia
+from English into Spanish using Duolingo
+
+00:15:15.735 --> 00:15:20.922
+we could do it in five weeks
+with 100,000 active users
+
+00:15:20.946 --> 00:15:22.500
+learning English with Duolingo.
+
+00:15:22.524 --> 00:15:25.623
+And we could do it in about 80 hours
+with a million active users.
+
+00:15:25.647 --> 00:15:28.333
+Since all the projects that
+my group has worked on so far
+
+00:15:28.357 --> 00:15:29.994
+have gotten millions of users,
+
+00:15:30.018 --> 00:15:33.452
+we're hopeful that we'll be able
+to translate the Web for free.
+
+00:15:33.476 --> 00:15:35.693
+We haven't yet launched Duolingo,
+
+00:15:35.717 --> 00:15:39.113
+(Applause)
+
+00:15:45.159 --> 00:15:46.895
+I'd like to leave you with --
+
+00:15:47.871 --> 00:15:49.941
+we haven't yet launched Duolingo
+we plan to do so in 30 days.
+
+00:15:49.966 --> 00:15:52.230
+If you visit Duolingo.com, you can sign up
+
+00:15:52.254 --> 00:15:56.547
+to be part of our private beta
+in about 30 days.
+
+00:15:56.572 --> 00:15:57.658
+Help us.
+
+00:15:57.683 --> 00:15:58.833
+Thank you.
+
+00:15:58.858 --> 00:16:00.373
+(Applause)
+

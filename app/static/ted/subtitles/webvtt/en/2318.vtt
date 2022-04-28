@@ -1,0 +1,609 @@
+WEBVTT
+
+00:00:00.999 --> 00:00:05.975
+Over a million people are killed
+each year in disasters.
+
+00:00:05.999 --> 00:00:11.233
+Two and a half million people
+will be permanently disabled or displaced,
+
+00:00:11.257 --> 00:00:15.181
+and the communities will take
+20 to 30 years to recover
+
+00:00:15.205 --> 00:00:17.606
+and billions of economic losses.
+
+00:00:19.054 --> 00:00:23.425
+If you can reduce
+the initial response by one day,
+
+00:00:23.449 --> 00:00:26.976
+you can reduce the overall recovery
+
+00:00:27.000 --> 00:00:29.808
+by a thousand days, or three years.
+
+00:00:29.832 --> 00:00:31.585
+See how that works?
+
+00:00:31.609 --> 00:00:34.459
+If the initial responders
+can get in, save lives,
+
+00:00:34.483 --> 00:00:36.999
+mitigate whatever flooding
+danger there is,
+
+00:00:37.023 --> 00:00:39.307
+that means the other groups can get in
+
+00:00:39.331 --> 00:00:42.316
+to restore the water,
+the roads, the electricity,
+
+00:00:42.340 --> 00:00:45.456
+which means then the construction people,
+the insurance agents,
+
+00:00:45.480 --> 00:00:48.094
+all of them can get in
+to rebuild the houses,
+
+00:00:48.118 --> 00:00:51.106
+which then means
+you can restore the economy,
+
+00:00:51.130 --> 00:00:56.003
+and maybe even make it better
+and more resilient to the next disaster.
+
+00:00:57.899 --> 00:00:59.695
+A major insurance company told me
+
+00:00:59.719 --> 00:01:04.831
+that if they can get a homeowner's claim
+processed one day earlier,
+
+00:01:04.855 --> 00:01:06.975
+it'll make a difference of six months
+
+00:01:06.999 --> 00:01:09.239
+in that person getting
+their home repaired.
+
+00:01:10.118 --> 00:01:12.447
+And that's why I do disaster robotics --
+
+00:01:12.471 --> 00:01:16.970
+because robots can
+make a disaster go away faster.
+
+00:01:18.305 --> 00:01:20.322
+Now, you've already seen
+a couple of these.
+
+00:01:20.346 --> 00:01:22.066
+These are the UAVs.
+
+00:01:22.090 --> 00:01:23.951
+These are two types of UAVs:
+
+00:01:23.975 --> 00:01:25.840
+a rotorcraft, or hummingbird;
+
+00:01:25.864 --> 00:01:27.934
+a fixed-wing, a hawk.
+
+00:01:27.958 --> 00:01:31.348
+And they're used extensively since 2005 --
+
+00:01:31.372 --> 00:01:32.547
+Hurricane Katrina.
+
+00:01:32.571 --> 00:01:35.895
+Let me show you how this hummingbird,
+this rotorcraft, works.
+
+00:01:35.919 --> 00:01:38.975
+Fantastic for structural engineers.
+
+00:01:38.999 --> 00:01:43.419
+Being able to see damage from angles you
+can't get from binoculars on the ground
+
+00:01:43.443 --> 00:01:44.753
+or from a satellite image,
+
+00:01:44.777 --> 00:01:47.969
+or anything flying at a higher angle.
+
+00:01:48.530 --> 00:01:52.902
+But it's not just structural engineers
+and insurance people who need this.
+
+00:01:52.926 --> 00:01:55.393
+You've got things
+like this fixed-wing, this hawk.
+
+00:01:55.417 --> 00:01:58.688
+Now, this hawk can be used
+for geospatial surveys.
+
+00:01:58.712 --> 00:02:01.561
+That's where you're
+pulling imagery together
+
+00:02:01.585 --> 00:02:03.410
+and getting 3D reconstruction.
+
+00:02:03.434 --> 00:02:07.508
+We used both of these at the Oso mudslides
+up in Washington State,
+
+00:02:07.532 --> 00:02:09.731
+because the big problem
+
+00:02:09.755 --> 00:02:12.913
+was geospatial and hydrological
+understanding of the disaster --
+
+00:02:12.937 --> 00:02:14.183
+not the search and rescue.
+
+00:02:14.207 --> 00:02:16.526
+The search and rescue teams
+had it under control
+
+00:02:16.550 --> 00:02:18.028
+and knew what they were doing.
+
+00:02:18.052 --> 00:02:21.922
+The bigger problem was that river
+and mudslide might wipe them out
+
+00:02:21.946 --> 00:02:23.440
+and flood the responders.
+
+00:02:23.464 --> 00:02:27.206
+And not only was it challenging
+to the responders and property damage,
+
+00:02:27.230 --> 00:02:30.509
+it's also putting at risk
+the future of salmon fishing
+
+00:02:30.533 --> 00:02:32.249
+along that part of Washington State.
+
+00:02:32.273 --> 00:02:34.749
+So they needed to understand
+what was going on.
+
+00:02:34.773 --> 00:02:37.382
+In seven hours, going from Arlington,
+
+00:02:37.406 --> 00:02:42.220
+driving from the Incident Command Post
+to the site, flying the UAVs,
+
+00:02:42.244 --> 00:02:45.975
+processing the data, driving back
+to Arlington command post --
+
+00:02:45.999 --> 00:02:47.405
+seven hours.
+
+00:02:47.429 --> 00:02:50.963
+We gave them in seven hours
+data that they could take
+
+00:02:50.987 --> 00:02:54.737
+only two to three days
+to get any other way --
+
+00:02:54.761 --> 00:02:56.598
+and at higher resolution.
+
+00:02:57.064 --> 00:02:58.437
+It's a game changer.
+
+00:02:59.773 --> 00:03:01.842
+And don't just think about the UAVs.
+
+00:03:01.866 --> 00:03:04.494
+I mean, they are sexy -- but remember,
+
+00:03:04.518 --> 00:03:07.854
+80 percent of the world's
+population lives by water,
+
+00:03:07.878 --> 00:03:10.742
+and that means our critical
+infrastructure is underwater --
+
+00:03:10.766 --> 00:03:14.052
+the parts that we can't get to,
+like the bridges and things like that.
+
+00:03:14.076 --> 00:03:16.668
+And that's why we have
+unmanned marine vehicles,
+
+00:03:16.692 --> 00:03:21.144
+one type of which you've already met,
+which is SARbot, a square dolphin.
+
+00:03:21.168 --> 00:03:23.864
+It goes underwater and uses sonar.
+
+00:03:23.888 --> 00:03:26.221
+Well, why are marine vehicles so important
+
+00:03:26.245 --> 00:03:29.369
+and why are they very, very important?
+
+00:03:29.393 --> 00:03:30.909
+They get overlooked.
+
+00:03:30.933 --> 00:03:33.335
+Think about the Japanese tsunami --
+
+00:03:33.359 --> 00:03:37.325
+400 miles of coastland totally devastated,
+
+00:03:37.349 --> 00:03:42.045
+twice the amount of coastland devastated
+by Hurricane Katrina in the United States.
+
+00:03:42.069 --> 00:03:45.925
+You're talking about your bridges,
+your pipelines, your ports -- wiped out.
+
+00:03:45.949 --> 00:03:47.561
+And if you don't have a port,
+
+00:03:47.585 --> 00:03:50.831
+you don't have a way
+to get in enough relief supplies
+
+00:03:50.855 --> 00:03:52.076
+to support a population.
+
+00:03:52.100 --> 00:03:54.672
+That was a huge problem
+at the Haiti earthquake.
+
+00:03:55.565 --> 00:03:57.687
+So we need marine vehicles.
+
+00:03:57.711 --> 00:04:00.142
+Now, let's look at a viewpoint
+from the SARbot
+
+00:04:00.166 --> 00:04:01.637
+of what they were seeing.
+
+00:04:01.661 --> 00:04:03.907
+We were working on a fishing port.
+
+00:04:03.931 --> 00:04:09.647
+We were able to reopen that fishing port,
+using her sonar, in four hours.
+
+00:04:09.671 --> 00:04:12.324
+That fishing port was told
+it was going to be six months
+
+00:04:12.348 --> 00:04:15.054
+before they could get
+a manual team of divers in,
+
+00:04:15.078 --> 00:04:17.765
+and it was going to take
+the divers two weeks.
+
+00:04:17.789 --> 00:04:20.083
+They were going to miss
+the fall fishing season,
+
+00:04:20.107 --> 00:04:24.333
+which was the major economy for that part,
+which is kind of like their Cape Cod.
+
+00:04:24.357 --> 00:04:26.625
+UMVs, very important.
+
+00:04:26.649 --> 00:04:29.897
+But you know, all the robots
+I've shown you have been small,
+
+00:04:29.921 --> 00:04:33.698
+and that's because robots
+don't do things that people do.
+
+00:04:33.722 --> 00:04:35.975
+They go places people can't go.
+
+00:04:35.999 --> 00:04:38.975
+And a great example of that is Bujold.
+
+00:04:38.999 --> 00:04:41.975
+Unmanned ground vehicles
+are particularly small,
+
+00:04:41.999 --> 00:04:43.317
+so Bujold --
+
+00:04:43.341 --> 00:04:44.849
+(Laughter)
+
+00:04:44.873 --> 00:04:46.056
+Say hello to Bujold.
+
+00:04:46.080 --> 00:04:48.764
+(Laughter)
+
+00:04:49.606 --> 00:04:52.975
+Bujold was used extensively
+at the World Trade Center
+
+00:04:52.999 --> 00:04:55.379
+to go through Towers 1, 2 and 4.
+
+00:04:55.403 --> 00:05:00.048
+You're climbing into the rubble,
+rappelling down, going deep in spaces.
+
+00:05:00.072 --> 00:05:04.631
+And just to see the World Trade Center
+from Bujold's viewpoint, look at this.
+
+00:05:04.655 --> 00:05:09.724
+You're talking about a disaster
+where you can't fit a person or a dog --
+
+00:05:09.748 --> 00:05:11.890
+and it's on fire.
+
+00:05:11.914 --> 00:05:15.648
+The only hope of getting
+to a survivor way in the basement,
+
+00:05:15.672 --> 00:05:17.867
+you have to go through things
+that are on fire.
+
+00:05:17.891 --> 00:05:22.395
+It was so hot, on one of the robots,
+the tracks began to melt and come off.
+
+00:05:23.161 --> 00:05:25.949
+Robots don't replace people or dogs,
+
+00:05:25.973 --> 00:05:28.494
+or hummingbirds or hawks or dolphins.
+
+00:05:28.518 --> 00:05:30.554
+They do things new.
+
+00:05:30.578 --> 00:05:36.267
+They assist the responders,
+the experts, in new and innovative ways.
+
+00:05:36.291 --> 00:05:40.720
+The biggest problem is not
+making the robots smaller, though.
+
+00:05:40.744 --> 00:05:42.975
+It's not making them more heat-resistant.
+
+00:05:42.999 --> 00:05:44.756
+It's not making more sensors.
+
+00:05:44.780 --> 00:05:48.390
+The biggest problem is the data,
+the informatics,
+
+00:05:48.414 --> 00:05:52.450
+because these people need to get
+the right data at the right time.
+
+00:05:52.474 --> 00:05:57.975
+So wouldn't it be great if we could have
+experts immediately access the robots
+
+00:05:57.999 --> 00:06:00.975
+without having to waste any time
+of driving to the site,
+
+00:06:00.999 --> 00:06:03.932
+so whoever's there,
+use their robots over the Internet.
+
+00:06:03.956 --> 00:06:05.338
+Well, let's think about that.
+
+00:06:05.362 --> 00:06:08.734
+Let's think about a chemical
+train derailment in a rural county.
+
+00:06:08.758 --> 00:06:12.600
+What are the odds that the experts,
+your chemical engineer,
+
+00:06:12.624 --> 00:06:14.486
+your railroad transportation engineers,
+
+00:06:14.510 --> 00:06:19.371
+have been trained on whatever UAV
+that particular county happens to have?
+
+00:06:19.395 --> 00:06:20.928
+Probably, like, none.
+
+00:06:20.952 --> 00:06:23.342
+So we're using these kinds of interfaces
+
+00:06:23.366 --> 00:06:27.706
+to allow people to use the robots
+without knowing what robot they're using,
+
+00:06:27.730 --> 00:06:30.516
+or even if they're using a robot or not.
+
+00:06:32.252 --> 00:06:38.286
+What the robots give you,
+what they give the experts, is data.
+
+00:06:38.310 --> 00:06:41.890
+The problem becomes:
+who gets what data when?
+
+00:06:41.914 --> 00:06:45.807
+One thing to do is to ship
+all the information to everybody
+
+00:06:45.831 --> 00:06:47.343
+and let them sort it out.
+
+00:06:47.367 --> 00:06:51.223
+Well, the problem with that
+is it overwhelms the networks,
+
+00:06:51.247 --> 00:06:54.933
+and worse yet, it overwhelms
+the cognitive abilities
+
+00:06:54.957 --> 00:06:59.466
+of each of the people trying to get
+that one nugget of information
+
+00:06:59.490 --> 00:07:03.295
+they need to make the decision
+that's going to make the difference.
+
+00:07:03.999 --> 00:07:07.093
+So we need to think
+about those kinds of challenges.
+
+00:07:07.117 --> 00:07:08.382
+So it's the data.
+
+00:07:08.406 --> 00:07:10.642
+Going back to the World Trade Center,
+
+00:07:10.666 --> 00:07:14.975
+we tried to solve that problem
+by just recording the data from Bujold
+
+00:07:14.999 --> 00:07:16.975
+only when she was deep in the rubble,
+
+00:07:16.999 --> 00:07:19.563
+because that's what the USAR team
+said they wanted.
+
+00:07:20.523 --> 00:07:23.111
+What we didn't know at the time
+
+00:07:23.135 --> 00:07:25.733
+was that the civil engineers
+would have loved,
+
+00:07:25.757 --> 00:07:29.975
+needed the data as we recorded
+the box beams, the serial numbers,
+
+00:07:29.999 --> 00:07:32.618
+the locations, as we went into the rubble.
+
+00:07:33.343 --> 00:07:34.810
+We lost valuable data.
+
+00:07:34.834 --> 00:07:37.213
+So the challenge is getting all the data
+
+00:07:37.237 --> 00:07:39.417
+and getting it to the right people.
+
+00:07:39.441 --> 00:07:41.518
+Now, here's another reason.
+
+00:07:41.542 --> 00:07:43.853
+We've learned that some buildings --
+
+00:07:43.877 --> 00:07:47.149
+things like schools,
+hospitals, city halls --
+
+00:07:47.173 --> 00:07:51.192
+get inspected four times
+by different agencies
+
+00:07:51.216 --> 00:07:53.466
+throughout the response phases.
+
+00:07:54.156 --> 00:07:57.425
+Now, we're looking, if we can get
+the data from the robots to share,
+
+00:07:57.449 --> 00:08:02.299
+not only can we do things like
+compress that sequence of phases
+
+00:08:02.323 --> 00:08:03.976
+to shorten the response time,
+
+00:08:04.000 --> 00:08:08.358
+but now we can begin
+to do the response in parallel.
+
+00:08:08.382 --> 00:08:09.761
+Everybody can see the data.
+
+00:08:09.785 --> 00:08:11.247
+We can shorten it that way.
+
+00:08:11.999 --> 00:08:15.405
+So really, "disaster robotics"
+is a misnomer.
+
+00:08:16.227 --> 00:08:18.122
+It's not about the robots.
+
+00:08:18.146 --> 00:08:20.028
+It's about the data.
+
+00:08:20.433 --> 00:08:23.763
+(Applause)
+
+00:08:23.787 --> 00:08:25.744
+So my challenge to you:
+
+00:08:25.768 --> 00:08:28.068
+the next time you hear about a disaster,
+
+00:08:28.092 --> 00:08:29.417
+look for the robots.
+
+00:08:29.441 --> 00:08:32.566
+They may be underground,
+they may be underwater,
+
+00:08:32.590 --> 00:08:34.284
+they may be in the sky,
+
+00:08:34.308 --> 00:08:36.273
+but they should be there.
+
+00:08:36.297 --> 00:08:37.464
+Look for the robots,
+
+00:08:37.488 --> 00:08:40.235
+because robots are coming to the rescue.
+
+00:08:40.259 --> 00:08:45.920
+(Applause)
+

@@ -1,0 +1,1291 @@
+WEBVTT
+
+00:00:12.150 --> 00:00:14.150
+My name is Jonathan Zittrain,
+
+00:00:14.150 --> 00:00:17.150
+and in my recent work I've been a bit of a pessimist.
+
+00:00:17.150 --> 00:00:21.150
+So I thought this morning I would try to be the optimist,
+
+00:00:21.150 --> 00:00:23.150
+and give reason to hope
+
+00:00:23.150 --> 00:00:25.150
+for the future of the Internet
+
+00:00:25.150 --> 00:00:28.150
+by drawing upon its present.
+
+00:00:28.150 --> 00:00:32.150
+Now, it may seem like there is less hope today than there was before.
+
+00:00:32.150 --> 00:00:34.150
+People are less kind. There is less trust around.
+
+00:00:34.150 --> 00:00:38.150
+I don't know. As a simple example,
+
+00:00:38.150 --> 00:00:40.150
+we could run a test here.
+
+00:00:40.150 --> 00:00:47.150
+How many people have ever hitchhiked?
+
+00:00:47.150 --> 00:00:50.150
+I know. How many people have hitchhiked
+
+00:00:50.150 --> 00:00:55.150
+within the past 10 years?
+
+00:00:55.150 --> 00:00:58.150
+Right. So what has changed?
+
+00:00:58.150 --> 00:01:01.150
+It's not better public transportation.
+
+00:01:01.150 --> 00:01:04.150
+So that's one reason to think that we might be
+
+00:01:04.150 --> 00:01:07.150
+declensionists, going in the wrong direction.
+
+00:01:07.150 --> 00:01:10.150
+But I want to give you three examples
+
+00:01:10.150 --> 00:01:13.150
+to try to say that the trend line
+
+00:01:13.150 --> 00:01:15.150
+is in fact in the other direction,
+
+00:01:15.150 --> 00:01:18.150
+and it's the Internet helping it along.
+
+00:01:18.150 --> 00:01:21.150
+So example number one: the Internet itself.
+
+00:01:21.150 --> 00:01:25.150
+These are three of the founders of the Internet.
+
+00:01:25.150 --> 00:01:27.150
+They were actually high school classmates together
+
+00:01:27.150 --> 00:01:31.150
+at the same high school in suburban Los Angles in the 1960s.
+
+00:01:31.150 --> 00:01:34.150
+You might have had a French club or a Debate club.
+
+00:01:34.150 --> 00:01:36.150
+They had a "Let's build a global network" club,
+
+00:01:36.150 --> 00:01:39.150
+and it worked out very well.
+
+00:01:39.150 --> 00:01:42.150
+They are pictured here for their 25th anniversary
+
+00:01:42.150 --> 00:01:45.150
+Newsweek retrospective on the Internet.
+
+00:01:45.150 --> 00:01:47.150
+And as you can tell,
+
+00:01:47.150 --> 00:01:50.150
+they are basically goof balls.
+
+00:01:50.150 --> 00:01:53.150
+They had one great limitation
+
+00:01:53.150 --> 00:01:55.150
+and one great freedom
+
+00:01:55.150 --> 00:01:58.150
+as they tried to conceive of a global network.
+
+00:01:58.150 --> 00:02:02.150
+The limitation was that they didn't have any money.
+
+00:02:02.150 --> 00:02:05.150
+No particular amount of capital to invest,
+
+00:02:05.150 --> 00:02:07.150
+of the sort that for a physical network
+
+00:02:07.150 --> 00:02:09.150
+you might need for trucks and people
+
+00:02:09.150 --> 00:02:12.150
+and a hub to move packages around overnight.
+
+00:02:12.150 --> 00:02:14.150
+They had none of that.
+
+00:02:14.150 --> 00:02:16.150
+But they had an amazing freedom,
+
+00:02:16.150 --> 00:02:20.150
+which was they didn't have to make any money from it.
+
+00:02:20.150 --> 00:02:24.150
+The Internet has no business plan, never did.
+
+00:02:24.150 --> 00:02:26.150
+No CEO,
+
+00:02:26.150 --> 00:02:30.150
+no firm responsible, singly, for building it.
+
+00:02:30.150 --> 00:02:32.150
+Instead, it's folks getting together
+
+00:02:32.150 --> 00:02:35.150
+to do something for fun,
+
+00:02:35.150 --> 00:02:37.150
+rather than because they were told to,
+
+00:02:37.150 --> 00:02:41.150
+or because they were expecting to make a mint off of it.
+
+00:02:41.150 --> 00:02:44.150
+That ethos led to a network architecture,
+
+00:02:44.150 --> 00:02:46.150
+a structure that was unlike
+
+00:02:46.150 --> 00:02:50.150
+other digital networks then or since.
+
+00:02:50.150 --> 00:02:52.150
+So unusual, in fact,
+
+00:02:52.150 --> 00:02:56.150
+that it was said that it's not clear the Internet could work.
+
+00:02:56.150 --> 00:02:59.150
+As late as 1992, IBM was known to say
+
+00:02:59.150 --> 00:03:02.150
+you couldn't possibly build a corporate network
+
+00:03:02.150 --> 00:03:05.150
+using Internet Protocol.
+
+00:03:05.150 --> 00:03:07.150
+And even some Internet engineers today say
+
+00:03:07.150 --> 00:03:11.150
+the whole thing is a pilot project and the jury is still out.
+
+00:03:11.150 --> 00:03:12.150
+(Laughter)
+
+00:03:12.150 --> 00:03:16.150
+That's why the mascot of Internet engineering,
+
+00:03:16.150 --> 00:03:19.150
+if it had one, is said to be the bumblebee.
+
+00:03:19.150 --> 00:03:22.150
+Because the fur-to-wingspan ratio of the bumblebee
+
+00:03:22.150 --> 00:03:24.150
+is far too large for it to be able to fly.
+
+00:03:24.150 --> 00:03:29.150
+And yet, mysteriously, somehow the bee flies.
+
+00:03:29.150 --> 00:03:32.150
+I'm pleased to say that, thanks to massive government funding,
+
+00:03:32.150 --> 00:03:35.150
+about three years ago we finally figured out
+
+00:03:35.150 --> 00:03:37.150
+how bees fly.
+
+00:03:37.150 --> 00:03:39.150
+(Laughter)
+
+00:03:39.150 --> 00:03:41.150
+It's very complicated, but it turns out they
+
+00:03:41.150 --> 00:03:44.150
+flap their wings very quickly.
+
+00:03:44.150 --> 00:03:47.150
+(Laughter)
+
+00:03:47.150 --> 00:03:51.150
+So what is this bizarre architecture configuration
+
+00:03:51.150 --> 00:03:54.150
+that makes the network sing and be so unusual?
+
+00:03:54.150 --> 00:03:56.150
+Well, to move data around
+
+00:03:56.150 --> 00:03:59.150
+from one place to another -- again, it's not like a package courier.
+
+00:03:59.150 --> 00:04:02.150
+It's more like a mosh pit.
+
+00:04:02.150 --> 00:04:03.150
+(Laughter)
+
+00:04:03.150 --> 00:04:05.150
+Imagine, you being part of a network
+
+00:04:05.150 --> 00:04:08.150
+where, you're maybe at a sporting event,
+
+00:04:08.150 --> 00:04:10.150
+and you're sitting in rows like this,
+
+00:04:10.150 --> 00:04:12.150
+and somebody asks for a beer,
+
+00:04:12.150 --> 00:04:15.150
+and it gets handed at the aisle.
+
+00:04:15.150 --> 00:04:17.150
+And your neighborly duty
+
+00:04:17.150 --> 00:04:19.150
+is to pass the beer along,
+
+00:04:19.150 --> 00:04:22.150
+at risk to your own trousers,
+
+00:04:22.150 --> 00:04:24.150
+to get it to the destination.
+
+00:04:24.150 --> 00:04:26.150
+No one pays you to do this.
+
+00:04:26.150 --> 00:04:29.150
+It's just part of your neighborly duty.
+
+00:04:29.150 --> 00:04:33.150
+And, in a way, that's exactly how packets move around the Internet,
+
+00:04:33.150 --> 00:04:35.150
+sometimes in as many as 25 or 30 hops,
+
+00:04:35.150 --> 00:04:37.150
+with the intervening entities
+
+00:04:37.150 --> 00:04:39.150
+that are passing the data around
+
+00:04:39.150 --> 00:04:43.150
+having no particular contractual or legal obligation
+
+00:04:43.150 --> 00:04:45.150
+to the original sender
+
+00:04:45.150 --> 00:04:48.150
+or to the receiver.
+
+00:04:48.150 --> 00:04:52.150
+Now, of course, in a mosh pit it's hard to specify a destination.
+
+00:04:52.150 --> 00:04:54.150
+You need a lot of trust,
+
+00:04:54.150 --> 00:04:57.150
+but it's not like, "I'm trying to get to Pensacola, please."
+
+00:04:57.150 --> 00:05:01.150
+So the Internet needs addressing and directions.
+
+00:05:01.150 --> 00:05:05.150
+It turns out there is no one overall map of the Internet.
+
+00:05:05.150 --> 00:05:08.150
+Instead, again, it is as if we are all sitting together in a theater,
+
+00:05:08.150 --> 00:05:11.150
+but we can only see amidst the fog
+
+00:05:11.150 --> 00:05:13.150
+the people immediately around us.
+
+00:05:13.150 --> 00:05:16.150
+So what do we do to figure out who is where?
+
+00:05:16.150 --> 00:05:18.150
+We turn to the person on the right,
+
+00:05:18.150 --> 00:05:21.150
+and we tell that person what we see on our left,
+
+00:05:21.150 --> 00:05:23.150
+and vice versa.
+
+00:05:23.150 --> 00:05:25.150
+And they can lather, rinse, repeat. And before you know it,
+
+00:05:25.150 --> 00:05:28.150
+you have a general sense of where everything is.
+
+00:05:28.150 --> 00:05:33.150
+This is how Internet addressing and routing actually work.
+
+00:05:33.150 --> 00:05:37.150
+This is a system that relies on kindness and trust,
+
+00:05:37.150 --> 00:05:40.150
+which also makes it very delicate and vulnerable.
+
+00:05:40.150 --> 00:05:42.150
+In rare but striking instances,
+
+00:05:42.150 --> 00:05:45.150
+a single lie told by just one entity
+
+00:05:45.150 --> 00:05:47.150
+in this honeycomb
+
+00:05:47.150 --> 00:05:49.150
+can lead to real trouble.
+
+00:05:49.150 --> 00:05:52.150
+So, for example, last year,
+
+00:05:52.150 --> 00:05:54.150
+the government of Pakistan
+
+00:05:54.150 --> 00:05:57.150
+asked its Internet service providers there
+
+00:05:57.150 --> 00:06:01.150
+to prevent citizens of Pakistan from seeing YouTube.
+
+00:06:01.150 --> 00:06:03.150
+There was a video there that the government did not like
+
+00:06:03.150 --> 00:06:05.150
+and they wanted to make sure it was blocked.
+
+00:06:05.150 --> 00:06:07.150
+This is a common occurrence. Governments everywhere
+
+00:06:07.150 --> 00:06:09.150
+are often trying to block
+
+00:06:09.150 --> 00:06:12.150
+and filter and censor content on the Internet.
+
+00:06:12.150 --> 00:06:14.150
+Well this one ISP in Pakistan
+
+00:06:14.150 --> 00:06:17.150
+chose to effectuate the block for its subscribers
+
+00:06:17.150 --> 00:06:20.150
+in a rather unusual way.
+
+00:06:20.150 --> 00:06:22.150
+It advertised --
+
+00:06:22.150 --> 00:06:25.150
+the way that you might be asked, if you were part of the Internet,
+
+00:06:25.150 --> 00:06:27.150
+to declare what you see near you -- it advertised
+
+00:06:27.150 --> 00:06:32.150
+that near it, in fact, it had suddenly awakened to find
+
+00:06:32.150 --> 00:06:34.150
+that it was YouTube.
+
+00:06:34.150 --> 00:06:37.150
+"That's right," it said, "I am YouTube."
+
+00:06:37.150 --> 00:06:39.150
+Which meant that packets of data
+
+00:06:39.150 --> 00:06:41.150
+from subscribers going to YouTube
+
+00:06:41.150 --> 00:06:44.150
+stopped at the ISP, since they thought they were already there,
+
+00:06:44.150 --> 00:06:46.150
+and the ISP threw them away unopened
+
+00:06:46.150 --> 00:06:48.150
+because the point was to block it.
+
+00:06:48.150 --> 00:06:50.150
+But it didn't stop there.
+
+00:06:50.150 --> 00:06:52.150
+You see, that announcement
+
+00:06:52.150 --> 00:06:54.150
+went one click out,
+
+00:06:54.150 --> 00:06:57.150
+which got reverberated, one click out.
+
+00:06:57.150 --> 00:06:59.150
+And it turns out that as you look
+
+00:06:59.150 --> 00:07:01.150
+at the postmortem of this event,
+
+00:07:01.150 --> 00:07:03.150
+you have at one moment
+
+00:07:03.150 --> 00:07:05.150
+perfectly working YouTube.
+
+00:07:05.150 --> 00:07:07.150
+Then, at moment number two,
+
+00:07:07.150 --> 00:07:10.150
+you have the fake announcement go out.
+
+00:07:10.150 --> 00:07:12.150
+And within two minutes,
+
+00:07:12.150 --> 00:07:14.150
+it reverberates around
+
+00:07:14.150 --> 00:07:17.150
+and YouTube is blocked everywhere in the world.
+
+00:07:17.150 --> 00:07:20.150
+If you were sitting in Oxford, England, trying to get to YouTube,
+
+00:07:20.150 --> 00:07:22.150
+your packets were going to Pakistan
+
+00:07:22.150 --> 00:07:25.150
+and they weren't coming back.
+
+00:07:25.150 --> 00:07:27.150
+Now just think about that.
+
+00:07:27.150 --> 00:07:29.150
+One of the most popular websites in the world,
+
+00:07:29.150 --> 00:07:31.150
+run by the most powerful company in the world,
+
+00:07:31.150 --> 00:07:35.150
+and there was nothing that YouTube or Google
+
+00:07:35.150 --> 00:07:38.150
+were particularly privileged to do about it.
+
+00:07:38.150 --> 00:07:42.150
+And yet, somehow, within about two hours,
+
+00:07:42.150 --> 00:07:44.150
+the problem was fixed.
+
+00:07:44.150 --> 00:07:46.150
+How did this happen?
+
+00:07:46.150 --> 00:07:49.150
+Well, for a big clue, we turn to NANOG.
+
+00:07:49.150 --> 00:07:52.150
+The North American Network Operators Group,
+
+00:07:52.150 --> 00:07:54.150
+a group of people who,
+
+00:07:54.150 --> 00:07:56.150
+on a beautiful day outside,
+
+00:07:56.150 --> 00:07:58.150
+enter into a windowless room,
+
+00:07:58.150 --> 00:08:00.150
+at their terminals
+
+00:08:00.150 --> 00:08:03.150
+reading email and messages
+
+00:08:03.150 --> 00:08:07.150
+in fixed proportion font, like this,
+
+00:08:07.150 --> 00:08:09.150
+and they talk about networks.
+
+00:08:09.150 --> 00:08:11.150
+And some of them are mid-level employees at Internet service providers
+
+00:08:11.150 --> 00:08:13.150
+around the world.
+
+00:08:13.150 --> 00:08:15.150
+And here is the message where one of them says,
+
+00:08:15.150 --> 00:08:18.150
+"Looks like we've got a live one. We have a hijacking of YouTube!
+
+00:08:18.150 --> 00:08:21.150
+This is not a drill. It's not just the cluelessness
+
+00:08:21.150 --> 00:08:23.150
+of YouTube engineers. I promise.
+
+00:08:23.150 --> 00:08:25.150
+Something is up in Pakistan."
+
+00:08:25.150 --> 00:08:29.150
+And they came together to help find the problem and fix it.
+
+00:08:29.150 --> 00:08:32.150
+So it's kind of like if your house catches on fire.
+
+00:08:32.150 --> 00:08:36.150
+The bad news is there is no fire brigade.
+
+00:08:36.150 --> 00:08:39.150
+The good news is random people apparate from nowhere,
+
+00:08:39.150 --> 00:08:43.150
+put out the fire and leave without expecting payment or praise.
+
+00:08:43.150 --> 00:08:48.150
+(Applause)
+
+00:08:48.150 --> 00:08:50.150
+I was trying to think of the right model to describe
+
+00:08:50.150 --> 00:08:52.150
+this form of random acts of kindness
+
+00:08:52.150 --> 00:08:54.150
+by geeky strangers.
+
+00:08:54.150 --> 00:08:59.150
+(Laughter)
+
+00:08:59.150 --> 00:09:02.150
+You know, it's just like the hail goes out
+
+00:09:02.150 --> 00:09:04.150
+and people are ready to help.
+
+00:09:04.150 --> 00:09:08.150
+And it turns out this model is everywhere, once you start looking for it.
+
+00:09:08.150 --> 00:09:11.150
+Example number two: Wikipedia.
+
+00:09:11.150 --> 00:09:14.150
+If a man named Jimbo came up to you in 2001
+
+00:09:14.150 --> 00:09:17.150
+and said, "I've got a great idea! We start with seven articles
+
+00:09:17.150 --> 00:09:19.150
+that anybody can edit anything, at any time,
+
+00:09:19.150 --> 00:09:22.150
+and we'll get a great encyclopedia! Eh?"
+
+00:09:22.150 --> 00:09:26.150
+Right. Dumbest idea ever.
+
+00:09:26.150 --> 00:09:27.150
+(Laughter)
+
+00:09:27.150 --> 00:09:32.150
+In fact, Wikipedia is an idea so profoundly stupid
+
+00:09:32.150 --> 00:09:35.150
+that even Jimbo never had it.
+
+00:09:35.150 --> 00:09:37.150
+Jimbo's idea was for Nupedia.
+
+00:09:37.150 --> 00:09:39.150
+It was going to be totally traditional. He would pay people money
+
+00:09:39.150 --> 00:09:41.150
+because he was feeling like a good guy,
+
+00:09:41.150 --> 00:09:43.150
+and the money would go to the people
+
+00:09:43.150 --> 00:09:45.150
+and they would write the articles.
+
+00:09:45.150 --> 00:09:47.150
+The wiki was introduced
+
+00:09:47.150 --> 00:09:49.150
+so others could make suggestions on edits --
+
+00:09:49.150 --> 00:09:51.150
+as almost an afterthought, a back room.
+
+00:09:51.150 --> 00:09:54.150
+And then it turns out the back room grew
+
+00:09:54.150 --> 00:09:56.150
+to encompass the entire project.
+
+00:09:56.150 --> 00:09:59.150
+And today, Wikipedia is so ubiquitous
+
+00:09:59.150 --> 00:10:03.150
+that you can now find it on Chinese restaurant menus.
+
+00:10:03.150 --> 00:10:09.150
+(Laughter)
+
+00:10:09.150 --> 00:10:11.150
+I am not making this up.
+
+00:10:11.150 --> 00:10:13.150
+(Laughter)
+
+00:10:13.150 --> 00:10:16.150
+I have a theory I can explain later.
+
+00:10:16.150 --> 00:10:18.150
+Suffice it to say for now that I prefer my Wikipedia
+
+00:10:18.150 --> 00:10:20.150
+stir-fried with pimentos.
+
+00:10:20.150 --> 00:10:22.150
+(Laughter)
+
+00:10:22.150 --> 00:10:25.150
+But now, Wikipedia doesn't just spontaneously work.
+
+00:10:25.150 --> 00:10:27.150
+How does it really work? It turns out
+
+00:10:27.150 --> 00:10:29.150
+there is a back room that is kind of windowless,
+
+00:10:29.150 --> 00:10:31.150
+metaphorically speaking.
+
+00:10:31.150 --> 00:10:33.150
+And there are a bunch of people who, on a sunny day,
+
+00:10:33.150 --> 00:10:36.150
+would rather be inside
+
+00:10:36.150 --> 00:10:38.150
+and monitoring this, the administrator's notice board,
+
+00:10:38.150 --> 00:10:41.150
+itself a wiki page that anyone can edit.
+
+00:10:41.150 --> 00:10:44.150
+And you just bring your problems to the page.
+
+00:10:44.150 --> 00:10:47.150
+It's reminiscent of the description of history
+
+00:10:47.150 --> 00:10:50.150
+as "one damn thing after another," right?
+
+00:10:50.150 --> 00:10:54.150
+Number one: "Tendentious editing by user Andyvphil."
+
+00:10:54.150 --> 00:10:57.150
+Apologies, Andyvphil, if you're here today.
+
+00:10:57.150 --> 00:10:59.150
+I'm not taking sides.
+
+00:10:59.150 --> 00:11:02.150
+"Anon attacking me for reverting."
+
+00:11:02.150 --> 00:11:04.150
+Here is my favorite: "A long story."
+
+00:11:04.150 --> 00:11:05.150
+(Laughter)
+
+00:11:05.150 --> 00:11:09.150
+It turns out there are more people checking this page for problems
+
+00:11:09.150 --> 00:11:11.150
+and wanting to solve them
+
+00:11:11.150 --> 00:11:14.150
+than there are problems arising on the page.
+
+00:11:14.150 --> 00:11:17.150
+And that's what keeps Wikipedia afloat.
+
+00:11:17.150 --> 00:11:20.150
+At all times, Wikipedia is approximately
+
+00:11:20.150 --> 00:11:25.150
+45 minutes away from utter destruction. Right?
+
+00:11:25.150 --> 00:11:27.150
+There are spambots crawling it, trying to turn every article
+
+00:11:27.150 --> 00:11:29.150
+into an ad for a Rolex watch.
+
+00:11:29.150 --> 00:11:30.150
+(Laughter)
+
+00:11:30.150 --> 00:11:33.150
+It's this thin geeky line
+
+00:11:33.150 --> 00:11:35.150
+that keeps it going.
+
+00:11:35.150 --> 00:11:37.150
+Not because it's a job,
+
+00:11:37.150 --> 00:11:39.150
+not because it's a career,
+
+00:11:39.150 --> 00:11:41.150
+but because it's a calling.
+
+00:11:41.150 --> 00:11:44.150
+It's something they feel impelled to do
+
+00:11:44.150 --> 00:11:46.150
+because they care about it.
+
+00:11:46.150 --> 00:11:48.150
+They even gather together in such groups
+
+00:11:48.150 --> 00:11:50.150
+as the Counter-Vandalism Unit --
+
+00:11:50.150 --> 00:11:53.150
+"Civility, Maturity, Responsibility" --
+
+00:11:53.150 --> 00:11:55.150
+to just clean up the pages.
+
+00:11:55.150 --> 00:11:58.150
+It does make you wonder if there were, for instance,
+
+00:11:58.150 --> 00:12:02.150
+a massive, extremely popular Star Trek convention one weekend,
+
+00:12:02.150 --> 00:12:04.150
+who would be minding the store?
+
+00:12:04.150 --> 00:12:09.150
+(Laughter)
+
+00:12:09.150 --> 00:12:11.150
+So what we see --
+
+00:12:11.150 --> 00:12:14.150
+(Laughter)
+
+00:12:14.150 --> 00:12:18.150
+what we see in this phenomenon
+
+00:12:18.150 --> 00:12:22.150
+is something that the crazed, late traffic engineer
+
+00:12:22.150 --> 00:12:24.150
+Hans Monderman discovered in the Netherlands,
+
+00:12:24.150 --> 00:12:26.150
+and here in South Kensington, that sometimes
+
+00:12:26.150 --> 00:12:31.150
+if you remove some of the external rules and signs and everything else,
+
+00:12:31.150 --> 00:12:33.150
+you can actually end up
+
+00:12:33.150 --> 00:12:36.150
+with a safer environment in which people can function,
+
+00:12:36.150 --> 00:12:39.150
+and one in which they are more human with each other.
+
+00:12:39.150 --> 00:12:41.150
+They're realizing that they
+
+00:12:41.150 --> 00:12:43.150
+have to take responsibility for what they do.
+
+00:12:43.150 --> 00:12:46.150
+And Wikipedia has embraced this.
+
+00:12:46.150 --> 00:12:49.150
+Some of you may remember Star Wars Kid,
+
+00:12:49.150 --> 00:12:53.150
+the poor teenager who filmed himself with a golf ball retriever,
+
+00:12:53.150 --> 00:12:55.150
+acting as if it were a light saber.
+
+00:12:55.150 --> 00:12:58.150
+The film, without his permission or even knowledge at first,
+
+00:12:58.150 --> 00:13:00.150
+found its way onto the Internet.
+
+00:13:00.150 --> 00:13:03.150
+Hugely viral video. Extremely popular.
+
+00:13:03.150 --> 00:13:06.150
+Totally mortifying to him.
+
+00:13:06.150 --> 00:13:08.150
+Now, it being encyclopedic and all,
+
+00:13:08.150 --> 00:13:11.150
+Wikipedia had to do an article about Star Wars Kid.
+
+00:13:11.150 --> 00:13:13.150
+Every article on Wikipedia has a corresponding discussion page,
+
+00:13:13.150 --> 00:13:15.150
+and on the discussion page
+
+00:13:15.150 --> 00:13:18.150
+they had extensive argument among the Wikipedians
+
+00:13:18.150 --> 00:13:22.150
+as to whether to have his real name
+
+00:13:22.150 --> 00:13:24.150
+featured in the article.
+
+00:13:24.150 --> 00:13:26.150
+You could see arguments on both sides.
+
+00:13:26.150 --> 00:13:28.150
+Here is just a snapshot of some of them.
+
+00:13:28.150 --> 00:13:30.150
+They eventually decided --
+
+00:13:30.150 --> 00:13:32.150
+not unanimously by any means --
+
+00:13:32.150 --> 00:13:34.150
+not to include his real name,
+
+00:13:34.150 --> 00:13:37.150
+despite the fact that nearly all media reports did.
+
+00:13:37.150 --> 00:13:40.150
+They just didn't think it was the right thing to do.
+
+00:13:40.150 --> 00:13:42.150
+It was an act of kindness.
+
+00:13:42.150 --> 00:13:44.150
+And to this day, the page for Star Wars Kid
+
+00:13:44.150 --> 00:13:46.150
+has a warning right at the top
+
+00:13:46.150 --> 00:13:49.150
+that says you are not to put his real name on the page.
+
+00:13:49.150 --> 00:13:51.150
+If you do, it will be removed immediately,
+
+00:13:51.150 --> 00:13:55.150
+removed by people who may have disagreed with the original decision,
+
+00:13:55.150 --> 00:13:58.150
+but respect the outcome
+
+00:13:58.150 --> 00:14:00.150
+and work to make it stay
+
+00:14:00.150 --> 00:14:04.150
+because they believe in something bigger than their own opinion.
+
+00:14:04.150 --> 00:14:07.150
+As a lawyer, I've got to say these guys are inventing the law
+
+00:14:07.150 --> 00:14:11.150
+and stare decisis and stuff like that as they go along.
+
+00:14:11.150 --> 00:14:14.150
+Now, this isn't just limited to Wikipedia.
+
+00:14:14.150 --> 00:14:16.150
+We see it on blogs all over the place.
+
+00:14:16.150 --> 00:14:19.150
+I mean, this is a 2005 Business Week cover.
+
+00:14:19.150 --> 00:14:21.150
+Wow. Blogs are going to change your business.
+
+00:14:21.150 --> 00:14:24.150
+I know they look silly. And sure they look silly.
+
+00:14:24.150 --> 00:14:26.150
+They start off on all sorts of goofy projects.
+
+00:14:26.150 --> 00:14:28.150
+This is my favorite goofy blog:
+
+00:14:28.150 --> 00:14:31.150
+Catsthatlooklikehitler.com.
+
+00:14:31.150 --> 00:14:32.150
+(Laughter)
+
+00:14:32.150 --> 00:14:35.150
+You send in a picture of your cat
+
+00:14:35.150 --> 00:14:37.150
+if it looks like Hitler.
+
+00:14:37.150 --> 00:14:44.150
+(Laughter)
+
+00:14:44.150 --> 00:14:46.150
+Yeah, I know. Number four, it's like, can you imagine
+
+00:14:46.150 --> 00:14:48.150
+coming home to that cat everyday?
+
+00:14:48.150 --> 00:14:49.150
+(Laughter)
+
+00:14:49.150 --> 00:14:53.150
+But then, you can see the same kind of whimsy
+
+00:14:53.150 --> 00:14:55.150
+applied to people.
+
+00:14:55.150 --> 00:14:59.150
+So this is a blog devoted to unfortunate portraiture.
+
+00:14:59.150 --> 00:15:02.150
+This one says, "Bucolic meadow with split-rail fence.
+
+00:15:02.150 --> 00:15:04.150
+Is that an animal carcass behind her?"
+
+00:15:04.150 --> 00:15:05.150
+(Laughter)
+
+00:15:05.150 --> 00:15:07.150
+You're like, "You know? I think that's an animal carcass
+
+00:15:07.150 --> 00:15:09.150
+behind her."
+
+00:15:09.150 --> 00:15:11.150
+And it's one after the other.
+
+00:15:11.150 --> 00:15:15.150
+But then you hit this one. Image removed at request of owner.
+
+00:15:15.150 --> 00:15:17.150
+That's it. Image removed at request of owner.
+
+00:15:17.150 --> 00:15:19.150
+It turns out that somebody lampooned here
+
+00:15:19.150 --> 00:15:22.150
+wrote to the snarky guy that does the site,
+
+00:15:22.150 --> 00:15:25.150
+not with a legal threat, not with an offer of payment,
+
+00:15:25.150 --> 00:15:27.150
+but just said, "Hey, would you mind?"
+
+00:15:27.150 --> 00:15:29.150
+The person said, "No, that's fine."
+
+00:15:29.150 --> 00:15:33.150
+I believe we can build architectures online
+
+00:15:33.150 --> 00:15:36.150
+to make such human requests
+
+00:15:36.150 --> 00:15:38.150
+that much easier to do,
+
+00:15:38.150 --> 00:15:40.150
+to make it possible for all of us to see
+
+00:15:40.150 --> 00:15:42.150
+that the data we encounter online
+
+00:15:42.150 --> 00:15:46.150
+is just stuff on which to click and paste and copy and forward
+
+00:15:46.150 --> 00:15:49.150
+that actually represents human emotion
+
+00:15:49.150 --> 00:15:51.150
+and endeavor and impact,
+
+00:15:51.150 --> 00:15:53.150
+and to be able to have an ethical moment
+
+00:15:53.150 --> 00:15:56.150
+where we decide how we want to treat it.
+
+00:15:56.150 --> 00:15:59.150
+I even think it can go into the real world.
+
+00:15:59.150 --> 00:16:02.150
+We can end up, as we get in a world with more censors --
+
+00:16:02.150 --> 00:16:05.150
+everywhere there is something filming you, maybe putting it online --
+
+00:16:05.150 --> 00:16:07.150
+to be able to have a little clip you could wear
+
+00:16:07.150 --> 00:16:09.150
+that says, "You know, I'd rather not."
+
+00:16:09.150 --> 00:16:12.150
+And then have technology
+
+00:16:12.150 --> 00:16:14.150
+that the person taking the photo will know later,
+
+00:16:14.150 --> 00:16:16.150
+this person requested to be contacted
+
+00:16:16.150 --> 00:16:18.150
+before this goes anywhere big,
+
+00:16:18.150 --> 00:16:20.150
+if you don't mind.
+
+00:16:20.150 --> 00:16:22.150
+And that person taking the photo can make a decision
+
+00:16:22.150 --> 00:16:26.150
+about how and whether to respect it.
+
+00:16:26.150 --> 00:16:28.150
+In the real world, we see filtering of this sort
+
+00:16:28.150 --> 00:16:30.150
+taking place in Pakistan.
+
+00:16:30.150 --> 00:16:34.150
+And we now have means that we can build, like this system,
+
+00:16:34.150 --> 00:16:37.150
+so that people can report the filtering as they encounter it.
+
+00:16:37.150 --> 00:16:41.150
+And it's no longer just a "I don't know. I couldn't get there. I guess I'll move on,"
+
+00:16:41.150 --> 00:16:43.150
+but suddenly a collective consciousness
+
+00:16:43.150 --> 00:16:46.150
+about what is blocked and censored
+
+00:16:46.150 --> 00:16:48.150
+where online.
+
+00:16:48.150 --> 00:16:52.150
+In fact, talk about technology imitating life
+
+00:16:52.150 --> 00:16:55.150
+imitating tech, or maybe it's the other way around.
+
+00:16:55.150 --> 00:16:58.150
+An NYU researcher here took little cardboard robots
+
+00:16:58.150 --> 00:17:00.150
+with smiley faces on them,
+
+00:17:00.150 --> 00:17:03.150
+and a motor that just drove them forward
+
+00:17:03.150 --> 00:17:05.150
+and a flag sticking out the back
+
+00:17:05.150 --> 00:17:07.150
+with a desired destination.
+
+00:17:07.150 --> 00:17:09.150
+It said, "Can you help me get there?"
+
+00:17:09.150 --> 00:17:13.150
+Released it on the streets of Manhattan.
+
+00:17:13.150 --> 00:17:15.150
+(Laughter)
+
+00:17:15.150 --> 00:17:18.150
+They'll fund anything these days.
+
+00:17:18.150 --> 00:17:20.150
+Here is the chart of over 43 people
+
+00:17:20.150 --> 00:17:23.150
+helping to steer the robot that could not steer
+
+00:17:23.150 --> 00:17:25.150
+and get it on its way, from one corner
+
+00:17:25.150 --> 00:17:27.150
+from one corner of Washington Square Park
+
+00:17:27.150 --> 00:17:29.150
+to another.
+
+00:17:29.150 --> 00:17:33.150
+That leads to example number three: hitchhiking.
+
+00:17:33.150 --> 00:17:36.150
+I'm not so sure hitchhiking is dead.
+
+00:17:36.150 --> 00:17:40.150
+Why? There is the Craigslist rideshare board.
+
+00:17:40.150 --> 00:17:43.150
+If it were called the Craigslist hitchhiking board,
+
+00:17:43.150 --> 00:17:45.150
+tumbleweeds would be blowing through it.
+
+00:17:45.150 --> 00:17:48.150
+But it's the rideshare board, and it's basically the same thing.
+
+00:17:48.150 --> 00:17:50.150
+Now why are people using it?
+
+00:17:50.150 --> 00:17:53.150
+I don't know. Maybe they think that, uh, killers don't plan ahead?
+
+00:17:53.150 --> 00:17:59.150
+(Laughter)
+
+00:17:59.150 --> 00:18:01.150
+No. I think the actual answer is
+
+00:18:01.150 --> 00:18:03.150
+that once you reframe it,
+
+00:18:03.150 --> 00:18:06.150
+once you get out of one set of stale expectations
+
+00:18:06.150 --> 00:18:09.150
+from a failed project that had its day,
+
+00:18:09.150 --> 00:18:11.150
+but now, for whatever reason, is tarnished,
+
+00:18:11.150 --> 00:18:15.150
+you can actually rekindle the kind of human kindness and sharing
+
+00:18:15.150 --> 00:18:18.150
+that something like this on Craigslist represents.
+
+00:18:18.150 --> 00:18:20.150
+And then you can highlight it
+
+00:18:20.150 --> 00:18:22.150
+into something like,
+
+00:18:22.150 --> 00:18:25.150
+yes, CouchSurfing.org.
+
+00:18:25.150 --> 00:18:28.150
+CouchSurfing: one guy's idea
+
+00:18:28.150 --> 00:18:31.150
+to, at last, put together people who are going somewhere far away
+
+00:18:31.150 --> 00:18:36.150
+and would like to sleep on a stranger's couch for free,
+
+00:18:36.150 --> 00:18:38.150
+with people who live far away,
+
+00:18:38.150 --> 00:18:42.150
+and would like someone they don't know to sleep on their couch for free.
+
+00:18:42.150 --> 00:18:46.150
+It's a brilliant idea.
+
+00:18:46.150 --> 00:18:48.150
+It's a bee that, yes, flies.
+
+00:18:48.150 --> 00:18:51.150
+Amazing how many successful couch surfings there have been.
+
+00:18:51.150 --> 00:18:55.150
+And if you're wondering, no, there have been no known fatalities
+
+00:18:55.150 --> 00:18:57.150
+associated with CouchSurfing.
+
+00:18:57.150 --> 00:19:00.150
+Although, to be sure, the reputation system, at the moment,
+
+00:19:00.150 --> 00:19:03.150
+works that you leave your report after the couch surfing experience,
+
+00:19:03.150 --> 00:19:06.150
+so there may be some selection bias there.
+
+00:19:06.150 --> 00:19:10.150
+(Laughter)
+
+00:19:10.150 --> 00:19:14.150
+So, my urging, my thought,
+
+00:19:14.150 --> 00:19:17.150
+is that the Internet isn't just a pile of information.
+
+00:19:17.150 --> 00:19:20.150
+It's not a noun. It's a verb.
+
+00:19:20.150 --> 00:19:22.150
+And when you go on it,
+
+00:19:22.150 --> 00:19:26.150
+if you listen and see carefully and closely enough,
+
+00:19:26.150 --> 00:19:28.150
+what you will discover
+
+00:19:28.150 --> 00:19:30.150
+is that that information
+
+00:19:30.150 --> 00:19:32.150
+is saying something to you.
+
+00:19:32.150 --> 00:19:34.150
+What it's saying to you is what we heard yesterday,
+
+00:19:34.150 --> 00:19:37.150
+Demosthenes was saying to us.
+
+00:19:37.150 --> 00:19:41.150
+It's saying, "Let's march." Thank you very much.
+
+00:19:41.150 --> 00:19:43.150
+(Applause)

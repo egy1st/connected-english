@@ -1,0 +1,386 @@
+WEBVTT
+
+00:00:00.760 --> 00:00:03.240
+Paying close attention to something:
+
+00:00:03.280 --> 00:00:04.520
+Not that easy, is it?
+
+00:00:05.520 --> 00:00:10.536
+It's because our attention is pulled
+in so many different directions at a time,
+
+00:00:10.560 --> 00:00:14.640
+and it's in fact pretty impressive
+if you can stay focused.
+
+00:00:16.360 --> 00:00:20.416
+Many people think that attention
+is all about what we are focusing on,
+
+00:00:20.440 --> 00:00:25.240
+but it's also about what information
+our brain is trying to filter out.
+
+00:00:26.320 --> 00:00:29.040
+There are two ways
+you direct your attention.
+
+00:00:29.600 --> 00:00:31.160
+First, there's overt attention.
+
+00:00:31.640 --> 00:00:35.776
+In overt attention,
+you move your eyes towards something
+
+00:00:35.800 --> 00:00:37.360
+in order to pay attention to it.
+
+00:00:38.360 --> 00:00:40.336
+Then there's covert attention.
+
+00:00:40.360 --> 00:00:44.376
+In covert attention,
+you pay attention to something,
+
+00:00:44.400 --> 00:00:45.960
+but without moving your eyes.
+
+00:00:47.040 --> 00:00:48.680
+Think of driving for a second.
+
+00:00:50.960 --> 00:00:53.976
+Your overt attention,
+your direction of the eyes,
+
+00:00:54.000 --> 00:00:55.656
+are in front,
+
+00:00:55.680 --> 00:00:57.456
+but that's your covert attention
+
+00:00:57.480 --> 00:01:00.560
+which is constantly scanning
+the surrounding area,
+
+00:01:01.600 --> 00:01:03.480
+where you don't actually look at them.
+
+00:01:05.519 --> 00:01:07.456
+I'm a computational neuroscientist,
+
+00:01:07.480 --> 00:01:10.576
+and I work on cognitive
+brain-machine interfaces,
+
+00:01:10.600 --> 00:01:13.640
+or bringing together
+the brain and the computer.
+
+00:01:14.720 --> 00:01:16.320
+I love brain patterns.
+
+00:01:16.720 --> 00:01:18.416
+Brain patterns are important for us
+
+00:01:18.440 --> 00:01:21.936
+because based on them
+we can build models for the computers,
+
+00:01:21.960 --> 00:01:23.376
+and based on these models
+
+00:01:23.400 --> 00:01:27.616
+computers can recognize
+how well our brain functions.
+
+00:01:27.640 --> 00:01:29.240
+And if it doesn't function well,
+
+00:01:30.080 --> 00:01:34.000
+then these computers themselves
+can be used as assistive devices
+
+00:01:34.760 --> 00:01:35.960
+for therapies.
+
+00:01:36.480 --> 00:01:38.120
+But that also means something,
+
+00:01:39.360 --> 00:01:41.856
+because choosing the wrong patterns
+
+00:01:41.880 --> 00:01:43.776
+will give us the wrong models
+
+00:01:43.800 --> 00:01:45.456
+and therefore the wrong therapies.
+
+00:01:45.480 --> 00:01:46.680
+Right?
+
+00:01:47.640 --> 00:01:49.296
+In case of attention,
+
+00:01:49.320 --> 00:01:50.600
+the fact that we can
+
+00:01:51.800 --> 00:01:55.296
+shift our attention not only by our eyes
+
+00:01:55.320 --> 00:01:56.640
+but also by thinking --
+
+00:01:57.440 --> 00:02:01.520
+that makes covert attention
+an interesting model for computers.
+
+00:02:02.280 --> 00:02:05.736
+So I wanted to know
+what are the brainwave patterns
+
+00:02:05.760 --> 00:02:09.440
+when you look overtly
+or when you look covertly.
+
+00:02:10.440 --> 00:02:12.200
+I set up an experiment for that.
+
+00:02:12.960 --> 00:02:15.696
+In this experiment
+there are two flickering squares,
+
+00:02:15.720 --> 00:02:19.080
+one of them flickering
+at a slower rate than the other one.
+
+00:02:20.600 --> 00:02:24.416
+Depending on which of these flickers
+you are paying attention to,
+
+00:02:24.440 --> 00:02:28.400
+certain parts of your brain
+will start resonating in the same rate
+
+00:02:29.200 --> 00:02:30.640
+as that flickering rate.
+
+00:02:32.000 --> 00:02:34.936
+So by analyzing your brain signals,
+
+00:02:34.960 --> 00:02:38.000
+we can track where exactly
+you are watching
+
+00:02:38.760 --> 00:02:40.320
+or you are paying attention to.
+
+00:02:43.000 --> 00:02:47.216
+So to see what happens in your brain
+when you pay overt attention,
+
+00:02:47.240 --> 00:02:50.496
+I asked people to look directly
+in one of the squares
+
+00:02:50.520 --> 00:02:51.800
+and pay attention to it.
+
+00:02:52.760 --> 00:02:58.056
+In this case, not surprisingly,
+we saw that these flickering squares
+
+00:02:58.080 --> 00:03:00.016
+appeared in their brain signals
+
+00:03:00.040 --> 00:03:02.400
+which was coming
+from the back of their head,
+
+00:03:03.560 --> 00:03:06.960
+which is responsible for the processing
+of your visual information.
+
+00:03:08.280 --> 00:03:10.616
+But I was really interested
+
+00:03:10.640 --> 00:03:13.800
+to see what happens in your brain
+when you pay covert attention.
+
+00:03:14.480 --> 00:03:18.376
+So this time I asked people
+to look in the middle of the screen
+
+00:03:18.400 --> 00:03:20.280
+and without moving their eyes,
+
+00:03:21.120 --> 00:03:23.840
+to pay attention
+to either of these squares.
+
+00:03:25.120 --> 00:03:26.736
+When we did that,
+
+00:03:26.760 --> 00:03:30.696
+we saw that both of these flickering rates
+appeared in their brain signals,
+
+00:03:30.720 --> 00:03:31.920
+but interestingly,
+
+00:03:32.640 --> 00:03:36.176
+only one of them,
+which was paid attention to,
+
+00:03:36.200 --> 00:03:37.856
+had stronger signals,
+
+00:03:37.880 --> 00:03:40.136
+so there was something in the brain
+
+00:03:40.160 --> 00:03:42.696
+which was handling this information
+
+00:03:42.720 --> 00:03:48.920
+so that thing in the brain was basically
+the activation of the frontal area.
+
+00:03:50.440 --> 00:03:53.416
+The front part of your brain
+is responsible
+
+00:03:53.440 --> 00:03:56.320
+for higher cognitive functions as a human.
+
+00:03:57.160 --> 00:04:01.600
+The frontal part,
+it seems that it works as a filter
+
+00:04:02.640 --> 00:04:07.016
+trying to let information come in
+only from the right flicker
+
+00:04:07.040 --> 00:04:08.680
+that you are paying attention to
+
+00:04:09.400 --> 00:04:13.360
+and trying to inhibit the information
+coming from the ignored one.
+
+00:04:15.400 --> 00:04:20.696
+The filtering ability of the brain
+is indeed a key for attention,
+
+00:04:20.720 --> 00:04:23.496
+which is missing in some people,
+
+00:04:23.520 --> 00:04:26.000
+for example in people with ADHD.
+
+00:04:26.640 --> 00:04:31.656
+So a person with ADHD
+cannot inhibit these distractors,
+
+00:04:31.680 --> 00:04:36.440
+and that's why they can't focus
+for a long time on a single task.
+
+00:04:37.600 --> 00:04:39.136
+But what if this person
+
+00:04:39.160 --> 00:04:42.696
+could play a specific computer game
+
+00:04:42.720 --> 00:04:45.600
+with his brain connected to the computer,
+
+00:04:46.440 --> 00:04:48.560
+and then train his own brain
+
+00:04:49.360 --> 00:04:51.800
+to inhibit these distractors?
+
+00:04:53.680 --> 00:04:56.160
+Well, ADHD is just one example.
+
+00:04:57.200 --> 00:05:00.456
+We can use these cognitive
+brain-machine interfaces
+
+00:05:00.480 --> 00:05:02.680
+for many other cognitive fields.
+
+00:05:03.760 --> 00:05:05.536
+It was just a few years ago
+
+00:05:05.560 --> 00:05:11.280
+that my grandfather had a stroke,
+and he lost complete ability to speak.
+
+00:05:12.640 --> 00:05:15.976
+He could understand everybody,
+but there was no way to respond,
+
+00:05:16.000 --> 00:05:18.480
+even not writing
+because he was illiterate.
+
+00:05:20.000 --> 00:05:22.520
+So he passed away in silence.
+
+00:05:24.800 --> 00:05:27.136
+I remember thinking at that time:
+
+00:05:27.160 --> 00:05:31.056
+What if we could have a computer
+
+00:05:31.080 --> 00:05:32.440
+which could speak for him?
+
+00:05:33.840 --> 00:05:36.056
+Now, after years that I am in this field,
+
+00:05:36.080 --> 00:05:38.400
+I can see that this might be possible.
+
+00:05:40.240 --> 00:05:43.096
+Imagine if we can find brainwave patterns
+
+00:05:43.120 --> 00:05:46.560
+when people think
+about images or even letters,
+
+00:05:47.720 --> 00:05:50.656
+like the letter A generates
+a different brainwave pattern
+
+00:05:50.680 --> 00:05:52.400
+than the letter B, and so on.
+
+00:05:52.960 --> 00:05:56.640
+Could a computer one day
+communicate for people who can't speak?
+
+00:05:57.640 --> 00:05:59.080
+What if a computer
+
+00:05:59.960 --> 00:06:04.520
+can help us understand
+the thoughts of a person in a coma?
+
+00:06:05.840 --> 00:06:07.456
+We are not there yet,
+
+00:06:07.480 --> 00:06:10.216
+but pay close attention.
+
+00:06:10.240 --> 00:06:11.936
+We will be there soon.
+
+00:06:11.960 --> 00:06:13.456
+Thank you.
+
+00:06:13.480 --> 00:06:19.112
+(Applause)
+

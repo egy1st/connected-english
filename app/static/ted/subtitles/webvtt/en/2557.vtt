@@ -1,0 +1,1091 @@
+WEBVTT
+
+00:00:00.904 --> 00:00:02.309
+Hello, everybody.
+
+00:00:02.333 --> 00:00:04.976
+I brought with me today a baby diaper.
+
+00:00:06.793 --> 00:00:08.515
+You'll see why in a second.
+
+00:00:08.539 --> 00:00:10.549
+Baby diapers have interesting properties.
+
+00:00:10.573 --> 00:00:13.264
+They can swell enormously
+when you add water to them,
+
+00:00:13.288 --> 00:00:16.272
+an experiment done
+by millions of kids every day.
+
+00:00:16.296 --> 00:00:17.446
+(Laughter)
+
+00:00:17.470 --> 00:00:18.964
+But the reason why
+
+00:00:18.988 --> 00:00:21.178
+is that they're designed
+in a very clever way.
+
+00:00:21.202 --> 00:00:23.837
+They're made out of a thing
+called a swellable material.
+
+00:00:23.861 --> 00:00:26.598
+It's a special kind of material that,
+when you add water,
+
+00:00:26.622 --> 00:00:28.052
+it will swell up enormously,
+
+00:00:28.076 --> 00:00:30.242
+maybe a thousand times in volume.
+
+00:00:30.266 --> 00:00:33.502
+And this is a very useful,
+industrial kind of polymer.
+
+00:00:33.819 --> 00:00:36.345
+But what we're trying to do
+in my group at MIT
+
+00:00:36.369 --> 00:00:39.582
+is to figure out if we can do
+something similar to the brain.
+
+00:00:39.606 --> 00:00:40.765
+Can we make it bigger,
+
+00:00:40.789 --> 00:00:42.467
+big enough that you
+can peer inside
+
+00:00:42.481 --> 00:00:45.109
+and see all the tiny building blocks,
+the biomolecules,
+
+00:00:45.133 --> 00:00:47.284
+how they're organized in three dimensions,
+
+00:00:47.308 --> 00:00:50.793
+the structure, the ground truth
+structure of the brain, if you will?
+
+00:00:50.817 --> 00:00:51.975
+If we could get that,
+
+00:00:51.999 --> 00:00:55.508
+maybe we could have a better understanding
+of how the brain is organized
+
+00:00:55.532 --> 00:00:57.191
+to yield thoughts and emotions
+
+00:00:57.215 --> 00:00:58.934
+and actions and sensations.
+
+00:00:58.958 --> 00:01:02.373
+Maybe we could try to pinpoint
+the exact changes in the brain
+
+00:01:02.397 --> 00:01:04.173
+that result in diseases,
+
+00:01:04.197 --> 00:01:07.409
+diseases like Alzheimer's
+and epilepsy and Parkinson's,
+
+00:01:07.433 --> 00:01:10.011
+for which there are few
+treatments, much less cures,
+
+00:01:10.035 --> 00:01:13.652
+and for which, very often,
+we don't know the cause or the origins
+
+00:01:13.676 --> 00:01:15.811
+and what's really causing them to occur.
+
+00:01:16.613 --> 00:01:18.353
+Now, our group at MIT
+
+00:01:18.377 --> 00:01:21.063
+is trying to take
+a different point of view
+
+00:01:21.087 --> 00:01:24.317
+from the way neuroscience has
+been done over the last hundred years.
+
+00:01:24.341 --> 00:01:25.920
+We're designers. We're inventors.
+
+00:01:25.944 --> 00:01:28.488
+We're trying to figure out
+how to build technologies
+
+00:01:28.512 --> 00:01:30.968
+that let us look at and repair the brain.
+
+00:01:30.992 --> 00:01:32.143
+And the reason is,
+
+00:01:32.167 --> 00:01:34.968
+the brain is incredibly,
+incredibly complicated.
+
+00:01:35.484 --> 00:01:38.371
+So what we've learned
+over the first century of neuroscience
+
+00:01:38.395 --> 00:01:40.698
+is that the brain is a very
+complicated network,
+
+00:01:40.722 --> 00:01:43.202
+made out of very specialized
+cells called neurons
+
+00:01:43.226 --> 00:01:44.893
+with very complex geometries,
+
+00:01:44.917 --> 00:01:49.154
+and electrical currents will flow
+through these complexly shaped neurons.
+
+00:01:49.653 --> 00:01:52.437
+Furthermore, neurons
+are connected in networks.
+
+00:01:52.461 --> 00:01:56.296
+They're connected by little junctions
+called synapses that exchange chemicals
+
+00:01:56.320 --> 00:01:58.538
+and allow the neurons
+to talk to each other.
+
+00:01:58.562 --> 00:02:00.502
+The density of the brain is incredible.
+
+00:02:00.526 --> 00:02:02.833
+In a cubic millimeter of your brain,
+
+00:02:02.857 --> 00:02:05.314
+there are about 100,000 of these neurons
+
+00:02:05.338 --> 00:02:07.855
+and maybe a billion of those connections.
+
+00:02:08.887 --> 00:02:10.269
+But it's worse.
+
+00:02:10.293 --> 00:02:12.598
+So, if you could zoom in to a neuron,
+
+00:02:12.622 --> 00:02:15.372
+and, of course, this is just
+our artist's rendition of it.
+
+00:02:15.396 --> 00:02:19.603
+What you would see are thousands
+and thousands of kinds of biomolecules,
+
+00:02:19.627 --> 00:02:24.027
+little nanoscale machines
+organized in complex, 3D patterns,
+
+00:02:24.051 --> 00:02:26.679
+and together they mediate
+those electrical pulses,
+
+00:02:26.703 --> 00:02:30.640
+those chemical exchanges
+that allow neurons to work together
+
+00:02:30.664 --> 00:02:34.333
+to generate things like thoughts
+and feelings and so forth.
+
+00:02:34.357 --> 00:02:38.121
+Now, we don't know how
+the neurons in the brain are organized
+
+00:02:38.145 --> 00:02:39.319
+to form networks,
+
+00:02:39.343 --> 00:02:41.843
+and we don't know how
+the biomolecules are organized
+
+00:02:41.867 --> 00:02:43.041
+within neurons
+
+00:02:43.065 --> 00:02:45.470
+to form these complex, organized machines.
+
+00:02:45.918 --> 00:02:47.738
+If we really want to understand this,
+
+00:02:47.762 --> 00:02:49.579
+we're going to need new technologies.
+
+00:02:49.603 --> 00:02:51.387
+But if we could get such maps,
+
+00:02:51.411 --> 00:02:54.354
+if we could look at the organization
+of molecules and neurons
+
+00:02:54.378 --> 00:02:55.944
+and neurons and networks,
+
+00:02:55.968 --> 00:02:59.405
+maybe we could really understand
+how the brain conducts information
+
+00:02:59.429 --> 00:03:00.596
+from sensory regions,
+
+00:03:00.620 --> 00:03:02.356
+mixes it with emotion and feeling,
+
+00:03:02.380 --> 00:03:04.774
+and generates our decisions and actions.
+
+00:03:05.131 --> 00:03:08.920
+Maybe we could pinpoint the exact set
+of molecular changes that occur
+
+00:03:08.944 --> 00:03:10.146
+in a brain disorder.
+
+00:03:10.170 --> 00:03:12.992
+And once we know how
+those molecules have changed,
+
+00:03:13.016 --> 00:03:15.796
+whether they've increased in number
+or changed in pattern,
+
+00:03:15.820 --> 00:03:18.759
+we could use those
+as targets for new drugs,
+
+00:03:18.783 --> 00:03:21.054
+for new ways of delivering
+energy into the brain
+
+00:03:21.078 --> 00:03:24.958
+in order to repair the brain
+computations that are afflicted
+
+00:03:24.982 --> 00:03:27.281
+in patients who suffer
+from brain disorders.
+
+00:03:27.793 --> 00:03:31.036
+We've all seen lots of different
+technologies over the last century
+
+00:03:31.060 --> 00:03:32.226
+to try to confront this.
+
+00:03:32.250 --> 00:03:34.130
+I think we've all seen brain scans
+
+00:03:34.154 --> 00:03:36.188
+taken using MRI machines.
+
+00:03:36.212 --> 00:03:39.559
+These, of course, have the great power
+that they are noninvasive,
+
+00:03:39.583 --> 00:03:41.938
+they can be used on living human subjects.
+
+00:03:42.407 --> 00:03:44.638
+But also, they're spatially crude.
+
+00:03:44.662 --> 00:03:47.652
+Each of these blobs that you see,
+or voxels, as they're called,
+
+00:03:47.676 --> 00:03:50.365
+can contain millions
+and millions of neurons.
+
+00:03:50.389 --> 00:03:52.239
+So it's not at the level of resolution
+
+00:03:52.263 --> 00:03:54.801
+where it can pinpoint
+the molecular changes that occur
+
+00:03:54.825 --> 00:03:57.111
+or the changes in the wiring
+of these networks
+
+00:03:57.135 --> 00:04:01.081
+that contributes to our ability
+to be conscious and powerful beings.
+
+00:04:01.797 --> 00:04:04.978
+At the other extreme,
+you have microscopes.
+
+00:04:05.002 --> 00:04:08.297
+Microscopes, of course, will use light
+to look at little tiny things.
+
+00:04:08.321 --> 00:04:11.396
+For centuries, they've been used
+to look at things like bacteria.
+
+00:04:11.420 --> 00:04:12.571
+For neuroscience,
+
+00:04:12.595 --> 00:04:16.007
+microscopes are actually how neurons
+were discovered in the first place,
+
+00:04:16.031 --> 00:04:17.323
+about 130 years ago.
+
+00:04:17.347 --> 00:04:19.665
+But light is fundamentally limited.
+
+00:04:19.689 --> 00:04:22.987
+You can't see individual molecules
+with a regular old microscope.
+
+00:04:23.011 --> 00:04:25.163
+You can't look at these tiny connections.
+
+00:04:25.187 --> 00:04:29.129
+So if we want to make our ability
+to see the brain more powerful,
+
+00:04:29.153 --> 00:04:31.321
+to get down to the ground truth structure,
+
+00:04:31.345 --> 00:04:34.625
+we're going to need to have
+even better technologies.
+
+00:04:35.611 --> 00:04:37.835
+My group, a couple years ago,
+started thinking:
+
+00:04:37.859 --> 00:04:39.271
+Why don't we do the opposite?
+
+00:04:39.295 --> 00:04:41.756
+If it's so darn complicated
+to zoom in to the brain,
+
+00:04:41.780 --> 00:04:43.723
+why can't we make the brain bigger?
+
+00:04:44.166 --> 00:04:45.321
+It initially started
+
+00:04:45.345 --> 00:04:48.341
+with two grad students in my group,
+Fei Chen and Paul Tillberg.
+
+00:04:48.365 --> 00:04:51.085
+Now many others in my group
+are helping with this process.
+
+00:04:51.109 --> 00:04:53.871
+We decided to try to figure out
+if we could take polymers,
+
+00:04:53.895 --> 00:04:55.524
+like the stuff in the baby diaper,
+
+00:04:55.548 --> 00:04:57.554
+and install it physically
+within the brain.
+
+00:04:57.578 --> 00:04:59.819
+If we could do it just right,
+and you add water,
+
+00:04:59.843 --> 00:05:01.678
+you can potentially blow the brain up
+
+00:05:01.702 --> 00:05:05.079
+to where you could distinguish
+those tiny biomolecules from each other.
+
+00:05:05.103 --> 00:05:07.973
+You would see those connections
+and get maps of the brain.
+
+00:05:07.997 --> 00:05:09.985
+This could potentially be quite dramatic.
+
+00:05:10.009 --> 00:05:13.017
+We brought a little demo here.
+
+00:05:13.538 --> 00:05:16.113
+We got some purified baby diaper material.
+
+00:05:16.137 --> 00:05:18.411
+It's much easier
+just to buy it off the Internet
+
+00:05:18.435 --> 00:05:21.910
+than to extract the few grains
+that actually occur in these diapers.
+
+00:05:21.934 --> 00:05:24.159
+I'm going to put just one teaspoon here
+
+00:05:24.706 --> 00:05:26.500
+of this purified polymer.
+
+00:05:27.270 --> 00:05:29.422
+And here we have some water.
+
+00:05:29.446 --> 00:05:30.608
+What we're going to do
+
+00:05:30.632 --> 00:05:33.643
+is see if this teaspoon
+of the baby diaper material
+
+00:05:33.667 --> 00:05:35.376
+can increase in size.
+
+00:05:36.687 --> 00:05:40.383
+You're going to see it increase in volume
+by about a thousandfold
+
+00:05:40.407 --> 00:05:41.693
+before your very eyes.
+
+00:05:49.597 --> 00:05:51.569
+I could pour much more of this in there,
+
+00:05:51.593 --> 00:05:53.151
+but I think you've got the idea
+
+00:05:53.175 --> 00:05:55.677
+that this is a very,
+very interesting molecule,
+
+00:05:55.701 --> 00:05:57.613
+and if can use it in the right way,
+
+00:05:57.637 --> 00:05:59.958
+we might be able
+to really zoom in on the brain
+
+00:05:59.982 --> 00:06:02.576
+in a way that you can't do
+with past technologies.
+
+00:06:03.227 --> 00:06:05.281
+OK. So a little bit of chemistry now.
+
+00:06:05.305 --> 00:06:07.747
+What's going on
+in the baby diaper polymer?
+
+00:06:07.771 --> 00:06:09.447
+If you could zoom in,
+
+00:06:09.471 --> 00:06:12.144
+it might look something like
+what you see on the screen.
+
+00:06:12.168 --> 00:06:16.660
+Polymers are chains of atoms
+arranged in long, thin lines.
+
+00:06:16.684 --> 00:06:18.051
+The chains are very tiny,
+
+00:06:18.075 --> 00:06:19.939
+about the width of a biomolecule,
+
+00:06:19.963 --> 00:06:21.710
+and these polymers are really dense.
+
+00:06:21.734 --> 00:06:23.234
+They're separated by distances
+
+00:06:23.258 --> 00:06:25.510
+that are around the size of a biomolecule.
+
+00:06:25.534 --> 00:06:26.699
+This is very good
+
+00:06:26.723 --> 00:06:29.764
+because we could potentially
+move everything apart in the brain.
+
+00:06:29.788 --> 00:06:31.636
+If we add water, what will happen is,
+
+00:06:31.660 --> 00:06:34.175
+this swellable material
+is going to absorb the water,
+
+00:06:34.199 --> 00:06:36.599
+the polymer chains will move
+apart from each other,
+
+00:06:36.623 --> 00:06:39.257
+and the entire material
+is going to become bigger.
+
+00:06:39.615 --> 00:06:41.429
+And because these chains are so tiny
+
+00:06:41.453 --> 00:06:43.658
+and spaced by biomolecular distances,
+
+00:06:43.682 --> 00:06:45.721
+we could potentially blow up the brain
+
+00:06:45.745 --> 00:06:47.378
+and make it big enough to see.
+
+00:06:48.020 --> 00:06:49.260
+Here's the mystery, then:
+
+00:06:49.284 --> 00:06:52.894
+How do we actually make
+these polymer chains inside the brain
+
+00:06:52.918 --> 00:06:55.157
+so we can move all the biomolecules apart?
+
+00:06:55.181 --> 00:06:56.332
+If we could do that,
+
+00:06:56.356 --> 00:06:58.753
+maybe we could get
+ground truth maps of the brain.
+
+00:06:58.777 --> 00:07:00.166
+We could look at the wiring.
+
+00:07:00.190 --> 00:07:03.347
+We can peer inside
+and see the molecules within.
+
+00:07:03.925 --> 00:07:06.406
+To explain this, we made some animations
+
+00:07:06.430 --> 00:07:09.033
+where we actually look
+at, in these artist renderings,
+
+00:07:09.057 --> 00:07:12.598
+what biomolecules might look
+like and how we might separate them.
+
+00:07:12.622 --> 00:07:15.171
+Step one: what we'd have
+to do, first of all,
+
+00:07:15.195 --> 00:07:18.584
+is attach every biomolecule,
+shown in brown here,
+
+00:07:18.608 --> 00:07:20.767
+to a little anchor, a little handle.
+
+00:07:20.791 --> 00:07:23.886
+We need to pull the molecules
+of the brain apart from each other,
+
+00:07:23.910 --> 00:07:26.236
+and to do that, we need
+to have a little handle
+
+00:07:26.260 --> 00:07:28.545
+that allows those polymers to bind to them
+
+00:07:28.569 --> 00:07:30.111
+and to exert their force.
+
+00:07:31.278 --> 00:07:34.439
+Now, if you just take baby diaper
+polymer and dump it on the brain,
+
+00:07:34.463 --> 00:07:36.500
+obviously, it's going to sit there on top.
+
+00:07:36.524 --> 00:07:39.052
+So we need to find a way
+to make the polymers inside.
+
+00:07:39.076 --> 00:07:40.864
+And this is where we're really lucky.
+
+00:07:40.888 --> 00:07:43.076
+It turns out, you can
+get the building blocks,
+
+00:07:43.100 --> 00:07:44.472
+monomers, as they're called,
+
+00:07:44.496 --> 00:07:46.280
+and if you let them go into the brain
+
+00:07:46.304 --> 00:07:48.340
+and then trigger the chemical reactions,
+
+00:07:48.364 --> 00:07:51.066
+you can get them to form
+those long chains,
+
+00:07:51.090 --> 00:07:52.888
+right there inside the brain tissue.
+
+00:07:53.325 --> 00:07:55.722
+They're going to wind their way
+around biomolecules
+
+00:07:55.746 --> 00:07:56.967
+and between biomolecules,
+
+00:07:56.991 --> 00:07:58.616
+forming those complex webs
+
+00:07:58.640 --> 00:08:01.502
+that will allow you, eventually,
+to pull apart the molecules
+
+00:08:01.526 --> 00:08:02.701
+from each other.
+
+00:08:02.725 --> 00:08:05.779
+And every time one
+of those little handles is around,
+
+00:08:05.803 --> 00:08:09.153
+the polymer will bind to the handle,
+and that's exactly what we need
+
+00:08:09.177 --> 00:08:11.708
+in order to pull the molecules
+apart from each other.
+
+00:08:11.732 --> 00:08:13.425
+All right, the moment of truth.
+
+00:08:13.449 --> 00:08:15.597
+We have to treat this specimen
+
+00:08:15.621 --> 00:08:19.067
+with a chemical to kind of loosen up
+all the molecules from each other,
+
+00:08:19.091 --> 00:08:20.927
+and then, when we add water,
+
+00:08:20.951 --> 00:08:23.904
+that swellable material is going
+to start absorbing the water,
+
+00:08:23.928 --> 00:08:25.631
+the polymer chains will move apart,
+
+00:08:25.655 --> 00:08:28.377
+but now, the biomolecules
+will come along for the ride.
+
+00:08:28.401 --> 00:08:30.565
+And much like drawing
+a picture on a balloon,
+
+00:08:30.589 --> 00:08:32.176
+and then you blow up the balloon,
+
+00:08:32.200 --> 00:08:33.490
+the image is the same,
+
+00:08:33.514 --> 00:08:36.062
+but the ink particles have moved
+away from each other.
+
+00:08:36.086 --> 00:08:39.553
+And that's what we've been able
+to do now, but in three dimensions.
+
+00:08:39.577 --> 00:08:41.576
+There's one last trick.
+
+00:08:41.600 --> 00:08:42.818
+As you can see here,
+
+00:08:42.842 --> 00:08:44.951
+we've color-coded
+all the biomolecules brown.
+
+00:08:44.975 --> 00:08:47.145
+That's because they all
+kind of look the same.
+
+00:08:47.169 --> 00:08:49.274
+Biomolecules are made
+out of the same atoms,
+
+00:08:49.298 --> 00:08:51.538
+but just in different orders.
+
+00:08:51.562 --> 00:08:53.062
+So we need one last thing
+
+00:08:53.086 --> 00:08:54.781
+in order to make them visible.
+
+00:08:54.805 --> 00:08:56.384
+We have to bring in little tags,
+
+00:08:56.408 --> 00:08:59.427
+with glowing dyes
+that will distinguish them.
+
+00:08:59.451 --> 00:09:02.124
+So one kind of biomolecule
+might get a blue color.
+
+00:09:02.148 --> 00:09:04.499
+Another kind of biomolecule
+might get a red color.
+
+00:09:04.523 --> 00:09:05.799
+And so forth.
+
+00:09:05.823 --> 00:09:07.375
+And that's the final step.
+
+00:09:07.399 --> 00:09:09.677
+Now we can look at something like a brain
+
+00:09:09.701 --> 00:09:11.497
+and look at the individual molecules,
+
+00:09:11.521 --> 00:09:14.228
+because we've moved them
+far apart enough from each other
+
+00:09:14.252 --> 00:09:15.950
+that we can tell them apart.
+
+00:09:15.974 --> 00:09:18.808
+So the hope here is that
+we can make the invisible visible.
+
+00:09:18.832 --> 00:09:21.398
+We can turn things that might seem
+small and obscure
+
+00:09:21.422 --> 00:09:22.573
+and blow them up
+
+00:09:22.597 --> 00:09:25.774
+until they're like constellations
+of information about life.
+
+00:09:25.798 --> 00:09:28.173
+Here's an actual video
+of what it might look like.
+
+00:09:28.197 --> 00:09:30.568
+We have here a little brain in a dish --
+
+00:09:30.592 --> 00:09:32.339
+a little piece of a brain, actually.
+
+00:09:32.363 --> 00:09:33.959
+We've infused the polymer in,
+
+00:09:33.983 --> 00:09:35.450
+and now we're adding water.
+
+00:09:35.474 --> 00:09:37.832
+What you'll see is that,
+right before your eyes --
+
+00:09:37.856 --> 00:09:39.779
+this video is sped up about sixtyfold --
+
+00:09:39.803 --> 00:09:42.528
+this little piece of brain tissue
+is going to grow.
+
+00:09:42.552 --> 00:09:45.732
+It can increase by a hundredfold
+or even more in volume.
+
+00:09:45.756 --> 00:09:48.705
+And the cool part is, because
+those polymers are so tiny,
+
+00:09:48.729 --> 00:09:51.288
+we're separating biomolecules
+evenly from each other.
+
+00:09:51.312 --> 00:09:52.970
+It's a smooth expansion.
+
+00:09:52.994 --> 00:09:55.681
+We're not losing the configuration
+of the information.
+
+00:09:55.705 --> 00:09:58.405
+We're just making it easier to see.
+
+00:09:59.333 --> 00:10:01.509
+So now we can take
+actual brain circuitry --
+
+00:10:01.533 --> 00:10:04.667
+here's a piece of the brain
+involved with, for example, memory --
+
+00:10:04.691 --> 00:10:05.954
+and we can zoom in.
+
+00:10:05.978 --> 00:10:08.868
+We can start to actually look at
+how circuits are configured.
+
+00:10:08.892 --> 00:10:10.860
+Maybe someday we could read out a memory.
+
+00:10:10.884 --> 00:10:13.663
+Maybe we could actually look
+at how circuits are configured
+
+00:10:13.687 --> 00:10:14.839
+to process emotions,
+
+00:10:14.863 --> 00:10:17.785
+how the actual wiring
+of our brain is organized
+
+00:10:17.809 --> 00:10:20.376
+in order to make us who we are.
+
+00:10:20.400 --> 00:10:22.447
+And of course, we can pinpoint, hopefully,
+
+00:10:22.471 --> 00:10:25.630
+the actual problems in the brain
+at a molecular level.
+
+00:10:25.654 --> 00:10:28.223
+What if we could actually
+look into cells in the brain
+
+00:10:28.247 --> 00:10:31.330
+and figure out, wow, here are the 17
+molecules that have altered
+
+00:10:31.354 --> 00:10:34.809
+in this brain tissue that has been
+undergoing epilepsy
+
+00:10:34.833 --> 00:10:36.483
+or changing in Parkinson's disease
+
+00:10:36.507 --> 00:10:38.024
+or otherwise being altered?
+
+00:10:38.048 --> 00:10:41.091
+If we get that systematic list
+of things that are going wrong,
+
+00:10:41.115 --> 00:10:43.314
+those become our therapeutic targets.
+
+00:10:43.338 --> 00:10:45.015
+We can build drugs that bind those.
+
+00:10:45.039 --> 00:10:47.666
+We can maybe aim energy
+at different parts of the brain
+
+00:10:47.690 --> 00:10:50.377
+in order to help people
+with Parkinson's or epilepsy
+
+00:10:50.401 --> 00:10:52.952
+or other conditions that affect
+over a billion people
+
+00:10:52.976 --> 00:10:54.189
+around the world.
+
+00:10:55.246 --> 00:10:57.452
+Now, something interesting
+has been happening.
+
+00:10:57.476 --> 00:11:00.181
+It turns out that throughout biomedicine,
+
+00:11:00.205 --> 00:11:02.871
+there are other problems
+that expansion might help with.
+
+00:11:02.895 --> 00:11:06.129
+This is an actual biopsy
+from a human breast cancer patient.
+
+00:11:06.505 --> 00:11:08.693
+It turns out that if you look at cancers,
+
+00:11:08.717 --> 00:11:10.328
+if you look at the immune system,
+
+00:11:10.352 --> 00:11:12.865
+if you look at aging,
+if you look at development --
+
+00:11:12.889 --> 00:11:17.386
+all these processes are involving
+large-scale biological systems.
+
+00:11:17.410 --> 00:11:21.434
+But of course, the problems begin
+with those little nanoscale molecules,
+
+00:11:21.458 --> 00:11:25.327
+the machines that make the cells
+and the organs in our body tick.
+
+00:11:25.351 --> 00:11:27.573
+So what we're trying
+to do now is to figure out
+
+00:11:27.597 --> 00:11:31.063
+if we can actually use this technology
+to map the building blocks of life
+
+00:11:31.087 --> 00:11:32.832
+in a wide variety of diseases.
+
+00:11:32.856 --> 00:11:35.752
+Can we actually pinpoint
+the molecular changes in a tumor
+
+00:11:35.776 --> 00:11:38.145
+so that we can actually
+go after it in a smart way
+
+00:11:38.169 --> 00:11:42.113
+and deliver drugs that might wipe out
+exactly the cells that we want to?
+
+00:11:42.137 --> 00:11:44.472
+You know, a lot of medicine
+is very high risk.
+
+00:11:44.496 --> 00:11:46.278
+Sometimes, it's even guesswork.
+
+00:11:46.626 --> 00:11:50.501
+My hope is we can actually turn
+what might be a high-risk moon shot
+
+00:11:50.525 --> 00:11:52.294
+into something that's more reliable.
+
+00:11:52.318 --> 00:11:54.373
+If you think about the original moon shot,
+
+00:11:54.397 --> 00:11:56.295
+where they actually landed on the moon,
+
+00:11:56.319 --> 00:11:57.763
+it was based on solid science.
+
+00:11:57.787 --> 00:11:59.390
+We understood gravity;
+
+00:11:59.414 --> 00:12:00.755
+we understood aerodynamics.
+
+00:12:00.779 --> 00:12:02.174
+We knew how to build rockets.
+
+00:12:02.198 --> 00:12:04.666
+The science risk was under control.
+
+00:12:04.690 --> 00:12:07.443
+It was still a great, great
+feat of engineering.
+
+00:12:07.467 --> 00:12:10.112
+But in medicine, we don't
+necessarily have all the laws.
+
+00:12:10.136 --> 00:12:13.245
+Do we have all the laws
+that are analogous to gravity,
+
+00:12:13.269 --> 00:12:15.613
+that are analogous to aerodynamics?
+
+00:12:15.637 --> 00:12:17.367
+I would argue that with technologies
+
+00:12:17.391 --> 00:12:19.263
+like the kinds I'm talking about today,
+
+00:12:19.287 --> 00:12:20.980
+maybe we can actually derive those.
+
+00:12:21.004 --> 00:12:23.861
+We can map the patterns
+that occur in living systems,
+
+00:12:23.885 --> 00:12:28.443
+and figure out how to overcome
+the diseases that plague us.
+
+00:12:29.499 --> 00:12:31.578
+You know, my wife and I
+have two young kids,
+
+00:12:31.602 --> 00:12:34.836
+and one of my hopes as a bioengineer
+is to make life better for them
+
+00:12:34.860 --> 00:12:36.589
+than it currently is for us.
+
+00:12:36.613 --> 00:12:40.343
+And my hope is, if we can
+turn biology and medicine
+
+00:12:40.367 --> 00:12:44.724
+from these high-risk endeavors
+that are governed by chance and luck,
+
+00:12:44.748 --> 00:12:48.675
+and make them things
+that we win by skill and hard work,
+
+00:12:48.699 --> 00:12:50.597
+then that would be a great advance.
+
+00:12:50.621 --> 00:12:51.827
+Thank you very much.
+
+00:12:51.851 --> 00:13:02.234
+(Applause)
+

@@ -1,0 +1,908 @@
+WEBVTT
+
+00:00:00.844 --> 00:00:03.306
+So this is a talk about gene drives,
+
+00:00:03.330 --> 00:00:05.883
+but I'm going to start
+by telling you a brief story.
+
+00:00:06.621 --> 00:00:09.844
+20 years ago, a biologist
+named Anthony James
+
+00:00:09.868 --> 00:00:12.187
+got obsessed with the idea
+of making mosquitos
+
+00:00:12.211 --> 00:00:14.790
+that didn't transmit malaria.
+
+00:00:15.683 --> 00:00:19.739
+It was a great idea,
+and pretty much a complete failure.
+
+00:00:20.596 --> 00:00:23.256
+For one thing, it turned out
+to be really hard
+
+00:00:23.280 --> 00:00:25.287
+to make a malaria-resistant mosquito.
+
+00:00:26.286 --> 00:00:29.913
+James managed it, finally,
+just a few years ago,
+
+00:00:29.937 --> 00:00:32.008
+by adding some genes
+that make it impossible
+
+00:00:32.032 --> 00:00:34.746
+for the malaria parasite
+to survive inside the mosquito.
+
+00:00:35.551 --> 00:00:37.373
+But that just created another problem.
+
+00:00:38.043 --> 00:00:40.885
+Now that you've got
+a malaria-resistant mosquito,
+
+00:00:40.909 --> 00:00:44.495
+how do you get it to replace
+all the malaria-carrying mosquitos?
+
+00:00:46.107 --> 00:00:47.580
+There are a couple options,
+
+00:00:47.604 --> 00:00:49.627
+but plan A was basically to breed up
+
+00:00:49.651 --> 00:00:52.738
+a bunch of the new
+genetically-engineered mosquitos
+
+00:00:52.762 --> 00:00:54.088
+release them into the wild
+
+00:00:54.112 --> 00:00:56.079
+and hope that they pass on their genes.
+
+00:00:56.673 --> 00:00:58.787
+The problem was that you'd have to release
+
+00:00:58.811 --> 00:01:03.111
+literally 10 times the number
+of native mosquitos to work.
+
+00:01:03.135 --> 00:01:05.222
+So in a village with 10,000 mosquitos,
+
+00:01:05.246 --> 00:01:07.325
+you release an extra 100,000.
+
+00:01:08.229 --> 00:01:09.379
+As you might guess,
+
+00:01:09.403 --> 00:01:12.157
+this was not a very popular strategy
+with the villagers.
+
+00:01:12.181 --> 00:01:13.331
+(Laughter)
+
+00:01:14.963 --> 00:01:18.667
+Then, last January,
+Anthony James got an email
+
+00:01:18.691 --> 00:01:20.642
+from a biologist named Ethan Bier.
+
+00:01:21.400 --> 00:01:24.259
+Bier said that he
+and his grad student Valentino Gantz
+
+00:01:24.283 --> 00:01:27.227
+had stumbled on a tool
+that could not only guarantee
+
+00:01:27.251 --> 00:01:29.925
+that a particular genetic trait
+would be inherited,
+
+00:01:29.949 --> 00:01:32.028
+but that it would spread
+incredibly quickly.
+
+00:01:32.734 --> 00:01:35.400
+If they were right,
+it would basically solve the problem
+
+00:01:35.424 --> 00:01:37.805
+that he and James had been
+working on for 20 years.
+
+00:01:38.450 --> 00:01:43.108
+As a test, they engineered two mosquitos
+to carry the anti-malaria gene
+
+00:01:43.132 --> 00:01:45.291
+and also this new tool, a gene drive,
+
+00:01:45.315 --> 00:01:46.806
+which I'll explain in a minute.
+
+00:01:47.506 --> 00:01:49.839
+Finally, they set it up
+so that any mosquitos
+
+00:01:49.863 --> 00:01:51.801
+that had inherited the anti-malaria gene
+
+00:01:51.825 --> 00:01:55.824
+wouldn't have the usual white eyes,
+but would instead have red eyes.
+
+00:01:56.682 --> 00:01:58.732
+That was pretty much just for convenience
+
+00:01:58.756 --> 00:02:01.293
+so they could tell just at a glance
+which was which.
+
+00:02:02.192 --> 00:02:04.949
+So they took their two
+anti-malarial, red-eyed mosquitos
+
+00:02:04.973 --> 00:02:07.632
+and put them in a box
+with 30 ordinary white-eyed ones,
+
+00:02:07.656 --> 00:02:08.830
+and let them breed.
+
+00:02:09.383 --> 00:02:13.240
+In two generations, those had produced
+3,800 grandchildren.
+
+00:02:14.217 --> 00:02:16.010
+That is not the surprising part.
+
+00:02:16.716 --> 00:02:18.638
+This is the surprising part:
+
+00:02:18.662 --> 00:02:21.569
+given that you started
+with just two red-eyed mosquitos
+
+00:02:21.593 --> 00:02:22.927
+and 30 white-eyed ones,
+
+00:02:22.951 --> 00:02:25.712
+you expect mostly white-eyed descendants.
+
+00:02:26.514 --> 00:02:29.538
+Instead, when James opened the box,
+
+00:02:29.562 --> 00:02:32.903
+all 3,800 mosquitos had red eyes.
+
+00:02:33.315 --> 00:02:35.355
+When I asked Ethan Bier about this moment,
+
+00:02:35.379 --> 00:02:38.894
+he became so excited that he was literally
+shouting into the phone.
+
+00:02:39.886 --> 00:02:42.049
+That's because getting
+only red-eyed mosquitos
+
+00:02:42.073 --> 00:02:45.021
+violates a rule that is the absolute
+cornerstone of biology,
+
+00:02:45.045 --> 00:02:46.287
+Mendelian genetics.
+
+00:02:46.912 --> 00:02:48.081
+I'll keep this quick,
+
+00:02:48.105 --> 00:02:50.869
+but Mendelian genetics
+says when a male and a female mate,
+
+00:02:50.893 --> 00:02:53.535
+their baby inherits half
+of its DNA from each parent.
+
+00:02:53.559 --> 00:02:57.154
+So if our original mosquito was aa
+and our new mosquito is aB,
+
+00:02:57.178 --> 00:02:58.980
+where B is the anti-malarial gene,
+
+00:02:59.004 --> 00:03:01.391
+the babies should come out
+in four permutations:
+
+00:03:01.415 --> 00:03:03.988
+aa, aB, aa, Ba.
+
+00:03:04.884 --> 00:03:07.173
+Instead, with the new gene drive,
+
+00:03:07.197 --> 00:03:08.709
+they all came out aB.
+
+00:03:09.900 --> 00:03:12.452
+Biologically, that shouldn't
+even be possible.
+
+00:03:12.476 --> 00:03:13.780
+So what happened?
+
+00:03:14.709 --> 00:03:16.153
+The first thing that happened
+
+00:03:16.177 --> 00:03:19.447
+was the arrival of a gene-editing tool
+known as CRISPR in 2012.
+
+00:03:20.701 --> 00:03:22.811
+Many of you have probably
+heard about CRISPR,
+
+00:03:22.835 --> 00:03:26.136
+so I'll just say briefly that CRISPR
+is a tool that allows researchers
+
+00:03:26.160 --> 00:03:28.739
+to edit genes very precisely,
+easily and quickly.
+
+00:03:29.533 --> 00:03:33.262
+It does this by harnessing a mechanism
+that already existed in bacteria.
+
+00:03:33.286 --> 00:03:35.912
+Basically, there's a protein
+that acts like a scissors
+
+00:03:35.936 --> 00:03:37.170
+and cuts the DNA,
+
+00:03:37.194 --> 00:03:39.677
+and there's an RNA molecule
+that directs the scissors
+
+00:03:39.701 --> 00:03:41.419
+to any point on the genome you want.
+
+00:03:41.443 --> 00:03:44.133
+The result is basically
+a word processor for genes.
+
+00:03:44.157 --> 00:03:46.783
+You can take an entire gene
+out, put one in,
+
+00:03:46.807 --> 00:03:49.252
+or even edit just a single
+letter within a gene.
+
+00:03:49.646 --> 00:03:51.599
+And you can do it in nearly any species.
+
+00:03:53.328 --> 00:03:57.042
+OK, remember how I said that gene drives
+originally had two problems?
+
+00:03:57.835 --> 00:04:00.955
+The first was that it was hard
+to engineer a mosquito
+
+00:04:00.979 --> 00:04:02.366
+to be malaria-resistant.
+
+00:04:02.390 --> 00:04:04.517
+That's basically gone now,
+thanks to CRISPR.
+
+00:04:05.117 --> 00:04:06.879
+But the other problem was logistical.
+
+00:04:07.307 --> 00:04:09.109
+How do you get your trait to spread?
+
+00:04:10.196 --> 00:04:11.672
+This is where it gets clever.
+
+00:04:12.943 --> 00:04:16.545
+A couple years ago, a biologist
+at Harvard named Kevin Esvelt
+
+00:04:16.569 --> 00:04:17.919
+wondered what would happen
+
+00:04:17.943 --> 00:04:21.570
+if you made it so that
+CRISPR inserted not only your new gene
+
+00:04:21.594 --> 00:04:24.435
+but also the machinery
+that does the cutting and pasting.
+
+00:04:25.233 --> 00:04:29.073
+In other words, what if CRISPR
+also copied and pasted itself.
+
+00:04:30.145 --> 00:04:33.276
+You'd end up with a perpetual
+motion machine for gene editing.
+
+00:04:34.458 --> 00:04:36.192
+And that's exactly what happened.
+
+00:04:37.037 --> 00:04:39.915
+This CRISPR gene drive that Esvelt created
+
+00:04:39.939 --> 00:04:43.582
+not only guarantees
+that a trait will get passed on,
+
+00:04:43.606 --> 00:04:46.044
+but if it's used in the germline cells,
+
+00:04:46.068 --> 00:04:48.644
+it will automatically copy and paste
+your new gene
+
+00:04:48.668 --> 00:04:51.314
+into both chromosomes
+of every single individual.
+
+00:04:51.743 --> 00:04:54.140
+It's like a global search and replace,
+
+00:04:54.164 --> 00:04:57.385
+or in science terms, it makes
+a heterozygous trait homozygous.
+
+00:04:59.045 --> 00:05:01.656
+So, what does this mean?
+
+00:05:01.680 --> 00:05:04.404
+For one thing, it means we have
+a very powerful,
+
+00:05:04.428 --> 00:05:07.085
+but also somewhat alarming new tool.
+
+00:05:08.576 --> 00:05:11.465
+Up until now, the fact that gene drives
+didn't work very well
+
+00:05:11.489 --> 00:05:12.972
+was actually kind of a relief.
+
+00:05:13.425 --> 00:05:16.107
+Normally when we mess around
+with an organism's genes,
+
+00:05:16.131 --> 00:05:18.480
+we make that thing
+less evolutionarily fit.
+
+00:05:18.504 --> 00:05:21.337
+So biologists can make
+all the mutant fruit flies they want
+
+00:05:21.361 --> 00:05:22.614
+without worrying about it.
+
+00:05:22.638 --> 00:05:25.645
+If some escape, natural selection
+just takes care of them.
+
+00:05:26.750 --> 00:05:29.973
+What's remarkable and powerful
+and frightening about gene drives
+
+00:05:29.997 --> 00:05:31.757
+is that that will no longer be true.
+
+00:05:33.092 --> 00:05:36.656
+Assuming that your trait does not have
+a big evolutionary handicap,
+
+00:05:36.680 --> 00:05:38.759
+like a mosquito that can't fly,
+
+00:05:38.783 --> 00:05:42.236
+the CRISPR-based gene drive
+will spread the change relentlessly
+
+00:05:42.260 --> 00:05:45.266
+until it is in every single individual
+in the population.
+
+00:05:47.101 --> 00:05:49.990
+Now, it isn't easy to make
+a gene drive that works that well,
+
+00:05:50.014 --> 00:05:52.188
+but James and Esvelt think that we can.
+
+00:05:53.339 --> 00:05:57.163
+The good news is that this opens
+the door to some remarkable things.
+
+00:05:57.187 --> 00:05:59.091
+If you put an anti-malarial gene drive
+
+00:05:59.115 --> 00:06:01.315
+in just 1 percent of Anopheles mosquitoes,
+
+00:06:01.339 --> 00:06:03.091
+the species that transmits malaria,
+
+00:06:03.488 --> 00:06:07.607
+researchers estimate that it would spread
+to the entire population in a year.
+
+00:06:08.178 --> 00:06:11.047
+So in a year, you could virtually
+eliminate malaria.
+
+00:06:11.455 --> 00:06:15.327
+In practice, we're still a few years out
+from being able to do that,
+
+00:06:15.351 --> 00:06:18.069
+but still, a 1,000 children
+a day die of malaria.
+
+00:06:18.093 --> 00:06:20.283
+In a year, that number
+could be almost zero.
+
+00:06:20.966 --> 00:06:23.862
+The same goes for dengue fever,
+chikungunya, yellow fever.
+
+00:06:25.211 --> 00:06:26.616
+And it gets better.
+
+00:06:27.215 --> 00:06:29.691
+Say you want to get rid
+of an invasive species,
+
+00:06:29.715 --> 00:06:31.838
+like get Asian carp
+out of the Great Lakes.
+
+00:06:32.434 --> 00:06:34.458
+All you have to do is release a gene drive
+
+00:06:34.482 --> 00:06:36.799
+that makes the fish produce
+only male offspring.
+
+00:06:37.386 --> 00:06:41.584
+In a few generations,
+there'll be no females left, no more carp.
+
+00:06:41.608 --> 00:06:44.687
+In theory, this means we could restore
+hundreds of native species
+
+00:06:44.711 --> 00:06:46.378
+that have been pushed to the brink.
+
+00:06:47.410 --> 00:06:50.697
+OK, that's the good news,
+
+00:06:50.721 --> 00:06:52.013
+this is the bad news.
+
+00:06:53.070 --> 00:06:55.098
+Gene drives are so effective
+
+00:06:55.122 --> 00:06:58.947
+that even an accidental release
+could change an entire species,
+
+00:06:58.971 --> 00:07:00.161
+and often very quickly.
+
+00:07:01.178 --> 00:07:03.304
+Anthony James took good precautions.
+
+00:07:03.328 --> 00:07:05.494
+He bred his mosquitos
+in a bio-containment lab
+
+00:07:05.518 --> 00:07:08.106
+and he also used a species
+that's not native to the US
+
+00:07:08.130 --> 00:07:09.685
+so that even if some did escape,
+
+00:07:09.709 --> 00:07:12.724
+they'd just die off, there'd be nothing
+for them to mate with.
+
+00:07:12.748 --> 00:07:16.771
+But it's also true that if a dozen
+Asian carp with the all-male gene drive
+
+00:07:16.795 --> 00:07:20.724
+accidentally got carried
+from the Great Lakes back to Asia,
+
+00:07:20.748 --> 00:07:24.177
+they could potentially wipe out
+the native Asian carp population.
+
+00:07:25.930 --> 00:07:28.842
+And that's not so unlikely,
+given how connected our world is.
+
+00:07:28.866 --> 00:07:31.437
+In fact, it's why we have
+an invasive species problem.
+
+00:07:31.912 --> 00:07:33.080
+And that's fish.
+
+00:07:33.428 --> 00:07:36.016
+Things like mosquitos and fruit flies,
+
+00:07:36.040 --> 00:07:38.000
+there's literally no way to contain them.
+
+00:07:38.024 --> 00:07:40.135
+They cross borders
+and oceans all the time.
+
+00:07:41.754 --> 00:07:43.936
+OK, the other piece of bad news
+
+00:07:43.960 --> 00:07:46.278
+is that a gene drive
+might not stay confined
+
+00:07:46.302 --> 00:07:48.115
+to what we call the target species.
+
+00:07:48.556 --> 00:07:50.055
+That's because of gene flow,
+
+00:07:50.079 --> 00:07:52.676
+which is a fancy way of saying
+that neighboring species
+
+00:07:52.700 --> 00:07:53.948
+sometimes interbreed.
+
+00:07:53.972 --> 00:07:57.123
+If that happens, it's possible
+a gene drive could cross over,
+
+00:07:57.147 --> 00:07:59.674
+like Asian carp could infect
+some other kind of carp.
+
+00:07:59.698 --> 00:08:03.413
+That's not so bad if your drive
+just promotes a trait, like eye color.
+
+00:08:03.437 --> 00:08:05.684
+In fact, there's a decent
+chance that we'll see
+
+00:08:05.708 --> 00:08:08.279
+a wave of very weird fruit flies
+in the near future.
+
+00:08:09.390 --> 00:08:10.653
+But it could be a disaster
+
+00:08:10.677 --> 00:08:13.581
+if your drive is deigned
+to eliminate the species entirely.
+
+00:08:14.351 --> 00:08:17.879
+The last worrisome thing
+is that the technology to do this,
+
+00:08:17.903 --> 00:08:21.594
+to genetically engineer an organism
+and include a gene drive,
+
+00:08:21.618 --> 00:08:24.952
+is something that basically any lab
+in the world can do.
+
+00:08:24.976 --> 00:08:26.316
+An undergraduate can do it.
+
+00:08:27.209 --> 00:08:30.491
+A talented high schooler
+with some equipment can do it.
+
+00:08:32.526 --> 00:08:34.835
+Now, I'm guessing
+that this sounds terrifying.
+
+00:08:35.351 --> 00:08:37.557
+(Laughter)
+
+00:08:37.581 --> 00:08:40.471
+Interestingly though,
+nearly every scientist I talk to
+
+00:08:40.495 --> 00:08:44.376
+seemed to think that gene drives were not
+actually that frightening or dangerous.
+
+00:08:44.400 --> 00:08:47.028
+Partly because they believe
+that scientists will be
+
+00:08:47.052 --> 00:08:49.256
+very cautious and responsible
+about using them.
+
+00:08:49.280 --> 00:08:50.294
+(Laughter)
+
+00:08:50.318 --> 00:08:51.548
+So far, that's been true.
+
+00:08:52.302 --> 00:08:54.998
+But gene drives also have
+some actual limitations.
+
+00:08:55.022 --> 00:08:58.331
+So for one thing, they work
+only in sexually reproducing species.
+
+00:08:58.704 --> 00:09:02.132
+So thank goodness, they can't be used
+to engineer viruses or bacteria.
+
+00:09:02.156 --> 00:09:05.346
+Also, the trait spreads
+only with each successive generation.
+
+00:09:05.370 --> 00:09:07.363
+So changing or eliminating a population
+
+00:09:07.387 --> 00:09:10.713
+is practical only if that species
+has a fast reproductive cycle,
+
+00:09:10.737 --> 00:09:13.537
+like insects or maybe
+small vertebrates like mice or fish.
+
+00:09:14.438 --> 00:09:16.699
+In elephants or people,
+it would take centuries
+
+00:09:16.723 --> 00:09:19.103
+for a trait to spread
+widely enough to matter.
+
+00:09:20.079 --> 00:09:25.221
+Also, even with CRISPR, it's not that easy
+to engineer a truly devastating trait.
+
+00:09:26.079 --> 00:09:27.808
+Say you wanted to make a fruit fly
+
+00:09:27.832 --> 00:09:30.387
+that feeds on ordinary fruit
+instead of rotting fruit,
+
+00:09:30.411 --> 00:09:33.044
+with the aim of sabotaging
+American agriculture.
+
+00:09:33.068 --> 00:09:34.598
+First, you'd have to figure out
+
+00:09:34.622 --> 00:09:37.394
+which genes control
+what the fly wants to eat,
+
+00:09:37.418 --> 00:09:39.965
+which is already a very long
+and complicated project.
+
+00:09:40.489 --> 00:09:43.793
+Then you'd have to alter those genes
+to change the fly's behavior
+
+00:09:43.817 --> 00:09:45.355
+to whatever you'd want it to be,
+
+00:09:45.379 --> 00:09:48.180
+which is an even longer
+and more complicated project.
+
+00:09:48.204 --> 00:09:49.522
+And it might not even work,
+
+00:09:49.546 --> 00:09:52.040
+because the genes
+that control behavior are complex.
+
+00:09:52.064 --> 00:09:54.072
+So if you're a terrorist
+and have to choose
+
+00:09:54.096 --> 00:09:56.454
+between starting a grueling
+basic research program
+
+00:09:56.478 --> 00:10:00.005
+that will require years of meticulous
+lab work and still might not pan out,
+
+00:10:00.029 --> 00:10:01.376
+or just blowing stuff up?
+
+00:10:01.400 --> 00:10:03.055
+You'll probably choose the later.
+
+00:10:03.498 --> 00:10:05.918
+This is especially true
+because at least in theory,
+
+00:10:05.942 --> 00:10:09.076
+it should be pretty easy
+to build what's called a reversal drive.
+
+00:10:09.100 --> 00:10:12.798
+That's one that basically overwrites
+the change made by the first gene drive.
+
+00:10:12.822 --> 00:10:15.116
+So if you don't like
+the effects of a change,
+
+00:10:15.140 --> 00:10:17.973
+you can just release a second drive
+that will cancel it out,
+
+00:10:17.997 --> 00:10:19.147
+at least in theory.
+
+00:10:21.374 --> 00:10:23.096
+OK, so where does this leave us?
+
+00:10:24.604 --> 00:10:28.199
+We now have the ability
+to change entire species at will.
+
+00:10:29.017 --> 00:10:30.183
+Should we?
+
+00:10:30.552 --> 00:10:31.917
+Are we gods now?
+
+00:10:33.972 --> 00:10:35.305
+I'm not sure I'd say that.
+
+00:10:36.094 --> 00:10:37.321
+But I would say this:
+
+00:10:38.329 --> 00:10:40.187
+first, some very smart people
+
+00:10:40.211 --> 00:10:43.067
+are even now debating
+how to regulate gene drives.
+
+00:10:43.598 --> 00:10:46.162
+At the same time,
+some other very smart people
+
+00:10:46.186 --> 00:10:48.297
+are working hard to create safeguards,
+
+00:10:48.321 --> 00:10:51.873
+like gene drives that self-regulate
+or peter out after a few generations.
+
+00:10:52.644 --> 00:10:53.844
+That's great.
+
+00:10:54.313 --> 00:10:56.860
+But this technology still requires
+a conversation.
+
+00:10:58.059 --> 00:10:59.789
+And given the nature of gene drives,
+
+00:10:59.813 --> 00:11:01.503
+that conversation has to be global.
+
+00:11:02.131 --> 00:11:04.838
+What if Kenya wants to use a drive
+but Tanzania doesn't?
+
+00:11:05.241 --> 00:11:08.608
+Who decides whether to release
+a gene drive that can fly?
+
+00:11:10.874 --> 00:11:12.828
+I don't have the answer to that question.
+
+00:11:13.618 --> 00:11:15.626
+All we can do going forward, I think,
+
+00:11:15.650 --> 00:11:18.484
+is talk honestly
+about the risks and benefits
+
+00:11:18.508 --> 00:11:20.730
+and take responsibility for our choices.
+
+00:11:21.817 --> 00:11:25.730
+By that I mean, not just the choice
+to use a gene drive,
+
+00:11:25.754 --> 00:11:27.753
+but also the choice not to use one.
+
+00:11:29.111 --> 00:11:32.088
+Humans have a tendency to assume
+that the safest option
+
+00:11:32.112 --> 00:11:33.904
+is to preserve the status quo.
+
+00:11:34.905 --> 00:11:36.477
+But that's not always the case.
+
+00:11:37.711 --> 00:11:41.112
+Gene drives have risks,
+and those need to be discussed,
+
+00:11:41.136 --> 00:11:44.286
+but malaria exists now
+and kills 1,000 people a day.
+
+00:11:44.977 --> 00:11:48.541
+To combat it, we spray pesticides
+that do grave damage to other species,
+
+00:11:48.565 --> 00:11:50.135
+including amphibians and birds.
+
+00:11:51.668 --> 00:11:54.532
+So when you hear about gene drives
+in the coming months,
+
+00:11:54.556 --> 00:11:56.810
+and trust me, you will
+be hearing about them,
+
+00:11:56.834 --> 00:11:58.378
+remember that.
+
+00:11:58.402 --> 00:12:00.422
+It can be frightening to act,
+
+00:12:00.446 --> 00:12:02.583
+but sometimes, not acting is worse.
+
+00:12:04.746 --> 00:12:12.566
+(Applause)
+

@@ -1,0 +1,254 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Do you ever feel completely overwhelmed
+
+00:00:02.000 --> 00:00:05.000
+when you're faced with a complex problem?
+
+00:00:05.000 --> 00:00:08.000
+Well, I hope to change that in less than three minutes.
+
+00:00:08.000 --> 00:00:10.000
+So, I hope to convince you that complex
+
+00:00:10.000 --> 00:00:12.000
+doesn't always equal complicated.
+
+00:00:12.000 --> 00:00:15.000
+So for me, a well-crafted baguette, fresh out of the oven,
+
+00:00:15.000 --> 00:00:17.000
+is complex,
+
+00:00:17.000 --> 00:00:19.000
+but a curry onion green olive poppy cheese bread
+
+00:00:19.000 --> 00:00:22.000
+is complicated.
+
+00:00:22.000 --> 00:00:25.000
+I'm an ecologist, and I study complexity. I love complexity.
+
+00:00:25.000 --> 00:00:28.000
+And I study that in the natural world, the interconnectedness of species.
+
+00:00:28.000 --> 00:00:30.000
+So here's a food web,
+
+00:00:30.000 --> 00:00:32.000
+or a map of feeding links between species
+
+00:00:32.000 --> 00:00:35.000
+that live in Alpine Lakes in the mountains of California.
+
+00:00:35.000 --> 00:00:37.000
+And this is what happens to that food web
+
+00:00:37.000 --> 00:00:39.000
+when it's stocked with non-native fish that never lived there before.
+
+00:00:39.000 --> 00:00:41.000
+All the grayed-out species disappear.
+
+00:00:41.000 --> 00:00:43.000
+Some are actually on the brink of extinction.
+
+00:00:43.000 --> 00:00:46.000
+And lakes with fish have more mosquitos, even though they eat them.
+
+00:00:46.000 --> 00:00:48.000
+These effects were all unanticipated,
+
+00:00:48.000 --> 00:00:50.000
+and yet we're discovering they're predictable.
+
+00:00:50.000 --> 00:00:52.000
+So I want to share with you a couple key insights
+
+00:00:52.000 --> 00:00:54.000
+about complexity we're learning from studying nature
+
+00:00:54.000 --> 00:00:57.000
+that maybe are applicable to other problems.
+
+00:00:58.000 --> 00:01:00.000
+First is the simple power of good visualization tools
+
+00:01:00.000 --> 00:01:02.000
+to help untangle complexity
+
+00:01:02.000 --> 00:01:05.000
+and just encourage you to ask questions you didn't think of before.
+
+00:01:05.000 --> 00:01:08.000
+For example, you could plot the flow of carbon
+
+00:01:08.000 --> 00:01:11.000
+through corporate supply chains in a corporate ecosystem,
+
+00:01:11.000 --> 00:01:13.000
+or the interconnections of habitat patches
+
+00:01:13.000 --> 00:01:16.000
+for endangered species in Yosemite National Park.
+
+00:01:16.000 --> 00:01:18.000
+The next thing is that if you want to predict
+
+00:01:18.000 --> 00:01:20.000
+the effect of one species on another,
+
+00:01:20.000 --> 00:01:22.000
+if you focus only on that link,
+
+00:01:22.000 --> 00:01:24.000
+and then you black box the rest,
+
+00:01:24.000 --> 00:01:26.000
+it's actually less predictable
+
+00:01:26.000 --> 00:01:29.000
+than if you step back, consider the entire system -- all the species, all the links --
+
+00:01:29.000 --> 00:01:31.000
+and from that place,
+
+00:01:31.000 --> 00:01:33.000
+hone in on the sphere of influence that matters most.
+
+00:01:33.000 --> 00:01:35.000
+And we're discovering, with our research,
+
+00:01:35.000 --> 00:01:37.000
+that's often very local to the node you care about
+
+00:01:37.000 --> 00:01:39.000
+within one or two degrees.
+
+00:01:39.000 --> 00:01:41.000
+So the more you step back, embrace complexity,
+
+00:01:41.000 --> 00:01:43.000
+the better chance you have of finding simple answers,
+
+00:01:43.000 --> 00:01:46.000
+and it's often different than the simple answer that you started with.
+
+00:01:47.000 --> 00:01:50.000
+So let's switch gears and look at a really complex problem
+
+00:01:50.000 --> 00:01:53.000
+courtesy of the U.S. government.
+
+00:01:53.000 --> 00:01:56.000
+This is a diagram of the U.S. counterinsurgency strategy in Afghanistan.
+
+00:01:56.000 --> 00:01:59.000
+It was front page of the New York Times a couple months ago.
+
+00:01:59.000 --> 00:02:01.000
+Instantly ridiculed by the media
+
+00:02:01.000 --> 00:02:03.000
+for being so crazy complicated.
+
+00:02:03.000 --> 00:02:05.000
+And the stated goal was to increase popular support
+
+00:02:05.000 --> 00:02:07.000
+for the Afghan government.
+
+00:02:07.000 --> 00:02:09.000
+Clearly a complex problem,
+
+00:02:09.000 --> 00:02:11.000
+but is it complicated?
+
+00:02:11.000 --> 00:02:13.000
+Well, when I saw this in the front page of the Times,
+
+00:02:13.000 --> 00:02:15.000
+I thought, "Great. Finally something I can relate to.
+
+00:02:15.000 --> 00:02:17.000
+I can sink my teeth into this."
+
+00:02:17.000 --> 00:02:20.000
+So let's do it. So here we go for the first time ever,
+
+00:02:20.000 --> 00:02:23.000
+a world premiere view of this spaghetti diagram as an ordered network.
+
+00:02:23.000 --> 00:02:25.000
+The circled node is the one we're trying to influence --
+
+00:02:25.000 --> 00:02:27.000
+popular support for the government.
+
+00:02:27.000 --> 00:02:29.000
+And so now we can look one degrees, two degrees,
+
+00:02:29.000 --> 00:02:31.000
+three degrees away from that node
+
+00:02:31.000 --> 00:02:34.000
+and eliminate three-quarters of the diagram outside that sphere of influence.
+
+00:02:34.000 --> 00:02:36.000
+Within that sphere,
+
+00:02:36.000 --> 00:02:39.000
+most of those nodes are not actionable, like the harshness of the terrain,
+
+00:02:39.000 --> 00:02:42.000
+and a very small minority are actual military actions.
+
+00:02:42.000 --> 00:02:45.000
+Most are non-violent and they fall into two broad categories:
+
+00:02:46.000 --> 00:02:49.000
+active engagement with ethnic rivalries and religious beliefs
+
+00:02:49.000 --> 00:02:51.000
+and fair, transparent economic development
+
+00:02:51.000 --> 00:02:53.000
+and provisioning of services.
+
+00:02:53.000 --> 00:02:56.000
+I don't know about this, but this is what I can decipher from this diagram
+
+00:02:56.000 --> 00:02:58.000
+in 24 seconds.
+
+00:02:58.000 --> 00:03:00.000
+When you see a diagram like this, I don't want you to be afraid.
+
+00:03:00.000 --> 00:03:03.000
+I want you to be excited. I want you to be relieved.
+
+00:03:03.000 --> 00:03:05.000
+Because simple answers may emerge.
+
+00:03:05.000 --> 00:03:07.000
+We're discovering in nature that simplicity often lies
+
+00:03:07.000 --> 00:03:09.000
+on the other side of complexity.
+
+00:03:09.000 --> 00:03:12.000
+So for any problem, the more you can zoom out and embrace complexity,
+
+00:03:12.000 --> 00:03:14.000
+the better chance you have of zooming in
+
+00:03:14.000 --> 00:03:16.000
+on the simple details that matter most.
+
+00:03:16.000 --> 00:03:18.000
+Thank you.
+
+00:03:18.000 --> 00:03:21.000
+(Applause)
+

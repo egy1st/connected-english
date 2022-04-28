@@ -1,0 +1,1021 @@
+WEBVTT
+
+00:00:01.303 --> 00:00:02.463
+A few years ago,
+
+00:00:02.487 --> 00:00:05.257
+with my colleague, Emmanuelle Charpentier,
+
+00:00:05.281 --> 00:00:08.539
+I invented a new technology
+for editing genomes.
+
+00:00:09.093 --> 00:00:11.207
+It's called CRISPR-Cas9.
+
+00:00:11.870 --> 00:00:15.446
+The CRISPR technology allows
+scientists to make changes
+
+00:00:15.470 --> 00:00:17.325
+to the DNA in cells
+
+00:00:17.349 --> 00:00:20.255
+that could allow us
+to cure genetic disease.
+
+00:00:21.196 --> 00:00:22.688
+You might be interested to know
+
+00:00:22.712 --> 00:00:26.496
+that the CRISPR technology came about
+through a basic research project
+
+00:00:26.520 --> 00:00:30.463
+that was aimed at discovering
+how bacteria fight viral infections.
+
+00:00:31.340 --> 00:00:34.212
+Bacteria have to deal with viruses
+in their environment,
+
+00:00:34.236 --> 00:00:37.900
+and we can think about a viral infection
+like a ticking time bomb --
+
+00:00:37.924 --> 00:00:41.282
+a bacterium has only a few minutes
+to defuse the bomb
+
+00:00:41.306 --> 00:00:42.916
+before it gets destroyed.
+
+00:00:43.284 --> 00:00:48.674
+So, many bacteria have in their cells
+an adaptive immune system called CRISPR,
+
+00:00:48.698 --> 00:00:52.344
+that allows them to detect
+viral DNA and destroy it.
+
+00:00:53.148 --> 00:00:57.116
+Part of the CRISPR system
+is a protein called Cas9,
+
+00:00:57.140 --> 00:01:03.089
+that's able to seek out, cut
+and eventually degrade viral DNA
+
+00:01:03.113 --> 00:01:04.375
+in a specific way.
+
+00:01:05.054 --> 00:01:06.556
+And it was through our research
+
+00:01:06.580 --> 00:01:10.237
+to understand the activity
+of this protein, Cas9,
+
+00:01:10.261 --> 00:01:13.092
+that we realized that we could
+harness its function
+
+00:01:13.116 --> 00:01:16.522
+as a genetic engineering technology --
+
+00:01:16.546 --> 00:01:23.497
+a way for scientists to delete or insert
+specific bits of DNA into cells
+
+00:01:23.521 --> 00:01:25.552
+with incredible precision --
+
+00:01:25.576 --> 00:01:27.243
+that would offer opportunities
+
+00:01:27.267 --> 00:01:30.339
+to do things that really haven't
+been possible in the past.
+
+00:01:31.184 --> 00:01:33.246
+The CRISPR technology
+has already been used
+
+00:01:33.270 --> 00:01:38.354
+to change the DNA in the cells
+of mice and monkeys,
+
+00:01:38.378 --> 00:01:40.003
+other organisms as well.
+
+00:01:40.527 --> 00:01:42.282
+Chinese scientists showed recently
+
+00:01:42.306 --> 00:01:44.465
+that they could even use
+the CRISPR technology
+
+00:01:44.489 --> 00:01:47.118
+to change genes in human embryos.
+
+00:01:47.142 --> 00:01:50.285
+And scientists in Philadelphia showed
+they could use CRISPR
+
+00:01:50.309 --> 00:01:55.152
+to remove the DNA
+of an integrated HIV virus
+
+00:01:55.176 --> 00:01:57.371
+from infected human cells.
+
+00:01:58.217 --> 00:02:01.348
+The opportunity to do this kind
+of genome editing
+
+00:02:01.372 --> 00:02:04.655
+also raises various ethical issues
+that we have to consider,
+
+00:02:04.679 --> 00:02:08.647
+because this technology can be employed
+not only in adult cells,
+
+00:02:08.671 --> 00:02:11.274
+but also in the embryos of organisms,
+
+00:02:11.298 --> 00:02:14.298
+including our own species.
+
+00:02:14.767 --> 00:02:16.765
+And so, together with my colleagues,
+
+00:02:16.789 --> 00:02:21.277
+I've called for a global conversation
+about the technology that I co-invented,
+
+00:02:21.301 --> 00:02:25.841
+so that we can consider all of the ethical
+and societal implications
+
+00:02:25.865 --> 00:02:27.589
+of a technology like this.
+
+00:02:28.056 --> 00:02:32.995
+What I want to do now is tell you
+what the CRISPR technology is,
+
+00:02:33.019 --> 00:02:34.473
+what it can do,
+
+00:02:34.497 --> 00:02:35.742
+where we are today
+
+00:02:35.766 --> 00:02:38.788
+and why I think we need to take
+a prudent path forward
+
+00:02:38.812 --> 00:02:41.165
+in the way that we employ this technology.
+
+00:02:43.085 --> 00:02:46.831
+When viruses infect a cell,
+they inject their DNA.
+
+00:02:47.363 --> 00:02:48.839
+And in a bacterium,
+
+00:02:48.863 --> 00:02:53.728
+the CRISPR system allows that DNA
+to be plucked out of the virus,
+
+00:02:53.752 --> 00:02:57.597
+and inserted in little bits
+into the chromosome --
+
+00:02:57.621 --> 00:02:59.571
+the DNA of the bacterium.
+
+00:02:59.937 --> 00:03:05.287
+And these integrated bits of viral DNA
+get inserted at a site called CRISPR.
+
+00:03:06.032 --> 00:03:12.027
+CRISPR stands for clustered regularly
+interspaced short palindromic repeats.
+
+00:03:12.051 --> 00:03:13.052
+(Laughter)
+
+00:03:13.076 --> 00:03:16.449
+A big mouthful -- you can see why
+we use the acronym CRISPR.
+
+00:03:16.890 --> 00:03:20.878
+It's a mechanism that allows cells
+to record, over time,
+
+00:03:20.902 --> 00:03:23.584
+the viruses they have been exposed to.
+
+00:03:23.608 --> 00:03:28.291
+And importantly, those bits of DNA
+are passed on to the cells' progeny,
+
+00:03:28.315 --> 00:03:32.848
+so cells are protected from viruses
+not only in one generation,
+
+00:03:32.872 --> 00:03:35.221
+but over many generations of cells.
+
+00:03:35.245 --> 00:03:39.530
+This allows the cells
+to keep a record of infection,
+
+00:03:39.554 --> 00:03:42.493
+and as my colleague,
+Blake Wiedenheft, likes to say,
+
+00:03:42.517 --> 00:03:47.473
+the CRISPR locus is effectively
+a genetic vaccination card in cells.
+
+00:03:48.572 --> 00:03:53.070
+Once those bits of DNA have been inserted
+into the bacterial chromosome,
+
+00:03:53.094 --> 00:03:57.293
+the cell then makes a little copy
+of a molecule called RNA,
+
+00:03:57.317 --> 00:03:59.332
+which is orange in this picture,
+
+00:03:59.356 --> 00:04:04.073
+that is an exact replicate
+of the viral DNA.
+
+00:04:04.502 --> 00:04:06.838
+RNA is a chemical cousin of DNA,
+
+00:04:06.862 --> 00:04:10.815
+and it allows interaction
+with DNA molecules
+
+00:04:10.839 --> 00:04:12.838
+that have a matching sequence.
+
+00:04:13.258 --> 00:04:17.167
+So those little bits of RNA
+from the CRISPR locus
+
+00:04:17.191 --> 00:04:20.980
+associate -- they bind --
+to protein called Cas9,
+
+00:04:21.004 --> 00:04:22.939
+which is white in the picture,
+
+00:04:22.963 --> 00:04:27.182
+and form a complex that functions
+like a sentinel in the cell.
+
+00:04:27.206 --> 00:04:30.620
+It searches through all
+of the DNA in the cell,
+
+00:04:30.644 --> 00:04:34.896
+to find sites that match
+the sequences in the bound RNAs.
+
+00:04:34.920 --> 00:04:36.555
+And when those sites are found --
+
+00:04:36.579 --> 00:04:40.049
+as you can see here,
+the blue molecule is DNA --
+
+00:04:40.073 --> 00:04:42.922
+this complex associates with that DNA
+
+00:04:42.946 --> 00:04:48.248
+and allows the Cas9 cleaver
+to cut up the viral DNA.
+
+00:04:48.272 --> 00:04:50.628
+It makes a very precise break.
+
+00:04:52.096 --> 00:04:56.496
+So we can think of the Cas9 RNA
+sentinel complex
+
+00:04:56.520 --> 00:04:59.701
+like a pair of scissors
+that can cut DNA --
+
+00:04:59.725 --> 00:05:02.961
+it makes a double-stranded break
+in the DNA helix.
+
+00:05:02.985 --> 00:05:06.967
+And importantly,
+this complex is programmable,
+
+00:05:06.991 --> 00:05:12.191
+so it can be programmed to recognize
+particular DNA sequences,
+
+00:05:12.215 --> 00:05:15.242
+and make a break in the DNA at that site.
+
+00:05:15.928 --> 00:05:17.508
+As I'm going to tell you now,
+
+00:05:17.532 --> 00:05:22.308
+we recognized that that activity
+could be harnessed for genome engineering,
+
+00:05:22.332 --> 00:05:26.559
+to allow cells to make
+a very precise change to the DNA
+
+00:05:26.583 --> 00:05:29.055
+at the site where
+this break was introduced.
+
+00:05:29.558 --> 00:05:30.773
+That's sort of analogous
+
+00:05:30.797 --> 00:05:33.505
+to the way that we use
+a word-processing program
+
+00:05:33.529 --> 00:05:35.809
+to fix a typo in a document.
+
+00:05:37.541 --> 00:05:42.359
+The reason we envisioned using
+the CRISPR system for genome engineering
+
+00:05:42.383 --> 00:05:46.002
+is because cells have the ability
+to detect broken DNA
+
+00:05:46.026 --> 00:05:47.218
+and repair it.
+
+00:05:47.780 --> 00:05:52.711
+So when a plant or an animal cell detects
+a double-stranded break in its DNA,
+
+00:05:52.735 --> 00:05:54.332
+it can fix that break,
+
+00:05:54.356 --> 00:05:57.883
+either by pasting together
+the ends of the broken DNA
+
+00:05:57.907 --> 00:06:02.017
+with a little, tiny change
+in the sequence of that position,
+
+00:06:02.041 --> 00:06:08.324
+or it can repair the break by integrating
+a new piece of DNA at the site of the cut.
+
+00:06:09.054 --> 00:06:14.027
+So if we have a way to introduce
+double-stranded breaks into DNA
+
+00:06:14.051 --> 00:06:15.631
+at precise places,
+
+00:06:15.655 --> 00:06:18.464
+we can trigger cells
+to repair those breaks,
+
+00:06:18.488 --> 00:06:23.511
+by either the disruption or incorporation
+of new genetic information.
+
+00:06:23.936 --> 00:06:27.178
+So if we were able to program
+the CRISPR technology
+
+00:06:27.202 --> 00:06:29.525
+to make a break in DNA
+
+00:06:29.549 --> 00:06:35.818
+at the position at or near a mutation
+causing cystic fibrosis, for example,
+
+00:06:35.842 --> 00:06:39.347
+we could trigger cells
+to repair that mutation.
+
+00:06:40.464 --> 00:06:45.567
+Genome engineering is actually not new,
+it's been in development since the 1970s.
+
+00:06:45.591 --> 00:06:48.342
+We've had technologies for sequencing DNA,
+
+00:06:48.366 --> 00:06:49.961
+for copying DNA,
+
+00:06:49.985 --> 00:06:52.365
+and even for manipulating DNA.
+
+00:06:52.969 --> 00:06:56.105
+And these technologies
+were very promising,
+
+00:06:56.129 --> 00:07:00.535
+but the problem was
+that they were either inefficient,
+
+00:07:00.559 --> 00:07:02.892
+or they were difficult enough to use
+
+00:07:02.916 --> 00:07:07.718
+that most scientists had not adopted them
+for use in their own laboratories,
+
+00:07:07.742 --> 00:07:11.907
+or certainly for many
+clinical applications.
+
+00:07:12.722 --> 00:07:19.722
+So, the opportunity to take a technology
+like CRISPR and utilize it has appeal,
+
+00:07:20.101 --> 00:07:23.102
+because of its relative simplicity.
+
+00:07:23.126 --> 00:07:26.895
+We can think of older
+genome engineering technologies
+
+00:07:26.919 --> 00:07:30.578
+as similar to having
+to rewire your computer
+
+00:07:30.602 --> 00:07:34.372
+each time you want to run
+a new piece of software,
+
+00:07:34.396 --> 00:07:38.160
+whereas the CRISPR technology
+is like software for the genome,
+
+00:07:38.184 --> 00:07:41.670
+we can program it easily,
+using these little bits of RNA.
+
+00:07:42.658 --> 00:07:45.751
+So once a double-stranded
+break is made in DNA,
+
+00:07:45.775 --> 00:07:47.862
+we can induce repair,
+
+00:07:47.886 --> 00:07:51.332
+and thereby potentially achieve
+astounding things,
+
+00:07:51.356 --> 00:07:55.515
+like being able to correct mutations
+that cause sickle cell anemia
+
+00:07:55.539 --> 00:07:57.890
+or cause Huntington's Disease.
+
+00:07:57.914 --> 00:08:01.375
+I actually think that the first
+applications of the CRISPR technology
+
+00:08:01.399 --> 00:08:03.668
+are going to happen in the blood,
+
+00:08:03.692 --> 00:08:08.445
+where it's relatively easier
+to deliver this tool into cells,
+
+00:08:08.469 --> 00:08:10.590
+compared to solid tissues.
+
+00:08:11.905 --> 00:08:14.309
+Right now, a lot of the work
+that's going on
+
+00:08:14.333 --> 00:08:18.302
+applies to animal models
+of human disease, such as mice.
+
+00:08:18.326 --> 00:08:21.595
+The technology is being used to make
+very precise changes
+
+00:08:21.619 --> 00:08:26.790
+that allow us to study the way
+that these changes in the cell's DNA
+
+00:08:26.814 --> 00:08:31.134
+affect either a tissue or,
+in this case, an entire organism.
+
+00:08:31.515 --> 00:08:32.722
+Now in this example,
+
+00:08:32.746 --> 00:08:36.539
+the CRISPR technology
+was used to disrupt a gene
+
+00:08:36.563 --> 00:08:39.330
+by making a tiny change in the DNA
+
+00:08:39.354 --> 00:08:43.798
+in a gene that is responsible
+for the black coat color of these mice.
+
+00:08:44.219 --> 00:08:49.237
+Imagine that these white mice
+differ from their pigmented litter-mates
+
+00:08:49.261 --> 00:08:53.928
+by just a tiny change at one gene
+in the entire genome,
+
+00:08:53.952 --> 00:08:55.942
+and they're otherwise completely normal.
+
+00:08:55.966 --> 00:08:58.857
+And when we sequence the DNA
+from these animals,
+
+00:08:58.881 --> 00:09:01.507
+we find that the change in the DNA
+
+00:09:01.531 --> 00:09:04.673
+has occurred at exactly the place
+where we induced it,
+
+00:09:04.697 --> 00:09:06.459
+using the CRISPR technology.
+
+00:09:07.662 --> 00:09:10.386
+Additional experiments
+are going on in other animals
+
+00:09:10.410 --> 00:09:14.505
+that are useful for creating models
+for human disease,
+
+00:09:14.529 --> 00:09:16.132
+such as monkeys.
+
+00:09:16.156 --> 00:09:19.382
+And here we find
+that we can use these systems
+
+00:09:19.406 --> 00:09:23.208
+to test the application of this technology
+in particular tissues,
+
+00:09:23.232 --> 00:09:28.305
+for example, figuring out how to deliver
+the CRISPR tool into cells.
+
+00:09:28.329 --> 00:09:30.477
+We also want to understand better
+
+00:09:30.501 --> 00:09:34.128
+how to control the way
+that DNA is repaired after it's cut,
+
+00:09:34.152 --> 00:09:39.833
+and also to figure out how to control
+and limit any kind of off-target,
+
+00:09:39.857 --> 00:09:43.094
+or unintended effects
+of using the technology.
+
+00:09:44.356 --> 00:09:50.506
+I think that we will see
+clinical application of this technology,
+
+00:09:50.530 --> 00:09:52.042
+certainly in adults,
+
+00:09:52.066 --> 00:09:53.669
+within the next 10 years.
+
+00:09:53.693 --> 00:09:56.827
+I think that it's likely
+that we will see clinical trials
+
+00:09:56.851 --> 00:10:00.280
+and possibly even approved
+therapies within that time,
+
+00:10:00.304 --> 00:10:03.017
+which is a very exciting thing
+to think about.
+
+00:10:03.041 --> 00:10:05.542
+And because of the excitement
+around this technology,
+
+00:10:05.566 --> 00:10:08.859
+there's a lot of interest
+in start-up companies
+
+00:10:08.883 --> 00:10:13.645
+that have been founded
+to commercialize the CRISPR technology,
+
+00:10:13.669 --> 00:10:15.158
+and lots of venture capitalists
+
+00:10:15.182 --> 00:10:17.754
+that have been investing
+in these companies.
+
+00:10:19.242 --> 00:10:20.815
+But we have to also consider
+
+00:10:20.839 --> 00:10:24.461
+that the CRISPR technology can be used
+for things like enhancement.
+
+00:10:24.485 --> 00:10:27.529
+Imagine that we could try
+to engineer humans
+
+00:10:27.553 --> 00:10:31.988
+that have enhanced properties,
+such as stronger bones,
+
+00:10:32.012 --> 00:10:36.083
+or less susceptibility
+to cardiovascular disease
+
+00:10:36.107 --> 00:10:37.618
+or even to have properties
+
+00:10:37.642 --> 00:10:40.041
+that we would consider maybe
+to be desirable,
+
+00:10:40.065 --> 00:10:44.506
+like a different eye color
+or to be taller, things like that.
+
+00:10:45.942 --> 00:10:47.788
+"Designer humans," if you will.
+
+00:10:48.780 --> 00:10:51.170
+Right now, the genetic information
+
+00:10:51.194 --> 00:10:55.687
+to understand what types of genes
+would give rise to these traits
+
+00:10:55.711 --> 00:10:57.444
+is mostly not known.
+
+00:10:57.468 --> 00:10:58.714
+But it's important to know
+
+00:10:58.738 --> 00:11:03.023
+that the CRISPR technology gives us a tool
+to make such changes,
+
+00:11:03.047 --> 00:11:05.554
+once that knowledge becomes available.
+
+00:11:06.651 --> 00:11:10.762
+This raises a number of ethical questions
+that we have to carefully consider,
+
+00:11:10.786 --> 00:11:15.001
+and this is why I and my colleagues
+have called for a global pause
+
+00:11:15.025 --> 00:11:19.771
+in any clinical application
+of the CRISPR technology in human embryos,
+
+00:11:19.795 --> 00:11:20.946
+to give us time
+
+00:11:20.970 --> 00:11:25.347
+to really consider all of the various
+implications of doing so.
+
+00:11:25.743 --> 00:11:29.586
+And actually, there is an important
+precedent for such a pause
+
+00:11:29.610 --> 00:11:30.929
+from the 1970s,
+
+00:11:30.953 --> 00:11:32.817
+when scientists got together
+
+00:11:32.841 --> 00:11:36.671
+to call for a moratorium
+on the use of molecular cloning,
+
+00:11:36.695 --> 00:11:42.650
+until the safety of that technology
+could be tested carefully and validated.
+
+00:11:43.506 --> 00:11:48.646
+So, genome-engineered humans
+are not with us yet,
+
+00:11:48.670 --> 00:11:51.317
+but this is no longer science fiction.
+
+00:11:52.179 --> 00:11:56.544
+Genome-engineered animals and plants
+are happening right now.
+
+00:11:57.069 --> 00:12:01.122
+And this puts in front of all of us
+a huge responsibility,
+
+00:12:01.146 --> 00:12:05.723
+to consider carefully
+both the unintended consequences
+
+00:12:05.747 --> 00:12:09.793
+as well as the intended impacts
+of a scientific breakthrough.
+
+00:12:10.190 --> 00:12:11.342
+Thank you.
+
+00:12:11.366 --> 00:12:15.366
+(Applause)
+
+00:12:19.572 --> 00:12:20.735
+(Applause ends)
+
+00:12:21.535 --> 00:12:25.429
+Bruno Giussani: Jennifer, this is
+a technology with huge consequences,
+
+00:12:25.453 --> 00:12:26.604
+as you pointed out.
+
+00:12:26.628 --> 00:12:31.800
+Your attitude about asking for a pause
+or a moratorium or a quarantine
+
+00:12:31.824 --> 00:12:33.844
+is incredibly responsible.
+
+00:12:34.733 --> 00:12:37.281
+There are, of course,
+the therapeutic results of this,
+
+00:12:37.305 --> 00:12:39.455
+but then there are the un-therapeutic ones
+
+00:12:39.479 --> 00:12:41.659
+and they seem to be the ones
+gaining traction,
+
+00:12:41.683 --> 00:12:42.929
+particularly in the media.
+
+00:12:42.953 --> 00:12:47.119
+This is one of the latest issues
+of The Economist -- "Editing humanity."
+
+00:12:47.143 --> 00:12:50.962
+It's all about genetic enhancement,
+it's not about therapeutics.
+
+00:12:51.541 --> 00:12:53.823
+What kind of reactions
+did you get back in March
+
+00:12:53.847 --> 00:12:55.864
+from your colleagues in the science world,
+
+00:12:55.888 --> 00:12:57.246
+when you asked or suggested
+
+00:12:57.270 --> 00:13:00.586
+that we should actually pause this
+for a moment and think about it?
+
+00:13:01.054 --> 00:13:04.055
+Jennifer Doudna: My colleagues
+were actually, I think, delighted
+
+00:13:04.079 --> 00:13:06.324
+to have the opportunity
+to discuss this openly.
+
+00:13:06.348 --> 00:13:08.694
+It's interesting that as I talk to people,
+
+00:13:08.718 --> 00:13:11.186
+my scientific colleagues
+as well as others,
+
+00:13:11.210 --> 00:13:13.520
+there's a wide variety
+of viewpoints about this.
+
+00:13:13.544 --> 00:13:17.218
+So clearly it's a topic that needs
+careful consideration and discussion.
+
+00:13:17.242 --> 00:13:19.457
+BG: There's a big meeting
+happening in December
+
+00:13:19.481 --> 00:13:21.457
+that you and your colleagues are calling,
+
+00:13:21.481 --> 00:13:24.248
+together with the National Academy
+of Sciences and others,
+
+00:13:24.272 --> 00:13:27.564
+what do you hope will come
+out of the meeting, practically?
+
+00:13:27.588 --> 00:13:29.954
+JD: Well, I hope that we can air the views
+
+00:13:29.978 --> 00:13:33.578
+of many different individuals
+and stakeholders
+
+00:13:33.602 --> 00:13:37.894
+who want to think about how to use
+this technology responsibly.
+
+00:13:37.918 --> 00:13:41.020
+It may not be possible to come up with
+a consensus point of view,
+
+00:13:41.044 --> 00:13:43.037
+but I think we should at least understand
+
+00:13:43.061 --> 00:13:45.033
+what all the issues are as we go forward.
+
+00:13:45.057 --> 00:13:46.463
+BG: Now, colleagues of yours,
+
+00:13:46.487 --> 00:13:48.566
+like George Church,
+for example, at Harvard,
+
+00:13:48.590 --> 00:13:52.026
+they say, "Yeah, ethical issues basically
+are just a question of safety.
+
+00:13:52.050 --> 00:13:54.704
+We test and test and test again,
+in animals and in labs,
+
+00:13:54.728 --> 00:13:58.644
+and then once we feel it's safe enough,
+we move on to humans."
+
+00:13:58.668 --> 00:14:01.249
+So that's kind of the other
+school of thought,
+
+00:14:01.273 --> 00:14:04.421
+that we should actually use
+this opportunity and really go for it.
+
+00:14:04.445 --> 00:14:08.223
+Is there a possible split happening
+in the science community about this?
+
+00:14:08.247 --> 00:14:10.707
+I mean, are we going to see
+some people holding back
+
+00:14:10.731 --> 00:14:12.525
+because they have ethical concerns,
+
+00:14:12.549 --> 00:14:14.236
+and some others just going forward
+
+00:14:14.260 --> 00:14:17.556
+because some countries under-regulate
+or don't regulate at all?
+
+00:14:17.580 --> 00:14:21.425
+JD: Well, I think with any new technology,
+especially something like this,
+
+00:14:21.449 --> 00:14:24.234
+there are going to be
+a variety of viewpoints,
+
+00:14:24.258 --> 00:14:27.599
+and I think that's
+perfectly understandable.
+
+00:14:27.623 --> 00:14:29.135
+I think that in the end,
+
+00:14:29.159 --> 00:14:34.110
+this technology will be used
+for human genome engineering,
+
+00:14:34.134 --> 00:14:38.451
+but I think to do that without careful
+consideration and discussion
+
+00:14:38.475 --> 00:14:41.412
+of the risks and potential complications
+
+00:14:41.436 --> 00:14:42.975
+would not be responsible.
+
+00:14:42.999 --> 00:14:45.978
+BG: There are a lot of technologies
+and other fields of science
+
+00:14:46.002 --> 00:14:48.773
+that are developing exponentially,
+pretty much like yours.
+
+00:14:48.797 --> 00:14:52.830
+I'm thinking about artificial
+intelligence, autonomous robots and so on.
+
+00:14:53.199 --> 00:14:54.366
+No one seems --
+
+00:14:54.390 --> 00:14:56.898
+aside from autonomous warfare robots --
+
+00:14:56.922 --> 00:15:01.627
+nobody seems to have launched
+a similar discussion in those fields,
+
+00:15:01.651 --> 00:15:03.061
+in calling for a moratorium.
+
+00:15:03.085 --> 00:15:07.156
+Do you think that your discussion may
+serve as a blueprint for other fields?
+
+00:15:07.180 --> 00:15:10.699
+JD: Well, I think it's hard for scientists
+to get out of the laboratory.
+
+00:15:10.723 --> 00:15:11.876
+Speaking for myself,
+
+00:15:11.900 --> 00:15:14.516
+it's a little bit
+uncomfortable to do that.
+
+00:15:14.540 --> 00:15:18.454
+But I do think that being involved
+in the genesis of this
+
+00:15:18.478 --> 00:15:22.334
+really puts me and my colleagues
+in a position of responsibility.
+
+00:15:22.358 --> 00:15:25.788
+And I would say that I certainly hope
+that other technologies
+
+00:15:25.812 --> 00:15:28.458
+will be considered in the same way,
+
+00:15:28.482 --> 00:15:31.880
+just as we would want to consider
+something that could have implications
+
+00:15:31.904 --> 00:15:33.831
+in other fields besides biology.
+
+00:15:33.855 --> 00:15:35.807
+BG: Jennifer, thanks for coming to TED.
+
+00:15:35.831 --> 00:15:37.092
+JD: Thank you.
+
+00:15:37.116 --> 00:15:40.809
+(Applause)
+

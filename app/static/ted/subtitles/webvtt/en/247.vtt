@@ -1,0 +1,734 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+One of the problems of writing, and working, and looking at the Internet
+
+00:00:03.000 --> 00:00:10.000
+is that it's very hard to separate fashion from deep change.
+
+00:00:10.000 --> 00:00:14.000
+And so, to start helping that, I want to take us back to 1835.
+
+00:00:14.000 --> 00:00:21.000
+In 1835, James Gordon Bennett founded the first mass-circulation newspaper
+
+00:00:21.000 --> 00:00:23.000
+in New York City.
+
+00:00:23.000 --> 00:00:26.000
+And it cost about 500 dollars to start it,
+
+00:00:26.000 --> 00:00:30.000
+which was about the equivalent of 10,000 dollars of today.
+
+00:00:30.000 --> 00:00:34.000
+By 15 years later, by 1850, doing the same thing
+
+00:00:34.000 --> 00:00:37.000
+-- starting what was experienced as a mass--circulation daily paper
+
+00:00:37.000 --> 00:00:41.000
+-- would come to cost two and a half million dollars.
+
+00:00:41.000 --> 00:00:44.000
+10,000, two and a half million, 15 years.
+
+00:00:44.000 --> 00:00:51.000
+That's the critical change that is being inverted by the Net.
+
+00:00:51.000 --> 00:00:54.000
+And that's what I want to talk about today,
+
+00:00:54.000 --> 00:00:57.000
+and how that relates to the emergence of social production.
+
+00:00:57.000 --> 00:01:05.000
+Starting with newspapers, what we saw was high cost as an initial requirement
+
+00:01:05.000 --> 00:01:11.000
+for making information, knowledge and culture, which led to a stark bifurcation
+
+00:01:11.000 --> 00:01:15.000
+between producers -- who had to be able to raise financial capital,
+
+00:01:15.000 --> 00:01:19.000
+just like any other industrial organization --
+
+00:01:19.000 --> 00:01:22.000
+and passive consumers that could choose from a certain set of
+
+00:01:22.000 --> 00:01:27.000
+things that this industrial model could produce.
+
+00:01:27.000 --> 00:01:30.000
+Now, the term "information society," "information economy,"
+
+00:01:30.000 --> 00:01:34.000
+for a very long time has been used as the thing that comes after
+
+00:01:34.000 --> 00:01:40.000
+the industrial revolution. But in fact, for purposes of understanding what's happening
+
+00:01:40.000 --> 00:01:46.000
+today, that's wrong. Because for 150 years, we've had an information economy.
+
+00:01:46.000 --> 00:01:48.000
+It's just been industrial,
+
+00:01:48.000 --> 00:01:52.000
+which means those who were producing had to have a way of raising money
+
+00:01:52.000 --> 00:01:56.000
+to pay those two and a half million dollars, and later, more for the telegraph,
+
+00:01:56.000 --> 00:02:01.000
+and the radio transmitter, and the television, and eventually the mainframe.
+
+00:02:01.000 --> 00:02:04.000
+And that meant they were market based, or they were government owned,
+
+00:02:04.000 --> 00:02:09.000
+depending on what kind of system they were in. And this characterized and anchored
+
+00:02:09.000 --> 00:02:16.000
+the way information and knowledge were produced for the next 150 years.
+
+00:02:16.000 --> 00:02:21.000
+Now, let me tell you a different story. Around June 2002,
+
+00:02:21.000 --> 00:02:25.000
+the world of supercomputers had a bombshell.
+
+00:02:25.000 --> 00:02:29.000
+The Japanese had, for the first time, created the fastest supercomputer --
+
+00:02:29.000 --> 00:02:32.000
+the NEC Earth Simulator -- taking the primary from the U.S.,
+
+00:02:32.000 --> 00:02:36.000
+and about two years later -- this, by the way, is measuring the trillion floating-point
+
+00:02:36.000 --> 00:02:40.000
+operations per second that the computer's capable of running --
+
+00:02:40.000 --> 00:02:46.000
+sigh of relief: IBM [Blue Gene] has just edged ahead of the NEC Earth Simulator.
+
+00:02:46.000 --> 00:02:50.000
+All of this completely ignores the fact that throughout this period,
+
+00:02:50.000 --> 00:02:54.000
+there's another supercomputer running in the world -- SETI@home.
+
+00:02:54.000 --> 00:02:58.000
+Four and a half million users around the world, contributing their
+
+00:02:58.000 --> 00:03:02.000
+leftover computer cycles, whenever their computer isn't working,
+
+00:03:02.000 --> 00:03:09.000
+by running a screen saver, and together sharing their resources to create
+
+00:03:09.000 --> 00:03:14.000
+a massive supercomputer that NASA harnesses to analyze the data
+
+00:03:14.000 --> 00:03:18.000
+coming from radio telescopes.
+
+00:03:18.000 --> 00:03:25.000
+What this picture suggests to us is that we've got a radical change in the way
+
+00:03:25.000 --> 00:03:29.000
+information production and exchange is capitalized. Not that it's become
+
+00:03:29.000 --> 00:03:32.000
+less capital intensive -- that there's less money that's required
+
+00:03:32.000 --> 00:03:37.000
+-- but that the ownership of this capital, the way the capitalization happens,
+
+00:03:37.000 --> 00:03:42.000
+is radically distributed. Each of us, in these advanced economies,
+
+00:03:42.000 --> 00:03:47.000
+has one of these, or something rather like it -- a computer.
+
+00:03:47.000 --> 00:03:52.000
+They're not radically different from routers inside the middle of the network.
+
+00:03:52.000 --> 00:03:57.000
+And computation, storage and communications capacity are in the hands of
+
+00:03:57.000 --> 00:04:03.000
+practically every connected person -- and these are the basic physical
+
+00:04:03.000 --> 00:04:08.000
+capital means necessary for producing information, knowledge and culture,
+
+00:04:08.000 --> 00:04:14.000
+in the hands of something like 600 million to a billion people around the planet.
+
+00:04:14.000 --> 00:04:20.000
+What this means is that for the first time since the industrial revolution,
+
+00:04:20.000 --> 00:04:26.000
+the most important means, the most important components of the core
+
+00:04:26.000 --> 00:04:30.000
+economic activities -- remember, we are in an information economy
+
+00:04:30.000 --> 00:04:35.000
+-- of the most advanced economies, and there more than anywhere else,
+
+00:04:35.000 --> 00:04:39.000
+are in the hands of the population at large. This is completely different than what we've
+
+00:04:39.000 --> 00:04:44.000
+seen since the industrial revolution. So we've got communications and computation
+
+00:04:44.000 --> 00:04:47.000
+capacity in the hands of the entire population,
+
+00:04:47.000 --> 00:04:52.000
+and we've got human creativity, human wisdom, human experience
+
+00:04:52.000 --> 00:04:55.000
+-- the other major experience, the other major input --
+
+00:04:55.000 --> 00:05:00.000
+which unlike simple labor -- stand here turning this lever all day long --
+
+00:05:00.000 --> 00:05:03.000
+is not something that's the same or fungible among people.
+
+00:05:03.000 --> 00:05:06.000
+Any one of you who has taken someone else's job, or tried to give yours
+
+00:05:06.000 --> 00:05:12.000
+to someone else, no matter how detailed the manual, you cannot transmit
+
+00:05:12.000 --> 00:05:17.000
+what you know, what you will intuit under a certain set of circumstances.
+
+00:05:17.000 --> 00:05:21.000
+In that we're unique, and each of us holds this critical input
+
+00:05:21.000 --> 00:05:25.000
+into production as we hold this machine.
+
+00:05:25.000 --> 00:05:30.000
+What's the effect of this? So, the story that most people know
+
+00:05:30.000 --> 00:05:34.000
+is the story of free or open source software.
+
+00:05:34.000 --> 00:05:37.000
+This is market share of Apache Web server
+
+00:05:37.000 --> 00:05:43.000
+-- one of the critical applications in Web-based communications.
+
+00:05:43.000 --> 00:05:47.000
+In 1995, two groups of people said,
+
+00:05:47.000 --> 00:05:51.000
+"Wow, this is really important, the Web! We need a much better Web server!"
+
+00:05:51.000 --> 00:05:55.000
+One was a motley collection of volunteers who just decided,
+
+00:05:55.000 --> 00:05:57.000
+you know, we really need this, we should write one,
+
+00:05:57.000 --> 00:06:00.000
+and what are we going to do with what --
+
+00:06:00.000 --> 00:06:02.000
+well, we're gonna share it! And other people will be able to develop it.
+
+00:06:02.000 --> 00:06:04.000
+The other was Microsoft.
+
+00:06:04.000 --> 00:06:09.000
+Now, if I told you that 10 years later, the motley crew of people, who didn't control
+
+00:06:09.000 --> 00:06:12.000
+anything that they produced, acquired 20 percent of the market
+
+00:06:12.000 --> 00:06:15.000
+and was the red line, it would be amazing! Right?
+
+00:06:15.000 --> 00:06:18.000
+Think of it in minivans. A group of automobile
+
+00:06:18.000 --> 00:06:23.000
+engineers on their weekends are competing with Toyota. Right?
+
+00:06:23.000 --> 00:06:26.000
+But, in fact, of course, the story is it's the 70 percent,
+
+00:06:26.000 --> 00:06:31.000
+including the major e-commerce site -- 70 percent of a critical application
+
+00:06:31.000 --> 00:06:37.000
+on which Web-based communications and applications work is produced in this form, in
+
+00:06:37.000 --> 00:06:41.000
+direct competition with Microsoft. Not in a side issue --
+
+00:06:41.000 --> 00:06:48.000
+in a central strategic decision to try to capture a component of the Net.
+
+00:06:48.000 --> 00:06:53.000
+Software has done this in a way that's been very visible, because
+
+00:06:53.000 --> 00:06:59.000
+it's measurable. But the thing to see is that this actually happens throughout the Web.
+
+00:06:59.000 --> 00:07:05.000
+So, NASA, at some point, did an experiment where they took images of Mars
+
+00:07:05.000 --> 00:07:09.000
+that they were mapping, and they said, instead of having three or four
+
+00:07:09.000 --> 00:07:14.000
+fully trained Ph.D.s doing this all the time, let's break it up into small components,
+
+00:07:14.000 --> 00:07:18.000
+put it up on the Web, and see if people, using a very simple interface,
+
+00:07:18.000 --> 00:07:20.000
+will actually spend five minutes here,
+
+00:07:20.000 --> 00:07:24.000
+10 minutes there, clicking. After six months,
+
+00:07:24.000 --> 00:07:29.000
+85,000 people used this to generate mapping at a
+
+00:07:29.000 --> 00:07:33.000
+faster rate than the images were coming in, which was, quote,
+
+00:07:33.000 --> 00:07:37.000
+"practically indistinguishable from the markings of a fully-trained Ph.D.,"
+
+00:07:37.000 --> 00:07:44.000
+once you showed it to a number of people and computed the average.
+
+00:07:44.000 --> 00:07:47.000
+Now, if you have a little girl, and she goes and writes to
+
+00:07:47.000 --> 00:07:51.000
+-- well, not so little, medium little -- tries to do research on Barbie.
+
+00:07:51.000 --> 00:07:55.000
+And she'll come to Encarta, one of the main online encyclopedias.
+
+00:07:55.000 --> 00:08:01.000
+This is what you'll find out about Barbie. This is it, there's nothing more to the definition,
+
+00:08:01.000 --> 00:08:05.000
+including, "manufacturers" -- plural -- "now more commonly produce
+
+00:08:05.000 --> 00:08:09.000
+ethnically diverse dolls, like this black Barbie." Which is vastly better
+
+00:08:09.000 --> 00:08:12.000
+than what you'll find in the encyclopedia.com,
+
+00:08:12.000 --> 00:08:16.000
+which is Barbie, Klaus. (Laughter)
+
+00:08:16.000 --> 00:08:21.000
+On the other hand, if they go to Wikipedia, they'll find a genuine article
+
+00:08:21.000 --> 00:08:24.000
+-- and I won't talk a lot about Wikipedia, because Jimmy Wales is here --
+
+00:08:24.000 --> 00:08:30.000
+but roughly equivalent to what you would find in the Britannica, differently written,
+
+00:08:30.000 --> 00:08:34.000
+including the controversies over body image and commercialization,
+
+00:08:34.000 --> 00:08:42.000
+the claims about the way in which she's a good role model, etc.
+
+00:08:42.000 --> 00:08:46.000
+Another portion is not only how content is produced, but how relevance is produced.
+
+00:08:46.000 --> 00:08:50.000
+The claim to fame of Yahoo! was, we hire people to look -- originally, not anymore
+
+00:08:50.000 --> 00:08:55.000
+-- we hire people to look at websites and tell you --
+
+00:08:55.000 --> 00:08:59.000
+if they're in the index, they're good. This, on the other hand, is what 60,000
+
+00:08:59.000 --> 00:09:03.000
+passionate volunteers produce in the Open Directory Project,
+
+00:09:03.000 --> 00:09:08.000
+each one willing to spend an hour or two on something they really care about,
+
+00:09:08.000 --> 00:09:14.000
+to say, this is good. So, this is the Open Directory Project, with 60,000 volunteers,
+
+00:09:14.000 --> 00:09:17.000
+each one spending a little bit of time, as opposed to a few hundred
+
+00:09:17.000 --> 00:09:22.000
+fully paid employees. No one owns it, no one owns the output,
+
+00:09:22.000 --> 00:09:27.000
+it's free for anyone to use and it's the output of people acting out of social
+
+00:09:27.000 --> 00:09:31.000
+and psychological motivations to do something interesting.
+
+00:09:31.000 --> 00:09:37.000
+This is not only outside of businesses. When you think of what is the critical innovation
+
+00:09:37.000 --> 00:09:42.000
+of Google, the critical innovation is outsourcing the one most important thing --
+
+00:09:42.000 --> 00:09:49.000
+the decision about what's relevant -- to the community of the Web as a whole,
+
+00:09:49.000 --> 00:09:52.000
+doing whatever they want to do: so, page rank.
+
+00:09:52.000 --> 00:09:58.000
+The critical innovation here is instead of our engineers, or our people saying
+
+00:09:58.000 --> 00:10:01.000
+which is the most relevant, we're going to go out and count what you,
+
+00:10:01.000 --> 00:10:05.000
+people out there on the Web, for whatever reason -- vanity, pleasure --
+
+00:10:05.000 --> 00:10:11.000
+produced links, and tied to each other. We're going to count those, and count them up.
+
+00:10:11.000 --> 00:10:15.000
+And again, here, you see Barbie.com, but also, very quickly,
+
+00:10:15.000 --> 00:10:20.000
+Adiosbarbie.com, the body image for every size. A contested cultural object,
+
+00:10:20.000 --> 00:10:24.000
+which you won't find anywhere soon on Overture, which is the classic
+
+00:10:24.000 --> 00:10:29.000
+market-based mechanism: whoever pays the most is highest on the list.
+
+00:10:29.000 --> 00:10:34.000
+So, all of that is in the creation of content, of relevance, basic human expression.
+
+00:10:34.000 --> 00:10:38.000
+But remember, the computers were also physical. Just physical materials
+
+00:10:38.000 --> 00:10:42.000
+-- our PCs -- we share them together. We also see this in wireless.
+
+00:10:42.000 --> 00:10:48.000
+It used to be wireless was one person owned the license, they transmitted in an
+
+00:10:48.000 --> 00:10:53.000
+area, and it had to be decided whether they would be licensed or based on property.
+
+00:10:53.000 --> 00:10:58.000
+What we're seeing now is that computers and radios are becoming so sophisticated
+
+00:10:58.000 --> 00:11:04.000
+that we're developing algorithms to let people own machines, like Wi-Fi devices,
+
+00:11:04.000 --> 00:11:09.000
+and overlay them with a sharing protocol that would allow a community like this
+
+00:11:09.000 --> 00:11:15.000
+to build its own wireless broadband network simply from the simple principle:
+
+00:11:15.000 --> 00:11:21.000
+When I'm listening, when I'm not using, I can help you transfer your messages;
+
+00:11:21.000 --> 00:11:24.000
+and when you're not using, you'll help me transfer yours.
+
+00:11:24.000 --> 00:11:29.000
+And this is not an idealized version. These are working models that at least in some
+
+00:11:29.000 --> 00:11:36.000
+places in the United States are being implemented, at least for public security.
+
+00:11:36.000 --> 00:11:42.000
+If in 1999 I told you, let's build a data storage and retrieval system.
+
+00:11:42.000 --> 00:11:45.000
+It's got to store terabytes. It's got to be available 24 hours a day,
+
+00:11:45.000 --> 00:11:48.000
+seven days a week. It's got to be available from anywhere in the world.
+
+00:11:48.000 --> 00:11:52.000
+It has to support over 100 million users at any given moment. It's got to
+
+00:11:52.000 --> 00:11:57.000
+be robust to attack, including closing the main index, injecting malicious files,
+
+00:11:57.000 --> 00:12:02.000
+armed seizure of some major nodes. You'd say that would take years.
+
+00:12:02.000 --> 00:12:09.000
+It would take millions. But of course, what I'm describing is P2P file sharing.
+
+00:12:09.000 --> 00:12:12.000
+Right? We always think of it as stealing music, but fundamentally,
+
+00:12:12.000 --> 00:12:16.000
+it's a distributed data storage and retrieval system, where people,
+
+00:12:16.000 --> 00:12:20.000
+for very obvious reasons, are willing to share their bandwidth and their
+
+00:12:20.000 --> 00:12:23.000
+storage to create something.
+
+00:12:23.000 --> 00:12:27.000
+So, essentially what we're seeing is the emergence of a fourth transactional
+
+00:12:27.000 --> 00:12:33.000
+framework. It used to be that there were two primary dimensions along which
+
+00:12:33.000 --> 00:12:36.000
+you could divide things. They could be market based, or non-market based;
+
+00:12:36.000 --> 00:12:38.000
+they could be decentralized, or centralized.
+
+00:12:38.000 --> 00:12:41.000
+The price system was a market-based and decentralized system.
+
+00:12:41.000 --> 00:12:45.000
+If things worked better because you actually had somebody organizing them,
+
+00:12:45.000 --> 00:12:48.000
+you had firms, if you wanted to be in the market -- or you had governments
+
+00:12:48.000 --> 00:12:51.000
+or sometimes larger non-profits in the non-market.
+
+00:12:51.000 --> 00:12:56.000
+It was too expensive to have decentralized social production,
+
+00:12:56.000 --> 00:13:03.000
+to have decentralized action in society. That was not about society itself.
+
+00:13:03.000 --> 00:13:05.000
+That was, in fact, economic.
+
+00:13:05.000 --> 00:13:09.000
+But what we're seeing now is the emergence of this fourth system
+
+00:13:09.000 --> 00:13:10.000
+of social sharing and exchange.
+
+00:13:10.000 --> 00:13:15.000
+Not that it's the first time that we do nice things to each other, or for each other,
+
+00:13:15.000 --> 00:13:19.000
+as social beings. We do it all the time.
+
+00:13:19.000 --> 00:13:23.000
+It's that it's the first time that it's having major economic impact.
+
+00:13:23.000 --> 00:13:28.000
+What characterizes them is decentralized authority.
+
+00:13:28.000 --> 00:13:31.000
+You don't have to ask permission, as you do in a property-based system.
+
+00:13:31.000 --> 00:13:37.000
+May I do this? It's open for anyone to create and innovate and share,
+
+00:13:37.000 --> 00:13:41.000
+if they want to, by themselves or with others,
+
+00:13:41.000 --> 00:13:43.000
+because property is one mechanism of coordination.
+
+00:13:43.000 --> 00:13:45.000
+But it's not the only one.
+
+00:13:45.000 --> 00:13:50.000
+Instead, what we see are social frameworks for all of the critical things that we use
+
+00:13:50.000 --> 00:13:53.000
+property and contract in the market: information flows to decide what are
+
+00:13:53.000 --> 00:13:57.000
+interesting problems; who's available and good for something;
+
+00:13:57.000 --> 00:14:01.000
+motivation structures -- remember, money isn't always the best motivator.
+
+00:14:01.000 --> 00:14:05.000
+If you leave a $50 check after dinner with friends,
+
+00:14:05.000 --> 00:14:09.000
+you don't increase the probability of being invited back.
+
+00:14:09.000 --> 00:14:15.000
+And if dinner isn't entirely obvious, think of sex. (Laughter)
+
+00:14:15.000 --> 00:14:18.000
+It also requires certain new organizational approaches.
+
+00:14:18.000 --> 00:14:22.000
+And in particular, what we've seen is task organization.
+
+00:14:22.000 --> 00:14:24.000
+You have to hire people who know what they're doing.
+
+00:14:24.000 --> 00:14:27.000
+You have to hire them to spend a lot of time.
+
+00:14:27.000 --> 00:14:29.000
+Now, take the same problem,
+
+00:14:29.000 --> 00:14:33.000
+chunk it into little modules, and motivations become trivial.
+
+00:14:33.000 --> 00:14:35.000
+Five minutes, instead of watching TV?
+
+00:14:35.000 --> 00:14:39.000
+Five minutes I'll spend just because it's interesting. Just because it's fun.
+
+00:14:39.000 --> 00:14:43.000
+Just because it gives me a certain sense of meaning, or, in places that are more
+
+00:14:43.000 --> 00:14:49.000
+involved, like Wikipedia, gives me a certain set of social relations.
+
+00:14:49.000 --> 00:14:53.000
+So, a new social phenomenon is emerging.
+
+00:14:53.000 --> 00:14:58.000
+It's creating, and it's most visible when we see it as a new form of competition.
+
+00:14:58.000 --> 00:15:01.000
+Peer-to-peer networks assaulting the recording industry;
+
+00:15:01.000 --> 00:15:05.000
+free and open source software taking market share from Microsoft;
+
+00:15:05.000 --> 00:15:09.000
+Skype potentially threatening traditional telecoms;
+
+00:15:09.000 --> 00:15:12.000
+Wikipedia competing with online encyclopedias.
+
+00:15:12.000 --> 00:15:15.000
+But it's also a new source of opportunities for businesses.
+
+00:15:15.000 --> 00:15:21.000
+As you see a new set of social relations and behaviors emerging,
+
+00:15:21.000 --> 00:15:25.000
+you have new opportunities. Some of them are toolmakers.
+
+00:15:25.000 --> 00:15:28.000
+Instead of building well-behaved appliances
+
+00:15:28.000 --> 00:15:30.000
+-- things that you know what they'll do in advance --
+
+00:15:30.000 --> 00:15:33.000
+you begin to build more open tools. There's a new set of values,
+
+00:15:33.000 --> 00:15:36.000
+a new set of things people value.
+
+00:15:36.000 --> 00:15:40.000
+You build platforms for self-expression and collaboration.
+
+00:15:40.000 --> 00:15:44.000
+Like Wikipedia, like the Open Directory Project,
+
+00:15:44.000 --> 00:15:47.000
+you're beginning to build platforms, and you see that as a model.
+
+00:15:47.000 --> 00:15:51.000
+And you see surfers, people who see this happening, and in some sense
+
+00:15:51.000 --> 00:15:56.000
+build it into a supply chain, which is a very curious one. Right?
+
+00:15:56.000 --> 00:15:59.000
+You have a belief: stuff will flow out of connected human beings.
+
+00:15:59.000 --> 00:16:02.000
+That'll give me something I can use, and I'm going to contract with someone.
+
+00:16:02.000 --> 00:16:06.000
+I will deliver something based on what happens. It's very scary
+
+00:16:06.000 --> 00:16:08.000
+-- that's what Google does, essentially.
+
+00:16:08.000 --> 00:16:12.000
+That's what IBM does in software services, and they've done reasonably well.
+
+00:16:12.000 --> 00:16:16.000
+So, social production is a real fact, not a fad.
+
+00:16:16.000 --> 00:16:20.000
+It is the critical long-term shift caused by the Internet.
+
+00:16:20.000 --> 00:16:27.000
+Social relations and exchange become significantly more important than they ever
+
+00:16:27.000 --> 00:16:31.000
+were as an economic phenomenon. In some contexts, it's even more efficient
+
+00:16:31.000 --> 00:16:36.000
+because of the quality of the information, the ability to find the best person,
+
+00:16:36.000 --> 00:16:40.000
+the lower transaction costs. It's sustainable and growing fast.
+
+00:16:40.000 --> 00:16:46.000
+But -- and this is the dark lining -- it is threatened by
+
+00:16:46.000 --> 00:16:50.000
+-- in the same way that it threatens -- the incumbent industrial systems.
+
+00:16:50.000 --> 00:16:55.000
+So next time you open the paper, and you see an intellectual property decision,
+
+00:16:55.000 --> 00:17:01.000
+a telecoms decision, it's not about something small and technical.
+
+00:17:01.000 --> 00:17:07.000
+It is about the future of the freedom to be as social beings with each other,
+
+00:17:07.000 --> 00:17:12.000
+and the way information, knowledge and culture will be produced.
+
+00:17:12.000 --> 00:17:19.000
+Because it is in this context that we see a battle over how easy or hard it will be
+
+00:17:19.000 --> 00:17:23.000
+for the industrial information economy to simply go on as it goes,
+
+00:17:23.000 --> 00:17:29.000
+or for the new model of production to begin to develop alongside that industrial model,
+
+00:17:29.000 --> 00:17:34.000
+and change the way we begin to see the world and report what it is that we see.
+
+00:17:34.000 --> 00:17:35.000
+Thank you.
+

@@ -1,0 +1,344 @@
+WEBVTT
+
+00:00:12.607 --> 00:00:15.707
+Throughout the history of computers
+
+00:00:15.731 --> 00:00:18.954
+we've been striving
+to shorten the gap between us
+
+00:00:18.978 --> 00:00:20.548
+and digital information,
+
+00:00:20.572 --> 00:00:22.382
+the gap between our physical world
+
+00:00:22.406 --> 00:00:24.180
+and the world in the screen
+
+00:00:24.204 --> 00:00:27.022
+where our imagination can go wild.
+
+00:00:27.046 --> 00:00:30.949
+And this gap has become shorter,
+
+00:00:30.973 --> 00:00:33.714
+shorter, and even shorter,
+
+00:00:33.738 --> 00:00:35.358
+and now this gap is shortened down
+
+00:00:35.382 --> 00:00:36.668
+to less than a millimeter,
+
+00:00:36.692 --> 00:00:38.546
+the thickness of a touch-screen glass,
+
+00:00:38.570 --> 00:00:39.996
+and the power of computing
+
+00:00:40.020 --> 00:00:44.899
+has become accessible to everyone.
+
+00:00:44.923 --> 00:00:49.938
+But I wondered, what if there
+could be no boundary at all?
+
+00:00:49.962 --> 00:00:53.682
+I started to imagine
+what this would look like.
+
+00:00:53.706 --> 00:00:56.133
+First, I created this tool
+
+00:00:56.157 --> 00:00:58.642
+which penetrates into the digital space,
+
+00:00:58.666 --> 00:01:00.733
+so when you press it hard on the screen,
+
+00:01:00.757 --> 00:01:04.066
+it transfers its physical
+body into pixels.
+
+00:01:04.090 --> 00:01:06.178
+Designers can materialize their ideas
+
+00:01:06.202 --> 00:01:07.874
+directly in 3D,
+
+00:01:07.898 --> 00:01:10.426
+and surgeons can practice
+on virtual organs
+
+00:01:10.450 --> 00:01:12.650
+underneath the screen.
+
+00:01:12.674 --> 00:01:17.547
+So with this tool, this
+boundary has been broken.
+
+00:01:17.571 --> 00:01:20.514
+But our two hands still
+remain outside the screen.
+
+00:01:20.538 --> 00:01:22.998
+How can you reach inside and interact
+
+00:01:23.022 --> 00:01:24.425
+with the digital information
+
+00:01:24.449 --> 00:01:27.429
+using the full dexterity of our hands?
+
+00:01:27.453 --> 00:01:29.731
+At Microsoft Applied Sciences,
+
+00:01:29.755 --> 00:01:31.647
+along with my mentor Cati Boulanger,
+
+00:01:31.671 --> 00:01:32.918
+I redesigned the computer
+
+00:01:32.942 --> 00:01:35.799
+and turned a little space
+above the keyboard
+
+00:01:35.823 --> 00:01:38.164
+into a digital workspace.
+
+00:01:38.188 --> 00:01:40.665
+By combining a transparent
+display and depth cameras
+
+00:01:40.689 --> 00:01:42.315
+for sensing your fingers and face,
+
+00:01:42.339 --> 00:01:44.625
+now you can lift up your hands
+from the keyboard
+
+00:01:44.649 --> 00:01:47.463
+and reach inside this 3D space
+
+00:01:47.487 --> 00:01:49.963
+and grab pixels with your bare hands.
+
+00:01:49.987 --> 00:01:52.934
+(Applause)
+
+00:01:52.958 --> 00:01:57.140
+Because windows and files have
+a position in the real space,
+
+00:01:57.164 --> 00:02:00.499
+selecting them is as easy
+as grabbing a book off your shelf.
+
+00:02:00.523 --> 00:02:02.652
+Then you can flip through this book
+
+00:02:02.676 --> 00:02:04.369
+while highlighting the lines, words
+
+00:02:04.393 --> 00:02:06.933
+on the virtual touch pad
+below each floating window.
+
+00:02:06.957 --> 00:02:09.468
+Architects can stretch
+or rotate the models
+
+00:02:09.492 --> 00:02:11.893
+with their two hands directly.
+
+00:02:11.917 --> 00:02:13.513
+So in these examples,
+
+00:02:13.537 --> 00:02:16.250
+we are reaching into the digital world.
+
+00:02:16.274 --> 00:02:18.596
+But how about reversing its role
+
+00:02:18.620 --> 00:02:23.415
+and having the digital
+information reach us instead?
+
+00:02:23.439 --> 00:02:25.487
+I'm sure many of us
+have had the experience
+
+00:02:25.511 --> 00:02:27.594
+of buying and returning items online.
+
+00:02:27.618 --> 00:02:29.571
+But now you don't have to worry about it.
+
+00:02:29.595 --> 00:02:34.209
+What I got here is an online
+augmented fitting room.
+
+00:02:34.233 --> 00:02:36.111
+This is a view that you get from
+
+00:02:36.135 --> 00:02:37.855
+head-mounted or see-through display
+
+00:02:37.879 --> 00:02:43.002
+when the system understands
+the geometry of your body.
+
+00:02:43.026 --> 00:02:46.553
+Taking this idea further,
+I started to think,
+
+00:02:46.577 --> 00:02:49.922
+instead of just seeing
+these pixels in our space,
+
+00:02:49.946 --> 00:02:51.444
+how can we make it physical
+
+00:02:51.468 --> 00:02:55.706
+so that we can touch and feel it?
+
+00:02:55.730 --> 00:02:58.755
+What would such a future look like?
+
+00:02:58.779 --> 00:03:02.413
+At MIT Media Lab,
+along with my advisor Hiroshi Ishii
+
+00:03:02.437 --> 00:03:04.436
+and my collaborator Rehmi Post,
+
+00:03:04.460 --> 00:03:08.080
+we created this one physical pixel.
+
+00:03:08.104 --> 00:03:10.704
+Well, in this case, this spherical magnet
+
+00:03:10.728 --> 00:03:13.056
+acts like a 3D pixel in our space,
+
+00:03:13.080 --> 00:03:15.960
+which means that both computers and people
+
+00:03:15.984 --> 00:03:17.858
+can move this object to anywhere
+
+00:03:17.882 --> 00:03:19.827
+within this little 3D space.
+
+00:03:19.851 --> 00:03:23.319
+What we did was essentially
+canceling gravity
+
+00:03:23.343 --> 00:03:25.458
+and controlling the movement by combining
+
+00:03:25.482 --> 00:03:28.282
+magnetic levitation
+and mechanical actuation
+
+00:03:28.306 --> 00:03:30.759
+and sensing technologies.
+
+00:03:30.783 --> 00:03:33.264
+And by digitally programming the object,
+
+00:03:33.288 --> 00:03:36.041
+we are liberating
+the object from constraints
+
+00:03:36.065 --> 00:03:39.476
+of time and space, which means that now,
+
+00:03:39.500 --> 00:03:43.372
+human motions can be
+recorded and played back
+
+00:03:43.396 --> 00:03:46.991
+and left permanently
+in the physical world.
+
+00:03:47.015 --> 00:03:50.024
+So choreography can be taught
+physically over distance
+
+00:03:50.048 --> 00:03:52.620
+and Michael Jordan's famous
+shooting can be replicated
+
+00:03:52.644 --> 00:03:56.098
+over and over as a physical reality.
+
+00:03:56.122 --> 00:03:58.278
+Students can use this as a tool
+
+00:03:58.302 --> 00:04:00.220
+to learn about the complex concepts
+
+00:04:00.244 --> 00:04:04.304
+such as planetary motion, physics,
+
+00:04:04.328 --> 00:04:07.123
+and unlike computer screens or textbooks,
+
+00:04:07.147 --> 00:04:09.605
+this is a real, tangible experience
+
+00:04:09.629 --> 00:04:13.263
+that you can touch and feel,
+and it's very powerful.
+
+00:04:13.287 --> 00:04:15.245
+And what's more exciting
+
+00:04:15.269 --> 00:04:18.593
+than just turning what's currently
+in the computer physical
+
+00:04:18.617 --> 00:04:21.782
+is to start imagining
+how programming the world
+
+00:04:21.806 --> 00:04:25.502
+will alter even our daily
+physical activities.
+
+00:04:27.610 --> 00:04:30.068
+(Laughter)
+
+00:04:30.092 --> 00:04:32.825
+As you can see, the digital information
+
+00:04:32.849 --> 00:04:34.343
+will not just show us something
+
+00:04:34.367 --> 00:04:36.453
+but it will start directly acting upon us
+
+00:04:36.477 --> 00:04:38.752
+as a part of our physical surroundings
+
+00:04:38.776 --> 00:04:42.950
+without disconnecting
+ourselves from our world.
+
+00:04:42.974 --> 00:04:47.296
+Today, we started by talking
+about the boundary,
+
+00:04:47.320 --> 00:04:49.976
+but if we remove this boundary,
+
+00:04:50.000 --> 00:04:53.864
+the only boundary left is our imagination.
+
+00:04:53.888 --> 00:04:55.112
+Thank you.
+
+00:04:55.136 --> 00:05:00.221
+(Applause)

@@ -1,0 +1,613 @@
+WEBVTT
+
+00:00:00.140 --> 00:00:01.731
+Some years ago,
+
+00:00:01.731 --> 00:00:05.175
+I stumbled across a simple design exercise
+
+00:00:05.175 --> 00:00:08.780
+that helps people understand
+and solve complex problems,
+
+00:00:08.780 --> 00:00:12.867
+and like many of these design exercises,
+it kind of seems trivial at first,
+
+00:00:12.867 --> 00:00:14.611
+but under deep inspection,
+
+00:00:14.611 --> 00:00:17.331
+it turns out that it reveals
+unexpected truths
+
+00:00:17.331 --> 00:00:20.662
+about the way that we collaborate
+and make sense of things.
+
+00:00:20.662 --> 00:00:22.264
+The exercise has three parts
+
+00:00:22.264 --> 00:00:24.749
+and begins with something
+that we all know how to do,
+
+00:00:24.749 --> 00:00:27.149
+which is how to make toast.
+
+00:00:27.489 --> 00:00:30.809
+It begins with a clean sheet of paper,
+a felt marker,
+
+00:00:30.809 --> 00:00:34.940
+and without using any words,
+you begin to draw how to make toast.
+
+00:00:34.940 --> 00:00:37.118
+And most people draw something like this.
+
+00:00:37.118 --> 00:00:40.498
+They draw a loaf of bread, 
+which is sliced, then put into a toaster.
+
+00:00:40.498 --> 00:00:42.744
+The toast is then deposited for some time.
+
+00:00:42.744 --> 00:00:48.295
+It pops up, and then voila!
+After two minutes, toast and happiness.
+
+00:00:49.045 --> 00:00:53.643
+Now, over the years, I've collected
+many hundreds of drawings of these toasts,
+
+00:00:53.643 --> 00:00:55.403
+and some of them are very good,
+
+00:00:55.403 --> 00:00:58.869
+because they really illustrate
+the toast-making process quite clearly.
+
+00:00:58.869 --> 00:01:02.166
+And then there are some that are,
+well, not so good.
+
+00:01:02.166 --> 00:01:07.344
+They really suck, actually, because
+you don't know what they're trying to say.
+
+00:01:07.344 --> 00:01:09.271
+Under close inspection,
+
+00:01:09.271 --> 00:01:12.754
+some reveal some aspects of toast-making
+while hiding others.
+
+00:01:12.754 --> 00:01:15.424
+So there's some
+that are all about the toast,
+
+00:01:15.424 --> 00:01:18.164
+and all about the transformation of toast.
+
+00:01:18.164 --> 00:01:20.764
+And there's others
+that are all about the toaster,
+
+00:01:20.764 --> 00:01:24.094
+and the engineers love to draw
+the mechanics of this.
+
+00:01:24.094 --> 00:01:25.504
+(Laughter)
+
+00:01:25.504 --> 00:01:27.875
+And then there are others
+that are about people.
+
+00:01:27.875 --> 00:01:31.723
+It's about visualizing
+the experience that people have.
+
+00:01:31.723 --> 00:01:35.236
+And then there are others that are about
+the supply chain of making toast
+
+00:01:35.236 --> 00:01:37.226
+that goes all the way back to the store.
+
+00:01:37.226 --> 00:01:40.663
+It goes through the supply chain
+networks of teleportation
+
+00:01:40.663 --> 00:01:43.890
+and all the way back
+to the field and wheat,
+
+00:01:43.890 --> 00:01:46.700
+and one all actually goes
+all the way back to the Big Bang.
+
+00:01:46.700 --> 00:01:48.904
+So it's crazy stuff.
+
+00:01:48.904 --> 00:01:50.757
+But I think it's obvious
+
+00:01:50.757 --> 00:01:54.263
+that even though these drawings
+are really wildly different,
+
+00:01:54.263 --> 00:01:57.366
+they share a common quality,
+and I'm wondering if you can see it.
+
+00:01:57.366 --> 00:01:59.743
+Do you see it? What's common about these?
+
+00:01:59.743 --> 00:02:03.118
+Most drawings have nodes and links.
+
+00:02:03.118 --> 00:02:08.468
+So nodes represent the tangible objects
+like the toaster and people,
+
+00:02:08.468 --> 00:02:11.974
+and links represent
+the connections between the nodes.
+
+00:02:11.974 --> 00:02:14.807
+And it's the combination
+of links and nodes
+
+00:02:14.807 --> 00:02:16.920
+that produces a full systems model,
+
+00:02:16.920 --> 00:02:19.845
+and it makes our private
+mental models visible
+
+00:02:19.845 --> 00:02:22.878
+about how we think something works.
+
+00:02:22.878 --> 00:02:24.709
+So that's the value of these things.
+
+00:02:24.709 --> 00:02:26.817
+What's interesting about
+these systems models
+
+00:02:26.817 --> 00:02:29.002
+is how they reveal
+our various points of view.
+
+00:02:29.002 --> 00:02:32.623
+So for example, Americans
+make toast with a toaster.
+
+00:02:32.623 --> 00:02:34.144
+That seems obvious.
+
+00:02:34.144 --> 00:02:38.114
+Whereas many Europeans
+make toast with a frying pan, of course,
+
+00:02:38.114 --> 00:02:42.391
+and many students make toast with a fire.
+
+00:02:42.391 --> 00:02:45.610
+I don't really understand this.
+A lot of MBA students do this.
+
+00:02:45.610 --> 00:02:49.375
+So you can measure the complexity
+by counting the number of nodes,
+
+00:02:49.375 --> 00:02:53.297
+and the average illustration
+has between four and eight nodes.
+
+00:02:53.297 --> 00:02:56.292
+Less than that, the drawing seems trivial,
+
+00:02:56.292 --> 00:02:58.545
+but it's quick to understand,
+
+00:02:58.545 --> 00:03:03.618
+and more than 13, the drawing
+produces a feeling of map shock.
+
+00:03:03.618 --> 00:03:05.121
+It's too complex.
+
+00:03:05.121 --> 00:03:07.664
+So the sweet spot is between 5 and 13.
+
+00:03:07.664 --> 00:03:10.294
+So if you want to communicate
+something visually,
+
+00:03:10.294 --> 00:03:14.021
+have between five and 13 nodes
+in your diagram.
+
+00:03:14.021 --> 00:03:16.725
+So though we may not
+be skilled at drawing,
+
+00:03:16.725 --> 00:03:20.856
+the point is that we intuitively know
+how to break down complex things
+
+00:03:20.856 --> 00:03:24.116
+into simple things and then 
+bring them back together again.
+
+00:03:24.116 --> 00:03:27.337
+So this brings us to our second part of 
+the exercise,
+
+00:03:27.337 --> 00:03:28.913
+which is how to make toast,
+
+00:03:28.913 --> 00:03:31.713
+but now with sticky notes
+or with cards.
+
+00:03:31.713 --> 00:03:33.141
+So what happens then?
+
+00:03:34.041 --> 00:03:37.462
+Well, with cards, most people
+tend to draw clear, more detailed,
+
+00:03:37.462 --> 00:03:39.740
+and more logical nodes.
+
+00:03:39.740 --> 00:03:43.317
+You can see the step by step
+analysis that takes place,
+
+00:03:43.317 --> 00:03:46.549
+and as they build up their model,
+they move their nodes around,
+
+00:03:46.549 --> 00:03:49.129
+rearranging them like Lego blocks.
+
+00:03:49.129 --> 00:03:53.184
+Now, though this might seem trivial,
+it's actually really important.
+
+00:03:53.184 --> 00:03:57.912
+This rapid iteration of expressing
+and then reflecting and analyzing
+
+00:03:57.912 --> 00:04:01.263
+is really the only way
+in which we get clarity.
+
+00:04:01.263 --> 00:04:03.911
+It's the essence of the design process.
+
+00:04:03.911 --> 00:04:05.620
+And systems theorists do tell us
+
+00:04:05.620 --> 00:04:09.182
+that the ease with which
+we can change a representation
+
+00:04:09.182 --> 00:04:12.767
+correlates to our willingness
+to improve the model.
+
+00:04:13.447 --> 00:04:17.239
+So sticky note systems
+are not only more fluid,
+
+00:04:17.239 --> 00:04:21.279
+they generally produce
+way more nodes than static drawings.
+
+00:04:21.279 --> 00:04:23.010
+The drawings are much richer.
+
+00:04:23.010 --> 00:04:25.575
+And this brings us
+to our third part of the exercise,
+
+00:04:25.575 --> 00:04:29.509
+which is to draw how to make toast,
+but this time in a group.
+
+00:04:29.509 --> 00:04:31.271
+So what happens then?
+
+00:04:31.271 --> 00:04:32.883
+Well, here's what happens.
+
+00:04:32.883 --> 00:04:36.500
+It starts out messy,
+and then it gets really messy,
+
+00:04:36.500 --> 00:04:38.125
+and then it gets messier,
+
+00:04:38.125 --> 00:04:40.052
+but as people refine the models,
+
+00:04:40.052 --> 00:04:42.583
+the best nodes become more prominent,
+
+00:04:42.583 --> 00:04:45.160
+and with each iteration,
+the model becomes clearer
+
+00:04:45.160 --> 00:04:48.434
+because people build
+on top of each other's ideas.
+
+00:04:48.434 --> 00:04:51.917
+What emerges is a unified systems model
+
+00:04:51.917 --> 00:04:56.057
+that integrates the diversity
+of everyone's individual points of view,
+
+00:04:56.057 --> 00:04:57.977
+so that's a really different outcome
+
+00:04:57.977 --> 00:05:00.648
+from what usually happens 
+in meetings, isn't it?
+
+00:05:00.648 --> 00:05:03.620
+So these drawings can contain
+20 or more nodes,
+
+00:05:03.620 --> 00:05:05.849
+but participants don't feel map shock
+
+00:05:05.849 --> 00:05:10.074
+because they participate in the building
+of their models themselves.
+
+00:05:10.074 --> 00:05:13.395
+Now, what's also really interesting,
+that the groups spontaneously mix
+
+00:05:13.395 --> 00:05:16.854
+and add additional layers
+of organization to it.
+
+00:05:16.854 --> 00:05:18.864
+To deal with contradictions, for example,
+
+00:05:18.864 --> 00:05:21.684
+they add branching patterns
+and parallel patterns.
+
+00:05:21.684 --> 00:05:24.907
+Oh, and by the way,
+if they do it in complete silence,
+
+00:05:24.907 --> 00:05:27.663
+they do it much better
+and much more quickly.
+
+00:05:27.663 --> 00:05:30.205
+Really interesting --
+talking gets in the way.
+
+00:05:30.205 --> 00:05:33.897
+So here's some key lessons
+that can emerge from this.
+
+00:05:33.897 --> 00:05:36.476
+First, drawing helps us
+understand the situations
+
+00:05:36.476 --> 00:05:39.748
+as systems with nodes
+and their relationships.
+
+00:05:39.748 --> 00:05:43.388
+Movable cards produce
+better systems models,
+
+00:05:43.388 --> 00:05:46.118
+because we iterate much more fluidly.
+
+00:05:46.118 --> 00:05:49.332
+And then the group notes produce 
+the most comprehensive models
+
+00:05:49.332 --> 00:05:52.689
+because we synthesize
+several points of view.
+
+00:05:52.689 --> 00:05:54.275
+So that's interesting.
+
+00:05:54.275 --> 00:05:57.581
+When people work together
+under the right circumstances,
+
+00:05:57.581 --> 00:06:00.692
+group models are much better
+than individual models.
+
+00:06:00.692 --> 00:06:05.639
+So this approach works really great
+for drawing how to make toast,
+
+00:06:05.639 --> 00:06:09.528
+but what if you wanted to draw
+something more relevant or pressing,
+
+00:06:09.528 --> 00:06:14.636
+like your organizational vision,
+or customer experience,
+
+00:06:14.636 --> 00:06:16.940
+or long-term sustainability?
+
+00:06:16.940 --> 00:06:20.446
+There's a visual revolution
+that's taking place
+
+00:06:20.446 --> 00:06:23.859
+as more organizations
+are addressing their wicked problems
+
+00:06:23.859 --> 00:06:26.645
+by collaboratively drawing them out.
+
+00:06:26.645 --> 00:06:31.267
+And I'm convinced that those who see
+their world as movable nodes and links
+
+00:06:31.267 --> 00:06:33.391
+really have an edge.
+
+00:06:33.391 --> 00:06:35.469
+And the practice is really pretty simple.
+
+00:06:35.469 --> 00:06:38.371
+You start with a question,
+you collect the nodes,
+
+00:06:38.371 --> 00:06:41.459
+you refine the nodes,
+you do it over again,
+
+00:06:41.459 --> 00:06:46.768
+you refine and refine and refine,
+and the patterns emerge,
+
+00:06:46.768 --> 00:06:51.120
+and the group gets clarity
+and you answer the question.
+
+00:06:53.070 --> 00:06:59.112
+So this simple act of visualizing
+and doing over and over again
+
+00:06:59.112 --> 00:07:01.694
+produces some really remarkable outcomes.
+
+00:07:01.694 --> 00:07:03.581
+What's really important to know
+
+00:07:03.581 --> 00:07:07.271
+is that it's the conversations
+that are the important aspects,
+
+00:07:07.271 --> 00:07:09.596
+not just the models themselves.
+
+00:07:09.596 --> 00:07:11.384
+And these visual frames of reference
+
+00:07:11.384 --> 00:07:15.982
+can grow to several hundreds
+or even thousands of nodes.
+
+00:07:15.982 --> 00:07:19.000
+So, one example is from
+an organization called Rodale.
+
+00:07:19.000 --> 00:07:20.486
+Big publishing company.
+
+00:07:20.486 --> 00:07:22.622
+They lost a bunch of money one year,
+
+00:07:22.622 --> 00:07:26.964
+and their executive team for three days
+visualized their entire practice.
+
+00:07:26.964 --> 00:07:32.886
+And what's interesting is that
+after visualizing the entire business,
+
+00:07:32.886 --> 00:07:34.650
+systems upon systems,
+
+00:07:34.650 --> 00:07:37.716
+they reclaimed 
+50 million dollars of revenue,
+
+00:07:37.716 --> 00:07:42.734
+and they also moved from a D rating 
+to an A rating from their customers.
+
+00:07:42.734 --> 00:07:46.329
+Why? Because there's
+alignment from the executive team.
+
+00:07:46.329 --> 00:07:49.742
+So I'm now on a mission
+to help organizations
+
+00:07:49.742 --> 00:07:54.456
+solve their wicked problems
+by using collaborative visualization,
+
+00:07:54.456 --> 00:07:57.474
+and on a site that I've produced
+called drawtoast.com,
+
+00:07:57.474 --> 00:08:00.678
+I've collected a bunch of best practices.
+
+00:08:00.678 --> 00:08:03.441
+and so you can learn
+how to run a workshop here,
+
+00:08:03.441 --> 00:08:05.584
+you can learn more about
+the visual language
+
+00:08:05.584 --> 00:08:10.500
+and the structure of links and nodes that
+you can apply to general problem-solving,
+
+00:08:10.500 --> 00:08:13.705
+and download examples of various templates
+
+00:08:13.705 --> 00:08:18.998
+for unpacking the thorny problems
+that we all face in our organizations.
+
+00:08:18.998 --> 00:08:22.620
+So the seemingly trivial
+design exercise of drawing toast
+
+00:08:22.620 --> 00:08:26.661
+helps us get clear, engaged and aligned.
+
+00:08:26.661 --> 00:08:29.609
+So next time you're confronted
+with an interesting challenge,
+
+00:08:29.609 --> 00:08:31.943
+remember what design has to teach us.
+
+00:08:31.943 --> 00:08:35.774
+Make your ideas visible,
+tangible, and consequential.
+
+00:08:35.774 --> 00:08:38.932
+It's simple, it's fun, it's powerful,
+
+00:08:38.932 --> 00:08:42.082
+and I believe it's an idea
+worth celebrating.
+
+00:08:42.082 --> 00:08:43.902
+Thank you.
+
+00:08:43.902 --> 00:08:48.382
+(Applause)
+

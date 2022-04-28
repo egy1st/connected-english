@@ -1,0 +1,833 @@
+WEBVTT
+
+00:00:01.354 --> 00:00:04.489
+Technology has brought us so much:
+
+00:00:04.489 --> 00:00:06.508
+the moon landing, the Internet,
+
+00:00:06.508 --> 00:00:09.133
+the ability to sequence the human genome.
+
+00:00:09.133 --> 00:00:12.857
+But it also taps into a lot of our deepest fears,
+
+00:00:12.857 --> 00:00:14.713
+and about 30 years ago,
+
+00:00:14.713 --> 00:00:17.266
+the culture critic Neil Postman wrote a book
+
+00:00:17.266 --> 00:00:19.381
+called "Amusing Ourselves to Death,"
+
+00:00:19.381 --> 00:00:22.140
+which lays this out really brilliantly.
+
+00:00:22.140 --> 00:00:23.790
+And here's what he said,
+
+00:00:23.790 --> 00:00:26.053
+comparing the dystopian visions
+
+00:00:26.053 --> 00:00:29.626
+of George Orwell and Aldous Huxley.
+
+00:00:29.626 --> 00:00:32.752
+He said, Orwell feared we would become
+
+00:00:32.752 --> 00:00:35.000
+a captive culture.
+
+00:00:35.000 --> 00:00:38.752
+Huxley feared we would become a trivial culture.
+
+00:00:38.752 --> 00:00:40.897
+Orwell feared the truth would be
+
+00:00:40.897 --> 00:00:42.820
+concealed from us,
+
+00:00:42.820 --> 00:00:45.010
+and Huxley feared we would be drowned
+
+00:00:45.010 --> 00:00:47.703
+in a sea of irrelevance.
+
+00:00:47.703 --> 00:00:49.873
+In a nutshell, it's a choice between
+
+00:00:49.873 --> 00:00:52.473
+Big Brother watching you
+
+00:00:52.473 --> 00:00:54.969
+and you watching Big Brother.
+
+00:00:54.969 --> 00:00:56.900
+(Laughter)
+
+00:00:56.900 --> 00:00:58.634
+But it doesn't have to be this way.
+
+00:00:58.634 --> 00:01:01.970
+We are not passive consumers
+of data and technology.
+
+00:01:01.970 --> 00:01:04.373
+We shape the role it plays in our lives
+
+00:01:04.373 --> 00:01:06.503
+and the way we make meaning from it,
+
+00:01:06.503 --> 00:01:08.106
+but to do that,
+
+00:01:08.106 --> 00:01:11.619
+we have to pay as much attention to how we think
+
+00:01:11.619 --> 00:01:13.649
+as how we code.
+
+00:01:13.649 --> 00:01:16.747
+We have to ask questions, and hard questions,
+
+00:01:16.747 --> 00:01:18.616
+to move past counting things
+
+00:01:18.616 --> 00:01:21.218
+to understanding them.
+
+00:01:21.218 --> 00:01:23.664
+We're constantly bombarded with stories
+
+00:01:23.664 --> 00:01:26.140
+about how much data there is in the world,
+
+00:01:26.140 --> 00:01:27.720
+but when it comes to big data
+
+00:01:27.720 --> 00:01:30.316
+and the challenges of interpreting it,
+
+00:01:30.316 --> 00:01:32.404
+size isn't everything.
+
+00:01:32.404 --> 00:01:35.307
+There's also the speed at which it moves,
+
+00:01:35.307 --> 00:01:37.003
+and the many varieties of data types,
+
+00:01:37.003 --> 00:01:39.501
+and here are just a few examples:
+
+00:01:39.501 --> 00:01:41.699
+images,
+
+00:01:41.699 --> 00:01:45.706
+text,
+
+00:01:45.706 --> 00:01:47.801
+video,
+
+00:01:47.801 --> 00:01:49.631
+audio.
+
+00:01:49.631 --> 00:01:52.673
+And what unites this disparate types of data
+
+00:01:52.673 --> 00:01:54.894
+is that they're created by people
+
+00:01:54.894 --> 00:01:57.669
+and they require context.
+
+00:01:57.669 --> 00:02:00.114
+Now, there's a group of data scientists
+
+00:02:00.114 --> 00:02:02.419
+out of the University of Illinois-Chicago,
+
+00:02:02.419 --> 00:02:04.973
+and they're called the Health Media Collaboratory,
+
+00:02:04.973 --> 00:02:07.560
+and they've been working with
+the Centers for Disease Control
+
+00:02:07.560 --> 00:02:09.065
+to better understand
+
+00:02:09.065 --> 00:02:11.913
+how people talk about quitting smoking,
+
+00:02:11.913 --> 00:02:14.593
+how they talk about electronic cigarettes,
+
+00:02:14.593 --> 00:02:16.578
+and what they can do collectively
+
+00:02:16.578 --> 00:02:18.562
+to help them quit.
+
+00:02:18.562 --> 00:02:20.575
+The interesting thing is, if you want to understand
+
+00:02:20.575 --> 00:02:22.791
+how people talk about smoking,
+
+00:02:22.791 --> 00:02:24.692
+first you have to understand
+
+00:02:24.692 --> 00:02:27.257
+what they mean when they say "smoking."
+
+00:02:27.257 --> 00:02:31.183
+And on Twitter, there are four main categories:
+
+00:02:31.183 --> 00:02:34.180
+number one, smoking cigarettes;
+
+00:02:34.180 --> 00:02:36.987
+number two, smoking marijuana;
+
+00:02:36.987 --> 00:02:39.630
+number three, smoking ribs;
+
+00:02:39.630 --> 00:02:43.183
+and number four, smoking hot women.
+
+00:02:43.183 --> 00:02:46.176
+(Laughter)
+
+00:02:46.176 --> 00:02:48.602
+So then you have to think about, well,
+
+00:02:48.602 --> 00:02:50.742
+how do people talk about electronic cigarettes?
+
+00:02:50.742 --> 00:02:52.767
+And there are so many different ways
+
+00:02:52.767 --> 00:02:55.366
+that people do this, and you can see from the slide
+
+00:02:55.366 --> 00:02:57.976
+it's a complex kind of a query.
+
+00:02:57.976 --> 00:03:01.200
+And what it reminds us is that
+
+00:03:01.200 --> 00:03:03.611
+language is created by people,
+
+00:03:03.611 --> 00:03:05.951
+and people are messy and we're complex
+
+00:03:05.951 --> 00:03:08.718
+and we use metaphors and slang and jargon
+
+00:03:08.718 --> 00:03:11.997
+and we do this 24/7 in many, many languages,
+
+00:03:11.997 --> 00:03:15.221
+and then as soon as we figure it out, we change it up.
+
+00:03:15.221 --> 00:03:20.339
+So did these ads that the CDC put on,
+
+00:03:20.339 --> 00:03:22.769
+these television ads that featured a woman
+
+00:03:22.769 --> 00:03:24.790
+with a hole in her throat and that were very graphic
+
+00:03:24.790 --> 00:03:26.694
+and very disturbing,
+
+00:03:26.694 --> 00:03:28.579
+did they actually have an impact
+
+00:03:28.579 --> 00:03:31.250
+on whether people quit?
+
+00:03:31.250 --> 00:03:34.557
+And the Health Media Collaboratory
+respected the limits of their data,
+
+00:03:34.557 --> 00:03:36.562
+but they were able to conclude
+
+00:03:36.562 --> 00:03:39.874
+that those advertisements —
+and you may have seen them —
+
+00:03:39.874 --> 00:03:42.465
+that they had the effect of jolting people
+
+00:03:42.465 --> 00:03:44.287
+into a thought process
+
+00:03:44.287 --> 00:03:47.954
+that may have an impact on future behavior.
+
+00:03:47.954 --> 00:03:51.845
+And what I admire and 
+appreciate about this project,
+
+00:03:51.845 --> 00:03:53.334
+aside from the fact, including the fact
+
+00:03:53.334 --> 00:03:57.391
+that it's based on real human need,
+
+00:03:57.391 --> 00:04:00.237
+is that it's a fantastic example of courage
+
+00:04:00.237 --> 00:04:04.680
+in the face of a sea of irrelevance.
+
+00:04:04.680 --> 00:04:07.985
+And so it's not just big data that causes
+
+00:04:07.985 --> 00:04:10.586
+challenges of interpretation, because let's face it,
+
+00:04:10.586 --> 00:04:13.180
+we human beings have a very rich history
+
+00:04:13.180 --> 00:04:15.873
+of taking any amount of data, no matter how small,
+
+00:04:15.873 --> 00:04:17.490
+and screwing it up.
+
+00:04:17.490 --> 00:04:21.227
+So many years ago, you may remember
+
+00:04:21.227 --> 00:04:23.500
+that former President Ronald Reagan
+
+00:04:23.500 --> 00:04:25.491
+was very criticized for making a statement
+
+00:04:25.491 --> 00:04:28.501
+that facts are stupid things.
+
+00:04:28.501 --> 00:04:31.295
+And it was a slip of the tongue, let's be fair.
+
+00:04:31.295 --> 00:04:33.725
+He actually meant to quote John Adams' defense
+
+00:04:33.725 --> 00:04:36.476
+of British soldiers in the Boston Massacre trials
+
+00:04:36.476 --> 00:04:39.626
+that facts are stubborn things.
+
+00:04:39.626 --> 00:04:42.250
+But I actually think there's
+
+00:04:42.250 --> 00:04:45.668
+a bit of accidental wisdom in what he said,
+
+00:04:45.668 --> 00:04:48.444
+because facts are stubborn things,
+
+00:04:48.444 --> 00:04:51.367
+but sometimes they're stupid, too.
+
+00:04:51.367 --> 00:04:53.255
+I want to tell you a personal story
+
+00:04:53.255 --> 00:04:56.803
+about why this matters a lot to me.
+
+00:04:56.803 --> 00:04:59.240
+I need to take a breath.
+
+00:04:59.240 --> 00:05:01.994
+My son Isaac, when he was two,
+
+00:05:01.994 --> 00:05:04.411
+was diagnosed with autism,
+
+00:05:04.411 --> 00:05:06.572
+and he was this happy, hilarious,
+
+00:05:06.572 --> 00:05:08.607
+loving, affectionate little guy,
+
+00:05:08.607 --> 00:05:11.509
+but the metrics on his developmental evaluations,
+
+00:05:11.509 --> 00:05:13.579
+which looked at things like 
+the number of words —
+
+00:05:13.579 --> 00:05:17.236
+at that point, none —
+
+00:05:17.236 --> 00:05:21.176
+communicative gestures and minimal eye contact,
+
+00:05:21.176 --> 00:05:23.179
+put his developmental level
+
+00:05:23.179 --> 00:05:27.140
+at that of a nine-month-old baby.
+
+00:05:27.140 --> 00:05:30.100
+And the diagnosis was factually correct,
+
+00:05:30.100 --> 00:05:33.309
+but it didn't tell the whole story.
+
+00:05:33.309 --> 00:05:34.710
+And about a year and a half later,
+
+00:05:34.710 --> 00:05:36.812
+when he was almost four,
+
+00:05:36.812 --> 00:05:39.175
+I found him in front of the computer one day
+
+00:05:39.175 --> 00:05:44.628
+running a Google image search on women,
+
+00:05:44.628 --> 00:05:48.244
+spelled "w-i-m-e-n."
+
+00:05:48.244 --> 00:05:50.984
+And I did what any obsessed parent would do,
+
+00:05:50.984 --> 00:05:52.885
+which is immediately started 
+hitting the "back" button
+
+00:05:52.885 --> 00:05:56.248
+to see what else he'd been searching for.
+
+00:05:56.248 --> 00:05:58.419
+And they were, in order: men,
+
+00:05:58.419 --> 00:06:05.686
+school, bus and computer.
+
+00:06:05.686 --> 00:06:07.756
+And I was stunned,
+
+00:06:07.756 --> 00:06:09.758
+because we didn't know that he could spell,
+
+00:06:09.758 --> 00:06:11.524
+much less read, and so I asked him,
+
+00:06:11.524 --> 00:06:13.717
+"Isaac, how did you do this?"
+
+00:06:13.717 --> 00:06:16.395
+And he looked at me very seriously and said,
+
+00:06:16.395 --> 00:06:19.747
+"Typed in the box."
+
+00:06:19.747 --> 00:06:23.481
+He was teaching himself to communicate,
+
+00:06:23.481 --> 00:06:26.485
+but we were looking in the wrong place,
+
+00:06:26.485 --> 00:06:28.780
+and this is what happens when assessments
+
+00:06:28.780 --> 00:06:31.176
+and analytics overvalue one metric —
+
+00:06:31.176 --> 00:06:33.785
+in this case, verbal communication —
+
+00:06:33.785 --> 00:06:39.488
+and undervalue others, such
+as creative problem-solving.
+
+00:06:39.488 --> 00:06:41.795
+Communication was hard for Isaac,
+
+00:06:41.795 --> 00:06:43.707
+and so he found a workaround
+
+00:06:43.707 --> 00:06:46.564
+to find out what he needed to know.
+
+00:06:46.564 --> 00:06:48.454
+And when you think about it, it makes a lot of sense,
+
+00:06:48.454 --> 00:06:50.535
+because forming a question
+
+00:06:50.535 --> 00:06:53.100
+is a really complex process,
+
+00:06:53.100 --> 00:06:55.622
+but he could get himself a lot of the way there
+
+00:06:55.622 --> 00:06:59.714
+by putting a word in a search box.
+
+00:06:59.714 --> 00:07:02.650
+And so this little moment
+
+00:07:02.650 --> 00:07:05.486
+had a really profound impact on me
+
+00:07:05.486 --> 00:07:06.795
+and our family
+
+00:07:06.795 --> 00:07:09.936
+because it helped us change our frame of reference
+
+00:07:09.936 --> 00:07:12.144
+for what was going on with him,
+
+00:07:12.144 --> 00:07:15.120
+and worry a little bit less and appreciate
+
+00:07:15.120 --> 00:07:17.302
+his resourcefulness more.
+
+00:07:17.302 --> 00:07:20.163
+Facts are stupid things.
+
+00:07:20.163 --> 00:07:22.560
+And they're vulnerable to misuse,
+
+00:07:22.560 --> 00:07:24.213
+willful or otherwise.
+
+00:07:24.213 --> 00:07:27.239
+I have a friend, Emily Willingham, who's a scientist,
+
+00:07:27.239 --> 00:07:30.040
+and she wrote a piece for Forbes not long ago
+
+00:07:30.040 --> 00:07:32.020
+entitled "The 10 Weirdest Things
+
+00:07:32.020 --> 00:07:33.830
+Ever Linked to Autism."
+
+00:07:33.830 --> 00:07:36.835
+It's quite a list.
+
+00:07:36.835 --> 00:07:40.367
+The Internet, blamed for everything, right?
+
+00:07:40.367 --> 00:07:44.124
+And of course mothers, because.
+
+00:07:44.124 --> 00:07:45.711
+And actually, wait, there's more,
+
+00:07:45.711 --> 00:07:49.141
+there's a whole bunch in 
+the "mother" category here.
+
+00:07:49.141 --> 00:07:53.956
+And you can see it's a pretty 
+rich and interesting list.
+
+00:07:53.956 --> 00:07:56.149
+I'm a big fan of
+
+00:07:56.149 --> 00:07:59.853
+being pregnant near freeways, personally.
+
+00:07:59.853 --> 00:08:01.392
+The final one is interesting,
+
+00:08:01.392 --> 00:08:04.395
+because the term "refrigerator mother"
+
+00:08:04.395 --> 00:08:07.000
+was actually the original hypothesis
+
+00:08:07.000 --> 00:08:08.431
+for the cause of autism,
+
+00:08:08.431 --> 00:08:11.166
+and that meant somebody 
+who was cold and unloving.
+
+00:08:11.166 --> 00:08:12.728
+And at this point, you might be thinking,
+
+00:08:12.728 --> 00:08:14.385
+"Okay, Susan, we get it,
+
+00:08:14.385 --> 00:08:16.167
+you can take data, you can 
+make it mean anything."
+
+00:08:16.167 --> 00:08:20.870
+And this is true, it's absolutely true,
+
+00:08:20.870 --> 00:08:26.480
+but the challenge is that
+
+00:08:26.480 --> 00:08:28.928
+we have this opportunity
+
+00:08:28.928 --> 00:08:31.212
+to try to make meaning out of it ourselves,
+
+00:08:31.212 --> 00:08:36.564
+because frankly, data doesn't 
+create meaning. We do.
+
+00:08:36.564 --> 00:08:39.820
+So as businesspeople, as consumers,
+
+00:08:39.820 --> 00:08:42.359
+as patients, as citizens,
+
+00:08:42.359 --> 00:08:44.755
+we have a responsibility, I think,
+
+00:08:44.755 --> 00:08:46.949
+to spend more time
+
+00:08:46.949 --> 00:08:49.819
+focusing on our critical thinking skills.
+
+00:08:49.819 --> 00:08:50.897
+Why?
+
+00:08:50.897 --> 00:08:54.075
+Because at this point in our history, as we've heard
+
+00:08:54.075 --> 00:08:55.781
+many times over,
+
+00:08:55.781 --> 00:08:57.762
+we can process exabytes of data
+
+00:08:57.762 --> 00:08:59.915
+at lightning speed,
+
+00:08:59.915 --> 00:09:03.430
+and we have the potential to make bad decisions
+
+00:09:03.430 --> 00:09:05.264
+far more quickly, efficiently,
+
+00:09:05.264 --> 00:09:10.292
+and with far greater impact than we did in the past.
+
+00:09:10.292 --> 00:09:11.680
+Great, right?
+
+00:09:11.680 --> 00:09:14.710
+And so what we need to do instead
+
+00:09:14.710 --> 00:09:17.040
+is spend a little bit more time
+
+00:09:17.040 --> 00:09:19.786
+on things like the humanities
+
+00:09:19.786 --> 00:09:23.250
+and sociology, and the social sciences,
+
+00:09:23.250 --> 00:09:25.558
+rhetoric, philosophy, ethics,
+
+00:09:25.558 --> 00:09:28.414
+because they give us context that is so important
+
+00:09:28.414 --> 00:09:30.990
+for big data, and because
+
+00:09:30.990 --> 00:09:33.408
+they help us become better critical thinkers.
+
+00:09:33.408 --> 00:09:37.615
+Because after all, if I can spot
+
+00:09:37.615 --> 00:09:40.101
+a problem in an argument, it doesn't much matter
+
+00:09:40.101 --> 00:09:42.860
+whether it's expressed in words or in numbers.
+
+00:09:42.860 --> 00:09:45.579
+And this means
+
+00:09:45.579 --> 00:09:50.000
+teaching ourselves to find 
+those confirmation biases
+
+00:09:50.000 --> 00:09:51.822
+and false correlations
+
+00:09:51.822 --> 00:09:53.960
+and being able to spot a naked emotional appeal
+
+00:09:53.960 --> 00:09:55.622
+from 30 yards,
+
+00:09:55.622 --> 00:09:58.144
+because something that happens after something
+
+00:09:58.144 --> 00:10:01.226
+doesn't mean it happened 
+because of it, necessarily,
+
+00:10:01.226 --> 00:10:03.345
+and if you'll let me geek out on you for a second,
+
+00:10:03.345 --> 00:10:07.642
+the Romans called this 
+"post hoc ergo propter hoc,"
+
+00:10:07.642 --> 00:10:10.938
+after which therefore because of which.
+
+00:10:10.938 --> 00:10:14.695
+And it means questioning
+disciplines like demographics.
+
+00:10:14.695 --> 00:10:17.215
+Why? Because they're based on assumptions
+
+00:10:17.215 --> 00:10:19.521
+about who we all are based on our gender
+
+00:10:19.521 --> 00:10:20.983
+and our age and where we live
+
+00:10:20.983 --> 00:10:24.461
+as opposed to data on what 
+we actually think and do.
+
+00:10:24.461 --> 00:10:26.124
+And since we have this data,
+
+00:10:26.124 --> 00:10:29.263
+we need to treat it with appropriate privacy controls
+
+00:10:29.263 --> 00:10:32.839
+and consumer opt-in,
+
+00:10:32.839 --> 00:10:35.832
+and beyond that, we need to be clear
+
+00:10:35.832 --> 00:10:37.935
+about our hypotheses,
+
+00:10:37.935 --> 00:10:40.531
+the methodologies that we use,
+
+00:10:40.531 --> 00:10:43.335
+and our confidence in the result.
+
+00:10:43.335 --> 00:10:45.809
+As my high school algebra teacher used to say,
+
+00:10:45.809 --> 00:10:47.340
+show your math,
+
+00:10:47.340 --> 00:10:50.781
+because if I don't know what steps you took,
+
+00:10:50.781 --> 00:10:52.772
+I don't know what steps you didn't take,
+
+00:10:52.772 --> 00:10:55.210
+and if I don't know what questions you asked,
+
+00:10:55.210 --> 00:10:58.407
+I don't know what questions you didn't ask.
+
+00:10:58.407 --> 00:10:59.930
+And it means asking ourselves, really,
+
+00:10:59.930 --> 00:11:01.409
+the hardest question of all:
+
+00:11:01.409 --> 00:11:04.909
+Did the data really show us this,
+
+00:11:04.909 --> 00:11:07.220
+or does the result make us feel
+
+00:11:07.220 --> 00:11:11.098
+more successful and more comfortable?
+
+00:11:11.098 --> 00:11:13.682
+So the Health Media Collaboratory,
+
+00:11:13.682 --> 00:11:15.381
+at the end of their project, they were able
+
+00:11:15.381 --> 00:11:18.789
+to find that 87 percent of tweets
+
+00:11:18.789 --> 00:11:20.933
+about those very graphic and disturbing
+
+00:11:20.933 --> 00:11:24.971
+anti-smoking ads expressed fear,
+
+00:11:24.971 --> 00:11:26.827
+but did they conclude
+
+00:11:26.827 --> 00:11:29.988
+that they actually made people stop smoking?
+
+00:11:29.988 --> 00:11:32.530
+No. It's science, not magic.
+
+00:11:32.530 --> 00:11:35.720
+So if we are to unlock
+
+00:11:35.720 --> 00:11:38.582
+the power of data,
+
+00:11:38.582 --> 00:11:42.030
+we don't have to go blindly into
+
+00:11:42.030 --> 00:11:45.466
+Orwell's vision of a totalitarian future,
+
+00:11:45.466 --> 00:11:48.583
+or Huxley's vision of a trivial one,
+
+00:11:48.583 --> 00:11:51.603
+or some horrible cocktail of both.
+
+00:11:51.603 --> 00:11:53.982
+What we have to do
+
+00:11:53.982 --> 00:11:56.700
+is treat critical thinking with respect
+
+00:11:56.700 --> 00:11:58.729
+and be inspired by examples
+
+00:11:58.729 --> 00:12:01.339
+like the Health Media Collaboratory,
+
+00:12:01.339 --> 00:12:03.667
+and as they say in the superhero movies,
+
+00:12:03.667 --> 00:12:05.489
+let's use our powers for good.
+
+00:12:05.489 --> 00:12:07.840
+Thank you.
+
+00:12:07.840 --> 00:12:10.174
+(Applause)
+

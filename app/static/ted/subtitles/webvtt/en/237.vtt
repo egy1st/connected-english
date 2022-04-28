@@ -1,0 +1,944 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+I'm delighted to be here.
+
+00:00:02.000 --> 00:00:05.000
+I'm honored by the invitation, and thanks.
+
+00:00:05.000 --> 00:00:08.000
+I would love to talk about stuff that I'm interested in,
+
+00:00:08.000 --> 00:00:10.000
+but unfortunately, I suspect that what I'm interested in
+
+00:00:10.000 --> 00:00:13.000
+won't interest many other people.
+
+00:00:13.000 --> 00:00:15.000
+First off, my badge says I'm an astronomer.
+
+00:00:15.000 --> 00:00:17.000
+I would love to talk about my astronomy,
+
+00:00:17.000 --> 00:00:20.000
+but I suspect that the number of people who are interested in radiative transfer
+
+00:00:20.000 --> 00:00:22.000
+in non-gray atmospheres
+
+00:00:22.000 --> 00:00:24.000
+and polarization of light in Jupiter's upper atmosphere
+
+00:00:24.000 --> 00:00:26.000
+are the number of people who'd fit in a bus shelter.
+
+00:00:26.000 --> 00:00:28.000
+So I'm not going to talk about that.
+
+00:00:28.000 --> 00:00:30.000
+(Laughter)
+
+00:00:30.000 --> 00:00:32.000
+It would be just as much fun
+
+00:00:32.000 --> 00:00:35.000
+to talk about some stuff that happened in 1986 and 1987,
+
+00:00:35.000 --> 00:00:38.000
+when a computer hacker is breaking into our systems
+
+00:00:38.000 --> 00:00:40.000
+over at Lawrence Berkeley Labs.
+
+00:00:40.000 --> 00:00:42.000
+And I caught the guys,
+
+00:00:42.000 --> 00:00:46.000
+and they turned out to be working for what was then the Soviet KGB,
+
+00:00:46.000 --> 00:00:48.000
+and stealing information and selling it.
+
+00:00:48.000 --> 00:00:52.000
+And I'd love to talk about that -- and it'd be fun --
+
+00:00:52.000 --> 00:00:55.000
+but, 20 years later ...
+
+00:00:55.000 --> 00:00:57.000
+I find computer security, frankly, to be kind of boring.
+
+00:00:57.000 --> 00:00:59.000
+It's tedious.
+
+00:00:59.000 --> 00:01:00.000
+I'm --
+
+00:01:00.000 --> 00:01:03.000
+The first time you do something, it's science.
+
+00:01:04.000 --> 00:01:07.000
+The second time, it's engineering.
+
+00:01:07.000 --> 00:01:10.000
+A third time, it's just being a technician.
+
+00:01:10.000 --> 00:01:13.000
+I'm a scientist. Once I do something, I do something else.
+
+00:01:13.000 --> 00:01:15.000
+So, I'm not going to talk about that.
+
+00:01:15.000 --> 00:01:22.000
+Nor am I going to talk about what I think are obvious statements from my first book,
+
+00:01:22.000 --> 00:01:25.000
+"Silicon Snake Oil," or my second book,
+
+00:01:26.000 --> 00:01:28.000
+nor am I going to talk about
+
+00:01:28.000 --> 00:01:30.000
+why I believe computers don't belong in schools.
+
+00:01:31.000 --> 00:01:35.000
+I feel that there's a massive and bizarre idea going around
+
+00:01:35.000 --> 00:01:39.000
+that we have to bring more computers into schools.
+
+00:01:39.000 --> 00:01:41.000
+My idea is: no! No!
+
+00:01:41.000 --> 00:01:45.000
+Get them out of schools, and keep them out of schools.
+
+00:01:45.000 --> 00:01:47.000
+And I'd love to talk about this,
+
+00:01:47.000 --> 00:01:52.000
+but I think the argument is so obvious to anyone who's hung around a fourth grade classroom
+
+00:01:52.000 --> 00:01:56.000
+that it doesn't need much talking about --
+
+00:01:56.000 --> 00:01:58.000
+but I guess I may be very wrong about that,
+
+00:01:58.000 --> 00:01:59.000
+and everything else that I've said.
+
+00:01:59.000 --> 00:02:01.000
+So don't go back and read my dissertation.
+
+00:02:01.000 --> 00:02:03.000
+It probably has lies in it as well.
+
+00:02:03.000 --> 00:02:07.000
+Having said that, I outlined my talk about five minutes ago.
+
+00:02:07.000 --> 00:02:10.000
+(Laughter)
+
+00:02:10.000 --> 00:02:12.000
+And if you look at it over here,
+
+00:02:12.000 --> 00:02:15.000
+the main thing I wrote on my thumb was the future.
+
+00:02:15.000 --> 00:02:18.000
+I'm supposed to talk about the future, yes?
+
+00:02:18.000 --> 00:02:25.000
+Oh, right. And my feeling is, asking me to talk about the future is bizarre,
+
+00:02:25.000 --> 00:02:27.000
+because I've got gray hair,
+
+00:02:27.000 --> 00:02:33.000
+and so, it's kind of silly for me to talk about the future.
+
+00:02:33.000 --> 00:02:37.000
+In fact, I think that if you really want to know what the future's going to be,
+
+00:02:37.000 --> 00:02:39.000
+if you really want to know about the future,
+
+00:02:39.000 --> 00:02:43.000
+don't ask a technologist, a scientist, a physicist.
+
+00:02:43.000 --> 00:02:47.000
+No! Don't ask somebody who's writing code.
+
+00:02:50.000 --> 00:02:55.000
+No, if you want to know what society's going to be like in 20 years,
+
+00:02:55.000 --> 00:02:57.000
+ask a kindergarten teacher.
+
+00:02:57.000 --> 00:03:00.000
+They know.
+
+00:03:00.000 --> 00:03:03.000
+In fact, don't ask just any kindergarten teacher,
+
+00:03:03.000 --> 00:03:05.000
+ask an experienced one.
+
+00:03:05.000 --> 00:03:09.000
+They're the ones who know what society is going to be like in another generation.
+
+00:03:09.000 --> 00:03:11.000
+I don't. Nor, I suspect,
+
+00:03:11.000 --> 00:03:14.000
+do many other people who are talking about what the future will bring.
+
+00:03:14.000 --> 00:03:18.000
+Certainly, all of us can imagine these cool new things
+
+00:03:18.000 --> 00:03:19.000
+that are going to be there.
+
+00:03:19.000 --> 00:03:23.000
+But to me, things aren't the future.
+
+00:03:23.000 --> 00:03:26.000
+What I ask myself is, what's society is going to be like,
+
+00:03:26.000 --> 00:03:32.000
+when the kids today are phenomenally good at text messaging
+
+00:03:32.000 --> 00:03:35.000
+and spend a huge amount of on-screen time,
+
+00:03:35.000 --> 00:03:40.000
+but have never gone bowling together?
+
+00:03:41.000 --> 00:03:44.000
+Change is happening, and the change that is happening
+
+00:03:44.000 --> 00:03:46.000
+is not one that is in software.
+
+00:03:47.000 --> 00:03:48.000
+But that's not what I'm going to talk about.
+
+00:03:48.000 --> 00:03:51.000
+I'd love to talk about it, it'd be fun,
+
+00:03:51.000 --> 00:03:54.000
+but I want to talk about what I'm doing now. What am I doing now?
+
+00:03:54.000 --> 00:03:56.000
+Oh -- the other thing that I think I'd like to talk about
+
+00:03:56.000 --> 00:03:59.000
+is right over here. Right over here.
+
+00:04:00.000 --> 00:04:06.000
+Is that visible? What I'd like to talk about is one-sided things.
+
+00:04:06.000 --> 00:04:08.000
+I would dearly love to talk about
+
+00:04:08.000 --> 00:04:11.000
+things that have one side.
+
+00:04:11.000 --> 00:04:15.000
+Because I love Mobius loops. I not only love Mobius loops,
+
+00:04:15.000 --> 00:04:18.000
+but I'm one of the very few people,
+
+00:04:18.000 --> 00:04:21.000
+if not the only person in the world, that makes Klein bottles.
+
+00:04:21.000 --> 00:04:24.000
+Right away, I hope that all of your eyes glaze over.
+
+00:04:24.000 --> 00:04:27.000
+This is a Klein bottle.
+
+00:04:27.000 --> 00:04:30.000
+For those of you in the audience who know,
+
+00:04:30.000 --> 00:04:32.000
+you roll your eyes and say, yup, I know all about it.
+
+00:04:32.000 --> 00:04:34.000
+It's one sided. It's a bottle whose inside is its outside.
+
+00:04:34.000 --> 00:04:37.000
+It has zero volume. And it's non-orientable.
+
+00:04:37.000 --> 00:04:39.000
+It has wonderful properties.
+
+00:04:39.000 --> 00:04:41.000
+If you take two Mobius loops and sew their common edge together,
+
+00:04:41.000 --> 00:04:44.000
+you get one of these, and I make them out of glass.
+
+00:04:44.000 --> 00:04:46.000
+And I'd love to talk to you about this,
+
+00:04:46.000 --> 00:04:50.000
+but I don't have much in the way of ... things to say because --
+
+00:04:52.000 --> 00:04:54.000
+(Laughter)
+
+00:04:54.000 --> 00:04:55.000
+(Chris Anderson: I've got a cold.)
+
+00:04:55.000 --> 00:05:02.000
+However, the "D" in TED of course stands for design.
+
+00:05:02.000 --> 00:05:04.000
+Just two weeks ago I made --
+
+00:05:04.000 --> 00:05:10.000
+you know, I've been making small, medium and big Klein bottles for the trade.
+
+00:05:10.000 --> 00:05:14.000
+But what I've just made --
+
+00:05:14.000 --> 00:05:17.000
+and I'm delighted to show you, first time in public here.
+
+00:05:23.000 --> 00:05:28.000
+This is a Klein bottle wine bottle,
+
+00:05:28.000 --> 00:05:31.000
+which, although in four dimensions
+
+00:05:31.000 --> 00:05:34.000
+it shouldn't be able to hold any fluid at all,
+
+00:05:34.000 --> 00:05:36.000
+it's perfectly capable of doing so
+
+00:05:36.000 --> 00:05:38.000
+because our universe has only three spatial dimensions.
+
+00:05:38.000 --> 00:05:41.000
+And because our universe is only three spatial dimensions,
+
+00:05:41.000 --> 00:05:43.000
+it can hold fluids.
+
+00:05:44.000 --> 00:05:49.000
+So it's highly -- that one's the cool one.
+
+00:05:49.000 --> 00:05:54.000
+That was a month of my life.
+
+00:05:54.000 --> 00:05:58.000
+But although I would love to talk about topology with you, I'm not going to.
+
+00:05:59.000 --> 00:06:05.000
+(Laughter)
+
+00:06:05.000 --> 00:06:10.000
+Instead, I'm going to mention my mom,
+
+00:06:10.000 --> 00:06:13.000
+who passed away last summer.
+
+00:06:13.000 --> 00:06:16.000
+Had collected photographs of me, as mothers will do.
+
+00:06:16.000 --> 00:06:18.000
+Could somebody put this guy up?
+
+00:06:18.000 --> 00:06:22.000
+And I looked over her album
+
+00:06:22.000 --> 00:06:25.000
+and she had collected a picture of me, standing --
+
+00:06:25.000 --> 00:06:29.000
+well, sitting -- in 1969, in front of a bunch of dials.
+
+00:06:30.000 --> 00:06:33.000
+And I looked at it, and said, oh my god,
+
+00:06:33.000 --> 00:06:35.000
+that was me, when I was working at the electronic music studio!
+
+00:06:35.000 --> 00:06:38.000
+As a technician, repairing and maintaining
+
+00:06:39.000 --> 00:06:43.000
+the electronic music studio at SUNY Buffalo. And wow!
+
+00:06:43.000 --> 00:06:48.000
+Way back machine. And I said to myself, oh yeah!
+
+00:06:49.000 --> 00:06:51.000
+And it sent me back.
+
+00:06:53.000 --> 00:07:00.000
+Soon after that, I found in another picture that she had, a picture of me.
+
+00:07:01.000 --> 00:07:05.000
+This guy over here of course is me.
+
+00:07:05.000 --> 00:07:07.000
+This man is Robert Moog,
+
+00:07:07.000 --> 00:07:09.000
+the inventor of the Moog synthesizer,
+
+00:07:09.000 --> 00:07:13.000
+who passed away this past August.
+
+00:07:14.000 --> 00:07:19.000
+Robert Moog was a generous, kind person, extraordinarily competent engineer.
+
+00:07:19.000 --> 00:07:23.000
+A musician who took time from his life to teach me,
+
+00:07:25.000 --> 00:07:28.000
+a sophomore, a freshman at SUNY Buffalo.
+
+00:07:28.000 --> 00:07:33.000
+He'd come up from Trumansburg to teach me
+
+00:07:33.000 --> 00:07:37.000
+not just about the Moog synthesizer, but we'd be sitting there --
+
+00:07:37.000 --> 00:07:40.000
+I'm studying physics at the time. This is 1969, 70, 71.
+
+00:07:40.000 --> 00:07:42.000
+We're studying physics, I'm studying physics,
+
+00:07:42.000 --> 00:07:44.000
+and he's saying, "That's a good thing to do.
+
+00:07:44.000 --> 00:07:46.000
+Don't get caught up in electronic music if you're doing physics."
+
+00:07:46.000 --> 00:07:49.000
+Mentoring me. He'd come up and
+
+00:07:49.000 --> 00:07:53.000
+spend hours and hours with me.
+
+00:07:53.000 --> 00:07:56.000
+He wrote a letter of recommendation for me to get into graduate school.
+
+00:07:56.000 --> 00:07:58.000
+In the background, my bicycle.
+
+00:07:58.000 --> 00:08:01.000
+I realize that this picture was taken at a friend's living room.
+
+00:08:01.000 --> 00:08:04.000
+Bob Moog came by and hauled a whole pile of equipment
+
+00:08:04.000 --> 00:08:06.000
+to show Greg Flint and I things about this.
+
+00:08:06.000 --> 00:08:08.000
+We sat around talking about Fourier transforms,
+
+00:08:08.000 --> 00:08:11.000
+Bessel functions, modulation transfer functions,
+
+00:08:11.000 --> 00:08:14.000
+stuff like this.
+
+00:08:16.000 --> 00:08:19.000
+Bob's passing this past summer has been a loss to all of us.
+
+00:08:19.000 --> 00:08:23.000
+Anyone who's a musician has been profoundly influenced by Robert Moog.
+
+00:08:24.000 --> 00:08:26.000
+(Applause)
+
+00:08:26.000 --> 00:08:31.000
+And I'll just say what I'm about to do. What I'm about to do --
+
+00:08:31.000 --> 00:08:35.000
+I hope you can recognize that there's a distorted sine wave,
+
+00:08:35.000 --> 00:08:39.000
+almost a triangular wave upon this Hewlett-Packard oscilloscope.
+
+00:08:41.000 --> 00:08:45.000
+Oh, cool. I can get to this place over here, right?
+
+00:08:46.000 --> 00:08:48.000
+Kids. Kids is what I'm going to talk about -- is that okay?
+
+00:08:48.000 --> 00:08:52.000
+It says kids over here, that's what I'd like to talk about.
+
+00:08:52.000 --> 00:08:56.000
+I've decided that, for me at least,
+
+00:08:56.000 --> 00:09:00.000
+I don't have a big enough head.
+
+00:09:01.000 --> 00:09:04.000
+So I think locally and I act locally.
+
+00:09:04.000 --> 00:09:08.000
+I feel that the best way I can help out anything is to help out very, very locally.
+
+00:09:08.000 --> 00:09:13.000
+So Ph.D. this, and degree there, and the yadda yadda.
+
+00:09:13.000 --> 00:09:17.000
+I was talking about this stuff to
+
+00:09:17.000 --> 00:09:19.000
+some schoolteachers about a year ago.
+
+00:09:19.000 --> 00:09:21.000
+And one of them, several of them would come up to me and say,
+
+00:09:21.000 --> 00:09:23.000
+"Well, how come you ain't teaching?"
+
+00:09:23.000 --> 00:09:24.000
+And I said, "Well, I've taught graduate --
+
+00:09:24.000 --> 00:09:27.000
+I've had graduate students, I've taught undergraduate classes."
+
+00:09:27.000 --> 00:09:29.000
+No, they said, "If you're so into kids and all this stuff,
+
+00:09:29.000 --> 00:09:32.000
+how come you ain't over here on the front lines?
+
+00:09:32.000 --> 00:09:36.000
+Put your money where you mouth is."
+
+00:09:36.000 --> 00:09:42.000
+Is true. Is true. I teach eighth-grade science four days a week.
+
+00:09:42.000 --> 00:09:44.000
+Not just showing up every now and then.
+
+00:09:44.000 --> 00:09:48.000
+No, no, no, no, no. I take attendance.
+
+00:09:48.000 --> 00:09:51.000
+I take lunch hour. (Applause)
+
+00:09:51.000 --> 00:09:54.000
+This is not -- no, no, no, this is not claps.
+
+00:09:54.000 --> 00:09:58.000
+I strongly suggest that this is a good thing for each of you to do.
+
+00:09:58.000 --> 00:10:00.000
+Not just show up to class every now and then.
+
+00:10:00.000 --> 00:10:04.000
+Teach a solid week. Okay, I'm teaching three-quarters time, but good enough.
+
+00:10:04.000 --> 00:10:06.000
+One of the things that I've done for my science students
+
+00:10:06.000 --> 00:10:09.000
+is to tell them, "Look, I'm going to teach you college-level physics.
+
+00:10:09.000 --> 00:10:11.000
+No calculus, I'll cut out that.
+
+00:10:11.000 --> 00:10:13.000
+You won't need to know trig.
+
+00:10:13.000 --> 00:10:16.000
+But you will need to know eighth-grade algebra,
+
+00:10:16.000 --> 00:10:18.000
+and we're going to do serious experiments.
+
+00:10:18.000 --> 00:10:21.000
+None of this open-to-chapter-seven-and-do-all-the-odd-problem-sets.
+
+00:10:21.000 --> 00:10:23.000
+We're going to be doing genuine physics."
+
+00:10:24.000 --> 00:10:26.000
+And that's one of the things I thought I'd do right now.
+
+00:10:26.000 --> 00:10:29.000
+(High-pitched tone)
+
+00:10:29.000 --> 00:10:31.000
+Oh, before I even turn that on,
+
+00:10:31.000 --> 00:10:35.000
+one of the things that we did about three weeks ago in my class --
+
+00:10:35.000 --> 00:10:37.000
+this is through the lens, and one of the things we used a lens for
+
+00:10:37.000 --> 00:10:39.000
+was to measure the speed of light.
+
+00:10:39.000 --> 00:10:42.000
+My students in El Cerrito -- with my help, of course,
+
+00:10:42.000 --> 00:10:45.000
+and with the help of a very beat up oscilloscope --
+
+00:10:45.000 --> 00:10:46.000
+measured the speed of light.
+
+00:10:46.000 --> 00:10:51.000
+We were off by 25 percent. How many eighth graders do you know of
+
+00:10:51.000 --> 00:10:53.000
+who have measured the speed of light?
+
+00:10:53.000 --> 00:10:56.000
+In addition to that, we've measured the speed of sound.
+
+00:10:56.000 --> 00:10:58.000
+I'd love to measure the speed of light here.
+
+00:10:58.000 --> 00:11:00.000
+I was all set to do it and I was thinking, "Aw man,"
+
+00:11:00.000 --> 00:11:02.000
+I was just going to impose upon the powers that be,
+
+00:11:03.000 --> 00:11:04.000
+and measure the speed of light.
+
+00:11:04.000 --> 00:11:08.000
+And I'm all set to do it. I'm all set to do it,
+
+00:11:08.000 --> 00:11:12.000
+but then it turns out that to set up here, you have like 10 minutes to set up!
+
+00:11:12.000 --> 00:11:14.000
+And there's no time to do it.
+
+00:11:14.000 --> 00:11:16.000
+So, next time, maybe, I'll measure the speed of light!
+
+00:11:16.000 --> 00:11:18.000
+But meanwhile, let's measure the speed of sound!
+
+00:11:18.000 --> 00:11:20.000
+Well, the obvious way to measure the speed of sound
+
+00:11:20.000 --> 00:11:23.000
+is to bounce sound off something and look at the echo.
+
+00:11:23.000 --> 00:11:28.000
+But, probably -- one of my students, Ariel [unclear], said,
+
+00:11:28.000 --> 00:11:31.000
+"Could we measure the speed of light using the wave equation?"
+
+00:11:31.000 --> 00:11:33.000
+And all of you know the wave equation is
+
+00:11:33.000 --> 00:11:39.000
+the frequency times the wavelength of any wave ...
+
+00:11:39.000 --> 00:11:42.000
+is a constant. When the frequency goes up,
+
+00:11:42.000 --> 00:11:45.000
+the wavelength comes down. Wavelength goes up,
+
+00:11:45.000 --> 00:11:49.000
+frequency goes down. So, if we have a wave here --
+
+00:11:50.000 --> 00:11:54.000
+over here, that's what's interesting --
+
+00:11:54.000 --> 00:11:57.000
+as the pitch goes up, things get closer,
+
+00:11:57.000 --> 00:11:59.000
+pitch goes down, things stretch out.
+
+00:12:01.000 --> 00:12:03.000
+Right? This is simple physics.
+
+00:12:03.000 --> 00:12:06.000
+All of you know this from eighth grade, remember?
+
+00:12:06.000 --> 00:12:10.000
+What they didn't tell you in physics -- in eighth-grade physics --
+
+00:12:10.000 --> 00:12:13.000
+but they should have, and I wish they had,
+
+00:12:13.000 --> 00:12:17.000
+was that if you multiply the frequency times the wavelength of sound
+
+00:12:17.000 --> 00:12:21.000
+or light, you get a constant.
+
+00:12:21.000 --> 00:12:23.000
+And that constant is the speed of sound.
+
+00:12:24.000 --> 00:12:27.000
+So, in order to measure the speed of sound,
+
+00:12:27.000 --> 00:12:31.000
+all I've got to do is know its frequency. Well, that's easy.
+
+00:12:31.000 --> 00:12:33.000
+I've got a frequency counter right here.
+
+00:12:33.000 --> 00:12:38.000
+Set it up to around A, above A, above A. There's an A, more or less.
+
+00:12:38.000 --> 00:12:42.000
+Now, so I know the frequency.
+
+00:12:43.000 --> 00:12:47.000
+It's 1.76 kilohertz. I measure its wavelength.
+
+00:12:48.000 --> 00:12:51.000
+All I need now is to flip on another beam,
+
+00:12:51.000 --> 00:12:54.000
+and the bottom beam is me talking, right?
+
+00:12:54.000 --> 00:12:58.000
+So anytime I talk, you'd see it on the screen.
+
+00:12:59.000 --> 00:13:03.000
+I'll put it over here, and as I move this away from the source,
+
+00:13:03.000 --> 00:13:07.000
+you'll notice the spiral.
+
+00:13:08.000 --> 00:13:13.000
+The slinky moves. We're going through different nodes of the wave,
+
+00:13:13.000 --> 00:13:15.000
+coming out this way.
+
+00:13:15.000 --> 00:13:17.000
+Those of you who are physicists, I hear you rolling your eyes,
+
+00:13:17.000 --> 00:13:19.000
+but bear with me. (Laughter)
+
+00:13:19.000 --> 00:13:22.000
+To measure the wavelength,
+
+00:13:22.000 --> 00:13:27.000
+all I need to do is measure the distance from here --
+
+00:13:28.000 --> 00:13:30.000
+one full wave -- over to here.
+
+00:13:30.000 --> 00:13:33.000
+From here to here is the wavelength of sound.
+
+00:13:33.000 --> 00:13:40.000
+So, I'll put a measuring tape here, measuring tape here, move it back over to here.
+
+00:13:41.000 --> 00:13:45.000
+I've moved the microphone 20 centimeters.
+
+00:13:45.000 --> 00:13:50.000
+0.2 meters from here, back to here, 20 centimeters.
+
+00:13:52.000 --> 00:13:57.000
+OK, let's go back to Mr. Elmo.
+
+00:13:58.000 --> 00:14:04.000
+And we'll say the frequency is 1.76 kilohertz, or 1760.
+
+00:14:05.000 --> 00:14:09.000
+The wavelength was 0.2 meters.
+
+00:14:09.000 --> 00:14:13.000
+Let's figure out what this is.
+
+00:14:13.000 --> 00:14:20.000
+(Laughter) (Applause)
+
+00:14:21.000 --> 00:14:28.000
+1.76 times 0.2 over here is 352 meters per second.
+
+00:14:28.000 --> 00:14:34.000
+If you look it up in the book, it's really 343.
+
+00:14:34.000 --> 00:14:36.000
+But, here with kludgy material, and lousy drink --
+
+00:14:36.000 --> 00:14:40.000
+we've been able to measure the speed of sound to --
+
+00:14:41.000 --> 00:14:42.000
+not bad. Pretty good.
+
+00:14:43.000 --> 00:14:47.000
+All of which comes to what I wanted to say.
+
+00:14:48.000 --> 00:14:53.000
+Go back to this picture of me a million years ago.
+
+00:14:53.000 --> 00:14:58.000
+It was 1971, the Vietnam War was going on,
+
+00:14:58.000 --> 00:15:01.000
+and I'm like, "Oh my God!"
+
+00:15:01.000 --> 00:15:04.000
+I'm studying physics: Landau, Lipschitz, Resnick and Halliday.
+
+00:15:04.000 --> 00:15:06.000
+I'm going home for a midterm. A riot's going on on campus.
+
+00:15:06.000 --> 00:15:15.000
+There's a riot! Hey, Elmo's done: off.
+
+00:15:15.000 --> 00:15:17.000
+There's a riot going on on campus,
+
+00:15:17.000 --> 00:15:20.000
+and the police are chasing me, right?
+
+00:15:20.000 --> 00:15:23.000
+I'm walking across campus. Cop comes and looks at me and says,
+
+00:15:23.000 --> 00:15:25.000
+"You! You're a student."
+
+00:15:25.000 --> 00:15:27.000
+Pulls out a gun. Goes boom!
+
+00:15:27.000 --> 00:15:31.000
+And a tear gas canister the size of a Pepsi can goes by my head. Whoosh!
+
+00:15:31.000 --> 00:15:34.000
+I get a breath of tear gas and I can't breathe.
+
+00:15:34.000 --> 00:15:36.000
+This cop comes after me with a rifle.
+
+00:15:36.000 --> 00:15:38.000
+He wants to clunk me over the head!
+
+00:15:38.000 --> 00:15:41.000
+I'm saying, "I got to clear out of here!"
+
+00:15:41.000 --> 00:15:46.000
+I go running across campus quick as I can. I duck into Hayes Hall.
+
+00:15:47.000 --> 00:15:49.000
+It's one of these bell-tower buildings.
+
+00:15:49.000 --> 00:15:50.000
+The cop's chasing me.
+
+00:15:51.000 --> 00:15:53.000
+Chasing me up the first floor, second floor, third floor.
+
+00:15:53.000 --> 00:15:54.000
+Chases me into this room.
+
+00:15:54.000 --> 00:15:56.000
+The entranceway to the bell tower.
+
+00:15:56.000 --> 00:15:58.000
+I slam the door behind me, climb up,
+
+00:15:58.000 --> 00:16:00.000
+go past this place where I see a pendulum ticking.
+
+00:16:00.000 --> 00:16:02.000
+And I'm thinking, "Oh yeah,
+
+00:16:02.000 --> 00:16:04.000
+the square root of the length is proportional to its period." (Laughter)
+
+00:16:05.000 --> 00:16:07.000
+I keep climbing up, go back.
+
+00:16:07.000 --> 00:16:09.000
+I go to a place where a dowel splits off.
+
+00:16:09.000 --> 00:16:10.000
+There's a clock, clock, clock, clock.
+
+00:16:10.000 --> 00:16:12.000
+The time's going backwards because I'm inside of it.
+
+00:16:12.000 --> 00:16:16.000
+I'm thinking of Lorenz contractions and Einsteinian relativity.
+
+00:16:16.000 --> 00:16:19.000
+I climb up, and there's this place, way in the back,
+
+00:16:19.000 --> 00:16:21.000
+that you climb up this wooden ladder.
+
+00:16:21.000 --> 00:16:23.000
+I pop up the top, and there's a cupola.
+
+00:16:23.000 --> 00:16:25.000
+A dome, one of these ten-foot domes.
+
+00:16:25.000 --> 00:16:28.000
+I'm looking out and I'm seeing the cops bashing students' heads,
+
+00:16:28.000 --> 00:16:30.000
+shooting tear gas, and watching students throwing bricks.
+
+00:16:30.000 --> 00:16:33.000
+And I'm asking, "What am I doing here? Why am I here?"
+
+00:16:33.000 --> 00:16:36.000
+Then I remember what my English teacher in high school said.
+
+00:16:36.000 --> 00:16:40.000
+Namely, that when they cast bells,
+
+00:16:40.000 --> 00:16:43.000
+they write inscriptions on them.
+
+00:16:43.000 --> 00:16:47.000
+So, I wipe the pigeon manure off one of the bells, and I look at it.
+
+00:16:47.000 --> 00:16:48.000
+I'm asking myself, "Why am I here?"
+
+00:16:50.000 --> 00:16:54.000
+So, at this time, I'd like to tell you the words inscribed
+
+00:16:54.000 --> 00:16:58.000
+upon the Hayes Hall tower bells:
+
+00:16:58.000 --> 00:17:03.000
+"All truth is one.
+
+00:17:03.000 --> 00:17:09.000
+In this light, may science and religion endeavor here
+
+00:17:09.000 --> 00:17:13.000
+for the steady evolution of mankind, from darkness to light,
+
+00:17:13.000 --> 00:17:18.000
+from narrowness to broad-mindedness, from prejudice to tolerance.
+
+00:17:21.000 --> 00:17:28.000
+It is the voice of life, which calls us to come and learn."
+
+00:17:29.000 --> 00:17:31.000
+Thank you very much.
+

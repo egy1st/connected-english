@@ -1,0 +1,269 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.671
+So it turns out that mathematics is a very powerful language.
+
+00:00:03.671 --> 00:00:05.983
+It has generated considerable insight in physics,
+
+00:00:05.983 --> 00:00:08.083
+in biology and economics,
+
+00:00:08.083 --> 00:00:10.900
+but not that much in the humanities and in history.
+
+00:00:10.900 --> 00:00:13.183
+I think there's a belief that it's just impossible,
+
+00:00:13.183 --> 00:00:15.829
+that you cannot quantify the doings of mankind,
+
+00:00:15.829 --> 00:00:18.348
+that you cannot measure history.
+
+00:00:18.348 --> 00:00:19.875
+But I don't think that's right.
+
+00:00:19.875 --> 00:00:21.917
+I want to show you a couple of examples why.
+
+00:00:21.917 --> 00:00:24.875
+So my collaborator Erez and I were considering the following fact:
+
+00:00:24.875 --> 00:00:27.604
+that two kings separated by centuries
+
+00:00:27.604 --> 00:00:29.371
+will speak a very different language.
+
+00:00:29.371 --> 00:00:31.675
+That's a powerful historical force.
+
+00:00:31.675 --> 00:00:33.448
+So the king of England, Alfred the Great,
+
+00:00:33.448 --> 00:00:35.088
+will use a vocabulary and grammar
+
+00:00:35.088 --> 00:00:38.788
+that is quite different from the king of hip hop, Jay-Z.
+
+00:00:38.788 --> 00:00:40.454
+(Laughter)
+
+00:00:40.454 --> 00:00:42.625
+Now it's just the way it is.
+
+00:00:42.625 --> 00:00:44.917
+Language changes over time, and it's a powerful force.
+
+00:00:44.917 --> 00:00:47.204
+So Erez and I wanted to know more about that.
+
+00:00:47.204 --> 00:00:50.861
+So we paid attention to a particular grammatical rule, past-tense conjugation.
+
+00:00:50.861 --> 00:00:54.125
+So you just add "ed" to a verb at the end to signify the past.
+
+00:00:54.125 --> 00:00:56.052
+"Today I walk. Yesterday I walked."
+
+00:00:56.052 --> 00:00:57.396
+But some verbs are irregular.
+
+00:00:57.396 --> 00:00:58.792
+"Yesterday I thought."
+
+00:00:58.792 --> 00:01:00.458
+Now what's interesting about that
+
+00:01:00.458 --> 00:01:04.288
+is irregular verbs between Alfred and Jay-Z have become more regular.
+
+00:01:04.288 --> 00:01:07.023
+Like the verb "to wed" that you see here has become regular.
+
+00:01:07.023 --> 00:01:11.045
+So Erez and I followed the fate of over 100 irregular verbs
+
+00:01:11.045 --> 00:01:12.964
+through 12 centuries of English language,
+
+00:01:12.964 --> 00:01:15.875
+and we saw that there's actually a very simple mathematical pattern
+
+00:01:15.875 --> 00:01:18.417
+that captures this complex historical change,
+
+00:01:18.417 --> 00:01:22.077
+namely, if a verb is 100 times more frequent than another,
+
+00:01:22.077 --> 00:01:24.742
+it regularizes 10 times slower.
+
+00:01:24.742 --> 00:01:28.677
+That's a piece of history, but it comes in a mathematical wrapping.
+
+00:01:28.677 --> 00:01:32.331
+Now in some cases math can even help explain,
+
+00:01:32.331 --> 00:01:35.210
+or propose explanations for, historical forces.
+
+00:01:35.210 --> 00:01:37.042
+So here Steve Pinker and I
+
+00:01:37.042 --> 00:01:40.894
+were considering the magnitude of wars during the last two centuries.
+
+00:01:40.894 --> 00:01:43.389
+There's actually a well-known regularity to them
+
+00:01:43.389 --> 00:01:46.811
+where the number of wars that are 100 times deadlier
+
+00:01:46.811 --> 00:01:48.763
+is 10 times smaller.
+
+00:01:48.763 --> 00:01:52.107
+So there are 30 wars that are about as deadly as the Six Days War,
+
+00:01:52.107 --> 00:01:54.927
+but there's only four wars that are 100 times deadlier --
+
+00:01:54.927 --> 00:01:56.904
+like World War I.
+
+00:01:56.904 --> 00:01:59.827
+So what kind of historical mechanism can produce that?
+
+00:01:59.827 --> 00:02:01.827
+What's the origin of this?
+
+00:02:01.827 --> 00:02:04.092
+So Steve and I, through mathematical analysis,
+
+00:02:04.092 --> 00:02:08.333
+propose that there's actually a very simple phenomenon at the root of this,
+
+00:02:08.333 --> 00:02:10.023
+which lies in our brains.
+
+00:02:10.023 --> 00:02:12.042
+This is a very well-known feature
+
+00:02:12.042 --> 00:02:15.017
+in which we perceive quantities in relative ways --
+
+00:02:15.017 --> 00:02:18.733
+quantities like the intensity of light or the loudness of a sound.
+
+00:02:18.733 --> 00:02:24.042
+For instance, committing 10,000 soldiers to the next battle sounds like a lot.
+
+00:02:24.042 --> 00:02:27.486
+It's relatively enormous if you've already committed 1,000 soldiers previously.
+
+00:02:27.486 --> 00:02:29.313
+But it doesn't sound so much,
+
+00:02:29.313 --> 00:02:32.333
+it's not relatively enough, it won't make a difference
+
+00:02:32.333 --> 00:02:35.285
+if you've already committed 100,000 soldiers previously.
+
+00:02:35.285 --> 00:02:38.898
+So you see that because of the way we perceive quantities,
+
+00:02:38.898 --> 00:02:40.665
+as the war drags on,
+
+00:02:40.665 --> 00:02:43.750
+the number of soldiers committed to it and the casualties
+
+00:02:43.750 --> 00:02:45.433
+will increase not linearly --
+
+00:02:45.433 --> 00:02:47.321
+like 10,000, 11,000, 12,000 --
+
+00:02:47.321 --> 00:02:51.596
+but exponentially -- 10,000, later 20,000, later 40,000.
+
+00:02:51.596 --> 00:02:54.681
+And so that explains this pattern that we've seen before.
+
+00:02:54.681 --> 00:03:00.179
+So here mathematics is able to link a well-known feature of the individual mind
+
+00:03:00.179 --> 00:03:03.168
+with a long-term historical pattern
+
+00:03:03.168 --> 00:03:06.025
+that unfolds over centuries and across continents.
+
+00:03:06.025 --> 00:03:10.042
+So these types of examples, today there are just a few of them,
+
+00:03:10.042 --> 00:03:12.731
+but I think in the next decade they will become commonplace.
+
+00:03:12.731 --> 00:03:15.123
+The reason for that is that the historical record
+
+00:03:15.123 --> 00:03:17.583
+is becoming digitized at a very fast pace.
+
+00:03:17.583 --> 00:03:20.193
+So there's about 130 million books
+
+00:03:20.193 --> 00:03:22.504
+that have been written since the dawn of time.
+
+00:03:22.504 --> 00:03:24.958
+Companies like Google have digitized many of them --
+
+00:03:24.958 --> 00:03:26.542
+above 20 million actually.
+
+00:03:26.542 --> 00:03:30.120
+And when the stuff of history is available in digital form,
+
+00:03:30.120 --> 00:03:32.500
+it makes it possible for a mathematical analysis
+
+00:03:32.500 --> 00:03:34.875
+to very quickly and very conveniently
+
+00:03:34.875 --> 00:03:37.600
+review trends in our history and our culture.
+
+00:03:37.600 --> 00:03:40.321
+So I think in the next decade,
+
+00:03:40.321 --> 00:03:43.071
+the sciences and the humanities will come closer together
+
+00:03:43.071 --> 00:03:46.400
+to be able to answer deep questions about mankind.
+
+00:03:46.400 --> 00:03:50.521
+And I think that mathematics will be a very powerful language to do that.
+
+00:03:50.521 --> 00:03:53.667
+It will be able to reveal new trends in our history,
+
+00:03:53.667 --> 00:03:55.417
+sometimes to explain them,
+
+00:03:55.417 --> 00:03:58.723
+and maybe even in the future to predict what's going to happen.
+
+00:03:58.723 --> 00:04:00.214
+Thank you very much.
+
+00:04:00.214 --> 00:04:03.892
+(Applause)
+

@@ -1,0 +1,905 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+I got my first computer when I was a teenager growing up in Accra,
+
+00:00:05.000 --> 00:00:08.000
+and it was a really cool device.
+
+00:00:08.000 --> 00:00:13.000
+You could play games with it. You could program it in BASIC.
+
+00:00:13.000 --> 00:00:15.000
+And I was fascinated.
+
+00:00:15.000 --> 00:00:21.000
+So I went into the library to figure out how did this thing work.
+
+00:00:21.000 --> 00:00:26.000
+I read about how the CPU is constantly shuffling data back and forth
+
+00:00:26.000 --> 00:00:30.000
+between the memory, the RAM and the ALU,
+
+00:00:30.000 --> 00:00:32.000
+the arithmetic and logic unit.
+
+00:00:32.000 --> 00:00:36.000
+And I thought to myself, this CPU really has to work like crazy
+
+00:00:36.000 --> 00:00:40.000
+just to keep all this data moving through the system.
+
+00:00:40.000 --> 00:00:43.000
+But nobody was really worried about this.
+
+00:00:43.000 --> 00:00:45.000
+When computers were first introduced,
+
+00:00:45.000 --> 00:00:48.000
+they were said to be a million times faster than neurons.
+
+00:00:48.000 --> 00:00:53.000
+People were really excited. They thought they would soon outstrip
+
+00:00:53.000 --> 00:00:56.000
+the capacity of the brain.
+
+00:00:56.000 --> 00:00:59.000
+This is a quote, actually, from Alan Turing:
+
+00:00:59.000 --> 00:01:03.000
+"In 30 years, it will be as easy to ask a computer a question
+
+00:01:03.000 --> 00:01:05.000
+as to ask a person."
+
+00:01:05.000 --> 00:01:12.000
+This was in 1946. And now, in 2007, it's still not true.
+
+00:01:12.000 --> 00:01:16.000
+And so, the question is, why aren't we really seeing
+
+00:01:16.000 --> 00:01:20.000
+this kind of power in computers that we see in the brain?
+
+00:01:20.000 --> 00:01:24.000
+What people didn't realize, and I'm just beginning to realize right now,
+
+00:01:24.000 --> 00:01:26.000
+is that we pay a huge price for the speed
+
+00:01:26.000 --> 00:01:30.000
+that we claim is a big advantage of these computers.
+
+00:01:30.000 --> 00:01:32.000
+Let's take a look at some numbers.
+
+00:01:32.000 --> 00:01:36.000
+This is Blue Gene, the fastest computer in the world.
+
+00:01:36.000 --> 00:01:41.000
+It's got 120,000 processors; they can basically process
+
+00:01:41.000 --> 00:01:44.000
+10 quadrillion bits of information per second.
+
+00:01:44.000 --> 00:01:51.000
+That's 10 to the sixteenth. And they consume one and a half megawatts of power.
+
+00:01:51.000 --> 00:01:54.000
+So that would be really great, if you could add that
+
+00:01:54.000 --> 00:01:56.000
+to the production capacity in Tanzania.
+
+00:01:56.000 --> 00:01:58.000
+It would really boost the economy.
+
+00:01:58.000 --> 00:02:02.000
+Just to go back to the States,
+
+00:02:02.000 --> 00:02:04.000
+if you translate the amount of power or electricity
+
+00:02:04.000 --> 00:02:07.000
+this computer uses to the amount of households in the States,
+
+00:02:07.000 --> 00:02:11.000
+you get 1,200 households in the U.S.
+
+00:02:11.000 --> 00:02:13.000
+That's how much power this computer uses.
+
+00:02:13.000 --> 00:02:16.000
+Now, let's compare this with the brain.
+
+00:02:16.000 --> 00:02:21.000
+This is a picture of, actually Rory Sayres' girlfriend's brain.
+
+00:02:21.000 --> 00:02:23.000
+Rory is a graduate student at Stanford.
+
+00:02:23.000 --> 00:02:27.000
+He studies the brain using MRI, and he claims that
+
+00:02:27.000 --> 00:02:30.000
+this is the most beautiful brain that he has ever scanned.
+
+00:02:30.000 --> 00:02:32.000
+(Laughter)
+
+00:02:32.000 --> 00:02:35.000
+So that's true love, right there.
+
+00:02:35.000 --> 00:02:38.000
+Now, how much computation does the brain do?
+
+00:02:38.000 --> 00:02:40.000
+I estimate 10 to the 16 bits per second,
+
+00:02:40.000 --> 00:02:44.000
+which is actually about very similar to what Blue Gene does.
+
+00:02:44.000 --> 00:02:46.000
+So that's the question. The question is, how much --
+
+00:02:46.000 --> 00:02:49.000
+they are doing a similar amount of processing, similar amount of data --
+
+00:02:49.000 --> 00:02:54.000
+the question is how much energy or electricity does the brain use?
+
+00:02:54.000 --> 00:02:57.000
+And it's actually as much as your laptop computer:
+
+00:02:57.000 --> 00:02:59.000
+it's just 10 watts.
+
+00:02:59.000 --> 00:03:02.000
+So what we are doing right now with computers
+
+00:03:02.000 --> 00:03:05.000
+with the energy consumed by 1,200 houses,
+
+00:03:05.000 --> 00:03:10.000
+the brain is doing with the energy consumed by your laptop.
+
+00:03:10.000 --> 00:03:13.000
+So the question is, how is the brain able to achieve this kind of efficiency?
+
+00:03:13.000 --> 00:03:15.000
+And let me just summarize. So the bottom line:
+
+00:03:15.000 --> 00:03:19.000
+the brain processes information using 100,000 times less energy
+
+00:03:19.000 --> 00:03:23.000
+than we do right now with this computer technology that we have.
+
+00:03:23.000 --> 00:03:25.000
+How is the brain able to do this?
+
+00:03:25.000 --> 00:03:28.000
+Let's just take a look about how the brain works,
+
+00:03:28.000 --> 00:03:32.000
+and then I'll compare that with how computers work.
+
+00:03:32.000 --> 00:03:36.000
+So, this clip is from the PBS series, "The Secret Life of the Brain."
+
+00:03:36.000 --> 00:03:39.000
+It shows you these cells that process information.
+
+00:03:39.000 --> 00:03:40.000
+They are called neurons.
+
+00:03:40.000 --> 00:03:46.000
+They send little pulses of electricity down their processes to each other,
+
+00:03:46.000 --> 00:03:48.000
+and where they contact each other, those little pulses
+
+00:03:48.000 --> 00:03:50.000
+of electricity can jump from one neuron to the other.
+
+00:03:50.000 --> 00:03:53.000
+That process is called a synapse.
+
+00:03:53.000 --> 00:03:55.000
+You've got this huge network of cells interacting with each other --
+
+00:03:55.000 --> 00:03:57.000
+about 100 million of them,
+
+00:03:57.000 --> 00:04:01.000
+sending about 10 quadrillion of these pulses around every second.
+
+00:04:01.000 --> 00:04:07.000
+And that's basically what's going on in your brain right now as you're watching this.
+
+00:04:07.000 --> 00:04:09.000
+How does that compare with the way computers work?
+
+00:04:09.000 --> 00:04:11.000
+In the computer, you have all the data
+
+00:04:11.000 --> 00:04:13.000
+going through the central processing unit,
+
+00:04:13.000 --> 00:04:16.000
+and any piece of data basically has to go through that bottleneck,
+
+00:04:16.000 --> 00:04:20.000
+whereas in the brain, what you have is these neurons,
+
+00:04:20.000 --> 00:04:24.000
+and the data just really flows through a network of connections
+
+00:04:24.000 --> 00:04:26.000
+among the neurons. There's no bottleneck here.
+
+00:04:26.000 --> 00:04:30.000
+It's really a network in the literal sense of the word.
+
+00:04:30.000 --> 00:04:34.000
+The net is doing the work in the brain.
+
+00:04:34.000 --> 00:04:36.000
+If you just look at these two pictures,
+
+00:04:36.000 --> 00:04:38.000
+these kind of words pop into your mind.
+
+00:04:38.000 --> 00:04:42.000
+This is serial and it's rigid -- it's like cars on a freeway,
+
+00:04:42.000 --> 00:04:45.000
+everything has to happen in lockstep --
+
+00:04:45.000 --> 00:04:47.000
+whereas this is parallel and it's fluid.
+
+00:04:47.000 --> 00:04:50.000
+Information processing is very dynamic and adaptive.
+
+00:04:50.000 --> 00:04:54.000
+So I'm not the first to figure this out. This is a quote from Brian Eno:
+
+00:04:54.000 --> 00:04:58.000
+"the problem with computers is that there is not enough Africa in them."
+
+00:04:58.000 --> 00:05:04.000
+(Laughter)
+
+00:05:04.000 --> 00:05:07.000
+Brian actually said this in 1995.
+
+00:05:07.000 --> 00:05:10.000
+And nobody was listening then,
+
+00:05:10.000 --> 00:05:12.000
+but now people are beginning to listen
+
+00:05:12.000 --> 00:05:17.000
+because there's a pressing, technological problem that we face.
+
+00:05:17.000 --> 00:05:22.000
+And I'll just take you through that a little bit in the next few slides.
+
+00:05:22.000 --> 00:05:26.000
+This is -- it's actually really this remarkable convergence
+
+00:05:26.000 --> 00:05:31.000
+between the devices that we use to compute in computers,
+
+00:05:31.000 --> 00:05:35.000
+and the devices that our brains use to compute.
+
+00:05:35.000 --> 00:05:39.000
+The devices that computers use are what's called a transistor.
+
+00:05:39.000 --> 00:05:43.000
+This electrode here, called the gate, controls the flow of current
+
+00:05:43.000 --> 00:05:46.000
+from the source to the drain -- these two electrodes.
+
+00:05:46.000 --> 00:05:48.000
+And that current, electrical current,
+
+00:05:48.000 --> 00:05:54.000
+is carried by electrons, just like in your house and so on.
+
+00:05:54.000 --> 00:05:59.000
+And what you have here is, when you actually turn on the gate,
+
+00:05:59.000 --> 00:06:03.000
+you get an increase in the amount of current, and you get a steady flow of current.
+
+00:06:03.000 --> 00:06:07.000
+And when you turn off the gate, there's no current flowing through the device.
+
+00:06:07.000 --> 00:06:12.000
+Your computer uses this presence of current to represent a one,
+
+00:06:12.000 --> 00:06:16.000
+and the absence of current to represent a zero.
+
+00:06:16.000 --> 00:06:22.000
+Now, what's happening is that as transistors are getting smaller and smaller and smaller,
+
+00:06:22.000 --> 00:06:24.000
+they no longer behave like this.
+
+00:06:24.000 --> 00:06:29.000
+In fact, they are starting to behave like the device that neurons use to compute,
+
+00:06:29.000 --> 00:06:31.000
+which is called an ion channel.
+
+00:06:31.000 --> 00:06:33.000
+And this is a little protein molecule.
+
+00:06:33.000 --> 00:06:37.000
+I mean, neurons have thousands of these.
+
+00:06:37.000 --> 00:06:41.000
+And it sits in the membrane of the cell and it's got a pore in it.
+
+00:06:41.000 --> 00:06:44.000
+And these are individual potassium ions
+
+00:06:44.000 --> 00:06:46.000
+that are flowing through that pore.
+
+00:06:46.000 --> 00:06:48.000
+Now, this pore can open and close.
+
+00:06:48.000 --> 00:06:53.000
+But, when it's open, because these ions have to line up
+
+00:06:53.000 --> 00:06:58.000
+and flow through, one at a time, you get a kind of sporadic, not steady --
+
+00:06:58.000 --> 00:07:01.000
+it's a sporadic flow of current.
+
+00:07:01.000 --> 00:07:04.000
+And even when you close the pore -- which neurons can do,
+
+00:07:04.000 --> 00:07:09.000
+they can open and close these pores to generate electrical activity --
+
+00:07:09.000 --> 00:07:12.000
+even when it's closed, because these ions are so small,
+
+00:07:12.000 --> 00:07:15.000
+they can actually sneak through, a few can sneak through at a time.
+
+00:07:15.000 --> 00:07:18.000
+So, what you have is that when the pore is open,
+
+00:07:18.000 --> 00:07:20.000
+you get some current sometimes.
+
+00:07:20.000 --> 00:07:23.000
+These are your ones, but you've got a few zeros thrown in.
+
+00:07:23.000 --> 00:07:27.000
+And when it's closed, you have a zero,
+
+00:07:27.000 --> 00:07:30.000
+but you have a few ones thrown in.
+
+00:07:30.000 --> 00:07:33.000
+Now, this is starting to happen in transistors.
+
+00:07:33.000 --> 00:07:38.000
+And the reason why that's happening is that, right now, in 2007 --
+
+00:07:38.000 --> 00:07:42.000
+the technology that we are using -- a transistor is big enough
+
+00:07:42.000 --> 00:07:47.000
+that several electrons can flow through the channel simultaneously, side by side.
+
+00:07:47.000 --> 00:07:51.000
+In fact, there's about 12 electrons can all be flowing this way.
+
+00:07:51.000 --> 00:07:53.000
+And that means that a transistor corresponds
+
+00:07:53.000 --> 00:07:56.000
+to about 12 ion channels in parallel.
+
+00:07:56.000 --> 00:08:01.000
+Now, in a few years time, by 2015, we will shrink transistors so much.
+
+00:08:01.000 --> 00:08:06.000
+This is what Intel does to keep adding more cores onto the chip.
+
+00:08:06.000 --> 00:08:09.000
+Or your memory sticks that you have now can carry one gigabyte
+
+00:08:09.000 --> 00:08:11.000
+of stuff on them -- before, it was 256.
+
+00:08:11.000 --> 00:08:14.000
+Transistors are getting smaller to allow this to happen,
+
+00:08:14.000 --> 00:08:17.000
+and technology has really benefitted from that.
+
+00:08:17.000 --> 00:08:22.000
+But what's happening now is that in 2015, the transistor is going to become so small,
+
+00:08:22.000 --> 00:08:25.000
+that it corresponds to only one electron at a time
+
+00:08:25.000 --> 00:08:27.000
+can flow through that channel,
+
+00:08:27.000 --> 00:08:29.000
+and that corresponds to a single ion channel.
+
+00:08:29.000 --> 00:08:33.000
+And you start having the same kind of traffic jams that you have in the ion channel.
+
+00:08:33.000 --> 00:08:36.000
+The current will turn on and off at random,
+
+00:08:36.000 --> 00:08:38.000
+even when it's supposed to be on.
+
+00:08:38.000 --> 00:08:40.000
+And that means your computer is going to get
+
+00:08:40.000 --> 00:08:44.000
+its ones and zeros mixed up, and that's going to crash your machine.
+
+00:08:44.000 --> 00:08:48.000
+So, we are at the stage where we
+
+00:08:48.000 --> 00:08:51.000
+don't really know how to compute with these kinds of devices.
+
+00:08:51.000 --> 00:08:54.000
+And the only kind of thing -- the only thing we know right now
+
+00:08:54.000 --> 00:08:57.000
+that can compute with these kinds of devices are the brain.
+
+00:08:57.000 --> 00:09:01.000
+OK, so a computer picks a specific item of data from memory,
+
+00:09:01.000 --> 00:09:04.000
+it sends it into the processor or the ALU,
+
+00:09:04.000 --> 00:09:06.000
+and then it puts the result back into memory.
+
+00:09:06.000 --> 00:09:08.000
+That's the red path that's highlighted.
+
+00:09:08.000 --> 00:09:12.000
+The way brains work, I told you all, you have got all these neurons.
+
+00:09:12.000 --> 00:09:14.000
+And the way they represent information is
+
+00:09:14.000 --> 00:09:16.000
+they break up that data into little pieces
+
+00:09:16.000 --> 00:09:19.000
+that are represented by pulses and different neurons.
+
+00:09:19.000 --> 00:09:21.000
+So you have all these pieces of data
+
+00:09:21.000 --> 00:09:23.000
+distributed throughout the network.
+
+00:09:23.000 --> 00:09:26.000
+And then the way that you process that data to get a result
+
+00:09:26.000 --> 00:09:30.000
+is that you translate this pattern of activity into a new pattern of activity,
+
+00:09:30.000 --> 00:09:33.000
+just by it flowing through the network.
+
+00:09:33.000 --> 00:09:35.000
+So you set up these connections
+
+00:09:35.000 --> 00:09:38.000
+such that the input pattern just flows
+
+00:09:38.000 --> 00:09:40.000
+and generates the output pattern.
+
+00:09:40.000 --> 00:09:44.000
+What you see here is that there's these redundant connections.
+
+00:09:44.000 --> 00:09:48.000
+So if this piece of data or this piece of the data gets clobbered,
+
+00:09:48.000 --> 00:09:53.000
+it doesn't show up over here, these two pieces can activate the missing part
+
+00:09:53.000 --> 00:09:55.000
+with these redundant connections.
+
+00:09:55.000 --> 00:09:57.000
+So even when you go to these crappy devices
+
+00:09:57.000 --> 00:10:00.000
+where sometimes you want a one and you get a zero, and it doesn't show up,
+
+00:10:00.000 --> 00:10:02.000
+there's redundancy in the network
+
+00:10:02.000 --> 00:10:05.000
+that can actually recover the missing information.
+
+00:10:05.000 --> 00:10:08.000
+It makes the brain inherently robust.
+
+00:10:08.000 --> 00:10:11.000
+What you have here is a system where you store data locally.
+
+00:10:11.000 --> 00:10:15.000
+And it's brittle, because each of these steps has to be flawless,
+
+00:10:15.000 --> 00:10:18.000
+otherwise you lose that data, whereas in the brain, you have a system
+
+00:10:18.000 --> 00:10:22.000
+that stores data in a distributed way, and it's robust.
+
+00:10:22.000 --> 00:10:26.000
+What I want to basically talk about is my dream,
+
+00:10:26.000 --> 00:10:29.000
+which is to build a computer that works like the brain.
+
+00:10:29.000 --> 00:10:33.000
+This is something that we've been working on for the last couple of years.
+
+00:10:33.000 --> 00:10:36.000
+And I'm going to show you a system that we designed
+
+00:10:36.000 --> 00:10:39.000
+to model the retina,
+
+00:10:39.000 --> 00:10:44.000
+which is a piece of brain that lines the inside of your eyeball.
+
+00:10:44.000 --> 00:10:50.000
+We didn't do this by actually writing code, like you do in a computer.
+
+00:10:50.000 --> 00:10:53.000
+In fact, the processing that happens
+
+00:10:53.000 --> 00:10:55.000
+in that little piece of brain is very similar
+
+00:10:55.000 --> 00:10:56.000
+to the kind of processing that computers
+
+00:10:56.000 --> 00:11:00.000
+do when they stream video over the Internet.
+
+00:11:00.000 --> 00:11:01.000
+They want to compress the information --
+
+00:11:01.000 --> 00:11:05.000
+they just want to send the changes, what's new in the image, and so on --
+
+00:11:05.000 --> 00:11:08.000
+and that is how your eyeball
+
+00:11:08.000 --> 00:11:11.000
+is able to squeeze all that information down to your optic nerve,
+
+00:11:11.000 --> 00:11:13.000
+to send to the rest of the brain.
+
+00:11:13.000 --> 00:11:16.000
+Instead of doing this in software, or doing those kinds of algorithms,
+
+00:11:16.000 --> 00:11:19.000
+we went and talked to neurobiologists
+
+00:11:19.000 --> 00:11:23.000
+who have actually reverse engineered that piece of brain that's called the retina.
+
+00:11:23.000 --> 00:11:25.000
+And they figured out all the different cells,
+
+00:11:25.000 --> 00:11:28.000
+and they figured out the network, and we just took that network
+
+00:11:28.000 --> 00:11:32.000
+and we used it as the blueprint for the design of a silicon chip.
+
+00:11:32.000 --> 00:11:38.000
+So now the neurons are represented by little nodes or circuits on the chip,
+
+00:11:38.000 --> 00:11:43.000
+and the connections among the neurons are represented, actually modeled by transistors.
+
+00:11:43.000 --> 00:11:45.000
+And these transistors are behaving essentially
+
+00:11:45.000 --> 00:11:48.000
+just like ion channels behave in the brain.
+
+00:11:48.000 --> 00:11:53.000
+It will give you the same kind of robust architecture that I described.
+
+00:11:53.000 --> 00:11:57.000
+Here is actually what our artificial eye looks like.
+
+00:11:57.000 --> 00:12:02.000
+The retina chip that we designed sits behind this lens here.
+
+00:12:02.000 --> 00:12:04.000
+And the chip -- I'm going to show you a video
+
+00:12:04.000 --> 00:12:07.000
+that the silicon retina put out of its output
+
+00:12:07.000 --> 00:12:10.000
+when it was looking at Kareem Zaghloul,
+
+00:12:10.000 --> 00:12:12.000
+who's the student who designed this chip.
+
+00:12:12.000 --> 00:12:14.000
+Let me explain what you're going to see, OK,
+
+00:12:14.000 --> 00:12:17.000
+because it's putting out different kinds of information,
+
+00:12:17.000 --> 00:12:19.000
+it's not as straightforward as a camera.
+
+00:12:19.000 --> 00:12:22.000
+The retina chip extracts four different kinds of information.
+
+00:12:22.000 --> 00:12:25.000
+It extracts regions with dark contrast,
+
+00:12:25.000 --> 00:12:28.000
+which will show up on the video as red.
+
+00:12:28.000 --> 00:12:32.000
+And it extracts regions with white or light contrast,
+
+00:12:32.000 --> 00:12:34.000
+which will show up on the video as green.
+
+00:12:34.000 --> 00:12:36.000
+This is Kareem's dark eyes
+
+00:12:36.000 --> 00:12:39.000
+and that's the white background that you see here.
+
+00:12:39.000 --> 00:12:41.000
+And then it also extracts movement.
+
+00:12:41.000 --> 00:12:43.000
+When Kareem moves his head to the right,
+
+00:12:43.000 --> 00:12:45.000
+you will see this blue activity there;
+
+00:12:45.000 --> 00:12:48.000
+it represents regions where the contrast is increasing in the image,
+
+00:12:48.000 --> 00:12:51.000
+that's where it's going from dark to light.
+
+00:12:51.000 --> 00:12:53.000
+And you also see this yellow activity,
+
+00:12:53.000 --> 00:12:57.000
+which represents regions where contrast is decreasing;
+
+00:12:57.000 --> 00:12:59.000
+it's going from light to dark.
+
+00:12:59.000 --> 00:13:02.000
+And these four types of information --
+
+00:13:02.000 --> 00:13:06.000
+your optic nerve has about a million fibers in it,
+
+00:13:06.000 --> 00:13:09.000
+and 900,000 of those fibers
+
+00:13:09.000 --> 00:13:11.000
+send these four types of information.
+
+00:13:11.000 --> 00:13:15.000
+So we are really duplicating the kind of signals that you have on the optic nerve.
+
+00:13:15.000 --> 00:13:18.000
+What you notice here is that these snapshots
+
+00:13:18.000 --> 00:13:22.000
+taken from the output of the retina chip are very sparse, right?
+
+00:13:22.000 --> 00:13:24.000
+It doesn't light up green everywhere in the background,
+
+00:13:24.000 --> 00:13:27.000
+only on the edges, and then in the hair, and so on.
+
+00:13:27.000 --> 00:13:28.000
+And this is the same thing you see
+
+00:13:28.000 --> 00:13:32.000
+when people compress video to send: they want to make it very sparse,
+
+00:13:32.000 --> 00:13:35.000
+because that file is smaller. And this is what the retina is doing,
+
+00:13:35.000 --> 00:13:39.000
+and it's doing it just with the circuitry, and how this network of neurons
+
+00:13:39.000 --> 00:13:42.000
+that are interacting in there, which we've captured on the chip.
+
+00:13:42.000 --> 00:13:45.000
+But the point that I want to make -- I'll show you up here.
+
+00:13:45.000 --> 00:13:48.000
+So this image here is going to look like these ones,
+
+00:13:48.000 --> 00:13:50.000
+but here I'll show you that we can reconstruct the image,
+
+00:13:50.000 --> 00:13:55.000
+so, you know, you can almost recognize Kareem in that top part there.
+
+00:13:55.000 --> 00:13:57.000
+And so, here you go.
+
+00:14:06.000 --> 00:14:09.000
+Yes, so that's the idea.
+
+00:14:09.000 --> 00:14:11.000
+When you stand still, you just see the light and dark contrasts.
+
+00:14:11.000 --> 00:14:13.000
+But when it's moving back and forth,
+
+00:14:13.000 --> 00:14:16.000
+the retina picks up these changes.
+
+00:14:16.000 --> 00:14:17.000
+And that's why, you know, when you're sitting here
+
+00:14:17.000 --> 00:14:19.000
+and something happens in your background,
+
+00:14:19.000 --> 00:14:21.000
+you merely move your eyes to it.
+
+00:14:21.000 --> 00:14:23.000
+There are these cells that detect change
+
+00:14:23.000 --> 00:14:25.000
+and you move your attention to it.
+
+00:14:25.000 --> 00:14:27.000
+So those are very important for catching somebody
+
+00:14:27.000 --> 00:14:29.000
+who's trying to sneak up on you.
+
+00:14:29.000 --> 00:14:32.000
+Let me just end by saying that this is what happens
+
+00:14:32.000 --> 00:14:35.000
+when you put Africa in a piano, OK.
+
+00:14:35.000 --> 00:14:38.000
+This is a steel drum here that has been modified,
+
+00:14:38.000 --> 00:14:41.000
+and that's what happens when you put Africa in a piano.
+
+00:14:41.000 --> 00:14:45.000
+And what I would like us to do is put Africa in the computer,
+
+00:14:45.000 --> 00:14:47.000
+and come up with a new kind of computer
+
+00:14:47.000 --> 00:14:50.000
+that will generate thought, imagination, be creative and things like that.
+
+00:14:50.000 --> 00:14:52.000
+Thank you.
+
+00:14:52.000 --> 00:14:54.000
+(Applause)
+
+00:14:54.000 --> 00:14:56.000
+Chris Anderson: Question for you, Kwabena.
+
+00:14:56.000 --> 00:15:00.000
+Do you put together in your mind the work you're doing,
+
+00:15:00.000 --> 00:15:03.000
+the future of Africa, this conference --
+
+00:15:03.000 --> 00:15:06.000
+what connections can we make, if any, between them?
+
+00:15:06.000 --> 00:15:08.000
+Kwabena Boahen: Yes, like I said at the beginning,
+
+00:15:08.000 --> 00:15:12.000
+I got my first computer when I was a teenager, growing up in Accra.
+
+00:15:12.000 --> 00:15:16.000
+And I had this gut reaction that this was the wrong way to do it.
+
+00:15:16.000 --> 00:15:19.000
+It was very brute force; it was very inelegant.
+
+00:15:19.000 --> 00:15:21.000
+I don't think that I would've had that reaction,
+
+00:15:21.000 --> 00:15:24.000
+if I'd grown up reading all this science fiction,
+
+00:15:24.000 --> 00:15:28.000
+hearing about RD2D2, whatever it was called, and just -- you know,
+
+00:15:28.000 --> 00:15:29.000
+buying into this hype about computers.
+
+00:15:29.000 --> 00:15:31.000
+I was coming at it from a different perspective,
+
+00:15:31.000 --> 00:15:33.000
+where I was bringing that different perspective
+
+00:15:33.000 --> 00:15:35.000
+to bear on the problem.
+
+00:15:35.000 --> 00:15:38.000
+And I think a lot of people in Africa have this different perspective,
+
+00:15:38.000 --> 00:15:40.000
+and I think that's going to impact technology.
+
+00:15:40.000 --> 00:15:42.000
+And that's going to impact how it's going to evolve.
+
+00:15:42.000 --> 00:15:44.000
+And I think you're going to be able to see, use that infusion,
+
+00:15:44.000 --> 00:15:46.000
+to come up with new things,
+
+00:15:46.000 --> 00:15:49.000
+because you're coming from a different perspective.
+
+00:15:49.000 --> 00:15:53.000
+I think we can contribute. We can dream like everybody else.
+
+00:15:53.000 --> 00:15:55.000
+CA: Thanks Kwabena, that was really interesting.
+
+00:15:55.000 --> 00:15:56.000
+Thank you.
+
+00:15:56.000 --> 00:15:58.000
+(Applause)
+

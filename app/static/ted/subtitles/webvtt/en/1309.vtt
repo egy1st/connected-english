@@ -1,0 +1,839 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+I study how the brain processes
+
+00:00:02.000 --> 00:00:04.000
+information. That is, how it takes
+
+00:00:04.000 --> 00:00:06.000
+information in from the outside world, and
+
+00:00:06.000 --> 00:00:08.000
+converts it into patterns of electrical activity,
+
+00:00:08.000 --> 00:00:10.000
+and then how it uses those patterns
+
+00:00:10.000 --> 00:00:12.000
+to allow you to do things --
+
+00:00:12.000 --> 00:00:14.000
+to see, hear, to reach for an object.
+
+00:00:14.000 --> 00:00:16.000
+So I'm really a basic scientist, not
+
+00:00:16.000 --> 00:00:18.000
+a clinician, but in the last year and a half
+
+00:00:18.000 --> 00:00:20.000
+I've started to switch over, to use what
+
+00:00:20.000 --> 00:00:22.000
+we've been learning about these patterns
+
+00:00:22.000 --> 00:00:25.000
+of activity to develop prosthetic devices,
+
+00:00:25.000 --> 00:00:27.000
+and what I wanted to do today is show you
+
+00:00:27.000 --> 00:00:29.000
+an example of this.
+
+00:00:29.000 --> 00:00:31.000
+It's really our first foray into this.
+
+00:00:31.000 --> 00:00:33.000
+It's the development of a prosthetic device
+
+00:00:33.000 --> 00:00:35.000
+for treating blindness.
+
+00:00:35.000 --> 00:00:37.000
+So let me start in on that problem.
+
+00:00:37.000 --> 00:00:39.000
+There are 10 million people in the U.S.
+
+00:00:39.000 --> 00:00:41.000
+and many more worldwide who are blind
+
+00:00:41.000 --> 00:00:43.000
+or are facing blindness due to diseases
+
+00:00:43.000 --> 00:00:45.000
+of the retina, diseases like
+
+00:00:45.000 --> 00:00:47.000
+macular degeneration, and there's little
+
+00:00:47.000 --> 00:00:49.000
+that can be done for them.
+
+00:00:49.000 --> 00:00:51.000
+There are some drug treatments, but
+
+00:00:51.000 --> 00:00:53.000
+they're only effective on a small fraction
+
+00:00:53.000 --> 00:00:55.000
+of the population. And so, for the vast
+
+00:00:55.000 --> 00:00:57.000
+majority of patients, their best hope for
+
+00:00:57.000 --> 00:00:59.000
+regaining sight is through prosthetic devices.
+
+00:00:59.000 --> 00:01:01.000
+The problem is that current prosthetics
+
+00:01:01.000 --> 00:01:03.000
+don't work very well. They're still very
+
+00:01:03.000 --> 00:01:05.000
+limited in the vision that they can provide.
+
+00:01:05.000 --> 00:01:07.000
+And so, you know, for example, with these
+
+00:01:07.000 --> 00:01:09.000
+devices, patients can see simple things
+
+00:01:09.000 --> 00:01:11.000
+like bright lights and high contrast edges,
+
+00:01:11.000 --> 00:01:13.000
+not very much more, so nothing close
+
+00:01:13.000 --> 00:01:16.000
+to normal vision has been possible.
+
+00:01:16.000 --> 00:01:18.000
+So what I'm going to tell you about today
+
+00:01:18.000 --> 00:01:20.000
+is a device that we've been working on
+
+00:01:20.000 --> 00:01:22.000
+that I think has the potential to make
+
+00:01:22.000 --> 00:01:24.000
+a difference, to be much more effective,
+
+00:01:24.000 --> 00:01:26.000
+and what I wanted to do is show you
+
+00:01:26.000 --> 00:01:28.000
+how it works. Okay, so let me back up a
+
+00:01:28.000 --> 00:01:30.000
+little bit and show you how a normal retina
+
+00:01:30.000 --> 00:01:32.000
+works first so you can see the problem
+
+00:01:32.000 --> 00:01:34.000
+that we were trying to solve.
+
+00:01:34.000 --> 00:01:36.000
+Here you have a retina.
+
+00:01:36.000 --> 00:01:38.000
+So you have an image, a retina, and a brain.
+
+00:01:38.000 --> 00:01:40.000
+So when you look at something, like this image
+
+00:01:40.000 --> 00:01:42.000
+of this baby's face, it goes into your eye
+
+00:01:42.000 --> 00:01:44.000
+and it lands on your retina, on the front-end
+
+00:01:44.000 --> 00:01:46.000
+cells here, the photoreceptors.
+
+00:01:46.000 --> 00:01:48.000
+Then what happens is the retinal circuitry,
+
+00:01:48.000 --> 00:01:50.000
+the middle part, goes to work on it,
+
+00:01:50.000 --> 00:01:52.000
+and what it does is it performs operations
+
+00:01:52.000 --> 00:01:54.000
+on it, it extracts information from it, and it
+
+00:01:54.000 --> 00:01:56.000
+converts that information into a code.
+
+00:01:56.000 --> 00:01:58.000
+And the code is in the form of these patterns
+
+00:01:58.000 --> 00:02:00.000
+of electrical pulses that get sent
+
+00:02:00.000 --> 00:02:02.000
+up to the brain, and so the key thing is
+
+00:02:02.000 --> 00:02:04.000
+that the image ultimately gets converted
+
+00:02:04.000 --> 00:02:06.000
+into a code. And when I say code,
+
+00:02:06.000 --> 00:02:08.000
+I do literally mean code.
+
+00:02:08.000 --> 00:02:11.000
+Like this pattern of pulses here actually means "baby's face,"
+
+00:02:11.000 --> 00:02:13.000
+and so when the brain gets this pattern
+
+00:02:13.000 --> 00:02:15.000
+of pulses, it knows that what was out there
+
+00:02:15.000 --> 00:02:17.000
+was a baby's face, and if it
+
+00:02:17.000 --> 00:02:19.000
+got a different pattern it would know
+
+00:02:19.000 --> 00:02:21.000
+that what was out there was, say, a dog,
+
+00:02:21.000 --> 00:02:23.000
+or another pattern would be a house.
+
+00:02:23.000 --> 00:02:25.000
+Anyway, you get the idea.
+
+00:02:25.000 --> 00:02:27.000
+And, of course, in real life, it's all dynamic,
+
+00:02:27.000 --> 00:02:29.000
+meaning that it's changing all the time,
+
+00:02:29.000 --> 00:02:31.000
+so the patterns of pulses are changing
+
+00:02:31.000 --> 00:02:33.000
+all the time because the world you're
+
+00:02:33.000 --> 00:02:36.000
+looking at is changing all the time too.
+
+00:02:36.000 --> 00:02:38.000
+So, you know, it's sort of a complicated
+
+00:02:38.000 --> 00:02:40.000
+thing. You have these patterns of pulses
+
+00:02:40.000 --> 00:02:42.000
+coming out of your eye every millisecond
+
+00:02:42.000 --> 00:02:44.000
+telling your brain what it is that you're seeing.
+
+00:02:44.000 --> 00:02:46.000
+So what happens when a person
+
+00:02:46.000 --> 00:02:48.000
+gets a retinal degenerative disease like
+
+00:02:48.000 --> 00:02:50.000
+macular degeneration? What happens is
+
+00:02:50.000 --> 00:02:52.000
+is that, the front-end cells die,
+
+00:02:52.000 --> 00:02:54.000
+the photoreceptors die, and over time,
+
+00:02:54.000 --> 00:02:56.000
+all the cells and the circuits that are
+
+00:02:56.000 --> 00:02:58.000
+connected to them, they die too.
+
+00:02:58.000 --> 00:03:00.000
+Until the only things that you have left
+
+00:03:00.000 --> 00:03:02.000
+are these cells here, the output cells,
+
+00:03:02.000 --> 00:03:04.000
+the ones that send the signals to the brain,
+
+00:03:04.000 --> 00:03:06.000
+but because of all that degeneration
+
+00:03:06.000 --> 00:03:08.000
+they aren't sending any signals anymore.
+
+00:03:08.000 --> 00:03:10.000
+They aren't getting any input, so
+
+00:03:10.000 --> 00:03:12.000
+the person's brain no longer gets
+
+00:03:12.000 --> 00:03:14.000
+any visual information --
+
+00:03:14.000 --> 00:03:17.000
+that is, he or she is blind.
+
+00:03:17.000 --> 00:03:19.000
+So, a solution to the problem, then,
+
+00:03:19.000 --> 00:03:21.000
+would be to build a device that could mimic
+
+00:03:21.000 --> 00:03:23.000
+the actions of that front-end circuitry
+
+00:03:23.000 --> 00:03:25.000
+and send signals to the retina's output cells,
+
+00:03:25.000 --> 00:03:27.000
+and they can go back to doing their
+
+00:03:27.000 --> 00:03:29.000
+normal job of sending signals to the brain.
+
+00:03:29.000 --> 00:03:31.000
+So this is what we've been working on,
+
+00:03:31.000 --> 00:03:33.000
+and this is what our prosthetic does.
+
+00:03:33.000 --> 00:03:35.000
+So it consists of two parts, what we call
+
+00:03:35.000 --> 00:03:37.000
+an encoder and a transducer.
+
+00:03:37.000 --> 00:03:39.000
+And so the encoder does just
+
+00:03:39.000 --> 00:03:41.000
+what I was saying: it mimics the actions
+
+00:03:41.000 --> 00:03:43.000
+of the front-end circuitry -- so it takes images
+
+00:03:43.000 --> 00:03:45.000
+in and converts them into the retina's code.
+
+00:03:45.000 --> 00:03:47.000
+And then the transducer then makes the
+
+00:03:47.000 --> 00:03:49.000
+output cells send the code on up
+
+00:03:49.000 --> 00:03:51.000
+to the brain, and the result is
+
+00:03:51.000 --> 00:03:54.000
+a retinal prosthetic that can produce
+
+00:03:54.000 --> 00:03:56.000
+normal retinal output.
+
+00:03:56.000 --> 00:03:58.000
+So a completely blind retina,
+
+00:03:58.000 --> 00:04:00.000
+even one with no front-end circuitry at all,
+
+00:04:00.000 --> 00:04:02.000
+no photoreceptors,
+
+00:04:02.000 --> 00:04:04.000
+can now send out normal signals,
+
+00:04:04.000 --> 00:04:07.000
+signals that the brain can understand.
+
+00:04:07.000 --> 00:04:09.000
+So no other device has been able
+
+00:04:09.000 --> 00:04:11.000
+to do this.
+
+00:04:11.000 --> 00:04:13.000
+Okay, so I just want to take
+
+00:04:13.000 --> 00:04:15.000
+a sentence or two to say something about
+
+00:04:15.000 --> 00:04:17.000
+the encoder and what it's doing, because
+
+00:04:17.000 --> 00:04:19.000
+it's really the key part and it's
+
+00:04:19.000 --> 00:04:21.000
+sort of interesting and kind of cool.
+
+00:04:21.000 --> 00:04:23.000
+I'm not sure "cool" is really the right word, but
+
+00:04:23.000 --> 00:04:25.000
+you know what I mean.
+
+00:04:25.000 --> 00:04:27.000
+So what it's doing is, it's replacing
+
+00:04:27.000 --> 00:04:29.000
+the retinal circuitry, really the guts of
+
+00:04:29.000 --> 00:04:31.000
+the retinal circuitry, with a set of equations,
+
+00:04:31.000 --> 00:04:33.000
+a set of equations that we can implement
+
+00:04:33.000 --> 00:04:35.000
+on a chip. So it's just math.
+
+00:04:35.000 --> 00:04:38.000
+In other words, we're not literally replacing
+
+00:04:38.000 --> 00:04:40.000
+the components of the retina.
+
+00:04:40.000 --> 00:04:42.000
+It's not like we're making a little mini-device
+
+00:04:42.000 --> 00:04:44.000
+for each of the different cell types.
+
+00:04:44.000 --> 00:04:46.000
+We've just abstracted what the
+
+00:04:46.000 --> 00:04:48.000
+retina's doing with a set of equations.
+
+00:04:48.000 --> 00:04:50.000
+And so, in a way, the equations are serving
+
+00:04:50.000 --> 00:04:52.000
+as sort of a codebook. An image comes in,
+
+00:04:52.000 --> 00:04:55.000
+goes through the set of equations,
+
+00:04:55.000 --> 00:04:57.000
+and out comes streams of electrical pulses,
+
+00:04:57.000 --> 00:05:01.000
+just like a normal retina would produce.
+
+00:05:01.000 --> 00:05:03.000
+Now let me put my money
+
+00:05:03.000 --> 00:05:05.000
+where my mouth is and show you that
+
+00:05:05.000 --> 00:05:07.000
+we can actually produce normal output,
+
+00:05:07.000 --> 00:05:09.000
+and what the implications of this are.
+
+00:05:09.000 --> 00:05:11.000
+Here are three sets of
+
+00:05:11.000 --> 00:05:13.000
+firing patterns. The top one is from
+
+00:05:13.000 --> 00:05:15.000
+a normal animal, the middle one is from
+
+00:05:15.000 --> 00:05:17.000
+a blind animal that's been treated with
+
+00:05:17.000 --> 00:05:19.000
+this encoder-transducer device, and the
+
+00:05:19.000 --> 00:05:21.000
+bottom one is from a blind animal treated
+
+00:05:21.000 --> 00:05:23.000
+with a standard prosthetic.
+
+00:05:23.000 --> 00:05:25.000
+So the bottom one is the state-of-the-art
+
+00:05:25.000 --> 00:05:27.000
+device that's out there right now, which is
+
+00:05:27.000 --> 00:05:29.000
+basically made up of light detectors,
+
+00:05:29.000 --> 00:05:31.000
+but no encoder. So what we did was we
+
+00:05:31.000 --> 00:05:33.000
+presented movies of everyday things --
+
+00:05:33.000 --> 00:05:35.000
+people, babies, park benches,
+
+00:05:35.000 --> 00:05:37.000
+you know, regular things happening -- and
+
+00:05:37.000 --> 00:05:39.000
+we recorded the responses from the retinas
+
+00:05:39.000 --> 00:05:41.000
+of these three groups of animals.
+
+00:05:41.000 --> 00:05:43.000
+Now just to orient you, each box is showing
+
+00:05:43.000 --> 00:05:45.000
+the firing patterns of several cells,
+
+00:05:45.000 --> 00:05:47.000
+and just as in the previous slides,
+
+00:05:47.000 --> 00:05:49.000
+each row is a different cell,
+
+00:05:49.000 --> 00:05:51.000
+and I just made the pulses a little bit smaller
+
+00:05:51.000 --> 00:05:54.000
+and thinner so I could show you
+
+00:05:54.000 --> 00:05:56.000
+a long stretch of data.
+
+00:05:56.000 --> 00:05:58.000
+So as you can see, the firing patterns
+
+00:05:58.000 --> 00:06:00.000
+from the blind animal treated with
+
+00:06:00.000 --> 00:06:02.000
+the encoder-transducer really do very
+
+00:06:02.000 --> 00:06:04.000
+closely match the normal firing patterns --
+
+00:06:04.000 --> 00:06:06.000
+and it's not perfect, but it's pretty good --
+
+00:06:06.000 --> 00:06:08.000
+and the blind animal treated with
+
+00:06:08.000 --> 00:06:10.000
+the standard prosthetic,
+
+00:06:10.000 --> 00:06:12.000
+the responses really don't.
+
+00:06:12.000 --> 00:06:15.000
+And so with the standard method,
+
+00:06:15.000 --> 00:06:17.000
+the cells do fire, they just don't fire
+
+00:06:17.000 --> 00:06:19.000
+in the normal firing patterns because
+
+00:06:19.000 --> 00:06:21.000
+they don't have the right code.
+
+00:06:21.000 --> 00:06:23.000
+How important is this?
+
+00:06:23.000 --> 00:06:25.000
+What's the potential impact
+
+00:06:25.000 --> 00:06:28.000
+on a patient's ability to see?
+
+00:06:28.000 --> 00:06:30.000
+So I'm just going to show you one
+
+00:06:30.000 --> 00:06:32.000
+bottom-line experiment that answers this,
+
+00:06:32.000 --> 00:06:34.000
+and of course I've got a lot of other data,
+
+00:06:34.000 --> 00:06:36.000
+so if you're interested I'm happy
+
+00:06:36.000 --> 00:06:38.000
+to show more. So the experiment
+
+00:06:38.000 --> 00:06:40.000
+is called a reconstruction experiment.
+
+00:06:40.000 --> 00:06:42.000
+So what we did is we took a moment
+
+00:06:42.000 --> 00:06:45.000
+in time from these recordings and asked,
+
+00:06:45.000 --> 00:06:47.000
+what was the retina seeing at that moment?
+
+00:06:47.000 --> 00:06:49.000
+Can we reconstruct what the retina
+
+00:06:49.000 --> 00:06:51.000
+was seeing from the responses
+
+00:06:51.000 --> 00:06:53.000
+from the firing patterns?
+
+00:06:53.000 --> 00:06:56.000
+So, when we did this for responses
+
+00:06:56.000 --> 00:06:59.000
+from the standard method and from
+
+00:06:59.000 --> 00:07:01.000
+our encoder and transducer.
+
+00:07:01.000 --> 00:07:03.000
+So let me show you, and I'm going to
+
+00:07:03.000 --> 00:07:05.000
+start with the standard method first.
+
+00:07:05.000 --> 00:07:07.000
+So you can see that it's pretty limited,
+
+00:07:07.000 --> 00:07:09.000
+and because the firing patterns aren't
+
+00:07:09.000 --> 00:07:11.000
+in the right code, they're very limited in
+
+00:07:11.000 --> 00:07:13.000
+what they can tell you about
+
+00:07:13.000 --> 00:07:15.000
+what's out there. So you can see that
+
+00:07:15.000 --> 00:07:17.000
+there's something there, but it's not so clear
+
+00:07:17.000 --> 00:07:19.000
+what that something is, and this just sort of
+
+00:07:19.000 --> 00:07:21.000
+circles back to what I was saying in the
+
+00:07:21.000 --> 00:07:23.000
+beginning, that with the standard method,
+
+00:07:23.000 --> 00:07:25.000
+patients can see high-contrast edges, they
+
+00:07:25.000 --> 00:07:27.000
+can see light, but it doesn't easily go
+
+00:07:27.000 --> 00:07:29.000
+further than that. So what was
+
+00:07:29.000 --> 00:07:32.000
+the image? It was a baby's face.
+
+00:07:32.000 --> 00:07:34.000
+So what about with our approach,
+
+00:07:34.000 --> 00:07:36.000
+adding the code? And you can see
+
+00:07:36.000 --> 00:07:38.000
+that it's much better. Not only can you
+
+00:07:38.000 --> 00:07:40.000
+tell that it's a baby's face, but you can
+
+00:07:40.000 --> 00:07:42.000
+tell that it's this baby's face, which is a
+
+00:07:42.000 --> 00:07:44.000
+really challenging task.
+
+00:07:44.000 --> 00:07:46.000
+So on the left is the encoder
+
+00:07:46.000 --> 00:07:48.000
+alone, and on the right is from an actual
+
+00:07:48.000 --> 00:07:50.000
+blind retina, so the encoder and the transducer.
+
+00:07:50.000 --> 00:07:52.000
+But the key one really is the encoder alone,
+
+00:07:52.000 --> 00:07:54.000
+because we can team up the encoder with
+
+00:07:54.000 --> 00:07:56.000
+the different transducer.
+
+00:07:56.000 --> 00:07:58.000
+This is just actually the first one that we tried.
+
+00:07:58.000 --> 00:08:00.000
+I just wanted to say something about the standard method.
+
+00:08:00.000 --> 00:08:02.000
+When this first came out, it was just a really
+
+00:08:02.000 --> 00:08:04.000
+exciting thing, the idea that you
+
+00:08:04.000 --> 00:08:07.000
+even make a blind retina respond at all.
+
+00:08:07.000 --> 00:08:10.000
+But there was this limiting factor,
+
+00:08:10.000 --> 00:08:12.000
+the issue of the code, and how to make
+
+00:08:12.000 --> 00:08:14.000
+the cells respond better,
+
+00:08:14.000 --> 00:08:16.000
+produce normal responses,
+
+00:08:16.000 --> 00:08:18.000
+and so this was our contribution.
+
+00:08:18.000 --> 00:08:20.000
+Now I just want to wrap up,
+
+00:08:20.000 --> 00:08:22.000
+and as I was mentioning earlier
+
+00:08:22.000 --> 00:08:24.000
+of course I have a lot of other data
+
+00:08:24.000 --> 00:08:26.000
+if you're interested, but I just wanted to give
+
+00:08:26.000 --> 00:08:28.000
+this sort of basic idea
+
+00:08:28.000 --> 00:08:31.000
+of being able to communicate
+
+00:08:31.000 --> 00:08:33.000
+with the brain in its language, and
+
+00:08:33.000 --> 00:08:36.000
+the potential power of being able to do that.
+
+00:08:36.000 --> 00:08:38.000
+So it's different from the motor prosthetics
+
+00:08:38.000 --> 00:08:40.000
+where you're communicating from the brain
+
+00:08:40.000 --> 00:08:42.000
+to a device. Here we have to communicate
+
+00:08:42.000 --> 00:08:44.000
+from the outside world
+
+00:08:44.000 --> 00:08:46.000
+into the brain and be understood,
+
+00:08:46.000 --> 00:08:48.000
+and be understood by the brain.
+
+00:08:48.000 --> 00:08:50.000
+And then the last thing I wanted
+
+00:08:50.000 --> 00:08:52.000
+to say, really, is to emphasize
+
+00:08:52.000 --> 00:08:54.000
+that the idea generalizes.
+
+00:08:54.000 --> 00:08:56.000
+So the same strategy that we used
+
+00:08:56.000 --> 00:08:58.000
+to find the code for the retina we can also
+
+00:08:58.000 --> 00:09:00.000
+use to find the code for other areas,
+
+00:09:00.000 --> 00:09:02.000
+for example, the auditory system and
+
+00:09:02.000 --> 00:09:04.000
+the motor system, so for treating deafness
+
+00:09:04.000 --> 00:09:06.000
+and for motor disorders.
+
+00:09:06.000 --> 00:09:08.000
+So just the same way that we were able to
+
+00:09:08.000 --> 00:09:10.000
+jump over the damaged
+
+00:09:10.000 --> 00:09:12.000
+circuitry in the retina to get to the retina's
+
+00:09:12.000 --> 00:09:14.000
+output cells, we can jump over the
+
+00:09:14.000 --> 00:09:16.000
+damaged circuitry in the cochlea
+
+00:09:16.000 --> 00:09:18.000
+to get the auditory nerve,
+
+00:09:18.000 --> 00:09:20.000
+or jump over damaged areas in the cortex,
+
+00:09:20.000 --> 00:09:23.000
+in the motor cortex, to bridge the gap
+
+00:09:23.000 --> 00:09:25.000
+produced by a stroke.
+
+00:09:25.000 --> 00:09:27.000
+I just want to end with a simple
+
+00:09:27.000 --> 00:09:29.000
+message that understanding the code
+
+00:09:29.000 --> 00:09:31.000
+is really, really important, and if we
+
+00:09:31.000 --> 00:09:33.000
+can understand the code,
+
+00:09:33.000 --> 00:09:35.000
+the language of the brain, things become
+
+00:09:35.000 --> 00:09:37.000
+possible that didn't seem obviously
+
+00:09:37.000 --> 00:09:39.000
+possible before. Thank you.
+
+00:09:39.000 --> 00:09:44.000
+(Applause)
+

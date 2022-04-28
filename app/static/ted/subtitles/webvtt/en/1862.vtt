@@ -1,0 +1,468 @@
+WEBVTT
+
+00:00:00.613 --> 00:00:03.652
+So why do we learn mathematics?
+
+00:00:03.652 --> 00:00:06.200
+Essentially, for three reasons:
+
+00:00:06.200 --> 00:00:07.828
+calculation,
+
+00:00:07.828 --> 00:00:09.728
+application,
+
+00:00:09.728 --> 00:00:12.415
+and last, and unfortunately least
+
+00:00:12.415 --> 00:00:14.520
+in terms of the time we give it,
+
+00:00:14.520 --> 00:00:16.442
+inspiration.
+
+00:00:16.442 --> 00:00:18.714
+Mathematics is the science of patterns,
+
+00:00:18.714 --> 00:00:22.072
+and we study it to learn how to think logically,
+
+00:00:22.072 --> 00:00:24.599
+critically and creatively,
+
+00:00:24.599 --> 00:00:27.525
+but too much of the mathematics
+that we learn in school
+
+00:00:27.525 --> 00:00:29.844
+is not effectively motivated,
+
+00:00:29.844 --> 00:00:31.269
+and when our students ask,
+
+00:00:31.269 --> 00:00:32.944
+"Why are we learning this?"
+
+00:00:32.944 --> 00:00:34.905
+then they often hear that they'll need it
+
+00:00:34.905 --> 00:00:38.170
+in an upcoming math class or on a future test.
+
+00:00:38.170 --> 00:00:39.972
+But wouldn't it be great
+
+00:00:39.972 --> 00:00:42.490
+if every once in a while we did mathematics
+
+00:00:42.490 --> 00:00:45.439
+simply because it was fun or beautiful
+
+00:00:45.439 --> 00:00:47.529
+or because it excited the mind?
+
+00:00:47.529 --> 00:00:49.251
+Now, I know many people have not
+
+00:00:49.251 --> 00:00:51.570
+had the opportunity to see how this can happen,
+
+00:00:51.570 --> 00:00:53.399
+so let me give you a quick example
+
+00:00:53.399 --> 00:00:55.740
+with my favorite collection of numbers,
+
+00:00:55.740 --> 00:00:58.468
+the Fibonacci numbers. (Applause)
+
+00:00:58.468 --> 00:01:00.520
+Yeah! I already have Fibonacci fans here.
+
+00:01:00.520 --> 00:01:01.836
+That's great.
+
+00:01:01.836 --> 00:01:03.952
+Now these numbers can be appreciated
+
+00:01:03.952 --> 00:01:05.830
+in many different ways.
+
+00:01:05.830 --> 00:01:08.539
+From the standpoint of calculation,
+
+00:01:08.539 --> 00:01:10.216
+they're as easy to understand
+
+00:01:10.216 --> 00:01:12.770
+as one plus one, which is two.
+
+00:01:12.770 --> 00:01:14.773
+Then one plus two is three,
+
+00:01:14.773 --> 00:01:17.787
+two plus three is five, three plus five is eight,
+
+00:01:17.787 --> 00:01:19.312
+and so on.
+
+00:01:19.312 --> 00:01:21.489
+Indeed, the person we call Fibonacci
+
+00:01:21.489 --> 00:01:24.669
+was actually named Leonardo of Pisa,
+
+00:01:24.669 --> 00:01:27.722
+and these numbers appear in his book "Liber Abaci,"
+
+00:01:27.722 --> 00:01:29.372
+which taught the Western world
+
+00:01:29.372 --> 00:01:32.199
+the methods of arithmetic that we use today.
+
+00:01:32.199 --> 00:01:33.920
+In terms of applications,
+
+00:01:33.920 --> 00:01:36.103
+Fibonacci numbers appear in nature
+
+00:01:36.103 --> 00:01:37.960
+surprisingly often.
+
+00:01:37.960 --> 00:01:39.700
+The number of petals on a flower
+
+00:01:39.700 --> 00:01:41.562
+is typically a Fibonacci number,
+
+00:01:41.562 --> 00:01:44.332
+or the number of spirals on a sunflower
+
+00:01:44.332 --> 00:01:45.743
+or a pineapple
+
+00:01:45.743 --> 00:01:48.137
+tends to be a Fibonacci number as well.
+
+00:01:48.137 --> 00:01:51.640
+In fact, there are many more
+applications of Fibonacci numbers,
+
+00:01:51.640 --> 00:01:54.200
+but what I find most inspirational about them
+
+00:01:54.200 --> 00:01:56.934
+are the beautiful number patterns they display.
+
+00:01:56.934 --> 00:01:59.128
+Let me show you one of my favorites.
+
+00:01:59.128 --> 00:02:01.349
+Suppose you like to square numbers,
+
+00:02:01.349 --> 00:02:04.024
+and frankly, who doesn't? (Laughter)
+
+00:02:04.040 --> 00:02:06.280
+Let's look at the squares
+
+00:02:06.280 --> 00:02:08.131
+of the first few Fibonacci numbers.
+
+00:02:08.131 --> 00:02:10.161
+So one squared is one,
+
+00:02:10.161 --> 00:02:12.478
+two squared is four, three squared is nine,
+
+00:02:12.478 --> 00:02:15.651
+five squared is 25, and so on.
+
+00:02:15.651 --> 00:02:17.552
+Now, it's no surprise
+
+00:02:17.552 --> 00:02:20.380
+that when you add consecutive Fibonacci numbers,
+
+00:02:20.380 --> 00:02:22.412
+you get the next Fibonacci number. Right?
+
+00:02:22.412 --> 00:02:23.807
+That's how they're created.
+
+00:02:23.807 --> 00:02:25.580
+But you wouldn't expect anything special
+
+00:02:25.580 --> 00:02:28.656
+to happen when you add the squares together.
+
+00:02:28.656 --> 00:02:30.002
+But check this out.
+
+00:02:30.002 --> 00:02:32.003
+One plus one gives us two,
+
+00:02:32.003 --> 00:02:34.765
+and one plus four gives us five.
+
+00:02:34.765 --> 00:02:36.960
+And four plus nine is 13,
+
+00:02:36.960 --> 00:02:40.173
+nine plus 25 is 34,
+
+00:02:40.173 --> 00:02:42.832
+and yes, the pattern continues.
+
+00:02:42.832 --> 00:02:44.453
+In fact, here's another one.
+
+00:02:44.453 --> 00:02:46.297
+Suppose you wanted to look at
+
+00:02:46.297 --> 00:02:48.795
+adding the squares of
+the first few Fibonacci numbers.
+
+00:02:48.795 --> 00:02:50.403
+Let's see what we get there.
+
+00:02:50.403 --> 00:02:52.542
+So one plus one plus four is six.
+
+00:02:52.542 --> 00:02:55.547
+Add nine to that, we get 15.
+
+00:02:55.547 --> 00:02:57.760
+Add 25, we get 40.
+
+00:02:57.760 --> 00:03:00.551
+Add 64, we get 104.
+
+00:03:00.551 --> 00:03:02.203
+Now look at those numbers.
+
+00:03:02.203 --> 00:03:04.587
+Those are not Fibonacci numbers,
+
+00:03:04.587 --> 00:03:06.466
+but if you look at them closely,
+
+00:03:06.466 --> 00:03:08.349
+you'll see the Fibonacci numbers
+
+00:03:08.349 --> 00:03:10.527
+buried inside of them.
+
+00:03:10.527 --> 00:03:12.597
+Do you see it? I'll show it to you.
+
+00:03:12.597 --> 00:03:16.330
+Six is two times three, 15 is three times five,
+
+00:03:16.330 --> 00:03:18.389
+40 is five times eight,
+
+00:03:18.389 --> 00:03:21.317
+two, three, five, eight, who do we appreciate?
+
+00:03:21.317 --> 00:03:22.504
+(Laughter)
+
+00:03:22.504 --> 00:03:24.659
+Fibonacci! Of course.
+
+00:03:24.659 --> 00:03:28.442
+Now, as much fun as it is to discover these patterns,
+
+00:03:28.442 --> 00:03:30.924
+it's even more satisfying to understand
+
+00:03:30.924 --> 00:03:32.882
+why they are true.
+
+00:03:32.882 --> 00:03:34.771
+Let's look at that last equation.
+
+00:03:34.771 --> 00:03:38.639
+Why should the squares of one, one,
+two, three, five and eight
+
+00:03:38.639 --> 00:03:41.184
+add up to eight times 13?
+
+00:03:41.184 --> 00:03:44.145
+I'll show you by drawing a simple picture.
+
+00:03:44.145 --> 00:03:46.832
+We'll start with a one-by-one square
+
+00:03:46.832 --> 00:03:50.997
+and next to that put another one-by-one square.
+
+00:03:50.997 --> 00:03:54.405
+Together, they form a one-by-two rectangle.
+
+00:03:54.405 --> 00:03:56.954
+Beneath that, I'll put a two-by-two square,
+
+00:03:56.954 --> 00:03:59.749
+and next to that, a three-by-three square,
+
+00:03:59.749 --> 00:04:01.750
+beneath that, a five-by-five square,
+
+00:04:01.750 --> 00:04:03.662
+and then an eight-by-eight square,
+
+00:04:03.662 --> 00:04:06.234
+creating one giant rectangle, right?
+
+00:04:06.234 --> 00:04:08.150
+Now let me ask you a simple question:
+
+00:04:08.150 --> 00:04:11.806
+what is the area of the rectangle?
+
+00:04:11.806 --> 00:04:13.777
+Well, on the one hand,
+
+00:04:13.777 --> 00:04:16.307
+it's the sum of the areas
+
+00:04:16.307 --> 00:04:18.173
+of the squares inside it, right?
+
+00:04:18.173 --> 00:04:19.532
+Just as we created it.
+
+00:04:19.532 --> 00:04:21.704
+It's one squared plus one squared
+
+00:04:21.704 --> 00:04:23.937
+plus two squared plus three squared
+
+00:04:23.937 --> 00:04:26.536
+plus five squared plus eight squared. Right?
+
+00:04:26.536 --> 00:04:28.393
+That's the area.
+
+00:04:28.393 --> 00:04:30.719
+On the other hand, because it's a rectangle,
+
+00:04:30.719 --> 00:04:34.367
+the area is equal to its height times its base,
+
+00:04:34.367 --> 00:04:36.414
+and the height is clearly eight,
+
+00:04:36.414 --> 00:04:39.317
+and the base is five plus eight,
+
+00:04:39.317 --> 00:04:43.255
+which is the next Fibonacci number, 13. Right?
+
+00:04:43.255 --> 00:04:46.618
+So the area is also eight times 13.
+
+00:04:46.618 --> 00:04:48.880
+Since we've correctly calculated the area
+
+00:04:48.880 --> 00:04:50.567
+two different ways,
+
+00:04:50.567 --> 00:04:52.739
+they have to be the same number,
+
+00:04:52.739 --> 00:04:56.130
+and that's why the squares of one,
+one, two, three, five and eight
+
+00:04:56.130 --> 00:04:58.421
+add up to eight times 13.
+
+00:04:58.421 --> 00:05:00.795
+Now, if we continue this process,
+
+00:05:00.795 --> 00:05:04.773
+we'll generate rectangles of the form 13 by 21,
+
+00:05:04.773 --> 00:05:07.167
+21 by 34, and so on.
+
+00:05:07.167 --> 00:05:08.576
+Now check this out.
+
+00:05:08.576 --> 00:05:10.769
+If you divide 13 by eight,
+
+00:05:10.769 --> 00:05:12.812
+you get 1.625.
+
+00:05:12.812 --> 00:05:16.239
+And if you divide the larger number
+by the smaller number,
+
+00:05:16.239 --> 00:05:19.112
+then these ratios get closer and closer
+
+00:05:19.112 --> 00:05:21.765
+to about 1.618,
+
+00:05:21.765 --> 00:05:25.066
+known to many people as the Golden Ratio,
+
+00:05:25.066 --> 00:05:27.662
+a number which has fascinated mathematicians,
+
+00:05:27.662 --> 00:05:30.908
+scientists and artists for centuries.
+
+00:05:30.908 --> 00:05:33.139
+Now, I show all this to you because,
+
+00:05:33.139 --> 00:05:35.164
+like so much of mathematics,
+
+00:05:35.164 --> 00:05:37.131
+there's a beautiful side to it
+
+00:05:37.131 --> 00:05:39.146
+that I fear does not get enough attention
+
+00:05:39.146 --> 00:05:40.713
+in our schools.
+
+00:05:40.713 --> 00:05:43.546
+We spend lots of time learning about calculation,
+
+00:05:43.546 --> 00:05:46.302
+but let's not forget about application,
+
+00:05:46.302 --> 00:05:49.756
+including, perhaps, the most
+important application of all,
+
+00:05:49.756 --> 00:05:51.832
+learning how to think.
+
+00:05:51.832 --> 00:05:53.789
+If I could summarize this in one sentence,
+
+00:05:53.789 --> 00:05:55.250
+it would be this:
+
+00:05:55.250 --> 00:05:58.610
+Mathematics is not just solving for x,
+
+00:05:58.610 --> 00:06:01.535
+it's also figuring out why.
+
+00:06:01.535 --> 00:06:03.350
+Thank you very much.
+
+00:06:03.350 --> 00:06:07.757
+(Applause)
+

@@ -1,0 +1,1157 @@
+WEBVTT
+
+00:00:00.025 --> 00:00:02.722
+So a few weeks ago, a friend
+
+00:00:02.722 --> 00:00:04.976
+of mine gave this toy car to his
+
+00:00:04.976 --> 00:00:06.587
+8-year-old son.
+
+00:00:06.587 --> 00:00:09.408
+But instead of going into a store and buying one,
+
+00:00:09.408 --> 00:00:12.203
+like we do normally, he went to this
+
+00:00:12.203 --> 00:00:14.118
+website and he downloaded
+
+00:00:14.118 --> 00:00:16.287
+a file, and then he printed it
+
+00:00:16.287 --> 00:00:18.142
+on this printer.
+
+00:00:18.142 --> 00:00:20.121
+So this idea that you can
+
+00:00:20.121 --> 00:00:22.068
+manufacture objects
+
+00:00:22.068 --> 00:00:23.631
+digitally using these machines
+
+00:00:23.631 --> 00:00:25.309
+is something that The Economist magazine
+
+00:00:25.309 --> 00:00:27.939
+defined as the Third Industrial Revolution.
+
+00:00:27.939 --> 00:00:31.782
+Actually, I argue that there is another revolution
+
+00:00:31.782 --> 00:00:34.380
+going on, and it's the one that has to do with
+
+00:00:34.380 --> 00:00:36.908
+open-source hardware and the maker's movement,
+
+00:00:36.908 --> 00:00:40.667
+because the printer that my friend used
+
+00:00:40.667 --> 00:00:43.284
+to print the toy is actually open-source.
+
+00:00:43.284 --> 00:00:46.777
+So you go to the same website, you can download all the files
+
+00:00:46.777 --> 00:00:50.534
+that you need in order to make that printer:
+
+00:00:50.534 --> 00:00:54.046
+the construction files, the hardware, the software,
+
+00:00:54.046 --> 00:00:56.855
+all the instruction is there.
+
+00:00:56.855 --> 00:00:58.975
+And also this is part of a large
+
+00:00:58.975 --> 00:01:01.575
+community where there are thousands of people
+
+00:01:01.575 --> 00:01:03.535
+around the world that are actually
+
+00:01:03.535 --> 00:01:05.078
+making these kinds of printers,
+
+00:01:05.078 --> 00:01:06.550
+and there's a lot of innovation
+
+00:01:06.550 --> 00:01:08.464
+happening because it's all open-source.
+
+00:01:08.464 --> 00:01:12.352
+You don't need anybody's permission to create something great.
+
+00:01:12.352 --> 00:01:14.713
+And that space is like
+
+00:01:14.713 --> 00:01:17.509
+the personal computer in 1976,
+
+00:01:17.509 --> 00:01:19.866
+like the Apples with the other companies are fighting,
+
+00:01:19.867 --> 00:01:22.248
+and we will see in a few years,
+
+00:01:22.248 --> 00:01:25.375
+there will be the Apple of this kind of market come out.
+
+00:01:25.381 --> 00:01:29.184
+Well, there's also another interesting thing.
+
+00:01:29.184 --> 00:01:31.148
+I said the electronics are open-source, because at the heart
+
+00:01:31.148 --> 00:01:34.129
+of this printer there is something I'm really attached to:
+
+00:01:34.129 --> 00:01:37.080
+these Arduino boards, the motherboard that sort of
+
+00:01:37.080 --> 00:01:39.287
+powers this printer, is a project
+
+00:01:39.287 --> 00:01:41.710
+I've been working on for the past seven years.
+
+00:01:41.710 --> 00:01:43.271
+It's an open-source project.
+
+00:01:43.271 --> 00:01:46.292
+I worked with these friends of mine that I have here.
+
+00:01:46.292 --> 00:01:48.946
+So the five of us, two Americans, two Italians
+
+00:01:48.946 --> 00:01:51.927
+and a Spaniard, we — (Laughter)
+
+00:01:51.927 --> 00:01:55.002
+You know, it's a worldwide project. (Laughter)
+
+00:01:55.002 --> 00:01:56.871
+So we came together in this
+
+00:01:56.871 --> 00:01:59.494
+design institute called the Interaction Design Institute
+
+00:01:59.494 --> 00:02:01.643
+Ivrea, which was teaching
+
+00:02:01.643 --> 00:02:03.941
+interaction design, this idea that you can take
+
+00:02:03.941 --> 00:02:06.492
+design from the simple shape
+
+00:02:06.492 --> 00:02:08.269
+of an object and you can move it
+
+00:02:08.269 --> 00:02:10.313
+forward to design the way you interact with things.
+
+00:02:10.321 --> 00:02:13.213
+Well, when you design an object that's supposed to interact
+
+00:02:13.213 --> 00:02:15.021
+with a human being, if you make a foam model
+
+00:02:15.021 --> 00:02:17.844
+of a mobile phone, it doesn't make any sense.
+
+00:02:17.844 --> 00:02:19.350
+You have to have something that
+
+00:02:19.350 --> 00:02:21.857
+actually interacts with people.
+
+00:02:21.857 --> 00:02:24.976
+So, we worked on Arduino and
+
+00:02:24.976 --> 00:02:26.792
+a lot of other projects there to
+
+00:02:26.792 --> 00:02:28.693
+create platforms that would be
+
+00:02:28.693 --> 00:02:30.877
+simple for our students to use,
+
+00:02:30.877 --> 00:02:33.338
+so that our students could just build things that worked,
+
+00:02:33.338 --> 00:02:37.396
+but they don't have five years to become an electronics engineer. We have one month.
+
+00:02:37.396 --> 00:02:40.051
+So how do I make something that even a kid can use?
+
+00:02:40.051 --> 00:02:42.952
+And actually, with Arduino,
+
+00:02:42.952 --> 00:02:45.375
+we have kids like Sylvia that you see here,
+
+00:02:45.375 --> 00:02:47.247
+that actually make projects with Arduino.
+
+00:02:47.247 --> 00:02:49.855
+I have 11-year-old kids stop me and show me
+
+00:02:49.855 --> 00:02:52.674
+stuff they built for Arduino that's really
+
+00:02:52.674 --> 00:02:54.415
+scary to see the capabilities
+
+00:02:54.415 --> 00:02:56.838
+that kids have when you give them the tools.
+
+00:02:56.838 --> 00:02:59.818
+So let's look at what happens when you make a tool
+
+00:02:59.818 --> 00:03:02.662
+that anybody can just pick up and build something quickly,
+
+00:03:02.665 --> 00:03:04.533
+so one of the examples that I like to sort of
+
+00:03:04.533 --> 00:03:06.447
+kick off this discussion is this
+
+00:03:06.447 --> 00:03:08.177
+example of this cat feeder.
+
+00:03:08.177 --> 00:03:10.744
+The gentleman who made this project had two cats.
+
+00:03:10.744 --> 00:03:12.478
+One was sick and the other one
+
+00:03:12.478 --> 00:03:14.856
+was healthy, so he had to make
+
+00:03:14.856 --> 00:03:16.544
+sure they ate the proper food.
+
+00:03:16.544 --> 00:03:18.703
+So he made this thing that recognizes the cat
+
+00:03:18.703 --> 00:03:20.840
+from a chip mounted inside
+
+00:03:20.840 --> 00:03:23.560
+on the collar of the cat, and opens the door
+
+00:03:23.560 --> 00:03:25.304
+and the cat can eat the food.
+
+00:03:25.304 --> 00:03:27.094
+This is made by recycling an old CD player
+
+00:03:27.094 --> 00:03:29.301
+that you can get from an old computer,
+
+00:03:29.307 --> 00:03:32.763
+some cardboard, tape, couple of sensors, a few blinking LEDs,
+
+00:03:32.763 --> 00:03:35.551
+and then suddenly you have a tool. You build something
+
+00:03:35.551 --> 00:03:37.488
+that you cannot find on the market.
+
+00:03:37.488 --> 00:03:40.252
+And I like this phrase: "Scratch your own itch."
+
+00:03:40.252 --> 00:03:42.847
+If you have an idea, you just go and you make it.
+
+00:03:42.847 --> 00:03:44.796
+This is the equivalent of sketching on paper
+
+00:03:44.796 --> 00:03:47.368
+done with electronics.
+
+00:03:47.368 --> 00:03:49.116
+So one of the features that I
+
+00:03:49.116 --> 00:03:50.944
+think is important about our work
+
+00:03:50.944 --> 00:03:53.716
+is that our hardware, on top of
+
+00:03:53.716 --> 00:03:55.906
+being made with love in Italy —
+
+00:03:55.906 --> 00:03:57.659
+as you can see from the
+
+00:03:57.659 --> 00:03:59.688
+back of the circuit — (Laughter)
+
+00:03:59.688 --> 00:04:01.528
+is that it's open,
+
+00:04:01.528 --> 00:04:03.496
+so we publish all the design
+
+00:04:03.496 --> 00:04:05.224
+files for the circuit online,
+
+00:04:05.224 --> 00:04:07.207
+so you can download it and
+
+00:04:07.207 --> 00:04:09.047
+you can actually use it to
+
+00:04:09.047 --> 00:04:11.680
+make something, or to modify, to learn.
+
+00:04:11.680 --> 00:04:12.949
+You know, when I was learning about programming,
+
+00:04:12.949 --> 00:04:14.826
+I learned by looking at other people's code,
+
+00:04:14.826 --> 00:04:18.255
+or looking at other people's circuits in magazines.
+
+00:04:18.255 --> 00:04:20.471
+And this is a good way to learn,
+
+00:04:20.471 --> 00:04:22.712
+by looking at other people's work.
+
+00:04:22.712 --> 00:04:25.304
+So the different elements of the project are all open,
+
+00:04:25.304 --> 00:04:27.007
+so the hardware is released
+
+00:04:27.007 --> 00:04:29.071
+with a Creative Commons license.
+
+00:04:29.071 --> 00:04:31.097
+So, you know, I like this idea that hardware becomes
+
+00:04:31.097 --> 00:04:33.236
+like a piece of culture that you share
+
+00:04:33.236 --> 00:04:35.195
+and you build upon, like it was
+
+00:04:35.195 --> 00:04:38.832
+a song or a poem with Creative Commons.
+
+00:04:38.832 --> 00:04:41.508
+Or, the software is GPL, so it's open-source as well.
+
+00:04:41.508 --> 00:04:44.935
+The documentation and the hands-on teaching
+
+00:04:44.935 --> 00:04:48.518
+methodology is also open-source and released as the Creative Commons.
+
+00:04:48.518 --> 00:04:50.521
+Just the name is protected so
+
+00:04:50.521 --> 00:04:53.267
+that we can make sure that we can tell people
+
+00:04:53.267 --> 00:04:55.907
+what is Arduino and what isn't.
+
+00:04:55.907 --> 00:04:57.579
+Now, Arduino itself is made of
+
+00:04:57.579 --> 00:04:59.819
+a lot of different open-source components
+
+00:04:59.819 --> 00:05:02.570
+that maybe individually are hard to use for
+
+00:05:02.570 --> 00:05:04.677
+a 12-year-old kid, so Arduino
+
+00:05:04.677 --> 00:05:06.530
+wraps everything together into
+
+00:05:06.530 --> 00:05:08.796
+a mashup of open-source technologies
+
+00:05:08.796 --> 00:05:10.668
+where we try to give them the
+
+00:05:10.668 --> 00:05:12.875
+best user experience to get something done quickly.
+
+00:05:12.875 --> 00:05:15.746
+So you have situations like this,
+
+00:05:15.746 --> 00:05:17.684
+where some people in Chile
+
+00:05:17.684 --> 00:05:20.476
+decided to make their own boards instead of buying them,
+
+00:05:20.482 --> 00:05:22.407
+to organize a workshop and
+
+00:05:22.407 --> 00:05:25.507
+to save money. Or there are
+
+00:05:25.507 --> 00:05:27.452
+companies that make their own
+
+00:05:27.452 --> 00:05:29.221
+variations of Arduino that fit
+
+00:05:29.221 --> 00:05:30.972
+in a certain market, and there's
+
+00:05:30.972 --> 00:05:33.685
+probably, maybe like a 150 of them
+
+00:05:33.685 --> 00:05:35.477
+or something at the moment.
+
+00:05:35.477 --> 00:05:37.365
+This one is made by a company
+
+00:05:37.365 --> 00:05:39.309
+called Adafruit, which is run by
+
+00:05:39.309 --> 00:05:41.621
+this woman called Limor Fried,
+
+00:05:41.621 --> 00:05:43.228
+also known as Ladyada, who is
+
+00:05:43.228 --> 00:05:45.949
+one of the heroes of the open-source hardware movement
+
+00:05:45.949 --> 00:05:47.483
+and the maker movement.
+
+00:05:47.483 --> 00:05:50.437
+So, this idea that you have a new, sort of
+
+00:05:50.437 --> 00:05:53.221
+turbo-charged DIY community
+
+00:05:53.221 --> 00:05:54.901
+that believes in open-source,
+
+00:05:54.901 --> 00:05:57.101
+in collaboration, collaborates
+
+00:05:57.101 --> 00:05:59.542
+online, collaborates in different spaces.
+
+00:05:59.542 --> 00:06:02.664
+There is this magazine called Make that sort of gathered
+
+00:06:02.664 --> 00:06:04.204
+all these people and sort of put them together
+
+00:06:04.204 --> 00:06:06.636
+as a community, and you see
+
+00:06:06.636 --> 00:06:08.664
+a very technical project explained in a
+
+00:06:08.664 --> 00:06:11.521
+very simple language, beautifully typeset.
+
+00:06:11.521 --> 00:06:13.089
+Or you have websites,
+
+00:06:13.089 --> 00:06:15.350
+like this one, like Instructables,
+
+00:06:15.350 --> 00:06:17.354
+where people actually teach each other about anything.
+
+00:06:17.354 --> 00:06:19.099
+So this one is about Arduino projects,
+
+00:06:19.099 --> 00:06:22.660
+the page you see on the screen, but effectively here you can
+
+00:06:22.660 --> 00:06:25.238
+learn how to make a cake and everything else.
+
+00:06:25.238 --> 00:06:28.038
+So let's look at some projects.
+
+00:06:28.038 --> 00:06:29.654
+So this one is a quadcopter.
+
+00:06:29.654 --> 00:06:31.369
+It's a small model helicopter.
+
+00:06:31.369 --> 00:06:33.639
+In a way, it's a toy, no?
+
+00:06:33.639 --> 00:06:35.932
+And so this one was military technology
+
+00:06:35.932 --> 00:06:37.853
+a few years ago, and now it's
+
+00:06:37.853 --> 00:06:40.495
+open-source, easy to use, you can buy it online.
+
+00:06:40.495 --> 00:06:44.413
+DIY Drones is the community; they do this thing called ArduCopter.
+
+00:06:44.413 --> 00:06:47.424
+But then somebody actually launched this start-up called
+
+00:06:47.426 --> 00:06:49.619
+Matternet, where they figured out that you could
+
+00:06:49.619 --> 00:06:51.917
+use this to actually transport
+
+00:06:51.917 --> 00:06:54.350
+things from one village to another in Africa,
+
+00:06:54.350 --> 00:06:55.918
+and the fact that this was easy to find,
+
+00:06:55.918 --> 00:06:58.530
+open-source, easy to hack, enabled them
+
+00:06:58.530 --> 00:07:00.668
+to prototype their company really quickly.
+
+00:07:00.668 --> 00:07:03.357
+Or, other projects. Matt Richardson: I'm getting a little sick
+
+00:07:03.357 --> 00:07:06.613
+of hearing about the same people on TV over and over and over
+
+00:07:06.613 --> 00:07:09.823
+again, so I decided to do something about it.
+
+00:07:09.823 --> 00:07:11.237
+This Arduino project,
+
+00:07:11.237 --> 00:07:14.599
+which I call the Enough Already, will mute the TV anytime
+
+00:07:14.612 --> 00:07:16.587
+any of these over-exposed
+
+00:07:16.587 --> 00:07:17.819
+personalities is mentioned. (Laughter)
+
+00:07:17.819 --> 00:07:22.667
+I'll show you how I made it. (Applause)
+
+00:07:22.667 --> 00:07:24.491
+MB: Check this out.
+
+00:07:24.491 --> 00:07:26.448
+MR: Our producers caught up with Kim Kardashian earlier
+
+00:07:26.448 --> 00:07:29.351
+today to find out what she was planning on wearing to her —
+
+00:07:29.351 --> 00:07:30.742
+MB: Eh? (Laughter)
+
+00:07:30.742 --> 00:07:32.644
+MR: It should do a pretty good
+
+00:07:32.644 --> 00:07:34.311
+job of protecting our ears from having to hear about the details
+
+00:07:34.311 --> 00:07:36.107
+of Kim Kardashian's wedding.
+
+00:07:36.107 --> 00:07:40.664
+MB: Okay. So, you know, again, what is interesting here
+
+00:07:40.664 --> 00:07:43.634
+is that Matt found this module
+
+00:07:43.634 --> 00:07:45.866
+that lets Arduino process
+
+00:07:45.866 --> 00:07:47.755
+TV signals, he found some code
+
+00:07:47.755 --> 00:07:50.584
+written by somebody else that generates infrared signals for the TV,
+
+00:07:50.584 --> 00:07:52.934
+put it together and then created this great project.
+
+00:07:52.934 --> 00:07:54.986
+It's also used, Arduino's used,
+
+00:07:54.986 --> 00:07:57.873
+in serious places like, you know, the Large Hadron Collider.
+
+00:07:57.886 --> 00:08:00.595
+There's some Arduino balls collecting data and sort of
+
+00:08:00.595 --> 00:08:02.395
+measuring some parameters.
+
+00:08:02.395 --> 00:08:04.714
+Or it's used for —
+
+00:08:04.714 --> 00:08:15.426
+(Music)
+
+00:08:15.426 --> 00:08:17.867
+So this is a musical interface
+
+00:08:17.867 --> 00:08:19.986
+built by a student from Italy,
+
+00:08:19.986 --> 00:08:22.106
+and he's now turning this into
+
+00:08:22.106 --> 00:08:23.964
+a product. Because it was a
+
+00:08:23.964 --> 00:08:26.195
+student project becoming a product.
+
+00:08:26.195 --> 00:08:28.139
+Or it can be used to make an assistive device.
+
+00:08:28.139 --> 00:08:30.129
+This is a glove that understands
+
+00:08:30.129 --> 00:08:32.276
+the sign language and transforms
+
+00:08:32.276 --> 00:08:34.475
+the gestures you make into sounds
+
+00:08:34.475 --> 00:08:37.791
+and writes the words that you're signing on a display
+
+00:08:37.791 --> 00:08:39.137
+And again, this is made of all different parts you can find
+
+00:08:39.137 --> 00:08:42.086
+on all the websites that sell Arduino-compatible parts,
+
+00:08:42.086 --> 00:08:44.170
+and you assemble it into a project.
+
+00:08:44.170 --> 00:08:47.491
+Or this is a project from the ITP part of NYU,
+
+00:08:47.491 --> 00:08:49.218
+where they met with this boy
+
+00:08:49.218 --> 00:08:52.235
+who has a severe disability, cannot play with the PS3,
+
+00:08:52.236 --> 00:08:54.179
+so they built this device that
+
+00:08:54.179 --> 00:08:56.626
+allows the kid to play baseball
+
+00:08:56.626 --> 00:08:58.523
+although he has limited
+
+00:08:58.523 --> 00:09:00.899
+movement capability.
+
+00:09:00.899 --> 00:09:03.049
+Or you can find it in arts projects.
+
+00:09:03.049 --> 00:09:05.364
+So this is the txtBomber.
+
+00:09:05.364 --> 00:09:07.001
+So you put a message into this device
+
+00:09:07.001 --> 00:09:09.844
+and then you roll it on the wall, and it basically
+
+00:09:09.844 --> 00:09:11.746
+has all these solenoids
+
+00:09:11.746 --> 00:09:13.538
+pressing the buttons on spray cans,
+
+00:09:13.538 --> 00:09:15.174
+so you just pull it over a wall
+
+00:09:15.174 --> 00:09:16.901
+and it just writes on the wall
+
+00:09:16.901 --> 00:09:19.363
+all the political messages.
+
+00:09:19.363 --> 00:09:21.994
+So, yeah. (Applause)
+
+00:09:21.994 --> 00:09:24.034
+Then we have this plant here.
+
+00:09:24.034 --> 00:09:25.924
+This is called Botanicalls,
+
+00:09:25.924 --> 00:09:29.119
+because there's an Arduino ball with a Wi-Fi module
+
+00:09:29.119 --> 00:09:31.720
+in the plant, and it's measuring
+
+00:09:31.720 --> 00:09:33.235
+the well-being of the plant,
+
+00:09:33.235 --> 00:09:35.225
+and it's creating a Twitter account
+
+00:09:35.225 --> 00:09:38.754
+where you can actually interact with the plant. (Laughter)
+
+00:09:38.754 --> 00:09:40.684
+So, you know, this plant
+
+00:09:40.684 --> 00:09:43.163
+will start to say, "This is really hot," or
+
+00:09:43.163 --> 00:09:47.234
+there's a lot of, you know, "I need water right now." (Laughter)
+
+00:09:47.234 --> 00:09:50.657
+So it just gives a personality to your plant.
+
+00:09:50.657 --> 00:09:53.324
+Or this is something that twitters when the
+
+00:09:53.324 --> 00:09:55.290
+baby inside the belly of a
+
+00:09:55.290 --> 00:09:57.898
+pregnant woman kicks. (Laughter)
+
+00:09:57.898 --> 00:09:59.489
+Or this is a 14-year-old kid in
+
+00:09:59.489 --> 00:10:01.609
+Chile who made a system that
+
+00:10:01.609 --> 00:10:03.933
+detects earthquakes and publishes on Twitter.
+
+00:10:03.933 --> 00:10:06.421
+He has 280,000 followers.
+
+00:10:06.421 --> 00:10:08.565
+He's 14 and he anticipated
+
+00:10:08.565 --> 00:10:12.204
+a governmental project by one year. (Applause)
+
+00:10:12.204 --> 00:10:15.945
+Or again, another project where,
+
+00:10:15.945 --> 00:10:17.691
+by analyzing the Twitter feed
+
+00:10:17.691 --> 00:10:19.627
+of a family, you can basically
+
+00:10:19.627 --> 00:10:22.369
+point where they are, like in the "Harry Potter" movie.
+
+00:10:22.369 --> 00:10:25.185
+So you can find out everything about this project on the website.
+
+00:10:25.185 --> 00:10:29.866
+Or somebody made a chair that twitters when somebody farts. (Laughter)
+
+00:10:29.866 --> 00:10:32.949
+It's interesting how, in 2009,
+
+00:10:32.949 --> 00:10:35.331
+Gizmodo basically defined,
+
+00:10:35.331 --> 00:10:38.094
+said that this project actually gives a meaning to Twitter,
+
+00:10:38.094 --> 00:10:41.355
+so it was — a lot changed in between. (Laughter)
+
+00:10:41.355 --> 00:10:42.799
+So very serious project.
+
+00:10:42.799 --> 00:10:45.006
+When the Fukushima disaster happened,
+
+00:10:45.006 --> 00:10:48.008
+a bunch of people in Japan, they realized that the information
+
+00:10:48.008 --> 00:10:50.563
+that the government was giving wasn't really open
+
+00:10:50.563 --> 00:10:52.313
+and really reliable, so they built
+
+00:10:52.313 --> 00:10:55.089
+this Geiger counter, plus Arduino, plus network
+
+00:10:55.089 --> 00:10:57.021
+interface. They made 100
+
+00:10:57.021 --> 00:11:00.586
+of them and gave them to people around Japan, and essentially
+
+00:11:00.599 --> 00:11:02.859
+the data that they gathered gets published on this website
+
+00:11:02.859 --> 00:11:05.008
+called Cosm, another website
+
+00:11:05.008 --> 00:11:08.649
+they built, so you can actually get reliable real-time
+
+00:11:08.649 --> 00:11:10.474
+information from the field,
+
+00:11:10.474 --> 00:11:14.081
+and you can get unbiased information.
+
+00:11:14.081 --> 00:11:15.964
+Or this machine here, it's from
+
+00:11:15.964 --> 00:11:18.404
+the DIY bio movement,
+
+00:11:18.404 --> 00:11:20.728
+and it's one of the steps that you need in order to process DNA,
+
+00:11:20.728 --> 00:11:24.106
+and again, it's completely open-source from the ground up.
+
+00:11:24.106 --> 00:11:27.498
+Or you have students in developing countries making
+
+00:11:27.500 --> 00:11:30.489
+replicas of scientific instruments that cost
+
+00:11:30.489 --> 00:11:32.400
+a lot of money to make.
+
+00:11:32.400 --> 00:11:34.990
+Actually they just build them themselves for a lot less
+
+00:11:34.990 --> 00:11:36.223
+using Arduino and a few parts.
+
+00:11:36.223 --> 00:11:38.119
+This is a pH probe.
+
+00:11:38.119 --> 00:11:41.517
+Or you get kids, like these kids, they're from Spain.
+
+00:11:41.517 --> 00:11:44.375
+They learned how to program and to make robots when they
+
+00:11:44.381 --> 00:11:47.050
+were probably, like, 11, and then they started to use Arduino
+
+00:11:47.050 --> 00:11:49.043
+to make these robots that play football. They became
+
+00:11:49.043 --> 00:11:51.885
+world champions by making an Arduino-based robot.
+
+00:11:51.885 --> 00:11:53.761
+And so when we had to make
+
+00:11:53.761 --> 00:11:56.571
+our own educational robot, we just went to them and said,
+
+00:11:56.573 --> 00:11:58.921
+you know, "You design it, because you know exactly
+
+00:11:58.921 --> 00:12:02.651
+what is needed to make a great robot that excites kids."
+
+00:12:02.651 --> 00:12:04.327
+Not me. I'm an old guy.
+
+00:12:04.327 --> 00:12:06.863
+What am I supposed to excite, huh? (Laughter)
+
+00:12:06.863 --> 00:12:10.798
+But as I — in terms of educational assets. (Laughter)
+
+00:12:10.798 --> 00:12:12.696
+There's also companies like Google
+
+00:12:12.696 --> 00:12:14.647
+that are using the technology
+
+00:12:14.647 --> 00:12:17.521
+to create interfaces between
+
+00:12:17.521 --> 00:12:20.914
+mobile phones, tablets and the real world.
+
+00:12:20.914 --> 00:12:21.934
+So the Accessory Development Kit
+
+00:12:21.934 --> 00:12:23.986
+from Google is open-source
+
+00:12:23.986 --> 00:12:25.368
+and based on Arduino, as opposed
+
+00:12:25.368 --> 00:12:27.025
+to the one from Apple which is
+
+00:12:27.025 --> 00:12:29.529
+closed-source, NDA, sign your
+
+00:12:29.529 --> 00:12:32.094
+life to Apple. Here you are.
+
+00:12:32.094 --> 00:12:34.674
+There's a giant maze, and Joey's sitting there, and the
+
+00:12:34.674 --> 00:12:38.858
+maze is moving when you tilt the tablet.
+
+00:12:38.858 --> 00:12:41.829
+Also, I come from Italy, and the design is important
+
+00:12:41.830 --> 00:12:44.177
+in Italy, and yet very conservative.
+
+00:12:44.177 --> 00:12:45.594
+So we worked with a design
+
+00:12:45.594 --> 00:12:47.760
+studio called Habits, in Milan,
+
+00:12:47.760 --> 00:12:50.448
+to make this mirror, which is completely open-source.
+
+00:12:50.448 --> 00:12:53.633
+This doubles also as an iPod speaker.
+
+00:12:53.633 --> 00:12:57.270
+So the idea is that the hardware, the software,
+
+00:12:57.270 --> 00:12:58.738
+the design of the object, the fabrication,
+
+00:12:58.738 --> 00:13:01.223
+everything about this project is open-source
+
+00:13:01.223 --> 00:13:03.093
+and you can make it yourself.
+
+00:13:03.093 --> 00:13:05.447
+So we want other designers to pick this up and learn how
+
+00:13:05.447 --> 00:13:08.058
+to make great devices, to learn
+
+00:13:08.058 --> 00:13:09.736
+how to make interactive products
+
+00:13:09.736 --> 00:13:12.505
+by starting from something real.
+
+00:13:12.505 --> 00:13:14.906
+But when you have this idea,
+
+00:13:14.906 --> 00:13:16.819
+you know, what happens to all these ideas?
+
+00:13:16.819 --> 00:13:18.697
+There's, like, thousands of ideas that I —
+
+00:13:18.697 --> 00:13:20.857
+You know, it would take seven hours for me to do
+
+00:13:20.857 --> 00:13:22.737
+all the presentations.
+
+00:13:22.737 --> 00:13:25.785
+I will not take all the seven hours. Thank you.
+
+00:13:25.785 --> 00:13:27.801
+But let's start from this example:
+
+00:13:27.801 --> 00:13:29.729
+So, the group of people
+
+00:13:29.729 --> 00:13:32.140
+that started this company called Pebble, they prototyped
+
+00:13:32.140 --> 00:13:35.832
+a watch that communicates via Bluetooth with your phone,
+
+00:13:35.832 --> 00:13:37.368
+and you can display information
+
+00:13:37.368 --> 00:13:39.640
+on it. And they prototyped with
+
+00:13:39.640 --> 00:13:41.585
+an old LCD screen from a Nokia
+
+00:13:41.585 --> 00:13:43.993
+mobile phone and an Arduino.
+
+00:13:43.993 --> 00:13:45.826
+And then, when they had a final
+
+00:13:45.826 --> 00:13:48.234
+project, they actually went to Kickstarter
+
+00:13:48.234 --> 00:13:50.853
+and they were asking for 100,000 dollars to make
+
+00:13:50.853 --> 00:13:52.708
+a few of them to sell.
+
+00:13:52.708 --> 00:13:54.779
+They got 10 million dollars.
+
+00:13:54.779 --> 00:13:56.314
+They got a completely
+
+00:13:56.314 --> 00:13:59.009
+fully funded start-up, and they don't have to,
+
+00:13:59.027 --> 00:14:00.879
+you know, get VCs involved or anything,
+
+00:14:00.879 --> 00:14:03.712
+just excite the people with their great project.
+
+00:14:03.747 --> 00:14:06.031
+The last project I want to show you is this:
+
+00:14:06.031 --> 00:14:09.769
+It's called ArduSat. It's currently on Kickstarter,
+
+00:14:09.769 --> 00:14:12.076
+so if you want to contribute, please do it.
+
+00:14:12.076 --> 00:14:14.886
+It's a satellite that goes into space, which is probably
+
+00:14:14.886 --> 00:14:16.808
+the least open-source thing you can imagine,
+
+00:14:16.808 --> 00:14:18.859
+and it contains an Arduino
+
+00:14:18.859 --> 00:14:21.969
+connected to a bunch of sensors. So if you know how to use Arduino,
+
+00:14:21.969 --> 00:14:24.425
+you can actually upload your experiments
+
+00:14:24.425 --> 00:14:26.616
+into this satellite and run them.
+
+00:14:26.616 --> 00:14:29.252
+So imagine, if you as a high school can have the satellite
+
+00:14:29.252 --> 00:14:31.601
+for a week and do satellite
+
+00:14:31.601 --> 00:14:34.253
+space experiments like that.
+
+00:14:34.253 --> 00:14:37.009
+So, as I said, there's
+
+00:14:37.009 --> 00:14:38.568
+lots of examples, and I'm going to stop here. And I just
+
+00:14:38.568 --> 00:14:41.084
+want to thank the Arduino community
+
+00:14:41.084 --> 00:14:42.754
+for being the best, and just
+
+00:14:42.754 --> 00:14:44.946
+every day making lots of projects.
+
+00:14:44.946 --> 00:14:48.410
+Thank you. (Applause)
+
+00:14:48.410 --> 00:14:50.737
+(Applause)
+
+00:14:50.737 --> 00:14:53.224
+And thanks to the community.
+
+00:14:53.224 --> 00:14:55.197
+Chris Anderson: Massimo,
+
+00:14:55.197 --> 00:14:57.802
+you told me earlier today that you had no idea, of course,
+
+00:14:57.802 --> 00:14:59.274
+that it would take off like this.
+
+00:14:59.274 --> 00:15:00.063
+MB: No.
+
+00:15:00.063 --> 00:15:01.859
+CA: I mean, how must you feel when you read this stuff and you
+
+00:15:01.859 --> 00:15:04.360
+see what you've unlocked?
+
+00:15:04.360 --> 00:15:07.176
+MB: Well, it's the work of a lot of people, so we as a community
+
+00:15:07.179 --> 00:15:08.973
+are enabling people to make
+
+00:15:08.973 --> 00:15:11.457
+great stuff, and I just feel overwhelmed.
+
+00:15:11.475 --> 00:15:13.644
+It's just, it's difficult to describe this.
+
+00:15:13.644 --> 00:15:15.658
+Every morning, I wake up and I look at all the stuff that
+
+00:15:15.658 --> 00:15:17.844
+Google Alerts sends me, and it's
+
+00:15:17.844 --> 00:15:19.379
+just amazing. It's just
+
+00:15:19.379 --> 00:15:22.052
+going into every field that you can imagine.
+
+00:15:22.052 --> 00:15:24.044
+CA: Thank you so much. (Applause)
+
+00:15:24.044 --> 00:15:27.306
+(Applause)
+

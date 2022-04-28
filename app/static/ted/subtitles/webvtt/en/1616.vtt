@@ -1,0 +1,872 @@
+WEBVTT
+
+00:00:00.656 --> 00:00:03.873
+Living with a physical
+disability isn't easy
+
+00:00:03.897 --> 00:00:06.096
+anywhere in the world,
+
+00:00:06.120 --> 00:00:08.925
+but if you live in a country
+like the United States,
+
+00:00:08.949 --> 00:00:12.018
+there's certain appurtenances available
+to you that do make life easier.
+
+00:00:12.042 --> 00:00:14.691
+So if you're in a building,
+you can take an elevator.
+
+00:00:14.715 --> 00:00:16.971
+If you're crossing the street,
+you have sidewalk cutouts.
+
+00:00:16.995 --> 00:00:19.234
+And if you have to travel
+some distance farther
+
+00:00:19.258 --> 00:00:22.401
+than you can do under your own power,
+there's accessible vehicles,
+
+00:00:22.425 --> 00:00:24.262
+and if you can't afford one of those,
+
+00:00:24.286 --> 00:00:26.635
+there's accessible public transportation.
+
+00:00:26.659 --> 00:00:29.326
+But in the developing world,
+things are quite different.
+
+00:00:29.350 --> 00:00:32.545
+There's 40 million people who need
+a wheelchair but don't have one,
+
+00:00:32.569 --> 00:00:35.900
+and the majority of these
+people live in rural areas,
+
+00:00:35.924 --> 00:00:39.785
+where the only connections to community,
+to employment, to education,
+
+00:00:39.809 --> 00:00:42.268
+are by traveling long
+distances on rough terrain
+
+00:00:42.292 --> 00:00:45.005
+often under their own power.
+
+00:00:45.029 --> 00:00:47.363
+And the devices usually
+available to these people
+
+00:00:47.387 --> 00:00:49.821
+are not made for that context,
+break down quickly,
+
+00:00:49.845 --> 00:00:52.131
+and are hard to repair.
+
+00:00:52.155 --> 00:00:56.851
+I started looking at wheelchairs
+in developing countries in 2005,
+
+00:00:56.875 --> 00:01:00.667
+when I spent the summer assessing
+the state of technology in Tanzania,
+
+00:01:00.691 --> 00:01:04.480
+and I talked to wheelchair users, wheelchair
+manufacturers, disability groups,
+
+00:01:04.504 --> 00:01:06.337
+and what stood out to me
+
+00:01:06.361 --> 00:01:08.789
+is that there wasn't a device available
+
+00:01:08.813 --> 00:01:11.337
+that was designed for rural
+areas, that could go fast
+
+00:01:11.361 --> 00:01:13.953
+and efficiently on many types of terrain.
+
+00:01:13.977 --> 00:01:15.736
+So being a mechanical engineer,
+
+00:01:15.760 --> 00:01:18.522
+being at MIT and having lots
+of resources available to me,
+
+00:01:18.546 --> 00:01:20.836
+I thought I'd try to do
+something about it.
+
+00:01:20.860 --> 00:01:23.789
+Now when you're talking
+about trying to travel
+
+00:01:23.813 --> 00:01:25.995
+long distances on rough terrain,
+
+00:01:26.019 --> 00:01:27.728
+I immediately thought of a mountain bike,
+
+00:01:27.752 --> 00:01:29.141
+and a mountain bike's good at doing this
+
+00:01:29.165 --> 00:01:30.980
+because it has a gear train,
+
+00:01:31.004 --> 00:01:33.814
+and you can shift to a low gear
+if you have to climb a hill
+
+00:01:33.838 --> 00:01:35.440
+or go through mud or sand
+
+00:01:35.464 --> 00:01:37.554
+and you get a lot of torque
+but a low speed.
+
+00:01:37.578 --> 00:01:39.669
+And if you want to go
+faster, say on pavement,
+
+00:01:39.693 --> 00:01:41.074
+you can shift to a high gear,
+
+00:01:41.098 --> 00:01:43.146
+and you get less torque,
+but higher speeds.
+
+00:01:43.170 --> 00:01:44.727
+So the logical evolution here
+
+00:01:44.751 --> 00:01:47.561
+is to just make a wheelchair
+with mountain bike components,
+
+00:01:47.585 --> 00:01:48.919
+which many people have done.
+
+00:01:48.943 --> 00:01:52.101
+But these are two products
+available in the U.S. that
+
+00:01:52.125 --> 00:01:54.792
+would be difficult to transfer
+into developing countries
+
+00:01:54.816 --> 00:01:57.342
+because they're much, much too expensive.
+
+00:01:57.366 --> 00:01:59.618
+And the context I'm talking about is where
+
+00:01:59.642 --> 00:02:03.614
+you need to have a product
+that is less than 200 dollars.
+
+00:02:03.638 --> 00:02:06.045
+And this ideal product
+would also be able to go
+
+00:02:06.069 --> 00:02:10.049
+about five kilometers a day so you
+could get to your job, get to school,
+
+00:02:10.073 --> 00:02:11.901
+and do it on many,
+many different types of terrain.
+
+00:02:11.925 --> 00:02:14.793
+But when you get home or want
+to go indoors at your work,
+
+00:02:14.817 --> 00:02:19.214
+it's got to be small enough and maneuverable
+enough to use inside.
+
+00:02:19.238 --> 00:02:22.619
+And furthermore, if you want it to last
+a long time out in rural areas,
+
+00:02:22.643 --> 00:02:26.681
+it has to be repairable using the local
+tools, materials and knowledge
+
+00:02:26.705 --> 00:02:29.497
+in those contexts.
+
+00:02:29.521 --> 00:02:32.437
+So the real crux of the problem here is,
+
+00:02:32.461 --> 00:02:35.585
+how do you make a system
+that's a simple device
+
+00:02:35.609 --> 00:02:37.716
+but gives you a large
+mechanical advantage?
+
+00:02:37.740 --> 00:02:39.903
+How do you make a mountain
+bike for your arms
+
+00:02:39.927 --> 00:02:42.594
+that doesn't have the mountain
+bike cost and complexity?
+
+00:02:42.618 --> 00:02:44.995
+So as is the case with simple solutions,
+
+00:02:45.019 --> 00:02:48.781
+oftentimes the answer is right in front
+of your face, and for us it was levers.
+
+00:02:48.805 --> 00:02:53.415
+We use levers all the time,
+in tools, doorknobs, bicycle parts.
+
+00:02:53.439 --> 00:02:56.201
+And that moment of inspiration,
+that key invention moment,
+
+00:02:56.225 --> 00:02:58.749
+was when I was sitting
+in front of my design notebook
+
+00:02:58.773 --> 00:03:01.521
+and I started thinking
+about somebody grabbing a lever,
+
+00:03:01.545 --> 00:03:03.634
+and if they grab
+near the end of the lever,
+
+00:03:03.658 --> 00:03:05.468
+they can get an effectively long lever
+
+00:03:05.492 --> 00:03:08.293
+and produce a lot of torque
+as they push back and forth,
+
+00:03:08.317 --> 00:03:10.513
+and effectively get a low gear.
+
+00:03:10.537 --> 00:03:12.920
+And as they slide
+their hand down the lever,
+
+00:03:12.944 --> 00:03:15.756
+they can push with a smaller
+effective lever length,
+
+00:03:15.780 --> 00:03:17.876
+but push through a bigger
+angle every stroke,
+
+00:03:17.900 --> 00:03:21.535
+which makes a faster rotational speed,
+and gives you an effective high gear.
+
+00:03:21.559 --> 00:03:23.287
+So what's exciting about this system
+
+00:03:23.311 --> 00:03:25.890
+is that it's really, really
+mechanically simple,
+
+00:03:25.914 --> 00:03:27.724
+and you could make it using technology
+
+00:03:27.748 --> 00:03:29.706
+that's been around for hundreds of years.
+
+00:03:29.730 --> 00:03:31.891
+So seeing this in practice,
+
+00:03:31.915 --> 00:03:33.868
+this is the Leveraged Freedom Chair that,
+
+00:03:33.892 --> 00:03:35.608
+after a few years of development,
+
+00:03:35.632 --> 00:03:37.545
+we're now going into production with,
+
+00:03:37.569 --> 00:03:39.569
+and this is a full-time wheelchair user --
+
+00:03:39.593 --> 00:03:41.110
+he's paralyzed -- in Guatemala,
+
+00:03:41.134 --> 00:03:45.109
+and you see he's able to traverse
+pretty rough terrain.
+
+00:03:45.133 --> 00:03:49.640
+Again, the key innovation of this technology
+is that when he wants to go fast,
+
+00:03:49.664 --> 00:03:53.695
+he just grabs the levers near the pivots
+and goes through a big angle every stroke,
+
+00:03:53.719 --> 00:03:56.620
+and as the going gets tougher, he just
+slides his hands up the levers,
+
+00:03:56.644 --> 00:03:59.216
+creates more torque, and kind
+of bench-presses his way
+
+00:03:59.240 --> 00:04:01.402
+out of trouble through the rough terrain.
+
+00:04:01.426 --> 00:04:04.414
+Now the big, important point here is that
+
+00:04:04.438 --> 00:04:07.127
+the person is the complex
+machine in this system.
+
+00:04:07.151 --> 00:04:10.473
+It's the person that's sliding
+his hands up and down the levers,
+
+00:04:10.497 --> 00:04:13.195
+so the mechanism itself can be very simple
+
+00:04:13.219 --> 00:04:16.267
+and composed of bicycle parts you
+can get anywhere in the world.
+
+00:04:16.291 --> 00:04:17.858
+Because those bicycle parts
+
+00:04:17.882 --> 00:04:20.363
+are so ubiquitously available,
+they're super-cheap.
+
+00:04:20.387 --> 00:04:22.543
+They're made by the gazillions
+in China and India,
+
+00:04:22.567 --> 00:04:24.399
+and we can source them
+anywhere in the world,
+
+00:04:24.423 --> 00:04:27.138
+build the chair anywhere,
+and most importantly repair it,
+
+00:04:27.162 --> 00:04:29.591
+even out in a village
+with a local bicycle mechanic
+
+00:04:29.615 --> 00:04:33.946
+who has local tools, knowledge
+and parts available.
+
+00:04:33.970 --> 00:04:36.623
+Now, when you want to use the LFC indoors,
+
+00:04:36.647 --> 00:04:40.143
+all you have to do is pull
+the levers out of the drivetrain,
+
+00:04:40.167 --> 00:04:43.420
+stow them in the frame, and it
+converts into a normal wheelchair
+
+00:04:43.444 --> 00:04:46.064
+that you can use just
+like any other normal wheelchair,
+
+00:04:46.088 --> 00:04:48.081
+and we sized it like a normal wheelchair,
+
+00:04:48.105 --> 00:04:52.216
+so it's narrow enough to fit
+through a standard doorway,
+
+00:04:52.240 --> 00:04:55.735
+it's low enough to fit under a table,
+
+00:04:55.759 --> 00:04:59.728
+and it's small and maneuverable
+enough to fit in a bathroom
+
+00:04:59.752 --> 00:05:02.752
+and this is important so the user
+can get up close to a toilet,
+
+00:05:02.776 --> 00:05:04.456
+and be able to transfer off
+
+00:05:04.480 --> 00:05:10.047
+just like he could in a normal wheelchair.
+
+00:05:10.071 --> 00:05:13.139
+Now, there's three important
+points that I want to stress
+
+00:05:13.163 --> 00:05:16.771
+that I think really hit
+home in this project.
+
+00:05:16.795 --> 00:05:19.975
+The first is that this
+product works well because
+
+00:05:19.999 --> 00:05:22.006
+we were effectively able to combine
+
+00:05:22.030 --> 00:05:26.560
+rigorous engineering science
+and analysis with user-centered design
+
+00:05:26.584 --> 00:05:29.937
+focused on the social and usage
+and economic factors
+
+00:05:29.961 --> 00:05:32.474
+important to wheelchair users
+in the developing countries.
+
+00:05:32.498 --> 00:05:34.962
+So I'm an academic at MIT,
+and I'm a mechanical engineer,
+
+00:05:34.986 --> 00:05:38.510
+so I can do things like look at the type
+of terrain you want to travel on,
+
+00:05:38.534 --> 00:05:41.158
+and figure out how much
+resistance it should impose,
+
+00:05:41.182 --> 00:05:44.166
+look at the parts we have
+available and mix and match them
+
+00:05:44.190 --> 00:05:46.811
+to figure out what sort
+of gear trains we can use,
+
+00:05:46.835 --> 00:05:49.920
+and then look at the power and force
+you can get out of your upper body
+
+00:05:49.944 --> 00:05:51.883
+to analyze how fast you should
+be able to go in this chair
+
+00:05:51.907 --> 00:05:54.254
+as you put your arms
+up and down the levers.
+
+00:05:54.278 --> 00:05:57.913
+So as a wet-behind-the-ears
+student, excited,
+
+00:05:57.937 --> 00:06:00.038
+our team made a prototype,
+
+00:06:00.062 --> 00:06:04.913
+brought that prototype to Tanzania,
+Kenya and Vietnam in 2008,
+
+00:06:04.937 --> 00:06:07.047
+and found it was terrible
+
+00:06:07.071 --> 00:06:09.484
+because we didn't get
+enough input from users.
+
+00:06:09.508 --> 00:06:12.650
+So because we tested it
+with wheelchair users,
+
+00:06:12.674 --> 00:06:15.156
+with wheelchair manufacturers,
+we got that feedback from them,
+
+00:06:15.180 --> 00:06:18.610
+not just articulating their problems,
+but articulating their solutions,
+
+00:06:18.634 --> 00:06:22.158
+and worked together to go back
+to the drawing board and make a new design,
+
+00:06:22.182 --> 00:06:24.308
+which we brought back
+to East Africa in '09
+
+00:06:24.332 --> 00:06:27.153
+that worked a lot better than a normal
+wheelchair on rough terrain,
+
+00:06:27.177 --> 00:06:30.035
+but it still didn't work well
+indoors because it was too big,
+
+00:06:30.059 --> 00:06:32.033
+it was heavy, it was hard to move around,
+
+00:06:32.057 --> 00:06:35.587
+so again with that user feedback,
+we went back to the drawing board,
+
+00:06:35.611 --> 00:06:37.902
+came up with a better
+design, 20 pounds lighter,
+
+00:06:37.926 --> 00:06:41.593
+as narrow as a regular wheelchair, tested
+that in a field trial in Guatemala,
+
+00:06:41.617 --> 00:06:43.617
+and that advanced the product to the point
+
+00:06:43.641 --> 00:06:46.840
+where we have now that it's going
+into production.
+
+00:06:46.864 --> 00:06:49.086
+Now also being engineering scientists,
+
+00:06:49.110 --> 00:06:52.968
+we were able to quantify the performance
+benefits of the Leveraged Freedom Chair,
+
+00:06:52.992 --> 00:06:55.608
+so here are some shots
+of our trial in Guatemala
+
+00:06:55.632 --> 00:06:59.150
+where we tested the LFC
+on village terrain,
+
+00:06:59.174 --> 00:07:01.174
+and tested people's biomechanical outputs,
+
+00:07:01.198 --> 00:07:03.361
+their oxygen consumption,
+how fast they go,
+
+00:07:03.385 --> 00:07:05.052
+how much power they're putting out,
+
+00:07:05.076 --> 00:07:07.951
+both in their regular
+wheelchairs and using the LFC,
+
+00:07:07.975 --> 00:07:10.452
+and we found that the LFC
+is about 80 percent faster
+
+00:07:10.476 --> 00:07:12.810
+going on these terrains
+than a normal wheelchair.
+
+00:07:12.834 --> 00:07:16.193
+It's also about 40 percent more
+efficient than a regular wheelchair,
+
+00:07:16.217 --> 00:07:18.736
+and because of the mechanical
+advantage you get from the levers,
+
+00:07:18.760 --> 00:07:20.665
+you can produce 50 percent higher torque
+
+00:07:20.689 --> 00:07:24.649
+and really muscle your way
+through the really, really rough terrain.
+
+00:07:24.673 --> 00:07:28.085
+Now the second lesson
+that we learned in this is that
+
+00:07:28.109 --> 00:07:30.985
+the constraints on this design
+really push the innovation,
+
+00:07:31.009 --> 00:07:33.249
+because we had to hit
+such a low price point,
+
+00:07:33.273 --> 00:07:35.559
+because we had to make
+a device that could travel
+
+00:07:35.583 --> 00:07:38.378
+on many, many types of terrain
+but still be usable indoors,
+
+00:07:38.402 --> 00:07:40.669
+and be simple enough to repair,
+
+00:07:40.693 --> 00:07:43.036
+we ended up with a fundamentally
+new product,
+
+00:07:43.060 --> 00:07:45.152
+a new product that is an innovation
+
+00:07:45.176 --> 00:07:48.069
+in a space that really hasn't
+changed in a hundred years.
+
+00:07:48.093 --> 00:07:51.522
+And these are all merits that are not
+just good in the developing world.
+
+00:07:51.546 --> 00:07:53.961
+Why not in countries like the U.S. too?
+
+00:07:53.985 --> 00:07:55.697
+So we teamed up with Continuum,
+
+00:07:55.721 --> 00:07:57.721
+a local product design firm here in Boston
+
+00:07:57.745 --> 00:08:00.729
+to make the high-end version,
+the developed world version,
+
+00:08:00.753 --> 00:08:03.515
+that we'll probably sell primarily
+in the U.S. and Europe,
+
+00:08:03.539 --> 00:08:06.316
+but to higher-income buyers.
+
+00:08:06.340 --> 00:08:09.302
+And the final point I want
+to make is that I think
+
+00:08:09.326 --> 00:08:12.128
+this project worked
+well because we engaged
+
+00:08:12.152 --> 00:08:16.739
+all the stakeholders that buy into this
+project and are important to consider
+
+00:08:16.763 --> 00:08:20.082
+in bringing the technology
+from inception of an idea
+
+00:08:20.106 --> 00:08:24.321
+through innovation, validation,
+commercialization and dissemination,
+
+00:08:24.345 --> 00:08:28.066
+and that cycle has to start
+and end with end users.
+
+00:08:28.090 --> 00:08:30.841
+These are the people that define
+the requirements of the technology,
+
+00:08:30.865 --> 00:08:33.179
+and these are the people that have
+to give the thumbs-up at the end,
+
+00:08:33.203 --> 00:08:35.823
+and say, "Yeah, it actually works.
+It meets our needs."
+
+00:08:35.847 --> 00:08:37.753
+So people like me in the academic space,
+
+00:08:37.777 --> 00:08:41.124
+we can do things like innovate
+and analyze and test,
+
+00:08:41.148 --> 00:08:44.220
+create data and make
+bench-level prototypes,
+
+00:08:44.244 --> 00:08:47.387
+but how do you get that bench-level
+prototype to commercialization?
+
+00:08:47.411 --> 00:08:50.799
+So we need gap-fillers like Continuum
+that can work on commercializing,
+
+00:08:50.823 --> 00:08:53.585
+and we started a whole NGO
+to bring our chair to market --
+
+00:08:53.609 --> 00:08:55.750
+Global Research Innovation Technology --
+
+00:08:55.774 --> 00:08:59.482
+and then we also teamed up with a big
+manufacturer in India, Pinnacle Industries,
+
+00:08:59.506 --> 00:09:01.745
+that's tooled up now
+to make 500 chairs a month
+
+00:09:01.769 --> 00:09:03.548
+and will make the first
+batch of 200 next month,
+
+00:09:03.572 --> 00:09:05.516
+which will be delivered in India.
+
+00:09:05.540 --> 00:09:08.255
+And then finally, to get this
+out to the people in scale,
+
+00:09:08.279 --> 00:09:10.803
+we teamed up with the largest
+disability organization
+
+00:09:10.827 --> 00:09:13.090
+in the world, Jaipur Foot.
+
+00:09:13.114 --> 00:09:15.369
+Now what's powerful about this model
+
+00:09:15.393 --> 00:09:18.176
+is when you bring together
+all these stakeholders
+
+00:09:18.200 --> 00:09:20.145
+that represent each link in the chain
+
+00:09:20.169 --> 00:09:22.686
+from inception of an idea
+
+00:09:22.710 --> 00:09:25.454
+all the way to implementation
+in the field,
+
+00:09:25.478 --> 00:09:27.005
+that's where the magic happens.
+
+00:09:27.029 --> 00:09:29.553
+That's where you can take
+a guy like me, an academic,
+
+00:09:29.577 --> 00:09:32.581
+but analyze and test
+and create a new technology
+
+00:09:32.605 --> 00:09:36.117
+and quantitatively determine
+how much better the performance is.
+
+00:09:36.141 --> 00:09:38.802
+You can connect with stakeholders
+like the manufacturers
+
+00:09:38.802 --> 00:09:41.042
+and talk with them face-to-face
+and leverage their
+
+00:09:41.062 --> 00:09:43.909
+local knowledge of manufacturing
+practices and their clients
+
+00:09:43.933 --> 00:09:46.648
+and combine that knowledge
+with our engineering knowledge
+
+00:09:46.672 --> 00:09:49.978
+to create something greater
+than either of us could have done alone.
+
+00:09:50.002 --> 00:09:52.509
+And then you can also engage the end user
+
+00:09:52.533 --> 00:09:55.295
+in the design process, and not
+just ask him what he needs,
+
+00:09:55.319 --> 00:09:58.244
+but ask him how he thinks
+it can be achieved.
+
+00:09:58.268 --> 00:10:01.301
+And this picture was taken
+in India in our last field trial,
+
+00:10:01.325 --> 00:10:03.802
+where we had a 90-percent
+adoption rate where people
+
+00:10:03.826 --> 00:10:07.408
+switched to using our Leveraged Freedom
+Chair over their normal wheelchair,
+
+00:10:07.432 --> 00:10:10.369
+and this picture specifically is of Ashok,
+
+00:10:10.393 --> 00:10:13.401
+and Ashok had a spinal injury
+when he fell out of a tree,
+
+00:10:13.425 --> 00:10:16.283
+and he had been working at a tailor,
+but once he was injured
+
+00:10:16.307 --> 00:10:19.166
+he wasn't able to transport
+himself from his house
+
+00:10:19.190 --> 00:10:21.966
+over a kilometer to his shop
+in his normal wheelchair.
+
+00:10:21.990 --> 00:10:23.237
+The road was too rough.
+
+00:10:23.261 --> 00:10:26.158
+But the day after he got
+an LFC, he hopped in it,
+
+00:10:26.182 --> 00:10:28.242
+rode that kilometer, opened up his shop
+
+00:10:28.266 --> 00:10:30.958
+and soon after landed a contract
+to make school uniforms
+
+00:10:30.982 --> 00:10:34.078
+and started making money, started
+providing for his family again.
+
+00:10:34.102 --> 00:10:35.927
+Ashok: You also encouraged me to work.
+
+00:10:35.951 --> 00:10:38.651
+I rested for a day at home.
+
+00:10:38.675 --> 00:10:43.107
+The next day I went to my shop.
+
+00:10:43.131 --> 00:10:46.085
+Now everything is back to normal.
+
+00:10:46.109 --> 00:10:50.170
+Amos Winter: And thank you
+very much for having me today.
+
+00:10:50.194 --> 00:10:54.194
+(Applause)
+

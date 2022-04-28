@@ -1,0 +1,914 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.000
+I want to start my story in Germany, in 1877,
+
+00:00:04.000 --> 00:00:06.000
+with a mathematician named Georg Cantor.
+
+00:00:06.000 --> 00:00:11.000
+And Cantor decided he was going to take a line and erase the middle third of the line,
+
+00:00:11.000 --> 00:00:16.000
+and then take those two resulting lines and bring them back into the same process, a recursive process.
+
+00:00:16.000 --> 00:00:18.000
+So he starts out with one line, and then two,
+
+00:00:18.000 --> 00:00:21.000
+and then four, and then 16, and so on.
+
+00:00:21.000 --> 00:00:24.000
+And if he does this an infinite number of times, which you can do in mathematics,
+
+00:00:24.000 --> 00:00:26.000
+he ends up with an infinite number of lines,
+
+00:00:26.000 --> 00:00:29.000
+each of which has an infinite number of points in it.
+
+00:00:29.000 --> 00:00:33.000
+So he realized he had a set whose number of elements was larger than infinity.
+
+00:00:33.000 --> 00:00:36.000
+And this blew his mind. Literally. He checked into a sanitarium. (Laughter)
+
+00:00:36.000 --> 00:00:38.000
+And when he came out of the sanitarium,
+
+00:00:38.000 --> 00:00:44.000
+he was convinced that he had been put on earth to found transfinite set theory
+
+00:00:44.000 --> 00:00:47.000
+because the largest set of infinity would be God Himself.
+
+00:00:47.000 --> 00:00:48.000
+He was a very religious man.
+
+00:00:48.000 --> 00:00:50.000
+He was a mathematician on a mission.
+
+00:00:50.000 --> 00:00:52.000
+And other mathematicians did the same sort of thing.
+
+00:00:52.000 --> 00:00:54.000
+A Swedish mathematician, von Koch,
+
+00:00:54.000 --> 00:00:58.000
+decided that instead of subtracting lines, he would add them.
+
+00:00:58.000 --> 00:01:00.000
+And so he came up with this beautiful curve.
+
+00:01:00.000 --> 00:01:03.000
+And there's no particular reason why we have to start with this seed shape;
+
+00:01:03.000 --> 00:01:07.000
+we can use any seed shape we like.
+
+00:01:07.000 --> 00:01:11.000
+And I'll rearrange this and I'll stick this somewhere -- down there, OK --
+
+00:01:11.000 --> 00:01:18.000
+and now upon iteration, that seed shape sort of unfolds into a very different looking structure.
+
+00:01:18.000 --> 00:01:20.000
+So these all have the property of self-similarity:
+
+00:01:20.000 --> 00:01:22.000
+the part looks like the whole.
+
+00:01:22.000 --> 00:01:24.000
+It's the same pattern at many different scales.
+
+00:01:25.000 --> 00:01:27.000
+Now, mathematicians thought this was very strange
+
+00:01:27.000 --> 00:01:32.000
+because as you shrink a ruler down, you measure a longer and longer length.
+
+00:01:32.000 --> 00:01:34.000
+And since they went through the iterations an infinite number of times,
+
+00:01:34.000 --> 00:01:40.000
+as the ruler shrinks down to infinity, the length goes to infinity.
+
+00:01:40.000 --> 00:01:41.000
+This made no sense at all,
+
+00:01:41.000 --> 00:01:44.000
+so they consigned these curves to the back of the math books.
+
+00:01:44.000 --> 00:01:48.000
+They said these are pathological curves, and we don't have to discuss them.
+
+00:01:48.000 --> 00:01:49.000
+(Laughter)
+
+00:01:49.000 --> 00:01:51.000
+And that worked for a hundred years.
+
+00:01:52.000 --> 00:01:57.000
+And then in 1977, Benoit Mandelbrot, a French mathematician,
+
+00:01:57.000 --> 00:02:02.000
+realized that if you do computer graphics and used these shapes he called fractals,
+
+00:02:02.000 --> 00:02:04.000
+you get the shapes of nature.
+
+00:02:04.000 --> 00:02:08.000
+You get the human lungs, you get acacia trees, you get ferns,
+
+00:02:08.000 --> 00:02:10.000
+you get these beautiful natural forms.
+
+00:02:10.000 --> 00:02:14.000
+If you take your thumb and your index finger and look right where they meet --
+
+00:02:14.000 --> 00:02:16.000
+go ahead and do that now --
+
+00:02:16.000 --> 00:02:19.000
+-- and relax your hand, you'll see a crinkle,
+
+00:02:19.000 --> 00:02:22.000
+and then a wrinkle within the crinkle, and a crinkle within the wrinkle. Right?
+
+00:02:22.000 --> 00:02:24.000
+Your body is covered with fractals.
+
+00:02:24.000 --> 00:02:27.000
+The mathematicians who were saying these were pathologically useless shapes?
+
+00:02:27.000 --> 00:02:29.000
+They were breathing those words with fractal lungs.
+
+00:02:29.000 --> 00:02:33.000
+It's very ironic. And I'll show you a little natural recursion here.
+
+00:02:33.000 --> 00:02:38.000
+Again, we just take these lines and recursively replace them with the whole shape.
+
+00:02:38.000 --> 00:02:43.000
+So here's the second iteration, and the third, fourth and so on.
+
+00:02:43.000 --> 00:02:45.000
+So nature has this self-similar structure.
+
+00:02:45.000 --> 00:02:47.000
+Nature uses self-organizing systems.
+
+00:02:47.000 --> 00:02:50.000
+Now in the 1980s, I happened to notice
+
+00:02:50.000 --> 00:02:54.000
+that if you look at an aerial photograph of an African village, you see fractals.
+
+00:02:54.000 --> 00:02:58.000
+And I thought, "This is fabulous! I wonder why?"
+
+00:02:58.000 --> 00:03:00.000
+And of course I had to go to Africa and ask folks why.
+
+00:03:00.000 --> 00:03:06.000
+So I got a Fulbright scholarship to just travel around Africa for a year
+
+00:03:06.000 --> 00:03:08.000
+asking people why they were building fractals,
+
+00:03:08.000 --> 00:03:10.000
+which is a great job if you can get it.
+
+00:03:10.000 --> 00:03:11.000
+(Laughter)
+
+00:03:11.000 --> 00:03:18.000
+And so I finally got to this city, and I'd done a little fractal model for the city
+
+00:03:18.000 --> 00:03:21.000
+just to see how it would sort of unfold --
+
+00:03:21.000 --> 00:03:24.000
+but when I got there, I got to the palace of the chief,
+
+00:03:24.000 --> 00:03:27.000
+and my French is not very good; I said something like,
+
+00:03:27.000 --> 00:03:30.000
+"I am a mathematician and I would like to stand on your roof."
+
+00:03:30.000 --> 00:03:33.000
+But he was really cool about it, and he took me up there,
+
+00:03:33.000 --> 00:03:34.000
+and we talked about fractals.
+
+00:03:34.000 --> 00:03:37.000
+And he said, "Oh yeah, yeah! We knew about a rectangle within a rectangle,
+
+00:03:37.000 --> 00:03:39.000
+we know all about that."
+
+00:03:39.000 --> 00:03:43.000
+And it turns out the royal insignia has a rectangle within a rectangle within a rectangle,
+
+00:03:43.000 --> 00:03:47.000
+and the path through that palace is actually this spiral here.
+
+00:03:47.000 --> 00:03:51.000
+And as you go through the path, you have to get more and more polite.
+
+00:03:51.000 --> 00:03:54.000
+So they're mapping the social scaling onto the geometric scaling;
+
+00:03:54.000 --> 00:03:59.000
+it's a conscious pattern. It is not unconscious like a termite mound fractal.
+
+00:03:59.000 --> 00:04:01.000
+This is a village in southern Zambia.
+
+00:04:01.000 --> 00:04:05.000
+The Ba-ila built this village about 400 meters in diameter.
+
+00:04:05.000 --> 00:04:07.000
+You have a huge ring.
+
+00:04:07.000 --> 00:04:13.000
+The rings that represent the family enclosures get larger and larger as you go towards the back,
+
+00:04:14.000 --> 00:04:18.000
+and then you have the chief's ring here towards the back
+
+00:04:18.000 --> 00:04:21.000
+and then the chief's immediate family in that ring.
+
+00:04:21.000 --> 00:04:22.000
+So here's a little fractal model for it.
+
+00:04:22.000 --> 00:04:25.000
+Here's one house with the sacred altar,
+
+00:04:25.000 --> 00:04:28.000
+here's the house of houses, the family enclosure,
+
+00:04:28.000 --> 00:04:31.000
+with the humans here where the sacred altar would be,
+
+00:04:31.000 --> 00:04:33.000
+and then here's the village as a whole --
+
+00:04:33.000 --> 00:04:38.000
+a ring of ring of rings with the chief's extended family here, the chief's immediate family here,
+
+00:04:38.000 --> 00:04:41.000
+and here there's a tiny village only this big.
+
+00:04:41.000 --> 00:04:45.000
+Now you might wonder, how can people fit in a tiny village only this big?
+
+00:04:45.000 --> 00:04:48.000
+That's because they're spirit people. It's the ancestors.
+
+00:04:48.000 --> 00:04:53.000
+And of course the spirit people have a little miniature village in their village, right?
+
+00:04:53.000 --> 00:04:56.000
+So it's just like Georg Cantor said, the recursion continues forever.
+
+00:04:56.000 --> 00:05:00.000
+This is in the Mandara mountains, near the Nigerian border in Cameroon, Mokoulek.
+
+00:05:00.000 --> 00:05:03.000
+I saw this diagram drawn by a French architect,
+
+00:05:03.000 --> 00:05:05.000
+and I thought, "Wow! What a beautiful fractal!"
+
+00:05:05.000 --> 00:05:11.000
+So I tried to come up with a seed shape, which, upon iteration, would unfold into this thing.
+
+00:05:11.000 --> 00:05:13.000
+I came up with this structure here.
+
+00:05:13.000 --> 00:05:17.000
+Let's see, first iteration, second, third, fourth.
+
+00:05:17.000 --> 00:05:19.000
+Now, after I did the simulation,
+
+00:05:19.000 --> 00:05:22.000
+I realized the whole village kind of spirals around, just like this,
+
+00:05:22.000 --> 00:05:28.000
+and here's that replicating line -- a self-replicating line that unfolds into the fractal.
+
+00:05:28.000 --> 00:05:33.000
+Well, I noticed that line is about where the only square building in the village is at.
+
+00:05:33.000 --> 00:05:35.000
+So, when I got to the village,
+
+00:05:35.000 --> 00:05:37.000
+I said, "Can you take me to the square building?
+
+00:05:37.000 --> 00:05:39.000
+I think something's going on there."
+
+00:05:39.000 --> 00:05:42.000
+And they said, "Well, we can take you there, but you can't go inside
+
+00:05:42.000 --> 00:05:45.000
+because that's the sacred altar, where we do sacrifices every year
+
+00:05:45.000 --> 00:05:48.000
+to keep up those annual cycles of fertility for the fields."
+
+00:05:48.000 --> 00:05:50.000
+And I started to realize that the cycles of fertility
+
+00:05:50.000 --> 00:05:54.000
+were just like the recursive cycles in the geometric algorithm that builds this.
+
+00:05:54.000 --> 00:05:58.000
+And the recursion in some of these villages continues down into very tiny scales.
+
+00:05:58.000 --> 00:06:00.000
+So here's a Nankani village in Mali.
+
+00:06:00.000 --> 00:06:03.000
+And you can see, you go inside the family enclosure --
+
+00:06:03.000 --> 00:06:07.000
+you go inside and here's pots in the fireplace, stacked recursively.
+
+00:06:07.000 --> 00:06:11.000
+Here's calabashes that Issa was just showing us,
+
+00:06:11.000 --> 00:06:13.000
+and they're stacked recursively.
+
+00:06:13.000 --> 00:06:15.000
+Now, the tiniest calabash in here keeps the woman's soul.
+
+00:06:15.000 --> 00:06:17.000
+And when she dies, they have a ceremony
+
+00:06:17.000 --> 00:06:22.000
+where they break this stack called the zalanga and her soul goes off to eternity.
+
+00:06:22.000 --> 00:06:25.000
+Once again, infinity is important.
+
+00:06:26.000 --> 00:06:30.000
+Now, you might ask yourself three questions at this point.
+
+00:06:30.000 --> 00:06:34.000
+Aren't these scaling patterns just universal to all indigenous architecture?
+
+00:06:34.000 --> 00:06:36.000
+And that was actually my original hypothesis.
+
+00:06:36.000 --> 00:06:38.000
+When I first saw those African fractals,
+
+00:06:38.000 --> 00:06:42.000
+I thought, "Wow, so any indigenous group that doesn't have a state society,
+
+00:06:42.000 --> 00:06:45.000
+that sort of hierarchy, must have a kind of bottom-up architecture."
+
+00:06:45.000 --> 00:06:47.000
+But that turns out not to be true.
+
+00:06:47.000 --> 00:06:51.000
+I started collecting aerial photographs of Native American and South Pacific architecture;
+
+00:06:51.000 --> 00:06:53.000
+only the African ones were fractal.
+
+00:06:53.000 --> 00:06:59.000
+And if you think about it, all these different societies have different geometric design themes that they use.
+
+00:06:59.000 --> 00:07:05.000
+So Native Americans use a combination of circular symmetry and fourfold symmetry.
+
+00:07:05.000 --> 00:07:07.000
+You can see on the pottery and the baskets.
+
+00:07:07.000 --> 00:07:10.000
+Here's an aerial photograph of one of the Anasazi ruins;
+
+00:07:10.000 --> 00:07:15.000
+you can see it's circular at the largest scale, but it's rectangular at the smaller scale, right?
+
+00:07:15.000 --> 00:07:19.000
+It is not the same pattern at two different scales.
+
+00:07:19.000 --> 00:07:20.000
+Second, you might ask,
+
+00:07:20.000 --> 00:07:23.000
+"Well, Dr. Eglash, aren't you ignoring the diversity of African cultures?"
+
+00:07:24.000 --> 00:07:26.000
+And three times, the answer is no.
+
+00:07:26.000 --> 00:07:30.000
+First of all, I agree with Mudimbe's wonderful book, "The Invention of Africa,"
+
+00:07:30.000 --> 00:07:33.000
+that Africa is an artificial invention of first colonialism,
+
+00:07:33.000 --> 00:07:35.000
+and then oppositional movements.
+
+00:07:35.000 --> 00:07:40.000
+No, because a widely shared design practice doesn't necessarily give you a unity of culture --
+
+00:07:40.000 --> 00:07:43.000
+and it definitely is not "in the DNA."
+
+00:07:43.000 --> 00:07:45.000
+And finally, the fractals have self-similarity --
+
+00:07:45.000 --> 00:07:49.000
+so they're similar to themselves, but they're not necessarily similar to each other --
+
+00:07:49.000 --> 00:07:51.000
+you see very different uses for fractals.
+
+00:07:51.000 --> 00:07:53.000
+It's a shared technology in Africa.
+
+00:07:54.000 --> 00:07:57.000
+And finally, well, isn't this just intuition?
+
+00:07:57.000 --> 00:07:59.000
+It's not really mathematical knowledge.
+
+00:07:59.000 --> 00:08:02.000
+Africans can't possibly really be using fractal geometry, right?
+
+00:08:02.000 --> 00:08:04.000
+It wasn't invented until the 1970s.
+
+00:08:05.000 --> 00:08:10.000
+Well, it's true that some African fractals are, as far as I'm concerned, just pure intuition.
+
+00:08:10.000 --> 00:08:13.000
+So some of these things, I'd wander around the streets of Dakar
+
+00:08:13.000 --> 00:08:16.000
+asking people, "What's the algorithm? What's the rule for making this?"
+
+00:08:16.000 --> 00:08:17.000
+and they'd say,
+
+00:08:17.000 --> 00:08:20.000
+"Well, we just make it that way because it looks pretty, stupid." (Laughter)
+
+00:08:20.000 --> 00:08:23.000
+But sometimes, that's not the case.
+
+00:08:23.000 --> 00:08:28.000
+In some cases, there would actually be algorithms, and very sophisticated algorithms.
+
+00:08:28.000 --> 00:08:31.000
+So in Manghetu sculpture, you'd see this recursive geometry.
+
+00:08:31.000 --> 00:08:36.000
+In Ethiopian crosses, you see this wonderful unfolding of the shape.
+
+00:08:36.000 --> 00:08:40.000
+In Angola, the Chokwe people draw lines in the sand,
+
+00:08:40.000 --> 00:08:43.000
+and it's what the German mathematician Euler called a graph;
+
+00:08:43.000 --> 00:08:45.000
+we now call it an Eulerian path --
+
+00:08:45.000 --> 00:08:47.000
+you can never lift your stylus from the surface
+
+00:08:47.000 --> 00:08:50.000
+and you can never go over the same line twice.
+
+00:08:50.000 --> 00:08:53.000
+But they do it recursively, and they do it with an age-grade system,
+
+00:08:53.000 --> 00:08:56.000
+so the little kids learn this one, and then the older kids learn this one,
+
+00:08:56.000 --> 00:08:59.000
+then the next age-grade initiation, you learn this one.
+
+00:08:59.000 --> 00:09:02.000
+And with each iteration of that algorithm,
+
+00:09:02.000 --> 00:09:04.000
+you learn the iterations of the myth.
+
+00:09:04.000 --> 00:09:06.000
+You learn the next level of knowledge.
+
+00:09:07.000 --> 00:09:09.000
+And finally, all over Africa, you see this board game.
+
+00:09:09.000 --> 00:09:12.000
+It's called Owari in Ghana, where I studied it;
+
+00:09:12.000 --> 00:09:17.000
+it's called Mancala here on the East Coast, Bao in Kenya, Sogo elsewhere.
+
+00:09:17.000 --> 00:09:22.000
+Well, you see self-organizing patterns that spontaneously occur in this board game.
+
+00:09:22.000 --> 00:09:25.000
+And the folks in Ghana knew about these self-organizing patterns
+
+00:09:25.000 --> 00:09:27.000
+and would use them strategically.
+
+00:09:27.000 --> 00:09:29.000
+So this is very conscious knowledge.
+
+00:09:29.000 --> 00:09:31.000
+Here's a wonderful fractal.
+
+00:09:31.000 --> 00:09:35.000
+Anywhere you go in the Sahel, you'll see this windscreen.
+
+00:09:35.000 --> 00:09:39.000
+And of course fences around the world are all Cartesian, all strictly linear.
+
+00:09:39.000 --> 00:09:43.000
+But here in Africa, you've got these nonlinear scaling fences.
+
+00:09:43.000 --> 00:09:45.000
+So I tracked down one of the folks who makes these things,
+
+00:09:45.000 --> 00:09:49.000
+this guy in Mali just outside of Bamako, and I asked him,
+
+00:09:49.000 --> 00:09:51.000
+"How come you're making fractal fences? Because nobody else is."
+
+00:09:51.000 --> 00:09:53.000
+And his answer was very interesting.
+
+00:09:53.000 --> 00:09:58.000
+He said, "Well, if I lived in the jungle, I would only use the long rows of straw
+
+00:09:58.000 --> 00:10:00.000
+because they're very quick and they're very cheap.
+
+00:10:00.000 --> 00:10:03.000
+It doesn't take much time, doesn't take much straw."
+
+00:10:03.000 --> 00:10:05.000
+He said, "but wind and dust goes through pretty easily.
+
+00:10:05.000 --> 00:10:09.000
+Now, the tight rows up at the very top, they really hold out the wind and dust.
+
+00:10:09.000 --> 00:10:14.000
+But it takes a lot of time, and it takes a lot of straw because they're really tight."
+
+00:10:14.000 --> 00:10:16.000
+"Now," he said, "we know from experience
+
+00:10:16.000 --> 00:10:21.000
+that the farther up from the ground you go, the stronger the wind blows."
+
+00:10:21.000 --> 00:10:24.000
+Right? It's just like a cost-benefit analysis.
+
+00:10:24.000 --> 00:10:26.000
+And I measured out the lengths of straw,
+
+00:10:26.000 --> 00:10:28.000
+put it on a log-log plot, got the scaling exponent,
+
+00:10:28.000 --> 00:10:33.000
+and it almost exactly matches the scaling exponent for the relationship between wind speed and height
+
+00:10:33.000 --> 00:10:34.000
+in the wind engineering handbook.
+
+00:10:34.000 --> 00:10:39.000
+So these guys are right on target for a practical use of scaling technology.
+
+00:10:39.000 --> 00:10:44.000
+The most complex example of an algorithmic approach to fractals that I found
+
+00:10:44.000 --> 00:10:46.000
+was actually not in geometry, it was in a symbolic code,
+
+00:10:46.000 --> 00:10:49.000
+and this was Bamana sand divination.
+
+00:10:49.000 --> 00:10:52.000
+And the same divination system is found all over Africa.
+
+00:10:52.000 --> 00:10:57.000
+You can find it on the East Coast as well as the West Coast,
+
+00:10:57.000 --> 00:10:59.000
+and often the symbols are very well preserved,
+
+00:10:59.000 --> 00:11:05.000
+so each of these symbols has four bits -- it's a four-bit binary word --
+
+00:11:05.000 --> 00:11:10.000
+you draw these lines in the sand randomly, and then you count off,
+
+00:11:10.000 --> 00:11:12.000
+and if it's an odd number, you put down one stroke,
+
+00:11:12.000 --> 00:11:14.000
+and if it's an even number, you put down two strokes.
+
+00:11:14.000 --> 00:11:17.000
+And they did this very rapidly,
+
+00:11:17.000 --> 00:11:19.000
+and I couldn't understand where they were getting --
+
+00:11:19.000 --> 00:11:21.000
+they only did the randomness four times --
+
+00:11:21.000 --> 00:11:23.000
+I couldn't understand where they were getting the other 12 symbols.
+
+00:11:23.000 --> 00:11:25.000
+And they wouldn't tell me.
+
+00:11:25.000 --> 00:11:27.000
+They said, "No, no, I can't tell you about this."
+
+00:11:27.000 --> 00:11:29.000
+And I said, "Well look, I'll pay you, you can be my teacher,
+
+00:11:29.000 --> 00:11:31.000
+and I'll come each day and pay you."
+
+00:11:31.000 --> 00:11:34.000
+They said, "It's not a matter of money. This is a religious matter."
+
+00:11:34.000 --> 00:11:35.000
+And finally, out of desperation, I said,
+
+00:11:35.000 --> 00:11:38.000
+"Well, let me explain Georg Cantor in 1877."
+
+00:11:38.000 --> 00:11:42.000
+And I started explaining why I was there in Africa,
+
+00:11:42.000 --> 00:11:44.000
+and they got very excited when they saw the Cantor set.
+
+00:11:44.000 --> 00:11:48.000
+And one of them said, "Come here. I think I can help you out here."
+
+00:11:48.000 --> 00:11:53.000
+And so he took me through the initiation ritual for a Bamana priest.
+
+00:11:53.000 --> 00:11:55.000
+And of course, I was only interested in the math,
+
+00:11:55.000 --> 00:11:57.000
+so the whole time, he kept shaking his head going,
+
+00:11:57.000 --> 00:11:58.000
+"You know, I didn't learn it this way."
+
+00:11:58.000 --> 00:12:02.000
+But I had to sleep with a kola nut next to my bed, buried in sand,
+
+00:12:02.000 --> 00:12:05.000
+and give seven coins to seven lepers and so on.
+
+00:12:05.000 --> 00:12:09.000
+And finally, he revealed the truth of the matter.
+
+00:12:10.000 --> 00:12:14.000
+And it turns out it's a pseudo-random number generator using deterministic chaos.
+
+00:12:14.000 --> 00:12:20.000
+When you have a four-bit symbol, you then put it together with another one sideways.
+
+00:12:20.000 --> 00:12:22.000
+So even plus odd gives you odd.
+
+00:12:22.000 --> 00:12:24.000
+Odd plus even gives you odd.
+
+00:12:24.000 --> 00:12:27.000
+Even plus even gives you even. Odd plus odd gives you even.
+
+00:12:27.000 --> 00:12:31.000
+It's addition modulo 2, just like in the parity bit check on your computer.
+
+00:12:31.000 --> 00:12:35.000
+And then you take this symbol, and you put it back in
+
+00:12:35.000 --> 00:12:37.000
+so it's a self-generating diversity of symbols.
+
+00:12:37.000 --> 00:12:41.000
+They're truly using a kind of deterministic chaos in doing this.
+
+00:12:41.000 --> 00:12:43.000
+Now, because it's a binary code,
+
+00:12:43.000 --> 00:12:45.000
+you can actually implement this in hardware --
+
+00:12:45.000 --> 00:12:50.000
+what a fantastic teaching tool that should be in African engineering schools.
+
+00:12:50.000 --> 00:12:53.000
+And the most interesting thing I found out about it was historical.
+
+00:12:53.000 --> 00:12:59.000
+In the 12th century, Hugo of Santalla brought it from Islamic mystics into Spain.
+
+00:12:59.000 --> 00:13:05.000
+And there it entered into the alchemy community as geomancy:
+
+00:13:05.000 --> 00:13:07.000
+divination through the earth.
+
+00:13:07.000 --> 00:13:12.000
+This is a geomantic chart drawn for King Richard II in 1390.
+
+00:13:12.000 --> 00:13:15.000
+Leibniz, the German mathematician,
+
+00:13:15.000 --> 00:13:19.000
+talked about geomancy in his dissertation called "De Combinatoria."
+
+00:13:19.000 --> 00:13:23.000
+And he said, "Well, instead of using one stroke and two strokes,
+
+00:13:23.000 --> 00:13:27.000
+let's use a one and a zero, and we can count by powers of two."
+
+00:13:27.000 --> 00:13:29.000
+Right? Ones and zeros, the binary code.
+
+00:13:29.000 --> 00:13:32.000
+George Boole took Leibniz's binary code and created Boolean algebra,
+
+00:13:32.000 --> 00:13:35.000
+and John von Neumann took Boolean algebra and created the digital computer.
+
+00:13:35.000 --> 00:13:38.000
+So all these little PDAs and laptops --
+
+00:13:38.000 --> 00:13:41.000
+every digital circuit in the world -- started in Africa.
+
+00:13:41.000 --> 00:13:46.000
+And I know Brian Eno says there's not enough Africa in computers,
+
+00:13:46.000 --> 00:13:51.000
+but you know, I don't think there's enough African history in Brian Eno.
+
+00:13:51.000 --> 00:13:54.000
+(Laughter) (Applause)
+
+00:13:54.000 --> 00:13:58.000
+So let me end with just a few words about applications that we've found for this.
+
+00:13:58.000 --> 00:14:00.000
+And you can go to our website,
+
+00:14:00.000 --> 00:14:02.000
+the applets are all free; they just run in the browser.
+
+00:14:02.000 --> 00:14:04.000
+Anybody in the world can use them.
+
+00:14:04.000 --> 00:14:09.000
+The National Science Foundation's Broadening Participation in Computing program
+
+00:14:09.000 --> 00:14:16.000
+recently awarded us a grant to make a programmable version of these design tools,
+
+00:14:16.000 --> 00:14:18.000
+so hopefully in three years, anybody'll be able to go on the Web
+
+00:14:18.000 --> 00:14:21.000
+and create their own simulations and their own artifacts.
+
+00:14:21.000 --> 00:14:26.000
+We've focused in the U.S. on African-American students as well as Native American and Latino.
+
+00:14:26.000 --> 00:14:32.000
+We've found statistically significant improvement with children using this software in a mathematics class
+
+00:14:32.000 --> 00:14:35.000
+in comparison with a control group that did not have the software.
+
+00:14:35.000 --> 00:14:41.000
+So it's really very successful teaching children that they have a heritage that's about mathematics,
+
+00:14:41.000 --> 00:14:45.000
+that it's not just about singing and dancing.
+
+00:14:45.000 --> 00:14:48.000
+We've started a pilot program in Ghana.
+
+00:14:48.000 --> 00:14:53.000
+We got a small seed grant, just to see if folks would be willing to work with us on this;
+
+00:14:53.000 --> 00:14:56.000
+we're very excited about the future possibilities for that.
+
+00:14:56.000 --> 00:14:58.000
+We've also been working in design.
+
+00:14:58.000 --> 00:15:03.000
+I didn't put his name up here -- my colleague, Kerry, in Kenya, has come up with this great idea
+
+00:15:03.000 --> 00:15:08.000
+for using fractal structure for postal address in villages that have fractal structure,
+
+00:15:08.000 --> 00:15:12.000
+because if you try to impose a grid structure postal system on a fractal village,
+
+00:15:12.000 --> 00:15:14.000
+it doesn't quite fit.
+
+00:15:14.000 --> 00:15:19.000
+Bernard Tschumi at Columbia University has finished using this in a design for a museum of African art.
+
+00:15:19.000 --> 00:15:27.000
+David Hughes at Ohio State University has written a primer on Afrocentric architecture
+
+00:15:27.000 --> 00:15:29.000
+in which he's used some of these fractal structures.
+
+00:15:29.000 --> 00:15:34.000
+And finally, I just wanted to point out that this idea of self-organization,
+
+00:15:34.000 --> 00:15:36.000
+as we heard earlier, it's in the brain.
+
+00:15:36.000 --> 00:15:41.000
+It's in the -- it's in Google's search engine.
+
+00:15:41.000 --> 00:15:43.000
+Actually, the reason that Google was such a success
+
+00:15:43.000 --> 00:15:47.000
+is because they were the first ones to take advantage of the self-organizing properties of the web.
+
+00:15:47.000 --> 00:15:49.000
+It's in ecological sustainability.
+
+00:15:49.000 --> 00:15:51.000
+It's in the developmental power of entrepreneurship,
+
+00:15:51.000 --> 00:15:53.000
+the ethical power of democracy.
+
+00:15:54.000 --> 00:15:56.000
+It's also in some bad things.
+
+00:15:56.000 --> 00:15:59.000
+Self-organization is why the AIDS virus is spreading so fast.
+
+00:15:59.000 --> 00:16:03.000
+And if you don't think that capitalism, which is self-organizing, can have destructive effects,
+
+00:16:03.000 --> 00:16:05.000
+you haven't opened your eyes enough.
+
+00:16:05.000 --> 00:16:09.000
+So we need to think about, as was spoken earlier,
+
+00:16:09.000 --> 00:16:11.000
+the traditional African methods for doing self-organization.
+
+00:16:11.000 --> 00:16:13.000
+These are robust algorithms.
+
+00:16:14.000 --> 00:16:17.000
+These are ways of doing self-organization -- of doing entrepreneurship --
+
+00:16:17.000 --> 00:16:19.000
+that are gentle, that are egalitarian.
+
+00:16:19.000 --> 00:16:23.000
+So if we want to find a better way of doing that kind of work,
+
+00:16:23.000 --> 00:16:28.000
+we need look only no farther than Africa to find these robust self-organizing algorithms.
+
+00:16:28.000 --> 00:16:29.000
+Thank you.
+

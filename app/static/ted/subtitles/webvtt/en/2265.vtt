@@ -1,0 +1,1296 @@
+WEBVTT
+
+00:00:00.835 --> 00:00:02.990
+Mark Twain summed up
+what I take to be
+
+00:00:02.990 --> 00:00:06.110
+one of the fundamental problems
+of cognitive science
+
+00:00:06.110 --> 00:00:07.820
+with a single witticism.
+
+00:00:08.410 --> 00:00:11.492
+He said, "There's something
+fascinating about science.
+
+00:00:11.492 --> 00:00:14.720
+One gets such wholesale
+returns of conjecture
+
+00:00:14.720 --> 00:00:17.924
+out of such a trifling
+investment in fact."
+
+00:00:17.924 --> 00:00:19.509
+(Laughter)
+
+00:00:20.199 --> 00:00:22.803
+Twain meant it as a joke,
+of course, but he's right:
+
+00:00:22.803 --> 00:00:25.679
+There's something
+fascinating about science.
+
+00:00:25.679 --> 00:00:29.940
+From a few bones, we infer
+the existence of dinosuars.
+
+00:00:30.910 --> 00:00:34.781
+From spectral lines,
+the composition of nebulae.
+
+00:00:35.471 --> 00:00:38.409
+From fruit flies,
+
+00:00:38.409 --> 00:00:41.352
+the mechanisms of heredity,
+
+00:00:41.352 --> 00:00:45.601
+and from reconstructed images
+of blood flowing through the brain,
+
+00:00:45.601 --> 00:00:50.309
+or in my case, from the behavior
+of very young children,
+
+00:00:50.309 --> 00:00:53.138
+we try to say something about
+the fundamental mechanisms
+
+00:00:53.138 --> 00:00:54.756
+of human cognition.
+
+00:00:55.716 --> 00:01:00.475
+In particular, in my lab in the Department
+of Brain and Cognitive Sciences at MIT,
+
+00:01:00.475 --> 00:01:04.129
+I have spent the past decade
+trying to understand the mystery
+
+00:01:04.129 --> 00:01:08.106
+of how children learn so much
+from so little so quickly.
+
+00:01:08.666 --> 00:01:11.644
+Because, it turns out that
+the fascinating thing about science
+
+00:01:11.644 --> 00:01:15.173
+is also a fascinating
+thing about children,
+
+00:01:15.173 --> 00:01:17.754
+which, to put a gentler
+spin on Mark Twain,
+
+00:01:17.754 --> 00:01:22.404
+is precisely their ability
+to draw rich, abstract inferences
+
+00:01:22.404 --> 00:01:27.065
+rapidly and accurately
+from sparse, noisy data.
+
+00:01:28.355 --> 00:01:30.753
+I'm going to give you
+just two examples today.
+
+00:01:30.753 --> 00:01:33.040
+One is about a problem of generalization,
+
+00:01:33.040 --> 00:01:35.890
+and the other is about a problem
+of causal reasoning.
+
+00:01:35.890 --> 00:01:38.415
+And although I'm going to talk
+about work in my lab,
+
+00:01:38.415 --> 00:01:41.875
+this work is inspired by
+and indebted to a field.
+
+00:01:41.875 --> 00:01:46.158
+I'm grateful to mentors, colleagues,
+and collaborators around the world.
+
+00:01:47.308 --> 00:01:50.282
+Let me start with the problem
+of generalization.
+
+00:01:50.652 --> 00:01:54.785
+Generalizing from small samples of data
+is the bread and butter of science.
+
+00:01:54.785 --> 00:01:57.339
+We poll a tiny fraction of the electorate
+
+00:01:57.339 --> 00:01:59.660
+and we predict the outcome
+of national elections.
+
+00:02:00.240 --> 00:02:04.165
+We see how a handful of patients
+responds to treatment in a clinical trial,
+
+00:02:04.165 --> 00:02:07.230
+and we bring drugs to a national market.
+
+00:02:07.230 --> 00:02:11.595
+But this only works if our sample
+is randomly drawn from the population.
+
+00:02:11.595 --> 00:02:14.330
+If our sample is cherry-picked
+in some way --
+
+00:02:14.330 --> 00:02:16.402
+say, we poll only urban voters,
+
+00:02:16.402 --> 00:02:20.790
+or say, in our clinical trials
+for treatments for heart disease,
+
+00:02:20.790 --> 00:02:22.671
+we include only men --
+
+00:02:22.671 --> 00:02:25.829
+the results may not generalize
+to the broader population.
+
+00:02:26.479 --> 00:02:30.060
+So scientists care whether evidence
+is randomly sampled or not,
+
+00:02:30.060 --> 00:02:32.075
+but what does that have to do with babies?
+
+00:02:32.585 --> 00:02:37.206
+Well, babies have to generalize
+from small samples of data all the time.
+
+00:02:37.206 --> 00:02:40.364
+They see a few rubber ducks
+and learn that they float,
+
+00:02:40.364 --> 00:02:43.939
+or a few balls and learn that they bounce.
+
+00:02:43.939 --> 00:02:46.890
+And they develop expectations
+about ducks and balls
+
+00:02:46.890 --> 00:02:49.606
+that they're going to extend
+to rubber ducks and balls
+
+00:02:49.606 --> 00:02:51.485
+for the rest of their lives.
+
+00:02:51.485 --> 00:02:55.224
+And the kinds of generalizations
+babies have to make about ducks and balls
+
+00:02:55.224 --> 00:02:57.313
+they have to make about almost everything:
+
+00:02:57.313 --> 00:03:01.230
+shoes and ships and sealing wax
+and cabbages and kings.
+
+00:03:02.200 --> 00:03:05.161
+So do babies care whether
+the tiny bit of evidence they see
+
+00:03:05.161 --> 00:03:08.853
+is plausibly representative
+of a larger population?
+
+00:03:09.763 --> 00:03:11.663
+Let's find out.
+
+00:03:11.663 --> 00:03:13.386
+I'm going to show you two movies,
+
+00:03:13.386 --> 00:03:15.848
+one from each of two conditions
+of an experiment,
+
+00:03:15.848 --> 00:03:18.286
+and because you're going to see
+just two movies,
+
+00:03:18.286 --> 00:03:20.422
+you're going to see just two babies,
+
+00:03:20.422 --> 00:03:24.369
+and any two babies differ from each other
+in innumerable ways.
+
+00:03:24.369 --> 00:03:27.420
+But these babies, of course,
+here stand in for groups of babies,
+
+00:03:27.420 --> 00:03:29.315
+and the differences you're going to see
+
+00:03:29.315 --> 00:03:34.510
+represent average group differences
+in babies' behavior across conditions.
+
+00:03:35.160 --> 00:03:37.743
+In each movie, you're going to see
+a baby doing maybe
+
+00:03:37.743 --> 00:03:41.203
+just exactly what you might
+expect a baby to do,
+
+00:03:41.203 --> 00:03:45.220
+and we can hardly make babies
+more magical than they already are.
+
+00:03:46.090 --> 00:03:48.100
+But to my mind the magical thing,
+
+00:03:48.100 --> 00:03:50.189
+and what I want you to pay attention to,
+
+00:03:50.189 --> 00:03:53.300
+is the contrast between
+these two conditions,
+
+00:03:53.300 --> 00:03:56.829
+because the only thing
+that differs between these two movies
+
+00:03:56.829 --> 00:04:00.295
+is the statistical evidence
+the babies are going to observe.
+
+00:04:01.425 --> 00:04:04.608
+We're going to show babies
+a box of blue and yellow balls,
+
+00:04:04.608 --> 00:04:09.228
+and my then-graduate student,
+now colleague at Stanford, Hyowon Gweon,
+
+00:04:09.228 --> 00:04:12.305
+is going to pull three blue balls
+in a row out of this box,
+
+00:04:12.305 --> 00:04:15.428
+and when she pulls those balls out,
+she's going to squeeze them,
+
+00:04:15.428 --> 00:04:17.541
+and the balls are going to squeak.
+
+00:04:17.541 --> 00:04:20.304
+And if you're a baby,
+that's like a TED Talk.
+
+00:04:20.304 --> 00:04:22.208
+It doesn't get better than that.
+
+00:04:22.208 --> 00:04:24.769
+(Laughter)
+
+00:04:26.968 --> 00:04:30.627
+But the important point is it's really
+easy to pull three blue balls in a row
+
+00:04:30.627 --> 00:04:32.932
+out of a box of mostly blue balls.
+
+00:04:32.932 --> 00:04:34.992
+You could do that with your eyes closed.
+
+00:04:34.992 --> 00:04:37.988
+It's plausibly a random sample
+from this population.
+
+00:04:37.988 --> 00:04:41.720
+And if you can reach into a box at random
+and pull out things that squeak,
+
+00:04:41.720 --> 00:04:44.559
+then maybe everything in the box squeaks.
+
+00:04:44.559 --> 00:04:48.209
+So maybe babies should expect
+those yellow balls to squeak as well.
+
+00:04:48.209 --> 00:04:50.728
+Now, those yellow balls
+have funny sticks on the end,
+
+00:04:50.728 --> 00:04:53.585
+so babies could do other things
+with them if they wanted to.
+
+00:04:53.585 --> 00:04:55.416
+They could pound them or whack them.
+
+00:04:55.416 --> 00:04:58.002
+But let's see what the baby does.
+
+00:05:00.548 --> 00:05:03.891
+(Video) Hyowon Gweon: See this?
+(Ball squeaks)
+
+00:05:04.531 --> 00:05:07.576
+Did you see that?
+(Ball squeaks)
+
+00:05:08.036 --> 00:05:11.102
+Cool.
+
+00:05:12.706 --> 00:05:14.656
+See this one?
+
+00:05:14.656 --> 00:05:16.537
+(Ball squeaks)
+
+00:05:16.537 --> 00:05:19.190
+Wow.
+
+00:05:21.854 --> 00:05:23.967
+Laura Schulz: Told you. (Laughs)
+
+00:05:23.967 --> 00:05:27.998
+(Video) HG: See this one?
+(Ball squeaks)
+
+00:05:27.998 --> 00:05:32.617
+Hey Clara, this one's for you.
+You can go ahead and play.
+
+00:05:39.854 --> 00:05:44.219
+(Laughter)
+
+00:05:44.219 --> 00:05:47.214
+LS: I don't even have to talk, right?
+
+00:05:47.214 --> 00:05:50.113
+All right, it's nice that babies
+will generalize properties
+
+00:05:50.113 --> 00:05:51.641
+of blue balls to yellow balls,
+
+00:05:51.641 --> 00:05:54.737
+and it's impressive that babies
+can learn from imitating us,
+
+00:05:54.737 --> 00:05:58.406
+but we've known those things about babies
+for a very long time.
+
+00:05:58.406 --> 00:06:00.217
+The really interesting question
+
+00:06:00.217 --> 00:06:03.069
+is what happens when we show babies
+exactly the same thing,
+
+00:06:03.069 --> 00:06:06.680
+and we can ensure it's exactly the same
+because we have a secret compartment
+
+00:06:06.680 --> 00:06:08.790
+and we actually pull the balls from there,
+
+00:06:08.790 --> 00:06:12.268
+but this time, all we change
+is the apparent population
+
+00:06:12.268 --> 00:06:15.170
+from which that evidence was drawn.
+
+00:06:15.170 --> 00:06:18.723
+This time, we're going to show babies
+three blue balls
+
+00:06:18.723 --> 00:06:22.107
+pulled out of a box
+of mostly yellow balls,
+
+00:06:22.107 --> 00:06:23.429
+and guess what?
+
+00:06:23.429 --> 00:06:26.269
+You [probably won't] randomly draw
+three blue balls in a row
+
+00:06:26.269 --> 00:06:28.753
+out of a box of mostly yellow balls.
+
+00:06:28.753 --> 00:06:32.500
+That is not plausibly
+randomly sampled evidence.
+
+00:06:32.500 --> 00:06:37.623
+That evidence suggests that maybe Hyowon
+was deliberately sampling the blue balls.
+
+00:06:37.623 --> 00:06:40.206
+Maybe there's something special
+about the blue balls.
+
+00:06:40.846 --> 00:06:43.822
+Maybe only the blue balls squeak.
+
+00:06:43.822 --> 00:06:45.717
+Let's see what the baby does.
+
+00:06:45.717 --> 00:06:48.621
+(Video) HG: See this?
+(Ball squeaks)
+
+00:06:50.851 --> 00:06:53.496
+See this toy?
+(Ball squeaks)
+
+00:06:53.496 --> 00:06:58.976
+Oh, that was cool. See?
+(Ball squeaks)
+
+00:06:58.976 --> 00:07:03.370
+Now this one's for you to play.
+You can go ahead and play.
+
+00:07:06.074 --> 00:07:12.421
+(Fussing)
+(Laughter)
+
+00:07:14.901 --> 00:07:17.649
+LS: So you just saw
+two 15-month-old babies
+
+00:07:17.649 --> 00:07:19.591
+do entirely different things
+
+00:07:19.591 --> 00:07:23.190
+based only on the probability
+of the sample they observed.
+
+00:07:23.190 --> 00:07:25.511
+Let me show you the experimental results.
+
+00:07:25.511 --> 00:07:28.275
+On the vertical axis, you'll see
+the percentage of babies
+
+00:07:28.275 --> 00:07:30.805
+who squeezed the ball in each condition,
+
+00:07:30.805 --> 00:07:34.520
+and as you'll see, babies are much
+more likely to generalize the evidence
+
+00:07:34.520 --> 00:07:37.655
+when it's plausibly representative
+of the population
+
+00:07:37.655 --> 00:07:41.393
+than when the evidence
+is clearly cherry-picked.
+
+00:07:41.393 --> 00:07:43.808
+And this leads to a fun prediction:
+
+00:07:43.808 --> 00:07:48.676
+Suppose you pulled just one blue ball
+out of the mostly yellow box.
+
+00:07:48.896 --> 00:07:52.765
+You [probably won't] pull three blue balls
+in a row at random out of a yellow box,
+
+00:07:52.765 --> 00:07:55.220
+but you could randomly sample
+just one blue ball.
+
+00:07:55.220 --> 00:07:57.190
+That's not an improbable sample.
+
+00:07:57.190 --> 00:07:59.414
+And if you could reach into
+a box at random
+
+00:07:59.414 --> 00:08:03.401
+and pull out something that squeaks,
+maybe everything in the box squeaks.
+
+00:08:03.875 --> 00:08:08.320
+So even though babies are going to see
+much less evidence for squeaking,
+
+00:08:08.320 --> 00:08:10.562
+and have many fewer actions to imitate
+
+00:08:10.562 --> 00:08:13.905
+in this one ball condition than in
+the condition you just saw,
+
+00:08:13.905 --> 00:08:17.797
+we predicted that babies themselves
+would squeeze more,
+
+00:08:17.797 --> 00:08:20.691
+and that's exactly what we found.
+
+00:08:20.691 --> 00:08:25.102
+So 15-month-old babies,
+in this respect, like scientists,
+
+00:08:25.102 --> 00:08:28.190
+care whether evidence
+is randomly sampled or not,
+
+00:08:28.190 --> 00:08:31.697
+and they use this to develop
+expectations about the world:
+
+00:08:31.697 --> 00:08:33.879
+what squeaks and what doesn't,
+
+00:08:33.879 --> 00:08:37.024
+what to explore and what to ignore.
+
+00:08:38.384 --> 00:08:40.450
+Let me show you another example now,
+
+00:08:40.450 --> 00:08:43.180
+this time about a problem
+of causal reasoning.
+
+00:08:43.180 --> 00:08:45.619
+And it starts with a problem
+of confounded evidence
+
+00:08:45.619 --> 00:08:47.291
+that all of us have,
+
+00:08:47.291 --> 00:08:49.311
+which is that we are part of the world.
+
+00:08:49.311 --> 00:08:52.747
+And this might not seem like a problem
+to you, but like most problems,
+
+00:08:52.747 --> 00:08:55.084
+it's only a problem when things go wrong.
+
+00:08:55.464 --> 00:08:57.275
+Take this baby, for instance.
+
+00:08:57.275 --> 00:08:58.980
+Things are going wrong for him.
+
+00:08:58.980 --> 00:09:01.251
+He would like to make
+this toy go, and he can't.
+
+00:09:01.251 --> 00:09:03.780
+I'll show you a few-second clip.
+
+00:09:09.340 --> 00:09:11.260
+And there's two possibilities, broadly:
+
+00:09:11.260 --> 00:09:13.894
+Maybe he's doing something wrong,
+
+00:09:13.894 --> 00:09:18.110
+or maybe there's something
+wrong with the toy.
+
+00:09:18.110 --> 00:09:20.221
+So in this next experiment,
+
+00:09:20.221 --> 00:09:23.518
+we're going to give babies
+just a tiny bit of statistical data
+
+00:09:23.518 --> 00:09:26.100
+supporting one hypothesis over the other,
+
+00:09:26.100 --> 00:09:29.555
+and we're going to see if babies
+can use that to make different decisions
+
+00:09:29.555 --> 00:09:31.389
+about what to do.
+
+00:09:31.389 --> 00:09:33.411
+Here's the setup.
+
+00:09:34.071 --> 00:09:37.101
+Hyowon is going to try to make
+the toy go and succeed.
+
+00:09:37.101 --> 00:09:40.421
+I am then going to try twice
+and fail both times,
+
+00:09:40.421 --> 00:09:43.533
+and then Hyowon is going
+to try again and succeed,
+
+00:09:43.533 --> 00:09:46.705
+and this roughly sums up my relationship
+to my graduate students
+
+00:09:46.705 --> 00:09:49.540
+in technology across the board.
+
+00:09:50.030 --> 00:09:53.322
+But the important point here is
+it provides a little bit of evidence
+
+00:09:53.322 --> 00:09:56.990
+that the problem isn't with the toy,
+it's with the person.
+
+00:09:56.990 --> 00:09:59.340
+Some people can make this toy go,
+
+00:09:59.340 --> 00:10:00.299
+and some can't.
+
+00:10:00.799 --> 00:10:04.212
+Now, when the baby gets the toy,
+he's going to have a choice.
+
+00:10:04.212 --> 00:10:06.400
+His mom is right there,
+
+00:10:06.400 --> 00:10:09.715
+so he can go ahead and hand off the toy
+and change the person,
+
+00:10:09.715 --> 00:10:12.873
+but there's also going to be
+another toy at the end of that cloth,
+
+00:10:12.873 --> 00:10:16.425
+and he can pull the cloth towards him
+and change the toy.
+
+00:10:16.425 --> 00:10:18.515
+So let's see what the baby does.
+
+00:10:18.515 --> 00:10:22.698
+(Video) HG: Two, three. Go!
+(Music)
+
+00:10:22.698 --> 00:10:25.829
+LS: One, two, three, go!
+
+00:10:25.829 --> 00:10:33.211
+Arthur, I'm going to try again.
+One, two, three, go!
+
+00:10:33.677 --> 00:10:36.277
+YG: Arthur, let me try again, okay?
+
+00:10:36.277 --> 00:10:40.827
+One, two, three, go!
+(Music)
+
+00:10:41.583 --> 00:10:43.466
+Look at that. Remember these toys?
+
+00:10:43.466 --> 00:10:46.730
+See these toys? Yeah, I'm going
+to put this one over here,
+
+00:10:46.730 --> 00:10:48.792
+and I'm going to give this one to you.
+
+00:10:48.792 --> 00:10:51.127
+You can go ahead and play.
+
+00:11:11.213 --> 00:11:15.950
+LS: Okay, Laura, but of course,
+babies love their mommies.
+
+00:11:15.950 --> 00:11:18.132
+Of course babies give toys
+to their mommies
+
+00:11:18.132 --> 00:11:20.162
+when they can't make them work.
+
+00:11:20.162 --> 00:11:23.755
+So again, the really important question
+is what happens when we change
+
+00:11:23.755 --> 00:11:26.909
+the statistical data ever so slightly.
+
+00:11:26.909 --> 00:11:30.996
+This time, babies are going to see the toy
+work and fail in exactly the same order,
+
+00:11:30.996 --> 00:11:33.411
+but we're changing
+the distribution of evidence.
+
+00:11:33.411 --> 00:11:37.822
+This time, Hyowon is going to succeed
+once and fail once, and so am I.
+
+00:11:37.822 --> 00:11:43.459
+And this suggests it doesn't matter
+who tries this toy, the toy is broken.
+
+00:11:43.459 --> 00:11:45.345
+It doesn't work all the time.
+
+00:11:45.345 --> 00:11:47.310
+Again, the baby's going to have a choice.
+
+00:11:47.310 --> 00:11:50.706
+Her mom is right next to her,
+so she can change the person,
+
+00:11:50.706 --> 00:11:53.910
+and there's going to be another toy
+at the end of the cloth.
+
+00:11:53.910 --> 00:11:55.288
+Let's watch what she does.
+
+00:11:55.288 --> 00:11:59.636
+(Video) HG: Two, three, go!
+(Music)
+
+00:11:59.636 --> 00:12:04.620
+Let me try one more time.
+One, two, three, go!
+
+00:12:05.460 --> 00:12:07.157
+Hmm.
+
+00:12:07.950 --> 00:12:10.642
+LS: Let me try, Clara.
+
+00:12:10.642 --> 00:12:14.587
+One, two, three, go!
+
+00:12:15.265 --> 00:12:17.200
+Hmm, let me try again.
+
+00:12:17.200 --> 00:12:22.870
+One, two, three, go!
+(Music)
+
+00:12:23.009 --> 00:12:25.242
+HG: I'm going
+to put this one over here,
+
+00:12:25.242 --> 00:12:27.243
+and I'm going to give this one to you.
+
+00:12:27.243 --> 00:12:30.840
+You can go ahead and play.
+
+00:12:46.376 --> 00:12:51.273
+(Applause)
+
+00:12:52.993 --> 00:12:55.385
+LS: Let me show you
+the experimental results.
+
+00:12:55.385 --> 00:12:57.860
+On the vertical axis,
+you'll see the distribution
+
+00:12:57.860 --> 00:13:00.437
+of children's choices in each condition,
+
+00:13:00.437 --> 00:13:04.988
+and you'll see that the distribution
+of the choices children make
+
+00:13:04.988 --> 00:13:07.775
+depends on the evidence they observe.
+
+00:13:07.775 --> 00:13:09.632
+So in the second year of life,
+
+00:13:09.632 --> 00:13:12.209
+babies can use a tiny bit
+of statistical data
+
+00:13:12.209 --> 00:13:15.576
+to decide between two
+fundamentally different strategies
+
+00:13:15.576 --> 00:13:17.457
+for acting in the world:
+
+00:13:17.457 --> 00:13:20.200
+asking for help and exploring.
+
+00:13:21.700 --> 00:13:25.134
+I've just shown you
+two laboratory experiments
+
+00:13:25.134 --> 00:13:28.825
+out of literally hundreds in the field
+that make similar points,
+
+00:13:28.825 --> 00:13:31.217
+because the really critical point
+
+00:13:31.217 --> 00:13:36.325
+is that children's ability
+to make rich inferences from sparse data
+
+00:13:36.325 --> 00:13:41.666
+underlies all the species-specific
+cultural learning that we do.
+
+00:13:41.666 --> 00:13:46.263
+Children learn about new tools
+from just a few examples.
+
+00:13:46.263 --> 00:13:50.980
+They learn new causal relationships
+from just a few examples.
+
+00:13:51.928 --> 00:13:56.799
+They even learn new words,
+in this case in American Sign Language.
+
+00:13:56.799 --> 00:13:59.110
+I want to close with just two points.
+
+00:14:00.050 --> 00:14:03.738
+If you've been following my world,
+the field of brain and cognitive sciences,
+
+00:14:03.738 --> 00:14:05.665
+for the past few years,
+
+00:14:05.665 --> 00:14:08.080
+three big ideas will have come
+to your attention.
+
+00:14:08.080 --> 00:14:11.516
+The first is that this is
+the era of the brain.
+
+00:14:11.516 --> 00:14:15.185
+And indeed, there have been
+staggering discoveries in neuroscience:
+
+00:14:15.185 --> 00:14:18.621
+localizing functionally specialized
+regions of cortex,
+
+00:14:18.621 --> 00:14:21.222
+turning mouse brains transparent,
+
+00:14:21.222 --> 00:14:24.998
+activating neurons with light.
+
+00:14:24.998 --> 00:14:26.994
+A second big idea
+
+00:14:26.994 --> 00:14:31.098
+is that this is the era of big data
+and machine learning,
+
+00:14:31.098 --> 00:14:34.239
+and machine learning promises
+to revolutionize our understanding
+
+00:14:34.239 --> 00:14:38.906
+of everything from social networks
+to epidemiology.
+
+00:14:38.906 --> 00:14:41.599
+And maybe, as it tackles problems
+of scene understanding
+
+00:14:41.599 --> 00:14:43.592
+and natural language processing,
+
+00:14:43.592 --> 00:14:46.916
+to tell us something
+about human cognition.
+
+00:14:47.756 --> 00:14:49.693
+And the final big idea you'll have heard
+
+00:14:49.693 --> 00:14:53.080
+is that maybe it's a good idea we're going
+to know so much about brains
+
+00:14:53.080 --> 00:14:54.997
+and have so much access to big data,
+
+00:14:54.997 --> 00:14:57.504
+because left to our own devices,
+
+00:14:57.504 --> 00:15:01.335
+humans are fallible, we take shortcuts,
+
+00:15:01.335 --> 00:15:04.772
+we err, we make mistakes,
+
+00:15:04.772 --> 00:15:08.456
+we're biased, and in innumerable ways,
+
+00:15:08.456 --> 00:15:11.425
+we get the world wrong.
+
+00:15:12.843 --> 00:15:15.792
+I think these are all important stories,
+
+00:15:15.792 --> 00:15:19.577
+and they have a lot to tell us
+about what it means to be human,
+
+00:15:19.577 --> 00:15:23.106
+but I want you to note that today
+I told you a very different story.
+
+00:15:23.966 --> 00:15:27.773
+It's a story about minds and not brains,
+
+00:15:27.773 --> 00:15:30.779
+and in particular, it's a story
+about the kinds of computations
+
+00:15:30.779 --> 00:15:33.369
+that uniquely human minds can perform,
+
+00:15:33.369 --> 00:15:37.313
+which involve rich, structured knowledge
+and the ability to learn
+
+00:15:37.313 --> 00:15:42.581
+from small amounts of data,
+the evidence of just a few examples.
+
+00:15:44.301 --> 00:15:48.600
+And fundamentally, it's a story
+about how starting as very small children
+
+00:15:48.600 --> 00:15:52.780
+and continuing out all the way
+to the greatest accomplishments
+
+00:15:52.780 --> 00:15:56.623
+of our culture,
+
+00:15:56.623 --> 00:15:58.620
+we get the world right.
+
+00:16:00.433 --> 00:16:05.700
+Folks, human minds do not only learn
+from small amounts of data.
+
+00:16:06.285 --> 00:16:08.386
+Human minds think
+of altogether new ideas.
+
+00:16:08.746 --> 00:16:11.787
+Human minds generate
+research and discovery,
+
+00:16:11.787 --> 00:16:17.060
+and human minds generate
+art and literature and poetry and theater,
+
+00:16:17.070 --> 00:16:20.830
+and human minds take care of other humans:
+
+00:16:20.830 --> 00:16:24.257
+our old, our young, our sick.
+
+00:16:24.517 --> 00:16:26.884
+We even heal them.
+
+00:16:27.564 --> 00:16:30.667
+In the years to come, we're going
+to see technological innovations
+
+00:16:30.667 --> 00:16:34.464
+beyond anything I can even envision,
+
+00:16:34.464 --> 00:16:36.614
+but we are very unlikely
+
+00:16:36.614 --> 00:16:42.323
+to see anything even approximating
+the computational power of a human child
+
+00:16:42.323 --> 00:16:46.621
+in my lifetime or in yours.
+
+00:16:46.621 --> 00:16:51.668
+If we invest in these most powerful
+learners and their development,
+
+00:16:51.668 --> 00:16:54.585
+in babies and children
+
+00:16:54.585 --> 00:16:56.411
+and mothers and fathers
+
+00:16:56.411 --> 00:16:59.110
+and caregivers and teachers
+
+00:16:59.110 --> 00:17:03.280
+the ways we invest in our other
+most powerful and elegant forms
+
+00:17:03.280 --> 00:17:06.498
+of technology, engineering and design,
+
+00:17:06.498 --> 00:17:09.437
+we will not just be dreaming
+of a better future,
+
+00:17:09.437 --> 00:17:11.564
+we will be planning for one.
+
+00:17:11.564 --> 00:17:13.909
+Thank you very much.
+
+00:17:13.909 --> 00:17:17.330
+(Applause)
+
+00:17:17.810 --> 00:17:22.236
+Chris Anderson: Laura, thank you.
+I do actually have a question for you.
+
+00:17:22.236 --> 00:17:24.595
+First of all, the research is insane.
+
+00:17:24.595 --> 00:17:28.320
+I mean, who would design
+an experiment like that? (Laughter)
+
+00:17:29.150 --> 00:17:30.940
+I've seen that a couple of times,
+
+00:17:30.940 --> 00:17:34.162
+and I still don't honestly believe
+that that can truly be happening,
+
+00:17:34.162 --> 00:17:37.320
+but other people have done
+similar experiments; it checks out.
+
+00:17:37.320 --> 00:17:38.953
+The babies really are that genius.
+
+00:17:38.953 --> 00:17:41.960
+LS: You know, they look really impressive
+in our experiments,
+
+00:17:41.960 --> 00:17:44.612
+but think about what they
+look like in real life, right?
+
+00:17:44.612 --> 00:17:45.762
+It starts out as a baby.
+
+00:17:45.762 --> 00:17:47.769
+Eighteen months later,
+it's talking to you,
+
+00:17:47.769 --> 00:17:50.810
+and babies' first words aren't just
+things like balls and ducks,
+
+00:17:50.810 --> 00:17:53.691
+they're things like "all gone,"
+which refer to disappearance,
+
+00:17:53.691 --> 00:17:55.974
+or "uh-oh," which refer
+to unintentional actions.
+
+00:17:55.974 --> 00:17:57.536
+It has to be that powerful.
+
+00:17:57.536 --> 00:18:00.311
+It has to be much more powerful
+than anything I showed you.
+
+00:18:00.311 --> 00:18:02.285
+They're figuring out the entire world.
+
+00:18:02.285 --> 00:18:05.429
+A four-year-old can talk to you
+about almost anything.
+
+00:18:05.429 --> 00:18:07.030
+(Applause)
+
+00:18:07.030 --> 00:18:10.444
+CA: And if I understand you right,
+the other key point you're making is,
+
+00:18:10.444 --> 00:18:13.198
+we've been through these years
+where there's all this talk
+
+00:18:13.198 --> 00:18:15.130
+of how quirky and buggy our minds are,
+
+00:18:15.130 --> 00:18:17.997
+that behavioral economics
+and the whole theories behind that
+
+00:18:17.997 --> 00:18:19.600
+that we're not rational agents.
+
+00:18:19.600 --> 00:18:23.816
+You're really saying that the bigger
+story is how extraordinary,
+
+00:18:23.816 --> 00:18:28.760
+and there really is genius there
+that is underappreciated.
+
+00:18:28.760 --> 00:18:30.830
+LS: One of my favorite
+quotes in psychology
+
+00:18:30.830 --> 00:18:33.120
+comes from the social
+psychologist Solomon Asch,
+
+00:18:33.120 --> 00:18:35.927
+and he said the fundamental task
+of psychology is to remove
+
+00:18:35.927 --> 00:18:38.553
+the veil of self-evidence from things.
+
+00:18:38.553 --> 00:18:43.104
+There are orders of magnitude
+more decisions you make every day
+
+00:18:43.104 --> 00:18:44.451
+that get the world right.
+
+00:18:44.451 --> 00:18:46.583
+You know about objects
+and their properties.
+
+00:18:46.583 --> 00:18:49.612
+You know them when they're occluded.
+You know them in the dark.
+
+00:18:49.612 --> 00:18:50.920
+You can walk through rooms.
+
+00:18:50.920 --> 00:18:54.452
+You can figure out what other people
+are thinking. You can talk to them.
+
+00:18:54.452 --> 00:18:56.682
+You can navigate space.
+You know about numbers.
+
+00:18:56.682 --> 00:18:59.704
+You know causal relationships.
+You know about moral reasoning.
+
+00:18:59.704 --> 00:19:02.060
+You do this effortlessly,
+so we don't see it,
+
+00:19:02.060 --> 00:19:04.972
+but that is how we get the world right,
+and it's a remarkable
+
+00:19:04.972 --> 00:19:07.290
+and very difficult-to-understand
+accomplishment.
+
+00:19:07.290 --> 00:19:09.918
+CA: I suspect there are people
+in the audience who have
+
+00:19:09.918 --> 00:19:12.156
+this view of accelerating
+technological power
+
+00:19:12.156 --> 00:19:15.114
+who might dispute your statement
+that never in our lifetimes
+
+00:19:15.114 --> 00:19:17.732
+will a computer do what
+a three-year-old child can do,
+
+00:19:17.732 --> 00:19:20.980
+but what's clear is that in any scenario,
+
+00:19:20.980 --> 00:19:24.750
+our machines have so much to learn
+from our toddlers.
+
+00:19:26.230 --> 00:19:29.446
+LS: I think so. You'll have some
+machine learning folks up here.
+
+00:19:29.446 --> 00:19:33.649
+I mean, you should never bet
+against babies or chimpanzees
+
+00:19:33.649 --> 00:19:37.294
+or technology as a matter of practice,
+
+00:19:37.294 --> 00:19:41.822
+but it's not just
+a difference in quantity,
+
+00:19:41.822 --> 00:19:43.586
+it's a difference in kind.
+
+00:19:43.586 --> 00:19:45.746
+We have incredibly powerful computers,
+
+00:19:45.746 --> 00:19:48.137
+and they do do amazingly
+sophisticated things,
+
+00:19:48.137 --> 00:19:51.341
+often with very big amounts of data.
+
+00:19:51.341 --> 00:19:53.948
+Human minds do, I think,
+something quite different,
+
+00:19:53.948 --> 00:19:57.843
+and I think it's the structured,
+hierarchical nature of human knowledge
+
+00:19:57.843 --> 00:19:59.875
+that remains a real challenge.
+
+00:19:59.875 --> 00:20:02.936
+CA: Laura Schulz, wonderful
+food for thought. Thank you so much.
+
+00:20:02.936 --> 00:20:05.858
+LS: Thank you.
+(Applause)
+
