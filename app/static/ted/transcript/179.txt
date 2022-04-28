@@ -1,0 +1,6 @@
+{"endTime": 14700, startTime: 12700, "position":"HB", "data": "(Applause)" ,  "alignment": "C"},
+{"endTime": 14700, startTime: 12700, "position":"HT", "data": "<b>applause</b> تَصفِيق - <br>" ,  "alignment": "L"},
+{"endTime": 205700, startTime: 18700, "position":"HB", "data": "(Music)" ,  "alignment": "C"},
+{"endTime": 205700, startTime: 18700, "position":"HT", "data": "<b>music</b> لَون مُوسِيقَى - <br>" ,  "alignment": "L"},
+{"endTime": 207700, startTime: 205700, "position":"HB", "data": "(Applause)" ,  "alignment": "C"},
+{"endTime": 207700, startTime: 205700, "position":"HT", "data": "<b>applause</b> تَصفِيق - <br>" ,  "alignment": "L"},

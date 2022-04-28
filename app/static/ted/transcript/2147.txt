@@ -1,0 +1,4 @@
+{"endTime": 22449, startTime: 14973, "position":"HB", "data": "(Music)" ,  "alignment": "C"},
+{"endTime": 22449, startTime: 14973, "position":"HT", "data": "<b>music</b> لَون مُوسِيقَى - <br>" ,  "alignment": "L"},
+{"endTime": 584945, startTime: 574752, "position":"HB", "data": "(Applause)" ,  "alignment": "C"},
+{"endTime": 584945, startTime: 574752, "position":"HT", "data": "<b>applause</b> تَصفِيق - <br>" ,  "alignment": "L"},
