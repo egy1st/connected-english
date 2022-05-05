@@ -1,8 +1,0 @@
-{"endTime": 20994, startTime: 14014, "position":"HB", "data": "(Guitar music starts)" ,  "alignment": "C"},
-{"endTime": 20994, startTime: 14014, "position":"HT", "data": "<b>guitar</b> قِيثَار - <br><b>music</b> لَون مُوسِيقَى - <br><b>start</b> بِدَاية - شرع في - بادر - افتتح - بدأ - سيّر - <br>" ,  "alignment": "L"},
-{"endTime": 215009, startTime: 208099, "position":"HB", "data": "(Cheers)" ,  "alignment": "C"},
-{"endTime": 215009, startTime: 208099, "position":"HT", "data": "<b>cheer</b> اِبتِهَاج - اِبتهج - <br>" ,  "alignment": "L"},
-{"endTime": 242031, startTime: 235141, "position":"HB", "data": "(Cheers)" ,  "alignment": "C"},
-{"endTime": 242031, startTime: 235141, "position":"HT", "data": "<b>cheer</b> اِبتِهَاج - اِبتهج - <br>" ,  "alignment": "L"},
-{"endTime": 252296, startTime: 248653, "position":"HB", "data": "(Music ends)" ,  "alignment": "C"},
-{"endTime": 252296, startTime: 248653, "position":"HT", "data": "<b>music</b> لَون مُوسِيقَى - <br><b>end</b> نهائيّ - أنهى - اختتم - تمّ - نهاية - <br>" ,  "alignment": "L"},

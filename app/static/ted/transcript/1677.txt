@@ -1,6 +1,0 @@
-{"endTime": 75882, startTime: 69453, "position":"HB", "data": "(Mechanical noises)" ,  "alignment": "C"},
-{"endTime": 75882, startTime: 69453, "position":"HT", "data": "<b>mechanical</b> آلِيّ - <br><b>noise</b> ضَوضَاء - شاع - <br>" ,  "alignment": "L"},
-{"endTime": 171157, startTime: 75882, "position":"HB", "data": "(Music)" ,  "alignment": "C"},
-{"endTime": 171157, startTime: 75882, "position":"HT", "data": "<b>music</b> لَون مُوسِيقَى - <br>" ,  "alignment": "L"},
-{"endTime": 179289, startTime: 175289, "position":"HB", "data": "(Applause)" ,  "alignment": "C"},
-{"endTime": 179289, startTime: 175289, "position":"HT", "data": "<b>applause</b> تَصفِيق - <br>" ,  "alignment": "L"},

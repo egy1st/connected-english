@@ -11,7 +11,13 @@ from flask_paginate import Pagination, get_page_args
 import pandas as pd
 import os
 import webvtt
+
 import nltk
+nltk.download('punkt')
+nltk.download('wordnet')
+nltk.download('omw-1.4')
+nltk.download('stopwords')
+
 from nltk.tokenize import word_tokenize
 from nltk.stem.wordnet import WordNetLemmatizer
 from flask_mobility import Mobility
@@ -24,8 +30,6 @@ from vimeo import VimeoClient, client
 
 
 #basedir = os.path.abspath(os.path.dirname(__file__))
-#nltk.download('punkt')
-#nltk.download('wordnet')
 
 TIME_OFFSET = 12150
 LEVEL_TALKS = 170
