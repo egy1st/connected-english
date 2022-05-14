@@ -1,6 +1,6 @@
 # How to run virtual enviroment
 
-cd ted\flasky
+cd C:\Users\moham\Documents\GitHub\connected-english
 
 python3 -m venv venv
 //or//
