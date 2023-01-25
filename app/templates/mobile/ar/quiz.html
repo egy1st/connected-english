@@ -1,0 +1,73 @@
+{% extends "mobile/ar/base.html" %}
+
+{% block head_css %}
+
+   {{ super() }}
+   <link rel="stylesheet" type="text/css" href="{{STATIC_URL}}css/quiz.css">
+   
+{% endblock %} 
+
+
+{% block content %}
+
+  <quiz_body>
+  <div data-height="230" class="quiz_container caption caption-margins round-medium shadow-huge top-0">
+    <div id="question-container" class="hide">
+      <div id="sents"></div>
+      <div id="question">Question</div>
+      <div id="answer-buttons" class="btn-grid">
+        <button class="btn">Answer 1</button>
+        <button class="btn">Answer 2</button>
+        <button class="btn">Answer 3</button>
+        <button class="btn">Answer 4</button>
+      </div>
+    </div>
+    <div class="quiz_controls">
+      <button id="start-btn" class="start-btn btn">Start</button>
+      <button id="next-btn" class="next-btn btn hide">Next</button>
+    </div>
+  </div>
+  </quiz_body>
+
+{% endblock %}
+
+{% block video_script %}
+  {{ super() }}
+  <script defer type="text/javascript" src="{{STATIC_URL}}js/quiz.js"></script>
+
+  <script>
+
+  const questions = [
+
+  {% for qt in quest  %}
+
+
+
+  {
+
+    question: '{{loop.index}}: {{ qt['question']}}',
+    sents: '{{qt['sents']}}', 
+    answers: [
+
+
+    {% for ans in qt['answers']  %}
+      
+        { text: '{{ans['answer']}}', correct: {{ ans['correct'] }} },
+
+    {% endfor %}
+
+
+      
+    ]
+  } , 
+
+
+ {% endfor %}
+
+
+]
+
+</script>  
+
+
+{% endblock %}
