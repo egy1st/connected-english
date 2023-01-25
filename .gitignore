@@ -42,4 +42,4 @@ nosetests.xml
 venv
 
 # vendor
-app\static\web\vendor\*
+app/static/web/vendor
