@@ -1,0 +1,400 @@
+WEBVTT
+
+00:00:12.150 --> 00:00:14.150
+Well we all know the World Wide Web
+
+00:00:14.150 --> 00:00:18.150
+has absolutely transformed publishing, broadcasting,
+
+00:00:18.150 --> 00:00:20.150
+commerce and social connectivity,
+
+00:00:20.150 --> 00:00:22.150
+but where did it all come from?
+
+00:00:22.150 --> 00:00:24.150
+And I'll quote three people:
+
+00:00:24.150 --> 00:00:27.150
+Vannevar Bush, Doug Engelbart and Tim Berners-Lee.
+
+00:00:27.150 --> 00:00:29.150
+So let's just run through these guys.
+
+00:00:29.150 --> 00:00:31.150
+This is Vannevar Bush.
+
+00:00:31.150 --> 00:00:34.150
+Vannevar Bush was the U.S. government's chief scientific adviser during the war.
+
+00:00:34.150 --> 00:00:36.150
+And in 1945,
+
+00:00:36.150 --> 00:00:39.150
+he published an article in a magazine called Atlantic Monthly.
+
+00:00:39.150 --> 00:00:42.150
+And the article was called "As We May Think."
+
+00:00:42.150 --> 00:00:44.150
+And what Vannevar Bush was saying
+
+00:00:44.150 --> 00:00:47.150
+was the way we use information is broken.
+
+00:00:47.150 --> 00:00:50.150
+We don't work in terms of libraries
+
+00:00:50.150 --> 00:00:52.150
+and catalog systems and so forth.
+
+00:00:52.150 --> 00:00:54.150
+The brain works by association.
+
+00:00:54.150 --> 00:00:57.150
+With one item in its thought, it snaps instantly to the next item.
+
+00:00:57.150 --> 00:00:59.150
+And the way information is structured
+
+00:00:59.150 --> 00:01:02.150
+is totally incapable of keeping up with this process.
+
+00:01:02.150 --> 00:01:04.150
+And so he suggested a machine,
+
+00:01:04.150 --> 00:01:06.150
+and he called it the memex.
+
+00:01:06.150 --> 00:01:08.150
+And the memex would link information,
+
+00:01:08.150 --> 00:01:11.150
+one piece of information to a related piece of information and so forth.
+
+00:01:11.150 --> 00:01:13.150
+Now this was in 1945.
+
+00:01:13.150 --> 00:01:15.150
+A computer in those days
+
+00:01:15.150 --> 00:01:18.150
+was something the secret services used to use for code breaking.
+
+00:01:18.150 --> 00:01:20.150
+And nobody knew anything about it.
+
+00:01:20.150 --> 00:01:22.150
+So this was before the computer was invented.
+
+00:01:22.150 --> 00:01:24.150
+And he proposed this machine called the memex.
+
+00:01:24.150 --> 00:01:27.150
+And he had a platform where you linked information to other information,
+
+00:01:27.150 --> 00:01:29.150
+and then you could call it up at will.
+
+00:01:29.150 --> 00:01:31.150
+So spinning forward,
+
+00:01:31.150 --> 00:01:33.150
+one of the guys who read this article was a guy called Doug Engelbart,
+
+00:01:33.150 --> 00:01:35.150
+and he was a U.S. Air Force officer.
+
+00:01:35.150 --> 00:01:38.150
+And he was reading it in their library in the Far East.
+
+00:01:38.150 --> 00:01:40.150
+And he was so inspired by this article,
+
+00:01:40.150 --> 00:01:42.150
+it kind of directed the rest of his life.
+
+00:01:42.150 --> 00:01:45.150
+And by the mid-60s, he was able to put this into action
+
+00:01:45.150 --> 00:01:48.150
+when he worked at the Stanford Research Lab in California.
+
+00:01:49.150 --> 00:01:51.150
+He built a system.
+
+00:01:51.150 --> 00:01:54.150
+The system was designed to augment human intelligence, it was called.
+
+00:01:54.150 --> 00:01:57.150
+And in a premonition of today's world
+
+00:01:57.150 --> 00:01:59.150
+of cloud computing and softwares of service,
+
+00:01:59.150 --> 00:02:01.150
+his system was called NLS
+
+00:02:01.150 --> 00:02:03.150
+for oN-Line System.
+
+00:02:03.150 --> 00:02:05.150
+And this is Doug Engelbart.
+
+00:02:05.150 --> 00:02:08.150
+He was giving a presentation at the Fall Joint Computer Conference
+
+00:02:08.150 --> 00:02:11.150
+in 1968.
+
+00:02:11.150 --> 00:02:13.150
+What he showed --
+
+00:02:13.150 --> 00:02:16.150
+he sat on a stage like this, and he demonstrated this system.
+
+00:02:16.150 --> 00:02:18.150
+He had his head mic like I've got.
+
+00:02:18.150 --> 00:02:20.150
+And he works this system.
+
+00:02:20.150 --> 00:02:22.150
+And you can see, he's working between documents
+
+00:02:22.150 --> 00:02:24.150
+and graphics and so forth.
+
+00:02:24.150 --> 00:02:26.150
+And he's driving it all
+
+00:02:26.150 --> 00:02:28.150
+with this platform here,
+
+00:02:28.150 --> 00:02:30.150
+with a five-finger keyboard
+
+00:02:30.150 --> 00:02:32.150
+and the world's first computer mouse,
+
+00:02:32.150 --> 00:02:34.150
+which he specially designed in order to do this system.
+
+00:02:34.150 --> 00:02:36.150
+So this is where the mouse came from as well.
+
+00:02:36.150 --> 00:02:38.150
+So this is Doug Engelbart.
+
+00:02:38.150 --> 00:02:40.150
+The trouble with Doug Engelbart's system
+
+00:02:40.150 --> 00:02:43.150
+was that the computers in those days cost several million pounds.
+
+00:02:43.150 --> 00:02:45.150
+So for a personal computer,
+
+00:02:45.150 --> 00:02:47.150
+a few million pounds was like having a personal jet plane;
+
+00:02:47.150 --> 00:02:49.150
+it wasn't really very practical.
+
+00:02:49.150 --> 00:02:51.150
+But spin on to the 80s
+
+00:02:51.150 --> 00:02:53.150
+when personal computers did arrive,
+
+00:02:53.150 --> 00:02:55.150
+then there was room for this kind of system on personal computers.
+
+00:02:55.150 --> 00:02:57.150
+And my company, OWL
+
+00:02:57.150 --> 00:03:00.150
+built a system called Guide for the Apple Macintosh.
+
+00:03:00.150 --> 00:03:04.150
+And we delivered the world's first hypertext system.
+
+00:03:04.150 --> 00:03:06.150
+And this began to get a head of steam.
+
+00:03:06.150 --> 00:03:08.150
+Apple introduced a thing called HyperCard,
+
+00:03:08.150 --> 00:03:10.150
+and they made a bit of a fuss about it.
+
+00:03:10.150 --> 00:03:13.150
+They had a 12-page supplement in the Wall Street Journal the day it launched.
+
+00:03:13.150 --> 00:03:15.150
+The magazines started to cover it.
+
+00:03:15.150 --> 00:03:17.150
+Byte magazine and Communications at the ACM
+
+00:03:17.150 --> 00:03:19.150
+had special issues covering hypertext.
+
+00:03:19.150 --> 00:03:21.150
+We developed a PC version of this product
+
+00:03:21.150 --> 00:03:23.150
+as well as the Macintosh version.
+
+00:03:23.150 --> 00:03:26.150
+And our PC version became quite mature.
+
+00:03:26.150 --> 00:03:29.150
+These are some examples of this system in action in the late 80s.
+
+00:03:30.150 --> 00:03:33.150
+You were able to deliver documents, were able to do it over networks.
+
+00:03:33.150 --> 00:03:35.150
+We developed a system such
+
+00:03:35.150 --> 00:03:37.150
+that it had a markup language based on html.
+
+00:03:37.150 --> 00:03:40.150
+We called it hml: hypertext markup language.
+
+00:03:40.150 --> 00:03:42.150
+And the system was capable of doing
+
+00:03:42.150 --> 00:03:46.150
+very, very large documentation systems over computer networks.
+
+00:03:46.150 --> 00:03:49.150
+So I took this system to a trade show in Versailles near Paris
+
+00:03:49.150 --> 00:03:52.150
+in late November 1990.
+
+00:03:52.150 --> 00:03:54.150
+And I was approached by a nice young man called Tim Berners-Lee
+
+00:03:54.150 --> 00:03:56.150
+who said, "Are you Ian Ritchie?" and I said, "Yeah."
+
+00:03:56.150 --> 00:03:58.150
+And he said, "I need to talk to you."
+
+00:03:58.150 --> 00:04:01.150
+And he told me about his proposed system called the World Wide Web.
+
+00:04:01.150 --> 00:04:04.150
+And I thought, well, that's got a pretentious name,
+
+00:04:04.150 --> 00:04:07.150
+especially since the whole system ran on his computer in his office.
+
+00:04:07.150 --> 00:04:10.150
+But he was completely convinced that his World Wide Web
+
+00:04:10.150 --> 00:04:12.150
+would take over the world one day.
+
+00:04:12.150 --> 00:04:14.150
+And he tried to persuade me to write the browser for it,
+
+00:04:14.150 --> 00:04:17.150
+because his system didn't have any graphics or fonts or layout or anything;
+
+00:04:17.150 --> 00:04:19.150
+it was just plain text.
+
+00:04:19.150 --> 00:04:22.150
+I thought, well, you know, interesting,
+
+00:04:22.150 --> 00:04:24.150
+but a guy from CERN, he's not going to do this.
+
+00:04:24.150 --> 00:04:26.150
+So we didn't do it.
+
+00:04:26.150 --> 00:04:28.150
+In the next couple of years,
+
+00:04:28.150 --> 00:04:30.150
+the hypertext community didn't recognize him either.
+
+00:04:30.150 --> 00:04:33.150
+In 1992, his paper was rejected for the Hypertext Conference.
+
+00:04:33.150 --> 00:04:36.150
+In 1993,
+
+00:04:36.150 --> 00:04:38.150
+there was a table at the conference in Seattle,
+
+00:04:38.150 --> 00:04:40.150
+and a guy called Marc Andreessen
+
+00:04:40.150 --> 00:04:43.150
+was demonstrating his little browser for the World Wide Web.
+
+00:04:43.150 --> 00:04:45.150
+And I saw it, and I thought, yep, that's it.
+
+00:04:45.150 --> 00:04:48.150
+And the very next year, in 1994, we had the conference here in Edinburgh,
+
+00:04:48.150 --> 00:04:52.150
+and I had no opposition in having Tim Berners-Lee as the keynote speaker.
+
+00:04:52.150 --> 00:04:54.150
+So that puts me in pretty illustrious company.
+
+00:04:54.150 --> 00:04:56.150
+There was a guy called Dick Rowe
+
+00:04:56.150 --> 00:04:58.150
+who was at Decca Records and turned down The Beatles.
+
+00:04:58.150 --> 00:05:00.150
+There was a guy called Gary Kildall
+
+00:05:00.150 --> 00:05:02.150
+who went flying his plane
+
+00:05:02.150 --> 00:05:04.150
+when IBM came looking for an operating system
+
+00:05:04.150 --> 00:05:06.150
+for the IBM PC,
+
+00:05:06.150 --> 00:05:08.150
+and he wasn't there, so they went back to see Bill Gates.
+
+00:05:08.150 --> 00:05:10.150
+And the 12 publishers
+
+00:05:10.150 --> 00:05:13.150
+who turned down J.K. Rowling's Harry Potter, I guess.
+
+00:05:13.150 --> 00:05:15.150
+On the other hand, there's Marc Andreessen
+
+00:05:15.150 --> 00:05:17.150
+who wrote the world's first browser for the World Wide Web.
+
+00:05:17.150 --> 00:05:19.150
+And according to Fortune magazine,
+
+00:05:19.150 --> 00:05:21.150
+he's worth 700 million dollars.
+
+00:05:21.150 --> 00:05:23.150
+But is he happy?
+
+00:05:23.150 --> 00:05:25.150
+(Laughter)
+
+00:05:25.150 --> 00:05:32.150
+(Applause)

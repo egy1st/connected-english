@@ -1,0 +1,1576 @@
+WEBVTT
+
+00:00:01.841 --> 00:00:03.603
+So I thought I'd talk about identity.
+
+00:00:03.627 --> 00:00:06.036
+That's sort of an interesting
+enough topic to me.
+
+00:00:06.060 --> 00:00:09.214
+And the reason was,
+because when I was asked to do this,
+
+00:00:09.238 --> 00:00:12.777
+I'd just read, in one of the papers,
+I can't remember,
+
+00:00:12.801 --> 00:00:16.180
+something from someone at Facebook
+saying, well,
+
+00:00:16.204 --> 00:00:17.820
+"we need to make everybody
+use their real names."
+
+00:00:17.844 --> 00:00:20.178
+and then that's basically
+all the problems solved.
+
+00:00:20.202 --> 00:00:22.123
+And that's so wrong,
+
+00:00:22.147 --> 00:00:26.066
+that's such a fundamentally,
+reactionary view of identity,
+
+00:00:26.090 --> 00:00:28.471
+and it's going to get us
+into all sorts of trouble.
+
+00:00:28.495 --> 00:00:29.829
+And so what I thought I'd do
+
+00:00:29.853 --> 00:00:33.834
+is I'll explain four
+sort of problems about it,
+
+00:00:33.858 --> 00:00:35.797
+and then I'll suggest a solution,
+
+00:00:35.821 --> 00:00:37.869
+which hopefully you
+might find interesting.
+
+00:00:37.893 --> 00:00:39.920
+So just to frame the problem,
+
+00:00:39.944 --> 00:00:41.510
+what does authenticity mean?
+
+00:00:41.534 --> 00:00:46.600
+That's me, that's
+a camera phone picture of me
+
+00:00:46.624 --> 00:00:47.580
+looking at a painting.
+
+00:00:47.604 --> 00:00:48.345
+[What's the Problem?]
+
+00:00:48.369 --> 00:00:49.477
+That's a painting that was painted
+
+00:00:49.501 --> 00:00:51.519
+by a very famous forger,
+
+00:00:51.543 --> 00:00:53.782
+and because I'm not very good
+at presentations,
+
+00:00:53.806 --> 00:00:56.521
+I already can't remember the name
+that I wrote on my card.
+
+00:00:56.545 --> 00:01:00.399
+And he was incarcerated
+in, I think, Wakefield Prison
+
+00:01:00.423 --> 00:01:03.965
+for forging masterpieces by,
+I think, French Impressionists.
+
+00:01:03.989 --> 00:01:07.144
+And he's so good at it,
+that when he was in prison,
+
+00:01:07.168 --> 00:01:08.520
+everybody in prison,
+the governor and whatever,
+
+00:01:08.544 --> 00:01:11.367
+wanted him to paint masterpieces
+to put on the walls,
+
+00:01:11.391 --> 00:01:12.659
+because they were so good.
+
+00:01:12.683 --> 00:01:14.043
+And so that's a masterpiece,
+
+00:01:14.067 --> 00:01:16.042
+which is a fake of a masterpiece,
+
+00:01:16.066 --> 00:01:22.705
+and bonded into the canvas is a chip
+which identifies that as a real fake,
+
+00:01:22.729 --> 00:01:24.237
+if you see what I mean.
+
+00:01:24.261 --> 00:01:25.429
+(Laughter)
+
+00:01:25.453 --> 00:01:27.672
+So when we're talking about authenticity,
+
+00:01:27.696 --> 00:01:33.134
+it's a little more fractal than it appears
+and that's a good example to show it.
+
+00:01:33.158 --> 00:01:37.115
+I tried to pick four problems
+that will frame the issue properly.
+
+00:01:37.139 --> 00:01:38.663
+So the first problem, I thought,
+
+00:01:38.687 --> 00:01:40.215
+Chip and PIN, right?
+
+00:01:40.239 --> 00:01:41.729
+[Banks and legacies
+bringing down the system from within]
+
+00:01:41.753 --> 00:01:42.601
+[Offline solutions do not work online]
+
+00:01:42.625 --> 00:01:45.217
+I'm guessing everyone's got
+a chip and PIN card, right?
+
+00:01:45.241 --> 00:01:46.983
+So why is that a good example?
+
+00:01:47.007 --> 00:01:50.458
+That's the example of how
+legacy thinking about identity
+
+00:01:50.482 --> 00:01:53.376
+subverts the security
+of a well-constructed system.
+
+00:01:53.400 --> 00:01:56.167
+That chip and PIN card
+that's in your pocket
+
+00:01:56.191 --> 00:01:59.409
+has a little chip on it
+that cost millions of pounds to develop,
+
+00:01:59.433 --> 00:02:00.986
+is extremely secure,
+
+00:02:01.010 --> 00:02:03.249
+you can put scanning
+electron microscopes on it,
+
+00:02:03.273 --> 00:02:05.425
+you can try and grind it down,
+blah blah blah.
+
+00:02:05.449 --> 00:02:08.914
+Those chips have never been broken,
+whatever you read in the paper.
+
+00:02:08.938 --> 00:02:12.148
+And for a joke,
+we take that super-secure chip
+
+00:02:12.172 --> 00:02:15.662
+and we bond it to a trivially
+counterfeitable magnetic stripe
+
+00:02:15.686 --> 00:02:19.284
+and for very lazy criminals,
+we still emboss the card.
+
+00:02:19.308 --> 00:02:22.791
+So if you're a criminal in a hurry
+and you need to copy someone's card,
+
+00:02:22.815 --> 00:02:24.992
+you can just stick a piece of paper on it
+and rub a pencil over it
+
+00:02:25.016 --> 00:02:26.875
+just to sort of speed things up.
+
+00:02:26.899 --> 00:02:29.971
+And even more amusingly,
+and on my debit card too,
+
+00:02:29.995 --> 00:02:32.362
+we print the name and the SALT code
+and everything else on the front too.
+
+00:02:32.386 --> 00:02:35.701
+Why?
+
+00:02:35.725 --> 00:02:39.810
+There is no earthly reason why your name
+is printed on a chip and PIN card.
+
+00:02:39.834 --> 00:02:41.445
+And if you think about it,
+
+00:02:41.469 --> 00:02:44.563
+it's even more insidious and perverse
+than it seems at first.
+
+00:02:44.587 --> 00:02:46.377
+Because the only people that benefit
+
+00:02:46.401 --> 00:02:48.951
+from having the name
+on the card are criminals.
+
+00:02:48.975 --> 00:02:50.592
+You know what your name is, right?
+
+00:02:50.616 --> 00:02:51.493
+(Laughter)
+
+00:02:51.517 --> 00:02:53.745
+And when you go into
+a shop and buy something,
+
+00:02:53.769 --> 00:02:56.705
+it's a PIN, he doesn't care
+what the name is.
+
+00:02:56.729 --> 00:02:59.364
+The only place where you ever have
+to write your name on the back
+
+00:02:59.388 --> 00:03:00.534
+is in America at the moment.
+
+00:03:00.558 --> 00:03:01.745
+And whenever I go to America,
+
+00:03:01.769 --> 00:03:03.545
+and I have to pay with a mag stripe
+on the back of the card,
+
+00:03:03.569 --> 00:03:05.427
+I always sign it Carlos Tethers anyway,
+
+00:03:05.451 --> 00:03:07.235
+just as a security mechanism,
+
+00:03:07.259 --> 00:03:09.473
+because if a transaction
+ever gets disputed,
+
+00:03:09.497 --> 00:03:11.450
+and it comes back and it says Dave Birch,
+
+00:03:11.474 --> 00:03:13.189
+I know it must have been a criminal,
+
+00:03:13.213 --> 00:03:16.024
+because I would never sign it Dave Birch.
+
+00:03:16.048 --> 00:03:17.714
+(Laughter)
+
+00:03:17.738 --> 00:03:19.505
+So if you drop your card in the street,
+
+00:03:19.529 --> 00:03:21.277
+it means a criminal
+can pick it up and read it.
+
+00:03:21.301 --> 00:03:21.982
+They know the name,
+
+00:03:22.006 --> 00:03:23.911
+from the name they can find the address,
+
+00:03:23.935 --> 00:03:26.326
+and then they can go off
+and buy stuff online.
+
+00:03:26.350 --> 00:03:28.538
+Why do we put the name on the card?
+
+00:03:28.562 --> 00:03:32.257
+Because we think identity
+is something to do with names,
+
+00:03:32.281 --> 00:03:35.952
+and because we're rooted
+in the idea of the identity card,
+
+00:03:35.976 --> 00:03:37.068
+which obsesses us.
+
+00:03:37.092 --> 00:03:39.664
+And I know it crashed and burned
+a couple of years ago,
+
+00:03:39.688 --> 00:03:44.219
+but if you're someone in politics
+or the home office or whatever,
+
+00:03:44.243 --> 00:03:45.624
+and you think about identity,
+
+00:03:45.648 --> 00:03:48.839
+you can only think of identity
+in terms of cards with names on them.
+
+00:03:48.863 --> 00:03:51.985
+And that's very subversive
+in a modern world.
+
+00:03:52.009 --> 00:03:54.241
+So the second example I thought I'd use
+
+00:03:54.265 --> 00:03:56.307
+is chatrooms.
+
+00:03:56.331 --> 00:03:57.111
+[Chatrooms and Children]
+
+00:03:57.135 --> 00:03:59.301
+I'm very proud of that picture,
+that's my son
+
+00:03:59.325 --> 00:04:03.377
+playing in his band with his friends
+for the first-ever gig,
+
+00:04:03.401 --> 00:04:05.346
+I believe you call it, where he got paid.
+
+00:04:05.370 --> 00:04:06.133
+(Laughter)
+
+00:04:06.157 --> 00:04:08.011
+And I love that picture.
+
+00:04:08.035 --> 00:04:10.777
+I like the picture of him
+getting into medical school a lot better,
+
+00:04:10.801 --> 00:04:11.477
+(Laughter)
+
+00:04:11.501 --> 00:04:13.590
+I like that picture for the moment.
+
+00:04:13.614 --> 00:04:14.565
+Why do I use that picture?
+
+00:04:14.589 --> 00:04:19.654
+Because that was very interesting,
+watching that experience as an old person.
+
+00:04:19.678 --> 00:04:21.097
+So him and his friends,
+
+00:04:21.121 --> 00:04:23.975
+they get together, they booked a room,
+like a church hall,
+
+00:04:23.999 --> 00:04:25.825
+and they got all their friends
+who had bands,
+
+00:04:25.849 --> 00:04:27.135
+and they got them together,
+
+00:04:27.159 --> 00:04:28.636
+and they do it all on Facebook,
+
+00:04:28.660 --> 00:04:32.434
+and then they sell tickets,
+and the first band on the -
+
+00:04:32.458 --> 00:04:33.319
+I was going to say "menu,"
+
+00:04:33.343 --> 00:04:35.629
+that's probably
+the wrong word for it, isn't it?
+
+00:04:35.653 --> 00:04:37.559
+The first band on the list of bands
+
+00:04:37.583 --> 00:04:42.116
+that appears at some
+public music performance of some kind
+
+00:04:42.140 --> 00:04:44.285
+gets the sales from the first 20 tickets,
+
+00:04:44.309 --> 00:04:46.105
+then the next band gets the next 20,
+
+00:04:46.129 --> 00:04:47.091
+and so on.
+
+00:04:47.115 --> 00:04:48.427
+They were at the bottom of the menu,
+
+00:04:48.451 --> 00:04:50.545
+they were like fifth,
+I thought they had no chance.
+
+00:04:50.569 --> 00:04:52.807
+He actually got 20 quid. Fantastic, right?
+
+00:04:52.831 --> 00:04:54.904
+But my point is,
+that all worked perfectly,
+
+00:04:54.928 --> 00:04:57.685
+except on the web.
+
+00:04:57.709 --> 00:04:59.878
+So they're sitting on Facebook,
+
+00:04:59.902 --> 00:05:02.744
+and they're sending these messages
+and arranging things
+
+00:05:02.768 --> 00:05:05.063
+and they don't know who anybody is, right?
+
+00:05:05.087 --> 00:05:06.694
+That's the big problem
+we're trying to solve.
+
+00:05:06.718 --> 00:05:08.661
+If only they were using the real names,
+
+00:05:08.685 --> 00:05:11.352
+Then you wouldn't be worried
+about them on the Internet.
+
+00:05:11.376 --> 00:05:12.597
+And so when he says to me,
+
+00:05:12.621 --> 00:05:16.963
+"Oh, I want to go to a chatroom
+to talk about guitars" or something,
+
+00:05:16.987 --> 00:05:20.212
+I'm like, "oh, well,
+I don't want you to go into a chatroom
+
+00:05:20.236 --> 00:05:23.570
+to talk about guitars, because
+they might not all be your friends,
+
+00:05:23.594 --> 00:05:25.833
+and some of the people
+that are in the chatroom
+
+00:05:25.857 --> 00:05:29.390
+might be perverts and teachers
+and vicars."
+
+00:05:29.414 --> 00:05:31.215
+(Laughter)
+
+00:05:31.239 --> 00:05:34.144
+I mean, they generally are,
+when you look in the paper, right?
+
+00:05:34.168 --> 00:05:37.200
+So I want to know who
+all the people in the chatroom are.
+
+00:05:37.224 --> 00:05:38.939
+So okay, you can go in the chatroom,
+
+00:05:38.963 --> 00:05:41.963
+but only if everybody in the chatroom
+is using their real names,
+
+00:05:41.987 --> 00:05:46.328
+and they submit full copies
+of their police report.
+
+00:05:46.352 --> 00:05:49.448
+But of course, if anybody
+in the chatroom asked for his real name,
+
+00:05:49.472 --> 00:05:51.690
+I'd say no.
+You can't give them your real name.
+
+00:05:51.714 --> 00:05:54.390
+Because what happens
+if they turn out to be perverts,
+
+00:05:54.414 --> 00:05:57.063
+and teachers and whatever.
+
+00:05:57.087 --> 00:05:58.802
+So you have this odd sort of paradox
+
+00:05:58.826 --> 00:06:01.133
+where I'm happy for him
+to go into this space
+
+00:06:01.157 --> 00:06:03.075
+if I know who everybody else is,
+
+00:06:03.099 --> 00:06:05.438
+but I don't want anybody else
+to know who he is.
+
+00:06:05.462 --> 00:06:07.614
+And so you get
+this sort of logjam around identity
+
+00:06:07.638 --> 00:06:09.250
+where you want full disclosure
+from everybody else,
+
+00:06:09.274 --> 00:06:10.545
+but not from yourself.
+
+00:06:10.569 --> 00:06:12.552
+And there's no progress, we get stuck.
+
+00:06:12.576 --> 00:06:14.862
+And so the chatroom thing
+doesn't work properly,
+
+00:06:14.886 --> 00:06:19.227
+and it's a very bad way
+of thinking about identity.
+
+00:06:19.251 --> 00:06:22.162
+So on my RSS feed,
+I saw this thing about -
+
+00:06:22.186 --> 00:06:24.758
+I just said something bad
+about my RSS feed, didn't I?
+
+00:06:24.782 --> 00:06:26.513
+I should stop saying it like that.
+
+00:06:26.537 --> 00:06:28.046
+For some random reason, I can't imagine,
+
+00:06:28.070 --> 00:06:30.202
+something about cheerleaders
+turned up in my inbox.
+
+00:06:30.226 --> 00:06:32.179
+And I read this story about cheerleaders,
+
+00:06:32.203 --> 00:06:33.628
+and it's a fascinating story.
+
+00:06:33.652 --> 00:06:35.843
+This happened a couple of years ago
+in the U.S.
+
+00:06:35.867 --> 00:06:38.568
+There were some cheerleaders
+in a team at a high school
+
+00:06:38.592 --> 00:06:41.451
+in the U.S., and they said mean things
+
+00:06:41.475 --> 00:06:42.637
+about their cheerleading coach,
+
+00:06:42.661 --> 00:06:44.848
+as I'm sure kids do
+about all of their teachers
+
+00:06:44.872 --> 00:06:46.175
+all of the time,
+
+00:06:46.199 --> 00:06:48.255
+and somehow the cheerleading coach
+found out about this.
+
+00:06:48.279 --> 00:06:49.719
+She was very upset.
+
+00:06:49.743 --> 00:06:51.886
+And so she went to one of the girls,
+and said,
+
+00:06:51.910 --> 00:06:54.006
+"you have to give me
+your Facebook password."
+
+00:06:54.030 --> 00:06:57.695
+I read this all the time,
+where even at some universities
+
+00:06:57.719 --> 00:06:58.595
+and places of education,
+
+00:06:58.619 --> 00:07:00.324
+kids are forced to hand over
+their Facebook passwords.
+
+00:07:00.348 --> 00:07:03.079
+So you've got to give them
+your Facebook password.
+
+00:07:03.103 --> 00:07:03.952
+She was a kid!
+
+00:07:03.976 --> 00:07:05.138
+What she should have said
+
+00:07:05.162 --> 00:07:06.368
+is, "my lawyer will be calling you
+
+00:07:06.392 --> 00:07:07.158
+first thing in the morning.
+
+00:07:07.182 --> 00:07:09.279
+It's an outrageous imposition
+
+00:07:09.303 --> 00:07:11.138
+on my 4th Amendment right to privacy,
+
+00:07:11.162 --> 00:07:11.923
+and you're going to be sued
+
+00:07:11.947 --> 00:07:12.518
+for all the money you've got."
+
+00:07:12.542 --> 00:07:13.574
+That's what she should have said.
+
+00:07:13.598 --> 00:07:14.553
+But she's a kid,
+
+00:07:14.577 --> 00:07:16.372
+so she hands over the password.
+
+00:07:16.396 --> 00:07:18.422
+The teacher can't log into Facebook,
+
+00:07:18.446 --> 00:07:21.594
+because the school
+has blocked access to Facebook.
+
+00:07:21.618 --> 00:07:23.507
+So the teacher can't log into Facebook
+until she gets home.
+
+00:07:23.531 --> 00:07:25.205
+So the girl tells her friends,
+
+00:07:25.229 --> 00:07:25.766
+guess what happened?
+
+00:07:25.790 --> 00:07:27.362
+The teacher logged in, she knows.
+
+00:07:27.386 --> 00:07:29.203
+So the girls just all logged into Facebook
+on their phones,
+
+00:07:29.227 --> 00:07:31.070
+and deleted their profiles.
+
+00:07:31.094 --> 00:07:33.955
+And so when the teacher logged in,
+there was nothing there.
+
+00:07:33.979 --> 00:07:39.607
+My point is, those identities,
+they don't think about them the same way.
+
+00:07:39.631 --> 00:07:43.336
+Identity is, especially when
+you're a teenager, a fluid thing.
+
+00:07:43.360 --> 00:07:44.941
+You have lots of identities.
+
+00:07:44.965 --> 00:07:47.191
+And you can have an identity,
+you don't like it,
+
+00:07:47.215 --> 00:07:50.787
+because it's subverted in some way,
+or it's insecure, or it's inappropriate,
+
+00:07:50.811 --> 00:07:52.869
+you just delete it and get another one.
+
+00:07:52.893 --> 00:07:56.193
+The idea that you have an identity
+that's given to you by someone,
+
+00:07:56.217 --> 00:07:57.012
+the government or whatever,
+
+00:07:57.036 --> 00:07:59.131
+and you have to stick with that identity
+and use it in all places,
+
+00:07:59.155 --> 00:08:00.839
+that's absolutely wrong.
+
+00:08:00.863 --> 00:08:03.871
+Why would you want to really know
+who someone was on Facebook,
+
+00:08:03.895 --> 00:08:06.753
+unless you wanted to abuse them
+and harass them in some way?
+
+00:08:06.777 --> 00:08:09.384
+And it just doesn't work properly.
+
+00:08:09.408 --> 00:08:11.598
+And my fourth example is
+there are some cases
+
+00:08:11.622 --> 00:08:14.031
+where you really want to be -
+
+00:08:14.055 --> 00:08:17.601
+In case you're wondering,
+that's me at the G20 protest.
+
+00:08:17.625 --> 00:08:21.277
+I wasn't actually at the G20 protest,
+but I had a meeting at a bank
+
+00:08:21.301 --> 00:08:24.710
+on the day of the G20 protest,
+and I got an email from the bank
+
+00:08:24.734 --> 00:08:29.271
+saying please don't wear a suit,
+because it'll inflame the protesters.
+
+00:08:29.295 --> 00:08:31.045
+I look pretty good in a suit, frankly,
+
+00:08:31.069 --> 00:08:32.735
+so you can see why it would drive them
+
+00:08:32.759 --> 00:08:34.236
+into an anti-capitalist frenzy.
+
+00:08:34.260 --> 00:08:34.771
+(Laughter)
+
+00:08:34.795 --> 00:08:35.700
+So I thought, well, look.
+
+00:08:35.724 --> 00:08:38.869
+If I don't want to inflame the protesters,
+
+00:08:38.893 --> 00:08:39.785
+the obvious thing to do
+
+00:08:39.809 --> 00:08:41.190
+is go dressed as a protester.
+
+00:08:41.214 --> 00:08:43.208
+So I went dressed completely in black,
+
+00:08:43.232 --> 00:08:45.092
+you know, with a black balaclava,
+
+00:08:45.116 --> 00:08:45.926
+I had black gloves on,
+
+00:08:45.950 --> 00:08:47.563
+but I've taken them off
+to sign the visitor's book.
+
+00:08:47.587 --> 00:08:48.135
+(Laughter)
+
+00:08:48.159 --> 00:08:50.318
+I'm wearing black trousers, black boots,
+
+00:08:50.342 --> 00:08:51.724
+I'm dressed completely in black.
+
+00:08:51.748 --> 00:08:52.898
+I go into the bank at 10 o'clock,
+
+00:08:52.922 --> 00:08:53.863
+go, "Hi, I'm Dave Birch,
+
+00:08:53.887 --> 00:08:55.139
+I've got a 3 o'clock
+with so and so there."
+
+00:08:55.163 --> 00:08:56.580
+Sure. They sign me in.
+
+00:08:56.604 --> 00:08:59.351
+There's my visitor's badge.
+
+00:08:59.375 --> 00:09:00.242
+(Laughter)
+
+00:09:00.266 --> 00:09:01.560
+So this nonsense
+
+00:09:01.584 --> 00:09:03.614
+about you've got to have real names
+on Facebook and whatever,
+
+00:09:03.638 --> 00:09:05.849
+that gets you that kind of security.
+
+00:09:05.873 --> 00:09:10.368
+That gets you security theater,
+where there's no actual security,
+
+00:09:10.392 --> 00:09:13.706
+but people are sort of playing parts
+in a play about security.
+
+00:09:13.730 --> 00:09:14.831
+And as long as
+everybody learns their lines,
+
+00:09:14.855 --> 00:09:16.367
+everyone's happy.
+
+00:09:16.391 --> 00:09:19.231
+But it's not real security.
+
+00:09:19.255 --> 00:09:22.473
+Especially because I hate banks
+more than the G20 protesters do,
+
+00:09:22.497 --> 00:09:23.658
+because I work for them.
+
+00:09:23.682 --> 00:09:26.485
+I know that things are actually worse
+than these guys think.
+
+00:09:26.509 --> 00:09:28.282
+(Laughter)
+
+00:09:29.872 --> 00:09:34.942
+But suppose I worked
+next to somebody in a bank
+
+00:09:34.966 --> 00:09:37.974
+who was doing something.
+
+00:09:44.744 --> 00:09:46.910
+Suppose I was sitting
+next to a rogue trader,
+
+00:09:46.934 --> 00:09:49.213
+and I want to report it
+to the boss of the bank.
+
+00:09:49.237 --> 00:09:50.629
+So I log on to do
+a little bit of whistleblowing.
+
+00:09:50.653 --> 00:09:53.094
+I send a message,
+this guy's a rogue trader.
+
+00:09:53.118 --> 00:09:54.892
+That message is meaningless
+
+00:09:54.916 --> 00:09:57.840
+if you don't know
+that I'm a trader at the bank.
+
+00:09:57.864 --> 00:09:59.769
+If that message just comes from anybody,
+
+00:09:59.793 --> 00:10:02.426
+it has zero information value.
+
+00:10:02.450 --> 00:10:04.919
+There's no point in sending that message.
+
+00:10:06.463 --> 00:10:09.206
+But if I have to prove who I am,
+
+00:10:09.230 --> 00:10:10.611
+I'll never send that message.
+
+00:10:10.635 --> 00:10:14.464
+It's just like the nurse in the hospital
+reporting the drunk surgeon.
+
+00:10:14.488 --> 00:10:17.385
+That message will only happen
+if I'm anonymous.
+
+00:10:17.409 --> 00:10:22.176
+So the system has to have ways
+of providing anonymity there,
+
+00:10:22.200 --> 00:10:24.439
+otherwise we don't get
+where we want to get to.
+
+00:10:24.463 --> 00:10:27.109
+So four issues.
+So what are we going to do about it?
+
+00:10:27.133 --> 00:10:31.796
+Well, what we tend to do about it
+
+00:10:31.820 --> 00:10:34.184
+is we think about Orwell space.
+
+00:10:34.208 --> 00:10:37.330
+And we try to make electronic versions
+
+00:10:37.354 --> 00:10:39.637
+of the identity card
+that we got rid of in 1953.
+
+00:10:39.661 --> 00:10:42.394
+So we think if we had a card,
+
+00:10:42.418 --> 00:10:43.733
+call it a Facebook login,
+
+00:10:43.757 --> 00:10:45.030
+which proves who you are,
+
+00:10:45.054 --> 00:10:46.921
+and I make you carry it all the time,
+
+00:10:46.945 --> 00:10:47.739
+that solves the problem.
+
+00:10:47.763 --> 00:10:49.897
+And of course, for all those reasons
+I've just outlined,
+
+00:10:49.921 --> 00:10:50.889
+it doesn't, and it might, actually,
+
+00:10:50.913 --> 00:10:51.961
+make some problems worse.
+
+00:10:51.985 --> 00:10:54.784
+The more times you're forced
+to use your real identity,
+
+00:10:54.808 --> 00:10:57.024
+certainly in transactional terms,
+
+00:10:57.048 --> 00:10:59.906
+the more likely that identity
+is to get stolen and subverted.
+
+00:10:59.930 --> 00:11:02.170
+The goal is to stop people
+from using identity
+
+00:11:02.194 --> 00:11:04.347
+in transactions which don't need identity,
+
+00:11:04.371 --> 00:11:06.856
+which is actually almost all transactions.
+
+00:11:06.880 --> 00:11:09.153
+Almost all of the transactions you do
+
+00:11:09.177 --> 00:11:10.841
+are not, who are you?
+
+00:11:10.865 --> 00:11:12.975
+They're, are you allowed to drive the car,
+
+00:11:12.999 --> 00:11:14.523
+are you allowed in the building,
+
+00:11:14.547 --> 00:11:15.380
+are you over 18,
+
+00:11:15.404 --> 00:11:17.495
+etcetera, etcetera.
+
+00:11:17.519 --> 00:11:19.326
+So my suggestion-I, like James,
+
+00:11:19.350 --> 00:11:22.487
+think that there should be
+a resurgence of interest in R &amp; D.
+
+00:11:22.511 --> 00:11:23.272
+I think this is a solvable problem.
+
+00:11:23.296 --> 00:11:25.092
+It's something we can do about.
+
+00:11:25.116 --> 00:11:27.040
+Naturally, in these circumstances,
+
+00:11:27.064 --> 00:11:28.414
+I turn to Doctor Who.
+
+00:11:28.438 --> 00:11:30.550
+Because in this,
+
+00:11:30.574 --> 00:11:32.194
+as in so many other walks of life,
+
+00:11:32.218 --> 00:11:35.147
+Doctor Who has already shown
+us the answer.
+
+00:11:35.171 --> 00:11:35.961
+So I should say,
+
+00:11:35.985 --> 00:11:38.292
+for some of our foreign visitors,
+
+00:11:38.316 --> 00:11:42.146
+Doctor Who is the greatest
+living scientist in England,
+
+00:11:42.170 --> 00:11:43.723
+(Laughter)
+
+00:11:43.747 --> 00:11:46.523
+and a beacon of truth and enlightenment
+to all of us.
+
+00:11:46.547 --> 00:11:50.593
+And this is Doctor Who
+with his psychic paper.
+
+00:11:50.617 --> 00:11:52.763
+Come on, you guys must have seen
+Doctor Who's psychic paper.
+
+00:11:52.787 --> 00:11:54.763
+You're not nerds if you say yes.
+
+00:11:54.787 --> 00:11:56.899
+Who's seen Doctor Who's psychic paper?
+
+00:11:56.923 --> 00:11:59.329
+Oh right, you were in the library
+the whole time studying I guess.
+
+00:11:59.353 --> 00:12:01.399
+Is that what you're going to tell us?
+
+00:12:01.423 --> 00:12:02.661
+Doctor Who's psychic paper
+
+00:12:02.685 --> 00:12:04.781
+is when you hold up the psychic paper,
+
+00:12:04.805 --> 00:12:06.319
+the person, in their brain,
+
+00:12:06.343 --> 00:12:08.668
+sees the thing that they need to see.
+
+00:12:08.692 --> 00:12:11.027
+So I want to show you a British passport,
+
+00:12:11.051 --> 00:12:12.053
+I hold up the psychic paper,
+
+00:12:12.077 --> 00:12:13.533
+you see a British passport.
+
+00:12:13.557 --> 00:12:15.329
+I want to get into a party,
+
+00:12:15.353 --> 00:12:16.936
+I hold up the psychic paper,
+
+00:12:16.960 --> 00:12:18.389
+I show you a party invitation.
+
+00:12:18.413 --> 00:12:20.464
+You see what you want to see.
+
+00:12:20.488 --> 00:12:23.679
+So what I'm saying is we need
+to make an electronic version of that,
+
+00:12:23.703 --> 00:12:25.876
+but with one tiny, tiny change,
+
+00:12:25.900 --> 00:12:28.472
+which is that it'll only show you
+the British passport
+
+00:12:28.496 --> 00:12:29.688
+if I've actually got one.
+
+00:12:29.712 --> 00:12:30.907
+It'll only show you the party invitation
+
+00:12:30.931 --> 00:12:32.304
+if I actually have one.
+
+00:12:32.328 --> 00:12:35.328
+It will only show you that I'm over 18
+if I actually am over 18.
+
+00:12:35.352 --> 00:12:37.652
+But nothing else.
+
+00:12:37.676 --> 00:12:42.427
+So you're the bouncer at the pub,
+you need to know that I'm over 18,
+
+00:12:42.451 --> 00:12:44.451
+instead of showing you my driving license,
+
+00:12:44.475 --> 00:12:46.292
+which shows you I know how to drive,
+
+00:12:46.316 --> 00:12:48.888
+what my name is, my address,
+all these kind of things,
+
+00:12:48.912 --> 00:12:50.467
+I show you my psychic paper,
+
+00:12:50.491 --> 00:12:53.633
+and all it tells you is
+am I over 18 or not.
+
+00:12:53.657 --> 00:12:55.069
+Right.
+
+00:12:55.093 --> 00:12:56.407
+Is that just a pipe dream?
+
+00:12:56.431 --> 00:12:58.100
+Of course not, otherwise
+I wouldn't be here talking to you.
+
+00:12:58.124 --> 00:13:01.184
+So in order to build that
+and make it work,
+
+00:13:01.208 --> 00:13:03.955
+I'm only going to name these things,
+I'll not go into them,
+
+00:13:03.979 --> 00:13:05.132
+we need a plan,
+
+00:13:05.156 --> 00:13:06.381
+which is we're going to build this
+
+00:13:06.405 --> 00:13:08.405
+as an infrastructure for everybody to use,
+
+00:13:08.429 --> 00:13:10.259
+to solve all of these problems.
+
+00:13:10.283 --> 00:13:12.307
+We're going to make a utility,
+
+00:13:12.331 --> 00:13:13.855
+the utility has to be universal,
+
+00:13:13.879 --> 00:13:14.738
+you can use it everywhere,
+
+00:13:14.762 --> 00:13:17.953
+I'm just giving you little flashes
+of the technology as we go along.
+
+00:13:17.977 --> 00:13:19.336
+That's a Japanese ATM,
+
+00:13:19.360 --> 00:13:22.444
+the fingerprint template
+is stored inside the mobile phone.
+
+00:13:22.468 --> 00:13:23.431
+So when you want to draw money out,
+
+00:13:23.455 --> 00:13:24.928
+you put the mobile phone on the ATM,
+
+00:13:24.952 --> 00:13:26.193
+and touch your finger,
+
+00:13:26.217 --> 00:13:28.265
+your fingerprint goes through
+to the phone,
+
+00:13:28.289 --> 00:13:29.956
+the phone says yes, that's whoever,
+
+00:13:29.980 --> 00:13:32.160
+and the ATM then gives you some money.
+
+00:13:32.184 --> 00:13:35.197
+It has to be a utility
+that you can use everywhere.
+
+00:13:35.221 --> 00:13:36.983
+It has to be absolutely convenient,
+
+00:13:37.007 --> 00:13:40.150
+that's me going into the pub.
+
+00:13:40.174 --> 00:13:42.943
+All the device on the door
+of the pub is allowed is,
+
+00:13:42.967 --> 00:13:46.616
+is this person over 18
+and not barred from the pub?
+
+00:13:46.640 --> 00:13:49.946
+And so the idea is,
+you touch your ID card to the door,
+
+00:13:49.970 --> 00:13:51.905
+and if I am allowed in,
+it shows my picture,
+
+00:13:51.929 --> 00:13:53.366
+if I'm not allowed in,
+it shows a red cross.
+
+00:13:53.390 --> 00:13:54.981
+It doesn't disclose any other information.
+
+00:13:55.005 --> 00:13:56.893
+It has to have no special gadgets.
+
+00:13:56.917 --> 00:13:58.528
+That can only mean one thing,
+
+00:13:58.552 --> 00:14:00.219
+following on from Ross's statement,
+
+00:14:00.243 --> 00:14:01.697
+which I agree with completely.
+
+00:14:01.721 --> 00:14:02.809
+If it means no special gadgets,
+
+00:14:02.833 --> 00:14:04.183
+it has to run on a mobile phone.
+
+00:14:04.207 --> 00:14:05.286
+That's the only choice we have,
+
+00:14:05.310 --> 00:14:07.165
+we have to make it work on mobile phones.
+
+00:14:07.189 --> 00:14:08.099
+There are 6.6 billion
+
+00:14:08.123 --> 00:14:09.023
+mobile phone subscriptions.
+
+00:14:09.047 --> 00:14:11.059
+My favorite statistic of all time,
+
+00:14:11.083 --> 00:14:13.036
+only 4 billion toothbrushes in the world.
+
+00:14:13.060 --> 00:14:14.095
+That means something,
+
+00:14:14.119 --> 00:14:15.352
+I don't know what.
+
+00:14:15.376 --> 00:14:15.730
+(Laughter)
+
+00:14:15.754 --> 00:14:19.193
+I rely on our futurologists to tell me.
+
+00:14:19.217 --> 00:14:20.903
+It has to be a utility
+which is extensible.
+
+00:14:20.927 --> 00:14:22.188
+So it has to be something
+
+00:14:22.212 --> 00:14:23.778
+that anybody could build on.
+
+00:14:23.802 --> 00:14:25.666
+Anybody should be able
+to use this infrastructure,
+
+00:14:25.690 --> 00:14:28.120
+you don't need permissions,
+licenses, whatever,
+
+00:14:28.144 --> 00:14:31.311
+anyone should be able
+to write some code to do this.
+
+00:14:33.176 --> 00:14:34.417
+You know what symmetry is,
+
+00:14:34.441 --> 00:14:36.764
+so you don't need a picture of it.
+
+00:14:36.788 --> 00:14:37.928
+This is how we're going to do it.
+
+00:14:37.952 --> 00:14:38.962
+We're going to do it using phones,
+
+00:14:38.986 --> 00:14:39.588
+and we're going to do it
+
+00:14:39.612 --> 00:14:40.744
+using mobile proximity.
+
+00:14:40.768 --> 00:14:41.880
+I'm going to suggest to you
+
+00:14:41.904 --> 00:14:43.216
+the technology to implement
+
+00:14:43.240 --> 00:14:44.502
+Doctor Who's psychic paper
+
+00:14:44.526 --> 00:14:46.146
+is already here, and if any of you
+
+00:14:46.170 --> 00:14:48.625
+have got one of the new
+Barclay's debit cards
+
+00:14:48.649 --> 00:14:49.854
+with the contactless interface on it,
+
+00:14:49.878 --> 00:14:51.545
+you've already got that technology.
+
+00:14:51.569 --> 00:14:53.469
+If you've ever been up to the big city,
+
+00:14:53.493 --> 00:14:54.970
+and used an Oyster card at all,
+
+00:14:54.994 --> 00:14:57.065
+does that ring any bells to anybody?
+
+00:14:57.089 --> 00:14:57.811
+The technology already exists.
+
+00:14:57.835 --> 00:14:59.201
+The first phones
+
+00:14:59.225 --> 00:14:59.831
+that have the technology built in,
+
+00:14:59.855 --> 00:15:02.130
+the Google Nexus, the S2,
+
+00:15:02.154 --> 00:15:02.839
+the Samsung Wifi 7.9,
+
+00:15:02.863 --> 00:15:04.331
+the first phones that have
+
+00:15:04.355 --> 00:15:05.423
+the technology built into them
+
+00:15:05.447 --> 00:15:06.257
+are already in the shops.
+
+00:15:06.281 --> 00:15:07.969
+So the idea that the gas man
+
+00:15:07.993 --> 00:15:10.161
+can turn up at my mom's door
+
+00:15:10.185 --> 00:15:12.363
+and he can show my mom his phone,
+
+00:15:12.387 --> 00:15:13.698
+and she can tap it with her phone,
+
+00:15:13.722 --> 00:15:16.005
+and it will come up with green
+if he really is from British Gas
+
+00:15:16.029 --> 00:15:17.217
+and allowed in,
+
+00:15:17.241 --> 00:15:18.887
+and it'll come up with red if he isn't,
+
+00:15:18.911 --> 00:15:19.497
+end of story.
+
+00:15:19.521 --> 00:15:21.347
+We have the technology to do that.
+
+00:15:21.371 --> 00:15:22.582
+And what's more,
+
+00:15:22.606 --> 00:15:24.727
+although some of those things
+sounded a bit counter-intuitive,
+
+00:15:24.751 --> 00:15:27.515
+like proving I'm over 18
+without proving who I am,
+
+00:15:27.539 --> 00:15:29.740
+the cryptography to do that
+not only exists,
+
+00:15:29.764 --> 00:15:31.969
+it's extremely well-known
+and well-understood.
+
+00:15:31.993 --> 00:15:34.624
+Digital signatures, the blinding
+of public key certificates,
+
+00:15:34.648 --> 00:15:36.368
+these technologies have been around
+for a while,
+
+00:15:36.392 --> 00:15:38.440
+we've just had no way
+of packaging them up.
+
+00:15:38.464 --> 00:15:41.157
+So the technology already exists.
+
+00:15:41.181 --> 00:15:44.845
+We know it works,
+
+00:15:44.869 --> 00:15:46.593
+There are a few examples
+of the technology being used
+
+00:15:46.617 --> 00:15:48.263
+in experimental places.
+
+00:15:48.287 --> 00:15:49.591
+That's London Fashion Week,
+
+00:15:49.615 --> 00:15:51.465
+where we built a system with O2,
+
+00:15:51.489 --> 00:15:54.232
+that's for the Wireless Festival
+in Hyde Park,
+
+00:15:54.256 --> 00:15:55.355
+you can see the persons
+
+00:15:55.379 --> 00:15:57.116
+walking in with their VIP band,
+
+00:15:57.140 --> 00:15:57.600
+it's just being checked
+
+00:15:57.624 --> 00:15:58.700
+by the Nokia phone
+that's reading the band.
+
+00:15:58.724 --> 00:16:00.398
+I'm only putting those up to show you
+
+00:16:00.422 --> 00:16:01.627
+these things are prosaic,
+
+00:16:01.651 --> 00:16:03.509
+this stuff works in these environments.
+
+00:16:03.533 --> 00:16:04.962
+They don't need to be special.
+
+00:16:04.986 --> 00:16:10.881
+So finally, I know that you can do this,
+
+00:16:11.789 --> 00:16:14.669
+because if you saw
+the episode of Doctor Who,
+
+00:16:14.693 --> 00:16:16.569
+the Easter special of Doctor Who,
+
+00:16:16.593 --> 00:16:19.945
+where he went to Mars in a bus,
+
+00:16:19.969 --> 00:16:21.507
+I should say again
+for our foreign students,
+
+00:16:21.531 --> 00:16:23.180
+that doesn't happen every episode.
+
+00:16:23.204 --> 00:16:24.651
+This was a very special case.
+
+00:16:24.675 --> 00:16:27.892
+So in the episode where
+he goes to Mars in a London bus,
+
+00:16:27.916 --> 00:16:29.565
+I can't show you the clip,
+
+00:16:29.589 --> 00:16:32.589
+due to the outrageous restrictions
+of Queen Anne-style copyright
+
+00:16:32.613 --> 00:16:34.482
+by the BBC,
+
+00:16:34.506 --> 00:16:37.221
+but in the episode
+where he goes to Mars in a London bus,
+
+00:16:37.245 --> 00:16:41.355
+Doctor Who is clearly shown
+getting on to the bus
+
+00:16:41.379 --> 00:16:42.655
+with the Oyster card reader
+
+00:16:42.679 --> 00:16:44.223
+using his psychic paper.
+
+00:16:44.247 --> 00:16:46.315
+Which proves that psychic paper
+
+00:16:46.339 --> 00:16:48.030
+has an MSE interface.
+
+00:16:48.054 --> 00:16:50.064
+Thank you very much.
+

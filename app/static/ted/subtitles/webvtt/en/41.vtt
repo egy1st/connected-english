@@ -1,0 +1,1193 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.896
+I've been at MIT for 44 years.
+
+00:00:02.920 --> 00:00:04.856
+I went to TED I.
+
+00:00:04.880 --> 00:00:07.736
+There's only one other person here,
+I think, who did that.
+
+00:00:07.760 --> 00:00:08.976
+All the other TEDs --
+
+00:00:09.000 --> 00:00:11.256
+and I went to them all,
+under Ricky's regime --
+
+00:00:11.280 --> 00:00:13.816
+I talked about
+what the Media Lab was doing,
+
+00:00:13.840 --> 00:00:16.856
+which today has almost 500 people in it.
+
+00:00:16.880 --> 00:00:18.296
+And if you read the press,
+
+00:00:18.320 --> 00:00:20.976
+last week it actually said
+I quit the Media Lab.
+
+00:00:21.000 --> 00:00:25.176
+I didn't quit the Media Lab,
+I stepped down as chairman --
+
+00:00:25.200 --> 00:00:29.896
+which was a kind of ridiculous title,
+but someone else has taken it on --
+
+00:00:29.920 --> 00:00:32.111
+and one of the things
+you can do as a professor
+
+00:00:32.135 --> 00:00:33.976
+is you stay on as a professor.
+
+00:00:34.000 --> 00:00:38.256
+And I will now do for the rest of my life
+the One Laptop Per Child,
+
+00:00:38.280 --> 00:00:41.296
+which I've sort of been doing
+for a year and a half, anyway.
+
+00:00:41.320 --> 00:00:43.056
+So I'm going to tell you about this,
+
+00:00:43.080 --> 00:00:47.176
+use my 18 minutes
+to tell you why we're doing it,
+
+00:00:47.200 --> 00:00:49.376
+how we're doing it
+and then what we're doing.
+
+00:00:49.400 --> 00:00:52.696
+And at some point I'll even pass around
+
+00:00:52.720 --> 00:00:56.640
+what the $100 laptop might be like.
+
+00:00:58.800 --> 00:01:01.656
+I was asked by Chris
+to talk about some of the big issues,
+
+00:01:01.680 --> 00:01:06.936
+and so I figured I'd start with the three
+that at least drove me to do this.
+
+00:01:06.960 --> 00:01:09.776
+And the first is pretty obvious.
+
+00:01:09.800 --> 00:01:12.456
+It's amazing when you meet
+a head of state, and you say,
+
+00:01:12.480 --> 00:01:15.216
+"What is your most precious
+natural resource?"
+
+00:01:15.240 --> 00:01:17.936
+They will not say "children" at first,
+
+00:01:17.960 --> 00:01:22.215
+and then when you say, "children,"
+they will pretty quickly agree with you.
+
+00:01:22.239 --> 00:01:24.256
+And so that isn't very hard.
+
+00:01:24.280 --> 00:01:26.976
+(Laughter)
+
+00:01:27.000 --> 00:01:32.056
+Everybody agrees that whatever
+the solutions are to the big problems,
+
+00:01:32.080 --> 00:01:36.816
+they include education,
+sometimes can be just education
+
+00:01:36.840 --> 00:01:40.136
+and can never be without
+some element of education.
+
+00:01:40.160 --> 00:01:41.976
+So that's certainly part of it.
+
+00:01:42.000 --> 00:01:44.376
+And the third
+is a little bit less obvious.
+
+00:01:44.400 --> 00:01:49.136
+And that is that we all in this room
+learned how to walk, how to talk,
+
+00:01:49.160 --> 00:01:53.656
+not by being taught how to talk,
+or taught how to walk,
+
+00:01:53.680 --> 00:01:55.376
+but by interacting with the world,
+
+00:01:55.400 --> 00:01:59.536
+by having certain results as a consequence
+of being able to ask for something,
+
+00:01:59.560 --> 00:02:01.696
+or being able to stand up and reach it.
+
+00:02:01.720 --> 00:02:05.976
+Whereas at about the age six,
+we were told to stop learning that way,
+
+00:02:06.000 --> 00:02:09.336
+and that all learning from then on
+would happen through teaching,
+
+00:02:09.360 --> 00:02:11.789
+whether it's people standing up,
+like I'm doing now,
+
+00:02:11.813 --> 00:02:13.536
+or a book, or something.
+
+00:02:13.560 --> 00:02:15.496
+But it was really through teaching.
+
+00:02:15.520 --> 00:02:20.696
+And one of the things in general
+that computers have provided to learning
+
+00:02:20.720 --> 00:02:23.856
+is that it now includes a kind of learning
+
+00:02:23.880 --> 00:02:26.976
+which is a little bit more
+like walking and talking,
+
+00:02:27.000 --> 00:02:33.616
+in the sense that a lot of it is driven
+by the learner himself or herself.
+
+00:02:33.640 --> 00:02:36.376
+So with those as the principles --
+
+00:02:36.400 --> 00:02:38.416
+some of you may know Seymour Papert.
+
+00:02:38.440 --> 00:02:41.976
+This is back in 1982,
+when we were working in Senegal.
+
+00:02:42.000 --> 00:02:47.245
+Because some people think that
+the $100 laptop just happened a year ago,
+
+00:02:47.269 --> 00:02:50.456
+or two years ago,
+or we were struck by lightning --
+
+00:02:50.480 --> 00:02:55.536
+this actually has gone back a long time,
+and in fact, back to the '60s.
+
+00:02:55.560 --> 00:02:57.096
+Here we're in the '80s.
+
+00:02:57.120 --> 00:03:01.376
+Steve Jobs had given us some laptops.
+We were in Senegal.
+
+00:03:01.400 --> 00:03:02.656
+It didn't scale
+
+00:03:02.680 --> 00:03:07.776
+but it at least was bringing computers
+to developing countries
+
+00:03:07.800 --> 00:03:10.256
+and learning pretty quickly
+that these kids,
+
+00:03:10.280 --> 00:03:12.280
+even though English wasn't their language,
+
+00:03:12.304 --> 00:03:15.536
+the Latin alphabet
+barely was their language,
+
+00:03:15.560 --> 00:03:17.896
+but they could just swim like fish.
+
+00:03:17.920 --> 00:03:19.680
+They could play these like pianos.
+
+00:03:21.360 --> 00:03:25.576
+A little bit more recently,
+I got involved personally.
+
+00:03:25.600 --> 00:03:27.336
+And these are two anecdotes --
+
+00:03:27.360 --> 00:03:29.976
+one was in Cambodia,
+
+00:03:30.000 --> 00:03:34.416
+in a village that has no electricity,
+no water, no television, no telephone,
+
+00:03:34.440 --> 00:03:36.576
+but has broadband Internet now.
+
+00:03:36.600 --> 00:03:40.096
+And these kids,
+their first English word is "Google"
+
+00:03:40.120 --> 00:03:42.456
+and they only know Skype.
+
+00:03:42.480 --> 00:03:44.096
+They've never heard of telephony.
+
+00:03:44.120 --> 00:03:46.256
+They just use Skype.
+
+00:03:46.280 --> 00:03:48.136
+And they go home at night --
+
+00:03:48.160 --> 00:03:51.976
+they've got a broadband connection
+in a hut that doesn't have electricity.
+
+00:03:52.000 --> 00:03:54.762
+The parents love it,
+because when they open up the laptops,
+
+00:03:54.786 --> 00:03:56.976
+it's the brightest light source
+in the house.
+
+00:03:57.000 --> 00:04:00.376
+And talk about
+where metaphors and reality mix --
+
+00:04:00.400 --> 00:04:03.000
+this is the actual school.
+
+00:04:03.560 --> 00:04:08.656
+In parallel with this,
+Seymour Papert got the governor of Maine
+
+00:04:08.680 --> 00:04:14.176
+to legislate one laptop per child
+in the year 2002.
+
+00:04:14.200 --> 00:04:19.296
+Now at the time, I think it's fair to say
+that 80 percent of the teachers were --
+
+00:04:19.320 --> 00:04:20.896
+let me say, apprehensive.
+
+00:04:20.920 --> 00:04:22.736
+Really, they were actually against it.
+
+00:04:22.760 --> 00:04:25.284
+And they really preferred
+that the money would be used
+
+00:04:25.308 --> 00:04:27.696
+for higher salaries,
+more schools, whatever.
+
+00:04:27.720 --> 00:04:31.976
+And now, three and a half
+years later, guess what?
+
+00:04:32.000 --> 00:04:38.216
+They're reporting five things:
+drop of truancy to almost zero,
+
+00:04:38.240 --> 00:04:40.165
+attending parent-teacher meetings --
+
+00:04:40.189 --> 00:04:42.696
+which nobody did
+and now almost everybody does --
+
+00:04:42.720 --> 00:04:46.616
+drop in discipline problems,
+increase in student participation.
+
+00:04:46.640 --> 00:04:49.056
+Teachers are now saying
+it's kind of fun to teach.
+
+00:04:49.080 --> 00:04:52.216
+Kids are engaged -- they have laptops! --
+
+00:04:52.240 --> 00:04:54.696
+and then the fifth,
+which interests me the most,
+
+00:04:54.720 --> 00:04:57.936
+is that the servers have to be turned off
+at certain times at night
+
+00:04:57.960 --> 00:05:00.376
+because the teachers
+are getting too much email
+
+00:05:00.400 --> 00:05:02.376
+from the kids asking them for help.
+
+00:05:02.400 --> 00:05:04.176
+So when you see that kind of thing --
+
+00:05:04.200 --> 00:05:06.248
+this is not something
+that you have to test.
+
+00:05:06.272 --> 00:05:08.976
+The days of pilot projects are over,
+when people say,
+
+00:05:09.000 --> 00:05:13.056
+"We'd like to do three or four thousand
+in our country to see how it works."
+
+00:05:13.080 --> 00:05:16.176
+Screw you. Go to the back of the line
+and someone else will do it,
+
+00:05:16.200 --> 00:05:20.736
+and then when you figure out
+that this works, you can join as well.
+
+00:05:20.760 --> 00:05:23.336
+And this is what we're doing.
+
+00:05:23.360 --> 00:05:25.496
+(Laughter) (Applause)
+
+00:05:25.520 --> 00:05:30.496
+So, One Laptop Per Child
+was formed about a year and a half ago.
+
+00:05:30.520 --> 00:05:32.416
+It's a nonprofit association.
+
+00:05:32.440 --> 00:05:34.376
+It raised about 20 million dollars
+
+00:05:34.400 --> 00:05:38.216
+to do the engineering
+to just get this built,
+
+00:05:38.240 --> 00:05:40.896
+and then have it produced afterwards.
+
+00:05:40.920 --> 00:05:43.176
+Scale is truly important.
+
+00:05:43.200 --> 00:05:49.496
+And it's not important because you can
+buy components at a lower price, OK?
+
+00:05:49.520 --> 00:05:52.396
+It's because you can go
+to a manufacturer --
+
+00:05:52.420 --> 00:05:54.062
+and I will leave the name out --
+
+00:05:54.086 --> 00:05:57.616
+but we wanted a small display,
+
+00:05:57.640 --> 00:06:01.416
+doesn't have to have
+perfect color uniformity.
+
+00:06:01.440 --> 00:06:03.802
+It can even have a pixel or two missing.
+
+00:06:03.826 --> 00:06:06.376
+It doesn't have to be that bright.
+
+00:06:06.400 --> 00:06:08.696
+And this particular manufacturer said,
+
+00:06:08.720 --> 00:06:11.863
+"We're not interested in that.
+We're interested in the living room.
+
+00:06:11.887 --> 00:06:14.056
+We're interested
+in perfect color uniformity.
+
+00:06:14.080 --> 00:06:16.416
+We're interested in big displays,
+bright displays.
+
+00:06:16.440 --> 00:06:19.216
+You're not part of our strategic plan."
+
+00:06:19.240 --> 00:06:22.955
+And I said, "That's kind of too bad,
+because we need 100 million units a year."
+
+00:06:22.979 --> 00:06:24.550
+(Laughter)
+
+00:06:24.574 --> 00:06:28.536
+And they said, "Oh, well, maybe we could
+become part of your strategic plan."
+
+00:06:28.560 --> 00:06:30.976
+And that's why scale counts.
+
+00:06:31.000 --> 00:06:33.256
+And that's why we will not launch this
+
+00:06:33.280 --> 00:06:37.176
+without five to 10 million units
+in the first run.
+
+00:06:37.200 --> 00:06:40.176
+And the idea is
+to launch with enough scale
+
+00:06:40.200 --> 00:06:42.776
+that the scale itself
+helps bring the price down,
+
+00:06:42.800 --> 00:06:46.696
+and that's why I said
+seven to 10 million there.
+
+00:06:46.720 --> 00:06:50.136
+And we're doing it
+without a sales-and-marketing team.
+
+00:06:50.160 --> 00:06:52.736
+I mean, you're looking
+at the sales-and-marketing team.
+
+00:06:52.760 --> 00:06:56.776
+We will do it by going
+to seven large countries
+
+00:06:56.800 --> 00:06:59.324
+and getting them to agree and launch it,
+
+00:06:59.348 --> 00:07:01.656
+and then the others can follow.
+
+00:07:01.680 --> 00:07:03.536
+We have partners.
+
+00:07:03.560 --> 00:07:05.560
+It's not hard to guess
+Google would be one.
+
+00:07:05.584 --> 00:07:09.216
+The others are all playing to pending.
+
+00:07:09.240 --> 00:07:12.096
+And this has been
+in the press a great deal.
+
+00:07:12.120 --> 00:07:18.016
+It's the so-called Green Machine
+that we introduced with Kofi Annan
+
+00:07:18.040 --> 00:07:22.336
+in November at the World Summit
+that was held in Tunisia.
+
+00:07:22.360 --> 00:07:27.976
+Now once people start looking at this,
+they say, "Ah, this is a laptop project."
+
+00:07:28.000 --> 00:07:31.296
+Well, no, it's not a laptop project.
+It's an education project.
+
+00:07:31.320 --> 00:07:34.976
+And the fun part --
+and I'm quite focused on it --
+
+00:07:35.000 --> 00:07:39.096
+I tell people I used to be a light bulb,
+but now I'm a laser --
+
+00:07:39.120 --> 00:07:45.216
+I'm just going to get that thing built,
+and it turns out it's not so hard.
+
+00:07:45.240 --> 00:07:48.456
+Because laptop economics
+are the following:
+
+00:07:48.480 --> 00:07:50.976
+I say 50 percent here --
+it's more like 60,
+
+00:07:51.000 --> 00:07:53.056
+60 percent of the cost of your laptop
+
+00:07:53.080 --> 00:07:55.936
+is sales, marketing,
+distribution and profit.
+
+00:07:55.960 --> 00:07:58.296
+Now we have none of those, OK?
+
+00:07:58.320 --> 00:08:01.256
+None of those figure into our cost,
+
+00:08:01.280 --> 00:08:05.496
+because first of all, we sell it at cost,
+and the governments distribute it.
+
+00:08:05.520 --> 00:08:09.776
+It gets distributed
+to the school system like a textbook.
+
+00:08:09.800 --> 00:08:11.936
+So that piece disappears.
+
+00:08:11.960 --> 00:08:14.776
+Then you have display and everything else.
+
+00:08:14.800 --> 00:08:17.656
+Now the display on your laptop costs,
+
+00:08:17.680 --> 00:08:22.816
+in rough numbers,
+10 dollars a diagonal inch.
+
+00:08:22.840 --> 00:08:24.976
+That can drop to eight;
+it can drop to seven
+
+00:08:25.000 --> 00:08:27.976
+but it's not going to drop to two,
+or to one and a half,
+
+00:08:28.000 --> 00:08:30.760
+unless we do some pretty clever things.
+
+00:08:32.080 --> 00:08:36.256
+It's the rest -- that little brown box --
+that is pretty fascinating,
+
+00:08:36.280 --> 00:08:41.696
+because the rest of your laptop
+is devoted to itself.
+
+00:08:41.720 --> 00:08:44.336
+It's a little bit like an obese person
+
+00:08:44.360 --> 00:08:47.496
+having to use most of their energy
+to move their obesity.
+
+00:08:47.520 --> 00:08:48.976
+(Laughter)
+
+00:08:49.000 --> 00:08:54.776
+And we have a situation today
+which is incredible.
+
+00:08:54.800 --> 00:08:57.776
+I've been using laptops
+since their inception.
+
+00:08:57.800 --> 00:09:03.136
+And my laptop runs slower,
+less reliably and less pleasantly
+
+00:09:03.160 --> 00:09:05.696
+than it ever has before.
+
+00:09:05.720 --> 00:09:07.216
+And this year is worse.
+
+00:09:07.240 --> 00:09:08.616
+(Applause)
+
+00:09:08.640 --> 00:09:11.936
+People clap, sometimes
+you even get standing ovations,
+
+00:09:11.960 --> 00:09:15.656
+and I say, "What the hell's wrong
+with you? Why are we all sitting there?"
+
+00:09:15.680 --> 00:09:22.016
+And somebody -- to remain nameless --
+called our laptop a "gadget" recently.
+
+00:09:22.040 --> 00:09:25.656
+And I said, "God, our laptop's going to go
+like a bat out of hell.
+
+00:09:25.680 --> 00:09:27.876
+When you open it up,
+it's going to go 'bing.'"
+
+00:09:27.900 --> 00:09:29.176
+It'll be on.
+
+00:09:29.200 --> 00:09:32.976
+It'll be just like it was in 1985,
+
+00:09:33.000 --> 00:09:37.696
+when you bought an Apple Macintosh 512.
+
+00:09:37.720 --> 00:09:39.456
+It worked really well.
+
+00:09:39.480 --> 00:09:42.576
+And we've been going steadily downhill.
+
+00:09:42.600 --> 00:09:46.536
+Now, people ask all the time what it is.
+
+00:09:46.560 --> 00:09:48.616
+That's what it is.
+
+00:09:48.640 --> 00:09:53.936
+The two pieces that are probably notable:
+it'll be a mesh network,
+
+00:09:53.960 --> 00:09:57.576
+so when the kids open up their laptops,
+they all become a network,
+
+00:09:57.600 --> 00:10:00.416
+and then just need
+one or two points of backhaul.
+
+00:10:00.440 --> 00:10:03.616
+You can serve a couple of thousand kids
+with two megabits.
+
+00:10:03.640 --> 00:10:06.696
+So you really can bring into a village,
+
+00:10:06.720 --> 00:10:09.016
+and then the villages
+can connect themselves,
+
+00:10:09.040 --> 00:10:12.096
+and you really can do it quite well.
+
+00:10:12.120 --> 00:10:14.096
+The dual mode display --
+
+00:10:14.120 --> 00:10:18.816
+the idea is to have a display
+that both works outdoors --
+
+00:10:18.840 --> 00:10:22.256
+isn't it fun using your cell phone
+outdoors in the sunlight?
+
+00:10:22.280 --> 00:10:23.816
+Well, you can't see it.
+
+00:10:23.840 --> 00:10:26.016
+And one of the reasons you can't see it
+
+00:10:26.040 --> 00:10:30.096
+is because it's backlighting
+most of the time, most cell phones.
+
+00:10:30.120 --> 00:10:34.776
+Now, what we're doing is, we're doing one
+that will be both frontlit and backlit.
+
+00:10:34.800 --> 00:10:38.576
+And whether you manually switch it
+or you do it in the software
+
+00:10:38.600 --> 00:10:40.096
+is to be seen.
+
+00:10:40.120 --> 00:10:41.976
+But when it's backlit, it's color.
+
+00:10:42.000 --> 00:10:44.056
+And when it's frontlit,
+it's black and white
+
+00:10:44.080 --> 00:10:46.056
+at three times the resolution.
+
+00:10:46.080 --> 00:10:48.536
+Is it all worked out? No.
+
+00:10:48.560 --> 00:10:53.816
+That's why a lot of our people are
+more or less living in Taiwan right now.
+
+00:10:53.840 --> 00:10:58.056
+And in about 30 days,
+we'll know for sure whether this works.
+
+00:10:58.080 --> 00:11:02.296
+Probably the most important piece there
+
+00:11:02.320 --> 00:11:05.456
+is that the kids
+really can do the maintenance.
+
+00:11:05.480 --> 00:11:08.616
+And this is again something
+that people don't believe,
+
+00:11:08.640 --> 00:11:10.307
+but I really think it's quite true.
+
+00:11:11.880 --> 00:11:16.776
+That's the machine we showed in Tunis.
+
+00:11:16.800 --> 00:11:19.576
+This is more the direction
+that we're going to go.
+
+00:11:19.600 --> 00:11:22.936
+And it's something
+that we didn't think was possible.
+
+00:11:22.960 --> 00:11:26.296
+Now, I'm going to pass this around.
+
+00:11:26.320 --> 00:11:28.496
+This isn't a design, OK?
+
+00:11:28.520 --> 00:11:33.216
+So this is just a mechanical
+engineering sort of embodiment of it
+
+00:11:33.240 --> 00:11:34.776
+for you to play with.
+
+00:11:34.800 --> 00:11:36.656
+And it's clearly just a model.
+
+00:11:36.680 --> 00:11:39.376
+The working one is at MIT.
+
+00:11:39.400 --> 00:11:42.256
+I'm going to pass it
+to this handsome gentleman.
+
+00:11:42.280 --> 00:11:44.736
+At least you can decide
+whether it goes left or --
+
+00:11:44.760 --> 00:11:48.060
+Chris Anderson: Before you do it,
+for the people down in simulcast --
+
+00:11:48.084 --> 00:11:51.146
+Nicholas Negroponte: Sorry! I forgot.
+CA: Just show it off a bit.
+
+00:11:51.170 --> 00:11:54.176
+So wherever the camera is --
+OK, good point. Thank you, Chris.
+
+00:11:54.200 --> 00:11:57.776
+The idea was that
+it would be not only a laptop,
+
+00:11:57.800 --> 00:12:01.376
+but that it could transform
+into an electronic book.
+
+00:12:01.400 --> 00:12:03.067
+So it's sort of an electronic book.
+
+00:12:03.091 --> 00:12:05.853
+This is where when you go outside,
+it's in black and white.
+
+00:12:05.877 --> 00:12:07.656
+The games buttons are missing,
+
+00:12:07.680 --> 00:12:09.975
+but it'll also be a games machine,
+
+00:12:09.999 --> 00:12:11.336
+book machine.
+
+00:12:11.360 --> 00:12:13.856
+Set it up this way,
+and it's a television set.
+
+00:12:13.880 --> 00:12:18.000
+Etc., etc. -- is that enough
+for simulcast? OK, sorry.
+
+00:12:20.160 --> 00:12:23.016
+I'll let Jim decide
+which way to send it afterwards.
+
+00:12:23.040 --> 00:12:24.736
+OK. Seven countries.
+
+00:12:24.760 --> 00:12:26.336
+(Laughter)
+
+00:12:26.360 --> 00:12:31.416
+I say "maybe" for Massachusetts,
+because they actually have to do a bid.
+
+00:12:31.440 --> 00:12:34.096
+By law you've got to bid,
+and so on and so forth.
+
+00:12:34.120 --> 00:12:35.536
+So I can't quite name them.
+
+00:12:35.560 --> 00:12:38.216
+In the other cases,
+they don't have to do bids.
+
+00:12:38.240 --> 00:12:39.852
+They can decide --
+
+00:12:39.876 --> 00:12:41.936
+it's the federal government in each case.
+
+00:12:41.960 --> 00:12:43.176
+It's kind of agonizing,
+
+00:12:43.200 --> 00:12:46.105
+because a lot of people say,
+"Let's do it at the state level,"
+
+00:12:46.129 --> 00:12:50.976
+because states are more nimble
+than the feds, just because of size.
+
+00:12:51.000 --> 00:12:52.176
+And yet we count.
+
+00:12:52.200 --> 00:12:54.576
+We're really dealing
+with the federal government.
+
+00:12:54.600 --> 00:12:56.936
+We're really dealing
+with ministries of education.
+
+00:12:56.960 --> 00:12:59.656
+And if you look at governments
+around the world,
+
+00:12:59.680 --> 00:13:03.416
+ministries of education
+tend to be the most conservative,
+
+00:13:03.440 --> 00:13:07.616
+and also the ones that have huge payrolls.
+
+00:13:07.640 --> 00:13:10.016
+Everybody thinks
+they know about education,
+
+00:13:10.040 --> 00:13:12.496
+a lot of culture is built into it as well.
+
+00:13:12.520 --> 00:13:16.176
+It's really hard.
+And so it's certainly the hard road.
+
+00:13:16.200 --> 00:13:20.976
+If you look at the countries,
+they're pretty geoculturally distributed.
+
+00:13:21.000 --> 00:13:23.496
+Have they all agreed? No, not completely.
+
+00:13:23.520 --> 00:13:25.896
+Probably Thailand, Brazil and Nigeria
+
+00:13:25.920 --> 00:13:29.016
+are the three that are
+the most active and most agreed.
+
+00:13:29.040 --> 00:13:32.136
+We're purposely
+not signing anything with anybody
+
+00:13:32.160 --> 00:13:34.456
+until we actually have the working ones.
+
+00:13:34.480 --> 00:13:37.136
+And since I visit
+each one of those countries
+
+00:13:37.160 --> 00:13:39.176
+within at least every three months,
+
+00:13:39.200 --> 00:13:42.336
+I'm just going around the world
+every three weeks.
+
+00:13:42.360 --> 00:13:43.896
+Here's sort of the schedule
+
+00:13:43.920 --> 00:13:50.120
+and I put at the bottom we might give some
+away free in two years at this meeting.
+
+00:13:50.422 --> 00:13:53.535
+Everybody says it's a $100 laptop --
+
+00:13:53.559 --> 00:13:54.710
+you can't do it.
+
+00:13:54.734 --> 00:13:56.136
+Well, guess what, we're not.
+
+00:13:56.160 --> 00:14:01.216
+We're coming in probably at 135,
+to start, then drift down.
+
+00:14:01.240 --> 00:14:02.696
+And that's very important,
+
+00:14:02.720 --> 00:14:08.016
+because so many things hit the market
+at a price and then drift up.
+
+00:14:08.040 --> 00:14:09.536
+It's kind of the loss leader,
+
+00:14:09.560 --> 00:14:12.416
+and then as soon as it looks interesting,
+
+00:14:12.440 --> 00:14:15.096
+it can't be afforded,
+or it can't be scaled out.
+
+00:14:15.120 --> 00:14:18.536
+So we're targeting 50 dollars in 2010.
+
+00:14:18.560 --> 00:14:20.336
+The gray market's a big issue.
+
+00:14:20.360 --> 00:14:22.736
+And one of the ways -- just one --
+
+00:14:22.760 --> 00:14:26.816
+but one of the ways to help
+in the case of the gray market
+
+00:14:26.840 --> 00:14:29.376
+is to make something
+that is so utterly unique --
+
+00:14:29.400 --> 00:14:33.016
+It's a little bit like the fact
+that automobiles --
+
+00:14:33.040 --> 00:14:36.696
+thousands of automobiles
+are stolen every day in the United States.
+
+00:14:36.720 --> 00:14:39.656
+Not one single
+post-office truck is stolen.
+
+00:14:39.680 --> 00:14:40.896
+(Laughter)
+
+00:14:40.920 --> 00:14:42.096
+And why?
+
+00:14:42.120 --> 00:14:44.456
+Because there's no market
+for post-office trucks.
+
+00:14:44.480 --> 00:14:46.216
+It looks like a post-office truck.
+
+00:14:46.240 --> 00:14:48.717
+You can spray paint it.
+You can do anything you want.
+
+00:14:48.741 --> 00:14:52.936
+I just learned recently: in South Africa,
+no white Volvos are stolen.
+
+00:14:52.960 --> 00:14:54.536
+Period. None. Zero.
+
+00:14:54.560 --> 00:14:58.575
+So we want to make it
+very much like a white Volvo.
+
+00:14:59.360 --> 00:15:01.576
+Each government has a task force.
+
+00:15:01.600 --> 00:15:03.216
+This perhaps is less interesting,
+
+00:15:03.240 --> 00:15:06.145
+but we're trying to get the governments
+to all work together
+
+00:15:06.169 --> 00:15:08.604
+and it's not easy.
+
+00:15:09.880 --> 00:15:14.927
+The economics of this
+is to start with the federal governments
+
+00:15:14.951 --> 00:15:21.933
+and then later,
+to subsequently go to other --
+
+00:15:21.957 --> 00:15:23.853
+whether it's child-to-child funding,
+
+00:15:23.877 --> 00:15:28.336
+so a child in this country buys one
+for a child in the developing world,
+
+00:15:28.360 --> 00:15:31.456
+maybe of the same gender,
+maybe of the same age.
+
+00:15:31.480 --> 00:15:35.176
+An uncle gives a niece or a nephew that
+as a birthday present.
+
+00:15:35.200 --> 00:15:37.896
+I mean, there are all sorts of things
+that will happen,
+
+00:15:37.920 --> 00:15:39.816
+and they'll be very, very exciting.
+
+00:15:39.840 --> 00:15:44.835
+And everybody says -- I say --
+it's an education project.
+
+00:15:44.859 --> 00:15:46.856
+Are we providing the software?
+
+00:15:46.880 --> 00:15:48.365
+The answer is:
+
+00:15:48.389 --> 00:15:50.016
+The system certainly has software,
+
+00:15:50.040 --> 00:15:53.176
+but no, we're not providing
+the education content.
+
+00:15:53.200 --> 00:15:57.296
+That is really done in the countries.
+
+00:15:57.320 --> 00:15:59.396
+But we are certainly constructionists.
+
+00:15:59.420 --> 00:16:01.576
+And we certainly believe
+in learning by doing
+
+00:16:01.600 --> 00:16:05.736
+and everything from Logo,
+which was started in 1968,
+
+00:16:05.760 --> 00:16:10.736
+to more modern things, like Scratch,
+if you've ever even heard of it,
+
+00:16:10.760 --> 00:16:12.816
+are very, very much part of it.
+
+00:16:12.840 --> 00:16:14.683
+And that's the rollout.
+
+00:16:15.880 --> 00:16:18.119
+Are we dreaming? Is this real?
+
+00:16:18.143 --> 00:16:19.808
+It actually is real.
+
+00:16:20.760 --> 00:16:25.496
+The only criticism, and people
+really don't want to criticize this,
+
+00:16:25.520 --> 00:16:29.376
+because it is a humanitarian effort,
+a nonprofit effort
+
+00:16:29.400 --> 00:16:33.216
+and to criticize it
+is a little bit stupid, actually.
+
+00:16:33.240 --> 00:16:34.456
+(Laughter)
+
+00:16:34.480 --> 00:16:40.616
+But the one thing
+that people could criticize was,
+
+00:16:40.640 --> 00:16:44.204
+"Great idea, but these guys can't do it."
+
+00:16:44.800 --> 00:16:48.976
+And that could either mean these guys,
+professors and so on couldn't do it,
+
+00:16:49.000 --> 00:16:50.976
+or that it's not possible.
+
+00:16:51.000 --> 00:16:56.696
+Well, on December 12, a company
+called Quanta agreed to build it,
+
+00:16:56.720 --> 00:17:01.656
+and since they make about one-third
+of all the laptops on the planet today,
+
+00:17:01.680 --> 00:17:03.256
+that question disappeared.
+
+00:17:03.280 --> 00:17:06.496
+So it's not a matter
+of whether it's going to happen.
+
+00:17:06.520 --> 00:17:07.736
+It is going to happen.
+
+00:17:07.760 --> 00:17:12.180
+And if it comes out
+at 138 dollars, so what?
+
+00:17:12.204 --> 00:17:15.230
+If it comes out six months late, so what?
+
+00:17:15.230 --> 00:17:16.930
+That's a pretty soft landing.
+
+00:17:16.930 --> 00:17:18.490
+Thank you.
+
+00:17:18.490 --> 00:17:20.079
+(Applause)
+

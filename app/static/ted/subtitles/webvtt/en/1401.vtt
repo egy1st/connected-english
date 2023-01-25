@@ -1,0 +1,1025 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+The electricity powering the lights in this theater
+
+00:00:03.000 --> 00:00:06.000
+was generated just moments ago.
+
+00:00:06.000 --> 00:00:09.000
+Because the way things stand today,
+
+00:00:09.000 --> 00:00:12.000
+electricity demand must be in constant balance
+
+00:00:12.000 --> 00:00:15.000
+with electricity supply.
+
+00:00:15.000 --> 00:00:18.000
+If in the time that it took me to walk out here on this stage,
+
+00:00:18.000 --> 00:00:21.000
+some tens of megawatts of wind power
+
+00:00:21.000 --> 00:00:24.000
+stopped pouring into the grid,
+
+00:00:24.000 --> 00:00:26.000
+the difference would have to be made up
+
+00:00:26.000 --> 00:00:30.000
+from other generators immediately.
+
+00:00:30.000 --> 00:00:33.000
+But coal plants, nuclear plants
+
+00:00:33.000 --> 00:00:35.000
+can't respond fast enough.
+
+00:00:35.000 --> 00:00:37.000
+A giant battery could.
+
+00:00:37.000 --> 00:00:39.000
+With a giant battery,
+
+00:00:39.000 --> 00:00:42.000
+we'd be able to address the problem of intermittency
+
+00:00:42.000 --> 00:00:44.000
+that prevents wind and solar
+
+00:00:44.000 --> 00:00:46.000
+from contributing to the grid
+
+00:00:46.000 --> 00:00:50.000
+in the same way that coal, gas and nuclear do today.
+
+00:00:50.000 --> 00:00:52.000
+You see, the battery
+
+00:00:52.000 --> 00:00:55.000
+is the key enabling device here.
+
+00:00:55.000 --> 00:00:58.000
+With it, we could draw electricity from the sun
+
+00:00:58.000 --> 00:01:00.000
+even when the sun doesn't shine.
+
+00:01:00.000 --> 00:01:03.000
+And that changes everything.
+
+00:01:03.000 --> 00:01:05.000
+Because then renewables
+
+00:01:05.000 --> 00:01:07.000
+such as wind and solar
+
+00:01:07.000 --> 00:01:09.000
+come out from the wings,
+
+00:01:09.000 --> 00:01:11.000
+here to center stage.
+
+00:01:11.000 --> 00:01:14.000
+Today I want to tell you about such a device.
+
+00:01:14.000 --> 00:01:16.000
+It's called the liquid metal battery.
+
+00:01:16.000 --> 00:01:18.000
+It's a new form of energy storage
+
+00:01:18.000 --> 00:01:21.000
+that I invented at MIT
+
+00:01:21.000 --> 00:01:23.000
+along with a team of my students
+
+00:01:23.000 --> 00:01:25.000
+and post-docs.
+
+00:01:25.000 --> 00:01:28.000
+Now the theme of this year's TED Conference is Full Spectrum.
+
+00:01:28.000 --> 00:01:31.000
+The OED defines spectrum
+
+00:01:31.000 --> 00:01:34.000
+as "The entire range of wavelengths
+
+00:01:34.000 --> 00:01:36.000
+of electromagnetic radiation,
+
+00:01:36.000 --> 00:01:39.000
+from the longest radio waves to the shortest gamma rays
+
+00:01:39.000 --> 00:01:42.000
+of which the range of visible light
+
+00:01:42.000 --> 00:01:44.000
+is only a small part."
+
+00:01:44.000 --> 00:01:46.000
+So I'm not here today only to tell you
+
+00:01:46.000 --> 00:01:49.000
+how my team at MIT has drawn out of nature
+
+00:01:49.000 --> 00:01:52.000
+a solution to one of the world's great problems.
+
+00:01:52.000 --> 00:01:55.000
+I want to go full spectrum and tell you how,
+
+00:01:55.000 --> 00:01:57.000
+in the process of developing
+
+00:01:57.000 --> 00:01:59.000
+this new technology,
+
+00:01:59.000 --> 00:02:02.000
+we've uncovered some surprising heterodoxies
+
+00:02:02.000 --> 00:02:05.000
+that can serve as lessons for innovation,
+
+00:02:05.000 --> 00:02:08.000
+ideas worth spreading.
+
+00:02:08.000 --> 00:02:10.000
+And you know,
+
+00:02:10.000 --> 00:02:14.000
+if we're going to get this country out of its current energy situation,
+
+00:02:14.000 --> 00:02:17.000
+we can't just conserve our way out;
+
+00:02:17.000 --> 00:02:20.000
+we can't just drill our way out;
+
+00:02:20.000 --> 00:02:22.000
+we can't bomb our way out.
+
+00:02:22.000 --> 00:02:24.000
+We're going to do it the old-fashioned American way,
+
+00:02:24.000 --> 00:02:26.000
+we're going to invent our way out,
+
+00:02:26.000 --> 00:02:28.000
+working together.
+
+00:02:28.000 --> 00:02:31.000
+(Applause)
+
+00:02:31.000 --> 00:02:33.000
+Now let's get started.
+
+00:02:33.000 --> 00:02:36.000
+The battery was invented about 200 years ago
+
+00:02:36.000 --> 00:02:38.000
+by a professor, Alessandro Volta,
+
+00:02:38.000 --> 00:02:41.000
+at the University of Padua in Italy.
+
+00:02:41.000 --> 00:02:43.000
+His invention gave birth to a new field of science,
+
+00:02:43.000 --> 00:02:45.000
+electrochemistry,
+
+00:02:45.000 --> 00:02:47.000
+and new technologies
+
+00:02:47.000 --> 00:02:49.000
+such as electroplating.
+
+00:02:49.000 --> 00:02:51.000
+Perhaps overlooked,
+
+00:02:51.000 --> 00:02:53.000
+Volta's invention of the battery
+
+00:02:53.000 --> 00:02:55.000
+for the first time also
+
+00:02:55.000 --> 00:02:57.000
+demonstrated the utility of a professor.
+
+00:02:57.000 --> 00:02:59.000
+(Laughter)
+
+00:02:59.000 --> 00:03:01.000
+Until Volta, nobody could imagine
+
+00:03:01.000 --> 00:03:04.000
+a professor could be of any use.
+
+00:03:04.000 --> 00:03:07.000
+Here's the first battery --
+
+00:03:07.000 --> 00:03:10.000
+a stack of coins, zinc and silver,
+
+00:03:10.000 --> 00:03:12.000
+separated by cardboard soaked in brine.
+
+00:03:12.000 --> 00:03:14.000
+This is the starting point
+
+00:03:14.000 --> 00:03:16.000
+for designing a battery --
+
+00:03:16.000 --> 00:03:18.000
+two electrodes,
+
+00:03:18.000 --> 00:03:20.000
+in this case metals of different composition,
+
+00:03:20.000 --> 00:03:22.000
+and an electrolyte,
+
+00:03:22.000 --> 00:03:24.000
+in this case salt dissolved in water.
+
+00:03:24.000 --> 00:03:26.000
+The science is that simple.
+
+00:03:26.000 --> 00:03:30.000
+Admittedly, I've left out a few details.
+
+00:03:30.000 --> 00:03:32.000
+Now I've taught you
+
+00:03:32.000 --> 00:03:34.000
+that battery science is straightforward
+
+00:03:34.000 --> 00:03:36.000
+and the need for grid-level storage
+
+00:03:36.000 --> 00:03:38.000
+is compelling,
+
+00:03:38.000 --> 00:03:40.000
+but the fact is
+
+00:03:40.000 --> 00:03:43.000
+that today there is simply no battery technology
+
+00:03:43.000 --> 00:03:45.000
+capable of meeting
+
+00:03:45.000 --> 00:03:49.000
+the demanding performance requirements of the grid --
+
+00:03:49.000 --> 00:03:51.000
+namely uncommonly high power,
+
+00:03:51.000 --> 00:03:53.000
+long service lifetime
+
+00:03:53.000 --> 00:03:55.000
+and super-low cost.
+
+00:03:55.000 --> 00:03:58.000
+We need to think about the problem differently.
+
+00:03:58.000 --> 00:04:00.000
+We need to think big,
+
+00:04:00.000 --> 00:04:02.000
+we need to think cheap.
+
+00:04:02.000 --> 00:04:04.000
+So let's abandon the paradigm
+
+00:04:04.000 --> 00:04:07.000
+of let's search for the coolest chemistry
+
+00:04:07.000 --> 00:04:09.000
+and then hopefully we'll chase down the cost curve
+
+00:04:09.000 --> 00:04:12.000
+by just making lots and lots of product.
+
+00:04:12.000 --> 00:04:14.000
+Instead, let's invent
+
+00:04:14.000 --> 00:04:17.000
+to the price point of the electricity market.
+
+00:04:17.000 --> 00:04:19.000
+So that means
+
+00:04:19.000 --> 00:04:21.000
+that certain parts of the periodic table
+
+00:04:21.000 --> 00:04:23.000
+are axiomatically off-limits.
+
+00:04:23.000 --> 00:04:25.000
+This battery needs to be made
+
+00:04:25.000 --> 00:04:27.000
+out of earth-abundant elements.
+
+00:04:27.000 --> 00:04:30.000
+I say, if you want to make something dirt cheap,
+
+00:04:30.000 --> 00:04:32.000
+make it out of dirt --
+
+00:04:32.000 --> 00:04:34.000
+(Laughter)
+
+00:04:34.000 --> 00:04:36.000
+preferably dirt
+
+00:04:36.000 --> 00:04:39.000
+that's locally sourced.
+
+00:04:39.000 --> 00:04:42.000
+And we need to be able to build this thing
+
+00:04:42.000 --> 00:04:45.000
+using simple manufacturing techniques and factories
+
+00:04:45.000 --> 00:04:48.000
+that don't cost us a fortune.
+
+00:04:49.000 --> 00:04:51.000
+So about six years ago,
+
+00:04:51.000 --> 00:04:53.000
+I started thinking about this problem.
+
+00:04:53.000 --> 00:04:56.000
+And in order to adopt a fresh perspective,
+
+00:04:56.000 --> 00:05:00.000
+I sought inspiration from beyond the field of electricity storage.
+
+00:05:00.000 --> 00:05:03.000
+In fact, I looked to a technology
+
+00:05:03.000 --> 00:05:06.000
+that neither stores nor generates electricity,
+
+00:05:06.000 --> 00:05:08.000
+but instead consumes electricity,
+
+00:05:08.000 --> 00:05:10.000
+huge amounts of it.
+
+00:05:10.000 --> 00:05:14.000
+I'm talking about the production of aluminum.
+
+00:05:14.000 --> 00:05:16.000
+The process was invented in 1886
+
+00:05:16.000 --> 00:05:18.000
+by a couple of 22-year-olds --
+
+00:05:18.000 --> 00:05:21.000
+Hall in the United States and Heroult in France.
+
+00:05:21.000 --> 00:05:24.000
+And just a few short years following their discovery,
+
+00:05:24.000 --> 00:05:26.000
+aluminum changed
+
+00:05:26.000 --> 00:05:29.000
+from a precious metal costing as much as silver
+
+00:05:29.000 --> 00:05:32.000
+to a common structural material.
+
+00:05:32.000 --> 00:05:35.000
+You're looking at the cell house of a modern aluminum smelter.
+
+00:05:35.000 --> 00:05:37.000
+It's about 50 feet wide
+
+00:05:37.000 --> 00:05:39.000
+and recedes about half a mile --
+
+00:05:39.000 --> 00:05:42.000
+row after row of cells
+
+00:05:42.000 --> 00:05:45.000
+that, inside, resemble Volta's battery,
+
+00:05:45.000 --> 00:05:47.000
+with three important differences.
+
+00:05:47.000 --> 00:05:50.000
+Volta's battery works at room temperature.
+
+00:05:50.000 --> 00:05:53.000
+It's fitted with solid electrodes
+
+00:05:53.000 --> 00:05:56.000
+and an electrolyte that's a solution of salt and water.
+
+00:05:56.000 --> 00:05:58.000
+The Hall-Heroult cell
+
+00:05:58.000 --> 00:06:00.000
+operates at high temperature,
+
+00:06:00.000 --> 00:06:02.000
+a temperature high enough
+
+00:06:02.000 --> 00:06:04.000
+that the aluminum metal product is liquid.
+
+00:06:04.000 --> 00:06:06.000
+The electrolyte
+
+00:06:06.000 --> 00:06:08.000
+is not a solution of salt and water,
+
+00:06:08.000 --> 00:06:10.000
+but rather salt that's melted.
+
+00:06:10.000 --> 00:06:12.000
+It's this combination of liquid metal,
+
+00:06:12.000 --> 00:06:15.000
+molten salt and high temperature
+
+00:06:15.000 --> 00:06:19.000
+that allows us to send high current through this thing.
+
+00:06:19.000 --> 00:06:22.000
+Today, we can produce virgin metal from ore
+
+00:06:22.000 --> 00:06:25.000
+at a cost of less than 50 cents a pound.
+
+00:06:25.000 --> 00:06:27.000
+That's the economic miracle
+
+00:06:27.000 --> 00:06:29.000
+of modern electrometallurgy.
+
+00:06:29.000 --> 00:06:32.000
+It is this that caught and held my attention
+
+00:06:32.000 --> 00:06:36.000
+to the point that I became obsessed with inventing a battery
+
+00:06:36.000 --> 00:06:40.000
+that could capture this gigantic economy of scale.
+
+00:06:40.000 --> 00:06:42.000
+And I did.
+
+00:06:42.000 --> 00:06:45.000
+I made the battery all liquid --
+
+00:06:45.000 --> 00:06:47.000
+liquid metals for both electrodes
+
+00:06:47.000 --> 00:06:49.000
+and a molten salt for the electrolyte.
+
+00:06:49.000 --> 00:06:52.000
+I'll show you how.
+
+00:07:09.000 --> 00:07:12.000
+So I put low-density
+
+00:07:12.000 --> 00:07:16.000
+liquid metal at the top,
+
+00:07:16.000 --> 00:07:22.000
+put a high-density liquid metal at the bottom,
+
+00:07:22.000 --> 00:07:25.000
+and molten salt in between.
+
+00:07:28.000 --> 00:07:30.000
+So now,
+
+00:07:30.000 --> 00:07:33.000
+how to choose the metals?
+
+00:07:33.000 --> 00:07:35.000
+For me, the design exercise
+
+00:07:35.000 --> 00:07:37.000
+always begins here
+
+00:07:37.000 --> 00:07:39.000
+with the periodic table,
+
+00:07:39.000 --> 00:07:41.000
+enunciated by another professor,
+
+00:07:41.000 --> 00:07:43.000
+Dimitri Mendeleyev.
+
+00:07:43.000 --> 00:07:45.000
+Everything we know
+
+00:07:45.000 --> 00:07:47.000
+is made of some combination
+
+00:07:47.000 --> 00:07:50.000
+of what you see depicted here.
+
+00:07:50.000 --> 00:07:52.000
+And that includes our own bodies.
+
+00:07:52.000 --> 00:07:55.000
+I recall the very moment one day
+
+00:07:55.000 --> 00:07:58.000
+when I was searching for a pair of metals
+
+00:07:58.000 --> 00:08:00.000
+that would meet the constraints
+
+00:08:00.000 --> 00:08:02.000
+of earth abundance,
+
+00:08:02.000 --> 00:08:05.000
+different, opposite density
+
+00:08:05.000 --> 00:08:07.000
+and high mutual reactivity.
+
+00:08:07.000 --> 00:08:09.000
+I felt the thrill of realization
+
+00:08:09.000 --> 00:08:12.000
+when I knew I'd come upon the answer.
+
+00:08:14.000 --> 00:08:17.000
+Magnesium for the top layer.
+
+00:08:17.000 --> 00:08:19.000
+And antimony
+
+00:08:19.000 --> 00:08:22.000
+for the bottom layer.
+
+00:08:22.000 --> 00:08:24.000
+You know, I've got to tell you,
+
+00:08:24.000 --> 00:08:27.000
+one of the greatest benefits of being a professor:
+
+00:08:27.000 --> 00:08:29.000
+colored chalk.
+
+00:08:29.000 --> 00:08:32.000
+(Laughter)
+
+00:08:32.000 --> 00:08:35.000
+So to produce current,
+
+00:08:35.000 --> 00:08:37.000
+magnesium loses two electrons
+
+00:08:37.000 --> 00:08:40.000
+to become magnesium ion,
+
+00:08:40.000 --> 00:08:42.000
+which then migrates across the electrolyte,
+
+00:08:42.000 --> 00:08:45.000
+accepts two electrons from the antimony,
+
+00:08:45.000 --> 00:08:48.000
+and then mixes with it to form an alloy.
+
+00:08:48.000 --> 00:08:50.000
+The electrons go to work
+
+00:08:50.000 --> 00:08:53.000
+in the real world out here,
+
+00:08:53.000 --> 00:08:56.000
+powering our devices.
+
+00:08:59.000 --> 00:09:02.000
+Now to charge the battery,
+
+00:09:02.000 --> 00:09:05.000
+we connect a source of electricity.
+
+00:09:05.000 --> 00:09:08.000
+It could be something like a wind farm.
+
+00:09:09.000 --> 00:09:13.000
+And then we reverse the current.
+
+00:09:13.000 --> 00:09:18.000
+And this forces magnesium to de-alloy
+
+00:09:18.000 --> 00:09:21.000
+and return to the upper electrode,
+
+00:09:21.000 --> 00:09:26.000
+restoring the initial constitution of the battery.
+
+00:09:26.000 --> 00:09:29.000
+And the current passing between the electrodes
+
+00:09:29.000 --> 00:09:32.000
+generates enough heat to keep it at temperature.
+
+00:09:32.000 --> 00:09:35.000
+It's pretty cool,
+
+00:09:35.000 --> 00:09:37.000
+at least in theory.
+
+00:09:37.000 --> 00:09:39.000
+But does it really work?
+
+00:09:39.000 --> 00:09:41.000
+So what to do next?
+
+00:09:41.000 --> 00:09:43.000
+We go to the laboratory.
+
+00:09:43.000 --> 00:09:47.000
+Now do I hire seasoned professionals?
+
+00:09:47.000 --> 00:09:50.000
+No, I hire a student
+
+00:09:50.000 --> 00:09:52.000
+and mentor him,
+
+00:09:52.000 --> 00:09:55.000
+teach him how to think about the problem,
+
+00:09:55.000 --> 00:09:57.000
+to see it from my perspective
+
+00:09:57.000 --> 00:09:59.000
+and then turn him loose.
+
+00:09:59.000 --> 00:10:01.000
+This is that student, David Bradwell,
+
+00:10:01.000 --> 00:10:03.000
+who, in this image,
+
+00:10:03.000 --> 00:10:06.000
+appears to be wondering if this thing will ever work.
+
+00:10:06.000 --> 00:10:08.000
+What I didn't tell David at the time
+
+00:10:08.000 --> 00:10:11.000
+was I myself wasn't convinced it would work.
+
+00:10:11.000 --> 00:10:13.000
+But David's young and he's smart
+
+00:10:13.000 --> 00:10:15.000
+and he wants a Ph.D.,
+
+00:10:15.000 --> 00:10:17.000
+and he proceeds to build --
+
+00:10:17.000 --> 00:10:19.000
+(Laughter)
+
+00:10:19.000 --> 00:10:21.000
+He proceeds to build
+
+00:10:21.000 --> 00:10:23.000
+the first ever liquid metal battery
+
+00:10:23.000 --> 00:10:25.000
+of this chemistry.
+
+00:10:25.000 --> 00:10:28.000
+And based on David's initial promising results,
+
+00:10:28.000 --> 00:10:30.000
+which were paid
+
+00:10:30.000 --> 00:10:33.000
+with seed funds at MIT,
+
+00:10:33.000 --> 00:10:36.000
+I was able to attract major research funding
+
+00:10:36.000 --> 00:10:38.000
+from the private sector
+
+00:10:38.000 --> 00:10:40.000
+and the federal government.
+
+00:10:40.000 --> 00:10:43.000
+And that allowed me to expand my group to 20 people,
+
+00:10:43.000 --> 00:10:45.000
+a mix of graduate students, post-docs
+
+00:10:45.000 --> 00:10:47.000
+and even some undergraduates.
+
+00:10:47.000 --> 00:10:50.000
+And I was able to attract really, really good people,
+
+00:10:50.000 --> 00:10:52.000
+people who share my passion
+
+00:10:52.000 --> 00:10:54.000
+for science and service to society,
+
+00:10:54.000 --> 00:10:58.000
+not science and service for career building.
+
+00:10:58.000 --> 00:11:00.000
+And if you ask these people
+
+00:11:00.000 --> 00:11:02.000
+why they work on liquid metal battery,
+
+00:11:02.000 --> 00:11:04.000
+their answer would hearken back
+
+00:11:04.000 --> 00:11:06.000
+to President Kennedy's remarks
+
+00:11:06.000 --> 00:11:09.000
+at Rice University in 1962
+
+00:11:09.000 --> 00:11:11.000
+when he said -- and I'm taking liberties here --
+
+00:11:11.000 --> 00:11:13.000
+"We choose to work on grid-level storage,
+
+00:11:13.000 --> 00:11:15.000
+not because it is easy,
+
+00:11:15.000 --> 00:11:17.000
+but because it is hard."
+
+00:11:17.000 --> 00:11:23.000
+(Applause)
+
+00:11:24.000 --> 00:11:27.000
+So this is the evolution of the liquid metal battery.
+
+00:11:27.000 --> 00:11:30.000
+We start here with our workhorse one watt-hour cell.
+
+00:11:30.000 --> 00:11:32.000
+I called it the shotglass.
+
+00:11:32.000 --> 00:11:35.000
+We've operated over 400 of these,
+
+00:11:35.000 --> 00:11:38.000
+perfecting their performance with a plurality of chemistries --
+
+00:11:38.000 --> 00:11:40.000
+not just magnesium and antimony.
+
+00:11:40.000 --> 00:11:43.000
+Along the way we scaled up to the 20 watt-hour cell.
+
+00:11:43.000 --> 00:11:45.000
+I call it the hockey puck.
+
+00:11:45.000 --> 00:11:47.000
+And we got the same remarkable results.
+
+00:11:47.000 --> 00:11:49.000
+And then it was onto the saucer.
+
+00:11:49.000 --> 00:11:51.000
+That's 200 watt-hours.
+
+00:11:51.000 --> 00:11:53.000
+The technology was proving itself
+
+00:11:53.000 --> 00:11:56.000
+to be robust and scalable.
+
+00:11:56.000 --> 00:11:58.000
+But the pace wasn't fast enough for us.
+
+00:11:58.000 --> 00:12:00.000
+So a year and a half ago,
+
+00:12:00.000 --> 00:12:02.000
+David and I,
+
+00:12:02.000 --> 00:12:04.000
+along with another research staff-member,
+
+00:12:04.000 --> 00:12:06.000
+formed a company
+
+00:12:06.000 --> 00:12:08.000
+to accelerate the rate of progress
+
+00:12:08.000 --> 00:12:10.000
+and the race to manufacture product.
+
+00:12:10.000 --> 00:12:12.000
+So today at LMBC,
+
+00:12:12.000 --> 00:12:14.000
+we're building cells 16 inches in diameter
+
+00:12:14.000 --> 00:12:16.000
+with a capacity of one kilowatt-hour --
+
+00:12:16.000 --> 00:12:19.000
+1,000 times the capacity
+
+00:12:19.000 --> 00:12:21.000
+of that initial shotglass cell.
+
+00:12:21.000 --> 00:12:23.000
+We call that the pizza.
+
+00:12:23.000 --> 00:12:26.000
+And then we've got a four kilowatt-hour cell on the horizon.
+
+00:12:26.000 --> 00:12:28.000
+It's going to be 36 inches in diameter.
+
+00:12:28.000 --> 00:12:30.000
+We call that the bistro table,
+
+00:12:30.000 --> 00:12:32.000
+but it's not ready yet for prime-time viewing.
+
+00:12:32.000 --> 00:12:34.000
+And one variant of the technology
+
+00:12:34.000 --> 00:12:38.000
+has us stacking these bistro tabletops into modules,
+
+00:12:38.000 --> 00:12:41.000
+aggregating the modules into a giant battery
+
+00:12:41.000 --> 00:12:43.000
+that fits in a 40-foot shipping container
+
+00:12:43.000 --> 00:12:45.000
+for placement in the field.
+
+00:12:45.000 --> 00:12:48.000
+And this has a nameplate capacity of two megawatt-hours --
+
+00:12:48.000 --> 00:12:50.000
+two million watt-hours.
+
+00:12:50.000 --> 00:12:52.000
+That's enough energy
+
+00:12:52.000 --> 00:12:54.000
+to meet the daily electrical needs
+
+00:12:54.000 --> 00:12:56.000
+of 200 American households.
+
+00:12:56.000 --> 00:12:59.000
+So here you have it, grid-level storage:
+
+00:12:59.000 --> 00:13:02.000
+silent, emissions-free,
+
+00:13:02.000 --> 00:13:04.000
+no moving parts,
+
+00:13:04.000 --> 00:13:06.000
+remotely controlled,
+
+00:13:06.000 --> 00:13:09.000
+designed to the market price point
+
+00:13:09.000 --> 00:13:12.000
+without subsidy.
+
+00:13:12.000 --> 00:13:14.000
+So what have we learned from all this?
+
+00:13:14.000 --> 00:13:20.000
+(Applause)
+
+00:13:20.000 --> 00:13:22.000
+So what have we learned from all this?
+
+00:13:22.000 --> 00:13:24.000
+Let me share with you
+
+00:13:24.000 --> 00:13:27.000
+some of the surprises, the heterodoxies.
+
+00:13:27.000 --> 00:13:29.000
+They lie beyond the visible.
+
+00:13:29.000 --> 00:13:31.000
+Temperature:
+
+00:13:31.000 --> 00:13:33.000
+Conventional wisdom says set it low,
+
+00:13:33.000 --> 00:13:35.000
+at or near room temperature,
+
+00:13:35.000 --> 00:13:38.000
+and then install a control system to keep it there.
+
+00:13:38.000 --> 00:13:40.000
+Avoid thermal runaway.
+
+00:13:40.000 --> 00:13:43.000
+Liquid metal battery is designed to operate at elevated temperature
+
+00:13:43.000 --> 00:13:46.000
+with minimum regulation.
+
+00:13:46.000 --> 00:13:49.000
+Our battery can handle the very high temperature rises
+
+00:13:49.000 --> 00:13:53.000
+that come from current surges.
+
+00:13:53.000 --> 00:13:56.000
+Scaling: Conventional wisdom says
+
+00:13:56.000 --> 00:13:58.000
+reduce cost by producing many.
+
+00:13:58.000 --> 00:14:01.000
+Liquid metal battery is designed to reduce cost
+
+00:14:01.000 --> 00:14:04.000
+by producing fewer, but they'll be larger.
+
+00:14:04.000 --> 00:14:06.000
+And finally, human resources:
+
+00:14:06.000 --> 00:14:08.000
+Conventional wisdom says
+
+00:14:08.000 --> 00:14:10.000
+hire battery experts,
+
+00:14:10.000 --> 00:14:12.000
+seasoned professionals,
+
+00:14:12.000 --> 00:14:15.000
+who can draw upon their vast experience and knowledge.
+
+00:14:15.000 --> 00:14:17.000
+To develop liquid metal battery,
+
+00:14:17.000 --> 00:14:20.000
+I hired students and post-docs and mentored them.
+
+00:14:20.000 --> 00:14:22.000
+In a battery,
+
+00:14:22.000 --> 00:14:25.000
+I strive to maximize electrical potential;
+
+00:14:25.000 --> 00:14:27.000
+when mentoring,
+
+00:14:27.000 --> 00:14:29.000
+I strive to maximize human potential.
+
+00:14:29.000 --> 00:14:31.000
+So you see,
+
+00:14:31.000 --> 00:14:33.000
+the liquid metal battery story
+
+00:14:33.000 --> 00:14:35.000
+is more than an account
+
+00:14:35.000 --> 00:14:37.000
+of inventing technology,
+
+00:14:37.000 --> 00:14:39.000
+it's a blueprint
+
+00:14:39.000 --> 00:14:42.000
+for inventing inventors, full-spectrum.
+
+00:14:42.000 --> 00:14:53.000
+(Applause)
+

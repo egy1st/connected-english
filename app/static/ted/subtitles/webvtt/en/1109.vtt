@@ -1,0 +1,266 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+As a boy,
+
+00:00:02.000 --> 00:00:04.000
+I loved cars.
+
+00:00:04.000 --> 00:00:06.000
+When I turned 18,
+
+00:00:06.000 --> 00:00:09.000
+I lost my best friend to a car accident.
+
+00:00:10.000 --> 00:00:12.000
+Like this.
+
+00:00:12.000 --> 00:00:15.000
+And then I decided I'd dedicate my life
+
+00:00:15.000 --> 00:00:17.000
+to saving one million people
+
+00:00:17.000 --> 00:00:19.000
+every year.
+
+00:00:19.000 --> 00:00:22.000
+Now I haven't succeeded, so this is just a progress report,
+
+00:00:22.000 --> 00:00:25.000
+but I'm here to tell you a little bit about self-driving cars.
+
+00:00:25.000 --> 00:00:27.000
+I saw the concept first
+
+00:00:27.000 --> 00:00:29.000
+in the DARPA Grand Challenges
+
+00:00:29.000 --> 00:00:31.000
+where the U.S. government issued a prize
+
+00:00:31.000 --> 00:00:34.000
+to build a self-driving car that could navigate a desert.
+
+00:00:34.000 --> 00:00:37.000
+And even though a hundred teams were there,
+
+00:00:37.000 --> 00:00:40.000
+these cars went nowhere.
+
+00:00:40.000 --> 00:00:43.000
+So we decided at Stanford to build a different self-driving car.
+
+00:00:43.000 --> 00:00:46.000
+We built the hardware and the software.
+
+00:00:46.000 --> 00:00:48.000
+We made it learn from us,
+
+00:00:48.000 --> 00:00:51.000
+and we set it free in the desert.
+
+00:00:51.000 --> 00:00:53.000
+And the unimaginable happened:
+
+00:00:53.000 --> 00:00:55.000
+it became the first car
+
+00:00:55.000 --> 00:00:57.000
+to ever return from a DARPA Grand Challenge,
+
+00:00:57.000 --> 00:01:00.000
+winning Stanford 2 million dollars.
+
+00:01:02.000 --> 00:01:05.000
+Yet I still hadn't saved a single life.
+
+00:01:05.000 --> 00:01:08.000
+Since, our work has focused
+
+00:01:08.000 --> 00:01:10.000
+on building driving cars
+
+00:01:10.000 --> 00:01:13.000
+that can drive anywhere by themselves --
+
+00:01:13.000 --> 00:01:15.000
+any street in California.
+
+00:01:15.000 --> 00:01:18.000
+We've driven 140,000 miles.
+
+00:01:18.000 --> 00:01:21.000
+Our cars have sensors
+
+00:01:21.000 --> 00:01:24.000
+by which they magically can see
+
+00:01:24.000 --> 00:01:26.000
+everything around them
+
+00:01:26.000 --> 00:01:28.000
+and make decisions
+
+00:01:28.000 --> 00:01:31.000
+about every aspect of driving.
+
+00:01:31.000 --> 00:01:34.000
+It's the perfect driving mechanism.
+
+00:01:34.000 --> 00:01:36.000
+We've driven in cities,
+
+00:01:36.000 --> 00:01:38.000
+like in San Francisco here.
+
+00:01:38.000 --> 00:01:42.000
+We've driven from San Francisco to Los Angeles on Highway 1.
+
+00:01:42.000 --> 00:01:44.000
+We've encountered joggers,
+
+00:01:44.000 --> 00:01:47.000
+busy highways, toll booths,
+
+00:01:47.000 --> 00:01:49.000
+and this is without a person in the loop;
+
+00:01:49.000 --> 00:01:51.000
+the car just drives itself.
+
+00:01:51.000 --> 00:01:54.000
+In fact, while we drove 140,000 miles,
+
+00:01:54.000 --> 00:01:57.000
+people didn't even notice.
+
+00:01:57.000 --> 00:01:59.000
+Mountain roads,
+
+00:01:59.000 --> 00:02:02.000
+day and night,
+
+00:02:02.000 --> 00:02:05.000
+and even crooked Lombard Street
+
+00:02:05.000 --> 00:02:07.000
+in San Francisco.
+
+00:02:07.000 --> 00:02:09.000
+(Laughter)
+
+00:02:10.000 --> 00:02:13.000
+Sometimes our cars get so crazy,
+
+00:02:13.000 --> 00:02:16.000
+they even do little stunts.
+
+00:02:17.000 --> 00:02:19.000
+(Video) Man: Oh, my God.
+
+00:02:21.000 --> 00:02:23.000
+What?
+
+00:02:23.000 --> 00:02:26.000
+Second Man: It's driving itself.
+
+00:02:27.000 --> 00:02:30.000
+Sebastian Thrun: Now I can't get my friend Harold back to life,
+
+00:02:30.000 --> 00:02:32.000
+but I can do something for all the people who died.
+
+00:02:32.000 --> 00:02:35.000
+Do you know that driving accidents
+
+00:02:35.000 --> 00:02:38.000
+are the number one cause of death for young people?
+
+00:02:38.000 --> 00:02:41.000
+And do you realize that almost all of those
+
+00:02:41.000 --> 00:02:44.000
+are due to human error
+
+00:02:44.000 --> 00:02:46.000
+and not machine error,
+
+00:02:46.000 --> 00:02:49.000
+and can therefore be prevented by machines?
+
+00:02:50.000 --> 00:02:52.000
+Do you realize
+
+00:02:52.000 --> 00:02:55.000
+that we could change the capacity of highways
+
+00:02:55.000 --> 00:02:58.000
+by a factor of two or three
+
+00:02:58.000 --> 00:03:00.000
+if we didn't rely on human precision
+
+00:03:00.000 --> 00:03:02.000
+on staying in the lane --
+
+00:03:02.000 --> 00:03:04.000
+improve body position
+
+00:03:04.000 --> 00:03:06.000
+and therefore drive a little bit closer together
+
+00:03:06.000 --> 00:03:08.000
+on a little bit narrower lanes,
+
+00:03:08.000 --> 00:03:11.000
+and do away with all traffic jams on highways?
+
+00:03:13.000 --> 00:03:16.000
+Do you realize that you, TED users,
+
+00:03:16.000 --> 00:03:18.000
+spend an average
+
+00:03:18.000 --> 00:03:20.000
+of 52 minutes per day
+
+00:03:20.000 --> 00:03:22.000
+in traffic,
+
+00:03:22.000 --> 00:03:24.000
+wasting your time
+
+00:03:24.000 --> 00:03:27.000
+on your daily commute?
+
+00:03:27.000 --> 00:03:29.000
+You could regain this time.
+
+00:03:29.000 --> 00:03:31.000
+This is four billion hours
+
+00:03:31.000 --> 00:03:34.000
+wasted in this country alone.
+
+00:03:34.000 --> 00:03:38.000
+And it's 2.4 billion gallons of gasoline wasted.
+
+00:03:38.000 --> 00:03:41.000
+Now I think there's a vision here, a new technology,
+
+00:03:41.000 --> 00:03:43.000
+and I'm really looking forward to a time
+
+00:03:43.000 --> 00:03:45.000
+when generations after us look back at us
+
+00:03:45.000 --> 00:03:48.000
+and say how ridiculous it was that humans were driving cars.
+
+00:03:48.000 --> 00:03:50.000
+Thank you.
+
+00:03:50.000 --> 00:03:52.000
+(Applause)
+

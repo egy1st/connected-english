@@ -1,0 +1,1588 @@
+WEBVTT
+
+00:00:00.560 --> 00:00:03.695
+Charles Van Doren, who was later
+a senior editor of Britannica,
+
+00:00:03.719 --> 00:00:06.896
+said the ideal encyclopedia
+should be radical --
+
+00:00:06.920 --> 00:00:08.456
+it should stop being safe.
+
+00:00:08.480 --> 00:00:11.696
+But if you know anything about the history
+of Britannica since 1962,
+
+00:00:11.720 --> 00:00:13.056
+it was anything but radical:
+
+00:00:13.080 --> 00:00:17.976
+still a very completely safe,
+stodgy type of encyclopedia.
+
+00:00:18.000 --> 00:00:22.176
+Wikipedia, on the other hand,
+begins with a very radical idea,
+
+00:00:22.200 --> 00:00:24.216
+and that's for all of us
+to imagine a world
+
+00:00:24.240 --> 00:00:26.256
+in which every single person on the planet
+
+00:00:26.280 --> 00:00:28.856
+is given free access
+to the sum of all human knowledge.
+
+00:00:28.880 --> 00:00:30.214
+And that's what we're doing.
+
+00:00:31.000 --> 00:00:32.159
+So Wikipedia --
+
+00:00:32.183 --> 00:00:34.616
+you just saw the little
+demonstration of it --
+
+00:00:34.640 --> 00:00:36.736
+it's a freely licensed encyclopedia.
+
+00:00:36.760 --> 00:00:38.618
+It's written by thousands of volunteers
+
+00:00:38.642 --> 00:00:40.642
+all over the world
+in many, many languages.
+
+00:00:41.320 --> 00:00:43.056
+It's written using wiki software --
+
+00:00:43.080 --> 00:00:45.636
+which is the type of software
+he just demonstrated --
+
+00:00:45.660 --> 00:00:47.375
+so anyone can quickly edit and save,
+
+00:00:47.399 --> 00:00:49.495
+and it goes live
+on the Internet immediately.
+
+00:00:50.640 --> 00:00:55.256
+And everything about Wikipedia is managed
+by virtually an all-volunteer staff.
+
+00:00:55.280 --> 00:00:59.696
+So when Yochai is talking
+about new methods of organization,
+
+00:00:59.720 --> 00:01:02.216
+he's exactly describing Wikipedia.
+
+00:01:02.240 --> 00:01:03.669
+And what I'm going to do today
+
+00:01:03.693 --> 00:01:07.093
+is tell you a little bit more
+about how it really works on the inside.
+
+00:01:07.960 --> 00:01:11.096
+So Wikipedia's owned
+by the Wikimedia Foundation,
+
+00:01:11.120 --> 00:01:12.336
+which I founded,
+
+00:01:12.360 --> 00:01:13.776
+a nonprofit organization.
+
+00:01:13.800 --> 00:01:17.816
+And our goal, the core aim
+of the Wikimedia Foundation,
+
+00:01:17.840 --> 00:01:21.016
+is to get a free encyclopedia
+to every single person on the planet.
+
+00:01:21.040 --> 00:01:23.056
+And so, if you think
+about what that means,
+
+00:01:23.080 --> 00:01:25.616
+it means a lot more
+than just building a cool website.
+
+00:01:25.640 --> 00:01:28.656
+We're really interested
+in all the issues of the digital divide,
+
+00:01:28.680 --> 00:01:30.256
+poverty worldwide,
+
+00:01:30.280 --> 00:01:33.656
+empowering people everywhere
+to have the information that they need
+
+00:01:33.680 --> 00:01:34.896
+to make good decisions.
+
+00:01:34.920 --> 00:01:37.496
+And so we're going
+to have to do a lot of work
+
+00:01:37.520 --> 00:01:39.216
+that goes beyond just the Internet.
+
+00:01:39.240 --> 00:01:42.536
+And so that's a big part of why
+we've chosen the free licensing model,
+
+00:01:42.560 --> 00:01:45.799
+because that empowers local
+entrepreneurs or anyone who wants to --
+
+00:01:45.823 --> 00:01:48.735
+they can take our content
+and do anything they like with it --
+
+00:01:48.759 --> 00:01:50.441
+you can copy it, redistribute it --
+
+00:01:50.465 --> 00:01:52.877
+and you can do it
+commercially or non-commercially.
+
+00:01:52.901 --> 00:01:56.401
+So there's a lot of opportunities
+that are going to arise around Wikipedia
+
+00:01:56.425 --> 00:01:57.620
+all over the world.
+
+00:01:58.480 --> 00:02:00.496
+We're funded by donations from the public,
+
+00:02:00.520 --> 00:02:02.976
+and one of the more
+interesting things about that
+
+00:02:03.000 --> 00:02:06.816
+is how little money
+it actually takes to run Wikipedia.
+
+00:02:06.840 --> 00:02:11.376
+So Yochai showed you the graph
+of what the cost of a printing press was.
+
+00:02:11.400 --> 00:02:14.736
+And I'm going to tell you
+what the cost of Wikipedia is.
+
+00:02:14.760 --> 00:02:16.618
+But first, I'll show you how big it is.
+
+00:02:16.642 --> 00:02:20.602
+So we've got over 600,000
+articles in English.
+
+00:02:21.040 --> 00:02:25.496
+We've got two million total articles
+across many, many different languages.
+
+00:02:25.520 --> 00:02:28.776
+The biggest languages
+are German, Japanese, French --
+
+00:02:28.800 --> 00:02:32.496
+all the Western-European
+languages are quite big.
+
+00:02:32.520 --> 00:02:35.896
+But only around one-third
+of all of our traffic to our web
+
+00:02:35.920 --> 00:02:37.556
+clusters to the English Wikipedia,
+
+00:02:37.580 --> 00:02:39.438
+which is surprising to a lot of people.
+
+00:02:39.462 --> 00:02:42.816
+A lot of people think in a very
+English-centric way on the Internet,
+
+00:02:42.840 --> 00:02:44.736
+but for us, we're truly global.
+
+00:02:44.760 --> 00:02:46.333
+We're in many, many languages.
+
+00:02:46.880 --> 00:02:50.016
+How popular we've gotten to be --
+we're a top-50 website
+
+00:02:50.040 --> 00:02:52.231
+and we're more popular
+than the New York Times.
+
+00:02:52.255 --> 00:02:56.495
+So this is where we get
+to Yochai's discussion.
+
+00:02:56.960 --> 00:03:00.296
+This shows the growth of Wikipedia --
+we're the blue line there --
+
+00:03:00.320 --> 00:03:03.016
+and this is the New York Times over there.
+
+00:03:03.040 --> 00:03:04.616
+And what's interesting about this
+
+00:03:04.640 --> 00:03:08.976
+is the New York Times website is a huge,
+enormous corporate operation
+
+00:03:09.000 --> 00:03:11.496
+with I have no idea
+how many hundreds of employees.
+
+00:03:11.520 --> 00:03:13.536
+We have exactly one employee,
+
+00:03:13.560 --> 00:03:16.176
+and that employee
+is our lead software developer.
+
+00:03:16.200 --> 00:03:19.376
+And he's only been our employee
+since January 2005,
+
+00:03:19.400 --> 00:03:21.216
+all the other growth before that ...
+
+00:03:21.240 --> 00:03:24.856
+So the servers are managed
+by a ragtag band of volunteers.
+
+00:03:24.880 --> 00:03:26.856
+All the editing is done by volunteers.
+
+00:03:26.880 --> 00:03:28.416
+And the way that we're organized
+
+00:03:28.440 --> 00:03:31.123
+is not like any traditional
+organization you can imagine.
+
+00:03:31.147 --> 00:03:33.862
+People are always asking,
+"Well, who's in charge of this?"
+
+00:03:33.886 --> 00:03:35.056
+or "Who does that?"
+
+00:03:35.080 --> 00:03:37.376
+And the answer is:
+anybody who wants to pitch in.
+
+00:03:37.400 --> 00:03:40.880
+It's a very unusual and chaotic thing.
+
+00:03:41.480 --> 00:03:43.776
+We've got over 90 servers now
+in three locations.
+
+00:03:43.800 --> 00:03:49.056
+These are managed by volunteer
+system administrators who are online.
+
+00:03:49.080 --> 00:03:51.136
+I can go online
+any time of the day or night
+
+00:03:51.160 --> 00:03:55.456
+and see eight to 10 people waiting for me
+
+00:03:55.480 --> 00:03:59.016
+to ask a question or something,
+anything about the servers.
+
+00:03:59.040 --> 00:04:01.376
+You could never afford
+to do this in a company.
+
+00:04:01.400 --> 00:04:02.616
+You could never afford
+
+00:04:02.640 --> 00:04:06.376
+to have a standby crew of people
+24 hours a day
+
+00:04:06.400 --> 00:04:08.720
+and do what we're doing at Wikipedia.
+
+00:04:09.480 --> 00:04:12.696
+So we're doing around
+1.4 billion page views monthly,
+
+00:04:12.720 --> 00:04:14.760
+so it's really gotten to be a huge thing.
+
+00:04:15.360 --> 00:04:17.736
+And everything is managed
+by the volunteers.
+
+00:04:17.760 --> 00:04:21.976
+And the total monthly cost
+for our bandwidth is about 5,000 dollars.
+
+00:04:22.000 --> 00:04:23.936
+And that's essentially our main cost.
+
+00:04:23.960 --> 00:04:26.216
+We could actually do without the employee.
+
+00:04:26.240 --> 00:04:30.656
+We hired Brian because he was
+working part-time for two years
+
+00:04:30.680 --> 00:04:31.976
+and full-time at Wikipedia,
+
+00:04:32.000 --> 00:04:33.216
+so we actually hired him,
+
+00:04:33.240 --> 00:04:35.880
+so he could get a life
+and go to the movies sometimes.
+
+00:04:36.955 --> 00:04:40.336
+So the big question when you've got
+this really chaotic organization is,
+
+00:04:40.360 --> 00:04:41.576
+why isn't it all rubbish?
+
+00:04:41.600 --> 00:04:43.520
+Why is the website as good as it is?
+
+00:04:43.995 --> 00:04:45.376
+First of all, how good is it?
+
+00:04:45.400 --> 00:04:46.936
+Well, it's pretty good.
+
+00:04:46.960 --> 00:04:48.176
+It isn't perfect,
+
+00:04:48.200 --> 00:04:50.216
+but it's much better
+than you would expect,
+
+00:04:50.240 --> 00:04:51.923
+given our completely chaotic model.
+
+00:04:51.947 --> 00:04:54.963
+So when you saw him make
+a ridiculous edit to the page about me,
+
+00:04:54.987 --> 00:04:58.736
+you think, "Oh, this is obviously
+just going to degenerate into rubbish."
+
+00:04:58.760 --> 00:05:00.491
+But when we've seen quality tests --
+
+00:05:00.515 --> 00:05:02.531
+and there haven't been enough of these yet
+
+00:05:02.555 --> 00:05:05.136
+and I'm really encouraging
+people to do more,
+
+00:05:05.160 --> 00:05:07.296
+comparing Wikipedia
+to traditional things --
+
+00:05:07.320 --> 00:05:09.096
+we win hands down.
+
+00:05:09.120 --> 00:05:11.856
+So a German magazine
+compared German Wikipedia,
+
+00:05:11.880 --> 00:05:15.216
+which is much, much smaller than English,
+
+00:05:15.240 --> 00:05:19.336
+to Microsoft Encarta
+and to Brockhaus multimedial,
+
+00:05:19.360 --> 00:05:20.816
+and we won across the board.
+
+00:05:20.840 --> 00:05:24.221
+They hired experts to come and look
+at articles and compare the quality,
+
+00:05:24.245 --> 00:05:26.565
+and we were very pleased with that result.
+
+00:05:27.320 --> 00:05:32.856
+So a lot of people have heard about
+the Wikipedia Bush-Kerry controversy.
+
+00:05:32.880 --> 00:05:35.536
+The media has covered this
+somewhat extensively.
+
+00:05:35.560 --> 00:05:38.376
+It started out
+with an article in Red Herring.
+
+00:05:38.400 --> 00:05:40.216
+The reporters called me up and they --
+
+00:05:40.240 --> 00:05:43.216
+I mean, I have to say
+they spelled my name right,
+
+00:05:43.240 --> 00:05:48.176
+but they really wanted to say
+the Bush-Kerry election is so contentious,
+
+00:05:48.200 --> 00:05:50.576
+it's tearing apart
+the Wikipedia community.
+
+00:05:50.600 --> 00:05:52.096
+And so they quote me as saying,
+
+00:05:52.120 --> 00:05:55.016
+"They're the most contentious
+in the history of Wikipedia."
+
+00:05:55.040 --> 00:05:57.616
+What I actually said
+is they're not contentious at all.
+
+00:05:57.640 --> 00:05:59.736
+So it's a slight misquote.
+
+00:05:59.760 --> 00:06:01.536
+(Laughter)
+
+00:06:01.560 --> 00:06:03.576
+The articles were edited quite heavily.
+
+00:06:03.600 --> 00:06:06.056
+And it is true that we did
+have to lock the articles
+
+00:06:06.080 --> 00:06:07.416
+on a couple of occasions.
+
+00:06:07.440 --> 00:06:09.816
+Time magazine recently reported that
+
+00:06:09.840 --> 00:06:11.856
+"Extreme action sometimes has to be taken,
+
+00:06:11.880 --> 00:06:16.736
+and Wales locked the entries
+on Kerry and Bush for most of 2004."
+
+00:06:16.760 --> 00:06:21.016
+This came after I told the reporter
+that we had to lock it for --
+
+00:06:21.040 --> 00:06:23.176
+occasionally a little bit here and there.
+
+00:06:23.200 --> 00:06:26.576
+So the truth in general
+is that the kinds of controversies
+
+00:06:26.600 --> 00:06:29.791
+that you would probably think
+we have within the Wikipedia community
+
+00:06:29.815 --> 00:06:32.536
+are not really controversies at all.
+
+00:06:32.560 --> 00:06:35.056
+Articles on controversial topics
+are edited a lot,
+
+00:06:35.080 --> 00:06:38.056
+but they don't cause much controversy
+within the community.
+
+00:06:38.080 --> 00:06:41.800
+And the reason for this is that most
+people understand the need for neutrality.
+
+00:06:42.600 --> 00:06:49.296
+The real struggle is not
+between the right and the left --
+
+00:06:49.320 --> 00:06:50.940
+that's where most people assume --
+
+00:06:50.964 --> 00:06:53.016
+but it's between
+the party of the thoughtful
+
+00:06:53.040 --> 00:06:54.336
+and the party of the jerks.
+
+00:06:54.360 --> 00:06:56.176
+And no side of the political spectrum
+
+00:06:56.200 --> 00:06:58.656
+has a monopoly
+on either of those qualities.
+
+00:06:58.680 --> 00:07:01.256
+The actual truth
+about the specific Bush-Kerry incident
+
+00:07:01.280 --> 00:07:04.256
+is that the Bush-Kerry articles
+
+00:07:04.280 --> 00:07:07.256
+were locked less than one percent
+of the time in 2004,
+
+00:07:07.280 --> 00:07:09.336
+and it wasn't because
+they were contentious;
+
+00:07:09.360 --> 00:07:11.696
+it was just because
+there was routine vandalism --
+
+00:07:11.720 --> 00:07:15.416
+which happens sometimes even on stage ...
+
+00:07:15.440 --> 00:07:16.576
+(Laughter)
+
+00:07:16.600 --> 00:07:20.136
+Sometimes even reporters have reported
+to me that they vandalized Wikipedia
+
+00:07:20.160 --> 00:07:22.496
+and were amazed
+that it was fixed so quickly.
+
+00:07:22.520 --> 00:07:25.296
+And I said -- you know, I always say,
+please don't do that.
+
+00:07:25.320 --> 00:07:26.896
+That's not a good thing.
+
+00:07:26.920 --> 00:07:28.416
+So how do we do this?
+
+00:07:28.440 --> 00:07:31.296
+How do we manage the quality control?
+
+00:07:31.320 --> 00:07:32.520
+How does it work?
+
+00:07:34.120 --> 00:07:35.816
+So there's a few elements,
+
+00:07:35.840 --> 00:07:39.096
+mostly social policies
+and some elements of the software.
+
+00:07:39.120 --> 00:07:41.856
+So the biggest
+and the most important thing
+
+00:07:41.880 --> 00:07:43.611
+is our neutral point of view policy.
+
+00:07:43.635 --> 00:07:46.397
+This is something
+that I set down, from the very beginning,
+
+00:07:46.421 --> 00:07:50.456
+as a core principle of the community
+that's completely not debatable.
+
+00:07:50.480 --> 00:07:53.376
+It's a social concept of cooperation,
+
+00:07:53.400 --> 00:07:56.896
+so we don't talk a lot
+about truth and objectivity.
+
+00:07:56.920 --> 00:07:58.976
+The reason for this is if we say
+
+00:07:59.000 --> 00:08:01.576
+we're only going to write
+the "truth" about some topic,
+
+00:08:01.600 --> 00:08:04.807
+that doesn't do us a damn bit of good
+of figuring out what to write,
+
+00:08:04.831 --> 00:08:07.367
+because I don't agree with you
+about what's the truth.
+
+00:08:07.391 --> 00:08:09.736
+But we have this
+jargon term of neutrality,
+
+00:08:09.760 --> 00:08:12.216
+which has its own long history
+within the community,
+
+00:08:12.240 --> 00:08:15.656
+which basically says,
+any time there's a controversial issue,
+
+00:08:15.680 --> 00:08:18.256
+Wikipedia itself should not
+take a stand on the issue.
+
+00:08:18.280 --> 00:08:21.519
+We should merely report on what
+reputable parties have said about it.
+
+00:08:21.543 --> 00:08:24.616
+So this neutrality policy
+is really important for us
+
+00:08:24.640 --> 00:08:27.896
+because it empowers a community
+that is very diverse
+
+00:08:27.920 --> 00:08:30.216
+to come together
+and actually get some work done.
+
+00:08:30.240 --> 00:08:32.376
+So we have very diverse contributors
+
+00:08:32.400 --> 00:08:35.616
+in terms of political,
+religious, cultural backgrounds.
+
+00:08:35.640 --> 00:08:37.456
+By having this firm neutrality policy,
+
+00:08:37.480 --> 00:08:39.496
+which is non-negotiable
+from the beginning,
+
+00:08:39.520 --> 00:08:41.378
+we ensure that people can work together
+
+00:08:41.402 --> 00:08:43.616
+and that the entries
+don't become simply a war
+
+00:08:43.640 --> 00:08:45.783
+back and forth
+between the left and the right.
+
+00:08:45.807 --> 00:08:49.522
+If you engage in that type of behavior,
+you'll be asked to leave the community.
+
+00:08:51.240 --> 00:08:52.696
+So, real-time peer review.
+
+00:08:52.720 --> 00:08:55.856
+Every single change on the site
+goes to the "Recent changes" page.
+
+00:08:55.880 --> 00:08:59.376
+So as soon as he made his change,
+it went to the "Recent changes" page.
+
+00:08:59.400 --> 00:09:03.376
+That recent changes page
+was also fed into an IRC channel,
+
+00:09:03.400 --> 00:09:04.976
+which is an Internet chat channel
+
+00:09:05.000 --> 00:09:08.200
+that people are monitoring
+with various software tools.
+
+00:09:08.920 --> 00:09:11.376
+And people can get RSS feeds --
+
+00:09:11.400 --> 00:09:14.496
+they can get email
+notifications of changes.
+
+00:09:14.520 --> 00:09:17.176
+And then users can set up
+their own personal watch list.
+
+00:09:17.200 --> 00:09:19.693
+So my page is on quite a few
+volunteers' watch lists,
+
+00:09:19.717 --> 00:09:21.413
+because it is sometimes vandalized.
+
+00:09:21.437 --> 00:09:27.416
+And therefore, what happens is someone
+will notice the change very quickly,
+
+00:09:27.440 --> 00:09:30.816
+and then they'll just
+simply revert the change.
+
+00:09:30.840 --> 00:09:32.756
+There's a "new pages feed," for example,
+
+00:09:32.780 --> 00:09:34.836
+so you can go
+to a certain page of Wikipedia
+
+00:09:34.860 --> 00:09:36.788
+and see every new page as it's created.
+
+00:09:36.820 --> 00:09:37.970
+This is really important
+
+00:09:37.980 --> 00:09:41.196
+because a lot of new pages
+are just garbage that has to be deleted,
+
+00:09:41.200 --> 00:09:42.456
+you know, "ASDFASDF."
+
+00:09:42.480 --> 00:09:45.396
+But also, that's some
+of the most interesting and fun things,
+
+00:09:45.420 --> 00:09:46.636
+some of the new articles.
+
+00:09:46.660 --> 00:09:49.236
+People will start an article
+on some interesting topic,
+
+00:09:49.260 --> 00:09:51.076
+other people will find that intriguing
+
+00:09:51.100 --> 00:09:53.496
+and jump in and help
+and make it much better.
+
+00:09:53.520 --> 00:09:55.416
+So we do have edits by anonymous users,
+
+00:09:55.440 --> 00:09:59.296
+which is one of the most controversial
+and intriguing things about Wikipedia.
+
+00:09:59.320 --> 00:10:02.936
+So, Chris was able to do his change --
+he didn't have to log in or anything;
+
+00:10:02.960 --> 00:10:05.776
+he just went on the website
+and made a change.
+
+00:10:05.800 --> 00:10:07.856
+But it turns out
+that only about 18 percent
+
+00:10:07.880 --> 00:10:09.376
+of all the edits to the website
+
+00:10:09.400 --> 00:10:10.736
+are done by anonymous users.
+
+00:10:10.760 --> 00:10:13.096
+And that's a really important
+thing to understand:
+
+00:10:13.120 --> 00:10:16.376
+the vast majority of the edits
+that go on on the website
+
+00:10:16.400 --> 00:10:20.096
+are from a very close-knit community
+of maybe 600 to 1,000 people
+
+00:10:20.120 --> 00:10:21.740
+who are in constant communication.
+
+00:10:21.764 --> 00:10:24.336
+And we have over 40 IRC channels,
+40 mailing lists.
+
+00:10:24.360 --> 00:10:25.936
+All these people know each other.
+
+00:10:25.960 --> 00:10:28.008
+They communicate.
+We have off-line meetings.
+
+00:10:28.032 --> 00:10:30.652
+These are the people
+who are doing the bulk of the site,
+
+00:10:30.676 --> 00:10:35.324
+and they are, in a sense,
+semi-professionals at what they're doing.
+
+00:10:35.960 --> 00:10:38.296
+The standards we set for ourselves
+
+00:10:38.320 --> 00:10:41.376
+are equal to or higher
+than professional standards of quality.
+
+00:10:41.400 --> 00:10:44.916
+We don't always meet those standards,
+but that's what we're striving for.
+
+00:10:44.940 --> 00:10:47.798
+And so that tight community
+is who really cares for the site,
+
+00:10:47.822 --> 00:10:50.456
+and these are some
+of the smartest people I've ever met.
+
+00:10:50.480 --> 00:10:52.736
+It's my job to say that,
+but it's actually true.
+
+00:10:52.760 --> 00:10:56.496
+The type of people who were drawn
+to writing an encyclopedia for fun
+
+00:10:56.520 --> 00:10:58.856
+tend to be pretty smart people.
+
+00:10:58.880 --> 00:11:01.976
+The tools and the software:
+there's lots of tools that allow us --
+
+00:11:02.000 --> 00:11:03.620
+allow us, meaning the community --
+
+00:11:03.644 --> 00:11:05.696
+to self-monitor
+and to monitor all the work.
+
+00:11:05.720 --> 00:11:08.216
+This is an example
+of a page history on "flat Earth,"
+
+00:11:08.240 --> 00:11:10.296
+and you can see some changes
+that were made.
+
+00:11:10.320 --> 00:11:13.616
+What's nice about this page
+is you can immediately take a look at this
+
+00:11:13.640 --> 00:11:15.216
+and see, "OK, I understand now."
+
+00:11:15.240 --> 00:11:17.016
+When somebody goes and looks at --
+
+00:11:17.040 --> 00:11:19.183
+they see that someone,
+an anonymous IP number,
+
+00:11:19.207 --> 00:11:20.696
+made an edit to my page.
+
+00:11:20.720 --> 00:11:22.776
+That sounds suspicious.
+Who is this person?
+
+00:11:22.800 --> 00:11:24.016
+Somebody looks at it --
+
+00:11:24.040 --> 00:11:26.056
+they can immediately see
+highlighted in red
+
+00:11:26.080 --> 00:11:27.976
+all of the changes that took place --
+
+00:11:28.000 --> 00:11:31.616
+to see, OK, well, these words
+have changed, things like this.
+
+00:11:31.640 --> 00:11:33.260
+So that's one tool that we can use
+
+00:11:33.284 --> 00:11:35.804
+to very quickly monitor
+the history of a page.
+
+00:11:36.520 --> 00:11:38.816
+Another thing that we do
+within the community
+
+00:11:38.840 --> 00:11:42.216
+is we leave everything very open-ended.
+
+00:11:42.240 --> 00:11:45.616
+Most of the social rules
+and the methods of work
+
+00:11:45.640 --> 00:11:48.056
+are left completely open-ended
+in the software.
+
+00:11:48.080 --> 00:11:50.096
+All of that stuff is just on Wiki pages.
+
+00:11:50.120 --> 00:11:53.216
+And so there's nothing
+in the software that enforces the rules.
+
+00:11:53.240 --> 00:11:57.256
+The example I've got up here
+is the Votes for Deletion page.
+
+00:11:57.280 --> 00:11:59.856
+So, I mentioned earlier,
+people type "ASDFASDF" --
+
+00:11:59.880 --> 00:12:01.096
+it needs to be deleted.
+
+00:12:01.120 --> 00:12:03.596
+Cases like that,
+the administrators just delete it.
+
+00:12:03.620 --> 00:12:05.956
+There's no reason
+to have a big argument about it.
+
+00:12:05.980 --> 00:12:09.315
+But you can imagine there's a lot
+of other areas where the question is,
+
+00:12:09.339 --> 00:12:11.579
+is this notable enough
+to go in an encyclopedia?
+
+00:12:11.603 --> 00:12:15.176
+Is the information verifiable?
+Is it a hoax? Is it true? Is it what?
+
+00:12:15.200 --> 00:12:18.256
+So we needed a social method
+for figuring out the answer to this.
+
+00:12:18.280 --> 00:12:21.138
+And so the method that arose
+organically within the community
+
+00:12:21.162 --> 00:12:22.736
+is the Votes For Deletion page.
+
+00:12:22.760 --> 00:12:24.776
+And in the particular
+example we have here,
+
+00:12:24.800 --> 00:12:26.296
+it's a film, "Twisted Issues,"
+
+00:12:26.320 --> 00:12:27.776
+and the first person says,
+
+00:12:27.800 --> 00:12:31.496
+"Now this is supposedly a film.
+It fails the Google test miserably."
+
+00:12:31.520 --> 00:12:34.336
+The Google test is you look in Google
+and see if it's there,
+
+00:12:34.360 --> 00:12:38.256
+because if something's not even in Google,
+it probably doesn't exist at all.
+
+00:12:38.280 --> 00:12:39.856
+It's not a perfect rule,
+
+00:12:39.880 --> 00:12:43.216
+but it's a nice starting point
+for quick research.
+
+00:12:43.240 --> 00:12:46.495
+So somebody says, "Delete it, please.
+Delete it -- it's not notable."
+
+00:12:46.519 --> 00:12:49.535
+And then somebody says,
+"Wait, I found it. I found it in a book,
+
+00:12:49.559 --> 00:12:52.816
+'Film Threat Video Guide:
+the 20 Underground Films You Must See.'"
+
+00:12:52.840 --> 00:12:54.745
+So the next persons says, "Clean it up."
+
+00:12:54.769 --> 00:12:58.176
+Somebody says, "I've found it on IMDB.
+Keep, keep, keep."
+
+00:12:58.200 --> 00:13:01.016
+And what's interesting about this
+is that the software is --
+
+00:13:01.040 --> 00:13:04.576
+these votes are just text
+typed into a page.
+
+00:13:04.600 --> 00:13:08.656
+This is not really a vote
+so much as it is a dialogue.
+
+00:13:08.680 --> 00:13:11.416
+Now it is true that at the end of the day,
+
+00:13:11.440 --> 00:13:14.679
+an administrator can go through here
+and take a look at this and say,
+
+00:13:14.703 --> 00:13:17.176
+"OK, 18 deletes, two keeps:
+we'll delete it."
+
+00:13:17.200 --> 00:13:20.976
+But in other cases,
+this could be 18 deletes and two keeps,
+
+00:13:21.000 --> 00:13:23.796
+and we would keep it,
+because if those last two keeps say,
+
+00:13:23.820 --> 00:13:26.725
+"Wait a minute. Nobody else saw this
+but I found it in a book,
+
+00:13:26.749 --> 00:13:28.947
+and I found a link
+to a page that describes it,
+
+00:13:28.971 --> 00:13:32.067
+and I'm going to clean it up tomorrow,
+so please don't delete it,"
+
+00:13:32.091 --> 00:13:33.276
+then it would survive.
+
+00:13:33.300 --> 00:13:35.896
+And it also matters
+who the people are who are voting.
+
+00:13:35.920 --> 00:13:37.825
+Like I say, it's a tight-knit community.
+
+00:13:37.849 --> 00:13:40.376
+Down here at the bottom,
+"Keep, real movie," RickK.
+
+00:13:40.400 --> 00:13:43.781
+RickK is a very famous Wikipedian
+who does an enormous amount of work
+
+00:13:43.805 --> 00:13:46.536
+with vandalism, hoaxes
+and votes for deletion.
+
+00:13:46.560 --> 00:13:49.376
+His voice carries a lot of weight
+within the community
+
+00:13:49.400 --> 00:13:50.972
+because he knows what he's doing.
+
+00:13:52.400 --> 00:13:54.336
+So how is all this governed?
+
+00:13:54.360 --> 00:13:57.496
+People really want to know
+about administrators, things like that.
+
+00:13:57.520 --> 00:14:01.376
+So the Wikipedia governance model,
+the governance of the community,
+
+00:14:01.400 --> 00:14:05.816
+is a very confusing,
+but workable mix of consensus --
+
+00:14:05.840 --> 00:14:08.376
+meaning we try not to vote
+on the content of articles,
+
+00:14:08.400 --> 00:14:12.296
+because the majority view
+is not necessarily neutral --
+
+00:14:12.320 --> 00:14:13.616
+some amount of democracy --
+
+00:14:13.640 --> 00:14:14.976
+all of the administrators --
+
+00:14:15.000 --> 00:14:17.796
+these are the people
+who have the ability to delete pages.
+
+00:14:17.820 --> 00:14:20.656
+That doesn't mean that they have
+the right to delete pages.
+
+00:14:20.680 --> 00:14:24.516
+They still have to follow all the rules --
+but they're elected by the community.
+
+00:14:24.540 --> 00:14:26.970
+Sometimes people --
+random trolls on the Internet --
+
+00:14:26.994 --> 00:14:29.377
+like to accuse me
+of handpicking the administrators
+
+00:14:29.401 --> 00:14:31.306
+to bias the content of the encyclopedia.
+
+00:14:31.330 --> 00:14:35.096
+I always laugh at this, because I have
+no idea how they're elected, actually.
+
+00:14:35.120 --> 00:14:37.096
+There's a certain amount of aristocracy.
+
+00:14:37.120 --> 00:14:39.263
+You got a hint of that
+when I mentioned, like,
+
+00:14:39.287 --> 00:14:41.439
+RickK's voice would carry
+a lot more weight
+
+00:14:41.463 --> 00:14:42.759
+than someone we don't know.
+
+00:14:42.783 --> 00:14:45.496
+I give this talk sometimes with Angela,
+
+00:14:45.520 --> 00:14:48.251
+who was just re-elected to the board
+from the community --
+
+00:14:48.275 --> 00:14:49.771
+to the Board of the Foundation,
+
+00:14:49.795 --> 00:14:52.936
+with more than twice the votes
+of the person who didn't make it.
+
+00:14:52.960 --> 00:14:55.896
+And I always embarrass her because I say,
+
+00:14:55.920 --> 00:14:57.216
+"Well, Angela, for example,
+
+00:14:57.240 --> 00:15:00.656
+could get away with doing
+absolutely anything within Wikipedia,
+
+00:15:00.680 --> 00:15:02.696
+because she's so admired and so powerful."
+
+00:15:02.720 --> 00:15:06.536
+But the irony is, of course, that Angela
+can do this because she's the one person
+
+00:15:06.560 --> 00:15:09.536
+who you know would never, ever
+break any rules of Wikipedia.
+
+00:15:09.560 --> 00:15:11.616
+And I also like to say
+she's the only person
+
+00:15:11.640 --> 00:15:14.856
+who actually knows
+all the rules of Wikipedia, so ...
+
+00:15:14.880 --> 00:15:16.119
+And then there's monarchy,
+
+00:15:16.143 --> 00:15:18.159
+and that's my role
+on the community, so ...
+
+00:15:18.183 --> 00:15:20.576
+(Laughter)
+
+00:15:20.600 --> 00:15:23.216
+I was describing this in Berlin once,
+
+00:15:23.240 --> 00:15:26.016
+and the next day
+in the newspaper the headline said,
+
+00:15:26.040 --> 00:15:27.608
+"I am the Queen of England."
+
+00:15:27.632 --> 00:15:28.783
+(Laughter)
+
+00:15:28.807 --> 00:15:31.176
+And that's not exactly what I said, but --
+
+00:15:31.200 --> 00:15:32.696
+(Laughter)
+
+00:15:32.720 --> 00:15:35.296
+the point is my role in the community --
+
+00:15:35.320 --> 00:15:40.016
+Within the free software world,
+there's been a long-standing tradition
+
+00:15:40.040 --> 00:15:43.256
+of the "benevolent dictator" model.
+
+00:15:43.280 --> 00:15:46.136
+So if you look at most
+of the major free software projects,
+
+00:15:46.160 --> 00:15:47.936
+they have one single person in charge
+
+00:15:47.960 --> 00:15:51.296
+who everyone agrees
+is the benevolent dictator.
+
+00:15:51.320 --> 00:15:53.816
+Well, I don't like the term
+"benevolent dictator,"
+
+00:15:53.840 --> 00:15:57.816
+and I don't think that it's my job
+or my role in the world of ideas
+
+00:15:57.840 --> 00:16:01.176
+to be the dictator of the future
+of all human knowledge
+
+00:16:01.200 --> 00:16:02.416
+compiled by the world.
+
+00:16:02.440 --> 00:16:04.136
+It just isn't appropriate.
+
+00:16:04.160 --> 00:16:06.936
+But there is a need still
+for a certain amount of monarchy,
+
+00:16:06.960 --> 00:16:08.536
+a certain amount of --
+
+00:16:08.560 --> 00:16:10.336
+sometimes we have to make a decision
+
+00:16:10.360 --> 00:16:12.599
+and we don't want
+to get bogged down too heavily
+
+00:16:12.623 --> 00:16:15.336
+in formal decision-making processes.
+
+00:16:15.360 --> 00:16:20.256
+So as an example
+of how this can be important:
+
+00:16:20.280 --> 00:16:24.256
+we recently had a situation where
+a neo-Nazi website discovered Wikipedia,
+
+00:16:24.280 --> 00:16:27.136
+and they said,
+"Oh, well, this is horrible,
+
+00:16:27.160 --> 00:16:29.056
+this Jewish conspiracy of a website,
+
+00:16:29.080 --> 00:16:32.239
+and we're going to get certain articles
+deleted that we don't like.
+
+00:16:32.263 --> 00:16:35.263
+And we see they have a voting process,
+so we're going to send --
+
+00:16:35.287 --> 00:16:38.096
+we have 40,000 members
+and we're going to send them over
+
+00:16:38.120 --> 00:16:40.898
+and they're all going to vote
+and get these pages deleted."
+
+00:16:40.922 --> 00:16:43.113
+Well, they managed
+to get 18 people to show up.
+
+00:16:43.137 --> 00:16:45.896
+That's neo-Nazi math for you.
+
+00:16:45.920 --> 00:16:49.376
+They always think they've got
+40,000 members when they've got 18.
+
+00:16:49.400 --> 00:16:52.896
+But they managed to get 18 people
+to come and vote in a fairly absurd way
+
+00:16:52.920 --> 00:16:54.936
+to delete a perfectly valid article.
+
+00:16:54.960 --> 00:16:57.696
+Of course, the vote ended up
+being about 85 to 18,
+
+00:16:57.720 --> 00:17:00.976
+so there was no real danger
+to our democratic processes.
+
+00:17:01.000 --> 00:17:04.295
+On the other hand, people said,
+"But what are we going to do?
+
+00:17:04.319 --> 00:17:05.575
+I mean, this could happen.
+
+00:17:05.599 --> 00:17:07.936
+What if some group
+gets really seriously organized
+
+00:17:07.960 --> 00:17:10.536
+and comes in and wants to vote?"
+
+00:17:10.560 --> 00:17:13.335
+Then I said, "Well, fuck it,
+we'll just change the rules."
+
+00:17:13.359 --> 00:17:15.055
+That's my job in the community:
+
+00:17:15.079 --> 00:17:18.656
+to say we won't allow
+our openness and freedom
+
+00:17:18.680 --> 00:17:21.256
+to undermine the quality of the content.
+
+00:17:21.280 --> 00:17:24.575
+And so, as long as people
+trust me in my role,
+
+00:17:24.599 --> 00:17:26.456
+then that's a valid place for me.
+
+00:17:26.480 --> 00:17:28.516
+Of course, because of the free licensing,
+
+00:17:28.540 --> 00:17:32.017
+if I do a bad job, the volunteers
+are more than happy to take and leave --
+
+00:17:32.041 --> 00:17:33.521
+I can't tell anyone what to do.
+
+00:17:34.000 --> 00:17:38.696
+So the final point here
+is that to understand how Wikipedia works,
+
+00:17:38.720 --> 00:17:41.911
+it's important to understand
+that our wiki model is the way we work,
+
+00:17:41.935 --> 00:17:45.536
+but we are not fanatical web anarchists.
+
+00:17:45.560 --> 00:17:48.936
+In fact, we're very flexible
+about the social methodology,
+
+00:17:48.960 --> 00:17:51.376
+because ultimately,
+the passion of the community
+
+00:17:51.400 --> 00:17:53.416
+is for the quality of the work,
+
+00:17:53.440 --> 00:17:56.416
+not necessarily for the process
+that we use to generate it.
+
+00:17:56.440 --> 00:17:57.656
+Thank you.
+
+00:17:57.680 --> 00:18:01.936
+(Applause)
+
+00:18:01.960 --> 00:18:03.736
+Ben Saunders: Yeah, hi, Ben Saunders.
+
+00:18:03.760 --> 00:18:07.896
+Jimmy, you mentioned impartiality
+being a key to Wikipedia's success.
+
+00:18:07.920 --> 00:18:13.256
+It strikes me that much of the textbooks
+that are used to educate our children
+
+00:18:13.280 --> 00:18:15.056
+are inherently biased.
+
+00:18:15.080 --> 00:18:18.696
+Have you found Wikipedia
+being used by teachers
+
+00:18:18.720 --> 00:18:21.176
+and how do you see Wikipedia
+changing education?
+
+00:18:21.200 --> 00:18:25.416
+Jimmy Wales: Yeah, so, a lot of teachers
+are beginning to use Wikipedia.
+
+00:18:25.440 --> 00:18:30.016
+There's a media storyline about Wikipedia,
+which I think is false.
+
+00:18:30.040 --> 00:18:33.616
+It builds on the storyline
+of bloggers versus newspapers.
+
+00:18:33.640 --> 00:18:36.776
+And the storyline is,
+there's this crazy thing, Wikipedia,
+
+00:18:36.800 --> 00:18:40.256
+but academics hate it
+and teachers hate it.
+
+00:18:40.280 --> 00:18:42.856
+And that turns out to not be true.
+
+00:18:42.880 --> 00:18:45.416
+The last time I got an email
+from a journalist saying,
+
+00:18:45.440 --> 00:18:47.156
+"Why do academics hate Wikipedia?"
+
+00:18:47.180 --> 00:18:49.038
+I sent it from my Harvard email address
+
+00:18:49.062 --> 00:18:51.315
+because I was recently
+appointed a fellow there.
+
+00:18:51.339 --> 00:18:53.355
+And I said, "Well,
+they don't all hate it."
+
+00:18:53.379 --> 00:18:54.456
+(Laughter)
+
+00:18:54.480 --> 00:18:57.336
+But I think there's going
+to be huge impacts.
+
+00:18:57.360 --> 00:19:00.776
+And we actually have a project
+that I'm personally really excited about,
+
+00:19:00.800 --> 00:19:02.296
+which is the Wikibooks project,
+
+00:19:02.320 --> 00:19:05.416
+which is an effort to create
+textbooks in all the languages.
+
+00:19:05.440 --> 00:19:07.016
+And that's a much bigger project.
+
+00:19:07.040 --> 00:19:11.656
+It's going to take 20 years or so
+to come to fruition.
+
+00:19:11.680 --> 00:19:13.696
+But part of that is to fulfill our mission
+
+00:19:13.720 --> 00:19:16.696
+of giving an encyclopedia
+to every single person on the planet.
+
+00:19:16.720 --> 00:19:19.576
+We don't mean we're going
+to Spam them with AOL-style CDs.
+
+00:19:19.600 --> 00:19:22.396
+We mean we're going to give them
+a tool that they can use.
+
+00:19:22.420 --> 00:19:24.196
+And for a lot of people in the world,
+
+00:19:24.220 --> 00:19:27.396
+if I give you an encyclopedia
+that's written at a university level,
+
+00:19:27.420 --> 00:19:30.976
+it doesn't do you any good
+without a whole host of literacy materials
+
+00:19:31.000 --> 00:19:33.776
+to build you up to the point
+where you can actually use it.
+
+00:19:33.800 --> 00:19:35.943
+The Wikibooks project
+is an effort to do that.
+
+00:19:35.967 --> 00:19:39.176
+And I think that we're going to see --
+it may not even come from us;
+
+00:19:39.200 --> 00:19:41.176
+there's all kinds of innovation going on.
+
+00:19:41.200 --> 00:19:44.360
+But freely licensed textbooks
+are the next big thing in education.
+

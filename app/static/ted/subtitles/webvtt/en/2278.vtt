@@ -1,0 +1,1547 @@
+WEBVTT
+
+00:00:00.963 --> 00:00:02.892
+This is a play called "Sell/Buy/Date."
+
+00:00:02.892 --> 00:00:05.963
+It's my first since "Bridge and Tunnel,"
+which I did on Broadway,
+
+00:00:05.963 --> 00:00:09.333
+and this one, I -- thank you --
+
+00:00:09.333 --> 00:00:13.995
+I've excerpted it just for you,
+so here we go.
+
+00:00:17.763 --> 00:00:20.901
+Right. Class, let's be absolutely certain
+
+00:00:20.901 --> 00:00:25.618
+all electronic devices are switched off
+before we begin.
+
+00:00:26.268 --> 00:00:31.375
+So class, hopefully you'll recognize
+what you just heard me say as the -- ?
+
+00:00:31.985 --> 00:00:35.199
+Very good, the cellular
+phone announcement.
+
+00:00:35.199 --> 00:00:39.378
+Right? This was also known
+as a mobile phone.
+
+00:00:39.378 --> 00:00:41.607
+So you'll remember, people of that era
+
+00:00:41.607 --> 00:00:46.483
+would have had an external
+electronic device, right,
+
+00:00:46.483 --> 00:00:48.434
+something like this,
+
+00:00:48.434 --> 00:00:51.370
+and they all would have carried
+one of these around with them,
+
+00:00:51.370 --> 00:00:54.749
+and amongst their biggest fears
+was the sheer mortification
+
+00:00:54.749 --> 00:00:58.139
+that one of these might ring
+at some inopportune moment.
+
+00:00:58.139 --> 00:01:00.540
+Right? So a bit of trivia
+about that era for you.
+
+00:01:00.540 --> 00:01:03.100
+(Laughter)
+
+00:01:03.100 --> 00:01:05.851
+So the format of today's class is
+
+00:01:05.851 --> 00:01:09.793
+I will be presenting multiple
+BERT modules today
+
+00:01:09.793 --> 00:01:12.163
+from that period in history, right,
+
+00:01:12.163 --> 00:01:14.973
+so starting circa 2016.
+
+00:01:14.973 --> 00:01:19.320
+And remember, this was
+the very first year of the BERT program.
+
+00:01:19.320 --> 00:01:21.690
+So we've got quite a few
+of these to get through.
+
+00:01:21.690 --> 00:01:25.697
+Bear in mind, I will be living
+into various different bodies,
+
+00:01:25.697 --> 00:01:26.875
+different ages,
+
+00:01:27.815 --> 00:01:31.403
+also what were then called races,
+or ethnic groups,
+
+00:01:31.403 --> 00:01:33.493
+as you'll remember from Unit 1.
+
+00:01:33.493 --> 00:01:36.813
+And -- (Laughter) -- and along
+the gender continuum,
+
+00:01:36.813 --> 00:01:39.321
+I will be living into males as well.
+
+00:01:39.321 --> 00:01:40.991
+It was quite binary at that time.
+
+00:01:40.991 --> 00:01:42.550
+(Laughter)
+
+00:01:42.550 --> 00:01:45.867
+Also, don't forget, we are reading
+the book module
+
+00:01:45.867 --> 00:01:47.842
+for next week's focus on gender.
+
+00:01:47.842 --> 00:01:51.885
+Now, I know some of you
+have requested the book in pill form.
+
+00:01:51.885 --> 00:01:56.201
+I know people still believe
+ingesting it is better for retention,
+
+00:01:56.201 --> 00:02:01.700
+but since we are trying to experience
+what our forebears did, right,
+
+00:02:01.700 --> 00:02:07.207
+let's please just consider doing
+the actual ocular reading, okay?
+
+00:02:07.207 --> 00:02:12.222
+And also, how many people
+have your emotional shunts engaged?
+
+00:02:12.222 --> 00:02:14.916
+Right. Please toggle them off. Okay?
+
+00:02:14.916 --> 00:02:19.861
+I know it's challenging, but I want you
+to be able to feel the entire
+
+00:02:19.861 --> 00:02:21.719
+natural emo range, all right?
+
+00:02:21.719 --> 00:02:24.528
+It is essential to this
+part of the syllabus.
+
+00:02:25.888 --> 00:02:27.126
+Yes, Macy?
+
+00:02:27.756 --> 00:02:31.627
+All right. I understand.
+If you're unwilling to --
+
+00:02:31.627 --> 00:02:33.996
+All right, well, we can discuss
+that after class.
+
+00:02:33.996 --> 00:02:36.429
+All right, we will discuss your concerns.
+
+00:02:36.429 --> 00:02:40.549
+Just relax. Nobody's died
+and gone to composting.
+
+00:02:40.549 --> 00:02:43.893
+Okay. After class. Okay? After class.
+
+00:02:45.133 --> 00:02:47.144
+Let's just get started, okay.
+
+00:02:47.144 --> 00:02:53.552
+This first subject identified
+as a middle-class homemaker.
+
+00:02:53.552 --> 00:02:55.851
+Remember, these early modules
+
+00:02:55.851 --> 00:02:59.984
+in these people's full identities
+were protected,
+
+00:02:59.984 --> 00:03:03.200
+and this allowed them to speak
+more freely on our topic,
+
+00:03:03.200 --> 00:03:07.133
+which for many of them was taboo.
+
+00:03:08.110 --> 00:03:11.732
+Okay honey, now,
+I'm ready when you are.
+
+00:03:11.732 --> 00:03:14.960
+No, sweetheart, I said,
+I'm ready when you are.
+
+00:03:16.060 --> 00:03:17.351
+I'm freezing.
+
+00:03:18.061 --> 00:03:21.206
+It's like a meat locker in here
+in this recording studio.
+
+00:03:21.206 --> 00:03:23.806
+I should have brought a shmata.
+
+00:03:23.806 --> 00:03:27.405
+All this fancy technology
+but they can't afford heat.
+
+00:03:28.375 --> 00:03:31.678
+What is he saying? I can't hear you!
+
+00:03:31.678 --> 00:03:34.557
+I can't hear you
+through the glass, honey!
+
+00:03:34.557 --> 00:03:37.320
+There you are in my ear.
+
+00:03:37.320 --> 00:03:39.920
+Oh, you can hear me?
+
+00:03:39.920 --> 00:03:41.778
+The whole time.
+
+00:03:41.778 --> 00:03:44.864
+Oh, yes, I am a little chilly.
+
+00:03:45.980 --> 00:03:51.553
+Yes, oh the cold is for the machines,
+the new technology. Okay.
+
+00:03:51.553 --> 00:03:57.304
+Yes, now remind me again, you're recording
+not only my voice but my feelings
+
+00:03:57.304 --> 00:03:59.604
+and my memories? Right.
+
+00:04:00.414 --> 00:04:02.433
+Yes, BERT, yes, I read about it.
+
+00:04:02.433 --> 00:04:05.484
+Bio-Empathetic Resonant Technology.
+
+00:04:05.484 --> 00:04:10.641
+Right, right, so people will be able
+to feel my experience
+
+00:04:10.641 --> 00:04:12.543
+and my memory? Okay.
+
+00:04:12.543 --> 00:04:13.958
+No, right, I'm ready.
+
+00:04:13.958 --> 00:04:18.055
+I just thought you were going to give me
+a test to see how my memory's doing.
+
+00:04:18.055 --> 00:04:21.272
+I was going to tell you you're too late,
+it's already bad news.
+
+00:04:22.847 --> 00:04:25.648
+No, no, go ahead, honey.
+
+00:04:25.648 --> 00:04:27.984
+Oh, that's the first question?
+
+00:04:27.984 --> 00:04:31.258
+What do I think of prostitution?
+
+00:04:31.258 --> 00:04:34.599
+Are you soliciting me, young man?
+
+00:04:35.483 --> 00:04:39.955
+I've heard of May-December romances,
+but what are you, about 20 years old?
+
+00:04:41.102 --> 00:04:42.844
+Eighteen? Eighteen years.
+
+00:04:42.844 --> 00:04:48.463
+I think I have candies in my purse
+older than 18 years old.
+
+00:04:48.463 --> 00:04:49.941
+(Laughter)
+
+00:04:52.281 --> 00:04:56.520
+I'm teasing you, sweetheart.
+No, I'm comfortable with any question.
+
+00:04:57.940 --> 00:05:02.371
+Sure. So about the prostitution --
+oh, sex worker, sex worker.
+
+00:05:03.951 --> 00:05:07.920
+No, just in my day, they called it
+prostitution, not sex work.
+
+00:05:07.920 --> 00:05:10.666
+Oh, because it includes pornography also?
+
+00:05:10.666 --> 00:05:12.477
+Okay.
+
+00:05:12.477 --> 00:05:14.659
+No, well, I guess when I was a girl,
+
+00:05:14.659 --> 00:05:17.167
+we didn't really have
+a name for that either.
+
+00:05:17.167 --> 00:05:22.902
+We would have said dirty magazines,
+I suppose, or dirty movies.
+
+00:05:22.902 --> 00:05:25.370
+Well, it's not like what you have
+with the Internet.
+
+00:05:26.130 --> 00:05:29.636
+No, well, I don't mind sharing.
+
+00:05:29.636 --> 00:05:34.628
+My late husband and I,
+we were a very romantic couple.
+
+00:05:35.898 --> 00:05:38.714
+Lots of tenderness, you understand.
+
+00:05:39.794 --> 00:05:43.164
+Well, as you get older, you know,
+at one point I thought my husband
+
+00:05:43.164 --> 00:05:47.317
+might be helped by using
+some of the pills men can take,
+
+00:05:49.317 --> 00:05:52.413
+but he wasn't interested in those,
+
+00:05:52.413 --> 00:05:58.474
+so I thought, what about maybe
+watching an adult movie on the Internet?
+
+00:05:58.474 --> 00:06:01.908
+Just for inspiration, you understand.
+
+00:06:01.908 --> 00:06:06.906
+Well, at the time, neither of us
+were very good on the computer,
+
+00:06:06.906 --> 00:06:09.619
+so usually, if we needed help
+with the Internet,
+
+00:06:09.619 --> 00:06:14.597
+we would just call our children
+or our grandchildren,
+
+00:06:14.597 --> 00:06:18.163
+but obviously, in this case,
+that wasn't an option,
+
+00:06:18.163 --> 00:06:23.588
+so I thought, I'll have
+a look myself, just to see.
+
+00:06:23.588 --> 00:06:26.127
+How difficult could it be?
+
+00:06:26.127 --> 00:06:29.760
+You search for certain key words
+and you look --
+
+00:06:29.760 --> 00:06:31.955
+Oh wow is right, young man.
+
+00:06:31.955 --> 00:06:34.672
+You can't imagine what I saw.
+
+00:06:34.672 --> 00:06:39.618
+Well, first of all, I was just trying
+to find, you know, couples,
+
+00:06:39.618 --> 00:06:41.963
+normal couples making love,
+
+00:06:43.303 --> 00:06:47.791
+but this, so many people
+together at one time.
+
+00:06:47.791 --> 00:06:51.599
+You couldn't tell which part
+belonged to which body.
+
+00:06:51.599 --> 00:06:55.778
+How they even got the cameras to
+capture some of this, I couldn't tell you.
+
+00:06:55.778 --> 00:07:00.608
+But the one thing they didn't capture
+was making love.
+
+00:07:02.658 --> 00:07:07.388
+There was lots of making of something,
+
+00:07:07.388 --> 00:07:11.497
+but they took the love part
+right out of it, you know, the fun.
+
+00:07:11.497 --> 00:07:15.421
+It was all very extreme, you know?
+
+00:07:15.421 --> 00:07:17.929
+Like you would say,
+with the extreme sports.
+
+00:07:19.149 --> 00:07:22.778
+Lots of endurance,
+
+00:07:22.778 --> 00:07:25.800
+but never tenderness.
+
+00:07:25.800 --> 00:07:32.116
+So anyway, needless to say,
+that was $19.95 I'll never get back again,
+
+00:07:32.116 --> 00:07:36.945
+but it only showed up on the credit card
+as "entertainment services,"
+
+00:07:36.945 --> 00:07:39.732
+so my husband was never the wiser,
+
+00:07:39.732 --> 00:07:42.083
+and after all of that,
+
+00:07:43.133 --> 00:07:45.572
+well, you could say it turned out
+
+00:07:45.572 --> 00:07:49.412
+he didn't need the extra
+inspiration after all.
+
+00:07:51.152 --> 00:07:54.734
+Right, so next subject is a young woman
+-- (Applause) --
+
+00:07:55.924 --> 00:07:58.957
+Next subject, class,
+is a young woman called Bella,
+
+00:07:58.957 --> 00:08:02.904
+a university student interviewed in 2016
+
+00:08:02.904 --> 00:08:06.828
+during what was called
+an Intro to Feminist Porn class
+
+00:08:06.828 --> 00:08:11.317
+as part of her major in sex work
+at a college in the Bay Area.
+
+00:08:11.317 --> 00:08:14.672
+(Laughter)
+
+00:08:14.672 --> 00:08:17.439
+Yeah, I just want to, like,
+get a recording of, like,
+
+00:08:17.439 --> 00:08:19.808
+you guys recording me,
+
+00:08:19.808 --> 00:08:21.897
+like a meta recording, or whatever.
+
+00:08:22.887 --> 00:08:26.611
+It's just like this whole experience
+is just, like, really amazing,
+
+00:08:26.611 --> 00:08:30.131
+and I'd like to capture that
+for, like, Instagram and my Tumblr.
+
+00:08:30.131 --> 00:08:33.126
+So, like, hi guys, it's me, Bella,
+
+00:08:33.126 --> 00:08:36.633
+and I am, like, being
+interviewed right now
+
+00:08:37.723 --> 00:08:43.505
+for this, like, really amazing
+Bio-Empathetic Resonance Technology,
+
+00:08:43.505 --> 00:08:49.780
+which is, like, basically where they are,
+like, recording, as you can see
+
+00:08:49.780 --> 00:08:51.702
+from these, whatever, like, electrodes,
+
+00:08:51.702 --> 00:08:57.040
+the formation of, like, neuropeptides
+in my hippocampus, or whatever.
+
+00:08:58.160 --> 00:09:00.920
+They will later be able
+to reconstitute these
+
+00:09:00.920 --> 00:09:06.280
+as, like, my own actual memory,
+like actual experiences,
+
+00:09:07.540 --> 00:09:11.645
+so other people can, like,
+actually feel what I'm feeling right now.
+
+00:09:12.320 --> 00:09:14.572
+Okay. Okay.
+
+00:09:14.572 --> 00:09:20.140
+So, like, hello, BERT person of the future
+who is experiencing me.
+
+00:09:20.750 --> 00:09:24.557
+This is what it feels like to be,
+like, a college freshman,
+
+00:09:24.557 --> 00:09:29.781
+and also the, like, headache
+that you are experiencing through me
+
+00:09:29.781 --> 00:09:36.200
+is the, like, residual effect
+of the Jell-O shots which I had last night
+
+00:09:36.200 --> 00:09:39.115
+at the bi-weekly feminist
+pole dancing party
+
+00:09:39.115 --> 00:09:42.157
+which I cohost on Wednesdays.
+
+00:09:42.157 --> 00:09:45.779
+It's called "Don't Get All Pole-emical" --
+(Laughter) --
+
+00:09:45.779 --> 00:09:49.122
+and it's in Beekman Hall,
+
+00:09:50.072 --> 00:09:52.250
+and, what else, like,
+
+00:09:52.250 --> 00:09:56.297
+non-Jell-O shots are also
+available for vegans,
+
+00:09:56.297 --> 00:10:04.540
+and, oh, okay, yeah, totally, yeah, we
+should also focus on your questions also.
+
+00:10:05.980 --> 00:10:10.182
+So for your record, I am, like,
+a sex work studies major
+
+00:10:10.182 --> 00:10:12.457
+but minoring in social media
+
+00:10:12.457 --> 00:10:15.151
+with a concentration
+on notable YouTube memes.
+
+00:10:15.151 --> 00:10:17.289
+(Laughter)
+
+00:10:18.239 --> 00:10:21.490
+Yes, well, of course, like,
+I consider myself to be, like,
+
+00:10:21.490 --> 00:10:23.579
+obviously, like, a feminist.
+
+00:10:23.579 --> 00:10:28.571
+I was named for Bella Abzug,
+who was, like, a famous, like,
+
+00:10:28.571 --> 00:10:30.986
+feminist from history,
+
+00:10:30.986 --> 00:10:37.255
+and, like, also I feel that it is, like,
+important to, like, represent women
+
+00:10:37.255 --> 00:10:40.945
+who are, like, sex-positive feminists.
+
+00:10:42.224 --> 00:10:44.941
+What is sex-negative?
+
+00:10:44.941 --> 00:10:49.399
+Well, like, I guess I would ask,
+like, what do you think
+
+00:10:49.399 --> 00:10:52.417
+sex-negative is? (Laughter)
+
+00:10:52.417 --> 00:10:57.314
+Yeah, because, like, the terms that we use
+are, like, so important, because, like,
+
+00:10:57.314 --> 00:11:04.352
+we call it sex work because it helps
+people understand that, like, it's work,
+
+00:11:04.352 --> 00:11:09.228
+and, like, you know, just like there are,
+like, healthcare providers
+
+00:11:09.228 --> 00:11:11.712
+and, like, insurance providers,
+
+00:11:11.712 --> 00:11:17.401
+like, we think of these workers
+as, like, sex care providers.
+
+00:11:18.511 --> 00:11:22.184
+Yeah, but like, I don't think of myself
+like, providing direct
+
+00:11:22.184 --> 00:11:26.433
+sex care services per se as, like,
+being a requirement
+
+00:11:26.433 --> 00:11:28.894
+for me to be, like, an advocate.
+
+00:11:28.894 --> 00:11:32.563
+Like, I support other women's right
+to choose it voluntarily, like,
+
+00:11:32.563 --> 00:11:34.676
+if they enjoy it.
+
+00:11:34.676 --> 00:11:37.509
+Yeah, but, like, I see
+myself going forward
+
+00:11:37.509 --> 00:11:41.247
+as more likely, like,
+protecting sex workers',
+
+00:11:41.247 --> 00:11:44.288
+like, legal freedoms and rights.
+
+00:11:44.288 --> 00:11:48.213
+Yeah, so, like, basically,
+I'm planning on becoming a lawyer.
+
+00:11:50.133 --> 00:11:51.835
+Right, class. (Laughter) (Applause)
+
+00:11:51.835 --> 00:11:55.921
+So these next two modules
+are also circa 2016.
+
+00:11:55.921 --> 00:11:59.915
+One subject is an Irishwoman
+with a particularly noteworthy
+
+00:11:59.915 --> 00:12:02.847
+relationship to this issue,
+
+00:12:02.847 --> 00:12:06.509
+but first will be a West Indian woman,
+
+00:12:06.509 --> 00:12:08.831
+a self-described escort
+
+00:12:08.831 --> 00:12:14.241
+who was recorded at a
+sex workers' rights rally and parade.
+
+00:12:14.241 --> 00:12:18.792
+She was interviewed whilst marching
+in full carnival headdress
+
+00:12:18.792 --> 00:12:21.460
+and very little else.
+
+00:12:24.295 --> 00:12:26.379
+All right, you want me
+to start talking now.
+
+00:12:26.379 --> 00:12:29.509
+Yeah, I told you, you can
+put those wires anywhere you want to
+
+00:12:29.509 --> 00:12:32.536
+as long as it don't get in the way.
+
+00:12:33.164 --> 00:12:38.069
+Yeah, no, but, tell me again
+what the name of -- BERT? BERT.
+
+00:12:38.069 --> 00:12:41.108
+Yeah, I was telling you, you know,
+I think I have in all my time
+
+00:12:41.108 --> 00:12:44.797
+I have had at least one client with that
+name, so this won't be the first time
+
+00:12:44.797 --> 00:12:47.396
+I had BERT all over me.
+
+00:12:51.905 --> 00:12:53.218
+Oh, I'm sorry,
+
+00:12:53.218 --> 00:12:56.670
+but you got to get into the spirit of it
+if you're going to interview me.
+
+00:12:56.670 --> 00:12:58.536
+All right? You can say it.
+
+00:12:58.536 --> 00:13:00.934
+No justice, no piece!
+No justice, no piece!
+
+00:13:00.934 --> 00:13:06.878
+But you see the sign? You get it?
+P-I-E-C-E. No justice, no piece of us.
+
+00:13:06.878 --> 00:13:08.790
+You understand?
+
+00:13:08.790 --> 00:13:11.244
+Right, so that's the part
+where I was telling you
+
+00:13:11.244 --> 00:13:15.609
+is that when I first came to this country,
+I worked every job I could find.
+
+00:13:15.609 --> 00:13:20.299
+I was a nanny; I was a home care attendant
+for all these different old people,
+
+00:13:20.299 --> 00:13:24.422
+and then I said, child, if I have to touch
+another white man's backside,
+
+00:13:24.422 --> 00:13:27.381
+I might as well get paid
+a lot more money for it than this,
+
+00:13:27.381 --> 00:13:29.285
+you understand?
+
+00:13:29.285 --> 00:13:32.350
+Pshh, you know how hard it is
+being a domestic worker?
+
+00:13:32.980 --> 00:13:34.729
+Some of these men, they're heavy.
+
+00:13:34.729 --> 00:13:37.528
+You have to pick them up
+and flip them over.
+
+00:13:37.528 --> 00:13:41.986
+Now, I let them pick me up
+and flip me over, you understand?
+
+00:13:41.986 --> 00:13:45.399
+Well, you have to have a sense of humor
+about it, that's what I think.
+
+00:13:45.399 --> 00:13:47.349
+No, but see, listen,
+
+00:13:47.349 --> 00:13:50.739
+you find me somebody who don't hate
+some part of their job.
+
+00:13:50.739 --> 00:13:53.502
+I mean, there's a lot of things
+about this job that I hate,
+
+00:13:53.502 --> 00:13:55.072
+but the money is not one of them,
+
+00:13:55.072 --> 00:13:57.891
+and I will tell you, as long as this
+is the best possibility
+
+00:13:57.891 --> 00:13:59.655
+for me to make real money,
+
+00:13:59.655 --> 00:14:03.811
+I am going to be Jamaican-No-Fakin'
+if that's what they want to call me.
+
+00:14:03.811 --> 00:14:07.318
+No, I'm not even from Jamaica.
+That's how they market me.
+
+00:14:07.318 --> 00:14:10.545
+My family is from Trinidad
+and the Virgin Islands.
+
+00:14:11.495 --> 00:14:13.711
+They don't know what I do,
+but you know what?
+
+00:14:13.711 --> 00:14:16.977
+My children, they know
+that their school fees are paid,
+
+00:14:16.977 --> 00:14:19.484
+they have their books and their computer,
+
+00:14:19.484 --> 00:14:22.456
+and this way, I know
+that they have a chance.
+
+00:14:22.456 --> 00:14:25.266
+So I'm not going to tell you
+that what I do, it's easy,
+
+00:14:25.266 --> 00:14:28.818
+I'm not going to tell you that I feel --
+what's that you said, liberated?
+
+00:14:30.128 --> 00:14:32.920
+But I'm going to tell you
+that I feel paid.
+
+00:14:34.120 --> 00:14:37.129
+Right. (Applause)
+
+00:14:38.872 --> 00:14:41.496
+Thanks, that's lovely,
+and just the cup of tea, love,
+
+00:14:41.496 --> 00:14:43.470
+and just a splash of the whiskey.
+
+00:14:43.470 --> 00:14:48.200
+It's perfect, that's grand.
+Just a drop more. A splash. Perfect.
+
+00:14:48.200 --> 00:14:51.550
+What was your name? Peter?
+Is that right, so, Peter?
+
+00:14:51.550 --> 00:14:54.708
+Right. So that, that is
+the unique part of it for me,
+
+00:14:54.708 --> 00:14:57.401
+right, is that I ended up in both,
+
+00:14:58.681 --> 00:15:02.550
+first in the convent, and then
+in the prostitution after. That's right.
+
+00:15:02.550 --> 00:15:04.160
+(Laughter)
+
+00:15:04.160 --> 00:15:08.120
+So one woman at the university
+here in Dublin, she wrote about me.
+
+00:15:08.120 --> 00:15:13.820
+She said, Maureen Fitzroy is the living
+embodiment of the whore-virgin dichotomy.
+
+00:15:13.820 --> 00:15:15.341
+Right? (Laughter)
+
+00:15:15.341 --> 00:15:18.359
+Doesn't it sound like something
+you need to go into hospital?
+
+00:15:18.359 --> 00:15:20.248
+Well, I've got this terrible dichotomy.
+
+00:15:20.248 --> 00:15:21.411
+Doesn't it.
+
+00:15:21.781 --> 00:15:25.119
+Right. Well, for me though, it was,
+as a girl, it started with me dad.
+
+00:15:25.119 --> 00:15:28.394
+I mean, half the time, when he
+spoke to us, it was just a sort of
+
+00:15:28.394 --> 00:15:32.856
+tell us we were all useless rotten idiots
+and we had no morals, that type of thing.
+
+00:15:32.856 --> 00:15:36.177
+And I certainly didn't
+do myself any favors.
+
+00:15:36.177 --> 00:15:38.406
+By the time I was 16,
+
+00:15:38.406 --> 00:15:41.285
+I had started messing about
+with this older fella,
+
+00:15:41.285 --> 00:15:44.837
+and he wanted it to be
+our little secret,
+
+00:15:44.837 --> 00:15:47.345
+and I did as I was told, didn't I,
+
+00:15:47.345 --> 00:15:53.452
+and when that got back to me dad, he
+had me sent straightaway to the convent.
+
+00:15:54.752 --> 00:15:58.420
+Well no, that older fella, he would still
+come to find me in the convent.
+
+00:15:59.170 --> 00:16:00.766
+Yeah, he'd leave me notes
+
+00:16:00.766 --> 00:16:04.001
+tucked into the holes in the brick
+at the back of the charity shop
+
+00:16:04.001 --> 00:16:05.188
+so we could meet.
+
+00:16:05.188 --> 00:16:08.915
+And he'd tell me how
+he's leaving his wife,
+
+00:16:08.915 --> 00:16:13.141
+and I believed him, until I got pregnant.
+
+00:16:13.141 --> 00:16:18.458
+I did, Peter, and I left him a note
+about it in our special place there,
+
+00:16:18.458 --> 00:16:21.477
+and I never did hear from him again.
+
+00:16:21.477 --> 00:16:26.490
+No, I gave it up for adoption
+so it could have a decent life,
+
+00:16:27.070 --> 00:16:29.675
+and then they wouldn't let me
+back into the convent.
+
+00:16:30.815 --> 00:16:34.273
+No, my one sister Virginia gave me
+a fiver for the coach to Dublin,
+
+00:16:34.273 --> 00:16:36.221
+and that's how I ended up here.
+
+00:16:36.991 --> 00:16:41.120
+Well, surprise, surprise, I fell in love
+with another fella much older than me,
+
+00:16:41.120 --> 00:16:46.159
+and I always say I was just so happy
+because he didn't drink,
+
+00:16:47.349 --> 00:16:49.502
+I married the bastard.
+
+00:16:50.502 --> 00:16:54.184
+Well, he didn't drink, but he did have
+just the wee heroin problem, didn't he,
+
+00:16:54.184 --> 00:16:57.279
+and -- That's right, and before I knew it,
+
+00:16:57.279 --> 00:17:00.903
+he was the one who turned me on
+to the prostitution, my own husband.
+
+00:17:01.703 --> 00:17:03.771
+He had me supporting the both of us.
+
+00:17:03.771 --> 00:17:05.314
+I was 18.
+
+00:17:06.144 --> 00:17:09.089
+Well, it wasn't Pretty Woman,
+I can tell you that.
+
+00:17:10.509 --> 00:17:12.356
+That Julia Roberts,
+
+00:17:13.566 --> 00:17:17.569
+if she'd ever had to sleep with a man
+to put a few pounds in her pocket,
+
+00:17:17.569 --> 00:17:20.110
+I don't think she'd ever
+have made that film.
+
+00:17:20.110 --> 00:17:22.339
+Well, for your record,
+
+00:17:22.339 --> 00:17:25.520
+my opinion of the legalization,
+I'd say I'm against it.
+
+00:17:26.620 --> 00:17:28.864
+I just, I don't care what
+these young girls say.
+
+00:17:28.864 --> 00:17:31.975
+You know, living like that,
+you're just lost,
+
+00:17:31.975 --> 00:17:34.483
+and, you know, I'm 63 years old.
+
+00:17:34.483 --> 00:17:36.523
+I'm still trying to find who I am.
+
+00:17:37.503 --> 00:17:41.240
+You know, I never was a wife or a nun,
+
+00:17:41.240 --> 00:17:44.560
+or a prostitute even, really, not really.
+
+00:17:44.560 --> 00:17:47.648
+Nobody ever asked who I wanted to be.
+
+00:17:47.648 --> 00:17:49.482
+They just told me,
+
+00:17:49.482 --> 00:17:51.433
+and if you legalize it,
+
+00:17:51.433 --> 00:17:55.264
+then you're really telling these girls,
+"Go on and get lost for a living,"
+
+00:17:55.264 --> 00:17:57.872
+and a lot of them,
+they'll do as they're told.
+
+00:17:58.612 --> 00:18:03.669
+All right, so four perspectives
+from four quite -- (Applause) --
+
+00:18:03.669 --> 00:18:05.829
+four quite different voices there, right?
+
+00:18:05.829 --> 00:18:10.146
+One woman saying sex itself is natural
+but the sex industry seems to
+
+00:18:10.786 --> 00:18:12.794
+mechanize or industrialize it.
+
+00:18:12.794 --> 00:18:17.162
+Then the second woman considered
+sex work to be empowering,
+
+00:18:17.162 --> 00:18:20.991
+liberating, and feminist,
+though she, herself, notably,
+
+00:18:20.991 --> 00:18:23.568
+did not seem keen to do it.
+
+00:18:23.568 --> 00:18:27.995
+The third woman, who actually was
+a so-called sex worker
+
+00:18:27.995 --> 00:18:31.340
+did not agree that it was liberating
+but she wanted the right
+
+00:18:31.340 --> 00:18:33.100
+to the economic empowerment,
+
+00:18:33.100 --> 00:18:36.412
+and then we hear the fourth woman
+saying not only prostitution itself
+
+00:18:36.412 --> 00:18:38.938
+but proscribed roles for women in general
+
+00:18:38.938 --> 00:18:42.398
+prevented her from ever
+finding who she was, right?
+
+00:18:42.398 --> 00:18:44.395
+So another fact most people did not know
+
+00:18:44.395 --> 00:18:50.080
+was the average age of an at-risk girl
+being introduced to the sex industry
+
+00:18:50.080 --> 00:18:52.110
+was 12 or 13.
+
+00:18:52.110 --> 00:18:55.146
+Also consider that the age
+when all girls in that society
+
+00:18:55.146 --> 00:18:58.791
+first became exposed
+to sexualized images of women
+
+00:18:58.791 --> 00:19:01.345
+was quite a bit earlier, right?
+
+00:19:01.345 --> 00:19:06.105
+This was a doll called Barbie, right?
+
+00:19:06.105 --> 00:19:09.692
+I initially thought she was an educational
+tool for anorexia prevention --
+
+00:19:09.692 --> 00:19:10.842
+(Laughter) --
+
+00:19:10.842 --> 00:19:14.209
+but actually she was considered by many
+
+00:19:14.209 --> 00:19:18.272
+to be a wholesome symbol of femininity,
+
+00:19:18.272 --> 00:19:21.615
+and often young girls began
+what was called dieting.
+
+00:19:21.615 --> 00:19:25.854
+Remember this? This was
+restricting food intake on purpose
+
+00:19:25.854 --> 00:19:27.234
+by the age of six,
+
+00:19:27.234 --> 00:19:30.061
+and defining themselves
+based on attractiveness
+
+00:19:30.061 --> 00:19:31.901
+by around that same time. Right?
+
+00:19:31.901 --> 00:19:33.112
+Yes?
+
+00:19:33.712 --> 00:19:35.756
+Right, Bradley, okay, excellent point.
+
+00:19:35.756 --> 00:19:40.585
+So there was a lucrative market
+in that society in convincing all people
+
+00:19:40.585 --> 00:19:44.463
+they had to look a certain way
+to even have a sex life, right?
+
+00:19:44.463 --> 00:19:49.618
+But girls, especially, were expected
+to be "sexy" while avoiding
+
+00:19:49.618 --> 00:19:52.970
+being perceived as "sluts"
+for being sexual. Right?
+
+00:19:52.970 --> 00:19:55.237
+So there's that shame piece
+we've heard about.
+
+00:19:55.237 --> 00:19:56.839
+Yes.
+
+00:19:56.839 --> 00:19:58.696
+Valerie, right? Okay, very good.
+
+00:19:58.696 --> 00:20:01.506
+Of course, men were having sex as well,
+
+00:20:01.506 --> 00:20:03.944
+but you'll remember from the reading,
+
+00:20:03.944 --> 00:20:05.625
+what were male sluts called?
+
+00:20:06.675 --> 00:20:08.541
+Very good, they were called men.
+
+00:20:08.541 --> 00:20:10.747
+(Laughter) (Applause)
+
+00:20:10.747 --> 00:20:16.319
+So not easy living in
+a world like that, right?
+
+00:20:16.859 --> 00:20:18.711
+Though it was not all bad news either.
+
+00:20:18.711 --> 00:20:22.217
+Most women in the early 2000s
+considered themselves empowered,
+
+00:20:22.217 --> 00:20:26.450
+and men generally felt they were
+also evolved in this area,
+
+00:20:26.450 --> 00:20:29.300
+and, in fact, most people would have
+been aware of issues
+
+00:20:29.300 --> 00:20:31.235
+like human trafficking, for example,
+
+00:20:31.235 --> 00:20:33.636
+but they would have seen that
+as quite separate
+
+00:20:33.636 --> 00:20:36.427
+from more recreational
+adult entertainment.
+
+00:20:36.427 --> 00:20:39.850
+And so we'll just very briefly, class --
+we don't have a lot of time --
+
+00:20:39.850 --> 00:20:42.065
+we'll just very briefly hear from a man
+
+00:20:42.065 --> 00:20:43.839
+on our topic at this stage.
+
+00:20:43.839 --> 00:20:49.474
+So this next subject was interviewed
+on the night of his bachelor party.
+
+00:20:51.426 --> 00:20:54.979
+Dude, can you, all right,
+can you just keep it down?
+
+00:20:54.979 --> 00:20:57.185
+I'm trying to talk to BERT right now.
+
+00:20:57.185 --> 00:20:58.778
+Oh, your name's not BERT.
+
+00:20:59.298 --> 00:21:01.573
+BERT's the name of the, oh, all right.
+
+00:21:01.573 --> 00:21:04.638
+No, no, no, totally, it's totally fine.
+I'm mostly sober,
+
+00:21:04.638 --> 00:21:07.473
+so I just want to be helpful.
+
+00:21:08.073 --> 00:21:11.892
+Yeah, and I totally believe in causes,
+yeah, like, all that stuff.
+
+00:21:11.892 --> 00:21:13.332
+(Laughter)
+
+00:21:13.332 --> 00:21:15.714
+And actually, I'm wearing Toms right now.
+
+00:21:16.954 --> 00:21:20.560
+Yeah, Toms, like, the shoes,
+
+00:21:20.560 --> 00:21:23.887
+like, you buy a pair and then
+a kid in Africa gets clean water.
+
+00:21:24.857 --> 00:21:26.394
+Yeah. Totally.
+
+00:21:26.394 --> 00:21:29.181
+But what was the question again? Sorry.
+
+00:21:29.181 --> 00:21:33.889
+Of course I believe in women's rights.
+I'm marrying a woman.
+
+00:21:33.889 --> 00:21:36.389
+(Laughter)
+
+00:21:36.389 --> 00:21:40.018
+No, but I mean, like, just because
+I'm in a strip club parking lot
+
+00:21:40.018 --> 00:21:43.042
+doesn't mean that I'm, like,
+a sexist or whatever.
+
+00:21:43.042 --> 00:21:47.454
+My fiancee is totally amazing,
+she's totally a strong girl, woman,
+
+00:21:47.454 --> 00:21:49.949
+smart woman, like, the whole thing.
+
+00:21:49.949 --> 00:21:53.518
+Yeah, she knows I'm here. She's probably
+at a strip club herself right now,
+
+00:21:53.518 --> 00:21:55.510
+like, as a joke, same as me.
+
+00:21:55.510 --> 00:21:57.602
+My best man, I told him
+he could surprise me,
+
+00:21:57.602 --> 00:21:59.597
+and he thought this would be hilarious,
+
+00:21:59.597 --> 00:22:01.700
+but this is not something.
+
+00:22:02.350 --> 00:22:04.720
+Yeah, we all went to B school together.
+
+00:22:05.060 --> 00:22:06.540
+Wharton.
+
+00:22:06.540 --> 00:22:07.724
+(Laughter)
+
+00:22:07.724 --> 00:22:10.171
+Yeah, so, dude, can you guys --
+
+00:22:10.171 --> 00:22:12.087
+All right, but it's my bachelor party,
+
+00:22:12.087 --> 00:22:15.595
+and I can spend it in the parking lot
+with Anderson Cooper if I want to.
+
+00:22:15.595 --> 00:22:18.266
+All right, I'll see you in there.
+
+00:22:19.076 --> 00:22:21.214
+All right, okay, so Anderson,
+
+00:22:21.214 --> 00:22:25.111
+so, like, first of all, stripping,
+
+00:22:25.111 --> 00:22:27.895
+but then, like, all the other things
+you're talking about,
+
+00:22:27.895 --> 00:22:31.403
+prostitution and all that stuff,
+that's, like, not the same thing at all.
+
+00:22:31.403 --> 00:22:34.659
+You know? Like, you keep calling it
+the sex industry or whatever,
+
+00:22:34.659 --> 00:22:38.605
+but it's like, if the girl wants
+to be an exotic dancer
+
+00:22:38.605 --> 00:22:42.072
+and she's 18, like, that's her right.
+
+00:22:43.092 --> 00:22:46.340
+Whoa, whoa, I hear what you're saying,
+but I just feel like people,
+
+00:22:46.340 --> 00:22:49.976
+they just want to make it seem
+like all dudes are just, like, predators,
+
+00:22:49.976 --> 00:22:53.114
+that we would just automatically
+go to a prostitute, or whatever.
+
+00:22:53.114 --> 00:22:57.410
+Even, like, when I pledged, you know,
+like when I rushed my fraternity.
+
+00:22:58.350 --> 00:23:01.337
+My brothers who I'm close to,
+those guys, they're all like me.
+
+00:23:01.337 --> 00:23:05.290
+We're just normal people, but, like,
+there's this myth that you must
+
+00:23:05.290 --> 00:23:09.928
+be that guy who is kind of an asshole,
+and like, all bros before hos or whatever.
+
+00:23:09.928 --> 00:23:13.643
+And actually, like, bros before hos,
+it doesn't mean like what it sounds like.
+
+00:23:14.603 --> 00:23:18.380
+It's actually just like a joking way of
+saying that you care about your brothers
+
+00:23:18.380 --> 00:23:20.516
+and you put them first.
+
+00:23:21.466 --> 00:23:23.576
+Yeah, but, you can't blame
+the media, either.
+
+00:23:23.576 --> 00:23:26.110
+I mean, like, if you
+go watch "Hangover 2,"
+
+00:23:26.110 --> 00:23:28.264
+and you think that's an instruction manual
+
+00:23:28.264 --> 00:23:30.800
+for your life, like,
+I don't know what to tell you.
+
+00:23:30.800 --> 00:23:32.862
+You know? You don't
+watch "Bourne Identity"
+
+00:23:32.862 --> 00:23:37.106
+and go drive your car
+over a gondola in Venice. (Laughter)
+
+00:23:37.736 --> 00:23:40.672
+Well, yeah, okay, like, if you're
+a little kid or whatever,
+
+00:23:40.672 --> 00:23:42.876
+of course it's different, but --
+
+00:23:42.876 --> 00:23:46.570
+Yeah, all right, I remember
+one thing like that.
+
+00:23:47.380 --> 00:23:50.480
+I was at this kid's house
+one time playing GTA,
+
+00:23:51.280 --> 00:23:52.510
+uh, Grand Theft Auto?
+
+00:23:53.417 --> 00:23:56.123
+Dude, are you from Canada? (Laughter)
+
+00:23:57.593 --> 00:24:00.986
+So, like, whatever, with Grand Theft Auto,
+
+00:24:00.986 --> 00:24:04.160
+you're this kid, like, you're this guy
+walking around or whatever,
+
+00:24:04.160 --> 00:24:07.092
+and you can basically, like,
+the more cops you kill,
+
+00:24:07.092 --> 00:24:09.763
+the more points you get,
+and stuff like that.
+
+00:24:09.763 --> 00:24:12.601
+But also, you can find prostitutes
+
+00:24:12.601 --> 00:24:15.798
+and obviously you can do
+sexual stuff with them,
+
+00:24:15.798 --> 00:24:19.655
+but you can, like, kill them
+and take your money back.
+
+00:24:20.525 --> 00:24:24.466
+Yeah, this kid, I remember he ran over
+a couple of them a few times with his car
+
+00:24:24.466 --> 00:24:27.320
+and he got all these points.
+
+00:24:27.320 --> 00:24:29.755
+We were, like, 10, I think.
+
+00:24:31.685 --> 00:24:33.777
+It felt pretty terrible, actually.
+
+00:24:34.827 --> 00:24:40.215
+No, I don't think I said anything,
+I just finished playing and went home.
+
+00:24:40.845 --> 00:24:43.770
+All right class, so then there were men
+who had more than just
+
+00:24:43.770 --> 00:24:46.135
+a passing relationship to this issue.
+(Laughter)
+
+00:24:47.955 --> 00:24:52.880
+The next subject described himself
+as a reformed and remorseful pimp
+
+00:24:52.880 --> 00:24:54.526
+turned motivational speaker,
+
+00:24:54.526 --> 00:24:56.964
+life coach and therapist,
+
+00:24:56.964 --> 00:25:00.934
+but if you want to know more about him,
+you'll have to come to the entire play.
+
+00:25:00.934 --> 00:25:04.920
+Thank you so much,
+you beautiful TED audience.
+
+00:25:04.920 --> 00:25:06.716
+I will see you for "Sell/Buy/Date."
+
+00:25:06.716 --> 00:25:12.287
+(Applause)
+

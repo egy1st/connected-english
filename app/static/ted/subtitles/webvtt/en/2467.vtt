@@ -1,0 +1,667 @@
+WEBVTT
+
+00:00:00.838 --> 00:00:03.021
+Cancer affects all of us --
+
+00:00:03.045 --> 00:00:06.412
+especially the ones that come
+back over and over again,
+
+00:00:06.436 --> 00:00:09.432
+the highly invasive
+and drug-resistant ones,
+
+00:00:09.456 --> 00:00:11.835
+the ones that defy medical treatment,
+
+00:00:11.859 --> 00:00:14.375
+even when we throw our best drugs at them.
+
+00:00:15.247 --> 00:00:18.167
+Engineering at the molecular level,
+
+00:00:18.191 --> 00:00:20.839
+working at the smallest of scales,
+
+00:00:20.863 --> 00:00:23.386
+can provide exciting new ways
+
+00:00:23.410 --> 00:00:26.338
+to fight the most aggressive
+forms of cancer.
+
+00:00:27.260 --> 00:00:29.737
+Cancer is a very clever disease.
+
+00:00:30.346 --> 00:00:31.923
+There are some forms of cancer,
+
+00:00:31.947 --> 00:00:36.682
+which, fortunately, we've learned
+how to address relatively well
+
+00:00:36.706 --> 00:00:40.098
+with known and established
+drugs and surgery.
+
+00:00:40.627 --> 00:00:42.604
+But there are some forms of cancer
+
+00:00:42.628 --> 00:00:44.860
+that don't respond to these approaches,
+
+00:00:44.884 --> 00:00:47.512
+and the tumor survives or comes back,
+
+00:00:47.536 --> 00:00:49.665
+even after an onslaught of drugs.
+
+00:00:50.053 --> 00:00:54.047
+We can think of these
+very aggressive forms of cancer
+
+00:00:54.071 --> 00:00:56.937
+as kind of supervillains in a comic book.
+
+00:00:57.455 --> 00:01:00.160
+They're clever, they're adaptable,
+
+00:01:00.184 --> 00:01:02.993
+and they're very good at staying alive.
+
+00:01:03.744 --> 00:01:06.406
+And, like most supervillains these days,
+
+00:01:06.996 --> 00:01:10.906
+their superpowers come
+from a genetic mutation.
+
+00:01:12.740 --> 00:01:15.682
+The genes that are modified
+inside these tumor cells
+
+00:01:15.706 --> 00:01:20.973
+can enable and encode for new
+and unimagined modes of survival,
+
+00:01:20.997 --> 00:01:23.472
+allowing the cancer cell to live through
+
+00:01:23.496 --> 00:01:25.861
+even our best chemotherapy treatments.
+
+00:01:26.789 --> 00:01:31.296
+One example is a trick
+in which a gene allows a cell,
+
+00:01:31.320 --> 00:01:33.804
+even as the drug approaches the cell,
+
+00:01:34.390 --> 00:01:37.039
+to push the drug out,
+
+00:01:37.850 --> 00:01:40.023
+before the drug can have any effect.
+
+00:01:40.047 --> 00:01:43.733
+Imagine -- the cell effectively
+spits out the drug.
+
+00:01:44.393 --> 00:01:47.323
+This is just one example
+of the many genetic tricks
+
+00:01:47.347 --> 00:01:49.947
+in the bag of our supervillain, cancer.
+
+00:01:49.971 --> 00:01:52.131
+All due to mutant genes.
+
+00:01:52.717 --> 00:01:57.438
+So, we have a supervillain
+with incredible superpowers.
+
+00:01:57.462 --> 00:02:00.584
+And we need a new and powerful
+mode of attack.
+
+00:02:01.704 --> 00:02:04.788
+Actually, we can turn off a gene.
+
+00:02:05.328 --> 00:02:08.669
+The key is a set of molecules
+known as siRNA.
+
+00:02:09.143 --> 00:02:12.746
+siRNA are short sequences of genetic code
+
+00:02:13.253 --> 00:02:16.334
+that guide a cell to block a certain gene.
+
+00:02:16.982 --> 00:02:20.557
+Each siRNA molecule
+can turn off a specific gene
+
+00:02:20.581 --> 00:02:22.151
+inside the cell.
+
+00:02:23.292 --> 00:02:25.313
+For many years since its discovery,
+
+00:02:25.337 --> 00:02:27.287
+scientists have been very excited
+
+00:02:27.311 --> 00:02:30.668
+about how we can apply
+these gene blockers in medicine.
+
+00:02:31.216 --> 00:02:32.934
+But, there is a problem.
+
+00:02:32.958 --> 00:02:35.418
+siRNA works well inside the cell.
+
+00:02:35.854 --> 00:02:38.848
+But if it gets exposed to the enzymes
+
+00:02:38.872 --> 00:02:41.372
+that reside in our bloodstream
+or our tissues,
+
+00:02:41.396 --> 00:02:43.251
+it degrades within seconds.
+
+00:02:43.769 --> 00:02:48.085
+It has to be packaged, protected
+through its journey through the body
+
+00:02:48.109 --> 00:02:51.179
+on its way to the final target
+inside the cancer cell.
+
+00:02:51.740 --> 00:02:54.057
+So, here's our strategy.
+
+00:02:54.468 --> 00:02:58.271
+First, we'll dose the cancer cell
+with siRNA, the gene blocker,
+
+00:02:58.295 --> 00:02:59.891
+and silence those survival genes,
+
+00:02:59.915 --> 00:03:02.003
+and then we'll whop it with a chemo drug.
+
+00:03:02.501 --> 00:03:04.179
+But how do we carry that out?
+
+00:03:04.764 --> 00:03:06.544
+Using molecular engineering,
+
+00:03:07.705 --> 00:03:10.893
+we can actually design a superweapon
+
+00:03:11.648 --> 00:03:13.899
+that can travel through the bloodstream.
+
+00:03:13.923 --> 00:03:16.919
+It has to be tiny enough
+to get through the bloodstream,
+
+00:03:16.943 --> 00:03:19.814
+it's got to be small enough
+to penetrate the tumor tissue,
+
+00:03:20.368 --> 00:03:24.513
+and it's got to be tiny enough
+to be taken up inside the cancer cell.
+
+00:03:25.049 --> 00:03:26.651
+To do this job well,
+
+00:03:26.675 --> 00:03:31.480
+it has to be about one one-hundredth
+the size of a human hair.
+
+00:03:32.224 --> 00:03:35.605
+Let's take a closer look
+at how we can build this nanoparticle.
+
+00:03:37.146 --> 00:03:39.543
+First, let's start
+with the nanoparticle core.
+
+00:03:39.567 --> 00:03:43.367
+It's a tiny capsule that contains
+the chemotherapy drug.
+
+00:03:44.089 --> 00:03:47.566
+This is the poison that will
+actually end the tumor cell's life.
+
+00:03:48.152 --> 00:03:51.937
+Around this core, we'll wrap a very thin,
+
+00:03:51.961 --> 00:03:54.794
+nanometers-thin blanket of siRNA.
+
+00:03:54.818 --> 00:03:56.452
+This is our gene blocker.
+
+00:03:57.093 --> 00:04:00.682
+Because siRNA is strongly
+negatively charged,
+
+00:04:00.706 --> 00:04:02.263
+we can protect it
+
+00:04:02.287 --> 00:04:07.012
+with a nice, protective layer
+of positively charged polymer.
+
+00:04:07.503 --> 00:04:10.760
+The two oppositely charged
+molecules stick together
+
+00:04:10.784 --> 00:04:12.220
+through charge attraction,
+
+00:04:12.244 --> 00:04:14.378
+and that provides us
+with a protective layer
+
+00:04:14.402 --> 00:04:17.453
+that prevents the siRNA
+from degrading in the bloodstream.
+
+00:04:18.106 --> 00:04:19.406
+We're almost done.
+
+00:04:19.430 --> 00:04:20.890
+(Laughter)
+
+00:04:20.914 --> 00:04:24.992
+But there is one more big obstacle
+we have to think about.
+
+00:04:25.016 --> 00:04:27.408
+In fact, it may be the biggest
+obstacle of all.
+
+00:04:27.432 --> 00:04:29.406
+How do we deploy this superweapon?
+
+00:04:29.430 --> 00:04:31.984
+I mean, every good weapon
+needs to be targeted,
+
+00:04:32.008 --> 00:04:36.073
+we have to target this superweapon
+to the supervillain cells
+
+00:04:36.097 --> 00:04:38.047
+that reside in the tumor.
+
+00:04:38.071 --> 00:04:41.344
+But our bodies have a natural
+immune-defense system:
+
+00:04:41.916 --> 00:04:43.867
+cells that reside in the bloodstream
+
+00:04:43.891 --> 00:04:46.236
+and pick out things that don't belong,
+
+00:04:46.260 --> 00:04:48.559
+so that it can destroy or eliminate them.
+
+00:04:48.583 --> 00:04:53.019
+And guess what? Our nanoparticle
+is considered a foreign object.
+
+00:04:53.718 --> 00:04:57.817
+We have to sneak our nanoparticle
+past the tumor defense system.
+
+00:04:57.841 --> 00:05:04.095
+We have to get it past this mechanism
+of getting rid of the foreign object
+
+00:05:04.119 --> 00:05:05.539
+by disguising it.
+
+00:05:05.563 --> 00:05:09.908
+So we add one more
+negatively charged layer
+
+00:05:09.932 --> 00:05:11.256
+around this nanoparticle,
+
+00:05:11.280 --> 00:05:12.718
+which serves two purposes.
+
+00:05:13.140 --> 00:05:17.108
+First, this outer layer is one
+of the naturally charged,
+
+00:05:17.132 --> 00:05:20.845
+highly hydrated polysaccharides
+that resides in our body.
+
+00:05:21.456 --> 00:05:26.289
+It creates a cloud of water molecules
+around the nanoparticle
+
+00:05:26.313 --> 00:05:29.384
+that gives us an invisibility
+cloaking effect.
+
+00:05:30.257 --> 00:05:32.974
+This invisibility cloak allows
+the nanoparticle
+
+00:05:32.998 --> 00:05:34.604
+to travel through the bloodstream
+
+00:05:34.628 --> 00:05:37.393
+long and far enough to reach the tumor,
+
+00:05:37.417 --> 00:05:39.556
+without getting eliminated by the body.
+
+00:05:40.121 --> 00:05:44.513
+Second, this layer contains molecules
+
+00:05:44.537 --> 00:05:47.736
+which bind specifically to our tumor cell.
+
+00:05:48.190 --> 00:05:52.710
+Once bound, the cancer cell
+takes up the nanoparticle,
+
+00:05:52.734 --> 00:05:57.108
+and now we have our nanoparticle
+inside the cancer cell
+
+00:05:57.132 --> 00:05:58.805
+and ready to deploy.
+
+00:05:59.304 --> 00:06:01.541
+Alright! I feel the same way. Let's go!
+
+00:06:01.565 --> 00:06:07.747
+(Applause)
+
+00:06:08.057 --> 00:06:11.283
+The siRNA is deployed first.
+
+00:06:12.287 --> 00:06:13.913
+It acts for hours,
+
+00:06:13.937 --> 00:06:18.505
+giving enough time to silence
+and block those survival genes.
+
+00:06:19.398 --> 00:06:23.336
+We have now disabled
+those genetic superpowers.
+
+00:06:23.725 --> 00:06:26.954
+What remains is a cancer cell
+with no special defenses.
+
+00:06:26.978 --> 00:06:29.880
+Then, the chemotherapy drug
+comes out of the core
+
+00:06:29.904 --> 00:06:33.488
+and destroys the tumor cell
+cleanly and efficiently.
+
+00:06:34.228 --> 00:06:36.565
+With sufficient gene blockers,
+
+00:06:36.589 --> 00:06:39.799
+we can address many
+different kinds of mutations,
+
+00:06:39.823 --> 00:06:42.184
+allowing the chance to sweep out tumors,
+
+00:06:42.208 --> 00:06:44.399
+without leaving behind any bad guys.
+
+00:06:44.811 --> 00:06:47.527
+So, how does our strategy work?
+
+00:06:49.543 --> 00:06:53.504
+We've tested these nanostructure
+particles in animals
+
+00:06:53.528 --> 00:06:57.111
+using a highly aggressive form
+of triple-negative breast cancer.
+
+00:06:57.135 --> 00:06:59.690
+This triple-negative breast cancer
+exhibits the gene
+
+00:06:59.714 --> 00:07:03.189
+that spits out cancer drug
+as soon as it is delivered.
+
+00:07:03.742 --> 00:07:08.913
+Usually, doxorubicin -- let's call
+it "dox" -- is the cancer drug
+
+00:07:08.937 --> 00:07:11.746
+that is the first line of treatment
+for breast cancer.
+
+00:07:12.178 --> 00:07:17.948
+So, we first treated our animals
+with a dox core, dox only.
+
+00:07:18.661 --> 00:07:20.868
+The tumor slowed their rate of growth,
+
+00:07:20.892 --> 00:07:22.332
+but they still grew rapidly,
+
+00:07:22.356 --> 00:07:24.684
+doubling in size
+over a period of two weeks.
+
+00:07:25.297 --> 00:07:28.395
+Then, we tried
+our combination superweapon.
+
+00:07:29.415 --> 00:07:33.827
+A nanolayer particle with siRNA
+against the chemo pump,
+
+00:07:33.851 --> 00:07:36.846
+plus, we have the dox in the core.
+
+00:07:36.870 --> 00:07:41.185
+And look -- we found that not only
+did the tumors stop growing,
+
+00:07:41.209 --> 00:07:43.725
+they actually decreased in size
+
+00:07:43.749 --> 00:07:46.164
+and were eliminated in some cases.
+
+00:07:46.188 --> 00:07:49.444
+The tumors were actually regressing.
+
+00:07:49.859 --> 00:07:56.841
+(Applause)
+
+00:07:57.820 --> 00:08:01.628
+What's great about this approach
+is that it can be personalized.
+
+00:08:01.652 --> 00:08:04.488
+We can add many different layers of siRNA
+
+00:08:04.512 --> 00:08:08.070
+to address different mutations
+and tumor defense mechanisms.
+
+00:08:08.094 --> 00:08:11.379
+And we can put different drugs
+into the nanoparticle core.
+
+00:08:11.946 --> 00:08:15.153
+As doctors learn how to test patients
+
+00:08:15.177 --> 00:08:18.951
+and understand certain
+tumor genetic types,
+
+00:08:18.975 --> 00:08:22.717
+they can help us determine which patients
+can benefit from this strategy
+
+00:08:22.741 --> 00:08:25.019
+and which gene blockers we can use.
+
+00:08:26.410 --> 00:08:29.313
+Ovarian cancer strikes
+a special chord with me.
+
+00:08:29.337 --> 00:08:31.310
+It is a very aggressive cancer,
+
+00:08:31.334 --> 00:08:34.219
+in part because it's discovered
+at very late stages,
+
+00:08:34.243 --> 00:08:35.690
+when it's highly advanced
+
+00:08:35.714 --> 00:08:37.990
+and there are a number
+of genetic mutations.
+
+00:08:38.566 --> 00:08:41.555
+After the first round of chemotherapy,
+
+00:08:41.579 --> 00:08:45.969
+this cancer comes back
+for 75 percent of patients.
+
+00:08:46.333 --> 00:08:49.159
+And it usually comes back
+in a drug-resistant form.
+
+00:08:50.215 --> 00:08:51.909
+High-grade ovarian cancer
+
+00:08:51.933 --> 00:08:54.100
+is one of the biggest
+supervillains out there.
+
+00:08:54.124 --> 00:08:56.036
+And we're now directing our superweapon
+
+00:08:56.060 --> 00:08:57.376
+toward its defeat.
+
+00:08:59.375 --> 00:09:00.637
+As a researcher,
+
+00:09:00.661 --> 00:09:03.516
+I usually don't get to work with patients.
+
+00:09:04.164 --> 00:09:06.581
+But I recently met a mother
+
+00:09:06.605 --> 00:09:11.502
+who is an ovarian cancer survivor,
+Mimi, and her daughter, Paige.
+
+00:09:12.257 --> 00:09:16.361
+I was deeply inspired
+by the optimism and strength
+
+00:09:16.385 --> 00:09:18.478
+that both mother and daughter displayed
+
+00:09:19.495 --> 00:09:22.187
+and by their story of courage and support.
+
+00:09:23.119 --> 00:09:26.522
+At this event, we spoke
+about the different technologies
+
+00:09:26.546 --> 00:09:27.925
+directed at cancer.
+
+00:09:28.355 --> 00:09:29.664
+And Mimi was in tears
+
+00:09:29.688 --> 00:09:32.515
+as she explained how learning
+about these efforts
+
+00:09:32.539 --> 00:09:34.749
+gives her hope for future generations,
+
+00:09:34.773 --> 00:09:36.658
+including her own daughter.
+
+00:09:37.449 --> 00:09:38.863
+This really touched me.
+
+00:09:39.524 --> 00:09:42.703
+It's not just about building
+really elegant science.
+
+00:09:43.140 --> 00:09:45.239
+It's about changing people's lives.
+
+00:09:46.330 --> 00:09:49.541
+It's about understanding
+the power of engineering
+
+00:09:49.565 --> 00:09:51.446
+on the scale of molecules.
+
+00:09:51.470 --> 00:09:55.553
+I know that as students like Paige
+move forward in their careers,
+
+00:09:55.577 --> 00:09:57.017
+they'll open new possibilities
+
+00:09:57.041 --> 00:10:00.431
+in addressing some of the big
+health problems in the world --
+
+00:10:00.455 --> 00:10:05.454
+including ovarian cancer, neurological
+disorders, infectious disease --
+
+00:10:06.104 --> 00:10:10.045
+just as chemical engineering has
+found a way to open doors for me,
+
+00:10:10.437 --> 00:10:13.071
+and has provided a way of engineering
+
+00:10:13.095 --> 00:10:16.627
+on the tiniest scale,
+that of molecules,
+
+00:10:16.651 --> 00:10:19.214
+to heal on the human scale.
+
+00:10:19.797 --> 00:10:20.955
+Thank you.
+
+00:10:20.979 --> 00:10:29.539
+(Applause)
+

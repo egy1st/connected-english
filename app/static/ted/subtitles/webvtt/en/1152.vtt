@@ -1,0 +1,1253 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+So I think data can actually make us more human.
+
+00:00:04.000 --> 00:00:07.000
+We're collecting and creating all kinds of data about how we're living our lives,
+
+00:00:07.000 --> 00:00:09.000
+and it's enabling us to tell some amazing stories.
+
+00:00:09.000 --> 00:00:12.000
+Recently, a wise media theorist Tweeted,
+
+00:00:12.000 --> 00:00:14.000
+"The 19th century culture was defined by the novel,
+
+00:00:14.000 --> 00:00:16.000
+the 20th century culture was defined by the cinema,
+
+00:00:16.000 --> 00:00:18.000
+and the culture of the 21st century
+
+00:00:18.000 --> 00:00:20.000
+will be defined by the interface."
+
+00:00:20.000 --> 00:00:22.000
+And I believe this is going to prove true.
+
+00:00:22.000 --> 00:00:24.000
+Our lives are being driven by data,
+
+00:00:24.000 --> 00:00:26.000
+and the presentation of that data is an opportunity
+
+00:00:26.000 --> 00:00:28.000
+for us to make some amazing interfaces that tell great stories.
+
+00:00:28.000 --> 00:00:30.000
+So I'm going to show you a few of the projects
+
+00:00:30.000 --> 00:00:32.000
+that I've been working on over the last couple years
+
+00:00:32.000 --> 00:00:34.000
+that reflect on our lives and our systems.
+
+00:00:34.000 --> 00:00:36.000
+This is a project called Flight Patterns.
+
+00:00:36.000 --> 00:00:38.000
+What you're looking at is airplane traffic
+
+00:00:38.000 --> 00:00:41.000
+over North America for a 24-hour period.
+
+00:00:41.000 --> 00:00:43.000
+As you see, everything starts to fade to black,
+
+00:00:43.000 --> 00:00:45.000
+and you see people going to sleep.
+
+00:00:45.000 --> 00:00:47.000
+Followed by that, you see on the West coast
+
+00:00:47.000 --> 00:00:50.000
+planes moving across, the red-eye flights to the East coast.
+
+00:00:50.000 --> 00:00:53.000
+And you'll see everybody waking up on the East coast,
+
+00:00:53.000 --> 00:00:56.000
+followed by European flights coming in the upper right-hand corner.
+
+00:00:56.000 --> 00:00:59.000
+Everybody's moving from the East coast to the West coast.
+
+00:00:59.000 --> 00:01:01.000
+You see San Francisco and Los Angeles
+
+00:01:01.000 --> 00:01:04.000
+start to make their journeys down to Hawaii in the lower left-hand corner.
+
+00:01:04.000 --> 00:01:06.000
+I think it's one thing to say there's 140,000 planes
+
+00:01:06.000 --> 00:01:09.000
+being monitored by the federal government at any one time,
+
+00:01:09.000 --> 00:01:12.000
+and it's another thing to see that system as it ebbs and flows.
+
+00:01:14.000 --> 00:01:16.000
+This is a time-lapse image of that exact same data,
+
+00:01:16.000 --> 00:01:18.000
+but I've color-coded it by type,
+
+00:01:18.000 --> 00:01:21.000
+so you can see the diversity of aircraft that are in the skies above us.
+
+00:01:21.000 --> 00:01:24.000
+And I started making these, and I put them into Google Maps
+
+00:01:24.000 --> 00:01:26.000
+and allow you to zoom in and see individual airports
+
+00:01:26.000 --> 00:01:28.000
+and the patterns that are occurring there.
+
+00:01:28.000 --> 00:01:31.000
+So here we can see the white represents low altitudes,
+
+00:01:31.000 --> 00:01:33.000
+and the blue are higher altitudes.
+
+00:01:33.000 --> 00:01:35.000
+And you can zoom in. This is taking a look at Atlanta.
+
+00:01:35.000 --> 00:01:37.000
+You can see this is a major shipping airport,
+
+00:01:37.000 --> 00:01:39.000
+and there's all kinds of activity there.
+
+00:01:39.000 --> 00:01:42.000
+You can also toggle between altitude
+
+00:01:42.000 --> 00:01:44.000
+for model and manufacturer.
+
+00:01:44.000 --> 00:01:46.000
+See again, the diversity.
+
+00:01:46.000 --> 00:01:48.000
+And you can scroll around and see
+
+00:01:48.000 --> 00:01:51.000
+some of the different airports and the different patterns that they have.
+
+00:01:51.000 --> 00:01:53.000
+This is scrolling up the East coast.
+
+00:01:53.000 --> 00:01:55.000
+You can see some of the chaos that's happening in New York
+
+00:01:55.000 --> 00:01:57.000
+with the air traffic controllers
+
+00:01:57.000 --> 00:02:01.000
+having to deal with all those major airports next to each other.
+
+00:02:02.000 --> 00:02:04.000
+So zooming back out real quick,
+
+00:02:04.000 --> 00:02:07.000
+we see, again, the U.S. -- you get Florida down in the right-hand corner.
+
+00:02:07.000 --> 00:02:09.000
+Moving across to the West coast,
+
+00:02:09.000 --> 00:02:11.000
+you see San Francisco and Los Angeles --
+
+00:02:11.000 --> 00:02:13.000
+big low-traffic zones
+
+00:02:13.000 --> 00:02:15.000
+across Nevada and Arizona.
+
+00:02:15.000 --> 00:02:19.000
+And that's us down there in L.A. and Long Beach on the bottom.
+
+00:02:21.000 --> 00:02:23.000
+I started taking a look as well at different perimeters,
+
+00:02:23.000 --> 00:02:25.000
+because you can choose what you want to pull out from the data.
+
+00:02:25.000 --> 00:02:28.000
+This is looking at ascending versus descending flights.
+
+00:02:28.000 --> 00:02:30.000
+And you can see, over time, the ways the airports change.
+
+00:02:30.000 --> 00:02:32.000
+You see the holding patterns that start to develop
+
+00:02:32.000 --> 00:02:34.000
+in the bottom of the screen.
+
+00:02:34.000 --> 00:02:37.000
+And you can see, eventually the airport actually flips directions.
+
+00:02:38.000 --> 00:02:41.000
+So this is another project that I worked on with the Sensible Cities Lab at MIT.
+
+00:02:41.000 --> 00:02:43.000
+This is visualizing international communications.
+
+00:02:43.000 --> 00:02:45.000
+So it's how New York communicates
+
+00:02:45.000 --> 00:02:47.000
+with other international cities.
+
+00:02:47.000 --> 00:02:50.000
+And we set this up as a live globe in the Museum of Modern Art in New York
+
+00:02:50.000 --> 00:02:52.000
+for the Design the Elastic Mind exhibition.
+
+00:02:52.000 --> 00:02:54.000
+And it had a live feed with a 24-hour offset,
+
+00:02:54.000 --> 00:02:56.000
+so you could see the changing relationship
+
+00:02:56.000 --> 00:02:58.000
+and some demographic info
+
+00:02:58.000 --> 00:03:01.000
+coming through AT&amp;T's data and revealing itself.
+
+00:03:01.000 --> 00:03:03.000
+This is another project I worked on with Sensible Cities Lab
+
+00:03:03.000 --> 00:03:05.000
+and CurrentCity.org.
+
+00:03:05.000 --> 00:03:08.000
+And it's visualizing SMS messages being sent in the city of Amsterdam.
+
+00:03:08.000 --> 00:03:10.000
+So you're seeing the daily ebb and flow
+
+00:03:10.000 --> 00:03:12.000
+of people sending SMS messages from different parts of the city,
+
+00:03:12.000 --> 00:03:15.000
+until we approach New Year's Eve, where everybody says, "Happy New Year!"
+
+00:03:15.000 --> 00:03:17.000
+(Laughter)
+
+00:03:17.000 --> 00:03:19.000
+So this is an interactive tool
+
+00:03:19.000 --> 00:03:22.000
+that you can move around and see different parts of the city.
+
+00:03:22.000 --> 00:03:25.000
+This is looking at another event. This is called Queen's Day.
+
+00:03:25.000 --> 00:03:27.000
+So again, you get this daily ebb and flow
+
+00:03:27.000 --> 00:03:30.000
+of people sending SMS messages from different parts of the city.
+
+00:03:30.000 --> 00:03:32.000
+And then you're going to see people start to gather in the center of the city
+
+00:03:32.000 --> 00:03:34.000
+to celebrate the night before,
+
+00:03:34.000 --> 00:03:36.000
+which happens right here.
+
+00:03:36.000 --> 00:03:38.000
+And then you can see people celebrating the next day.
+
+00:03:38.000 --> 00:03:41.000
+And you can pause it and step back and forth and see different phases.
+
+00:03:41.000 --> 00:03:43.000
+So now on to something completely different.
+
+00:03:43.000 --> 00:03:45.000
+Some of you may recognize this.
+
+00:03:45.000 --> 00:03:48.000
+This is Baron Wolfgang von Kempelen's mechanical chess playing machine.
+
+00:03:48.000 --> 00:03:50.000
+And it's this amazing robot that plays chess extremely well,
+
+00:03:50.000 --> 00:03:53.000
+except for one thing: it's not a robot at all.
+
+00:03:53.000 --> 00:03:55.000
+There's actually a legless man that sits in that box
+
+00:03:55.000 --> 00:03:57.000
+and controls this chess player.
+
+00:03:57.000 --> 00:03:59.000
+This was the inspiration for a web service by Amazon
+
+00:03:59.000 --> 00:04:02.000
+called the Mechanical Turk -- named after this guy.
+
+00:04:02.000 --> 00:04:04.000
+And it's based on the premise that there are certain things
+
+00:04:04.000 --> 00:04:06.000
+that are easy for people, but really difficult for computers.
+
+00:04:06.000 --> 00:04:08.000
+So they made this web service and said,
+
+00:04:08.000 --> 00:04:10.000
+"Any programmer can write a piece of software
+
+00:04:10.000 --> 00:04:12.000
+and tap into the minds of thousands of people."
+
+00:04:12.000 --> 00:04:14.000
+The nerdy side of me thought, "Wow, this is amazing.
+
+00:04:14.000 --> 00:04:16.000
+I can tap into thousands of people's minds."
+
+00:04:16.000 --> 00:04:18.000
+And the other nerdy side of me thought,
+
+00:04:18.000 --> 00:04:21.000
+"This is horrible. This is completely bizarre.
+
+00:04:21.000 --> 00:04:23.000
+What does this mean for the future of mankind,
+
+00:04:23.000 --> 00:04:25.000
+where we're all plugged into this borg?"
+
+00:04:25.000 --> 00:04:27.000
+I was probably being a little extreme.
+
+00:04:27.000 --> 00:04:29.000
+But what does this mean when we have no context for what it is that we're working on,
+
+00:04:29.000 --> 00:04:31.000
+and we're just doing these little labors?
+
+00:04:31.000 --> 00:04:33.000
+So I created this drawing tool.
+
+00:04:33.000 --> 00:04:35.000
+I asked people to draw a sheep facing to the left.
+
+00:04:35.000 --> 00:04:37.000
+And I said, "I'll pay you two cents for your contribution."
+
+00:04:37.000 --> 00:04:40.000
+And I started collecting sheep.
+
+00:04:40.000 --> 00:04:43.000
+And I collected a lot, a lot of different sheep.
+
+00:04:44.000 --> 00:04:46.000
+Lots of sheep.
+
+00:04:46.000 --> 00:04:48.000
+I took the first 10,000 sheep that I collected,
+
+00:04:48.000 --> 00:04:51.000
+and I put them on a website called TheSheepMarket.com
+
+00:04:51.000 --> 00:04:54.000
+where you can actually buy collections of 20 sheep.
+
+00:04:54.000 --> 00:04:56.000
+You can't pick individual sheep,
+
+00:04:56.000 --> 00:05:00.000
+but you can buy a single plate block of stamps as a commodity.
+
+00:05:00.000 --> 00:05:02.000
+And juxtaposed against this grid,
+
+00:05:02.000 --> 00:05:04.000
+you see actually, by rolling over each individual one,
+
+00:05:04.000 --> 00:05:07.000
+the humanity behind this hugely mechanical process.
+
+00:05:07.000 --> 00:05:09.000
+I think there's something really interesting
+
+00:05:09.000 --> 00:05:12.000
+to watching people as they go through this creative toil --
+
+00:05:12.000 --> 00:05:14.000
+something we can all relate to,
+
+00:05:14.000 --> 00:05:17.000
+this creative process of trying to come up with something from nothing.
+
+00:05:17.000 --> 00:05:19.000
+I think it was really interesting to juxtapose this humanity
+
+00:05:19.000 --> 00:05:21.000
+versus this massive distributed grid.
+
+00:05:21.000 --> 00:05:24.000
+Kind of amazing what some people did.
+
+00:05:24.000 --> 00:05:26.000
+So here's a few statistics from the project.
+
+00:05:26.000 --> 00:05:28.000
+Approximate collection rate of 11 sheep per hour,
+
+00:05:28.000 --> 00:05:31.000
+which would make a working wage of 69 cents per hour.
+
+00:05:31.000 --> 00:05:33.000
+There were 662 rejected sheep
+
+00:05:33.000 --> 00:05:36.000
+that didn't meet "sheep-like" criteria and were thrown out of the flock.
+
+00:05:36.000 --> 00:05:38.000
+(Laughter)
+
+00:05:38.000 --> 00:05:41.000
+The amount of time spent drawing ranged from four seconds to 46 minutes.
+
+00:05:41.000 --> 00:05:44.000
+That gives you an idea of the different types of motivations and dedication.
+
+00:05:44.000 --> 00:05:47.000
+And there were 7,599 people that contributed to the project,
+
+00:05:47.000 --> 00:05:49.000
+or were unique IP addresses --
+
+00:05:49.000 --> 00:05:51.000
+so about how many people contributed.
+
+00:05:51.000 --> 00:05:55.000
+But only one of them out of the 7,599 said this.
+
+00:05:55.000 --> 00:05:59.000
+(Laughter)
+
+00:05:59.000 --> 00:06:01.000
+Which I was pretty surprised by.
+
+00:06:01.000 --> 00:06:04.000
+I expected people to be wondering, "Why did I draw a sheep?"
+
+00:06:04.000 --> 00:06:06.000
+And I think it's a pretty valid question.
+
+00:06:06.000 --> 00:06:08.000
+And there's a lot of reasons why I chose sheep.
+
+00:06:08.000 --> 00:06:10.000
+Sheep were the first animal
+
+00:06:10.000 --> 00:06:12.000
+to be raised from mechanically processed byproducts,
+
+00:06:12.000 --> 00:06:14.000
+the first to be selectively bred for production traits,
+
+00:06:14.000 --> 00:06:16.000
+the first animal to be cloned.
+
+00:06:16.000 --> 00:06:18.000
+Obviously, we think of sheep as followers.
+
+00:06:18.000 --> 00:06:20.000
+And there's this reference to "Le Petit Prince"
+
+00:06:20.000 --> 00:06:22.000
+where the narrator asks the prince to draw a sheep.
+
+00:06:22.000 --> 00:06:24.000
+He draws sheep after sheep.
+
+00:06:24.000 --> 00:06:26.000
+The narrator's only appeased when he draws a box.
+
+00:06:26.000 --> 00:06:28.000
+And he says, "It's not about a scientific rendering of a sheep.
+
+00:06:28.000 --> 00:06:31.000
+It's about your own interpretation and doing something different."
+
+00:06:31.000 --> 00:06:33.000
+And I like that.
+
+00:06:33.000 --> 00:06:35.000
+So this is a clip from Charlie Chaplin's "Modern Times."
+
+00:06:35.000 --> 00:06:38.000
+It's showing Charlie Chaplin dealing with some of the major changes
+
+00:06:38.000 --> 00:06:40.000
+during the Industrial Revolution.
+
+00:06:40.000 --> 00:06:42.000
+So there were no longer shoe makers,
+
+00:06:42.000 --> 00:06:44.000
+but now there are people slapping soles on people's shoes.
+
+00:06:44.000 --> 00:06:47.000
+And the whole idea of one's relationship to their work changed a lot.
+
+00:06:47.000 --> 00:06:49.000
+So I thought this was an interesting clip
+
+00:06:49.000 --> 00:06:51.000
+to divide into 16 pieces
+
+00:06:51.000 --> 00:06:54.000
+and feed into the Mechanical Turk with a drawing tool.
+
+00:06:54.000 --> 00:06:57.000
+This basically allowed -- what you see on the left side is the original frame,
+
+00:06:57.000 --> 00:06:59.000
+and on the right side you see that frame
+
+00:06:59.000 --> 00:07:01.000
+as interpreted by 16 people
+
+00:07:01.000 --> 00:07:03.000
+who have no idea what it is they're doing.
+
+00:07:03.000 --> 00:07:05.000
+And this was the inspiration for a project
+
+00:07:05.000 --> 00:07:07.000
+that I worked on with my friend Takashi Kawashima.
+
+00:07:07.000 --> 00:07:09.000
+We decided to use the Mechanical Turk for exactly what it was meant for,
+
+00:07:09.000 --> 00:07:11.000
+which is making money.
+
+00:07:11.000 --> 00:07:14.000
+So we took a hundred dollar bill and divided it into 10,000 teeny pieces,
+
+00:07:14.000 --> 00:07:16.000
+and we fed those into the Mechanical Turk.
+
+00:07:16.000 --> 00:07:18.000
+We asked people to draw what it was that they saw.
+
+00:07:18.000 --> 00:07:20.000
+But here there was no sheep-like criteria.
+
+00:07:20.000 --> 00:07:23.000
+People, if they drew a stick figure or a smiley face,
+
+00:07:23.000 --> 00:07:25.000
+it actually made it into the bill.
+
+00:07:25.000 --> 00:07:27.000
+So what you see is actually a representation of how well people did
+
+00:07:27.000 --> 00:07:29.000
+what it was they were asked to do.
+
+00:07:29.000 --> 00:07:31.000
+So we took these hundred dollar bills,
+
+00:07:31.000 --> 00:07:33.000
+and we put them on a website called TenThousandsCents.com,
+
+00:07:33.000 --> 00:07:36.000
+where you can browse through and see all the individual contributions.
+
+00:07:36.000 --> 00:07:39.000
+And you can also trade real hundred-dollar bills for fake hundred-dollar bills
+
+00:07:39.000 --> 00:07:42.000
+and make a donation to the Hundred Dollar Laptop Project,
+
+00:07:42.000 --> 00:07:45.000
+which is now known as One Laptop Per Child.
+
+00:07:45.000 --> 00:07:47.000
+This is again showing all the different contributions.
+
+00:07:47.000 --> 00:07:49.000
+You see some people did beautiful stipple renderings,
+
+00:07:49.000 --> 00:07:51.000
+like this one on top --
+
+00:07:51.000 --> 00:07:54.000
+spent a long time making realistic versions.
+
+00:07:54.000 --> 00:07:57.000
+And other people would draw stick figures or smiley faces.
+
+00:07:57.000 --> 00:07:59.000
+Here on the right-hand side in the middle
+
+00:07:59.000 --> 00:08:02.000
+you see this one guy writing, "$0.01!!! Really?"
+
+00:08:02.000 --> 00:08:06.000
+That's all I'm getting paid for this?
+
+00:08:06.000 --> 00:08:08.000
+(Laughter)
+
+00:08:08.000 --> 00:08:10.000
+So the last Mechanical Turk project I'm going to talk to you about
+
+00:08:10.000 --> 00:08:12.000
+is called Bicycle Built for 2000.
+
+00:08:12.000 --> 00:08:14.000
+This is a collaboration with my friend Daniel Massey.
+
+00:08:14.000 --> 00:08:16.000
+You may recognize these two guys.
+
+00:08:16.000 --> 00:08:19.000
+This is Max Mathews and John Kelly from Bell Labs in the '60s,
+
+00:08:19.000 --> 00:08:21.000
+where they created the song "Daisy Bell,"
+
+00:08:21.000 --> 00:08:23.000
+which was the world's first singing computer.
+
+00:08:23.000 --> 00:08:25.000
+You may recognize it from "2001: A Space Odyssey."
+
+00:08:25.000 --> 00:08:28.000
+When HAL's dying at the end of the film he starts singing this song,
+
+00:08:28.000 --> 00:08:31.000
+as a reference to when computers became human.
+
+00:08:31.000 --> 00:08:33.000
+So we resynthesized this song.
+
+00:08:33.000 --> 00:08:35.000
+This is what that sounded like.
+
+00:08:35.000 --> 00:08:37.000
+We broke down all the individual notes
+
+00:08:37.000 --> 00:08:40.000
+in the singing as well as the phonemes in the singing.
+
+00:08:40.000 --> 00:08:44.000
+Daisy Bell: ♫ Daisy, Daisy ... ♫
+
+00:08:44.000 --> 00:08:46.000
+Aaron Koblin: And we took all of those individual pieces,
+
+00:08:46.000 --> 00:08:48.000
+and we fed them into another Turk request.
+
+00:08:48.000 --> 00:08:50.000
+This is what it would look like if you went to the site.
+
+00:08:50.000 --> 00:08:52.000
+You type in your code,
+
+00:08:52.000 --> 00:08:54.000
+but you first test your mic.
+
+00:08:54.000 --> 00:08:56.000
+You'd be fed a simple audio clip.
+
+00:08:56.000 --> 00:08:58.000
+(Honk)
+
+00:08:58.000 --> 00:09:01.000
+And then you'd do your best to recreate that with your own voice.
+
+00:09:07.000 --> 00:09:10.000
+After previewing it and confirming it's what you submitted,
+
+00:09:10.000 --> 00:09:13.000
+you could submit it into the Mechanical Turk with no other context.
+
+00:09:13.000 --> 00:09:16.000
+And this is what we first got back from the very first set of submissions.
+
+00:09:16.000 --> 00:09:21.000
+Recording: ♫ Daisy, Daisy ♫
+
+00:09:21.000 --> 00:09:26.000
+♫ give me your answer do ♫
+
+00:09:26.000 --> 00:09:30.000
+♫ I'm half crazy ♫
+
+00:09:30.000 --> 00:09:35.000
+♫ all for the love of you ♫
+
+00:09:35.000 --> 00:09:40.000
+♫ It can't be a stylish marriage ♫
+
+00:09:40.000 --> 00:09:44.000
+♫ I can't afford a carriage ♫
+
+00:09:44.000 --> 00:09:49.000
+♫ But you'll look sweet upon the seat ♫
+
+00:09:49.000 --> 00:09:54.000
+♫ of a bicycle built for two ♫
+
+00:09:54.000 --> 00:09:57.000
+AK: So James Surowieki has this idea of the wisdom of crowds,
+
+00:09:57.000 --> 00:10:00.000
+that says that a whole bunch of people are smarter than any individual.
+
+00:10:00.000 --> 00:10:03.000
+We wanted to see how this applies to collaborative, distributed music making,
+
+00:10:03.000 --> 00:10:06.000
+where nobody has any idea what it is they're working on.
+
+00:10:06.000 --> 00:10:08.000
+So if you go to the BicycleBuiltforTwoThousand.com
+
+00:10:08.000 --> 00:10:10.000
+you can actually hear what all this sounds like together.
+
+00:10:10.000 --> 00:10:12.000
+I'm sorry for this.
+
+00:10:12.000 --> 00:10:17.000
+(Noise)
+
+00:10:17.000 --> 00:10:21.000
+Chorus: ♫ Daisy, Daisy ♫
+
+00:10:21.000 --> 00:10:26.000
+♫ Give me your answer do ♫
+
+00:10:26.000 --> 00:10:31.000
+♫ I'm half crazy ♫
+
+00:10:31.000 --> 00:10:35.000
+♫ all for the love of you ♫
+
+00:10:35.000 --> 00:10:40.000
+♫ It can't be a stylish marriage ♫
+
+00:10:40.000 --> 00:10:44.000
+♫ I can't afford a carriage ♫
+
+00:10:44.000 --> 00:10:49.000
+♫ But you'd look sweet upon the seat ♫
+
+00:10:49.000 --> 00:10:55.000
+♫ of a bicycle built for two ♫
+
+00:10:55.000 --> 00:10:58.000
+AK: So stepping back for a quick second,
+
+00:10:58.000 --> 00:11:00.000
+when I was at UCLA going to grad school,
+
+00:11:00.000 --> 00:11:03.000
+I was also working at a place called the Center for Embedded Network Sensing.
+
+00:11:03.000 --> 00:11:06.000
+And I was writing software to visualize laser scanners.
+
+00:11:06.000 --> 00:11:08.000
+So basically motion through 3D space.
+
+00:11:08.000 --> 00:11:10.000
+And this was seen by a director in L.A. named James Frost
+
+00:11:10.000 --> 00:11:12.000
+who said, "Wait a minute.
+
+00:11:12.000 --> 00:11:14.000
+You mean we can shoot a music video without actually using any video?"
+
+00:11:14.000 --> 00:11:16.000
+So we did exactly that.
+
+00:11:16.000 --> 00:11:18.000
+We made a music video for one of my favorite bands, Radiohead.
+
+00:11:18.000 --> 00:11:20.000
+And I think one of my favorite parts of this project
+
+00:11:20.000 --> 00:11:22.000
+was not just shooting a video with lasers,
+
+00:11:22.000 --> 00:11:24.000
+but we also open sourced it,
+
+00:11:24.000 --> 00:11:26.000
+and we made it released as a Google Code project,
+
+00:11:26.000 --> 00:11:28.000
+where people could download a bunch of the data and some source code
+
+00:11:28.000 --> 00:11:30.000
+to build their own versions of it.
+
+00:11:30.000 --> 00:11:32.000
+And people were making some amazing things.
+
+00:11:32.000 --> 00:11:34.000
+This is actually two of my favorites:
+
+00:11:34.000 --> 00:11:36.000
+the pin-board Thom Yorke and a LEGO Thom Yorke.
+
+00:11:36.000 --> 00:11:39.000
+A whole YouTube channel of people submitting really interesting content.
+
+00:11:39.000 --> 00:11:42.000
+More recently, somebody even 3D-printed Thom Yorke's head,
+
+00:11:42.000 --> 00:11:45.000
+which is a little creepy, but pretty cool.
+
+00:11:45.000 --> 00:11:47.000
+So with everybody making so much amazing stuff
+
+00:11:47.000 --> 00:11:50.000
+and actually understanding what it was they were working on,
+
+00:11:50.000 --> 00:11:52.000
+I was really interested in trying to make a collaborative project
+
+00:11:52.000 --> 00:11:54.000
+where people were working together to build something.
+
+00:11:54.000 --> 00:11:56.000
+And I met a music video director named Chris Milk.
+
+00:11:56.000 --> 00:11:58.000
+And we started bouncing around ideas
+
+00:11:58.000 --> 00:12:00.000
+to make a collaborative music video project.
+
+00:12:00.000 --> 00:12:02.000
+But we knew we really needed the right person
+
+00:12:02.000 --> 00:12:05.000
+to kind of rally behind and build something for.
+
+00:12:05.000 --> 00:12:07.000
+So we put the idea on the back burner for a few months.
+
+00:12:07.000 --> 00:12:09.000
+And he ended up talking to Rick Rubin,
+
+00:12:09.000 --> 00:12:11.000
+who was finishing up Johnny Cash's final album
+
+00:12:11.000 --> 00:12:13.000
+called "Ain't No Grave."
+
+00:12:13.000 --> 00:12:16.000
+The lyrics to the leading track are "Ain't no grave can hold my body down."
+
+00:12:16.000 --> 00:12:18.000
+So we thought this was the perfect
+
+00:12:18.000 --> 00:12:20.000
+project to build a collaborative memorial
+
+00:12:20.000 --> 00:12:22.000
+and a virtual resurrection for Johnny Cash.
+
+00:12:22.000 --> 00:12:25.000
+So I teamed up with my good friend Ricardo Cabello, also known as Mr. doob,
+
+00:12:25.000 --> 00:12:27.000
+who's a much better programmer than I am,
+
+00:12:27.000 --> 00:12:29.000
+and he made this amazing Flash drawing tool.
+
+00:12:29.000 --> 00:12:31.000
+As you know,
+
+00:12:31.000 --> 00:12:33.000
+an animation is a series of images.
+
+00:12:33.000 --> 00:12:36.000
+So what we did was cross-cut a bunch of archival footage of Johnny Cash,
+
+00:12:36.000 --> 00:12:38.000
+and at eight frames a second,
+
+00:12:38.000 --> 00:12:40.000
+we allowed individuals to draw a single frame
+
+00:12:40.000 --> 00:12:42.000
+that would get woven into
+
+00:12:42.000 --> 00:12:44.000
+this dynamically changing music video.
+
+00:12:44.000 --> 00:12:46.000
+So I don't have time to play the entire thing for you,
+
+00:12:46.000 --> 00:12:48.000
+but I want to show you two short clips.
+
+00:12:48.000 --> 00:12:50.000
+One is the beginning of the music video.
+
+00:12:50.000 --> 00:12:52.000
+And that's going to be followed by a short clip
+
+00:12:52.000 --> 00:12:54.000
+of people who have already contributed to the project
+
+00:12:54.000 --> 00:12:57.000
+talking about it briefly.
+
+00:12:57.000 --> 00:13:03.000
+(Music)
+
+00:13:03.000 --> 00:13:05.000
+(Video) Johnny Cash: ♫ There ain't no grave ♫
+
+00:13:05.000 --> 00:13:09.000
+♫ can hold my body down ♫
+
+00:13:09.000 --> 00:13:11.000
+♫ There ain't no grave ♫
+
+00:13:11.000 --> 00:13:14.000
+♫ can hold body down ♫
+
+00:13:15.000 --> 00:13:19.000
+♫ When I hear the trumpet sound ♫
+
+00:13:19.000 --> 00:13:21.000
+♫ I'm going to ride right out of the ground ♫
+
+00:13:21.000 --> 00:13:24.000
+♫ Ain't no grave ♫
+
+00:13:24.000 --> 00:13:27.000
+♫ can hold my body ... ♫
+
+00:13:27.000 --> 00:13:29.000
+(Applause)
+
+00:13:29.000 --> 00:13:32.000
+AK: What better way to pay tribute to the man
+
+00:13:32.000 --> 00:13:35.000
+than to make something for one of his songs.
+
+00:13:35.000 --> 00:13:37.000
+Collaborator: I felt really sad when he died.
+
+00:13:37.000 --> 00:13:39.000
+And I just thought it'd be wonderful,
+
+00:13:39.000 --> 00:13:42.000
+it'd be really nice to contribute something to his memory.
+
+00:13:42.000 --> 00:13:44.000
+Collaborator Two: It really allows
+
+00:13:44.000 --> 00:13:47.000
+this last recording of his
+
+00:13:47.000 --> 00:13:52.000
+to be a living, breathing memorial.
+
+00:13:52.000 --> 00:13:55.000
+Collaborator Three: For all of the frames to be drawn by fans,
+
+00:13:55.000 --> 00:13:57.000
+each individual frame,
+
+00:13:57.000 --> 00:13:59.000
+it's got a very powerful feeling to it.
+
+00:13:59.000 --> 00:14:01.000
+Collaborator Four: I've seen everybody
+
+00:14:01.000 --> 00:14:03.000
+from Japan, Venezuela, to the States,
+
+00:14:03.000 --> 00:14:05.000
+to Knoxville, Tennessee.
+
+00:14:05.000 --> 00:14:08.000
+Collaborator Five: As much as is different from frame to frame,
+
+00:14:08.000 --> 00:14:10.000
+it really is personal.
+
+00:14:10.000 --> 00:14:12.000
+Collaborator Six: Watching the video in my room,
+
+00:14:12.000 --> 00:14:15.000
+I could see me not understanding at the beginning of it.
+
+00:14:15.000 --> 00:14:18.000
+And I just worked and worked through problems,
+
+00:14:18.000 --> 00:14:22.000
+until my little wee battles that I was fighting within the picture
+
+00:14:22.000 --> 00:14:25.000
+all began to resolve themselves.
+
+00:14:25.000 --> 00:14:27.000
+You can actually see the point when I know what I'm doing,
+
+00:14:27.000 --> 00:14:30.000
+and a lot of light and dark comes into it.
+
+00:14:30.000 --> 00:14:32.000
+And in a weird way,
+
+00:14:32.000 --> 00:14:34.000
+that's what I actually like about Johnny Cash's music as well.
+
+00:14:34.000 --> 00:14:36.000
+It's the sum total of his life,
+
+00:14:36.000 --> 00:14:38.000
+all the things that had happened --
+
+00:14:38.000 --> 00:14:40.000
+the bad things, the good things.
+
+00:14:40.000 --> 00:14:43.000
+You're hearing a person's life.
+
+00:14:46.000 --> 00:14:48.000
+AK: So if you go to the website JohnnyCashProject.com,
+
+00:14:48.000 --> 00:14:50.000
+what you'll see is the video playing above.
+
+00:14:50.000 --> 00:14:52.000
+And below it are all the individual frames
+
+00:14:52.000 --> 00:14:54.000
+that people have been submitting to the project.
+
+00:14:54.000 --> 00:14:56.000
+So this isn't finished at all,
+
+00:14:56.000 --> 00:14:58.000
+but it's an ongoing project where people can continue to collaborate.
+
+00:14:58.000 --> 00:15:00.000
+If you roll over any one of those individual thumbnails,
+
+00:15:00.000 --> 00:15:02.000
+you can see the person who drew that individual thumbnail
+
+00:15:02.000 --> 00:15:04.000
+and where they were located.
+
+00:15:04.000 --> 00:15:06.000
+And if you find one that you're interested in,
+
+00:15:06.000 --> 00:15:08.000
+you can actually click on it and open up an information panel
+
+00:15:08.000 --> 00:15:10.000
+where you're able to rate that frame,
+
+00:15:10.000 --> 00:15:12.000
+which helps it bubble up to the top.
+
+00:15:12.000 --> 00:15:14.000
+And you can also see the way that it was drawn.
+
+00:15:14.000 --> 00:15:16.000
+Again, you can get the playback and personal contribution.
+
+00:15:16.000 --> 00:15:19.000
+In addition to that, it's listed, the artist's name, the location,
+
+00:15:19.000 --> 00:15:21.000
+how long they spent drawing it.
+
+00:15:21.000 --> 00:15:24.000
+And you can pick a style. So this one was tagged "Abstract."
+
+00:15:24.000 --> 00:15:26.000
+But there's a bunch of different styles.
+
+00:15:26.000 --> 00:15:28.000
+And you can sort the video a number of different ways.
+
+00:15:28.000 --> 00:15:30.000
+You can say, "I want to see the pointillist version
+
+00:15:30.000 --> 00:15:32.000
+or the sketchy version or the realistic version.
+
+00:15:32.000 --> 00:15:34.000
+And then this is, again, the abstract version,
+
+00:15:34.000 --> 00:15:37.000
+which ends up getting a little bit crazy.
+
+00:15:39.000 --> 00:15:42.000
+So the last project I want to talk to you about is another collaboration with Chris Milk.
+
+00:15:42.000 --> 00:15:44.000
+And this is called "The Wilderness Downtown."
+
+00:15:44.000 --> 00:15:47.000
+It's an online music video for the Arcade Fire.
+
+00:15:47.000 --> 00:15:49.000
+Chris and I were really amazed
+
+00:15:49.000 --> 00:15:51.000
+by the potential now with modern web browsers,
+
+00:15:51.000 --> 00:15:53.000
+where you have HTML5 audio and video
+
+00:15:53.000 --> 00:15:56.000
+and the power of JavaScript to render amazingly fast.
+
+00:15:56.000 --> 00:15:59.000
+And we wanted to push the idea of the music video that was meant for the Web
+
+00:15:59.000 --> 00:16:02.000
+beyond the four-by-three or sixteen-by-nine window
+
+00:16:02.000 --> 00:16:05.000
+and try to make it play out and choreograph throughout the screen.
+
+00:16:05.000 --> 00:16:07.000
+But most importantly, I think,
+
+00:16:07.000 --> 00:16:10.000
+we really wanted to make an experience that was unlike the Johnny Cash Project,
+
+00:16:10.000 --> 00:16:13.000
+where you had a small group of people spending a lot of time
+
+00:16:13.000 --> 00:16:15.000
+to contribute something for everyone.
+
+00:16:15.000 --> 00:16:18.000
+What if we had a very low commitment,
+
+00:16:18.000 --> 00:16:21.000
+but delivered something individually unique to each person who contributed?
+
+00:16:21.000 --> 00:16:23.000
+So the project starts off by asking you to enter the address
+
+00:16:23.000 --> 00:16:25.000
+of the home where you grew up.
+
+00:16:25.000 --> 00:16:27.000
+And you type in the address --
+
+00:16:27.000 --> 00:16:29.000
+it actually creates a music video specifically for you,
+
+00:16:29.000 --> 00:16:31.000
+pulling in Google maps and Streetview images
+
+00:16:31.000 --> 00:16:33.000
+into the experience itself.
+
+00:16:33.000 --> 00:16:36.000
+So this should really be seen at home with you typing in your own address,
+
+00:16:36.000 --> 00:16:39.000
+but I'm going to give you a little preview of what you can expect.
+
+00:16:39.000 --> 00:16:43.000
+(Video) Win Butler: ♫ Now our lives are changing fast ♫
+
+00:16:43.000 --> 00:16:47.000
+♫ Now our lives are changing fast ♫
+
+00:16:47.000 --> 00:16:50.000
+♫ Hope that something pure can last ♫
+
+00:16:51.000 --> 00:16:55.000
+♫ Hope that something pure can last ♫
+
+00:16:58.000 --> 00:17:02.000
+♫ Ooh we used to wait ♫
+
+00:17:02.000 --> 00:17:06.000
+♫ Ooh we used to wait ♫
+
+00:17:06.000 --> 00:17:09.000
+♫ Ooh we used to wait ♫
+
+00:17:09.000 --> 00:17:12.000
+♫ Sometimes it never came ♫
+
+00:17:12.000 --> 00:17:16.000
+♫ Sometimes it never came ♫
+
+00:17:16.000 --> 00:17:19.000
+♫ Still moving through the pain ♫
+
+00:17:19.000 --> 00:17:23.000
+♫ We used to wait for it ♫
+
+00:17:23.000 --> 00:17:27.000
+♫ We used to wait for it ♫
+
+00:17:27.000 --> 00:17:31.000
+♫ We used to wait for it ♫
+
+00:17:35.000 --> 00:17:38.000
+AK: So I think, if there's one thing to take away from my talk today,
+
+00:17:38.000 --> 00:17:40.000
+it's that an interface can be a powerful narrative device.
+
+00:17:40.000 --> 00:17:44.000
+And as we collect more and more personally and socially relevant data,
+
+00:17:44.000 --> 00:17:46.000
+we have an opportunity, and maybe even an obligation,
+
+00:17:46.000 --> 00:17:48.000
+to maintain the humanity and tell some amazing stories
+
+00:17:48.000 --> 00:17:50.000
+as we explore and collaborate together.
+
+00:17:50.000 --> 00:17:52.000
+Thanks a lot.
+
+00:17:52.000 --> 00:17:56.000
+(Applause)
+

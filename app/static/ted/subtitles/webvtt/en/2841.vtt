@@ -1,0 +1,614 @@
+WEBVTT
+
+00:00:01.040 --> 00:00:04.791
+I'm here to offer you
+a new way to think about my field,
+
+00:00:04.815 --> 00:00:06.583
+artificial intelligence.
+
+00:00:06.607 --> 00:00:08.621
+I think the purpose of AI
+
+00:00:08.645 --> 00:00:12.079
+is to empower humans
+with machine intelligence.
+
+00:00:13.286 --> 00:00:15.736
+And as machines get smarter,
+
+00:00:15.760 --> 00:00:17.013
+we get smarter.
+
+00:00:17.907 --> 00:00:20.419
+I call this "humanistic AI" --
+
+00:00:20.443 --> 00:00:24.114
+artificial intelligence
+designed to meet human needs
+
+00:00:24.138 --> 00:00:27.069
+by collaborating and augmenting people.
+
+00:00:28.149 --> 00:00:30.059
+Now, today I'm happy to see
+
+00:00:30.083 --> 00:00:32.260
+that the idea of an intelligent assistant
+
+00:00:32.284 --> 00:00:33.753
+is mainstream.
+
+00:00:33.777 --> 00:00:38.837
+It's the well-accepted metaphor
+for the interface between humans and AI.
+
+00:00:39.556 --> 00:00:42.253
+And the one I helped create
+is called Siri.
+
+00:00:42.957 --> 00:00:44.109
+You know Siri.
+
+00:00:44.133 --> 00:00:46.778
+Siri is the thing that knows your intent
+
+00:00:46.802 --> 00:00:48.844
+and helps you do it for you,
+
+00:00:48.868 --> 00:00:50.369
+helps you get things done.
+
+00:00:50.393 --> 00:00:52.867
+But what you might not know
+is that we designed Siri
+
+00:00:53.645 --> 00:00:55.611
+as humanistic AI,
+
+00:00:55.635 --> 00:00:58.806
+to augment people
+with a conversational interface
+
+00:00:58.830 --> 00:01:02.283
+that made it possible for them
+to use mobile computing,
+
+00:01:02.307 --> 00:01:05.591
+regardless of who they were
+and their abilities.
+
+00:01:06.814 --> 00:01:08.391
+Now for most of us,
+
+00:01:08.415 --> 00:01:11.196
+the impact of this technology
+
+00:01:11.220 --> 00:01:13.503
+is to make things
+a little bit easier to use.
+
+00:01:13.916 --> 00:01:16.095
+But for my friend Daniel,
+
+00:01:17.352 --> 00:01:20.523
+the impact of the AI
+in these systems is a life changer.
+
+00:01:21.217 --> 00:01:26.050
+You see, Daniel is a really social guy,
+
+00:01:26.074 --> 00:01:27.833
+and he's blind and quadriplegic,
+
+00:01:28.614 --> 00:01:32.473
+which makes it hard to use those devices
+that we all take for granted.
+
+00:01:32.497 --> 00:01:34.939
+The last time I was at his house,
+his brother said,
+
+00:01:34.963 --> 00:01:36.821
+"Hang on a second, Daniel's not ready.
+
+00:01:36.845 --> 00:01:39.187
+He's on the phone with a woman
+he met online."
+
+00:01:40.250 --> 00:01:42.260
+I'm like, "That's cool, how'd he do it?"
+
+00:01:42.284 --> 00:01:45.778
+Well, Daniel uses Siri
+to manage his own social life --
+
+00:01:46.731 --> 00:01:48.671
+his email, text and phone --
+
+00:01:48.695 --> 00:01:51.171
+without depending on his caregivers.
+
+00:01:52.501 --> 00:01:54.239
+This is kind of interesting, right?
+
+00:01:54.263 --> 00:01:55.580
+The irony here is great.
+
+00:01:55.604 --> 00:01:58.500
+Here's the man whose relationship with AI
+
+00:01:58.524 --> 00:02:01.701
+helps him have relationships
+with genuine human beings.
+
+00:02:02.805 --> 00:02:05.935
+And this is humanistic AI.
+
+00:02:07.404 --> 00:02:09.802
+Another example with
+life-changing consequences
+
+00:02:09.826 --> 00:02:11.083
+is diagnosing cancer.
+
+00:02:12.795 --> 00:02:14.950
+When a doctor suspects cancer,
+
+00:02:14.974 --> 00:02:17.677
+they take a sample
+and send it to a pathologist,
+
+00:02:17.701 --> 00:02:19.653
+who looks at it under a microscope.
+
+00:02:20.145 --> 00:02:22.670
+Now, pathologists look at
+hundreds of slides
+
+00:02:22.694 --> 00:02:25.018
+and millions of cells every day.
+
+00:02:25.630 --> 00:02:27.017
+So to support this task,
+
+00:02:27.041 --> 00:02:30.483
+some researchers made an AI classifier.
+
+00:02:31.548 --> 00:02:36.101
+Now, the classifier says,
+"Is this cancer or is this not cancer?"
+
+00:02:36.125 --> 00:02:37.430
+looking at the pictures.
+
+00:02:38.355 --> 00:02:39.919
+The classifier was pretty good,
+
+00:02:40.967 --> 00:02:42.652
+but not as good as the person,
+
+00:02:43.945 --> 00:02:45.713
+who got it right most of the time.
+
+00:02:46.427 --> 00:02:52.607
+But when they combine the ability
+of the machine and the human together,
+
+00:02:52.631 --> 00:02:55.626
+accuracy went to 99.5 percent.
+
+00:02:57.150 --> 00:03:02.151
+Adding that AI to a partnership
+eliminated 85 percent of the errors
+
+00:03:02.175 --> 00:03:05.861
+that the human pathologist
+would have made working alone.
+
+00:03:06.820 --> 00:03:09.979
+That's a lot of cancer
+that would have otherwise gone untreated.
+
+00:03:11.097 --> 00:03:13.027
+Now, for the curious, it turns out
+
+00:03:13.051 --> 00:03:16.525
+that the human was better
+at rejecting false positives,
+
+00:03:16.549 --> 00:03:20.121
+and the machine was better
+at recognizing those hard-to-spot cases.
+
+00:03:20.145 --> 00:03:23.382
+But the lesson here isn't about
+which agent is better
+
+00:03:23.406 --> 00:03:25.484
+at this image-classification task.
+
+00:03:25.888 --> 00:03:27.727
+Those things are changing every day.
+
+00:03:27.751 --> 00:03:29.319
+The lesson here
+
+00:03:29.343 --> 00:03:32.703
+is that by combining the abilities
+of the human and machine,
+
+00:03:32.727 --> 00:03:37.678
+it created a partnership
+that had superhuman performance.
+
+00:03:38.543 --> 00:03:41.483
+And that is humanistic AI.
+
+00:03:42.787 --> 00:03:44.773
+Now let's look at another example
+
+00:03:44.797 --> 00:03:47.084
+with turbocharging performance.
+
+00:03:47.108 --> 00:03:48.511
+This is design.
+
+00:03:48.535 --> 00:03:50.576
+Now, let's say you're an engineer.
+
+00:03:50.600 --> 00:03:52.717
+You want to design
+a new frame for a drone.
+
+00:03:52.741 --> 00:03:55.805
+You get out your favorite
+software tools, CAD tools,
+
+00:03:55.829 --> 00:04:00.044
+and you enter the form and the materials,
+and then you analyze performance.
+
+00:04:00.068 --> 00:04:01.412
+That gives you one design.
+
+00:04:02.162 --> 00:04:05.839
+If you give those same tools to an AI,
+
+00:04:05.863 --> 00:04:08.987
+it can generate thousands of designs.
+
+00:04:10.193 --> 00:04:12.127
+This video by Autodesk is amazing.
+
+00:04:12.151 --> 00:04:13.451
+This is real stuff.
+
+00:04:14.092 --> 00:04:17.163
+So this transforms how we do design.
+
+00:04:17.187 --> 00:04:18.615
+The human engineer now
+
+00:04:18.639 --> 00:04:21.954
+says what the design should achieve,
+
+00:04:21.978 --> 00:04:23.134
+and the machine says,
+
+00:04:23.158 --> 00:04:24.528
+"Here's the possibilities."
+
+00:04:25.758 --> 00:04:28.698
+Now in her job, the engineer's job
+
+00:04:28.722 --> 00:04:31.822
+is to pick the one that best meets
+the goals of the design,
+
+00:04:31.846 --> 00:04:35.185
+which she knows as a human
+better than anyone else,
+
+00:04:35.209 --> 00:04:37.003
+using human judgment and expertise.
+
+00:04:37.414 --> 00:04:38.994
+In this case, the winning form
+
+00:04:39.018 --> 00:04:41.729
+looks kind of like something
+nature would have designed,
+
+00:04:41.753 --> 00:04:43.868
+minus a few million years of evolution
+
+00:04:43.892 --> 00:04:46.273
+and all that unnecessary fur.
+
+00:04:48.424 --> 00:04:53.096
+Now let's see where this idea
+of humanistic AI might lead us
+
+00:04:53.120 --> 00:04:55.513
+if we follow it into
+the speculative beyond.
+
+00:04:56.118 --> 00:04:59.122
+What's a kind of augmentation
+that we would all like to have?
+
+00:04:59.529 --> 00:05:02.435
+Well, how about cognitive enhancement?
+
+00:05:03.904 --> 00:05:05.383
+Instead of asking,
+
+00:05:05.407 --> 00:05:07.468
+"How smart can we make our machines?"
+
+00:05:07.492 --> 00:05:08.665
+let's ask
+
+00:05:08.689 --> 00:05:11.394
+"How smart can our machines make us?"
+
+00:05:13.105 --> 00:05:14.885
+I mean, take memory for example.
+
+00:05:15.511 --> 00:05:18.457
+Memory is the foundation
+of human intelligence.
+
+00:05:19.767 --> 00:05:22.738
+But human memory is famously flawed.
+
+00:05:23.541 --> 00:05:25.615
+We're great at telling stories,
+
+00:05:25.639 --> 00:05:27.590
+but not getting the details right.
+
+00:05:27.614 --> 00:05:30.820
+And our memories -- they decay over time.
+
+00:05:30.844 --> 00:05:34.076
+I mean, like, where did the '60s go,
+and can I go there, too?
+
+00:05:34.100 --> 00:05:35.567
+(Laughter)
+
+00:05:36.648 --> 00:05:40.952
+But what if you could have a memory
+that was as good as computer memory,
+
+00:05:42.158 --> 00:05:45.017
+and was about your life?
+
+00:05:45.714 --> 00:05:48.503
+What if you could remember
+every person you ever met,
+
+00:05:48.527 --> 00:05:50.473
+how to pronounce their name,
+
+00:05:50.497 --> 00:05:52.589
+their family details,
+their favorite sports,
+
+00:05:52.613 --> 00:05:54.576
+the last conversation you had with them?
+
+00:05:54.600 --> 00:05:57.255
+If you had this memory all your life,
+
+00:05:57.279 --> 00:06:00.577
+you could have the AI look
+at all the interactions
+
+00:06:00.601 --> 00:06:02.018
+you had with people over time
+
+00:06:02.042 --> 00:06:05.835
+and help you reflect on the long arc
+of your relationships.
+
+00:06:06.530 --> 00:06:11.596
+What if you could have the AI read
+everything you've ever read
+
+00:06:11.620 --> 00:06:14.134
+and listen to every song
+you've ever heard?
+
+00:06:15.344 --> 00:06:19.083
+From the tiniest clue,
+it could help you retrieve
+
+00:06:19.107 --> 00:06:21.220
+anything you've ever seen or heard before.
+
+00:06:21.931 --> 00:06:25.181
+Imagine what that would do
+for the ability to make new connections
+
+00:06:25.205 --> 00:06:26.785
+and form new ideas.
+
+00:06:26.809 --> 00:06:28.797
+And what about our bodies?
+
+00:06:29.732 --> 00:06:34.010
+What if we could remember the consequences
+of every food we eat,
+
+00:06:34.034 --> 00:06:35.535
+every pill we take,
+
+00:06:36.485 --> 00:06:38.320
+every all-nighter we pull?
+
+00:06:39.048 --> 00:06:41.758
+We could do our own science
+on our own data
+
+00:06:41.782 --> 00:06:45.642
+about what makes us feel
+good and stay healthy.
+
+00:06:45.666 --> 00:06:48.142
+And imagine how this could revolutionize
+
+00:06:48.166 --> 00:06:50.856
+the way we manage
+allergies and chronic disease.
+
+00:06:52.909 --> 00:06:57.883
+I believe that AI will make
+personal memory enhancement a reality.
+
+00:06:59.122 --> 00:07:01.946
+I can't say when or what
+form factors are involved,
+
+00:07:02.627 --> 00:07:04.590
+but I think it's inevitable,
+
+00:07:05.923 --> 00:07:10.750
+because the very things
+that make AI successful today --
+
+00:07:10.774 --> 00:07:13.267
+the availability of comprehensive data
+
+00:07:13.291 --> 00:07:16.839
+and the ability for machines
+to make sense of that data --
+
+00:07:16.863 --> 00:07:19.922
+can be applied to the data of our lives.
+
+00:07:20.505 --> 00:07:23.992
+And those data are here today,
+available for all of us,
+
+00:07:24.016 --> 00:07:27.884
+because we lead digitally mediated lives,
+
+00:07:28.570 --> 00:07:30.705
+in mobile and online.
+
+00:07:31.833 --> 00:07:35.723
+In my view, a personal memory
+is a private memory.
+
+00:07:35.747 --> 00:07:39.684
+We get to choose what is and is not
+recalled and retained.
+
+00:07:40.517 --> 00:07:44.181
+It's absolutely essential
+that this be kept very secure.
+
+00:07:45.294 --> 00:07:46.756
+Now for most of us,
+
+00:07:46.780 --> 00:07:49.673
+the impact of augmented personal memory
+
+00:07:49.697 --> 00:07:52.432
+will be a more improved mental gain,
+
+00:07:52.456 --> 00:07:54.911
+maybe, hopefully, a bit more social grace.
+
+00:07:56.658 --> 00:08:01.305
+But for the millions who suffer
+from Alzheimer's and dementia,
+
+00:08:03.209 --> 00:08:05.412
+the difference that augmented
+memory could make
+
+00:08:05.436 --> 00:08:07.897
+is a difference
+between a life of isolation
+
+00:08:09.016 --> 00:08:10.795
+and a life of dignity and connection.
+
+00:08:12.166 --> 00:08:17.813
+We are in the middle of a renaissance
+in artificial intelligence right now.
+
+00:08:18.652 --> 00:08:20.623
+I mean, in just the past few years,
+
+00:08:20.647 --> 00:08:24.278
+we're beginning to see
+solutions to AI problems
+
+00:08:24.302 --> 00:08:28.272
+that we have struggled
+with literally for decades:
+
+00:08:29.226 --> 00:08:31.893
+speech understanding, text understanding,
+
+00:08:31.917 --> 00:08:33.237
+image understanding.
+
+00:08:34.177 --> 00:08:38.252
+We have a choice in how we use
+this powerful technology.
+
+00:08:39.268 --> 00:08:44.132
+We can choose to use AI
+to automate and compete with us,
+
+00:08:44.156 --> 00:08:48.133
+or we can use AI to augment
+and collaborate with us,
+
+00:08:48.157 --> 00:08:51.228
+to overcome our cognitive limitations
+
+00:08:51.252 --> 00:08:54.414
+and to help us do what we want to do,
+
+00:08:54.438 --> 00:08:55.729
+only better.
+
+00:08:56.339 --> 00:09:02.843
+And as we discover new ways
+to give machines intelligence,
+
+00:09:02.867 --> 00:09:05.936
+we can distribute that intelligence
+
+00:09:05.960 --> 00:09:08.341
+to all of the AI assistants in the world,
+
+00:09:08.365 --> 00:09:11.899
+and therefore to every person,
+regardless of circumstance.
+
+00:09:13.189 --> 00:09:14.718
+And that is why,
+
+00:09:14.742 --> 00:09:17.903
+every time a machine gets smarter,
+
+00:09:18.628 --> 00:09:20.032
+we get smarter.
+
+00:09:21.028 --> 00:09:24.761
+That is an AI worth spreading.
+
+00:09:24.785 --> 00:09:25.967
+Thank you.
+
+00:09:25.991 --> 00:09:29.964
+(Applause)
+

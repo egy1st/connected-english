@@ -1,0 +1,884 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Do you know
+
+00:00:02.000 --> 00:00:05.000
+that we have 1.4 million cellular radio masts
+
+00:00:05.000 --> 00:00:07.000
+deployed worldwide?
+
+00:00:07.000 --> 00:00:09.000
+And these are base stations.
+
+00:00:09.000 --> 00:00:11.000
+And we also have
+
+00:00:11.000 --> 00:00:13.000
+more than five billion
+
+00:00:13.000 --> 00:00:15.000
+of these devices here.
+
+00:00:15.000 --> 00:00:18.000
+These are cellular mobile phones.
+
+00:00:18.000 --> 00:00:20.000
+And with these mobile phones,
+
+00:00:20.000 --> 00:00:22.000
+we transmit more than 600 terabytes of data
+
+00:00:22.000 --> 00:00:24.000
+every month.
+
+00:00:24.000 --> 00:00:26.000
+This is a 6 with 14 zeroes --
+
+00:00:26.000 --> 00:00:28.000
+a very large number.
+
+00:00:28.000 --> 00:00:31.000
+And wireless communications
+
+00:00:31.000 --> 00:00:34.000
+has become a utility
+
+00:00:34.000 --> 00:00:36.000
+like electricity and water.
+
+00:00:36.000 --> 00:00:39.000
+We use it everyday. We use it in our everyday lives now --
+
+00:00:39.000 --> 00:00:41.000
+in our private lives, in our business lives.
+
+00:00:41.000 --> 00:00:45.000
+And we even have to be asked sometimes, very kindly,
+
+00:00:45.000 --> 00:00:47.000
+to switch off the mobile phone at events like this
+
+00:00:47.000 --> 00:00:50.000
+for good reasons.
+
+00:00:50.000 --> 00:00:52.000
+And it's this importance
+
+00:00:52.000 --> 00:00:54.000
+why I decided to look into the issues
+
+00:00:54.000 --> 00:00:56.000
+that this technology has,
+
+00:00:56.000 --> 00:00:59.000
+because it's so fundamental to our lives.
+
+00:00:59.000 --> 00:01:01.000
+And one of the issues is capacity.
+
+00:01:01.000 --> 00:01:04.000
+The way we transmit wireless data is by using electromagnetic waves --
+
+00:01:04.000 --> 00:01:07.000
+in particular, radio waves.
+
+00:01:07.000 --> 00:01:09.000
+And radio waves are limited.
+
+00:01:09.000 --> 00:01:11.000
+They are scarce; they are expensive;
+
+00:01:11.000 --> 00:01:14.000
+and we only have a certain range of it.
+
+00:01:15.000 --> 00:01:17.000
+And it's this limitation
+
+00:01:17.000 --> 00:01:19.000
+that doesn't cope
+
+00:01:19.000 --> 00:01:21.000
+with the demand of wireless data transmissions
+
+00:01:21.000 --> 00:01:24.000
+and the number of bytes and data which are transmitted every month.
+
+00:01:24.000 --> 00:01:26.000
+And we are simply running out of spectrum.
+
+00:01:26.000 --> 00:01:28.000
+There's another problem.
+
+00:01:28.000 --> 00:01:30.000
+That is efficiency.
+
+00:01:30.000 --> 00:01:33.000
+These 1.4 million cellular radio masts, or base stations,
+
+00:01:33.000 --> 00:01:35.000
+consume a lot of energy.
+
+00:01:35.000 --> 00:01:37.000
+And mind you, most of the energy
+
+00:01:37.000 --> 00:01:39.000
+is not used to transmit the radio waves,
+
+00:01:39.000 --> 00:01:42.000
+it is used to cool the base stations.
+
+00:01:42.000 --> 00:01:44.000
+Then the efficiency of such a base station
+
+00:01:44.000 --> 00:01:47.000
+is only at about five percent.
+
+00:01:47.000 --> 00:01:50.000
+And that creates a big problem.
+
+00:01:50.000 --> 00:01:53.000
+Then there's another issue that you're all aware of.
+
+00:01:53.000 --> 00:01:55.000
+You have to switch off your mobile phone
+
+00:01:55.000 --> 00:01:57.000
+during flights.
+
+00:01:57.000 --> 00:02:00.000
+In hospitals, they are security issues.
+
+00:02:00.000 --> 00:02:03.000
+And security is another issue.
+
+00:02:03.000 --> 00:02:05.000
+These radio waves penetrate through walls.
+
+00:02:05.000 --> 00:02:07.000
+They can be intercepted,
+
+00:02:07.000 --> 00:02:10.000
+and somebody can make use of your network
+
+00:02:10.000 --> 00:02:12.000
+if he has bad intentions.
+
+00:02:12.000 --> 00:02:14.000
+So these are the main four issues.
+
+00:02:14.000 --> 00:02:16.000
+But on the other hand,
+
+00:02:16.000 --> 00:02:18.000
+we have 14 billion of these:
+
+00:02:18.000 --> 00:02:21.000
+light bulbs, light.
+
+00:02:21.000 --> 00:02:24.000
+And light is part of the electromagnetic spectrum.
+
+00:02:24.000 --> 00:02:26.000
+So let's look at this in the context
+
+00:02:26.000 --> 00:02:29.000
+of the entire electromagnetic spectrum, where we have gamma rays.
+
+00:02:29.000 --> 00:02:31.000
+You don't want to get close to gamma rays, it could be dangerous.
+
+00:02:31.000 --> 00:02:34.000
+X-rays, useful when you go to hospitals.
+
+00:02:34.000 --> 00:02:36.000
+Then there's ultraviolet light.
+
+00:02:36.000 --> 00:02:38.000
+it's good for a nice suntan,
+
+00:02:38.000 --> 00:02:40.000
+but otherwise dangerous for the human body.
+
+00:02:40.000 --> 00:02:42.000
+Infrared --
+
+00:02:42.000 --> 00:02:44.000
+due to eye safety regulations,
+
+00:02:44.000 --> 00:02:46.000
+can be only used with low power.
+
+00:02:46.000 --> 00:02:49.000
+And then we have the radio waves, they have the issues I've just mentioned.
+
+00:02:49.000 --> 00:02:52.000
+And in the middle there, we have this visible light spectrum.
+
+00:02:52.000 --> 00:02:54.000
+It's light,
+
+00:02:54.000 --> 00:02:56.000
+and light has been around for many millions of years.
+
+00:02:56.000 --> 00:02:59.000
+And in fact, it has created us,
+
+00:02:59.000 --> 00:03:01.000
+has created life,
+
+00:03:01.000 --> 00:03:03.000
+has created all the stuff of life.
+
+00:03:03.000 --> 00:03:06.000
+So it's inherently safe to use.
+
+00:03:06.000 --> 00:03:10.000
+And wouldn't it be great to use that for wireless communications?
+
+00:03:10.000 --> 00:03:13.000
+Not only that, I compared [it to] the entire spectrum.
+
+00:03:13.000 --> 00:03:15.000
+I compared the radio waves spectrum --
+
+00:03:15.000 --> 00:03:17.000
+the size of it --
+
+00:03:17.000 --> 00:03:19.000
+with the size of the visible light spectrum.
+
+00:03:19.000 --> 00:03:21.000
+And guess what?
+
+00:03:21.000 --> 00:03:24.000
+We have 10,000 times more of that spectrum,
+
+00:03:24.000 --> 00:03:27.000
+which is there for us to use.
+
+00:03:27.000 --> 00:03:30.000
+So not only do we have this huge amount of spectrum,
+
+00:03:30.000 --> 00:03:32.000
+let's compare that with a number I've just mentioned.
+
+00:03:32.000 --> 00:03:34.000
+We have 1.4 million
+
+00:03:34.000 --> 00:03:36.000
+expensively deployed,
+
+00:03:36.000 --> 00:03:39.000
+inefficient radio cellular base stations.
+
+00:03:39.000 --> 00:03:41.000
+And multiply that by 10,000,
+
+00:03:41.000 --> 00:03:43.000
+then you end up at 14 billion.
+
+00:03:43.000 --> 00:03:46.000
+14 billion is the number of light bulbs installed already.
+
+00:03:46.000 --> 00:03:48.000
+So we have the infrastructure there.
+
+00:03:48.000 --> 00:03:51.000
+Look at the ceiling, you see all these light bulbs.
+
+00:03:51.000 --> 00:03:53.000
+Go to the main floor, you see these light bulbs.
+
+00:03:53.000 --> 00:03:55.000
+Can we use them for communications?
+
+00:03:55.000 --> 00:03:57.000
+Yes.
+
+00:03:57.000 --> 00:03:59.000
+What do we need to do?
+
+00:03:59.000 --> 00:04:01.000
+The one thing we need to do
+
+00:04:01.000 --> 00:04:04.000
+is we have to replace these inefficient incandescent light bulbs,
+
+00:04:04.000 --> 00:04:07.000
+florescent lights,
+
+00:04:07.000 --> 00:04:09.000
+with this new technology of LED,
+
+00:04:09.000 --> 00:04:11.000
+LED light bulbs.
+
+00:04:11.000 --> 00:04:13.000
+An LED is a semiconductor. It's an electronic device.
+
+00:04:13.000 --> 00:04:17.000
+And it has a very nice acute property.
+
+00:04:17.000 --> 00:04:20.000
+Its intensity can be modulated
+
+00:04:20.000 --> 00:04:22.000
+at very high speeds,
+
+00:04:22.000 --> 00:04:25.000
+and it can be switched off at very high speeds.
+
+00:04:25.000 --> 00:04:27.000
+And this is a fundamental basic property
+
+00:04:27.000 --> 00:04:29.000
+that we exploit
+
+00:04:29.000 --> 00:04:32.000
+with our technology.
+
+00:04:32.000 --> 00:04:34.000
+So let's show how we do that.
+
+00:04:34.000 --> 00:04:36.000
+Let's go to the closest neighbor to the visible light spectrum --
+
+00:04:36.000 --> 00:04:38.000
+go to remote controls.
+
+00:04:38.000 --> 00:04:40.000
+You all know remote controls have an infrared LED --
+
+00:04:40.000 --> 00:04:43.000
+basically you switch on the LED, and if it's off, you switch it off.
+
+00:04:43.000 --> 00:04:46.000
+And it creates a simple, low-speed data stream
+
+00:04:46.000 --> 00:04:48.000
+in 10,000 bits per second,
+
+00:04:48.000 --> 00:04:50.000
+20,000 bits per second.
+
+00:04:50.000 --> 00:04:52.000
+Not usable for a YouTube video.
+
+00:04:52.000 --> 00:04:54.000
+What we have done
+
+00:04:54.000 --> 00:04:57.000
+is we have developed a technology
+
+00:04:57.000 --> 00:05:00.000
+with which we can furthermore
+
+00:05:00.000 --> 00:05:02.000
+replace the remote control of our light bulb.
+
+00:05:02.000 --> 00:05:04.000
+We transmit with our technology,
+
+00:05:04.000 --> 00:05:06.000
+not only a single data stream,
+
+00:05:06.000 --> 00:05:08.000
+we transmit thousands of data streams
+
+00:05:08.000 --> 00:05:10.000
+in parallel,
+
+00:05:10.000 --> 00:05:12.000
+at even higher speeds.
+
+00:05:12.000 --> 00:05:14.000
+And the technology we have developed --
+
+00:05:14.000 --> 00:05:16.000
+it's called SIM OFDM.
+
+00:05:16.000 --> 00:05:18.000
+And it's spacial modulation --
+
+00:05:18.000 --> 00:05:21.000
+these are the only technical terms, I'm not going into details --
+
+00:05:21.000 --> 00:05:23.000
+but this is how we enabled
+
+00:05:23.000 --> 00:05:25.000
+that light source
+
+00:05:25.000 --> 00:05:28.000
+to transmit data.
+
+00:05:28.000 --> 00:05:31.000
+You will say, "Okay, this is nice --
+
+00:05:31.000 --> 00:05:33.000
+a slide created in 10 minutes."
+
+00:05:33.000 --> 00:05:35.000
+But not only that.
+
+00:05:35.000 --> 00:05:37.000
+What we've done
+
+00:05:37.000 --> 00:05:40.000
+is we have also developed a demonstrator.
+
+00:05:40.000 --> 00:05:42.000
+And I'm showing for the first time in public
+
+00:05:42.000 --> 00:05:44.000
+this visible light demonstrator.
+
+00:05:44.000 --> 00:05:46.000
+And what we have here
+
+00:05:46.000 --> 00:05:49.000
+is no ordinary desk lamp.
+
+00:05:49.000 --> 00:05:51.000
+We fit in an LED light bulb,
+
+00:05:51.000 --> 00:05:54.000
+worth three U.S. dollars,
+
+00:05:54.000 --> 00:05:56.000
+put in our signal processing technology.
+
+00:05:56.000 --> 00:05:59.000
+And then what we have here is a little hole.
+
+00:05:59.000 --> 00:06:01.000
+And the light goes through that hole.
+
+00:06:01.000 --> 00:06:03.000
+There's a receiver.
+
+00:06:03.000 --> 00:06:06.000
+The receiver will convert these little, subtle changes in the amplitude
+
+00:06:06.000 --> 00:06:08.000
+that we create there
+
+00:06:08.000 --> 00:06:10.000
+into an electrical signal.
+
+00:06:10.000 --> 00:06:12.000
+And that signal is then converted back
+
+00:06:12.000 --> 00:06:14.000
+to a high-speed data stream.
+
+00:06:14.000 --> 00:06:16.000
+In the future we hope
+
+00:06:16.000 --> 00:06:18.000
+that we can integrate this little hole
+
+00:06:18.000 --> 00:06:21.000
+into these smart phones.
+
+00:06:21.000 --> 00:06:24.000
+And not only integrate a photo detector here,
+
+00:06:24.000 --> 00:06:27.000
+but maybe use the camera inside.
+
+00:06:28.000 --> 00:06:30.000
+So what happens
+
+00:06:30.000 --> 00:06:33.000
+when I switch on that light?
+
+00:06:35.000 --> 00:06:37.000
+As you would expect,
+
+00:06:37.000 --> 00:06:39.000
+it's a light, a desk lamp.
+
+00:06:39.000 --> 00:06:42.000
+Put your book beneath it and you can read.
+
+00:06:42.000 --> 00:06:44.000
+It's illuminating the space.
+
+00:06:44.000 --> 00:06:48.000
+But at the same time, you see this video coming up here.
+
+00:06:48.000 --> 00:06:51.000
+And that's a video, a high-definition video
+
+00:06:51.000 --> 00:06:53.000
+that is transmitted through that light beam.
+
+00:06:53.000 --> 00:06:55.000
+You're critical.
+
+00:06:55.000 --> 00:06:57.000
+You think, "Ha, ha, ha.
+
+00:06:57.000 --> 00:07:00.000
+This is a smart academic doing a little bit of tricks here."
+
+00:07:00.000 --> 00:07:03.000
+But let me do this.
+
+00:07:04.000 --> 00:07:09.000
+(Applause)
+
+00:07:09.000 --> 00:07:12.000
+Once again.
+
+00:07:12.000 --> 00:07:15.000
+Still don't believe?
+
+00:07:15.000 --> 00:07:17.000
+It is this light
+
+00:07:17.000 --> 00:07:20.000
+that transmits this high-definition video in a split stream.
+
+00:07:21.000 --> 00:07:24.000
+And if you look at the light,
+
+00:07:24.000 --> 00:07:26.000
+it is illuminating as you would expect.
+
+00:07:26.000 --> 00:07:28.000
+You don't notice with your human eye.
+
+00:07:28.000 --> 00:07:31.000
+You don't notice the subtle changes in the amplitude
+
+00:07:31.000 --> 00:07:34.000
+that we impress onto this light bulb.
+
+00:07:34.000 --> 00:07:36.000
+It's serving the purpose of illumination,
+
+00:07:36.000 --> 00:07:39.000
+but at the same time, we are able to transmit this data.
+
+00:07:39.000 --> 00:07:41.000
+And you see,
+
+00:07:41.000 --> 00:07:44.000
+even light from the ceiling comes down here to the receiver.
+
+00:07:44.000 --> 00:07:47.000
+It can ignore that constant light,
+
+00:07:47.000 --> 00:07:49.000
+because all the receiver's interested in
+
+00:07:49.000 --> 00:07:52.000
+are subtle changes.
+
+00:07:54.000 --> 00:07:56.000
+You also have a critical question now, and
+
+00:07:56.000 --> 00:07:58.000
+you say, "Okay,
+
+00:07:58.000 --> 00:08:00.000
+do I have to have the light on all the time
+
+00:08:00.000 --> 00:08:02.000
+to have this working?"
+
+00:08:02.000 --> 00:08:04.000
+And the answer is yes.
+
+00:08:04.000 --> 00:08:08.000
+But, you can dim down the light
+
+00:08:08.000 --> 00:08:10.000
+to a level that it appears to be off.
+
+00:08:10.000 --> 00:08:13.000
+And you are still able to transmit data -- that's possible.
+
+00:08:13.000 --> 00:08:16.000
+So I've mentioned to you the four challenges.
+
+00:08:16.000 --> 00:08:18.000
+Capacity:
+
+00:08:18.000 --> 00:08:20.000
+We have 10,000 times more spectrum,
+
+00:08:20.000 --> 00:08:22.000
+10,000 times more LEDs
+
+00:08:22.000 --> 00:08:24.000
+installed already in the infrastructure there.
+
+00:08:24.000 --> 00:08:26.000
+You would agree with me, hopefully,
+
+00:08:26.000 --> 00:08:28.000
+there's no issue of capacity anymore.
+
+00:08:28.000 --> 00:08:30.000
+Efficiency:
+
+00:08:30.000 --> 00:08:32.000
+This is data through illumination --
+
+00:08:32.000 --> 00:08:34.000
+it's first of all an illumination device.
+
+00:08:34.000 --> 00:08:37.000
+And if you do the energy budget,
+
+00:08:37.000 --> 00:08:39.000
+the data transmission comes for free --
+
+00:08:39.000 --> 00:08:41.000
+highly energy efficient.
+
+00:08:41.000 --> 00:08:43.000
+I don't mention the high energy efficiency
+
+00:08:43.000 --> 00:08:45.000
+of these LED light bulbs.
+
+00:08:45.000 --> 00:08:47.000
+If the whole world would deploy them,
+
+00:08:47.000 --> 00:08:50.000
+you would save hundreds of power plants.
+
+00:08:50.000 --> 00:08:52.000
+That's aside.
+
+00:08:52.000 --> 00:08:54.000
+And then I've mentioned the availability.
+
+00:08:54.000 --> 00:08:57.000
+You will agree with me that we have lights in the hospital.
+
+00:08:57.000 --> 00:08:59.000
+You need to see what to do.
+
+00:08:59.000 --> 00:09:01.000
+You have lights in an aircraft.
+
+00:09:01.000 --> 00:09:03.000
+So it's everywhere in a day there is light.
+
+00:09:03.000 --> 00:09:06.000
+Look around. Everywhere. Look at your smart phone.
+
+00:09:06.000 --> 00:09:08.000
+It has a flashlight, an LED flashlight.
+
+00:09:08.000 --> 00:09:12.000
+These are potential sources for high-speed data transmission.
+
+00:09:12.000 --> 00:09:15.000
+And then there's security.
+
+00:09:15.000 --> 00:09:17.000
+You would agree with me
+
+00:09:17.000 --> 00:09:20.000
+that light doesn't penetrate through walls.
+
+00:09:20.000 --> 00:09:22.000
+So no one, if I have a light here,
+
+00:09:22.000 --> 00:09:24.000
+if I have secure data,
+
+00:09:24.000 --> 00:09:26.000
+no one on the other side of this room through that wall
+
+00:09:26.000 --> 00:09:28.000
+would be able to read that data.
+
+00:09:28.000 --> 00:09:31.000
+And there's only data where there is light.
+
+00:09:31.000 --> 00:09:35.000
+So if I don't want that receiver to receive the data,
+
+00:09:35.000 --> 00:09:39.000
+then what I could do,
+
+00:09:39.000 --> 00:09:42.000
+turn it away.
+
+00:09:42.000 --> 00:09:44.000
+So the data goes in that direction, not there anymore.
+
+00:09:44.000 --> 00:09:47.000
+Now we can in fact see where the data is going to.
+
+00:09:50.000 --> 00:09:53.000
+So for me,
+
+00:09:53.000 --> 00:09:56.000
+the applications of it,
+
+00:09:56.000 --> 00:10:00.000
+to me, are beyond imagination at the moment.
+
+00:10:00.000 --> 00:10:04.000
+We have had a century of very nice, smart application developers.
+
+00:10:04.000 --> 00:10:07.000
+And you only have to notice, where we have light,
+
+00:10:07.000 --> 00:10:10.000
+there is a potential way to transmit data.
+
+00:10:10.000 --> 00:10:13.000
+But I can give you a few examples.
+
+00:10:13.000 --> 00:10:16.000
+Well you may see the impact already now.
+
+00:10:17.000 --> 00:10:19.000
+This is a remote operated vehicle
+
+00:10:19.000 --> 00:10:21.000
+beneath the ocean.
+
+00:10:21.000 --> 00:10:24.000
+And they use light to illuminate space down there.
+
+00:10:24.000 --> 00:10:26.000
+And this light can be used to transmit wireless data
+
+00:10:26.000 --> 00:10:29.000
+that these things [use] to communicate with each other.
+
+00:10:29.000 --> 00:10:31.000
+Intrinsically safe environments
+
+00:10:31.000 --> 00:10:33.000
+like this petrochemical plant --
+
+00:10:33.000 --> 00:10:36.000
+you can't use RF, it may generate antenna sparks,
+
+00:10:36.000 --> 00:10:39.000
+but you can use light -- you see plenty of light there.
+
+00:10:39.000 --> 00:10:41.000
+In hospitals,
+
+00:10:41.000 --> 00:10:44.000
+for new medical instruments;
+
+00:10:44.000 --> 00:10:47.000
+in streets for traffic control.
+
+00:10:47.000 --> 00:10:50.000
+Cars have LED-based headlights, LED-based back lights,
+
+00:10:50.000 --> 00:10:52.000
+and cars can communicate with each other
+
+00:10:52.000 --> 00:10:55.000
+and prevent accidents
+
+00:10:55.000 --> 00:10:58.000
+in the way that they exchange information.
+
+00:10:58.000 --> 00:11:01.000
+Traffic lights can communicate to the car and so on.
+
+00:11:01.000 --> 00:11:04.000
+And then you have these millions of street lamps
+
+00:11:04.000 --> 00:11:07.000
+deployed around the world.
+
+00:11:07.000 --> 00:11:09.000
+And every street lamp could be a free access point.
+
+00:11:09.000 --> 00:11:11.000
+We call it, in fact, a Li-Fi,
+
+00:11:11.000 --> 00:11:13.000
+light-fidelity.
+
+00:11:13.000 --> 00:11:17.000
+And then we have these aircraft cabins.
+
+00:11:17.000 --> 00:11:21.000
+There are hundreds of lights in an aircraft cabin,
+
+00:11:21.000 --> 00:11:23.000
+and each of these lights
+
+00:11:23.000 --> 00:11:26.000
+could be a potential transmitter of wireless data.
+
+00:11:26.000 --> 00:11:29.000
+So you could enjoy your most favorite TED video
+
+00:11:29.000 --> 00:11:31.000
+on your long flight back home.
+
+00:11:31.000 --> 00:11:34.000
+Online life. So that is a vision, I think, that is possible.
+
+00:11:40.000 --> 00:11:42.000
+So, all we would need to do
+
+00:11:42.000 --> 00:11:44.000
+is to fit a small microchip
+
+00:11:44.000 --> 00:11:47.000
+to every potential illumination device.
+
+00:11:47.000 --> 00:11:50.000
+And this would then combine
+
+00:11:50.000 --> 00:11:52.000
+two basic functionalities:
+
+00:11:52.000 --> 00:11:54.000
+illumination and wireless data transmission.
+
+00:11:54.000 --> 00:11:57.000
+And it's this symbiosis that I personally believe
+
+00:11:57.000 --> 00:11:59.000
+could solve the four essential problems
+
+00:11:59.000 --> 00:12:02.000
+that face us in wireless communication these days.
+
+00:12:02.000 --> 00:12:04.000
+And in the future,
+
+00:12:04.000 --> 00:12:07.000
+you would not only have 14 billion light bulbs,
+
+00:12:07.000 --> 00:12:10.000
+you may have 14 billion Li-Fis
+
+00:12:10.000 --> 00:12:12.000
+deployed worldwide --
+
+00:12:12.000 --> 00:12:14.000
+for a cleaner, a greener,
+
+00:12:14.000 --> 00:12:16.000
+and even a brighter future.
+
+00:12:16.000 --> 00:12:18.000
+Thank you.
+
+00:12:18.000 --> 00:12:30.000
+(Applause)
+

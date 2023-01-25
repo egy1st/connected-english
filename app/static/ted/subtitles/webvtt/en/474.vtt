@@ -1,0 +1,719 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+Back in 1992, I started working for a company
+
+00:00:02.000 --> 00:00:04.000
+called Interval Research,
+
+00:00:04.000 --> 00:00:06.000
+which was just then being founded
+
+00:00:06.000 --> 00:00:08.000
+by David Lidell and Paul Allen
+
+00:00:08.000 --> 00:00:12.000
+as a for-profit research enterprise in Silicon Valley.
+
+00:00:14.000 --> 00:00:16.000
+I met with David
+
+00:00:16.000 --> 00:00:19.000
+to talk about what I might do in his company.
+
+00:00:19.000 --> 00:00:22.000
+I was just coming out of a failed virtual reality business
+
+00:00:22.000 --> 00:00:24.000
+and supporting myself by being on the speaking circuit
+
+00:00:24.000 --> 00:00:26.000
+and writing books --
+
+00:00:26.000 --> 00:00:29.000
+after twenty years or so in the computer game industry
+
+00:00:29.000 --> 00:00:32.000
+having ideas that people didn't think they could sell.
+
+00:00:33.000 --> 00:00:35.000
+And David and I discovered
+
+00:00:35.000 --> 00:00:37.000
+that we had a question in common,
+
+00:00:37.000 --> 00:00:39.000
+that we really wanted the answer to,
+
+00:00:39.000 --> 00:00:41.000
+and that was,
+
+00:00:41.000 --> 00:00:44.000
+"Why hasn't anybody built any computer games for little girls?"
+
+00:00:44.000 --> 00:00:46.000
+Why is that?
+
+00:00:46.000 --> 00:00:49.000
+It can't just be a giant sexist conspiracy.
+
+00:00:49.000 --> 00:00:52.000
+These people aren't that smart.
+
+00:00:52.000 --> 00:00:55.000
+There's six billion dollars on the table.
+
+00:00:55.000 --> 00:00:58.000
+They would go for it if they could figure out how.
+
+00:00:58.000 --> 00:01:00.000
+So, what is the deal here?
+
+00:01:00.000 --> 00:01:03.000
+And as we thought about our goals --
+
+00:01:03.000 --> 00:01:06.000
+I should say that Interval is really a humanistic institution,
+
+00:01:06.000 --> 00:01:09.000
+in the classical sense
+
+00:01:09.000 --> 00:01:12.000
+that humanism, at its best,
+
+00:01:12.000 --> 00:01:15.000
+finds a way to combine clear-eyed empirical research
+
+00:01:15.000 --> 00:01:18.000
+with a set of core values
+
+00:01:18.000 --> 00:01:21.000
+that fundamentally love and respect people.
+
+00:01:21.000 --> 00:01:24.000
+The basic idea of humanism
+
+00:01:24.000 --> 00:01:27.000
+is the improvable quality of life;
+
+00:01:27.000 --> 00:01:29.000
+that we can do good things,
+
+00:01:29.000 --> 00:01:31.000
+that there are things worth doing
+
+00:01:31.000 --> 00:01:33.000
+because they're good things to do,
+
+00:01:33.000 --> 00:01:35.000
+and that clear-eyed empiricism
+
+00:01:35.000 --> 00:01:38.000
+can help us figure out how to do them.
+
+00:01:38.000 --> 00:01:40.000
+So, contrary to popular belief,
+
+00:01:40.000 --> 00:01:45.000
+there is not a conflict of interest between empiricism and values.
+
+00:01:45.000 --> 00:01:48.000
+And Interval Research is kind of the living example
+
+00:01:48.000 --> 00:01:50.000
+of how that can be true.
+
+00:01:50.000 --> 00:01:52.000
+So David and I decided to go find out,
+
+00:01:52.000 --> 00:01:54.000
+through the best research we could muster,
+
+00:01:54.000 --> 00:01:57.000
+what it would take to get a little girl
+
+00:01:57.000 --> 00:01:59.000
+to put her hands on a computer,
+
+00:01:59.000 --> 00:02:02.000
+to achieve the level of comfort and ease with the technology
+
+00:02:02.000 --> 00:02:05.000
+that little boys have because they play video games.
+
+00:02:05.000 --> 00:02:08.000
+We spent two and a half years conducting research;
+
+00:02:08.000 --> 00:02:12.000
+we spent another year and a half in advance development.
+
+00:02:12.000 --> 00:02:15.000
+Then we formed a spin-off company.
+
+00:02:15.000 --> 00:02:19.000
+In the research phase of the project at Interval,
+
+00:02:19.000 --> 00:02:22.000
+we partnered with a company called Cheskin Research,
+
+00:02:22.000 --> 00:02:26.000
+and these people -- Davis Masten and Christopher Ireland --
+
+00:02:26.000 --> 00:02:29.000
+changed my mind entirely about what market research was
+
+00:02:29.000 --> 00:02:30.000
+and what it could be.
+
+00:02:30.000 --> 00:02:33.000
+They taught me how to look and see,
+
+00:02:33.000 --> 00:02:36.000
+and they did not do the incredibly stupid thing
+
+00:02:36.000 --> 00:02:38.000
+of saying to a child,
+
+00:02:38.000 --> 00:02:40.000
+"Of all these things we already make you,
+
+00:02:40.000 --> 00:02:41.000
+which do you like best?" --
+
+00:02:41.000 --> 00:02:43.000
+which gives you zero answers that are usable.
+
+00:02:43.000 --> 00:02:46.000
+So, what we did for the first two and a half years
+
+00:02:46.000 --> 00:02:48.000
+was four things:
+
+00:02:48.000 --> 00:02:51.000
+We did an extensive review of the literature
+
+00:02:51.000 --> 00:02:53.000
+in related fields, like cognitive psychology,
+
+00:02:53.000 --> 00:02:55.000
+spatial cognition, gender studies,
+
+00:02:55.000 --> 00:02:58.000
+play theory, sociology, primatology.
+
+00:02:58.000 --> 00:03:00.000
+Thank you Frans de Waal, wherever you are,
+
+00:03:00.000 --> 00:03:03.000
+I love you and I'd give anything to meet you.
+
+00:03:03.000 --> 00:03:06.000
+After we had done that with a pretty large team of people
+
+00:03:06.000 --> 00:03:09.000
+and discovered what we thought the salient issues were
+
+00:03:09.000 --> 00:03:12.000
+with girls and boys and playing --
+
+00:03:12.000 --> 00:03:15.000
+because, after all, that's really what this is about --
+
+00:03:15.000 --> 00:03:17.000
+we moved to the second phase of our work,
+
+00:03:17.000 --> 00:03:20.000
+where we interviewed adult experts
+
+00:03:20.000 --> 00:03:22.000
+in academia, some of the people
+
+00:03:22.000 --> 00:03:24.000
+who'd produced the literature that we found relevant.
+
+00:03:24.000 --> 00:03:27.000
+Also, we did focus groups with people who were on the ground with kids every day,
+
+00:03:27.000 --> 00:03:29.000
+like playground supervisors. We talked to them,
+
+00:03:29.000 --> 00:03:32.000
+confirmed some hypotheses and identified some serious questions
+
+00:03:32.000 --> 00:03:34.000
+about gender difference and play.
+
+00:03:34.000 --> 00:03:38.000
+Then we did what I consider to be the heart of the work:
+
+00:03:38.000 --> 00:03:41.000
+interviewed 1,100 children, boys and girls,
+
+00:03:41.000 --> 00:03:44.000
+ages seven to 12, all over the United States --
+
+00:03:44.000 --> 00:03:47.000
+except for Silicon Valley, Boston and Austin
+
+00:03:47.000 --> 00:03:51.000
+because we knew that their little families would have millions of computers in them
+
+00:03:51.000 --> 00:03:53.000
+and they wouldn't be a representative sample.
+
+00:03:54.000 --> 00:03:57.000
+And at the end of those remarkable conversations
+
+00:03:57.000 --> 00:04:00.000
+with kids and their best friends across the United States,
+
+00:04:00.000 --> 00:04:03.000
+after two years, we pulled together some survey data from another 10,000 children,
+
+00:04:03.000 --> 00:04:12.000
+drew up a set up of what we thought were the key findings of our research,
+
+00:04:12.000 --> 00:04:16.000
+and spent another year transforming them into design heuristics,
+
+00:04:16.000 --> 00:04:19.000
+for designing computer-based products --
+
+00:04:19.000 --> 00:04:23.000
+and, in fact, any kind of products -- for little girls, ages eight to 12.
+
+00:04:23.000 --> 00:04:28.000
+And we spent that time designing interactive prototypes for computer software
+
+00:04:28.000 --> 00:04:30.000
+and testing them with little girls.
+
+00:04:30.000 --> 00:04:35.000
+In 1996, in November, we formed the company Purple Moon
+
+00:04:35.000 --> 00:04:37.000
+which was a spinoff of Interval Research,
+
+00:04:37.000 --> 00:04:40.000
+and our chief investors were Interval Research, Vulcan Northwest,
+
+00:04:40.000 --> 00:04:43.000
+Institutional Venture Partners and Allen and Company.
+
+00:04:43.000 --> 00:04:47.000
+We launched a website on September 2nd
+
+00:04:47.000 --> 00:04:49.000
+that has now served 25 million pages,
+
+00:04:49.000 --> 00:04:54.000
+and has 42,000 registered young girl users.
+
+00:04:54.000 --> 00:04:58.000
+They visit an average of one and a half times a day,
+
+00:04:58.000 --> 00:05:01.000
+spend an average of 35 minutes a visit,
+
+00:05:01.000 --> 00:05:03.000
+and look at 50 pages a visit.
+
+00:05:03.000 --> 00:05:08.000
+So we feel that we've formed a successful online community with girls.
+
+00:05:08.000 --> 00:05:10.000
+We launched two titles in October --
+
+00:05:10.000 --> 00:05:12.000
+"Rockett's New School" -- the first of a series
+
+00:05:12.000 --> 00:05:16.000
+of products -- is about a character called Rockett beginning her first day of school
+
+00:05:16.000 --> 00:05:19.000
+in eighth grade at a brand new place, with a blank slate,
+
+00:05:19.000 --> 00:05:25.000
+which allows girls to play with the question of, "What will I be like when I'm older?"
+
+00:05:25.000 --> 00:05:28.000
+"What's it going to be like to be in high school or junior high school?
+
+00:05:28.000 --> 00:05:30.000
+Who are my friends?";
+
+00:05:30.000 --> 00:05:32.000
+to exercise the love of social complexity
+
+00:05:32.000 --> 00:05:36.000
+and the narrative intelligence that drives most of their play behavior;
+
+00:05:36.000 --> 00:05:42.000
+and which embeds in it values about noticing that we have lots of choices
+
+00:05:42.000 --> 00:05:45.000
+in our lives and the ways that we conduct ourselves.
+
+00:05:45.000 --> 00:05:48.000
+The other title that we launched is called "Secret Paths in the Forest,"
+
+00:05:48.000 --> 00:05:51.000
+which addresses the more fantasy-oriented, inner lives of girls.
+
+00:05:51.000 --> 00:05:56.000
+These two titles both showed up in the top 50 entertainment titles in PC Data --
+
+00:05:56.000 --> 00:05:59.000
+entertainment titles in PC Data
+
+00:05:59.000 --> 00:06:03.000
+in December, right up there with "John Madden Football,"
+
+00:06:03.000 --> 00:06:05.000
+which thrills me to death.
+
+00:06:05.000 --> 00:06:07.000
+So, we're real,
+
+00:06:07.000 --> 00:06:11.000
+and we've touched several hundreds of thousands of little girls.
+
+00:06:11.000 --> 00:06:14.000
+We've made half-a-billion impressions
+
+00:06:14.000 --> 00:06:18.000
+with marketing and PR for this brand, Purple Moon.
+
+00:06:18.000 --> 00:06:21.000
+Ninety-six percent of them, roughly, have been positive;
+
+00:06:21.000 --> 00:06:23.000
+four percent of them have been "other."
+
+00:06:23.000 --> 00:06:25.000
+I want to talk about the other,
+
+00:06:25.000 --> 00:06:28.000
+because the politics of this enterprise, in a way,
+
+00:06:28.000 --> 00:06:30.000
+have been the most fascinating part of it, for me.
+
+00:06:30.000 --> 00:06:34.000
+There are really two kinds of negative reviews that we've received.
+
+00:06:34.000 --> 00:06:38.000
+One kind of reviewer is a male gamer
+
+00:06:38.000 --> 00:06:40.000
+who thinks he knows what games ought to be,
+
+00:06:40.000 --> 00:06:42.000
+and won't show the product to little girls.
+
+00:06:43.000 --> 00:06:47.000
+The other kind of reviewer is a certain flavor of feminist
+
+00:06:47.000 --> 00:06:49.000
+who thinks they know what little girls ought to be.
+
+00:06:50.000 --> 00:06:56.000
+And so it's funny to me that these interesting, odd bedfellows
+
+00:06:56.000 --> 00:06:58.000
+have one thing in common:
+
+00:06:58.000 --> 00:07:00.000
+they don't listen to little girls.
+
+00:07:02.000 --> 00:07:05.000
+They haven't looked at children
+
+00:07:05.000 --> 00:07:08.000
+and they're certainly not demonstrating any love for them.
+
+00:07:09.000 --> 00:07:12.000
+I'd like to play you some voices of little girls
+
+00:07:12.000 --> 00:07:14.000
+from the two-and-a-half years of research that we did --
+
+00:07:14.000 --> 00:07:16.000
+actually, some of the voices are more recent.
+
+00:07:16.000 --> 00:07:19.000
+And these voices will be accompanied by photographs
+
+00:07:19.000 --> 00:07:21.000
+that they took for us of their lives,
+
+00:07:21.000 --> 00:07:23.000
+of the things that they value and care about.
+
+00:07:23.000 --> 00:07:26.000
+These are pictures the girls themselves never saw, but they gave to us
+
+00:07:26.000 --> 00:07:31.000
+This is the stuff those reviewers don't know about and aren't listening to
+
+00:07:31.000 --> 00:07:33.000
+and this is the kind of research I recommend to those
+
+00:07:33.000 --> 00:07:35.000
+who want to do humanistic work.
+
+00:07:35.000 --> 00:07:37.000
+Girl 1: Yeah, my character is usually a tomboy.
+
+00:07:37.000 --> 00:07:39.000
+Hers is more into boys.
+
+00:07:39.000 --> 00:07:41.000
+Girl 2: Uh, yeah.
+
+00:07:41.000 --> 00:07:44.000
+Girl 1: We have -- in the very beginning of the whole game, always we do this:
+
+00:07:44.000 --> 00:07:47.000
+we each have a piece of paper; we write down our name, our age --
+
+00:07:47.000 --> 00:07:53.000
+are we rich, very rich, not rich, poor, medium, wealthy,
+
+00:07:53.000 --> 00:08:00.000
+boyfriends, dogs, pets -- what else -- sisters, brothers, and all those.
+
+00:08:00.000 --> 00:08:04.000
+Girl 2: Divorced -- parents divorced, maybe.
+
+00:08:04.000 --> 00:08:07.000
+Girl 3: This is my pretend [unclear] one.
+
+00:08:07.000 --> 00:08:09.000
+Girl 4: We make a school newspaper on the computer.
+
+00:08:09.000 --> 00:08:14.000
+Girl 5: For a girl's game also usually they'll have really pretty scenery
+
+00:08:14.000 --> 00:08:16.000
+with clouds and flowers.
+
+00:08:16.000 --> 00:08:20.000
+Girl 6: Like, if you were a girl and you were really adventurous and a real big tomboy,
+
+00:08:20.000 --> 00:08:24.000
+you would think that girls' games were kinda sissy.
+
+00:08:24.000 --> 00:08:28.000
+Girl 7: I run track, I played soccer,
+
+00:08:28.000 --> 00:08:31.000
+I play basketball, and I love a lot of things to do.
+
+00:08:31.000 --> 00:08:39.000
+And sometimes I feel like I can't really enjoy myself unless it's like a vacation,
+
+00:08:39.000 --> 00:08:43.000
+like when I get Mondays and all those days off.
+
+00:08:43.000 --> 00:08:46.000
+Girl 8: Well, sometimes there is a lot of stuff going on
+
+00:08:46.000 --> 00:08:50.000
+because I have music lessons and I'm on swim team --
+
+00:08:50.000 --> 00:08:53.000
+all this different stuff that I have to do,
+
+00:08:53.000 --> 00:08:56.000
+and sometimes it gets overwhelming.
+
+00:08:56.000 --> 00:09:00.000
+Girl 9: My friend Justine
+
+00:09:00.000 --> 00:09:04.000
+kinda took my friend Kelly, and now they're being mean to me.
+
+00:09:04.000 --> 00:09:07.000
+Girl 10: Well, sometimes it gets annoying when your brothers and sisters,
+
+00:09:07.000 --> 00:09:12.000
+or brother or sister, when they copy you and you get your idea first
+
+00:09:12.000 --> 00:09:18.000
+and they take your idea and they do it themselves.
+
+00:09:18.000 --> 00:09:21.000
+Girl 11: Because my older sister, she gets everything
+
+00:09:21.000 --> 00:09:25.000
+and, like, when I ask my mom for something, she'll say, "No" -- all the time.
+
+00:09:25.000 --> 00:09:27.000
+But she gives my sister everything.
+
+00:09:27.000 --> 00:09:29.000
+Brenda Laurel: I want to show you, real quickly, just a minute
+
+00:09:29.000 --> 00:09:32.000
+of "Rockett's Tricky Decision," which went gold two days ago.
+
+00:09:32.000 --> 00:09:35.000
+Let's hope it's really stable.
+
+00:09:35.000 --> 00:09:38.000
+This is the second day in Rockett's life.
+
+00:09:38.000 --> 00:09:40.000
+The reason I'm showing you this
+
+00:09:40.000 --> 00:09:44.000
+is I'm hoping that the scene that I'm going to show you will look familiar
+
+00:09:44.000 --> 00:09:47.000
+and sound familiar, now that you've listened to some girls' voices.
+
+00:09:47.000 --> 00:09:52.000
+And you can see how we've tried to incorporate the issues that matter to them
+
+00:09:52.000 --> 00:09:54.000
+in the game that we've created.
+
+00:09:57.000 --> 00:09:59.000
+Miko: Hey Rockett! C'mere!
+
+00:09:59.000 --> 00:10:01.000
+Rockett: Hi Miko! What's going on?
+
+00:10:01.000 --> 00:10:04.000
+Miko: Did you hear about Nakilia's big Halloween party this weekend?
+
+00:10:04.000 --> 00:10:06.000
+She asked me to make sure you knew about it.
+
+00:10:06.000 --> 00:10:09.000
+Nakilia invited Reuben too, but --
+
+00:10:09.000 --> 00:10:11.000
+Rockett: But what? Isn't he coming?
+
+00:10:11.000 --> 00:10:13.000
+Miko: I don't think so.
+
+00:10:13.000 --> 00:10:16.000
+I mean, I heard his band is playing at another party the same night.
+
+00:10:16.000 --> 00:10:18.000
+Rockett: Really? What other party?
+
+00:10:20.000 --> 00:10:24.000
+Girl: Max's party is going to be so cool, Whitney.
+
+00:10:24.000 --> 00:10:26.000
+He's invited all the best people.
+
+00:10:26.000 --> 00:10:29.000
+BL: I'm going to fast-forward to the decision point
+
+00:10:29.000 --> 00:10:31.000
+because I know I don't have a lot of time.
+
+00:10:31.000 --> 00:10:35.000
+After this awful event occurs, Rocket gets to decide how she feels about it.
+
+00:10:35.000 --> 00:10:38.000
+Rockett: Who'd want to show up at that party anyway?
+
+00:10:38.000 --> 00:10:41.000
+I could get invited to that party any day if I wanted to.
+
+00:10:42.000 --> 00:10:46.000
+Gee, I doubt I'll make Max's best people list.
+
+00:10:46.000 --> 00:10:48.000
+BL: OK, so we're going to emotionally navigate.
+
+00:10:48.000 --> 00:10:50.000
+If we were playing the game, that's what we'd do.
+
+00:10:50.000 --> 00:10:53.000
+If at any time during the game we want to learn more about the characters,
+
+00:10:53.000 --> 00:10:55.000
+we can go into this hidden hallway,
+
+00:10:55.000 --> 00:10:58.000
+and I'll quickly just show you the interface.
+
+00:10:58.000 --> 00:11:03.000
+We can, for example, go find Miko's locker
+
+00:11:03.000 --> 00:11:06.000
+and get some more information about her.
+
+00:11:06.000 --> 00:11:08.000
+Oops, I turned the wrong way.
+
+00:11:08.000 --> 00:11:10.000
+But you get the general idea of the product.
+
+00:11:10.000 --> 00:11:13.000
+I wanted to show you the ways, innocuous as they seem,
+
+00:11:13.000 --> 00:11:16.000
+in which we're incorporating what we've learned about girls --
+
+00:11:16.000 --> 00:11:20.000
+their desires to experience greater emotional flexibility,
+
+00:11:20.000 --> 00:11:25.000
+and to play around with the social complexity of their lives.
+
+00:11:26.000 --> 00:11:32.000
+I want to make the point that what we're giving girls, I think, through this effort,
+
+00:11:32.000 --> 00:11:35.000
+is a kind of validation,
+
+00:11:35.000 --> 00:11:37.000
+a sense of being seen.
+
+00:11:37.000 --> 00:11:40.000
+And a sense of the choices that are available in their lives.
+
+00:11:40.000 --> 00:11:42.000
+We love them.
+
+00:11:42.000 --> 00:11:44.000
+We see them.
+
+00:11:44.000 --> 00:11:46.000
+We're not trying to tell them who they ought to be.
+
+00:11:46.000 --> 00:11:49.000
+But we're really, really happy about who they are.
+
+00:11:49.000 --> 00:11:51.000
+It turns out they're really great.
+
+00:11:51.000 --> 00:11:55.000
+I want to close by showing you a videotape
+
+00:11:55.000 --> 00:11:59.000
+that's a version of a future game in the Rockett series
+
+00:11:59.000 --> 00:12:03.000
+that our graphic artists and design people put together,
+
+00:12:03.000 --> 00:12:08.000
+that we feel would please that four percent of reviewers.
+
+00:12:38.000 --> 00:12:40.000
+"Rockett 28!"
+
+00:12:45.000 --> 00:12:48.000
+Rockett: It's like I'm just waking up, you know?
+
+00:12:49.000 --> 00:12:51.000
+BL: Thanks.
+

@@ -1,0 +1,869 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+So a couple of years ago I started a program
+
+00:00:03.000 --> 00:00:07.000
+to try to get the rockstar tech and design people
+
+00:00:07.000 --> 00:00:09.000
+to take a year off
+
+00:00:09.000 --> 00:00:11.000
+and work in the one environment
+
+00:00:11.000 --> 00:00:14.000
+that represents pretty much everything they're supposed to hate;
+
+00:00:14.000 --> 00:00:17.000
+we have them work in government.
+
+00:00:17.000 --> 00:00:19.000
+The program is called Code for America,
+
+00:00:19.000 --> 00:00:22.000
+and it's a little bit like a Peace Corps for geeks.
+
+00:00:22.000 --> 00:00:25.000
+We select a few fellows every year
+
+00:00:25.000 --> 00:00:28.000
+and we have them work with city governments.
+
+00:00:28.000 --> 00:00:31.000
+Instead of sending them off into the Third World,
+
+00:00:31.000 --> 00:00:33.000
+we send them into the wilds of City Hall.
+
+00:00:33.000 --> 00:00:36.000
+And there they make great apps, they work with city staffers.
+
+00:00:36.000 --> 00:00:39.000
+But really what they're doing is they're showing what's possible
+
+00:00:39.000 --> 00:00:41.000
+with technology today.
+
+00:00:41.000 --> 00:00:43.000
+So meet Al.
+
+00:00:43.000 --> 00:00:45.000
+Al is a fire hydrant in the city of Boston.
+
+00:00:45.000 --> 00:00:48.000
+Here it kind of looks like he's looking for a date,
+
+00:00:48.000 --> 00:00:51.000
+but what he's really looking for is for someone to shovel him out when he gets snowed in,
+
+00:00:51.000 --> 00:00:53.000
+because he knows he's not very good at fighting fires
+
+00:00:53.000 --> 00:00:56.000
+when he's covered in four feet of snow.
+
+00:00:56.000 --> 00:00:58.000
+Now how did he come to be looking for help
+
+00:00:58.000 --> 00:01:00.000
+in this very unique manner?
+
+00:01:00.000 --> 00:01:02.000
+We had a team of fellows in Boston last year
+
+00:01:02.000 --> 00:01:04.000
+through the Code for America program.
+
+00:01:04.000 --> 00:01:07.000
+They were there in February, and it snowed a lot in February last year.
+
+00:01:07.000 --> 00:01:09.000
+And they noticed that the city never gets
+
+00:01:09.000 --> 00:01:11.000
+to digging out these fire hydrants.
+
+00:01:11.000 --> 00:01:13.000
+But one fellow in particular,
+
+00:01:13.000 --> 00:01:15.000
+a guy named Erik Michaels-Ober,
+
+00:01:15.000 --> 00:01:17.000
+noticed something else,
+
+00:01:17.000 --> 00:01:19.000
+and that's that citizens are shoveling out sidewalks
+
+00:01:19.000 --> 00:01:21.000
+right in front of these things.
+
+00:01:21.000 --> 00:01:23.000
+So he did what any good developer would do,
+
+00:01:23.000 --> 00:01:25.000
+he wrote an app.
+
+00:01:25.000 --> 00:01:27.000
+It's a cute little app where you can adopt a fire hydrant.
+
+00:01:27.000 --> 00:01:29.000
+So you agree to dig it out when it snows.
+
+00:01:29.000 --> 00:01:31.000
+If you do, you get to name it,
+
+00:01:31.000 --> 00:01:33.000
+and he called the first one Al.
+
+00:01:33.000 --> 00:01:35.000
+And if you don't, someone can steal it from you.
+
+00:01:35.000 --> 00:01:38.000
+So it's got cute little game dynamics on it.
+
+00:01:38.000 --> 00:01:40.000
+This is a modest little app.
+
+00:01:40.000 --> 00:01:42.000
+It's probably the smallest
+
+00:01:42.000 --> 00:01:44.000
+of the 21 apps that the fellows wrote last year.
+
+00:01:44.000 --> 00:01:46.000
+But it's doing something
+
+00:01:46.000 --> 00:01:48.000
+that no other government technology does.
+
+00:01:48.000 --> 00:01:51.000
+It's spreading virally.
+
+00:01:51.000 --> 00:01:54.000
+There's a guy in the I.T. department of the City of Honolulu
+
+00:01:54.000 --> 00:01:56.000
+who saw this app and realized
+
+00:01:56.000 --> 00:01:58.000
+that he could use it, not for snow,
+
+00:01:58.000 --> 00:02:02.000
+but to get citizens to adopt tsunami sirens.
+
+00:02:02.000 --> 00:02:04.000
+It's very important that these tsunami sirens work,
+
+00:02:04.000 --> 00:02:06.000
+but people steal the batteries out of them.
+
+00:02:06.000 --> 00:02:08.000
+So he's getting citizens to check on them.
+
+00:02:08.000 --> 00:02:11.000
+And then Seattle decided to use it
+
+00:02:11.000 --> 00:02:14.000
+to get citizens to clear out clogged storm drains.
+
+00:02:14.000 --> 00:02:16.000
+And Chicago just rolled it out
+
+00:02:16.000 --> 00:02:19.000
+to get people to sign up to shovel sidewalks when it snows.
+
+00:02:19.000 --> 00:02:21.000
+So we now know of nine cities
+
+00:02:21.000 --> 00:02:23.000
+that are planning to use this.
+
+00:02:23.000 --> 00:02:25.000
+And this has spread just frictionlessly,
+
+00:02:25.000 --> 00:02:27.000
+organically, naturally.
+
+00:02:27.000 --> 00:02:29.000
+If you know anything about government technology,
+
+00:02:29.000 --> 00:02:33.000
+you know that this isn't how it normally goes.
+
+00:02:33.000 --> 00:02:36.000
+Procuring software usually takes a couple of years.
+
+00:02:36.000 --> 00:02:39.000
+We had a team that worked on a project in Boston last year
+
+00:02:39.000 --> 00:02:42.000
+that took three people about two and a half months.
+
+00:02:42.000 --> 00:02:44.000
+It was a way that parents could figure out
+
+00:02:44.000 --> 00:02:46.000
+which were the right public schools for their kids.
+
+00:02:46.000 --> 00:02:49.000
+We were told afterward that if that had gone through normal channels,
+
+00:02:49.000 --> 00:02:52.000
+it would have taken at least two years
+
+00:02:52.000 --> 00:02:55.000
+and it would have cost about two million dollars.
+
+00:02:55.000 --> 00:02:57.000
+And that's nothing.
+
+00:02:57.000 --> 00:02:59.000
+There is one project in the California court system right now
+
+00:02:59.000 --> 00:03:01.000
+that so far cost taxpayers
+
+00:03:01.000 --> 00:03:03.000
+two billion dollars,
+
+00:03:03.000 --> 00:03:05.000
+and it doesn't work.
+
+00:03:05.000 --> 00:03:07.000
+And there are projects like this
+
+00:03:07.000 --> 00:03:09.000
+at every level of government.
+
+00:03:09.000 --> 00:03:13.000
+So an app that takes a couple of days to write
+
+00:03:13.000 --> 00:03:15.000
+and then spreads virally,
+
+00:03:15.000 --> 00:03:17.000
+that's sort of a shot across the bow
+
+00:03:17.000 --> 00:03:19.000
+to the institution of government.
+
+00:03:19.000 --> 00:03:21.000
+It suggests how government could work better --
+
+00:03:21.000 --> 00:03:23.000
+not more like a private company,
+
+00:03:23.000 --> 00:03:25.000
+as many people think it should.
+
+00:03:25.000 --> 00:03:27.000
+And not even like a tech company,
+
+00:03:27.000 --> 00:03:30.000
+but more like the Internet itself.
+
+00:03:30.000 --> 00:03:32.000
+And that means permissionless,
+
+00:03:32.000 --> 00:03:35.000
+it means open, it means generative.
+
+00:03:36.000 --> 00:03:38.000
+And that's important.
+
+00:03:38.000 --> 00:03:40.000
+But what's more important about this app
+
+00:03:40.000 --> 00:03:42.000
+is that it represents how a new generation
+
+00:03:42.000 --> 00:03:45.000
+is tackling the problem of government --
+
+00:03:45.000 --> 00:03:48.000
+not as the problem of an ossified institution,
+
+00:03:48.000 --> 00:03:50.000
+but as a problem of collective action.
+
+00:03:50.000 --> 00:03:52.000
+And that's great news,
+
+00:03:52.000 --> 00:03:55.000
+because, it turns out, we're very good at collective action
+
+00:03:55.000 --> 00:03:57.000
+with digital technology.
+
+00:03:57.000 --> 00:03:59.000
+Now there's a very large community of people
+
+00:03:59.000 --> 00:04:01.000
+that are building the tools that we need
+
+00:04:01.000 --> 00:04:03.000
+to do things together effectively.
+
+00:04:03.000 --> 00:04:05.000
+It's not just Code for America fellows,
+
+00:04:05.000 --> 00:04:07.000
+there are hundreds of people all over the country
+
+00:04:07.000 --> 00:04:09.000
+that are standing and writing civic apps
+
+00:04:09.000 --> 00:04:13.000
+every day in their own communities.
+
+00:04:13.000 --> 00:04:15.000
+They haven't given up on government.
+
+00:04:15.000 --> 00:04:17.000
+They are frustrated as hell with it,
+
+00:04:17.000 --> 00:04:19.000
+but they're not complaining about it,
+
+00:04:19.000 --> 00:04:21.000
+they're fixing it.
+
+00:04:21.000 --> 00:04:23.000
+And these folks know something
+
+00:04:23.000 --> 00:04:25.000
+that we've lost sight of.
+
+00:04:25.000 --> 00:04:27.000
+And that's that when you strip away all your feelings
+
+00:04:27.000 --> 00:04:29.000
+about politics and the line at the DMV
+
+00:04:29.000 --> 00:04:31.000
+and all those other things
+
+00:04:31.000 --> 00:04:33.000
+that we're really mad about,
+
+00:04:33.000 --> 00:04:36.000
+government is, at its core,
+
+00:04:36.000 --> 00:04:38.000
+in the words of Tim O'Reilly,
+
+00:04:38.000 --> 00:04:41.000
+"What we do together that we can't do alone."
+
+00:04:43.000 --> 00:04:45.000
+Now a lot of people have given up on government.
+
+00:04:45.000 --> 00:04:47.000
+And if you're one of those people,
+
+00:04:47.000 --> 00:04:50.000
+I would ask that you reconsider,
+
+00:04:50.000 --> 00:04:52.000
+because things are changing.
+
+00:04:52.000 --> 00:04:55.000
+Politics is not changing;
+
+00:04:55.000 --> 00:04:57.000
+government is changing.
+
+00:04:57.000 --> 00:04:59.000
+And because government
+
+00:04:59.000 --> 00:05:01.000
+ultimately derives its power from us --
+
+00:05:01.000 --> 00:05:03.000
+remember "We the people?" --
+
+00:05:03.000 --> 00:05:05.000
+how we think about it
+
+00:05:05.000 --> 00:05:08.000
+is going to effect how that change happens.
+
+00:05:08.000 --> 00:05:11.000
+Now I didn't know very much about government when I started this program.
+
+00:05:11.000 --> 00:05:13.000
+And like a lot of people,
+
+00:05:13.000 --> 00:05:16.000
+I thought government was basically about getting people elected to office.
+
+00:05:16.000 --> 00:05:18.000
+Well after two years, I've come to the conclusion
+
+00:05:18.000 --> 00:05:20.000
+that, especially local government,
+
+00:05:20.000 --> 00:05:23.000
+is about opossums.
+
+00:05:23.000 --> 00:05:26.000
+This is the call center for the services and information line.
+
+00:05:26.000 --> 00:05:28.000
+It's generally where you will get
+
+00:05:28.000 --> 00:05:30.000
+if you call 311 in your city.
+
+00:05:30.000 --> 00:05:32.000
+If you should ever have the chance
+
+00:05:32.000 --> 00:05:34.000
+to staff your city's call center,
+
+00:05:34.000 --> 00:05:36.000
+as our fellow Scott Silverman did as part of the program --
+
+00:05:36.000 --> 00:05:38.000
+in fact, they all do that --
+
+00:05:38.000 --> 00:05:41.000
+you will find that people call government
+
+00:05:41.000 --> 00:05:43.000
+with a very wide range of issues,
+
+00:05:43.000 --> 00:05:46.000
+including having an opossum stuck in your house.
+
+00:05:46.000 --> 00:05:48.000
+So Scott gets this call.
+
+00:05:48.000 --> 00:05:50.000
+He types "Opossum" into this official knowledge base.
+
+00:05:50.000 --> 00:05:53.000
+He doesn't really come up with anything. He starts with animal control.
+
+00:05:53.000 --> 00:05:56.000
+And finally, he says, "Look, can you just open all the doors to your house
+
+00:05:56.000 --> 00:05:58.000
+and play music really loud
+
+00:05:58.000 --> 00:06:00.000
+and see if the thing leaves?"
+
+00:06:00.000 --> 00:06:03.000
+So that worked. So booya for Scott.
+
+00:06:03.000 --> 00:06:05.000
+But that wasn't the end of the opossums.
+
+00:06:05.000 --> 00:06:07.000
+Boston doesn't just have a call center.
+
+00:06:07.000 --> 00:06:09.000
+It has an app, a Web and mobile app,
+
+00:06:09.000 --> 00:06:11.000
+called Citizens Connect.
+
+00:06:11.000 --> 00:06:13.000
+Now we didn't write this app.
+
+00:06:13.000 --> 00:06:15.000
+This is the work of the very smart people
+
+00:06:15.000 --> 00:06:17.000
+at the Office of New Urban Mechanics in Boston.
+
+00:06:17.000 --> 00:06:20.000
+So one day -- this is an actual report -- this came in:
+
+00:06:20.000 --> 00:06:23.000
+"Opossum in my trashcan. Can't tell if it's dead.
+
+00:06:23.000 --> 00:06:26.000
+How do I get this removed?"
+
+00:06:26.000 --> 00:06:28.000
+But what happens with Citizens Connect is different.
+
+00:06:28.000 --> 00:06:31.000
+So Scott was speaking person-to-person.
+
+00:06:31.000 --> 00:06:33.000
+But on Citizens Connect everything is public,
+
+00:06:33.000 --> 00:06:35.000
+so everybody can see this.
+
+00:06:35.000 --> 00:06:37.000
+And in this case, a neighbor saw it.
+
+00:06:37.000 --> 00:06:39.000
+And the next report we got said,
+
+00:06:39.000 --> 00:06:41.000
+"I walked over to this location,
+
+00:06:41.000 --> 00:06:43.000
+found the trashcan behind the house.
+
+00:06:43.000 --> 00:06:46.000
+Opossum? Check. Living? Yep.
+
+00:06:46.000 --> 00:06:48.000
+Turned trashcan on its side. Walked home.
+
+00:06:48.000 --> 00:06:50.000
+Goodnight sweet opossum."
+
+00:06:50.000 --> 00:06:52.000
+(Laughter)
+
+00:06:52.000 --> 00:06:54.000
+Pretty simple.
+
+00:06:54.000 --> 00:06:57.000
+So this is great. This is the digital meeting the physical.
+
+00:06:57.000 --> 00:06:59.000
+And it's also a great example
+
+00:06:59.000 --> 00:07:02.000
+of government getting in on the crowd-sourcing game.
+
+00:07:02.000 --> 00:07:05.000
+But it's also a great example of government as a platform.
+
+00:07:05.000 --> 00:07:07.000
+And I don't mean necessarily
+
+00:07:07.000 --> 00:07:09.000
+a technological definition of platform here.
+
+00:07:09.000 --> 00:07:11.000
+I'm just talking about a platform for people
+
+00:07:11.000 --> 00:07:14.000
+to help themselves and to help others.
+
+00:07:15.000 --> 00:07:17.000
+So one citizen helped another citizen,
+
+00:07:17.000 --> 00:07:19.000
+but government played a key role here.
+
+00:07:19.000 --> 00:07:22.000
+It connected those two people.
+
+00:07:22.000 --> 00:07:25.000
+And it could have connected them with government services if they'd been needed,
+
+00:07:25.000 --> 00:07:28.000
+but a neighbor is a far better and cheaper alternative
+
+00:07:28.000 --> 00:07:30.000
+to government services.
+
+00:07:30.000 --> 00:07:32.000
+When one neighbor helps another,
+
+00:07:32.000 --> 00:07:34.000
+we strengthen our communities.
+
+00:07:34.000 --> 00:07:37.000
+We call animal control, it just costs a lot of money.
+
+00:07:39.000 --> 00:07:41.000
+Now one of the important things we need to think about government
+
+00:07:41.000 --> 00:07:44.000
+is that it's not the same thing as politics.
+
+00:07:44.000 --> 00:07:46.000
+And most people get that,
+
+00:07:46.000 --> 00:07:49.000
+but they think that one is the input to the other.
+
+00:07:49.000 --> 00:07:51.000
+That our input to the system of government
+
+00:07:51.000 --> 00:07:53.000
+is voting.
+
+00:07:53.000 --> 00:07:55.000
+Now how many times have we elected a political leader --
+
+00:07:55.000 --> 00:07:57.000
+and sometimes we spend a lot of energy
+
+00:07:57.000 --> 00:08:00.000
+getting a new political leader elected --
+
+00:08:00.000 --> 00:08:02.000
+and then we sit back and we expect government
+
+00:08:02.000 --> 00:08:06.000
+to reflect our values and meet our needs,
+
+00:08:06.000 --> 00:08:10.000
+and then not that much changes?
+
+00:08:10.000 --> 00:08:13.000
+That's because government is like a vast ocean
+
+00:08:13.000 --> 00:08:17.000
+and politics is the six-inch layer on top.
+
+00:08:17.000 --> 00:08:19.000
+And what's under that
+
+00:08:19.000 --> 00:08:21.000
+is what we call bureaucracy.
+
+00:08:21.000 --> 00:08:24.000
+And we say that word with such contempt.
+
+00:08:24.000 --> 00:08:26.000
+But it's that contempt
+
+00:08:26.000 --> 00:08:29.000
+that keeps this thing that we own
+
+00:08:29.000 --> 00:08:31.000
+and we pay for
+
+00:08:31.000 --> 00:08:34.000
+as something that's working against us, this other thing,
+
+00:08:34.000 --> 00:08:37.000
+and then we're disempowering ourselves.
+
+00:08:37.000 --> 00:08:40.000
+People seem to think politics is sexy.
+
+00:08:40.000 --> 00:08:43.000
+If we want this institution to work for us,
+
+00:08:43.000 --> 00:08:46.000
+we're going to have to make bureaucracy sexy.
+
+00:08:46.000 --> 00:08:50.000
+Because that's where the real work of government happens.
+
+00:08:50.000 --> 00:08:53.000
+We have to engage with the machinery of government.
+
+00:08:53.000 --> 00:08:55.000
+So that's OccupytheSEC movement has done.
+
+00:08:55.000 --> 00:08:57.000
+Have you seen these guys?
+
+00:08:57.000 --> 00:08:59.000
+It's a group of concerned citizens
+
+00:08:59.000 --> 00:09:01.000
+that have written a very detailed
+
+00:09:01.000 --> 00:09:03.000
+325-page report
+
+00:09:03.000 --> 00:09:05.000
+that's a response to the SEC's request for comment
+
+00:09:05.000 --> 00:09:07.000
+on the Financial Reform Bill.
+
+00:09:07.000 --> 00:09:09.000
+That's not being politically active,
+
+00:09:09.000 --> 00:09:12.000
+that's being bureaucratically active.
+
+00:09:13.000 --> 00:09:16.000
+Now for those of us who've given up on government,
+
+00:09:16.000 --> 00:09:18.000
+it's time that we asked ourselves
+
+00:09:18.000 --> 00:09:21.000
+about the world that we want to leave for our children.
+
+00:09:21.000 --> 00:09:23.000
+You have to see the enormous challenges
+
+00:09:23.000 --> 00:09:26.000
+that they're going to face.
+
+00:09:26.000 --> 00:09:29.000
+Do we really think we're going to get where we need to go
+
+00:09:29.000 --> 00:09:31.000
+without fixing the one institution
+
+00:09:31.000 --> 00:09:33.000
+that can act on behalf of all of us?
+
+00:09:33.000 --> 00:09:35.000
+We can't do without government,
+
+00:09:35.000 --> 00:09:37.000
+but we do need it
+
+00:09:37.000 --> 00:09:39.000
+to be more effective.
+
+00:09:39.000 --> 00:09:41.000
+The good news is that technology is making it possible
+
+00:09:41.000 --> 00:09:43.000
+to fundamentally reframe
+
+00:09:43.000 --> 00:09:45.000
+the function of government
+
+00:09:45.000 --> 00:09:48.000
+in a way that can actually scale
+
+00:09:48.000 --> 00:09:50.000
+by strengthening civil society.
+
+00:09:50.000 --> 00:09:53.000
+And there's a generation out there that's grown up on the Internet,
+
+00:09:53.000 --> 00:09:55.000
+and they know that it's not that hard
+
+00:09:55.000 --> 00:09:57.000
+to do things together,
+
+00:09:57.000 --> 00:10:01.000
+you just have to architect the systems the right way.
+
+00:10:01.000 --> 00:10:04.000
+Now the average age of our fellows is 28,
+
+00:10:04.000 --> 00:10:06.000
+so I am, begrudgingly,
+
+00:10:06.000 --> 00:10:09.000
+almost a generation older than most of them.
+
+00:10:09.000 --> 00:10:11.000
+This is a generation
+
+00:10:11.000 --> 00:10:14.000
+that's grown up taking their voices pretty much for granted.
+
+00:10:14.000 --> 00:10:16.000
+They're not fighting that battle that we're all fighting
+
+00:10:16.000 --> 00:10:18.000
+about who gets to speak;
+
+00:10:18.000 --> 00:10:20.000
+they all get to speak.
+
+00:10:20.000 --> 00:10:22.000
+They can express their opinion
+
+00:10:22.000 --> 00:10:24.000
+on any channel at any time,
+
+00:10:24.000 --> 00:10:26.000
+and they do.
+
+00:10:26.000 --> 00:10:29.000
+So when they're faced with the problem of government,
+
+00:10:29.000 --> 00:10:31.000
+they don't care as much
+
+00:10:31.000 --> 00:10:33.000
+about using their voices.
+
+00:10:33.000 --> 00:10:35.000
+They're using their hands.
+
+00:10:35.000 --> 00:10:37.000
+They're using their hands
+
+00:10:37.000 --> 00:10:40.000
+to write applications that make government work better.
+
+00:10:40.000 --> 00:10:43.000
+And those applications let us use our hands
+
+00:10:43.000 --> 00:10:46.000
+to make our communities better.
+
+00:10:46.000 --> 00:10:49.000
+That could be shoveling out a hydrant, pulling a weed,
+
+00:10:49.000 --> 00:10:53.000
+turning over a garbage can with an opossum in it.
+
+00:10:53.000 --> 00:10:56.000
+And certainly, we could have been shoveling out those fire hydrants all along,
+
+00:10:56.000 --> 00:10:58.000
+and many people do.
+
+00:10:58.000 --> 00:11:01.000
+But these apps are like little digital reminders
+
+00:11:01.000 --> 00:11:03.000
+that we're not just consumers,
+
+00:11:03.000 --> 00:11:05.000
+and we're not just consumers of government,
+
+00:11:05.000 --> 00:11:08.000
+putting in our taxes and getting back services.
+
+00:11:08.000 --> 00:11:10.000
+We're more than that,
+
+00:11:10.000 --> 00:11:12.000
+we're citizens.
+
+00:11:12.000 --> 00:11:15.000
+And we're not going to fix government
+
+00:11:15.000 --> 00:11:18.000
+until we fix citizenship.
+
+00:11:18.000 --> 00:11:22.000
+So the question I have for all of you here:
+
+00:11:22.000 --> 00:11:24.000
+When it comes to the big, important things
+
+00:11:24.000 --> 00:11:26.000
+that we need to do together,
+
+00:11:26.000 --> 00:11:28.000
+all of us together,
+
+00:11:28.000 --> 00:11:31.000
+are we just going to be a crowd of voices,
+
+00:11:31.000 --> 00:11:33.000
+or are we also going to be
+
+00:11:33.000 --> 00:11:35.000
+a crowd of hands?
+
+00:11:35.000 --> 00:11:37.000
+Thank you.
+
+00:11:37.000 --> 00:11:49.000
+(Applause)
+

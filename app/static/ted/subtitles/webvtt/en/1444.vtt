@@ -1,0 +1,267 @@
+WEBVTT
+
+00:00:00.686 --> 00:00:03.684
+So what I want to try to do is tell a quick story
+
+00:00:03.684 --> 00:00:07.394
+about a 404 page and a lesson that was learned as a result of it.
+
+00:00:07.394 --> 00:00:10.113
+But to start it probably helps to have an understanding
+
+00:00:10.113 --> 00:00:13.625
+of what a 404 page actually is.
+
+00:00:13.625 --> 00:00:16.731
+The 404 page is that.
+
+00:00:16.731 --> 00:00:19.071
+It's that broken experience on the Web.
+
+00:00:19.071 --> 00:00:21.382
+It's effectively the default page
+
+00:00:21.382 --> 00:00:24.958
+when you ask a website for something and it can't find it.
+
+00:00:24.958 --> 00:00:27.258
+And it serves you the 404 page.
+
+00:00:27.258 --> 00:00:32.083
+It's inherently a feeling of being broken when you go through it.
+
+00:00:32.083 --> 00:00:34.708
+And I just want you to think a little bit about, remember for yourself,
+
+00:00:34.708 --> 00:00:37.750
+it's annoying when you hit this thing.
+
+00:00:37.750 --> 00:00:40.008
+Because it's the feeling of a broken relationship.
+
+00:00:40.008 --> 00:00:42.750
+And that's where it's actually also interesting to think about,
+
+00:00:42.750 --> 00:00:44.625
+where does 404 come from?
+
+00:00:44.625 --> 00:00:46.669
+It's from a family of errors actually --
+
+00:00:46.669 --> 00:00:48.779
+a whole set of relationship errors,
+
+00:00:48.779 --> 00:00:51.083
+which, when I started digging into them,
+
+00:00:51.083 --> 00:00:55.917
+it looks almost like a checklist
+for a sex therapist or a couples counselor.
+
+00:00:55.917 --> 00:00:59.042
+You sort of get down there to the bottom and things get really dicey.
+
+00:00:59.042 --> 00:01:01.931
+(Laughter)
+
+00:01:01.931 --> 00:01:03.958
+Yes.
+
+00:01:03.958 --> 00:01:06.202
+But these things are everywhere.
+
+00:01:06.202 --> 00:01:08.898
+They're on sites big, they're on sites small.
+
+00:01:08.898 --> 00:01:11.583
+This is a global experience.
+
+00:01:11.583 --> 00:01:14.460
+What a 404 page tells you
+
+00:01:14.460 --> 00:01:18.617
+is that you fell through the cracks.
+
+00:01:18.617 --> 00:01:20.375
+And that's not a good experience
+
+00:01:20.375 --> 00:01:22.819
+when you're used to experiences like this.
+
+00:01:22.819 --> 00:01:24.092
+You can get on your Kinect
+
+00:01:24.092 --> 00:01:26.250
+and you can have unicorns dancing
+
+00:01:26.250 --> 00:01:28.887
+and rainbows spraying out of your mobile phone.
+
+00:01:28.887 --> 00:01:30.977
+A 404 page is not what you're looking for.
+
+00:01:30.977 --> 00:01:34.429
+You get that, and it's like a slap in the face.
+
+00:01:34.429 --> 00:01:36.662
+Trying to think about how a 404 felt,
+
+00:01:36.662 --> 00:01:38.542
+and it would be like if you went to Starbucks
+
+00:01:38.542 --> 00:01:40.292
+and there's the guy behind the counter
+
+00:01:40.292 --> 00:01:42.104
+and you're over there and there's no skim milk.
+
+00:01:42.104 --> 00:01:44.083
+And you say, "Hey, could you bring the skim milk?"
+
+00:01:44.083 --> 00:01:46.248
+And they walk out from behind the counter and they've got no pants on.
+
+00:01:46.248 --> 00:01:49.190
+And you're like, "Oh, I didn't want to see that."
+
+00:01:49.190 --> 00:01:51.279
+That's the 404 feeling.
+
+00:01:51.294 --> 00:01:52.952
+(Laughter)
+
+00:01:52.952 --> 00:01:55.208
+I mean, I've heard about that.
+
+00:01:55.208 --> 00:01:59.346
+So where this comes into play and why this is important
+
+00:01:59.346 --> 00:02:00.677
+is I head up a technology incubator,
+
+00:02:00.677 --> 00:02:02.677
+and we had eight startups sitting around there.
+
+00:02:02.677 --> 00:02:05.713
+And those startups are focused on what they are, not what they're not,
+
+00:02:05.713 --> 00:02:07.509
+until one day Athletepath,
+
+00:02:07.509 --> 00:02:11.187
+which is a website that focuses on services for extreme athletes,
+
+00:02:11.187 --> 00:02:12.625
+found this video.
+
+00:02:12.625 --> 00:02:16.190
+(Video) Guy: Joey!
+
+00:02:16.190 --> 00:02:20.994
+Crowd: Whoa!
+
+00:02:20.994 --> 00:02:24.375
+Renny Gleeson: You just ... no, he's not okay.
+
+00:02:24.375 --> 00:02:28.418
+They took that video and they embedded it in their 404 page
+
+00:02:28.418 --> 00:02:31.250
+and it was like a light bulb went off for everybody in the place.
+
+00:02:31.250 --> 00:02:33.958
+Because finally there was a page
+
+00:02:33.958 --> 00:02:37.159
+that actually felt like what it felt like to hit a 404.
+
+00:02:37.159 --> 00:02:38.685
+(Laughter)
+
+00:02:38.685 --> 00:02:40.466
+(Applause)
+
+00:02:40.466 --> 00:02:42.833
+So this turned into a contest.
+
+00:02:42.833 --> 00:02:45.083
+Dailypath that offers inspiration
+
+00:02:45.083 --> 00:02:47.579
+put inspiration on their 404 page.
+
+00:02:47.579 --> 00:02:51.495
+Stayhound, which helps you find pet sitters through your social network,
+
+00:02:51.495 --> 00:02:53.315
+commiserated with your pet.
+
+00:02:53.315 --> 00:02:54.708
+Each one of them found this.
+
+00:02:54.708 --> 00:02:55.958
+It turned into a 24-hour contest.
+
+00:02:55.958 --> 00:02:59.083
+At 4:04 the next day, we gave out $404 in cash.
+
+00:02:59.083 --> 00:03:00.500
+And what they learned
+
+00:03:00.500 --> 00:03:02.884
+was that those little things, done right, actually matter,
+
+00:03:02.884 --> 00:03:05.530
+and that well-designed moments can build brands.
+
+00:03:05.530 --> 00:03:07.458
+So you take a look out in the real world,
+
+00:03:07.458 --> 00:03:09.900
+and the fun thing is you can actually hack these yourself.
+
+00:03:09.900 --> 00:03:12.831
+You can type in an URL and put in a 404 and these will pop.
+
+00:03:12.831 --> 00:03:14.829
+This is one that commiserates with you.
+
+00:03:14.829 --> 00:03:16.579
+This is one that blames you.
+
+00:03:16.579 --> 00:03:18.417
+This is one that I loved.
+
+00:03:18.417 --> 00:03:20.750
+This is an error page,
+
+00:03:20.750 --> 00:03:24.796
+but what if this error page was also an opportunity?
+
+00:03:24.796 --> 00:03:26.962
+So it was a moment in time
+
+00:03:26.962 --> 00:03:29.233
+where all of these startups had to sit and think
+
+00:03:29.233 --> 00:03:31.555
+and got really excited about what they could be.
+
+00:03:31.555 --> 00:03:34.152
+Because back to the whole relationship issue,
+
+00:03:34.152 --> 00:03:36.409
+what they figured out through this exercise
+
+00:03:36.409 --> 00:03:39.246
+was that a simple mistake can tell me what you're not,
+
+00:03:39.246 --> 00:03:42.565
+or it can remind me of why I should love you.
+
+00:03:42.565 --> 00:03:44.323
+Thank you.
+
+00:03:44.323 --> 00:03:46.913
+(Applause)
+

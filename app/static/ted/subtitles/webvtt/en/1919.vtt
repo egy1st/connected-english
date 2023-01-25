@@ -1,0 +1,706 @@
+WEBVTT
+
+00:00:00.498 --> 00:00:03.097
+Five years ago, I was a Ph.D. student
+
+00:00:03.097 --> 00:00:04.741
+living two lives.
+
+00:00:04.741 --> 00:00:07.057
+In one, I used NASA supercomputers
+
+00:00:07.057 --> 00:00:09.785
+to design next-generation spacecraft,
+
+00:00:09.785 --> 00:00:12.364
+and in the other I was a data scientist
+
+00:00:12.364 --> 00:00:14.783
+looking for potential smugglers
+
+00:00:14.783 --> 00:00:18.022
+of sensitive nuclear technologies.
+
+00:00:18.022 --> 00:00:20.881
+As a data scientist, I did a lot of analyses,
+
+00:00:20.881 --> 00:00:22.348
+mostly of facilities,
+
+00:00:22.348 --> 00:00:24.619
+industrial facilities around the world.
+
+00:00:24.619 --> 00:00:27.307
+And I was always looking for a better canvas
+
+00:00:27.307 --> 00:00:29.373
+to tie these all together.
+
+00:00:29.373 --> 00:00:31.239
+And one day, I was thinking about how
+
+00:00:31.239 --> 00:00:33.363
+all data has a location,
+
+00:00:33.363 --> 00:00:35.096
+and I realized that the answer
+
+00:00:35.096 --> 00:00:36.984
+had been staring me in the face.
+
+00:00:36.984 --> 00:00:39.622
+Although I was a satellite engineer,
+
+00:00:39.622 --> 00:00:42.793
+I hadn't thought about using satellite imagery
+
+00:00:42.793 --> 00:00:44.359
+in my work.
+
+00:00:44.359 --> 00:00:46.306
+Now, like most of us, I'd been online,
+
+00:00:46.306 --> 00:00:48.088
+I'd see my house, so I thought,
+
+00:00:48.088 --> 00:00:50.386
+I'll hop in there and I'll start looking up
+
+00:00:50.386 --> 00:00:51.803
+some of these facilities.
+
+00:00:51.803 --> 00:00:53.772
+And what I found really surprised me.
+
+00:00:53.772 --> 00:00:55.446
+The pictures that I was finding
+
+00:00:55.446 --> 00:00:57.347
+were years out of date,
+
+00:00:57.347 --> 00:00:58.415
+and because of that,
+
+00:00:58.415 --> 00:01:00.086
+it had relatively little relevance
+
+00:01:00.086 --> 00:01:02.546
+to the work that I was doing today.
+
+00:01:02.546 --> 00:01:04.007
+But I was intrigued.
+
+00:01:04.007 --> 00:01:07.243
+I mean, satellite imagery is pretty amazing stuff.
+
+00:01:07.243 --> 00:01:09.546
+There are millions and millions of sensors
+
+00:01:09.546 --> 00:01:10.990
+surrounding us today,
+
+00:01:10.990 --> 00:01:13.950
+but there's still so much we
+don't know on a daily basis.
+
+00:01:13.950 --> 00:01:17.703
+How much oil is stored in all of China?
+
+00:01:17.703 --> 00:01:20.636
+How much corn is being produced?
+
+00:01:20.636 --> 00:01:24.707
+How many ships are in all of our world's ports?
+
+00:01:24.707 --> 00:01:27.266
+Now, in theory, all of these questions
+
+00:01:27.266 --> 00:01:29.510
+could be answered by imagery,
+
+00:01:29.510 --> 00:01:31.237
+but not if it's old.
+
+00:01:31.237 --> 00:01:33.695
+And if this data was so valuable,
+
+00:01:33.695 --> 00:01:35.627
+then how come I couldn't get my hands
+
+00:01:35.627 --> 00:01:38.177
+on more recent pictures?
+
+00:01:38.177 --> 00:01:41.312
+So the story begins over 50 years ago
+
+00:01:41.312 --> 00:01:43.183
+with the launch of the first generation
+
+00:01:43.183 --> 00:01:46.783
+of U.S. government photo reconnaissance satellites.
+
+00:01:46.783 --> 00:01:48.479
+And today, there's a handful
+
+00:01:48.479 --> 00:01:50.674
+of the great, great grandchildren
+
+00:01:50.674 --> 00:01:52.339
+of these early Cold War machines
+
+00:01:52.339 --> 00:01:54.348
+which are now operated by private companies
+
+00:01:54.348 --> 00:01:57.057
+and from which the vast majority of satellite imagery
+
+00:01:57.057 --> 00:01:59.882
+that you and I see on a daily basis comes.
+
+00:01:59.882 --> 00:02:02.796
+During this period, launching things into space,
+
+00:02:02.796 --> 00:02:05.473
+just the rocket to get the satellite up there,
+
+00:02:05.473 --> 00:02:10.074
+has cost hundreds of millions of dollars each,
+
+00:02:10.074 --> 00:02:11.826
+and that's created tremendous pressure
+
+00:02:11.826 --> 00:02:14.115
+to launch things infrequently
+
+00:02:14.115 --> 00:02:15.459
+and to make sure that when you do,
+
+00:02:15.459 --> 00:02:19.098
+you cram as much functionality in there as possible.
+
+00:02:19.098 --> 00:02:20.709
+All of this has only made satellites
+
+00:02:20.709 --> 00:02:23.126
+bigger and bigger and bigger
+
+00:02:23.126 --> 00:02:24.724
+and more expensive,
+
+00:02:24.724 --> 00:02:29.761
+now nearly a billion, with a b, dollars per copy.
+
+00:02:29.761 --> 00:02:31.460
+Because they are so expensive,
+
+00:02:31.460 --> 00:02:32.927
+there aren't very many of them.
+
+00:02:32.927 --> 00:02:34.272
+Because there aren't very many of them,
+
+00:02:34.272 --> 00:02:36.728
+the pictures that we see on a daily basis
+
+00:02:36.728 --> 00:02:38.232
+tend to be old.
+
+00:02:38.232 --> 00:02:41.514
+I think a lot of people actually
+understand this anecdotally,
+
+00:02:41.514 --> 00:02:44.053
+but in order to visualize just how sparsely
+
+00:02:44.053 --> 00:02:45.937
+our planet is collected,
+
+00:02:45.937 --> 00:02:48.003
+some friends and I put together a dataset
+
+00:02:48.003 --> 00:02:50.590
+of the 30 million pictures that have been gathered
+
+00:02:50.590 --> 00:02:54.074
+by these satellites between 2000 and 2010.
+
+00:02:54.074 --> 00:02:56.829
+As you can see in blue, huge areas of our world
+
+00:02:56.829 --> 00:02:59.619
+are barely seen, less than once a year,
+
+00:02:59.619 --> 00:03:01.891
+and even the areas that are seen most frequently,
+
+00:03:01.891 --> 00:03:05.639
+those in red, are seen at best once a quarter.
+
+00:03:05.639 --> 00:03:08.555
+Now as aerospace engineering grad students,
+
+00:03:08.555 --> 00:03:11.983
+this chart cried out to us as a challenge.
+
+00:03:11.983 --> 00:03:15.438
+Why do these things have to be so expensive?
+
+00:03:15.438 --> 00:03:18.173
+Does a single satellite really have to cost
+
+00:03:18.173 --> 00:03:22.936
+the equivalent of three 747 jumbo jets?
+
+00:03:22.936 --> 00:03:25.099
+Wasn't there a way to build a smaller,
+
+00:03:25.099 --> 00:03:28.271
+simpler, new satellite design that could enable
+
+00:03:28.271 --> 00:03:30.289
+more timely imaging?
+
+00:03:30.289 --> 00:03:33.740
+I realize that it does sound a little bit crazy
+
+00:03:33.740 --> 00:03:35.251
+that we were going to go out and just
+
+00:03:35.251 --> 00:03:37.098
+begin designing satellites,
+
+00:03:37.098 --> 00:03:39.061
+but fortunately we had help.
+
+00:03:39.061 --> 00:03:41.996
+In the late 1990s, a couple of professors
+
+00:03:41.996 --> 00:03:45.477
+proposed a concept for radically reducing the price
+
+00:03:45.477 --> 00:03:47.249
+of putting things in space.
+
+00:03:47.249 --> 00:03:49.360
+This was hitchhiking small satellites
+
+00:03:49.360 --> 00:03:52.376
+alongside much larger satellites.
+
+00:03:52.376 --> 00:03:55.285
+This dropped the cost of putting objects up there
+
+00:03:55.285 --> 00:03:57.283
+by over a factor of 100,
+
+00:03:57.283 --> 00:04:00.369
+and suddenly we could afford to experiment,
+
+00:04:00.369 --> 00:04:01.837
+to take a little bit of risk,
+
+00:04:01.837 --> 00:04:04.103
+and to realize a lot of innovation.
+
+00:04:04.103 --> 00:04:07.192
+And a new generation of engineers and scientists,
+
+00:04:07.192 --> 00:04:08.791
+mostly out of universities,
+
+00:04:08.791 --> 00:04:11.134
+began launching these very small,
+
+00:04:11.134 --> 00:04:13.725
+breadbox-sized satellites called CubeSats.
+
+00:04:13.725 --> 00:04:16.128
+And these were built with electronics obtained
+
+00:04:16.128 --> 00:04:20.026
+from RadioShack instead of Lockheed Martin.
+
+00:04:20.026 --> 00:04:22.866
+Now it was using the lessons
+learned from these early missions
+
+00:04:22.866 --> 00:04:25.561
+that my friends and I began a series of sketches
+
+00:04:25.561 --> 00:04:27.250
+of our own satellite design.
+
+00:04:27.250 --> 00:04:30.034
+And I can't remember a specific day
+
+00:04:30.034 --> 00:04:31.894
+where we made a conscious decision
+
+00:04:31.894 --> 00:04:34.529
+that we were actually going to
+go out and build these things,
+
+00:04:34.529 --> 00:04:36.959
+but once we got that idea in our minds
+
+00:04:36.959 --> 00:04:39.120
+of the world as a dataset,
+
+00:04:39.120 --> 00:04:41.610
+of being able to capture millions of data points
+
+00:04:41.610 --> 00:04:44.663
+on a daily basis describing the global economy,
+
+00:04:44.663 --> 00:04:47.183
+of being able to unearth billions of connections
+
+00:04:47.183 --> 00:04:50.348
+between them that had never before been found,
+
+00:04:50.348 --> 00:04:51.996
+it just seemed boring
+
+00:04:51.996 --> 00:04:54.903
+to go work on anything else.
+
+00:04:54.903 --> 00:04:57.876
+And so we moved into a cramped,
+
+00:04:57.876 --> 00:05:00.855
+windowless office in Palo Alto,
+
+00:05:00.855 --> 00:05:02.822
+and began working to take our design
+
+00:05:02.822 --> 00:05:05.760
+from the drawing board into the lab.
+
+00:05:05.760 --> 00:05:08.418
+The first major question we had to tackle
+
+00:05:08.418 --> 00:05:10.752
+was just how big to build this thing.
+
+00:05:10.752 --> 00:05:13.935
+In space, size drives cost,
+
+00:05:13.935 --> 00:05:15.948
+and we had worked with these very small,
+
+00:05:15.948 --> 00:05:18.042
+breadbox-sized satellites in school,
+
+00:05:18.042 --> 00:05:20.593
+but as we began to better
+understand the laws of physics,
+
+00:05:20.593 --> 00:05:22.715
+we found that the quality of pictures
+
+00:05:22.715 --> 00:05:25.799
+those satellites could take was very limited,
+
+00:05:25.799 --> 00:05:27.503
+because the laws of physics dictate
+
+00:05:27.503 --> 00:05:30.609
+that the best picture you
+can take through a telescope
+
+00:05:30.609 --> 00:05:32.848
+is a function of the diameter of that telescope,
+
+00:05:32.848 --> 00:05:34.510
+and these satellites had a very small,
+
+00:05:34.510 --> 00:05:36.216
+very constrained volume.
+
+00:05:36.216 --> 00:05:38.011
+And we found that the best picture we would
+
+00:05:38.011 --> 00:05:40.496
+have been able to get looked something like this.
+
+00:05:40.496 --> 00:05:42.741
+Although this was the low-cost option,
+
+00:05:42.741 --> 00:05:44.414
+quite frankly it was just too blurry
+
+00:05:44.414 --> 00:05:47.983
+to see the things that make
+satellite imagery valuable.
+
+00:05:47.983 --> 00:05:50.129
+So about three or four weeks later,
+
+00:05:50.129 --> 00:05:52.946
+we met a group of engineers randomly
+
+00:05:52.946 --> 00:05:54.587
+who had worked on the first
+
+00:05:54.587 --> 00:05:57.028
+private imaging satellite ever developed,
+
+00:05:57.028 --> 00:05:59.146
+and they told us that back in the 1970s,
+
+00:05:59.146 --> 00:06:01.328
+the U.S. government had found a powerful
+
+00:06:01.328 --> 00:06:02.971
+optimal tradeoff --
+
+00:06:02.971 --> 00:06:06.059
+that in taking pictures at right
+about one meter resolution,
+
+00:06:06.059 --> 00:06:08.943
+being able to see objects one meter in size,
+
+00:06:08.943 --> 00:06:11.634
+they had found that they could not
+just get very high-quality images,
+
+00:06:11.634 --> 00:06:14.527
+but get a lot of them at an affordable price.
+
+00:06:14.527 --> 00:06:16.503
+From our own computer simulations,
+
+00:06:16.503 --> 00:06:18.508
+we quickly found that one meter really was
+
+00:06:18.508 --> 00:06:20.272
+the minimum viable product
+
+00:06:20.272 --> 00:06:23.351
+to be able to see the drivers of our global economy,
+
+00:06:23.351 --> 00:06:24.912
+for the first time, being able to count
+
+00:06:24.912 --> 00:06:27.633
+the ships and cars and shipping
+containers and trucks
+
+00:06:27.633 --> 00:06:30.457
+that move around our world on a daily basis,
+
+00:06:30.457 --> 00:06:34.261
+while conveniently still not
+being able to see individuals.
+
+00:06:34.261 --> 00:06:35.882
+We had found our compromise.
+
+00:06:35.882 --> 00:06:37.486
+We would have to build something larger
+
+00:06:37.486 --> 00:06:39.049
+than the original breadbox,
+
+00:06:39.049 --> 00:06:40.700
+now more like a mini-fridge,
+
+00:06:40.700 --> 00:06:43.461
+but we still wouldn't have to build a pickup truck.
+
+00:06:43.461 --> 00:06:46.085
+So now we had our constraint.
+
+00:06:46.085 --> 00:06:47.842
+The laws of physics dictated
+
+00:06:47.842 --> 00:06:51.166
+the absolute minimum-sized
+telescope that we could build.
+
+00:06:51.166 --> 00:06:54.220
+What came next was making the rest of the satellite
+
+00:06:54.220 --> 00:06:55.961
+as small and as simple as possible,
+
+00:06:55.961 --> 00:06:58.613
+basically a flying telescope with four walls
+
+00:06:58.613 --> 00:07:01.554
+and a set of electronics smaller than a phone book
+
+00:07:01.554 --> 00:07:04.992
+that used less power than a 100 watt lightbulb.
+
+00:07:04.992 --> 00:07:06.892
+The big challenge became actually taking
+
+00:07:06.892 --> 00:07:09.090
+the pictures through that telescope.
+
+00:07:09.090 --> 00:07:12.134
+Traditional imaging satellites use a line scanner,
+
+00:07:12.134 --> 00:07:13.895
+similar to a Xerox machine,
+
+00:07:13.895 --> 00:07:16.295
+and as they traverse the Earth, they take pictures,
+
+00:07:16.295 --> 00:07:18.491
+scanning row by row by row
+
+00:07:18.491 --> 00:07:20.166
+to build the complete image.
+
+00:07:20.166 --> 00:07:23.170
+Now people use these because they get a lot of light,
+
+00:07:23.170 --> 00:07:25.001
+which means less of the noise you see
+
+00:07:25.016 --> 00:07:27.752
+in a low-cost cell phone image.
+
+00:07:27.752 --> 00:07:30.113
+The problem with them is they require
+
+00:07:30.113 --> 00:07:32.353
+very sophisticated pointing.
+
+00:07:32.353 --> 00:07:34.899
+You have to stay focused on a 50-centimeter target
+
+00:07:34.899 --> 00:07:36.651
+from over 600 miles away
+
+00:07:36.651 --> 00:07:38.883
+while moving at more than
+seven kilometers a second,
+
+00:07:38.883 --> 00:07:41.632
+which requires an awesome degree of complexity.
+
+00:07:41.632 --> 00:07:45.069
+So instead, we turned to a new
+generation of video sensors,
+
+00:07:45.069 --> 00:07:48.160
+originally created for use in night vision goggles.
+
+00:07:48.160 --> 00:07:51.059
+Instead of taking a single, high quality image,
+
+00:07:51.059 --> 00:07:52.446
+we could take a videostream
+
+00:07:52.446 --> 00:07:55.369
+of individually noisier frames,
+
+00:07:55.369 --> 00:07:57.113
+but then we could recombine
+
+00:07:57.113 --> 00:07:58.579
+all of those frames together
+
+00:07:58.579 --> 00:08:00.575
+into very high-quality images
+
+00:08:00.575 --> 00:08:03.168
+using sophisticated pixel processing techniques
+
+00:08:03.168 --> 00:08:04.689
+here on the ground,
+
+00:08:04.689 --> 00:08:07.826
+at a cost of one one hundredth a traditional system.
+
+00:08:07.826 --> 00:08:08.979
+And we applied this technique
+
+00:08:08.979 --> 00:08:11.953
+to many of the other systems on the satellite as well,
+
+00:08:11.953 --> 00:08:14.793
+and day by day, our design evolved
+
+00:08:14.793 --> 00:08:18.282
+from CAD to prototypes
+
+00:08:18.282 --> 00:08:21.170
+to production units.
+
+00:08:21.170 --> 00:08:22.827
+A few short weeks ago,
+
+00:08:22.827 --> 00:08:24.678
+we packed up SkySat 1,
+
+00:08:24.678 --> 00:08:26.451
+put our signatures on it,
+
+00:08:26.451 --> 00:08:28.674
+and waved goodbye for the last time on Earth.
+
+00:08:28.674 --> 00:08:32.155
+Today, it's sitting in its final launch configuration
+
+00:08:32.155 --> 00:08:35.216
+ready to blast off in a few short weeks.
+
+00:08:35.216 --> 00:08:37.558
+And soon, we'll turn our attention to launching
+
+00:08:37.558 --> 00:08:40.589
+a constellation of 24 or more of these satellites
+
+00:08:40.589 --> 00:08:43.139
+and beginning to build the scalable analytics
+
+00:08:43.139 --> 00:08:45.478
+that will allow us to unearth the insights
+
+00:08:45.478 --> 00:08:48.667
+in the petabytes of data we will collect.
+
+00:08:48.667 --> 00:08:52.640
+So why do all of this? Why build these satellites?
+
+00:08:52.640 --> 00:08:55.251
+Well, it turns out imaging satellites
+
+00:08:55.251 --> 00:08:58.961
+have a unique ability to provide global transparency,
+
+00:08:58.961 --> 00:09:01.587
+and providing that transparency on a timely basis
+
+00:09:01.587 --> 00:09:04.998
+is simply an idea whose time has come.
+
+00:09:04.998 --> 00:09:08.521
+We see ourselves as pioneers of a new frontier,
+
+00:09:08.521 --> 00:09:10.285
+and beyond economic data,
+
+00:09:10.285 --> 00:09:13.886
+unlocking the human story, moment by moment.
+
+00:09:13.886 --> 00:09:15.449
+For a data scientist
+
+00:09:15.449 --> 00:09:18.199
+that just happened to go to space camp as a kid,
+
+00:09:18.199 --> 00:09:20.914
+it just doesn't get much better than that.
+
+00:09:20.914 --> 00:09:23.129
+Thank you.
+
+00:09:23.129 --> 00:09:27.263
+(Applause)
+

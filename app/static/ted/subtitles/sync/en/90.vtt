@@ -1,0 +1,1036 @@
+WEBVTT
+
+00:00:12.150 --> 00:00:16.150
+This meeting has really been about a digital revolution,
+
+00:00:16.150 --> 00:00:19.150
+but I'd like to argue that it's done; we won.
+
+00:00:20.150 --> 00:00:24.150
+We've had a digital revolution but we don't need to keep having it.
+
+00:00:24.150 --> 00:00:26.150
+And I'd like to look after that,
+
+00:00:26.150 --> 00:00:29.150
+to look what comes after the digital revolution.
+
+00:00:29.150 --> 00:00:31.150
+So, let me start projecting forward.
+
+00:00:31.150 --> 00:00:35.150
+These are some projects I'm involved in today at MIT,
+
+00:00:35.150 --> 00:00:38.150
+looking what comes after computers.
+
+00:00:38.150 --> 00:00:43.150
+This first one, Internet Zero, up here -- this is a web server
+
+00:00:43.150 --> 00:00:46.150
+that has the cost and complexity of an RFID tag --
+
+00:00:46.150 --> 00:00:49.150
+about a dollar -- that can go in every light bulb and doorknob,
+
+00:00:49.150 --> 00:00:51.150
+and this is getting commercialized very quickly.
+
+00:00:51.150 --> 00:00:53.150
+And what's interesting about it isn't the cost;
+
+00:00:53.150 --> 00:00:54.150
+it's the way it encodes the Internet.
+
+00:00:54.150 --> 00:00:57.150
+It uses a kind of a Morse code for the Internet
+
+00:00:57.150 --> 00:01:00.150
+so you could send it optically; you can communicate acoustically
+
+00:01:00.150 --> 00:01:02.150
+through a power line, through RF.
+
+00:01:02.150 --> 00:01:04.150
+It takes the original principle of the Internet,
+
+00:01:04.150 --> 00:01:06.150
+which is inter-networking computers,
+
+00:01:06.150 --> 00:01:09.150
+and now lets devices inter-network.
+
+00:01:09.150 --> 00:01:12.150
+That we can take the whole idea that gave birth to the Internet
+
+00:01:12.150 --> 00:01:15.150
+and bring it down to the physical world in this Internet Zero,
+
+00:01:15.150 --> 00:01:17.150
+this internet of devices.
+
+00:01:17.150 --> 00:01:19.150
+So this is the next step from there to here,
+
+00:01:19.150 --> 00:01:22.150
+and this is getting commercialized today.
+
+00:01:22.150 --> 00:01:27.150
+A step after that is a project on fungible computers.
+
+00:01:27.150 --> 00:01:30.150
+Fungible goods in economics can be extended and traded.
+
+00:01:30.150 --> 00:01:32.150
+So, half as much grain is half as much useful,
+
+00:01:32.150 --> 00:01:35.150
+but half a baby or half a computer is less useful than
+
+00:01:35.150 --> 00:01:37.150
+a whole baby or a whole computer,
+
+00:01:37.150 --> 00:01:40.150
+and we've been trying to make computers that work that way.
+
+00:01:40.150 --> 00:01:42.150
+So, what you see in the background is a prototype.
+
+00:01:42.150 --> 00:01:45.150
+This was from a thesis of a student, Bill Butow, now at Intel,
+
+00:01:45.150 --> 00:01:48.150
+who wondered why, instead of making bigger and bigger chips,
+
+00:01:48.150 --> 00:01:51.150
+you don't make small chips, put them in a viscous medium,
+
+00:01:51.150 --> 00:01:53.150
+and pour out computing by the pound or by the square inch.
+
+00:01:53.150 --> 00:01:55.150
+And that's what you see here.
+
+00:01:55.150 --> 00:01:58.150
+On the left was postscript being rendered by a conventional computer;
+
+00:01:58.150 --> 00:02:01.150
+on the right is postscript being rendered from the first prototype
+
+00:02:01.150 --> 00:02:05.150
+we made, but there's no frame buffer, IO processor,
+
+00:02:05.150 --> 00:02:07.150
+any of that stuff -- it's just this material.
+
+00:02:07.150 --> 00:02:09.150
+Unlike this screen where the dots are placed carefully,
+
+00:02:09.150 --> 00:02:10.150
+this is a raw material.
+
+00:02:10.150 --> 00:02:13.150
+If you add twice as much of it, you have twice as much display.
+
+00:02:13.150 --> 00:02:16.150
+If you shoot a gun through the middle, nothing happens.
+
+00:02:16.150 --> 00:02:20.150
+If you need more resource, you just apply more computer.
+
+00:02:20.150 --> 00:02:23.150
+So, that's the step after this -- of computing as a raw material.
+
+00:02:23.150 --> 00:02:26.150
+That's still conventional bits, the step after that is --
+
+00:02:26.150 --> 00:02:28.150
+this is an earlier prototype in the lab;
+
+00:02:28.150 --> 00:02:30.150
+this is high-speed video slowed down.
+
+00:02:30.150 --> 00:02:33.150
+Now, integrating chemistry in computation, where the bits are bubbles.
+
+00:02:33.150 --> 00:02:35.150
+This is showing making bits, this is showing --
+
+00:02:35.150 --> 00:02:37.150
+once again, slowed down so you can see it,
+
+00:02:37.150 --> 00:02:41.150
+bits interacting to do logic and multiplexing and de-multiplexing.
+
+00:02:41.150 --> 00:02:44.150
+So, now we can compute that the output arranges material
+
+00:02:44.150 --> 00:02:48.150
+as well as information. And, ultimately, these are some slides
+
+00:02:48.150 --> 00:02:51.150
+from an early project I did, computing where the bits are stored
+
+00:02:51.150 --> 00:02:54.150
+quantum-mechanically in the nuclei of atoms, so
+
+00:02:54.150 --> 00:02:58.150
+programs rearrange the nuclear structure of molecules.
+
+00:02:58.150 --> 00:03:02.150
+All of these are in the lab pushing further and further and further,
+
+00:03:02.150 --> 00:03:05.150
+not as metaphor but literally integrating bits and atoms,
+
+00:03:05.150 --> 00:03:08.150
+and they lead to the following recognition.
+
+00:03:08.150 --> 00:03:11.150
+We all know we've had a digital revolution, but what is that?
+
+00:03:11.150 --> 00:03:14.150
+Well, Shannon took us, in the '40s, from here to here:
+
+00:03:14.150 --> 00:03:18.150
+from a telephone being a speaker wire that degraded with distance
+
+00:03:18.150 --> 00:03:22.150
+to the Internet. And he proved the first threshold theorem, that shows
+
+00:03:22.150 --> 00:03:25.150
+if you add information and remove it to a signal,
+
+00:03:25.150 --> 00:03:27.150
+you can compute perfectly with an imperfect device.
+
+00:03:27.150 --> 00:03:29.150
+And that's when we got the Internet.
+
+00:03:29.150 --> 00:03:32.150
+Von Neumann, in the '50s, did the same thing for computing;
+
+00:03:32.150 --> 00:03:35.150
+he showed you can have an unreliable computer but restore its state
+
+00:03:35.150 --> 00:03:39.150
+to make it perfect. This was the last great analog computer at MIT:
+
+00:03:39.150 --> 00:03:41.150
+a differential analyzer, and the more you ran it,
+
+00:03:41.150 --> 00:03:43.150
+the worse the answer got.
+
+00:03:43.150 --> 00:03:46.150
+After Von Neumann, we have the Pentium, where the billionth transistor
+
+00:03:46.150 --> 00:03:49.150
+is as reliable as the first one.
+
+00:03:49.150 --> 00:03:52.150
+But all our fabrication is down in this lower left corner.
+
+00:03:52.150 --> 00:03:55.150
+A state-of-the-art airplane factory rotating metal wax at fixed metal,
+
+00:03:55.150 --> 00:03:58.150
+or you maybe melt some plastic. A 10-billion-dollar chip fab
+
+00:03:58.150 --> 00:04:01.150
+uses a process a village artisan would recognize --
+
+00:04:01.150 --> 00:04:04.150
+you spread stuff around and bake it.
+
+00:04:04.150 --> 00:04:06.150
+All the intelligence is external to the system;
+
+00:04:06.150 --> 00:04:08.150
+the materials don't have information.
+
+00:04:08.150 --> 00:04:11.150
+Yesterday you heard about molecular biology,
+
+00:04:11.150 --> 00:04:13.150
+which fundamentally computes to build.
+
+00:04:13.150 --> 00:04:15.150
+It's an information processing system.
+
+00:04:15.150 --> 00:04:19.150
+We've had digital revolutions in communication and computation,
+
+00:04:19.150 --> 00:04:22.150
+but precisely the same idea, precisely the same math
+
+00:04:22.150 --> 00:04:24.150
+Shannon and Von Neuman did, hasn't yet come out
+
+00:04:24.150 --> 00:04:27.150
+to the physical world. So, inspired by that,
+
+00:04:27.150 --> 00:04:29.150
+colleagues in this program -- the Center for Bits and Atoms
+
+00:04:29.150 --> 00:04:32.150
+at MIT -- which is a group of people, like me,
+
+00:04:32.150 --> 00:04:35.150
+who never understood the boundary between physical science
+
+00:04:35.150 --> 00:04:38.150
+and computer science. I would even go further and say
+
+00:04:38.150 --> 00:04:40.150
+computer science is one of the worst things that ever happened
+
+00:04:40.150 --> 00:04:42.150
+to either computers or to science --
+
+00:04:42.150 --> 00:04:43.150
+(Laughter)
+
+00:04:43.150 --> 00:04:47.150
+-- because the canon -- computer science --
+
+00:04:47.150 --> 00:04:49.150
+many of them are great but the canon of computer science
+
+00:04:49.150 --> 00:04:52.150
+prematurely froze a model of computation
+
+00:04:52.150 --> 00:04:55.150
+based on technology that was available in 1950,
+
+00:04:55.150 --> 00:04:57.150
+and nature's a much more powerful computer than that.
+
+00:04:57.150 --> 00:05:01.150
+So, you'll hear, tomorrow, from Saul Griffith. He was one of the
+
+00:05:01.150 --> 00:05:04.150
+first students to emerge from this program.
+
+00:05:04.150 --> 00:05:07.150
+We started to figure out how you can compute to fabricate.
+
+00:05:07.150 --> 00:05:10.150
+This was just a proof of principle he did of tiles
+
+00:05:10.150 --> 00:05:12.150
+that interact magnetically, where you write a code,
+
+00:05:12.150 --> 00:05:15.150
+much like protein folding, that specifies their structure.
+
+00:05:15.150 --> 00:05:18.150
+So, there's no feedback to a tool metrology;
+
+00:05:18.150 --> 00:05:23.150
+the material itself codes for its structure in just the same ways
+
+00:05:23.150 --> 00:05:27.150
+that protein are fabricated. So, you can, for example, do that.
+
+00:05:27.150 --> 00:05:30.150
+You can do other things. That's in 2D. It works in 3D.
+
+00:05:30.150 --> 00:05:32.150
+The video on the upper right -- I won't show for time --
+
+00:05:32.150 --> 00:05:36.150
+shows self-replication, templating so something can make something
+
+00:05:36.150 --> 00:05:39.150
+that can make something, and we're doing that now over, maybe,
+
+00:05:39.150 --> 00:05:42.150
+nine orders of magnitude. Those ideas have been used to show
+
+00:05:42.150 --> 00:05:45.150
+the best fidelity and direct rate DNA to make an organism,
+
+00:05:45.150 --> 00:05:48.150
+in functionalizing nanoclusters with peptide tails
+
+00:05:48.150 --> 00:05:50.150
+that code for their assembly -- so, much like the magnets,
+
+00:05:50.150 --> 00:05:52.150
+but now on nanometer scales.
+
+00:05:52.150 --> 00:05:56.150
+Laser micro-machining: essentially 3D printers that digitally fabricate
+
+00:05:56.150 --> 00:05:59.150
+functional systems, all the way up to building buildings,
+
+00:05:59.150 --> 00:06:00.150
+not by having blueprints,
+
+00:06:00.150 --> 00:06:03.150
+but having the parts code for the structure of the building.
+
+00:06:03.150 --> 00:06:08.150
+So, these are early examples in the lab of emerging technologies
+
+00:06:08.150 --> 00:06:12.150
+to digitize fabrication. Computers that don't control tools
+
+00:06:12.150 --> 00:06:16.150
+but computers that are tools, where the output of a program
+
+00:06:16.150 --> 00:06:20.150
+rearranges atoms as well as bits.
+
+00:06:20.150 --> 00:06:23.150
+Now, to do that -- with your tax dollars, thank you --
+
+00:06:23.150 --> 00:06:27.150
+I bought all these machines. We made a modest proposal
+
+00:06:27.150 --> 00:06:31.150
+to the NSF. We wanted to be able to make anything on any length scale,
+
+00:06:31.150 --> 00:06:35.150
+all in one place, because you can't segregate digital fabrication
+
+00:06:35.150 --> 00:06:37.150
+by a discipline or a length scale.
+
+00:06:37.150 --> 00:06:41.150
+So we put together focused nano beam writers
+
+00:06:41.150 --> 00:06:46.150
+and supersonic water jet cutters and excimer micro-machining systems.
+
+00:06:46.150 --> 00:06:49.150
+But I had a problem. Once I had all these machines,
+
+00:06:49.150 --> 00:06:52.150
+I was spending too much time teaching students to use them.
+
+00:06:52.150 --> 00:06:54.150
+So I started teaching a class, modestly called,
+
+00:06:54.150 --> 00:06:57.150
+"How To Make Almost Anything." And that wasn't meant to be provocative;
+
+00:06:57.150 --> 00:06:59.150
+it was just for a few research students.
+
+00:06:59.150 --> 00:07:01.150
+But the first day of class looked like this.
+
+00:07:01.150 --> 00:07:03.150
+You know, hundreds of people came in begging,
+
+00:07:03.150 --> 00:07:06.150
+all my life I've been waiting for this class; I'll do anything to do it.
+
+00:07:06.150 --> 00:07:09.150
+Then they'd ask, can you teach it at MIT? It seems too useful?
+
+00:07:09.150 --> 00:07:10.150
+And then the next --
+
+00:07:10.150 --> 00:07:12.150
+(Laughter)
+
+00:07:12.150 --> 00:07:13.150
+-- surprising thing was they weren't there to do research.
+
+00:07:13.150 --> 00:07:15.150
+They were there because they wanted to make stuff.
+
+00:07:15.150 --> 00:07:19.150
+They had no conventional technical background.
+
+00:07:19.150 --> 00:07:21.150
+At the end of a semester they integrated their skills.
+
+00:07:21.150 --> 00:07:25.150
+I'll show an old video. Kelly was a sculptor, and this is what she did
+
+00:07:25.150 --> 00:07:27.150
+with her semester project.
+
+00:07:27.150 --> 00:07:30.150
+(Video): Kelly: Hi, I'm Kelly and this is my scream buddy.
+
+00:07:32.150 --> 00:07:35.150
+Do you ever find yourself in a situation
+
+00:07:35.150 --> 00:07:40.150
+where you really have to scream, but you can't because you're at work,
+
+00:07:40.150 --> 00:07:43.150
+or you're in a classroom, or you're watching your children,
+
+00:07:43.150 --> 00:07:48.150
+or you're in any number of situations where it's just not permitted?
+
+00:07:48.150 --> 00:07:52.150
+Well, scream buddy is a portable space for screaming.
+
+00:07:52.150 --> 00:07:57.150
+When a user screams into scream buddy, their scream is silenced.
+
+00:07:57.150 --> 00:08:01.150
+It is also recorded for later release where, when and how
+
+00:08:01.150 --> 00:08:02.150
+the user chooses.
+
+00:08:23.150 --> 00:08:25.150
+(Scream)
+
+00:08:26.150 --> 00:08:30.150
+(Laughter) (Applause)
+
+00:08:30.150 --> 00:08:32.150
+So, Einstein would like this.
+
+00:08:32.150 --> 00:08:33.150
+This student made a web browser for parrots --
+
+00:08:33.150 --> 00:08:36.150
+lets parrots surf the Net and talk to other parrots.
+
+00:08:36.150 --> 00:08:38.150
+This student's made an alarm clock you wrestle
+
+00:08:38.150 --> 00:08:40.150
+to prove you're awake; this is one that defends --
+
+00:08:40.150 --> 00:08:42.150
+a dress that defends your personal space.
+
+00:08:42.150 --> 00:08:44.150
+This isn't technology for communication;
+
+00:08:44.150 --> 00:08:46.150
+it's technology to prevent it.
+
+00:08:46.150 --> 00:08:49.150
+This is a device that lets you see your music.
+
+00:08:49.150 --> 00:08:52.150
+This is a student who made a machine that makes machines,
+
+00:08:52.150 --> 00:08:55.150
+and he made it by making Lego bricks that do the computing.
+
+00:08:55.150 --> 00:08:57.150
+Just year after year -- and I finally realized
+
+00:08:57.150 --> 00:09:01.150
+the students were showing the killer app of personal fabrication
+
+00:09:01.150 --> 00:09:03.150
+is products for a market of one person.
+
+00:09:03.150 --> 00:09:05.150
+You don't need this for what you can get in Wal-Mart;
+
+00:09:05.150 --> 00:09:06.150
+you need this for what makes you unique.
+
+00:09:06.150 --> 00:09:10.150
+Ken Olsen famously said, nobody needs a computer in the home.
+
+00:09:10.150 --> 00:09:12.150
+But you don't use it for inventory and payroll;
+
+00:09:12.150 --> 00:09:15.150
+DEC is now twice bankrupt. You don't need personal fabrication
+
+00:09:15.150 --> 00:09:17.150
+in the home to buy what you can buy because you can buy it.
+
+00:09:17.150 --> 00:09:21.150
+You need it for what makes you unique, just like personalization.
+
+00:09:21.150 --> 00:09:25.150
+So, with that, in turn, 20 million dollars today does this;
+
+00:09:25.150 --> 00:09:29.150
+20 years from now we'll make Star Trek replicators that make anything.
+
+00:09:29.150 --> 00:09:33.150
+The students hijacked all the machines I bought to do personal fabrication.
+
+00:09:33.150 --> 00:09:35.150
+Today, when you spend that much of your money,
+
+00:09:35.150 --> 00:09:38.150
+there's a government requirement to do outreach, which often means
+
+00:09:38.150 --> 00:09:41.150
+classes at a local school, a website -- stuff that's just not that exciting.
+
+00:09:41.150 --> 00:09:45.150
+So, I made a deal with my NSF program managers that
+
+00:09:45.150 --> 00:09:47.150
+instead of talking about it, I'd give people the tools.
+
+00:09:47.150 --> 00:09:49.150
+This wasn't meant to be provocative or important,
+
+00:09:49.150 --> 00:09:53.150
+but we put together these Fab Labs. It's about 20,000 dollars in equipment
+
+00:09:53.150 --> 00:09:58.150
+that approximate both what the 20 million dollars does and where it's going.
+
+00:09:58.150 --> 00:10:01.150
+A laser cutter to do press-fit assembly with 3D from 2D,
+
+00:10:01.150 --> 00:10:03.150
+a sign cutter to plot in copper to do electromagnetics,
+
+00:10:03.150 --> 00:10:05.150
+a micron scale,
+
+00:10:05.150 --> 00:10:07.150
+numerically-controlled milling machine for precise structures,
+
+00:10:07.150 --> 00:10:10.150
+programming tools for less than a dollar,
+
+00:10:10.150 --> 00:10:13.150
+100-nanosecond microcontrollers. It lets you work from microns
+
+00:10:13.150 --> 00:10:17.150
+and microseconds on up, and they exploded around the world.
+
+00:10:17.150 --> 00:10:19.150
+This wasn't scheduled, but they went from inner-city Boston
+
+00:10:19.150 --> 00:10:23.150
+to Pobal in India, to Secondi-Takoradi on Ghana's coast
+
+00:10:23.150 --> 00:10:26.150
+to Soshanguve in a township in South Africa,
+
+00:10:26.150 --> 00:10:30.150
+to the far north of Norway, uncovering, or helping uncover,
+
+00:10:30.150 --> 00:10:33.150
+for all the attention to the digital divide,
+
+00:10:33.150 --> 00:10:37.150
+we would find unused computers in all these places.
+
+00:10:37.150 --> 00:10:40.150
+A farmer in a rural village -- a kid needs to measure and modify
+
+00:10:40.150 --> 00:10:44.150
+the world, not just get information about it on a screen.
+
+00:10:44.150 --> 00:10:46.150
+That there's really a fabrication and an instrumentation divide
+
+00:10:46.150 --> 00:10:49.150
+bigger than the digital divide.
+
+00:10:49.150 --> 00:10:52.150
+And the way you close it is not IT for the masses but IT development for the masses.
+
+00:10:52.150 --> 00:10:55.150
+So, in place after place
+
+00:10:55.150 --> 00:10:58.150
+we saw this same progression: that we'd open one of these Fab Labs,
+
+00:10:58.150 --> 00:11:01.150
+where we didn't -- this is too crazy to think of.
+
+00:11:01.150 --> 00:11:04.150
+We didn't think this up, that we would get pulled to these places;
+
+00:11:04.150 --> 00:11:06.150
+we'd open it. The first step was just empowerment.
+
+00:11:06.150 --> 00:11:09.150
+You can see it in their face, just this joy of, I can do it.
+
+00:11:09.150 --> 00:11:11.150
+This is a girl in inner-city Boston who had just done a high-tech
+
+00:11:11.150 --> 00:11:15.150
+on-demand craft sale in the inner city community center.
+
+00:11:15.150 --> 00:11:19.150
+It goes on from there to serious hands-on technical education
+
+00:11:19.150 --> 00:11:24.150
+informally, out of schools. In Ghana we had set up one of these labs.
+
+00:11:24.150 --> 00:11:26.150
+We designed a network sensor, and kids would show up
+
+00:11:26.150 --> 00:11:27.150
+and refuse to leave the lab.
+
+00:11:27.150 --> 00:11:30.150
+There was a girl who insisted we stay late at night --
+
+00:11:30.150 --> 00:11:32.150
+(Video): Kids: I love the Fab Lab.
+
+00:11:32.150 --> 00:11:35.150
+-- her first night in the lab because she was going to make the sensor.
+
+00:11:35.150 --> 00:11:38.150
+So she insisted on fabbing the board, learning how to stuff it,
+
+00:11:38.150 --> 00:11:40.150
+learning how to program it. She didn't really know
+
+00:11:40.150 --> 00:11:42.150
+what she was doing or why she was doing it, but she knew
+
+00:11:42.150 --> 00:11:45.150
+she just had to do it. There was something electric about it.
+
+00:11:45.150 --> 00:11:47.150
+This is late at, you know, 11 o'clock at night
+
+00:11:47.150 --> 00:11:50.150
+and I think I was the only person surprised when what she built
+
+00:11:50.150 --> 00:11:52.150
+worked the first time.
+
+00:11:52.150 --> 00:11:54.150
+And I've shown this to engineers at big companies, and they say
+
+00:11:54.150 --> 00:11:57.150
+they can't do this. Any one thing she's doing, they can do better,
+
+00:11:57.150 --> 00:12:00.150
+but it's distributed over many people and many sites
+
+00:12:00.150 --> 00:12:01.150
+and they can't do in an afternoon
+
+00:12:01.150 --> 00:12:04.150
+what this little girl in rural Ghana is doing.
+
+00:12:20.150 --> 00:12:24.150
+(Video): Girl: My name is Valentina Kofi; I am eight years old.
+
+00:12:24.150 --> 00:12:27.150
+I made a stacking board.
+
+00:12:27.150 --> 00:12:30.150
+And, again, that was just for the joy of it.
+
+00:12:30.150 --> 00:12:33.150
+Then these labs started doing serious problem solving --
+
+00:12:33.150 --> 00:12:35.150
+instrumentation for agriculture in India,
+
+00:12:35.150 --> 00:12:37.150
+steam turbines for energy conversion in Ghana,
+
+00:12:37.150 --> 00:12:41.150
+high-gain antennas in thin client computers.
+
+00:12:41.150 --> 00:12:42.150
+And then, in turn, businesses started to grow,
+
+00:12:42.150 --> 00:12:43.150
+like making these antennas.
+
+00:12:43.150 --> 00:12:45.150
+And finally, the lab started doing invention.
+
+00:12:45.150 --> 00:12:47.150
+We're learning more from them than we're giving them.
+
+00:12:47.150 --> 00:12:50.150
+I was showing my kids in a Fab Lab how to use it.
+
+00:12:50.150 --> 00:12:54.150
+They invented a way to do a construction kit out of a cardboard box --
+
+00:12:54.150 --> 00:12:56.150
+which, as you see up there, that's becoming a business --
+
+00:12:56.150 --> 00:12:59.150
+but their design was better than Saul's design at MIT,
+
+00:12:59.150 --> 00:13:02.150
+so there's now three students at MIT doing their theses on
+
+00:13:02.150 --> 00:13:05.150
+scaling the work of eight-year-old children
+
+00:13:05.150 --> 00:13:06.150
+because they had better designs.
+
+00:13:06.150 --> 00:13:09.150
+Real invention is happening in these labs.
+
+00:13:09.150 --> 00:13:11.150
+And I still kept -- so, in the last year I've been spending time with
+
+00:13:11.150 --> 00:13:14.150
+heads of state and generals and tribal chiefs who all want this,
+
+00:13:14.150 --> 00:13:16.150
+and I keep saying, but this isn't the real thing.
+
+00:13:16.150 --> 00:13:18.150
+Wait, like, 20 years and then we'll be done.
+
+00:13:18.150 --> 00:13:21.150
+And I finally got what's been going on. This is Kernigan and Ritchie
+
+00:13:21.150 --> 00:13:24.150
+inventing UNIX on a PDP.
+
+00:13:24.150 --> 00:13:26.150
+PDPs came between mainframes and minicomputers.
+
+00:13:26.150 --> 00:13:29.150
+They were tens of thousands of dollars, hard to use,
+
+00:13:29.150 --> 00:13:31.150
+but they brought computing down to work groups,
+
+00:13:31.150 --> 00:13:33.150
+and everything we do today happened there.
+
+00:13:33.150 --> 00:13:36.150
+These Fab Labs are the cost and complexity of a PDP.
+
+00:13:36.150 --> 00:13:38.150
+The projection of digital fabrication
+
+00:13:38.150 --> 00:13:41.150
+isn't a projection for the future; we are now in the PDP era.
+
+00:13:41.150 --> 00:13:44.150
+We talked in hushed tones about the great discoveries then.
+
+00:13:44.150 --> 00:13:47.150
+It was very chaotic, it wasn't, sort of, clear what was going on.
+
+00:13:47.150 --> 00:13:50.150
+In the same sense we are now, today, in the minicomputer era
+
+00:13:50.150 --> 00:13:52.150
+of digital fabrication.
+
+00:13:52.150 --> 00:13:56.150
+The only problem with that is it breaks everybody's boundaries.
+
+00:13:56.150 --> 00:13:59.150
+In DC, I go to every agency that wants to talk, you know;
+
+00:13:59.150 --> 00:14:01.150
+in the Bay Area, I go to every organization you can think of --
+
+00:14:01.150 --> 00:14:03.150
+they all want to talk about it, but it breaks
+
+00:14:03.150 --> 00:14:06.150
+their organizational boundaries. In fact, it's illegal for them,
+
+00:14:06.150 --> 00:14:10.150
+in many cases, to equip ordinary people to create
+
+00:14:10.150 --> 00:14:11.150
+rather than consume technology.
+
+00:14:11.150 --> 00:14:15.150
+And that problem is so severe that the ultimate invention
+
+00:14:15.150 --> 00:14:18.150
+coming from this community surprised me:
+
+00:14:18.150 --> 00:14:22.150
+it's the social engineering. That the lab in far north of Norway --
+
+00:14:22.150 --> 00:14:24.150
+this is so far north its satellite dishes look at the ground
+
+00:14:24.150 --> 00:14:28.150
+rather than the sky because that's where the satellites are --
+
+00:14:28.150 --> 00:14:29.150
+the lab outgrew the little barn that it was in.
+
+00:14:29.150 --> 00:14:32.150
+It was there because they wanted to find animals in the mountains
+
+00:14:32.150 --> 00:14:36.150
+but it outgrew it, so they built this extraordinary village for the lab.
+
+00:14:36.150 --> 00:14:38.150
+This isn't a university; it's not a company. It's essentially
+
+00:14:38.150 --> 00:14:43.150
+a village for invention; it's a village for the outliers in society,
+
+00:14:43.150 --> 00:14:45.150
+and those have been growing up around these Fab Labs
+
+00:14:45.150 --> 00:14:46.150
+all around the world.
+
+00:14:46.150 --> 00:14:50.150
+So this program has split into an NGO foundation,
+
+00:14:50.150 --> 00:14:54.150
+a Fab Foundation to support the scaling, a micro VC fund.
+
+00:14:54.150 --> 00:14:55.150
+The person who runs it nicely describes it as
+
+00:14:55.150 --> 00:14:59.150
+"machines that make machines need businesses that make businesses:"
+
+00:14:59.150 --> 00:15:02.150
+it's a cross between micro-finance and VC to do fan-out,
+
+00:15:02.150 --> 00:15:04.150
+and then the research partnerships back at MIT for what's
+
+00:15:04.150 --> 00:15:07.150
+making it possible.
+
+00:15:07.150 --> 00:15:09.150
+So I'd like to leave you with two thoughts.
+
+00:15:09.150 --> 00:15:14.150
+There's been a sea change in aid, from top-down mega-projects
+
+00:15:14.150 --> 00:15:18.150
+to bottom-up, grassroots, micro-finance investing in the roots,
+
+00:15:18.150 --> 00:15:21.150
+so that everybody's got that that's what works.
+
+00:15:21.150 --> 00:15:24.150
+But we still look at technology as top-down mega-projects.
+
+00:15:24.150 --> 00:15:27.150
+Computing, communication, energy for the rest of the planet
+
+00:15:27.150 --> 00:15:29.150
+are these top-down mega-projects.
+
+00:15:29.150 --> 00:15:31.150
+If this room full of heroes is just clever enough,
+
+00:15:31.150 --> 00:15:33.150
+you can solve the problems.
+
+00:15:33.150 --> 00:15:35.150
+The message coming from the Fab Labs is that
+
+00:15:35.150 --> 00:15:37.150
+the other five billion people on the planet
+
+00:15:37.150 --> 00:15:39.150
+aren't just technical sinks; they're sources.
+
+00:15:39.150 --> 00:15:42.150
+The real opportunity is to harness the inventive power of the world
+
+00:15:42.150 --> 00:15:46.150
+to locally design and produce solutions to local problems.
+
+00:15:46.150 --> 00:15:49.150
+I thought that's the projection 20 years hence into the future,
+
+00:15:49.150 --> 00:15:51.150
+but it's where we are today.
+
+00:15:51.150 --> 00:15:53.150
+It breaks every organizational boundary we can think of.
+
+00:15:53.150 --> 00:15:56.150
+The hardest thing at this point is the social engineering
+
+00:15:56.150 --> 00:15:59.150
+and the organizational engineering, but it's here today.
+
+00:15:59.150 --> 00:16:01.150
+And, finally, any talk like this on the future of computing
+
+00:16:01.150 --> 00:16:05.150
+is required to show Moore's law, but my favorite version --
+
+00:16:05.150 --> 00:16:10.150
+this is Gordon Moore's original one from his original paper --
+
+00:16:10.150 --> 00:16:12.150
+and what's happened is, year after year after year,
+
+00:16:12.150 --> 00:16:13.150
+we've scaled and we've scaled and we've scaled
+
+00:16:13.150 --> 00:16:17.150
+and we've scaled, and we've scaled and we've scaled,
+
+00:16:17.150 --> 00:16:18.150
+and we've scaled and we've scaled,
+
+00:16:18.150 --> 00:16:20.150
+and there's this looming bug of what's going to happen
+
+00:16:20.150 --> 00:16:24.150
+at the end of Moore's law; this ultimate bug is coming.
+
+00:16:24.150 --> 00:16:29.150
+But we're coming to appreciate, is the transition from 2D to 3D,
+
+00:16:29.150 --> 00:16:32.150
+from programming bits to programming atoms,
+
+00:16:32.150 --> 00:16:34.150
+turns the ends of Moore's law scaling from the ultimate bug
+
+00:16:34.150 --> 00:16:36.150
+to the ultimate feature.
+
+00:16:36.150 --> 00:16:40.150
+So, we're just at the edge of this digital revolution in fabrication,
+
+00:16:40.150 --> 00:16:43.150
+where the output of computation programs the physical world.
+
+00:16:43.150 --> 00:16:46.150
+So, together, these two projects answer questions
+
+00:16:46.150 --> 00:16:50.150
+I hadn't asked carefully. The class at MIT shows the killer app
+
+00:16:50.150 --> 00:16:52.150
+for personal fabrication in the developed world
+
+00:16:52.150 --> 00:16:56.150
+is technology for a market of one: personal expression in technology
+
+00:16:56.150 --> 00:16:59.150
+that touches a passion unlike anything I've seen in technology
+
+00:16:59.150 --> 00:17:01.150
+for a very long time.
+
+00:17:01.150 --> 00:17:05.150
+And the killer app for the rest of the planet is the instrumentation
+
+00:17:05.150 --> 00:17:08.150
+and the fabrication divide: people locally developing solutions
+
+00:17:08.150 --> 00:17:10.150
+to local problems. Thank you.

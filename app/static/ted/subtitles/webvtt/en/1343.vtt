@@ -1,0 +1,1085 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.000
+Everybody in our society's life is touched by cancer --
+
+00:00:03.000 --> 00:00:05.000
+if not personally,
+
+00:00:05.000 --> 00:00:08.000
+then through a loved one, a family member,
+
+00:00:08.000 --> 00:00:10.000
+colleague, friend.
+
+00:00:10.000 --> 00:00:13.000
+And once our lives are touched by cancer,
+
+00:00:13.000 --> 00:00:15.000
+we quickly learn
+
+00:00:15.000 --> 00:00:17.000
+that there are basically
+
+00:00:17.000 --> 00:00:20.000
+three weapons, or three tools, that are available
+
+00:00:20.000 --> 00:00:23.000
+to fight the disease:
+
+00:00:23.000 --> 00:00:26.000
+surgery, radiation and chemotherapy.
+
+00:00:26.000 --> 00:00:29.000
+And once we get involved
+
+00:00:29.000 --> 00:00:32.000
+in the therapeutic decisions,
+
+00:00:32.000 --> 00:00:34.000
+again either personally
+
+00:00:34.000 --> 00:00:37.000
+or with our loved ones and family members,
+
+00:00:37.000 --> 00:00:40.000
+we also very quickly learn
+
+00:00:40.000 --> 00:00:43.000
+the benefits, the trade-offs and the limitations
+
+00:00:43.000 --> 00:00:45.000
+of these tools.
+
+00:00:45.000 --> 00:00:47.000
+I'm very thankful to Jay and to Mark
+
+00:00:47.000 --> 00:00:49.000
+and the TEDMED team
+
+00:00:49.000 --> 00:00:51.000
+for inviting me today
+
+00:00:51.000 --> 00:00:54.000
+to describe a fourth tool, a new tool,
+
+00:00:54.000 --> 00:00:57.000
+that we call Tumor Treating Fields.
+
+00:00:57.000 --> 00:00:59.000
+Tumor Treating Fields
+
+00:00:59.000 --> 00:01:02.000
+were invented by Dr. Yoram Palti,
+
+00:01:02.000 --> 00:01:05.000
+professor emeritus at the Technion in Israel.
+
+00:01:05.000 --> 00:01:07.000
+And they use low-intensity
+
+00:01:07.000 --> 00:01:09.000
+electric fields
+
+00:01:09.000 --> 00:01:11.000
+to fight cancer.
+
+00:01:11.000 --> 00:01:14.000
+To understand how Tumor Treating Fields work,
+
+00:01:14.000 --> 00:01:16.000
+we first need to understand
+
+00:01:16.000 --> 00:01:18.000
+what are electric fields.
+
+00:01:18.000 --> 00:01:21.000
+Let me first address
+
+00:01:21.000 --> 00:01:24.000
+a few popular misconceptions.
+
+00:01:24.000 --> 00:01:26.000
+First of all, electric fields
+
+00:01:26.000 --> 00:01:28.000
+are not an electric current
+
+00:01:28.000 --> 00:01:31.000
+that is coursing through the tissue.
+
+00:01:31.000 --> 00:01:33.000
+Electric fields
+
+00:01:33.000 --> 00:01:35.000
+are not ionizing radiation,
+
+00:01:35.000 --> 00:01:37.000
+like X-rays or proton beams,
+
+00:01:37.000 --> 00:01:39.000
+that bombard tissue
+
+00:01:39.000 --> 00:01:41.000
+to disrupt DNA.
+
+00:01:41.000 --> 00:01:43.000
+And electric fields
+
+00:01:43.000 --> 00:01:45.000
+are not magnetism.
+
+00:01:45.000 --> 00:01:47.000
+What electric fields are
+
+00:01:47.000 --> 00:01:50.000
+are a field of forces.
+
+00:01:50.000 --> 00:01:52.000
+And these forces
+
+00:01:52.000 --> 00:01:55.000
+act on, attract, bodies
+
+00:01:55.000 --> 00:01:58.000
+that have an electrical charge.
+
+00:01:58.000 --> 00:02:00.000
+The best way to visualize an electric field
+
+00:02:00.000 --> 00:02:02.000
+is to think of gravity.
+
+00:02:02.000 --> 00:02:05.000
+Gravity is also a field of forces
+
+00:02:05.000 --> 00:02:07.000
+that act on masses.
+
+00:02:07.000 --> 00:02:10.000
+We can all picture astronauts in space.
+
+00:02:10.000 --> 00:02:12.000
+They float freely in three dimensions
+
+00:02:12.000 --> 00:02:14.000
+without any forces acting on them.
+
+00:02:14.000 --> 00:02:17.000
+But as that space shuttle
+
+00:02:17.000 --> 00:02:19.000
+returns to Earth,
+
+00:02:19.000 --> 00:02:22.000
+and as the astronauts enter the Earth's gravitational field,
+
+00:02:22.000 --> 00:02:25.000
+they begin to see the effects of gravity.
+
+00:02:25.000 --> 00:02:27.000
+They begin to be attracted towards Earth.
+
+00:02:27.000 --> 00:02:29.000
+And as they land,
+
+00:02:29.000 --> 00:02:31.000
+they're fully aligned in the gravitational field.
+
+00:02:31.000 --> 00:02:34.000
+We're, of course, all stuck in the Earth's gravitational field right now.
+
+00:02:34.000 --> 00:02:37.000
+That's why you're all in your chairs.
+
+00:02:37.000 --> 00:02:39.000
+And that's why we have to use our muscle energy
+
+00:02:39.000 --> 00:02:41.000
+to stand up, to walk around
+
+00:02:41.000 --> 00:02:44.000
+and to lift things.
+
+00:02:44.000 --> 00:02:46.000
+In cancer,
+
+00:02:46.000 --> 00:02:48.000
+cells rapidly divide
+
+00:02:48.000 --> 00:02:51.000
+and lead to uncontrolled tumor growth.
+
+00:02:51.000 --> 00:02:54.000
+We can think of a cell
+
+00:02:54.000 --> 00:02:56.000
+from an electrical perspective
+
+00:02:56.000 --> 00:02:59.000
+as if it's a mini space station.
+
+00:02:59.000 --> 00:03:01.000
+And in that space station
+
+00:03:01.000 --> 00:03:04.000
+we have the genetic material, the chromosomes,
+
+00:03:04.000 --> 00:03:06.000
+within a nucleus.
+
+00:03:06.000 --> 00:03:08.000
+And out in the cytoplasmic soup
+
+00:03:08.000 --> 00:03:10.000
+we have special proteins
+
+00:03:10.000 --> 00:03:12.000
+that are required for cell division
+
+00:03:12.000 --> 00:03:14.000
+that float freely in this soup
+
+00:03:14.000 --> 00:03:16.000
+in three dimensions.
+
+00:03:16.000 --> 00:03:19.000
+Importantly, those special proteins
+
+00:03:19.000 --> 00:03:22.000
+are among the most highly charged objects
+
+00:03:22.000 --> 00:03:24.000
+in our body.
+
+00:03:24.000 --> 00:03:26.000
+As cell division begins
+
+00:03:26.000 --> 00:03:28.000
+the nucleus disintegrates,
+
+00:03:28.000 --> 00:03:30.000
+the chromosomes line up
+
+00:03:30.000 --> 00:03:32.000
+in the middle of the cell
+
+00:03:32.000 --> 00:03:34.000
+and those special proteins
+
+00:03:34.000 --> 00:03:38.000
+undergo a three-dimensional sequence
+
+00:03:38.000 --> 00:03:40.000
+whereby they attach
+
+00:03:40.000 --> 00:03:43.000
+and they literally click into place end-on-end
+
+00:03:43.000 --> 00:03:45.000
+to form chains.
+
+00:03:45.000 --> 00:03:47.000
+These chains
+
+00:03:47.000 --> 00:03:49.000
+then progress and attach
+
+00:03:49.000 --> 00:03:52.000
+to the genetic material
+
+00:03:52.000 --> 00:03:54.000
+and pull the genetic material
+
+00:03:54.000 --> 00:03:56.000
+from one cell into two cells.
+
+00:03:56.000 --> 00:03:58.000
+And this is exactly how
+
+00:03:58.000 --> 00:04:00.000
+one cancer cell becomes two cancer cells,
+
+00:04:00.000 --> 00:04:02.000
+two cancer cells become four cancer cells,
+
+00:04:02.000 --> 00:04:04.000
+and we have ultimately
+
+00:04:04.000 --> 00:04:07.000
+uncontrolled tumor growth.
+
+00:04:07.000 --> 00:04:10.000
+Tumor Treating Fields
+
+00:04:10.000 --> 00:04:14.000
+use externally placed transducers
+
+00:04:14.000 --> 00:04:17.000
+attached to a field generator
+
+00:04:17.000 --> 00:04:21.000
+to create an artificial electric field
+
+00:04:21.000 --> 00:04:24.000
+on that space station.
+
+00:04:24.000 --> 00:04:27.000
+And when that cellular space station
+
+00:04:27.000 --> 00:04:29.000
+is within the electric field,
+
+00:04:29.000 --> 00:04:33.000
+it acts on those highly charged proteins
+
+00:04:33.000 --> 00:04:35.000
+and aligns them.
+
+00:04:35.000 --> 00:04:38.000
+And it prevents them from forming those chains,
+
+00:04:38.000 --> 00:04:40.000
+those mitotic spindles,
+
+00:04:40.000 --> 00:04:43.000
+that are necessary to pull the genetic material
+
+00:04:43.000 --> 00:04:45.000
+into the daughter cells.
+
+00:04:45.000 --> 00:04:48.000
+What we see is that the cells will attempt to divide
+
+00:04:48.000 --> 00:04:50.000
+for several hours.
+
+00:04:50.000 --> 00:04:53.000
+And they will either enter into
+
+00:04:53.000 --> 00:04:55.000
+this so-called cellular suicide,
+
+00:04:55.000 --> 00:04:57.000
+programmed cell death,
+
+00:04:57.000 --> 00:05:00.000
+or they will form unhealthy daughter cells
+
+00:05:00.000 --> 00:05:03.000
+and enter into apoptosis
+
+00:05:03.000 --> 00:05:05.000
+once they have divided.
+
+00:05:05.000 --> 00:05:07.000
+And we can observe this.
+
+00:05:07.000 --> 00:05:09.000
+What I'm going to show you next
+
+00:05:09.000 --> 00:05:11.000
+are two in vitro experiments.
+
+00:05:11.000 --> 00:05:14.000
+This is cultures, identical cultures,
+
+00:05:14.000 --> 00:05:16.000
+of cervical cancer cells.
+
+00:05:16.000 --> 00:05:18.000
+And we've stained these cultures
+
+00:05:18.000 --> 00:05:20.000
+with a green florescent dye
+
+00:05:20.000 --> 00:05:23.000
+so that we can look at these proteins
+
+00:05:23.000 --> 00:05:25.000
+that form these chains.
+
+00:05:25.000 --> 00:05:27.000
+The first clip shows
+
+00:05:27.000 --> 00:05:30.000
+a normal cell division
+
+00:05:30.000 --> 00:05:33.000
+without the Tumor Treating Fields.
+
+00:05:33.000 --> 00:05:35.000
+What we see
+
+00:05:35.000 --> 00:05:37.000
+are, first of all, a very active culture,
+
+00:05:37.000 --> 00:05:39.000
+a lot of divisions,
+
+00:05:39.000 --> 00:05:41.000
+and then very clear nuclei
+
+00:05:41.000 --> 00:05:43.000
+once the cells have separated.
+
+00:05:43.000 --> 00:05:45.000
+And we can see them dividing throughout.
+
+00:05:45.000 --> 00:05:47.000
+When we apply the fields --
+
+00:05:47.000 --> 00:05:49.000
+again, in the identical time-scale
+
+00:05:49.000 --> 00:05:51.000
+to the identical culture --
+
+00:05:51.000 --> 00:05:53.000
+you're going to see something different.
+
+00:05:53.000 --> 00:05:55.000
+The cells round up for division,
+
+00:05:55.000 --> 00:05:58.000
+but they're very static in that position.
+
+00:05:58.000 --> 00:06:00.000
+We'll see two cells
+
+00:06:00.000 --> 00:06:05.000
+in the upper part of the screen
+
+00:06:05.000 --> 00:06:07.000
+attempting to divide.
+
+00:06:07.000 --> 00:06:09.000
+The one within the circle manages.
+
+00:06:09.000 --> 00:06:11.000
+But see how much of the protein
+
+00:06:11.000 --> 00:06:13.000
+is still throughout the nucleus,
+
+00:06:13.000 --> 00:06:15.000
+even in the dividing cell.
+
+00:06:15.000 --> 00:06:17.000
+The one up there can't divide at all.
+
+00:06:17.000 --> 00:06:20.000
+And then this bubbling, this membrane bubbling,
+
+00:06:20.000 --> 00:06:22.000
+is the hallmark
+
+00:06:22.000 --> 00:06:25.000
+of apoptosis in this cell.
+
+00:06:25.000 --> 00:06:29.000
+Formation of healthy mitotic spindles
+
+00:06:29.000 --> 00:06:32.000
+is necessary for division
+
+00:06:32.000 --> 00:06:34.000
+in all cell types.
+
+00:06:34.000 --> 00:06:36.000
+We've applied Tumor Treating Fields
+
+00:06:36.000 --> 00:06:39.000
+to over 20 different cancers in the lab,
+
+00:06:39.000 --> 00:06:41.000
+and we see this effect
+
+00:06:41.000 --> 00:06:44.000
+in all of them.
+
+00:06:44.000 --> 00:06:46.000
+Now importantly,
+
+00:06:46.000 --> 00:06:49.000
+these Tumor Treating Fields have no effect
+
+00:06:49.000 --> 00:06:51.000
+on normal undividing cells.
+
+00:06:51.000 --> 00:06:53.000
+10 years ago,
+
+00:06:53.000 --> 00:06:56.000
+Dr. Palti founded a company called Novocure
+
+00:06:56.000 --> 00:06:59.000
+to develop his discovery
+
+00:06:59.000 --> 00:07:02.000
+into a practical therapy for patients.
+
+00:07:02.000 --> 00:07:06.000
+In that time, Novocure's developed two systems --
+
+00:07:06.000 --> 00:07:09.000
+one system for cancers in the head
+
+00:07:09.000 --> 00:07:12.000
+and another system for cancers in the trunk of the body.
+
+00:07:12.000 --> 00:07:15.000
+The first cancer that we have focused on
+
+00:07:15.000 --> 00:07:18.000
+is the deadly brain cancer, GBM.
+
+00:07:18.000 --> 00:07:21.000
+GBM affects about 10,000 people
+
+00:07:21.000 --> 00:07:24.000
+in the U.S. each year.
+
+00:07:24.000 --> 00:07:26.000
+It's a death sentence.
+
+00:07:26.000 --> 00:07:28.000
+The expected five year survival
+
+00:07:28.000 --> 00:07:30.000
+is less than five percent.
+
+00:07:30.000 --> 00:07:32.000
+And the typical patient
+
+00:07:32.000 --> 00:07:34.000
+with optimal therapy
+
+00:07:34.000 --> 00:07:37.000
+survives just a little over a year,
+
+00:07:37.000 --> 00:07:39.000
+and only about seven months
+
+00:07:39.000 --> 00:07:42.000
+from the time that the cancer is first treated
+
+00:07:42.000 --> 00:07:45.000
+and then comes back and starts growing again.
+
+00:07:47.000 --> 00:07:49.000
+Novocure conducted
+
+00:07:49.000 --> 00:07:51.000
+its first phase three randomized trial
+
+00:07:51.000 --> 00:07:53.000
+in patients with recurrent GBM.
+
+00:07:53.000 --> 00:07:55.000
+So these are patients
+
+00:07:55.000 --> 00:07:59.000
+who had received surgery,
+
+00:07:59.000 --> 00:08:01.000
+high dose radiation to the head
+
+00:08:01.000 --> 00:08:03.000
+and first-line chemotherapy,
+
+00:08:03.000 --> 00:08:06.000
+and that had failed and their tumors had grown back.
+
+00:08:06.000 --> 00:08:09.000
+We divided the patients into two groups.
+
+00:08:09.000 --> 00:08:12.000
+The first group received second-line chemotherapy,
+
+00:08:12.000 --> 00:08:15.000
+which is expected to double the life expectancy,
+
+00:08:15.000 --> 00:08:17.000
+versus no treatment at all.
+
+00:08:17.000 --> 00:08:19.000
+And then the second group
+
+00:08:19.000 --> 00:08:22.000
+received only Tumor Treating Field therapy.
+
+00:08:22.000 --> 00:08:24.000
+What we saw in that trial
+
+00:08:24.000 --> 00:08:27.000
+is that that the life expectancies of both groups --
+
+00:08:27.000 --> 00:08:29.000
+so the chemotherapy treated group
+
+00:08:29.000 --> 00:08:31.000
+and the Tumor Treating Field group --
+
+00:08:31.000 --> 00:08:33.000
+was the same.
+
+00:08:33.000 --> 00:08:35.000
+But importantly,
+
+00:08:35.000 --> 00:08:38.000
+the Tumor Treating Field group
+
+00:08:38.000 --> 00:08:41.000
+suffered none of the side effects
+
+00:08:41.000 --> 00:08:44.000
+typical of chemotherapy patients.
+
+00:08:44.000 --> 00:08:46.000
+They had no pain,
+
+00:08:46.000 --> 00:08:49.000
+suffered none of the infections.
+
+00:08:49.000 --> 00:08:52.000
+They had no nausea, diarrhea,
+
+00:08:52.000 --> 00:08:55.000
+constipation, fatigue
+
+00:08:55.000 --> 00:08:57.000
+that would be expected.
+
+00:08:57.000 --> 00:08:59.000
+Based on this trial,
+
+00:08:59.000 --> 00:09:01.000
+in April of this year,
+
+00:09:01.000 --> 00:09:04.000
+the FDA approved Tumor Treating Fields
+
+00:09:04.000 --> 00:09:06.000
+for the treatment of patients
+
+00:09:06.000 --> 00:09:09.000
+with recurrent GBM.
+
+00:09:09.000 --> 00:09:12.000
+Importantly, it was the first time ever
+
+00:09:12.000 --> 00:09:14.000
+that the FDA included
+
+00:09:14.000 --> 00:09:17.000
+in their approval of an oncology treatment
+
+00:09:17.000 --> 00:09:19.000
+a quality of life claim.
+
+00:09:21.000 --> 00:09:24.000
+So I'm going to show you now
+
+00:09:24.000 --> 00:09:26.000
+one of the patients
+
+00:09:26.000 --> 00:09:29.000
+from this trial.
+
+00:09:29.000 --> 00:09:31.000
+Robert Dill-Bundi
+
+00:09:31.000 --> 00:09:33.000
+is a famous Swiss cycling champion.
+
+00:09:33.000 --> 00:09:35.000
+He won the gold medal in Moscow
+
+00:09:35.000 --> 00:09:38.000
+in the 4,000 meter pursuit.
+
+00:09:38.000 --> 00:09:41.000
+And five years ago,
+
+00:09:41.000 --> 00:09:44.000
+Robert was diagnosed with GBM.
+
+00:09:44.000 --> 00:09:46.000
+He received the standard treatments.
+
+00:09:46.000 --> 00:09:49.000
+He received surgery.
+
+00:09:49.000 --> 00:09:52.000
+He received high dose radiation to the head.
+
+00:09:52.000 --> 00:09:55.000
+And he received first-line chemotherapy.
+
+00:09:55.000 --> 00:09:57.000
+A year after this treatment --
+
+00:09:57.000 --> 00:10:00.000
+in fact, this is his baseline MRI.
+
+00:10:00.000 --> 00:10:03.000
+You can see that the black regions
+
+00:10:03.000 --> 00:10:05.000
+in the upper right quadrant
+
+00:10:05.000 --> 00:10:07.000
+are the areas where he had surgery.
+
+00:10:07.000 --> 00:10:09.000
+And a year after that treatment,
+
+00:10:09.000 --> 00:10:12.000
+his tumor grew back with a vengeance.
+
+00:10:12.000 --> 00:10:15.000
+That cloudy white mass that you see
+
+00:10:15.000 --> 00:10:18.000
+is the recurrence of the tumor.
+
+00:10:18.000 --> 00:10:21.000
+At this point, he was told by his doctors
+
+00:10:21.000 --> 00:10:24.000
+that he had about 3 months to live.
+
+00:10:24.000 --> 00:10:26.000
+He entered our trial.
+
+00:10:26.000 --> 00:10:29.000
+And here we can see him getting the therapy.
+
+00:10:29.000 --> 00:10:32.000
+First of all, these electrodes are noninvasive.
+
+00:10:32.000 --> 00:10:34.000
+They're attached to the skin
+
+00:10:34.000 --> 00:10:36.000
+in the area of the tumor.
+
+00:10:36.000 --> 00:10:38.000
+Here you can see
+
+00:10:38.000 --> 00:10:41.000
+that a technician is placing them on there much like bandages.
+
+00:10:41.000 --> 00:10:44.000
+The patients learn to do this themselves
+
+00:10:44.000 --> 00:10:47.000
+And then the patients
+
+00:10:47.000 --> 00:10:50.000
+can undergo all the activities of their daily life.
+
+00:10:50.000 --> 00:10:52.000
+There's none of the tiredness.
+
+00:10:52.000 --> 00:10:55.000
+There's none of what is called the "chemo head."
+
+00:10:55.000 --> 00:10:57.000
+There's no sensation.
+
+00:10:57.000 --> 00:10:59.000
+It doesn't interfere
+
+00:10:59.000 --> 00:11:02.000
+with computers or electrical equipment.
+
+00:11:02.000 --> 00:11:04.000
+And the therapy is delivered continuously
+
+00:11:04.000 --> 00:11:06.000
+at home,
+
+00:11:06.000 --> 00:11:08.000
+without having to go into the hospital
+
+00:11:08.000 --> 00:11:11.000
+either periodically or continually.
+
+00:11:11.000 --> 00:11:14.000
+These are Robert's MRIs,
+
+00:11:14.000 --> 00:11:17.000
+again, under only TTField treatment.
+
+00:11:17.000 --> 00:11:20.000
+This is a therapy that takes time to work.
+
+00:11:20.000 --> 00:11:22.000
+It's a medical device;
+
+00:11:22.000 --> 00:11:24.000
+it works when it's on.
+
+00:11:24.000 --> 00:11:26.000
+But what we can see is, by month six,
+
+00:11:26.000 --> 00:11:29.000
+the tumor has responded
+
+00:11:29.000 --> 00:11:32.000
+and it's begun to melt away.
+
+00:11:32.000 --> 00:11:34.000
+It's still there.
+
+00:11:34.000 --> 00:11:36.000
+By month 12,
+
+00:11:36.000 --> 00:11:38.000
+we could argue whether
+
+00:11:38.000 --> 00:11:40.000
+there's a little bit of material around the edges,
+
+00:11:40.000 --> 00:11:43.000
+but it's essentially completely gone.
+
+00:11:43.000 --> 00:11:45.000
+It's now five years
+
+00:11:45.000 --> 00:11:47.000
+since Robert's diagnosis,
+
+00:11:47.000 --> 00:11:50.000
+and he's alive,
+
+00:11:50.000 --> 00:11:52.000
+but importantly, he's healthy
+
+00:11:52.000 --> 00:11:54.000
+and he's at work.
+
+00:11:54.000 --> 00:11:56.000
+I'm going to let him, in this very short clip,
+
+00:11:56.000 --> 00:11:58.000
+describe his impressions of the therapy
+
+00:11:58.000 --> 00:12:00.000
+in his own words.
+
+00:12:00.000 --> 00:12:02.000
+(Video) Robert Dill-Bundi: My quality of life,
+
+00:12:02.000 --> 00:12:04.000
+I rate what I have today
+
+00:12:04.000 --> 00:12:08.000
+a bit different than what most people would assume.
+
+00:12:08.000 --> 00:12:13.000
+I am the happiest, the happiest person in the world.
+
+00:12:13.000 --> 00:12:17.000
+And every single morning I appreciate life.
+
+00:12:17.000 --> 00:12:20.000
+Every night I fall asleep very well,
+
+00:12:20.000 --> 00:12:23.000
+and I am, I repeat,
+
+00:12:23.000 --> 00:12:25.000
+the happiest man in the world,
+
+00:12:25.000 --> 00:12:28.000
+and I'm thankful I am alive.
+
+00:12:30.000 --> 00:12:33.000
+BD: Novocure's also working on lung cancer
+
+00:12:33.000 --> 00:12:35.000
+as the second target.
+
+00:12:35.000 --> 00:12:37.000
+We've run a phase two trial
+
+00:12:37.000 --> 00:12:39.000
+in Switzerland
+
+00:12:39.000 --> 00:12:41.000
+on, again, recurrent patients --
+
+00:12:41.000 --> 00:12:44.000
+patients who have received standard therapy
+
+00:12:44.000 --> 00:12:47.000
+and whose cancer has come back.
+
+00:12:47.000 --> 00:12:49.000
+I'm going to show you another clip
+
+00:12:49.000 --> 00:12:51.000
+of a woman named Lydia.
+
+00:12:51.000 --> 00:12:53.000
+Lydia's a 66 year-old farmer
+
+00:12:53.000 --> 00:12:55.000
+in Switzerland.
+
+00:12:55.000 --> 00:12:57.000
+She was diagnosed with lung cancer
+
+00:12:57.000 --> 00:12:59.000
+five years ago.
+
+00:12:59.000 --> 00:13:02.000
+She underwent four different regimes of chemotherapy
+
+00:13:02.000 --> 00:13:04.000
+over two years,
+
+00:13:04.000 --> 00:13:06.000
+none of which had an effect.
+
+00:13:06.000 --> 00:13:08.000
+Her cancer continued to grow.
+
+00:13:08.000 --> 00:13:10.000
+Three years ago,
+
+00:13:10.000 --> 00:13:14.000
+she entered the Novocure lung cancer trial.
+
+00:13:14.000 --> 00:13:16.000
+You can see, in her case,
+
+00:13:16.000 --> 00:13:18.000
+she's wearing her transducer arrays,
+
+00:13:18.000 --> 00:13:21.000
+one of the front of her chest, one on the back,
+
+00:13:21.000 --> 00:13:24.000
+and then the second pair side-to-side over the liver.
+
+00:13:24.000 --> 00:13:27.000
+You can see the Tumor Treating Field field generator,
+
+00:13:27.000 --> 00:13:30.000
+but importantly you can also see that she is living her life.
+
+00:13:30.000 --> 00:13:32.000
+She is managing her farm.
+
+00:13:32.000 --> 00:13:35.000
+She's interacting with her kids and her grand kids.
+
+00:13:35.000 --> 00:13:38.000
+And when we talked to her,
+
+00:13:38.000 --> 00:13:40.000
+she said that when she was undergoing chemotherapy,
+
+00:13:40.000 --> 00:13:43.000
+she had to go to the hospital every month for her infusions.
+
+00:13:43.000 --> 00:13:45.000
+Her whole family suffered
+
+00:13:45.000 --> 00:13:47.000
+as her side effect profile came and went.
+
+00:13:47.000 --> 00:13:49.000
+Now she can run
+
+00:13:49.000 --> 00:13:52.000
+all of the activities of her farm.
+
+00:13:52.000 --> 00:13:54.000
+It's only the beginning.
+
+00:13:54.000 --> 00:14:01.000
+(Applause)
+
+00:14:01.000 --> 00:14:05.000
+In the lab, we've observed tremendous synergies
+
+00:14:05.000 --> 00:14:08.000
+between chemotherapy and Tumor Treating Fields.
+
+00:14:08.000 --> 00:14:11.000
+There's research underway now at Harvard Medical School
+
+00:14:11.000 --> 00:14:13.000
+to pick the optimum pairs
+
+00:14:13.000 --> 00:14:15.000
+to maximize that benefit.
+
+00:14:15.000 --> 00:14:18.000
+We also believe that Tumor Treating Fields will work with radiation
+
+00:14:18.000 --> 00:14:22.000
+and interrupt the self-repair mechanisms that we have.
+
+00:14:22.000 --> 00:14:24.000
+There's now a new research project underway
+
+00:14:24.000 --> 00:14:26.000
+at the Karolinska in Sweden
+
+00:14:26.000 --> 00:14:28.000
+to prove that hypothesis.
+
+00:14:28.000 --> 00:14:30.000
+We have more trials planned
+
+00:14:30.000 --> 00:14:32.000
+for lung cancer,
+
+00:14:32.000 --> 00:14:34.000
+pancreatic cancer, ovarian cancer
+
+00:14:34.000 --> 00:14:36.000
+and breast cancer.
+
+00:14:36.000 --> 00:14:38.000
+And I firmly believe
+
+00:14:38.000 --> 00:14:40.000
+that in the next 10 years
+
+00:14:40.000 --> 00:14:42.000
+Tumor Treating Fields
+
+00:14:42.000 --> 00:14:45.000
+will be a weapon available to doctors and patients
+
+00:14:45.000 --> 00:14:50.000
+for all of these most-difficult-to-treat solid tumors.
+
+00:14:51.000 --> 00:14:53.000
+I'm also very hopeful
+
+00:14:53.000 --> 00:14:55.000
+that in the next decades,
+
+00:14:55.000 --> 00:14:57.000
+we will make big strides
+
+00:14:57.000 --> 00:15:00.000
+on reducing that death rate
+
+00:15:00.000 --> 00:15:03.000
+that has been so challenging in this disease.
+
+00:15:03.000 --> 00:15:05.000
+Thank you.
+
+00:15:05.000 --> 00:15:14.000
+(Applause)
+

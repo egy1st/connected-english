@@ -1,0 +1,803 @@
+WEBVTT
+
+00:00:00.512 --> 00:00:03.068
+I'd like to tell you about two games of chess.
+
+00:00:03.068 --> 00:00:06.932
+The first happened in 1997, in which Garry Kasparov,
+
+00:00:06.932 --> 00:00:10.648
+a human, lost to Deep Blue, a machine.
+
+00:00:10.648 --> 00:00:12.888
+To many, this was the dawn of a new era,
+
+00:00:12.888 --> 00:00:15.667
+one where man would be dominated by machine.
+
+00:00:15.667 --> 00:00:19.001
+But here we are, 20 years on, and the greatest change
+
+00:00:19.001 --> 00:00:21.691
+in how we relate to computers is the iPad,
+
+00:00:21.691 --> 00:00:23.736
+not HAL.
+
+00:00:23.736 --> 00:00:26.384
+The second game was a freestyle chess tournament
+
+00:00:26.384 --> 00:00:29.353
+in 2005, in which man and machine could enter together
+
+00:00:29.353 --> 00:00:34.019
+as partners, rather than adversaries, if they so chose.
+
+00:00:34.019 --> 00:00:35.870
+At first, the results were predictable.
+
+00:00:35.870 --> 00:00:38.367
+Even a supercomputer was beaten by a grandmaster
+
+00:00:38.367 --> 00:00:40.679
+with a relatively weak laptop.
+
+00:00:40.679 --> 00:00:43.664
+The surprise came at the end. Who won?
+
+00:00:43.664 --> 00:00:46.440
+Not a grandmaster with a supercomputer,
+
+00:00:46.440 --> 00:00:47.933
+but actually two American amateurs
+
+00:00:47.933 --> 00:00:51.755
+using three relatively weak laptops.
+
+00:00:51.755 --> 00:00:54.351
+Their ability to coach and manipulate their computers
+
+00:00:54.351 --> 00:00:56.786
+to deeply explore specific positions
+
+00:00:56.786 --> 00:00:59.176
+effectively counteracted the superior chess knowledge
+
+00:00:59.176 --> 00:01:01.785
+of the grandmasters and the superior computational power
+
+00:01:01.785 --> 00:01:03.694
+of other adversaries.
+
+00:01:03.694 --> 00:01:06.599
+This is an astonishing result: average men,
+
+00:01:06.599 --> 00:01:10.680
+average machines beating the best man, the best machine.
+
+00:01:10.680 --> 00:01:13.879
+And anyways, isn't it supposed to be man versus machine?
+
+00:01:13.879 --> 00:01:18.031
+Instead, it's about cooperation, and the right type of cooperation.
+
+00:01:18.031 --> 00:01:20.888
+We've been paying a lot of attention to Marvin Minsky's
+
+00:01:20.888 --> 00:01:24.130
+vision for artificial intelligence over the last 50 years.
+
+00:01:24.130 --> 00:01:26.392
+It's a sexy vision, for sure. Many have embraced it.
+
+00:01:26.392 --> 00:01:29.145
+It's become the dominant school of thought in computer science.
+
+00:01:29.145 --> 00:01:32.217
+But as we enter the era of big data, of network systems,
+
+00:01:32.217 --> 00:01:34.915
+of open platforms, and embedded technology,
+
+00:01:34.915 --> 00:01:38.307
+I'd like to suggest it's time to reevaluate an alternative vision
+
+00:01:38.307 --> 00:01:41.377
+that was actually developed around the same time.
+
+00:01:41.377 --> 00:01:44.709
+I'm talking about J.C.R. Licklider's human-computer symbiosis,
+
+00:01:44.709 --> 00:01:48.517
+perhaps better termed "intelligence augmentation," I.A.
+
+00:01:48.517 --> 00:01:51.157
+Licklider was a computer science titan who had a profound
+
+00:01:51.157 --> 00:01:54.163
+effect on the development of technology and the Internet.
+
+00:01:54.163 --> 00:01:57.031
+His vision was to enable man and machine to cooperate
+
+00:01:57.031 --> 00:02:00.621
+in making decisions, controlling complex situations
+
+00:02:00.621 --> 00:02:02.391
+without the inflexible dependence
+
+00:02:02.391 --> 00:02:04.924
+on predetermined programs.
+
+00:02:04.924 --> 00:02:07.422
+Note that word "cooperate."
+
+00:02:07.422 --> 00:02:10.169
+Licklider encourages us not to take a toaster
+
+00:02:10.169 --> 00:02:12.453
+and make it Data from "Star Trek,"
+
+00:02:12.453 --> 00:02:15.988
+but to take a human and make her more capable.
+
+00:02:15.988 --> 00:02:17.899
+Humans are so amazing -- how we think,
+
+00:02:17.899 --> 00:02:20.517
+our non-linear approaches, our creativity,
+
+00:02:20.517 --> 00:02:22.648
+iterative hypotheses, all very difficult if possible at all
+
+00:02:22.648 --> 00:02:23.993
+for computers to do.
+
+00:02:23.993 --> 00:02:26.445
+Licklider intuitively realized this, contemplating humans
+
+00:02:26.445 --> 00:02:28.772
+setting the goals, formulating the hypotheses,
+
+00:02:28.772 --> 00:02:32.148
+determining the criteria, and performing the evaluation.
+
+00:02:32.148 --> 00:02:33.923
+Of course, in other ways, humans are so limited.
+
+00:02:33.923 --> 00:02:37.158
+We're terrible at scale, computation and volume.
+
+00:02:37.158 --> 00:02:38.994
+We require high-end talent management
+
+00:02:38.994 --> 00:02:41.058
+to keep the rock band together and playing.
+
+00:02:41.058 --> 00:02:43.262
+Licklider foresaw computers doing all the routinizable work
+
+00:02:43.262 --> 00:02:46.538
+that was required to prepare the way for insights and decision making.
+
+00:02:46.538 --> 00:02:48.762
+Silently, without much fanfare,
+
+00:02:48.762 --> 00:02:52.116
+this approach has been compiling victories beyond chess.
+
+00:02:52.116 --> 00:02:55.472
+Protein folding, a topic that shares the incredible expansiveness of chess —
+
+00:02:55.472 --> 00:02:58.514
+there are more ways of folding a protein than there are atoms in the universe.
+
+00:02:58.514 --> 00:03:00.867
+This is a world-changing problem with huge implications
+
+00:03:00.867 --> 00:03:03.175
+for our ability to understand and treat disease.
+
+00:03:03.175 --> 00:03:07.423
+And for this task, supercomputer field brute force simply isn't enough.
+
+00:03:07.423 --> 00:03:09.807
+Foldit, a game created by computer scientists,
+
+00:03:09.807 --> 00:03:12.309
+illustrates the value of the approach.
+
+00:03:12.309 --> 00:03:15.350
+Non-technical, non-biologist amateurs play a video game
+
+00:03:15.350 --> 00:03:18.423
+in which they visually rearrange the structure of the protein,
+
+00:03:18.423 --> 00:03:19.922
+allowing the computer to manage the atomic forces
+
+00:03:19.922 --> 00:03:22.879
+and interactions and identify structural issues.
+
+00:03:22.879 --> 00:03:25.902
+This approach beat supercomputers 50 percent of the time
+
+00:03:25.902 --> 00:03:28.486
+and tied 30 percent of the time.
+
+00:03:28.486 --> 00:03:31.623
+Foldit recently made a notable and major scientific discovery
+
+00:03:31.623 --> 00:03:34.783
+by deciphering the structure of the Mason-Pfizer monkey virus.
+
+00:03:34.783 --> 00:03:37.798
+A protease that had eluded determination for over 10 years
+
+00:03:37.798 --> 00:03:40.424
+was solved was by three players in a matter of days,
+
+00:03:40.424 --> 00:03:42.449
+perhaps the first major scientific advance
+
+00:03:42.449 --> 00:03:44.772
+to come from playing a video game.
+
+00:03:44.772 --> 00:03:46.953
+Last year, on the site of the Twin Towers,
+
+00:03:46.953 --> 00:03:48.426
+the 9/11 memorial opened.
+
+00:03:48.426 --> 00:03:51.147
+It displays the names of the thousands of victims
+
+00:03:51.147 --> 00:03:54.210
+using a beautiful concept called "meaningful adjacency."
+
+00:03:54.210 --> 00:03:56.376
+It places the names next to each other based on their
+
+00:03:56.376 --> 00:03:58.589
+relationships to one another: friends, families, coworkers.
+
+00:03:58.589 --> 00:04:01.617
+When you put it all together, it's quite a computational
+
+00:04:01.617 --> 00:04:05.840
+challenge: 3,500 victims, 1,800 adjacency requests,
+
+00:04:05.840 --> 00:04:08.932
+the importance of the overall physical specifications
+
+00:04:08.932 --> 00:04:11.069
+and the final aesthetics.
+
+00:04:11.069 --> 00:04:13.684
+When first reported by the media, full credit for such a feat
+
+00:04:13.684 --> 00:04:15.576
+was given to an algorithm from the New York City
+
+00:04:15.576 --> 00:04:19.577
+design firm Local Projects. The truth is a bit more nuanced.
+
+00:04:19.577 --> 00:04:22.448
+While an algorithm was used to develop the underlying framework,
+
+00:04:22.448 --> 00:04:25.456
+humans used that framework to design the final result.
+
+00:04:25.456 --> 00:04:27.681
+So in this case, a computer had evaluated millions
+
+00:04:27.681 --> 00:04:31.016
+of possible layouts, managed a complex relational system,
+
+00:04:31.016 --> 00:04:33.430
+and kept track of a very large set of measurements
+
+00:04:33.430 --> 00:04:35.840
+and variables, allowing the humans to focus
+
+00:04:35.840 --> 00:04:38.642
+on design and compositional choices.
+
+00:04:38.642 --> 00:04:39.678
+So the more you look around you,
+
+00:04:39.678 --> 00:04:41.640
+the more you see Licklider's vision everywhere.
+
+00:04:41.640 --> 00:04:44.944
+Whether it's augmented reality in your iPhone or GPS in your car,
+
+00:04:44.944 --> 00:04:47.914
+human-computer symbiosis is making us more capable.
+
+00:04:47.914 --> 00:04:49.569
+So if you want to improve human-computer symbiosis,
+
+00:04:49.569 --> 00:04:50.998
+what can you do?
+
+00:04:50.998 --> 00:04:53.450
+You can start by designing the human into the process.
+
+00:04:53.450 --> 00:04:55.654
+Instead of thinking about what a computer will do to solve the problem,
+
+00:04:55.654 --> 00:04:59.523
+design the solution around what the human will do as well.
+
+00:04:59.523 --> 00:05:01.460
+When you do this, you'll quickly realize that you spent
+
+00:05:01.460 --> 00:05:04.339
+all of your time on the interface between man and machine,
+
+00:05:04.339 --> 00:05:07.438
+specifically on designing away the friction in the interaction.
+
+00:05:07.438 --> 00:05:10.204
+In fact, this friction is more important than the power
+
+00:05:10.204 --> 00:05:12.256
+of the man or the power of the machine
+
+00:05:12.256 --> 00:05:14.187
+in determining overall capability.
+
+00:05:14.187 --> 00:05:16.164
+That's why two amateurs with a few laptops
+
+00:05:16.164 --> 00:05:18.620
+handily beat a supercomputer and a grandmaster.
+
+00:05:18.620 --> 00:05:21.625
+What Kasparov calls process is a byproduct of friction.
+
+00:05:21.625 --> 00:05:24.026
+The better the process, the less the friction.
+
+00:05:24.026 --> 00:05:28.282
+And minimizing friction turns out to be the decisive variable.
+
+00:05:28.282 --> 00:05:30.525
+Or take another example: big data.
+
+00:05:30.525 --> 00:05:32.431
+Every interaction we have in the world is recorded
+
+00:05:32.431 --> 00:05:35.490
+by an ever growing array of sensors: your phone,
+
+00:05:35.490 --> 00:05:37.863
+your credit card, your computer. The result is big data,
+
+00:05:37.863 --> 00:05:39.605
+and it actually presents us with an opportunity
+
+00:05:39.605 --> 00:05:42.267
+to more deeply understand the human condition.
+
+00:05:42.267 --> 00:05:44.572
+The major emphasis of most approaches to big data
+
+00:05:44.572 --> 00:05:46.787
+focus on, "How do I store this data? How do I search
+
+00:05:46.787 --> 00:05:49.063
+this data? How do I process this data?"
+
+00:05:49.063 --> 00:05:51.267
+These are necessary but insufficient questions.
+
+00:05:51.267 --> 00:05:53.738
+The imperative is not to figure out how to compute,
+
+00:05:53.738 --> 00:05:55.922
+but what to compute. How do you impose human intuition
+
+00:05:55.922 --> 00:05:57.713
+on data at this scale?
+
+00:05:57.713 --> 00:06:01.212
+Again, we start by designing the human into the process.
+
+00:06:01.212 --> 00:06:04.024
+When PayPal was first starting as a business, their biggest
+
+00:06:04.024 --> 00:06:06.828
+challenge was not, "How do I send money back and forth online?"
+
+00:06:06.828 --> 00:06:10.700
+It was, "How do I do that without being defrauded by organized crime?"
+
+00:06:10.700 --> 00:06:12.788
+Why so challenging? Because while computers can learn
+
+00:06:12.788 --> 00:06:15.932
+to detect and identify fraud based on patterns,
+
+00:06:15.932 --> 00:06:17.411
+they can't learn to do that based on patterns
+
+00:06:17.411 --> 00:06:19.527
+they've never seen before, and organized crime
+
+00:06:19.527 --> 00:06:22.236
+has a lot in common with this audience: brilliant people,
+
+00:06:22.236 --> 00:06:25.876
+relentlessly resourceful, entrepreneurial spirit — (Laughter) —
+
+00:06:25.876 --> 00:06:28.588
+and one huge and important difference: purpose.
+
+00:06:28.588 --> 00:06:31.420
+And so while computers alone can catch all but the cleverest
+
+00:06:31.420 --> 00:06:33.673
+fraudsters, catching the cleverest is the difference
+
+00:06:33.673 --> 00:06:36.218
+between success and failure.
+
+00:06:36.218 --> 00:06:38.439
+There's a whole class of problems like this, ones with
+
+00:06:38.439 --> 00:06:41.014
+adaptive adversaries. They rarely if ever present with a
+
+00:06:41.014 --> 00:06:43.750
+repeatable pattern that's discernable to computers.
+
+00:06:43.750 --> 00:06:47.743
+Instead, there's some inherent component of innovation or disruption,
+
+00:06:47.743 --> 00:06:50.478
+and increasingly these problems are buried in big data.
+
+00:06:50.478 --> 00:06:52.978
+For example, terrorism. Terrorists are always adapting
+
+00:06:52.978 --> 00:06:55.030
+in minor and major ways to new circumstances, and despite
+
+00:06:55.030 --> 00:06:58.124
+what you might see on TV, these adaptations,
+
+00:06:58.124 --> 00:07:00.417
+and the detection of them, are fundamentally human.
+
+00:07:00.417 --> 00:07:03.534
+Computers don't detect novel patterns and new behaviors,
+
+00:07:03.534 --> 00:07:06.769
+but humans do. Humans, using technology, testing hypotheses,
+
+00:07:06.769 --> 00:07:11.389
+searching for insight by asking machines to do things for them.
+
+00:07:11.389 --> 00:07:13.709
+Osama bin Laden was not caught by artificial intelligence.
+
+00:07:13.709 --> 00:07:16.262
+He was caught by dedicated, resourceful, brilliant people
+
+00:07:16.262 --> 00:07:20.531
+in partnerships with various technologies.
+
+00:07:20.531 --> 00:07:23.349
+As appealing as it might sound, you cannot algorithmically
+
+00:07:23.349 --> 00:07:24.950
+data mine your way to the answer.
+
+00:07:24.950 --> 00:07:27.805
+There is no "Find Terrorist" button, and the more data
+
+00:07:27.805 --> 00:07:30.107
+we integrate from a vast variety of sources
+
+00:07:30.107 --> 00:07:32.240
+across a wide variety of data formats from very
+
+00:07:32.240 --> 00:07:35.549
+disparate systems, the less effective data mining can be.
+
+00:07:35.549 --> 00:07:37.573
+Instead, people will have to look at data
+
+00:07:37.573 --> 00:07:41.029
+and search for insight, and as Licklider foresaw long ago,
+
+00:07:41.029 --> 00:07:43.714
+the key to great results here is the right type of cooperation,
+
+00:07:43.714 --> 00:07:45.238
+and as Kasparov realized,
+
+00:07:45.238 --> 00:07:48.269
+that means minimizing friction at the interface.
+
+00:07:48.269 --> 00:07:51.027
+Now this approach makes possible things like combing
+
+00:07:51.027 --> 00:07:54.413
+through all available data from very different sources,
+
+00:07:54.413 --> 00:07:57.205
+identifying key relationships and putting them in one place,
+
+00:07:57.205 --> 00:08:00.133
+something that's been nearly impossible to do before.
+
+00:08:00.133 --> 00:08:02.075
+To some, this has terrifying privacy and civil liberties
+
+00:08:02.075 --> 00:08:05.485
+implications. To others it foretells of an era of greater
+
+00:08:05.485 --> 00:08:07.394
+privacy and civil liberties protections,
+
+00:08:07.394 --> 00:08:10.330
+but privacy and civil liberties are of fundamental importance.
+
+00:08:10.330 --> 00:08:12.523
+That must be acknowledged, and they can't be swept aside,
+
+00:08:12.523 --> 00:08:15.053
+even with the best of intents.
+
+00:08:15.053 --> 00:08:17.571
+So let's explore, through a couple of examples, the impact
+
+00:08:17.571 --> 00:08:19.977
+that technologies built to drive human-computer symbiosis
+
+00:08:19.977 --> 00:08:22.896
+have had in recent time.
+
+00:08:22.896 --> 00:08:26.312
+In October, 2007, U.S. and coalition forces raided
+
+00:08:26.312 --> 00:08:28.728
+an al Qaeda safe house in the city of Sinjar
+
+00:08:28.728 --> 00:08:30.662
+on the Syrian border of Iraq.
+
+00:08:30.662 --> 00:08:33.038
+They found a treasure trove of documents:
+
+00:08:33.038 --> 00:08:35.373
+700 biographical sketches of foreign fighters.
+
+00:08:35.373 --> 00:08:37.957
+These foreign fighters had left their families in the Gulf,
+
+00:08:37.957 --> 00:08:41.103
+the Levant and North Africa to join al Qaeda in Iraq.
+
+00:08:41.103 --> 00:08:42.719
+These records were human resource forms.
+
+00:08:42.719 --> 00:08:45.574
+The foreign fighters filled them out as they joined the organization.
+
+00:08:45.574 --> 00:08:46.785
+It turns out that al Qaeda, too,
+
+00:08:46.785 --> 00:08:49.382
+is not without its bureaucracy. (Laughter)
+
+00:08:49.382 --> 00:08:51.480
+They answered questions like, "Who recruited you?"
+
+00:08:51.480 --> 00:08:54.334
+"What's your hometown?" "What occupation do you seek?"
+
+00:08:54.334 --> 00:08:57.503
+In that last question, a surprising insight was revealed.
+
+00:08:57.503 --> 00:08:59.903
+The vast majority of foreign fighters
+
+00:08:59.903 --> 00:09:02.303
+were seeking to become suicide bombers for martyrdom --
+
+00:09:02.303 --> 00:09:06.641
+hugely important, since between 2003 and 2007, Iraq
+
+00:09:06.641 --> 00:09:10.885
+had 1,382 suicide bombings, a major source of instability.
+
+00:09:10.885 --> 00:09:12.943
+Analyzing this data was hard. The originals were sheets
+
+00:09:12.943 --> 00:09:15.685
+of paper in Arabic that had to be scanned and translated.
+
+00:09:15.685 --> 00:09:17.877
+The friction in the process did not allow for meaningful
+
+00:09:17.877 --> 00:09:21.227
+results in an operational time frame using humans, PDFs
+
+00:09:21.227 --> 00:09:23.445
+and tenacity alone.
+
+00:09:23.445 --> 00:09:25.398
+The researchers had to lever up their human minds
+
+00:09:25.398 --> 00:09:27.743
+with technology to dive deeper, to explore non-obvious
+
+00:09:27.743 --> 00:09:30.961
+hypotheses, and in fact, insights emerged.
+
+00:09:30.961 --> 00:09:33.605
+Twenty percent of the foreign fighters were from Libya,
+
+00:09:33.605 --> 00:09:36.573
+50 percent of those from a single town in Libya,
+
+00:09:36.573 --> 00:09:39.023
+hugely important since prior statistics put that figure at
+
+00:09:39.023 --> 00:09:41.406
+three percent. It also helped to hone in on a figure
+
+00:09:41.406 --> 00:09:44.383
+of rising importance in al Qaeda, Abu Yahya al-Libi,
+
+00:09:44.383 --> 00:09:47.014
+a senior cleric in the Libyan Islamic fighting group.
+
+00:09:47.014 --> 00:09:49.678
+In March of 2007, he gave a speech, after which there was
+
+00:09:49.678 --> 00:09:53.144
+a surge in participation amongst Libyan foreign fighters.
+
+00:09:53.144 --> 00:09:56.250
+Perhaps most clever of all, though, and least obvious,
+
+00:09:56.250 --> 00:09:58.323
+by flipping the data on its head, the researchers were
+
+00:09:58.323 --> 00:10:01.223
+able to deeply explore the coordination networks in Syria
+
+00:10:01.223 --> 00:10:03.740
+that were ultimately responsible for receiving and
+
+00:10:03.740 --> 00:10:06.204
+transporting the foreign fighters to the border.
+
+00:10:06.204 --> 00:10:08.837
+These were networks of mercenaries, not ideologues,
+
+00:10:08.837 --> 00:10:11.235
+who were in the coordination business for profit.
+
+00:10:11.235 --> 00:10:13.139
+For example, they charged Saudi foreign fighters
+
+00:10:13.139 --> 00:10:15.338
+substantially more than Libyans, money that would have
+
+00:10:15.338 --> 00:10:17.658
+otherwise gone to al Qaeda.
+
+00:10:17.658 --> 00:10:19.703
+Perhaps the adversary would disrupt their own network
+
+00:10:19.703 --> 00:10:22.738
+if they knew they cheating would-be jihadists.
+
+00:10:22.738 --> 00:10:26.483
+In January, 2010, a devastating 7.0 earthquake struck Haiti,
+
+00:10:26.483 --> 00:10:29.399
+third deadliest earthquake of all time, left one million people,
+
+00:10:29.399 --> 00:10:31.983
+10 percent of the population, homeless.
+
+00:10:31.983 --> 00:10:35.120
+One seemingly small aspect of the overall relief effort
+
+00:10:35.120 --> 00:10:37.296
+became increasingly important as the delivery of food
+
+00:10:37.296 --> 00:10:39.456
+and water started rolling.
+
+00:10:39.456 --> 00:10:40.914
+January and February are the dry months in Haiti,
+
+00:10:40.914 --> 00:10:43.856
+yet many of the camps had developed standing water.
+
+00:10:43.856 --> 00:10:45.978
+The only institution with detailed knowledge of Haiti's
+
+00:10:45.978 --> 00:10:47.275
+floodplains had been leveled
+
+00:10:47.275 --> 00:10:50.283
+in the earthquake, leadership inside.
+
+00:10:50.283 --> 00:10:52.858
+So the question is, which camps are at risk,
+
+00:10:52.858 --> 00:10:54.779
+how many people are in these camps, what's the
+
+00:10:54.779 --> 00:10:57.090
+timeline for flooding, and given very limited resources
+
+00:10:57.090 --> 00:11:00.474
+and infrastructure, how do we prioritize the relocation?
+
+00:11:00.474 --> 00:11:02.818
+The data was incredibly disparate. The U.S. Army had
+
+00:11:02.818 --> 00:11:05.747
+detailed knowledge for only a small section of the country.
+
+00:11:05.747 --> 00:11:08.258
+There was data online from a 2006 environmental risk
+
+00:11:08.258 --> 00:11:10.922
+conference, other geospatial data, none of it integrated.
+
+00:11:10.922 --> 00:11:13.880
+The human goal here was to identify camps for relocation
+
+00:11:13.880 --> 00:11:16.275
+based on priority need.
+
+00:11:16.275 --> 00:11:18.715
+The computer had to integrate a vast amount of geospacial
+
+00:11:18.715 --> 00:11:21.299
+information, social media data and relief organization
+
+00:11:21.299 --> 00:11:24.779
+information to answer this question.
+
+00:11:24.779 --> 00:11:27.194
+By implementing a superior process, what was otherwise
+
+00:11:27.194 --> 00:11:29.802
+a task for 40 people over three months became
+
+00:11:29.802 --> 00:11:32.978
+a simple job for three people in 40 hours,
+
+00:11:32.978 --> 00:11:35.606
+all victories for human-computer symbiosis.
+
+00:11:35.606 --> 00:11:37.660
+We're more than 50 years into Licklider's vision
+
+00:11:37.660 --> 00:11:39.902
+for the future, and the data suggests that we should be
+
+00:11:39.902 --> 00:11:42.932
+quite excited about tackling this century's hardest problems,
+
+00:11:42.932 --> 00:11:45.879
+man and machine in cooperation together.
+
+00:11:45.879 --> 00:11:48.076
+Thank you. (Applause)
+
+00:11:48.076 --> 00:11:50.581
+(Applause)
+

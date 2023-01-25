@@ -1,0 +1,1241 @@
+WEBVTT
+
+00:00:00.712 --> 00:00:02.264
+This is Lee Sedol.
+
+00:00:02.288 --> 00:00:06.285
+Lee Sedol is one of the world's
+greatest Go players,
+
+00:00:06.309 --> 00:00:09.194
+and he's having what my friends
+in Silicon Valley call
+
+00:00:09.218 --> 00:00:10.728
+a "Holy Cow" moment --
+
+00:00:10.752 --> 00:00:11.825
+(Laughter)
+
+00:00:11.849 --> 00:00:14.037
+a moment where we realize
+
+00:00:14.061 --> 00:00:17.357
+that AI is actually progressing
+a lot faster than we expected.
+
+00:00:18.154 --> 00:00:21.201
+So humans have lost on the Go board.
+What about the real world?
+
+00:00:21.225 --> 00:00:23.325
+Well, the real world is much bigger,
+
+00:00:23.349 --> 00:00:25.598
+much more complicated than the Go board.
+
+00:00:25.622 --> 00:00:27.441
+It's a lot less visible,
+
+00:00:27.465 --> 00:00:29.503
+but it's still a decision problem.
+
+00:00:30.948 --> 00:00:33.269
+And if we think about some
+of the technologies
+
+00:00:33.293 --> 00:00:35.042
+that are coming down the pike ...
+
+00:00:35.738 --> 00:00:40.073
+Noriko [Arai] mentioned that reading
+is not yet happening in machines,
+
+00:00:40.097 --> 00:00:41.597
+at least with understanding.
+
+00:00:41.621 --> 00:00:43.157
+But that will happen,
+
+00:00:43.181 --> 00:00:44.952
+and when that happens,
+
+00:00:44.976 --> 00:00:46.163
+very soon afterwards,
+
+00:00:46.187 --> 00:00:50.759
+machines will have read everything
+that the human race has ever written.
+
+00:00:51.850 --> 00:00:53.880
+And that will enable machines,
+
+00:00:53.904 --> 00:00:56.824
+along with the ability to look
+further ahead than humans can,
+
+00:00:56.848 --> 00:00:58.528
+as we've already seen in Go,
+
+00:00:58.552 --> 00:01:00.716
+if they also have access
+to more information,
+
+00:01:00.740 --> 00:01:05.008
+they'll be able to make better decisions
+in the real world than we can.
+
+00:01:06.792 --> 00:01:08.398
+So is that a good thing?
+
+00:01:09.898 --> 00:01:12.130
+Well, I hope so.
+
+00:01:14.694 --> 00:01:17.949
+Our entire civilization,
+everything that we value,
+
+00:01:17.973 --> 00:01:20.041
+is based on our intelligence.
+
+00:01:20.065 --> 00:01:23.759
+And if we had access
+to a lot more intelligence,
+
+00:01:23.783 --> 00:01:27.085
+then there's really no limit
+to what the human race can do.
+
+00:01:28.665 --> 00:01:31.990
+And I think this could be,
+as some people have described it,
+
+00:01:32.014 --> 00:01:34.030
+the biggest event in human history.
+
+00:01:36.665 --> 00:01:39.494
+So why are people saying things like this,
+
+00:01:39.518 --> 00:01:42.394
+that AI might spell the end
+of the human race?
+
+00:01:43.438 --> 00:01:45.097
+Is this a new thing?
+
+00:01:45.121 --> 00:01:49.231
+Is it just Elon Musk and Bill Gates
+and Stephen Hawking?
+
+00:01:49.953 --> 00:01:53.215
+Actually, no. This idea
+has been around for a while.
+
+00:01:53.239 --> 00:01:55.201
+Here's a quotation:
+
+00:01:55.225 --> 00:01:59.575
+"Even if we could keep the machines
+in a subservient position,
+
+00:01:59.599 --> 00:02:02.583
+for instance, by turning off the power
+at strategic moments" --
+
+00:02:02.607 --> 00:02:05.844
+and I'll come back to that
+"turning off the power" idea later on --
+
+00:02:05.868 --> 00:02:08.672
+"we should, as a species,
+feel greatly humbled."
+
+00:02:10.177 --> 00:02:13.625
+So who said this?
+This is Alan Turing in 1951.
+
+00:02:14.300 --> 00:02:17.063
+Alan Turing, as you know,
+is the father of computer science
+
+00:02:17.087 --> 00:02:20.135
+and in many ways,
+the father of AI as well.
+
+00:02:21.239 --> 00:02:23.121
+So if we think about this problem,
+
+00:02:23.145 --> 00:02:26.932
+the problem of creating something
+more intelligent than your own species,
+
+00:02:26.956 --> 00:02:29.578
+we might call this "the gorilla problem,"
+
+00:02:30.345 --> 00:02:34.095
+because gorillas' ancestors did this
+a few million years ago,
+
+00:02:34.119 --> 00:02:35.864
+and now we can ask the gorillas:
+
+00:02:36.752 --> 00:02:37.912
+Was this a good idea?
+
+00:02:37.936 --> 00:02:41.466
+So here they are having a meeting
+to discuss whether it was a good idea,
+
+00:02:41.490 --> 00:02:44.836
+and after a little while,
+they conclude, no,
+
+00:02:44.860 --> 00:02:46.205
+this was a terrible idea.
+
+00:02:46.229 --> 00:02:48.011
+Our species is in dire straits.
+
+00:02:48.538 --> 00:02:52.801
+In fact, you can see the existential
+sadness in their eyes.
+
+00:02:52.825 --> 00:02:54.465
+(Laughter)
+
+00:02:54.489 --> 00:02:59.329
+So this queasy feeling that making
+something smarter than your own species
+
+00:02:59.353 --> 00:03:01.718
+is maybe not a good idea --
+
+00:03:02.488 --> 00:03:03.979
+what can we do about that?
+
+00:03:04.003 --> 00:03:08.770
+Well, really nothing,
+except stop doing AI,
+
+00:03:08.794 --> 00:03:11.304
+and because of all
+the benefits that I mentioned
+
+00:03:11.328 --> 00:03:13.044
+and because I'm an AI researcher,
+
+00:03:13.068 --> 00:03:14.859
+I'm not having that.
+
+00:03:15.283 --> 00:03:17.751
+I actually want to be able
+to keep doing AI.
+
+00:03:18.615 --> 00:03:21.293
+So we actually need to nail down
+the problem a bit more.
+
+00:03:21.317 --> 00:03:22.688
+What exactly is the problem?
+
+00:03:22.712 --> 00:03:25.958
+Why is better AI possibly a catastrophe?
+
+00:03:27.398 --> 00:03:28.896
+So here's another quotation:
+
+00:03:29.935 --> 00:03:33.270
+"We had better be quite sure
+that the purpose put into the machine
+
+00:03:33.294 --> 00:03:35.592
+is the purpose which we really desire."
+
+00:03:36.282 --> 00:03:39.780
+This was said by Norbert Wiener in 1960,
+
+00:03:39.804 --> 00:03:43.806
+shortly after he watched
+one of the very early learning systems
+
+00:03:43.830 --> 00:03:46.413
+learn to play checkers
+better than its creator.
+
+00:03:48.602 --> 00:03:51.285
+But this could equally have been said
+
+00:03:51.309 --> 00:03:52.476
+by King Midas.
+
+00:03:53.083 --> 00:03:56.217
+King Midas said, "I want everything
+I touch to turn to gold,"
+
+00:03:56.241 --> 00:03:58.714
+and he got exactly what he asked for.
+
+00:03:58.738 --> 00:04:01.489
+That was the purpose
+that he put into the machine,
+
+00:04:01.513 --> 00:04:02.963
+so to speak,
+
+00:04:02.987 --> 00:04:06.431
+and then his food and his drink
+and his relatives turned to gold
+
+00:04:06.455 --> 00:04:08.736
+and he died in misery and starvation.
+
+00:04:10.444 --> 00:04:12.785
+So we'll call this
+"the King Midas problem"
+
+00:04:12.809 --> 00:04:16.114
+of stating an objective
+which is not, in fact,
+
+00:04:16.138 --> 00:04:18.551
+truly aligned with what we want.
+
+00:04:18.575 --> 00:04:21.828
+In modern terms, we call this
+"the value alignment problem."
+
+00:04:25.047 --> 00:04:28.532
+Putting in the wrong objective
+is not the only part of the problem.
+
+00:04:28.556 --> 00:04:29.708
+There's another part.
+
+00:04:30.160 --> 00:04:32.103
+If you put an objective into a machine,
+
+00:04:32.127 --> 00:04:34.575
+even something as simple as,
+"Fetch the coffee,"
+
+00:04:35.908 --> 00:04:37.749
+the machine says to itself,
+
+00:04:38.733 --> 00:04:41.356
+"Well, how might I fail
+to fetch the coffee?
+
+00:04:41.380 --> 00:04:42.960
+Someone might switch me off.
+
+00:04:43.645 --> 00:04:46.032
+OK, I have to take steps to prevent that.
+
+00:04:46.056 --> 00:04:47.962
+I will disable my 'off' switch.
+
+00:04:48.534 --> 00:04:51.493
+I will do anything to defend myself
+against interference
+
+00:04:51.517 --> 00:04:54.146
+with this objective
+that I have been given."
+
+00:04:54.170 --> 00:04:56.182
+So this single-minded pursuit
+
+00:04:57.213 --> 00:05:00.158
+in a very defensive mode
+of an objective that is, in fact,
+
+00:05:00.182 --> 00:05:02.996
+not aligned with the true objectives
+of the human race --
+
+00:05:04.122 --> 00:05:05.984
+that's the problem that we face.
+
+00:05:07.007 --> 00:05:11.774
+And in fact, that's the high-value
+takeaway from this talk.
+
+00:05:11.798 --> 00:05:13.853
+If you want to remember one thing,
+
+00:05:13.877 --> 00:05:16.552
+it's that you can't fetch
+the coffee if you're dead.
+
+00:05:16.576 --> 00:05:17.637
+(Laughter)
+
+00:05:17.661 --> 00:05:21.490
+It's very simple. Just remember that.
+Repeat it to yourself three times a day.
+
+00:05:21.514 --> 00:05:23.335
+(Laughter)
+
+00:05:23.359 --> 00:05:26.113
+And in fact, this is exactly the plot
+
+00:05:26.137 --> 00:05:28.785
+of "2001: [A Space Odyssey]"
+
+00:05:29.226 --> 00:05:31.316
+HAL has an objective, a mission,
+
+00:05:31.340 --> 00:05:35.072
+which is not aligned
+with the objectives of the humans,
+
+00:05:35.096 --> 00:05:36.906
+and that leads to this conflict.
+
+00:05:37.494 --> 00:05:40.463
+Now fortunately, HAL
+is not superintelligent.
+
+00:05:40.487 --> 00:05:44.074
+He's pretty smart,
+but eventually Dave outwits him
+
+00:05:44.098 --> 00:05:45.947
+and manages to switch him off.
+
+00:05:49.828 --> 00:05:51.447
+But we might not be so lucky.
+
+00:05:56.193 --> 00:05:57.785
+So what are we going to do?
+
+00:06:00.371 --> 00:06:02.972
+I'm trying to redefine AI
+
+00:06:02.996 --> 00:06:05.057
+to get away from this classical notion
+
+00:06:05.081 --> 00:06:09.648
+of machines that intelligently
+pursue objectives.
+
+00:06:10.712 --> 00:06:12.510
+There are three principles involved.
+
+00:06:12.534 --> 00:06:15.823
+The first one is a principle
+of altruism, if you like,
+
+00:06:15.847 --> 00:06:19.109
+that the robot's only objective
+
+00:06:19.133 --> 00:06:23.379
+is to maximize the realization
+of human objectives,
+
+00:06:23.403 --> 00:06:24.793
+of human values.
+
+00:06:24.817 --> 00:06:28.147
+And by values here I don't mean
+touchy-feely, goody-goody values.
+
+00:06:28.171 --> 00:06:31.958
+I just mean whatever it is
+that the human would prefer
+
+00:06:31.982 --> 00:06:33.325
+their life to be like.
+
+00:06:35.364 --> 00:06:37.673
+And so this actually violates Asimov's law
+
+00:06:37.697 --> 00:06:40.026
+that the robot has to protect
+its own existence.
+
+00:06:40.050 --> 00:06:43.773
+It has no interest in preserving
+its existence whatsoever.
+
+00:06:45.420 --> 00:06:49.188
+The second law is a law
+of humility, if you like.
+
+00:06:49.974 --> 00:06:53.717
+And this turns out to be really
+important to make robots safe.
+
+00:06:53.741 --> 00:06:56.883
+It says that the robot does not know
+
+00:06:56.907 --> 00:06:58.935
+what those human values are,
+
+00:06:58.959 --> 00:07:02.137
+so it has to maximize them,
+but it doesn't know what they are.
+
+00:07:03.254 --> 00:07:05.880
+And that avoids this problem
+of single-minded pursuit
+
+00:07:05.904 --> 00:07:07.116
+of an objective.
+
+00:07:07.140 --> 00:07:09.312
+This uncertainty turns out to be crucial.
+
+00:07:09.726 --> 00:07:11.365
+Now, in order to be useful to us,
+
+00:07:11.389 --> 00:07:14.120
+it has to have some idea of what we want.
+
+00:07:15.223 --> 00:07:20.650
+It obtains that information primarily
+by observation of human choices,
+
+00:07:20.674 --> 00:07:23.475
+so our own choices reveal information
+
+00:07:23.499 --> 00:07:26.799
+about what it is that we prefer
+our lives to be like.
+
+00:07:28.632 --> 00:07:30.315
+So those are the three principles.
+
+00:07:30.339 --> 00:07:32.657
+Let's see how that applies
+to this question of:
+
+00:07:32.681 --> 00:07:35.470
+"Can you switch the machine off?"
+as Turing suggested.
+
+00:07:37.073 --> 00:07:39.193
+So here's a PR2 robot.
+
+00:07:39.217 --> 00:07:41.038
+This is one that we have in our lab,
+
+00:07:41.062 --> 00:07:43.965
+and it has a big red "off" switch
+right on the back.
+
+00:07:44.541 --> 00:07:47.156
+The question is: Is it
+going to let you switch it off?
+
+00:07:47.180 --> 00:07:48.645
+If we do it the classical way,
+
+00:07:48.669 --> 00:07:52.151
+we give it the objective of, "Fetch
+the coffee, I must fetch the coffee,
+
+00:07:52.175 --> 00:07:54.755
+I can't fetch the coffee if I'm dead,"
+
+00:07:54.779 --> 00:07:58.120
+so obviously the PR2
+has been listening to my talk,
+
+00:07:58.144 --> 00:08:01.897
+and so it says, therefore,
+"I must disable my 'off' switch,
+
+00:08:02.976 --> 00:08:05.670
+and probably taser all the other
+people in Starbucks
+
+00:08:05.694 --> 00:08:07.254
+who might interfere with me."
+
+00:08:07.278 --> 00:08:09.340
+(Laughter)
+
+00:08:09.364 --> 00:08:11.517
+So this seems to be inevitable, right?
+
+00:08:11.541 --> 00:08:13.939
+This kind of failure mode
+seems to be inevitable,
+
+00:08:13.963 --> 00:08:17.506
+and it follows from having
+a concrete, definite objective.
+
+00:08:18.812 --> 00:08:21.956
+So what happens if the machine
+is uncertain about the objective?
+
+00:08:21.980 --> 00:08:24.107
+Well, it reasons in a different way.
+
+00:08:24.131 --> 00:08:26.555
+It says, "OK, the human
+might switch me off,
+
+00:08:27.144 --> 00:08:29.010
+but only if I'm doing something wrong.
+
+00:08:29.747 --> 00:08:32.222
+Well, I don't really know what wrong is,
+
+00:08:32.246 --> 00:08:34.290
+but I know that I don't want to do it."
+
+00:08:34.314 --> 00:08:37.324
+So that's the first and second
+principles right there.
+
+00:08:37.348 --> 00:08:40.707
+"So I should let the human switch me off."
+
+00:08:41.721 --> 00:08:45.677
+And in fact you can calculate
+the incentive that the robot has
+
+00:08:45.701 --> 00:08:48.194
+to allow the human to switch it off,
+
+00:08:48.218 --> 00:08:50.132
+and it's directly tied to the degree
+
+00:08:50.156 --> 00:08:52.902
+of uncertainty about
+the underlying objective.
+
+00:08:53.977 --> 00:08:56.926
+And then when the machine is switched off,
+
+00:08:56.950 --> 00:08:58.755
+that third principle comes into play.
+
+00:08:58.779 --> 00:09:01.841
+It learns something about the objectives
+it should be pursuing,
+
+00:09:01.865 --> 00:09:04.398
+because it learns that
+what it did wasn't right.
+
+00:09:04.422 --> 00:09:07.992
+In fact, we can, with suitable use
+of Greek symbols,
+
+00:09:08.016 --> 00:09:10.147
+as mathematicians usually do,
+
+00:09:10.171 --> 00:09:12.155
+we can actually prove a theorem
+
+00:09:12.179 --> 00:09:15.732
+that says that such a robot
+is provably beneficial to the human.
+
+00:09:15.756 --> 00:09:19.559
+You are provably better off
+with a machine that's designed in this way
+
+00:09:19.583 --> 00:09:20.829
+than without it.
+
+00:09:21.237 --> 00:09:24.143
+So this is a very simple example,
+but this is the first step
+
+00:09:24.167 --> 00:09:28.070
+in what we're trying to do
+with human-compatible AI.
+
+00:09:30.657 --> 00:09:33.914
+Now, this third principle,
+
+00:09:33.938 --> 00:09:37.050
+I think is the one that you're probably
+scratching your head over.
+
+00:09:37.074 --> 00:09:40.313
+You're probably thinking, "Well,
+you know, I behave badly.
+
+00:09:40.337 --> 00:09:43.266
+I don't want my robot to behave like me.
+
+00:09:43.290 --> 00:09:46.724
+I sneak down in the middle of the night
+and take stuff from the fridge.
+
+00:09:46.748 --> 00:09:47.916
+I do this and that."
+
+00:09:47.940 --> 00:09:50.737
+There's all kinds of things
+you don't want the robot doing.
+
+00:09:50.761 --> 00:09:52.832
+But in fact, it doesn't
+quite work that way.
+
+00:09:52.856 --> 00:09:55.011
+Just because you behave badly
+
+00:09:55.035 --> 00:09:57.658
+doesn't mean the robot
+is going to copy your behavior.
+
+00:09:57.682 --> 00:10:01.592
+It's going to understand your motivations
+and maybe help you resist them,
+
+00:10:01.616 --> 00:10:02.936
+if appropriate.
+
+00:10:04.206 --> 00:10:05.670
+But it's still difficult.
+
+00:10:06.302 --> 00:10:08.847
+What we're trying to do, in fact,
+
+00:10:08.871 --> 00:10:14.667
+is to allow machines to predict
+for any person and for any possible life
+
+00:10:14.691 --> 00:10:15.852
+that they could live,
+
+00:10:15.876 --> 00:10:17.473
+and the lives of everybody else:
+
+00:10:17.497 --> 00:10:20.014
+Which would they prefer?
+
+00:10:22.061 --> 00:10:25.015
+And there are many, many
+difficulties involved in doing this;
+
+00:10:25.039 --> 00:10:27.971
+I don't expect that this
+is going to get solved very quickly.
+
+00:10:27.995 --> 00:10:30.638
+The real difficulties, in fact, are us.
+
+00:10:32.149 --> 00:10:35.266
+As I have already mentioned,
+we behave badly.
+
+00:10:35.290 --> 00:10:37.611
+In fact, some of us are downright nasty.
+
+00:10:38.431 --> 00:10:41.483
+Now the robot, as I said,
+doesn't have to copy the behavior.
+
+00:10:41.507 --> 00:10:44.298
+The robot does not have
+any objective of its own.
+
+00:10:44.322 --> 00:10:46.059
+It's purely altruistic.
+
+00:10:47.293 --> 00:10:52.514
+And it's not designed just to satisfy
+the desires of one person, the user,
+
+00:10:52.538 --> 00:10:55.676
+but in fact it has to respect
+the preferences of everybody.
+
+00:10:57.263 --> 00:10:59.833
+So it can deal with a certain
+amount of nastiness,
+
+00:10:59.857 --> 00:11:03.558
+and it can even understand
+that your nastiness, for example,
+
+00:11:03.582 --> 00:11:06.253
+you may take bribes as a passport official
+
+00:11:06.277 --> 00:11:10.089
+because you need to feed your family
+and send your kids to school.
+
+00:11:10.113 --> 00:11:13.019
+It can understand that;
+it doesn't mean it's going to steal.
+
+00:11:13.043 --> 00:11:15.722
+In fact, it'll just help you
+send your kids to school.
+
+00:11:16.976 --> 00:11:19.988
+We are also computationally limited.
+
+00:11:20.012 --> 00:11:22.517
+Lee Sedol is a brilliant Go player,
+
+00:11:22.541 --> 00:11:23.866
+but he still lost.
+
+00:11:23.890 --> 00:11:28.129
+So if we look at his actions,
+he took an action that lost the game.
+
+00:11:28.153 --> 00:11:30.314
+That doesn't mean he wanted to lose.
+
+00:11:31.340 --> 00:11:33.380
+So to understand his behavior,
+
+00:11:33.404 --> 00:11:37.048
+we actually have to invert
+through a model of human cognition
+
+00:11:37.072 --> 00:11:42.049
+that includes our computational
+limitations -- a very complicated model.
+
+00:11:42.073 --> 00:11:45.066
+But it's still something
+that we can work on understanding.
+
+00:11:45.876 --> 00:11:50.196
+Probably the most difficult part,
+from my point of view as an AI researcher,
+
+00:11:50.220 --> 00:11:52.795
+is the fact that there are lots of us,
+
+00:11:54.294 --> 00:11:57.875
+and so the machine has to somehow
+trade off, weigh up the preferences
+
+00:11:57.899 --> 00:12:00.124
+of many different people,
+
+00:12:00.148 --> 00:12:02.054
+and there are different ways to do that.
+
+00:12:02.078 --> 00:12:05.767
+Economists, sociologists,
+moral philosophers have understood that,
+
+00:12:05.791 --> 00:12:08.246
+and we are actively
+looking for collaboration.
+
+00:12:08.270 --> 00:12:11.521
+Let's have a look and see what happens
+when you get that wrong.
+
+00:12:11.545 --> 00:12:13.678
+So you can have
+a conversation, for example,
+
+00:12:13.702 --> 00:12:15.646
+with your intelligent personal assistant
+
+00:12:15.670 --> 00:12:17.955
+that might be available
+in a few years' time.
+
+00:12:17.979 --> 00:12:20.503
+Think of a Siri on steroids.
+
+00:12:21.627 --> 00:12:25.949
+So Siri says, "Your wife called
+to remind you about dinner tonight."
+
+00:12:26.616 --> 00:12:29.124
+And of course, you've forgotten.
+"What? What dinner?
+
+00:12:29.148 --> 00:12:30.573
+What are you talking about?"
+
+00:12:30.597 --> 00:12:34.343
+"Uh, your 20th anniversary at 7pm."
+
+00:12:36.915 --> 00:12:40.634
+"I can't do that. I'm meeting
+with the secretary-general at 7:30.
+
+00:12:40.658 --> 00:12:42.350
+How could this have happened?"
+
+00:12:42.374 --> 00:12:47.034
+"Well, I did warn you, but you overrode
+my recommendation."
+
+00:12:48.146 --> 00:12:51.474
+"Well, what am I going to do?
+I can't just tell him I'm too busy."
+
+00:12:52.490 --> 00:12:55.771
+"Don't worry. I arranged
+for his plane to be delayed."
+
+00:12:55.795 --> 00:12:57.477
+(Laughter)
+
+00:12:58.249 --> 00:13:00.350
+"Some kind of computer malfunction."
+
+00:13:00.374 --> 00:13:01.586
+(Laughter)
+
+00:13:01.610 --> 00:13:03.227
+"Really? You can do that?"
+
+00:13:04.400 --> 00:13:06.579
+"He sends his profound apologies
+
+00:13:06.603 --> 00:13:09.158
+and looks forward to meeting you
+for lunch tomorrow."
+
+00:13:09.182 --> 00:13:10.481
+(Laughter)
+
+00:13:10.505 --> 00:13:14.908
+So the values here --
+there's a slight mistake going on.
+
+00:13:14.932 --> 00:13:17.941
+This is clearly following my wife's values
+
+00:13:17.965 --> 00:13:20.034
+which is "Happy wife, happy life."
+
+00:13:20.058 --> 00:13:21.641
+(Laughter)
+
+00:13:21.665 --> 00:13:23.109
+It could go the other way.
+
+00:13:23.821 --> 00:13:26.022
+You could come home
+after a hard day's work,
+
+00:13:26.046 --> 00:13:28.241
+and the computer says, "Long day?"
+
+00:13:28.265 --> 00:13:30.553
+"Yes, I didn't even have time for lunch."
+
+00:13:30.577 --> 00:13:31.859
+"You must be very hungry."
+
+00:13:31.883 --> 00:13:34.529
+"Starving, yeah.
+Could you make some dinner?"
+
+00:13:36.070 --> 00:13:38.160
+"There's something I need to tell you."
+
+00:13:38.184 --> 00:13:39.339
+(Laughter)
+
+00:13:40.193 --> 00:13:45.098
+"There are humans in South Sudan
+who are in more urgent need than you."
+
+00:13:45.122 --> 00:13:46.226
+(Laughter)
+
+00:13:46.250 --> 00:13:48.325
+"So I'm leaving. Make your own dinner."
+
+00:13:48.349 --> 00:13:50.349
+(Laughter)
+
+00:13:50.823 --> 00:13:52.562
+So we have to solve these problems,
+
+00:13:52.586 --> 00:13:55.101
+and I'm looking forward
+to working on them.
+
+00:13:55.125 --> 00:13:56.968
+There are reasons for optimism.
+
+00:13:56.992 --> 00:13:58.151
+One reason is,
+
+00:13:58.175 --> 00:14:00.043
+there is a massive amount of data.
+
+00:14:00.067 --> 00:14:02.861
+Because remember -- I said
+they're going to read everything
+
+00:14:02.885 --> 00:14:04.431
+the human race has ever written.
+
+00:14:04.455 --> 00:14:07.179
+Most of what we write about
+is human beings doing things
+
+00:14:07.203 --> 00:14:09.117
+and other people getting upset about it.
+
+00:14:09.141 --> 00:14:11.539
+So there's a massive amount
+of data to learn from.
+
+00:14:11.563 --> 00:14:13.799
+There's also a very
+strong economic incentive
+
+00:14:15.331 --> 00:14:16.517
+to get this right.
+
+00:14:16.541 --> 00:14:18.542
+So imagine your domestic robot's at home.
+
+00:14:18.566 --> 00:14:21.633
+You're late from work again
+and the robot has to feed the kids,
+
+00:14:21.657 --> 00:14:24.480
+and the kids are hungry
+and there's nothing in the fridge.
+
+00:14:24.504 --> 00:14:27.109
+And the robot sees the cat.
+
+00:14:27.133 --> 00:14:28.825
+(Laughter)
+
+00:14:28.849 --> 00:14:33.039
+And the robot hasn't quite learned
+the human value function properly,
+
+00:14:33.063 --> 00:14:34.314
+so it doesn't understand
+
+00:14:34.338 --> 00:14:39.182
+the sentimental value of the cat outweighs
+the nutritional value of the cat.
+
+00:14:39.206 --> 00:14:40.301
+(Laughter)
+
+00:14:40.325 --> 00:14:42.073
+So then what happens?
+
+00:14:42.097 --> 00:14:45.394
+Well, it happens like this:
+
+00:14:45.418 --> 00:14:48.382
+"Deranged robot cooks kitty
+for family dinner."
+
+00:14:48.406 --> 00:14:52.929
+That one incident would be the end
+of the domestic robot industry.
+
+00:14:52.953 --> 00:14:56.325
+So there's a huge incentive
+to get this right
+
+00:14:56.349 --> 00:14:59.064
+long before we reach
+superintelligent machines.
+
+00:15:00.128 --> 00:15:01.663
+So to summarize:
+
+00:15:01.687 --> 00:15:04.568
+I'm actually trying to change
+the definition of AI
+
+00:15:04.592 --> 00:15:07.585
+so that we have provably
+beneficial machines.
+
+00:15:07.609 --> 00:15:08.831
+And the principles are:
+
+00:15:08.855 --> 00:15:10.253
+machines that are altruistic,
+
+00:15:10.277 --> 00:15:13.081
+that want to achieve only our objectives,
+
+00:15:13.105 --> 00:15:16.221
+but that are uncertain
+about what those objectives are,
+
+00:15:16.245 --> 00:15:18.243
+and will watch all of us
+
+00:15:18.267 --> 00:15:21.470
+to learn more about what it is
+that we really want.
+
+00:15:22.373 --> 00:15:25.932
+And hopefully in the process,
+we will learn to be better people.
+
+00:15:25.956 --> 00:15:27.147
+Thank you very much.
+
+00:15:27.171 --> 00:15:30.880
+(Applause)
+
+00:15:30.904 --> 00:15:32.772
+Chris Anderson: So interesting, Stuart.
+
+00:15:32.796 --> 00:15:35.966
+We're going to stand here a bit
+because I think they're setting up
+
+00:15:35.990 --> 00:15:37.141
+for our next speaker.
+
+00:15:37.165 --> 00:15:38.703
+A couple of questions.
+
+00:15:38.727 --> 00:15:44.180
+So the idea of programming in ignorance
+seems intuitively really powerful.
+
+00:15:44.204 --> 00:15:45.798
+As you get to superintelligence,
+
+00:15:45.822 --> 00:15:48.080
+what's going to stop a robot
+
+00:15:48.104 --> 00:15:50.956
+reading literature and discovering
+this idea that knowledge
+
+00:15:50.980 --> 00:15:52.552
+is actually better than ignorance
+
+00:15:52.576 --> 00:15:56.794
+and still just shifting its own goals
+and rewriting that programming?
+
+00:15:57.692 --> 00:16:04.048
+Stuart Russell: Yes, so we want
+it to learn more, as I said,
+
+00:16:04.072 --> 00:16:05.359
+about our objectives.
+
+00:16:05.383 --> 00:16:10.904
+It'll only become more certain
+as it becomes more correct,
+
+00:16:10.928 --> 00:16:12.873
+so the evidence is there
+
+00:16:12.897 --> 00:16:15.621
+and it's going to be designed
+to interpret it correctly.
+
+00:16:15.645 --> 00:16:19.601
+It will understand, for example,
+that books are very biased
+
+00:16:19.625 --> 00:16:21.108
+in the evidence they contain.
+
+00:16:21.132 --> 00:16:23.529
+They only talk about kings and princes
+
+00:16:23.553 --> 00:16:26.353
+and elite white male people doing stuff.
+
+00:16:26.377 --> 00:16:28.473
+So it's a complicated problem,
+
+00:16:28.497 --> 00:16:32.369
+but as it learns more about our objectives
+
+00:16:32.393 --> 00:16:34.456
+it will become more and more useful to us.
+
+00:16:34.480 --> 00:16:37.006
+CA: And you couldn't
+just boil it down to one law,
+
+00:16:37.030 --> 00:16:38.680
+you know, hardwired in:
+
+00:16:38.704 --> 00:16:41.997
+"if any human ever tries to switch me off,
+
+00:16:42.021 --> 00:16:43.956
+I comply. I comply."
+
+00:16:43.980 --> 00:16:45.162
+SR: Absolutely not.
+
+00:16:45.186 --> 00:16:46.685
+That would be a terrible idea.
+
+00:16:46.709 --> 00:16:49.398
+So imagine that you have
+a self-driving car
+
+00:16:49.422 --> 00:16:51.855
+and you want to send your five-year-old
+
+00:16:51.879 --> 00:16:53.053
+off to preschool.
+
+00:16:53.077 --> 00:16:56.178
+Do you want your five-year-old
+to be able to switch off the car
+
+00:16:56.202 --> 00:16:57.415
+while it's driving along?
+
+00:16:57.439 --> 00:16:58.598
+Probably not.
+
+00:16:58.622 --> 00:17:03.325
+So it needs to understand how rational
+and sensible the person is.
+
+00:17:03.349 --> 00:17:05.025
+The more rational the person,
+
+00:17:05.049 --> 00:17:07.152
+the more willing you are
+to be switched off.
+
+00:17:07.176 --> 00:17:09.719
+If the person is completely
+random or even malicious,
+
+00:17:09.743 --> 00:17:12.255
+then you're less willing
+to be switched off.
+
+00:17:12.279 --> 00:17:14.145
+CA: All right. Stuart, can I just say,
+
+00:17:14.169 --> 00:17:16.483
+I really, really hope you
+figure this out for us.
+
+00:17:16.507 --> 00:17:18.882
+Thank you so much for that talk.
+That was amazing.
+
+00:17:18.906 --> 00:17:20.073
+SR: Thank you.
+
+00:17:20.097 --> 00:17:21.934
+(Applause)
+

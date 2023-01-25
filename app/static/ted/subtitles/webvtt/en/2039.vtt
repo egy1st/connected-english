@@ -1,0 +1,981 @@
+WEBVTT
+
+00:00:00.779 --> 00:00:04.500
+What do you think of when I say the word "design"?
+
+00:00:04.500 --> 00:00:06.820
+You probably think of things like this,
+
+00:00:06.820 --> 00:00:10.331
+finely crafted objects that you can hold in your hand,
+
+00:00:10.331 --> 00:00:13.260
+or maybe logos and posters and maps
+
+00:00:13.260 --> 00:00:15.181
+that visually explain things,
+
+00:00:15.181 --> 00:00:18.339
+classic icons of timeless design.
+
+00:00:18.339 --> 00:00:21.220
+But I'm not here to talk about that kind of design.
+
+00:00:21.220 --> 00:00:22.375
+I want to talk about the kind
+
+00:00:22.375 --> 00:00:24.404
+that you probably use every day
+
+00:00:24.404 --> 00:00:26.165
+and may not give much thought to,
+
+00:00:26.165 --> 00:00:28.276
+designs that change all the time
+
+00:00:28.276 --> 00:00:30.533
+and that live inside your pocket.
+
+00:00:30.533 --> 00:00:32.596
+I'm talking about the design
+
+00:00:32.596 --> 00:00:34.651
+of digital experiences
+
+00:00:34.651 --> 00:00:37.387
+and specifically the design of systems
+
+00:00:37.387 --> 00:00:39.020
+that are so big that their scale
+
+00:00:39.020 --> 00:00:41.111
+can be hard to comprehend.
+
+00:00:41.111 --> 00:00:43.372
+Consider the fact that Google processes
+
+00:00:43.372 --> 00:00:47.157
+over one billion search queries every day,
+
+00:00:47.157 --> 00:00:49.325
+that every minute, over 100 hours
+
+00:00:49.325 --> 00:00:51.525
+of footage are uploaded to YouTube.
+
+00:00:51.525 --> 00:00:53.292
+That's more in a single day
+
+00:00:53.292 --> 00:00:56.042
+than all three major U.S. networks broadcast
+
+00:00:56.042 --> 00:00:59.317
+in the last five years combined.
+
+00:00:59.317 --> 00:01:01.621
+And Facebook transmitting the photos,
+
+00:01:01.621 --> 00:01:02.817
+messages and stories
+
+00:01:02.817 --> 00:01:05.989
+of over 1.23 billion people.
+
+00:01:05.989 --> 00:01:08.733
+That's almost half of the Internet population,
+
+00:01:08.733 --> 00:01:11.405
+and a sixth of humanity.
+
+00:01:11.405 --> 00:01:12.419
+These are some of the products
+
+00:01:12.419 --> 00:01:15.173
+that I've helped design over the course of my career,
+
+00:01:15.173 --> 00:01:17.293
+and their scale is so massive
+
+00:01:17.293 --> 00:01:19.181
+that they've produced unprecedented
+
+00:01:19.181 --> 00:01:21.027
+design challenges.
+
+00:01:21.027 --> 00:01:23.389
+But what is really hard
+
+00:01:23.389 --> 00:01:26.120
+about designing at scale is this:
+
+00:01:26.120 --> 00:01:27.956
+It's hard in part because
+
+00:01:27.956 --> 00:01:30.861
+it requires a combination of two things,
+
+00:01:30.861 --> 00:01:33.638
+audacity and humility —
+
+00:01:33.638 --> 00:01:37.482
+audacity to believe that the thing that you're making
+
+00:01:37.482 --> 00:01:40.778
+is something that the entire world wants and needs,
+
+00:01:40.778 --> 00:01:43.874
+and humility to understand that as a designer,
+
+00:01:43.874 --> 00:01:46.314
+it's not about you or your portfolio,
+
+00:01:46.314 --> 00:01:48.906
+it's about the people that you're designing for,
+
+00:01:48.906 --> 00:01:50.802
+and how your work just might help them
+
+00:01:50.802 --> 00:01:52.406
+live better lives.
+
+00:01:52.406 --> 00:01:55.027
+Now, unfortunately, there's no school
+
+00:01:55.027 --> 00:01:59.120
+that offers the course Designing for Humanity 101.
+
+00:01:59.120 --> 00:02:00.692
+I and the other designers
+
+00:02:00.692 --> 00:02:02.436
+who work on these kinds of products
+
+00:02:02.436 --> 00:02:05.788
+have had to invent it as we go along,
+
+00:02:05.788 --> 00:02:07.405
+and we are teaching ourselves
+
+00:02:07.405 --> 00:02:09.273
+the emerging best practices
+
+00:02:09.273 --> 00:02:11.253
+of designing at scale,
+
+00:02:11.253 --> 00:02:13.205
+and today I'd like share some of the things
+
+00:02:13.205 --> 00:02:15.285
+that we've learned over the years.
+
+00:02:15.285 --> 00:02:16.516
+Now, the first thing that you need to know
+
+00:02:16.516 --> 00:02:17.646
+about designing at scale
+
+00:02:17.646 --> 00:02:20.620
+is that the little things really matter.
+
+00:02:20.620 --> 00:02:22.557
+Here's a really good example of how
+
+00:02:22.557 --> 00:02:26.060
+a very tiny design element can make a big impact.
+
+00:02:26.060 --> 00:02:29.140
+The team at Facebook that manages
+
+00:02:29.140 --> 00:02:31.248
+the Facebook "Like" button
+
+00:02:31.248 --> 00:02:33.720
+decided that it needed to be redesigned.
+
+00:02:33.720 --> 00:02:36.147
+The button had kind of gotten out of sync
+
+00:02:36.147 --> 00:02:37.596
+with the evolution of our brand
+
+00:02:37.596 --> 00:02:39.384
+and it needed to be modernized.
+
+00:02:39.384 --> 00:02:41.252
+Now you might think, well, it's a tiny little button,
+
+00:02:41.252 --> 00:02:43.245
+it probably is a pretty straightforward,
+
+00:02:43.245 --> 00:02:46.260
+easy design assignment, but it wasn't.
+
+00:02:46.260 --> 00:02:48.381
+Turns out, there were all kinds of constraints
+
+00:02:48.381 --> 00:02:50.190
+for the design of this button.
+
+00:02:50.190 --> 00:02:53.645
+You had to work within specific
+height and width parameters.
+
+00:02:53.645 --> 00:02:55.940
+You had to be careful to make it work
+
+00:02:55.940 --> 00:02:57.701
+in a bunch of different languages,
+
+00:02:57.701 --> 00:03:00.756
+and be careful about using
+fancy gradients or borders
+
+00:03:00.756 --> 00:03:02.900
+because it has to degrade gracefully
+
+00:03:02.900 --> 00:03:04.653
+in old web browsers.
+
+00:03:04.653 --> 00:03:07.325
+The truth is, designing this tiny little button
+
+00:03:07.325 --> 00:03:09.508
+was a huge pain in the butt.
+
+00:03:09.508 --> 00:03:11.560
+Now, this is the new version of the button,
+
+00:03:11.560 --> 00:03:14.074
+and the designer who led this project estimates
+
+00:03:14.074 --> 00:03:17.588
+that he spent over 280 hours
+
+00:03:17.588 --> 00:03:21.238
+redesigning this button over the course of months.
+
+00:03:21.238 --> 00:03:23.582
+Now, why would we spend so much time
+
+00:03:23.582 --> 00:03:25.886
+on something so small?
+
+00:03:25.886 --> 00:03:27.502
+It's because when you're designing at scale,
+
+00:03:27.502 --> 00:03:30.631
+there's no such thing as a small detail.
+
+00:03:30.631 --> 00:03:32.147
+This innocent little button
+
+00:03:32.147 --> 00:03:36.102
+is seen on average 22 billion times a day
+
+00:03:36.102 --> 00:03:39.602
+and on over 7.5 million websites.
+
+00:03:39.602 --> 00:03:43.686
+It's one of the single most viewed
+design elements ever created.
+
+00:03:43.686 --> 00:03:46.190
+Now that's a lot of pressure for a little button
+
+00:03:46.190 --> 00:03:47.910
+and the designer behind it,
+
+00:03:47.910 --> 00:03:49.438
+but with these kinds of products,
+
+00:03:49.438 --> 00:03:52.174
+you need to get even the tiny things right.
+
+00:03:52.174 --> 00:03:54.710
+Now, the next thing that you need to understand
+
+00:03:54.710 --> 00:03:57.198
+is how to design with data.
+
+00:03:57.198 --> 00:03:58.870
+Now, when you're working on products like this,
+
+00:03:58.870 --> 00:04:01.615
+you have incredible amounts of information
+
+00:04:01.615 --> 00:04:03.703
+about how people are using your product
+
+00:04:03.703 --> 00:04:05.358
+that you can then use to influence
+
+00:04:05.358 --> 00:04:06.942
+your design decisions,
+
+00:04:06.942 --> 00:04:09.694
+but it's not just as simple as following the numbers.
+
+00:04:09.694 --> 00:04:10.945
+Let me give you an example
+
+00:04:10.945 --> 00:04:13.110
+so that you can understand what I mean.
+
+00:04:13.110 --> 00:04:15.267
+Facebook has had a tool for a long time
+
+00:04:15.267 --> 00:04:17.580
+that allowed people to report photos
+
+00:04:17.580 --> 00:04:20.442
+that may be in violation of our community standards,
+
+00:04:20.442 --> 00:04:22.862
+things like spam and abuse.
+
+00:04:22.862 --> 00:04:24.870
+And there were a ton of photos reported,
+
+00:04:24.870 --> 00:04:26.506
+but as it turns out,
+
+00:04:26.506 --> 00:04:28.402
+only a small percentage were actually
+
+00:04:28.402 --> 00:04:31.320
+in violation of those community standards.
+
+00:04:31.320 --> 00:04:33.830
+Most of them were just your typical party photo.
+
+00:04:33.830 --> 00:04:36.738
+Now, to give you a specific hypothetical example,
+
+00:04:36.738 --> 00:04:39.234
+let's say my friend Laura hypothetically
+
+00:04:39.234 --> 00:04:40.892
+uploads a picture of me
+
+00:04:40.892 --> 00:04:43.880
+from a drunken night of karaoke.
+
+00:04:43.880 --> 00:04:47.146
+This is purely hypothetical, I can assure you.
+
+00:04:47.146 --> 00:04:48.641
+(Laughter)
+
+00:04:48.641 --> 00:04:50.410
+Now, incidentally,
+
+00:04:50.410 --> 00:04:51.700
+you know how some people are kind of worried
+
+00:04:51.700 --> 00:04:53.343
+that their boss or employee
+
+00:04:53.343 --> 00:04:55.350
+is going to discover embarrassing photos of them
+
+00:04:55.350 --> 00:04:56.890
+on Facebook?
+
+00:04:56.890 --> 00:04:58.826
+Do you know how hard that is to avoid
+
+00:04:58.826 --> 00:05:02.080
+when you actually work at Facebook?
+
+00:05:02.080 --> 00:05:04.366
+So anyway, there are lots of these photos
+
+00:05:04.366 --> 00:05:07.800
+being erroneously reported as spam and abuse,
+
+00:05:07.800 --> 00:05:10.249
+and one of the engineers on the team had a hunch.
+
+00:05:10.249 --> 00:05:12.376
+He really thought there was something else going on
+
+00:05:12.376 --> 00:05:13.532
+and he was right,
+
+00:05:13.532 --> 00:05:15.856
+because when he looked
+through a bunch of the cases,
+
+00:05:15.856 --> 00:05:17.456
+he found that most of them
+
+00:05:17.456 --> 00:05:19.331
+were from people who were requesting
+
+00:05:19.331 --> 00:05:22.153
+the takedown of a photo of themselves.
+
+00:05:22.153 --> 00:05:24.193
+Now this was a scenario that the team
+
+00:05:24.193 --> 00:05:26.560
+never even took into account before.
+
+00:05:26.560 --> 00:05:28.369
+So they added a new feature
+
+00:05:28.369 --> 00:05:30.513
+that allowed people to message their friend
+
+00:05:30.513 --> 00:05:32.785
+to ask them to take the photo down.
+
+00:05:32.785 --> 00:05:34.244
+But it didn't work.
+
+00:05:34.244 --> 00:05:35.495
+Only 20 percent of people
+
+00:05:35.495 --> 00:05:37.713
+sent the message to their friend.
+
+00:05:37.713 --> 00:05:39.964
+So the team went back at it.
+
+00:05:39.964 --> 00:05:43.155
+They consulted with experts in conflict resolution.
+
+00:05:43.155 --> 00:05:46.217
+They even studied the universal principles
+
+00:05:46.217 --> 00:05:47.704
+of polite language,
+
+00:05:47.704 --> 00:05:49.239
+which I didn't even actually know existed
+
+00:05:49.239 --> 00:05:51.176
+until this research happened.
+
+00:05:51.176 --> 00:05:53.705
+And they found something really interesting.
+
+00:05:53.705 --> 00:05:55.888
+They had to go beyond just helping people
+
+00:05:55.888 --> 00:05:57.800
+ask their friend to take the photo down.
+
+00:05:57.800 --> 00:06:00.529
+They had to help people express to their friend
+
+00:06:00.529 --> 00:06:02.960
+how the photo made them feel.
+
+00:06:02.960 --> 00:06:05.158
+Here's how the experience works today.
+
+00:06:05.158 --> 00:06:08.385
+So I find this hypothetical photo of myself,
+
+00:06:08.385 --> 00:06:11.014
+and it's not spam, it's not abuse,
+
+00:06:11.014 --> 00:06:13.537
+but I really wish it weren't on the site.
+
+00:06:13.537 --> 00:06:16.761
+So I report it and I say,
+
+00:06:16.761 --> 00:06:18.801
+"I'm in this photo and I don't like it,"
+
+00:06:18.801 --> 00:06:22.063
+and then we dig deeper.
+
+00:06:22.063 --> 00:06:24.569
+Why don't you like this photo of yourself?
+
+00:06:24.569 --> 00:06:27.416
+And I select "It's embarrassing."
+
+00:06:27.416 --> 00:06:30.742
+And then I'm encouraged to message my friend,
+
+00:06:30.742 --> 00:06:32.601
+but here's the critical difference.
+
+00:06:32.601 --> 00:06:36.233
+I'm provided specific suggested language
+
+00:06:36.233 --> 00:06:38.569
+that helps me communicate to Laura
+
+00:06:38.569 --> 00:06:40.504
+how the photo makes me feel.
+
+00:06:40.504 --> 00:06:43.545
+Now the team found that this relatively small change
+
+00:06:43.545 --> 00:06:45.224
+had a huge impact.
+
+00:06:45.224 --> 00:06:47.624
+Before, only 20 percent of people
+
+00:06:47.624 --> 00:06:48.795
+were sending the message,
+
+00:06:48.795 --> 00:06:50.840
+and now 60 percent were,
+
+00:06:50.840 --> 00:06:52.474
+and surveys showed that people
+
+00:06:52.474 --> 00:06:54.402
+on both sides of the conversation
+
+00:06:54.402 --> 00:06:56.042
+felt better as a result.
+
+00:06:56.042 --> 00:06:57.697
+That same survey showed
+
+00:06:57.697 --> 00:07:00.050
+that 90 percent of your friends
+
+00:07:00.050 --> 00:07:02.788
+want to know if they've done something to upset you.
+
+00:07:02.788 --> 00:07:04.885
+Now I don't know who the other 10 percent are,
+
+00:07:04.885 --> 00:07:06.659
+but maybe that's where our "Unfriend" feature
+
+00:07:06.659 --> 00:07:08.220
+can come in handy.
+
+00:07:08.220 --> 00:07:09.994
+So as you can see,
+
+00:07:09.994 --> 00:07:12.602
+these decisions are highly nuanced.
+
+00:07:12.602 --> 00:07:14.571
+Of course we use a lot of data
+
+00:07:14.571 --> 00:07:15.882
+to inform our decisions,
+
+00:07:15.882 --> 00:07:19.325
+but we also rely very heavily on iteration,
+
+00:07:19.325 --> 00:07:23.449
+research, testing, intuition, human empathy.
+
+00:07:23.449 --> 00:07:25.295
+It's both art and science.
+
+00:07:25.295 --> 00:07:27.861
+Now, sometimes the designers
+who work on these products
+
+00:07:27.861 --> 00:07:29.549
+are called "data-driven,"
+
+00:07:29.549 --> 00:07:32.290
+which is a term that totally drives us bonkers.
+
+00:07:32.290 --> 00:07:35.189
+The fact is, it would be irresponsible of us
+
+00:07:35.189 --> 00:07:37.741
+not to rigorously test our designs
+
+00:07:37.741 --> 00:07:39.827
+when so many people are counting on us
+
+00:07:39.827 --> 00:07:41.020
+to get it right,
+
+00:07:41.020 --> 00:07:43.340
+but data analytics
+
+00:07:43.340 --> 00:07:46.442
+will never be a substitute for design intuition.
+
+00:07:46.442 --> 00:07:49.610
+Data can help you make a good design great,
+
+00:07:49.610 --> 00:07:53.234
+but it will never made a bad design good.
+
+00:07:53.234 --> 00:07:56.346
+The next thing that you need
+to understand as a principle
+
+00:07:56.346 --> 00:07:57.893
+is that when you introduce change,
+
+00:07:57.893 --> 00:08:00.499
+you need to do it extraordinarily carefully.
+
+00:08:00.499 --> 00:08:02.166
+Now I often have joked that
+
+00:08:02.166 --> 00:08:04.404
+I spend almost as much time
+
+00:08:04.404 --> 00:08:06.218
+designing the introduction of change
+
+00:08:06.218 --> 00:08:08.418
+as I do the change itself,
+
+00:08:08.418 --> 00:08:10.714
+and I'm sure that we can all relate to that
+
+00:08:10.714 --> 00:08:12.754
+when something that we use a lot changes
+
+00:08:12.754 --> 00:08:14.986
+and then we have to adjust.
+
+00:08:14.986 --> 00:08:17.190
+The fact is, people can become
+
+00:08:17.190 --> 00:08:20.130
+very efficient at using bad design,
+
+00:08:20.130 --> 00:08:22.802
+and so even if the change is
+good for them in the long run,
+
+00:08:22.802 --> 00:08:25.859
+it's still incredibly frustrating when it happens,
+
+00:08:25.859 --> 00:08:27.666
+and this is particularly true
+
+00:08:27.666 --> 00:08:30.362
+with user-generated content platforms,
+
+00:08:30.362 --> 00:08:33.803
+because people can rightfully
+claim a sense of ownership.
+
+00:08:33.803 --> 00:08:37.406
+It is, after all, their content.
+
+00:08:37.406 --> 00:08:39.773
+Now, years ago, when I was working at YouTube,
+
+00:08:39.773 --> 00:08:41.968
+we were looking for ways to
+
+00:08:41.968 --> 00:08:44.244
+encourage more people to rate videos,
+
+00:08:44.244 --> 00:08:46.970
+and it was interesting because
+when we looked into the data,
+
+00:08:46.970 --> 00:08:50.429
+we found that almost everyone was exclusively using
+
+00:08:50.429 --> 00:08:52.396
+the highest five-star rating,
+
+00:08:52.396 --> 00:08:53.980
+a handful of people were using
+
+00:08:53.980 --> 00:08:55.656
+the lowest one-star,
+
+00:08:55.656 --> 00:08:57.075
+and virtually no one
+
+00:08:57.075 --> 00:08:59.405
+was using two, three or four stars.
+
+00:08:59.405 --> 00:09:01.300
+So we decided to simplify
+
+00:09:01.300 --> 00:09:04.624
+into an up-down kind of voting binary model.
+
+00:09:04.624 --> 00:09:07.620
+It's going to be much easier
+for people to engage with.
+
+00:09:07.620 --> 00:09:10.172
+But people were very attached
+
+00:09:10.172 --> 00:09:11.965
+to the five-star rating system.
+
+00:09:11.965 --> 00:09:14.396
+Video creators really loved their ratings.
+
+00:09:14.396 --> 00:09:15.618
+Millions and millions of people
+
+00:09:15.618 --> 00:09:17.781
+were accustomed to the old design.
+
+00:09:17.781 --> 00:09:19.716
+So in order to help people
+
+00:09:19.716 --> 00:09:21.420
+prepare themselves for change
+
+00:09:21.420 --> 00:09:23.653
+and acclimate to the new design more quickly,
+
+00:09:23.653 --> 00:09:26.116
+we actually published the data graph
+
+00:09:26.116 --> 00:09:27.836
+sharing with the community
+
+00:09:27.836 --> 00:09:29.984
+the rationale for what we were going to do,
+
+00:09:29.984 --> 00:09:32.605
+and it even engaged the larger industry
+
+00:09:32.605 --> 00:09:34.070
+in a conversation, which resulted in
+
+00:09:34.070 --> 00:09:37.148
+my favorite TechCrunch headline of all time:
+
+00:09:37.148 --> 00:09:40.612
+"YouTube Comes to a 5-Star Realization:
+
+00:09:40.612 --> 00:09:43.640
+Its Ratings Are Useless."
+
+00:09:43.640 --> 00:09:46.295
+Now, it's impossible to completely avoid
+
+00:09:46.295 --> 00:09:48.795
+change aversion when you're making changes
+
+00:09:48.795 --> 00:09:50.923
+to products that so many people use.
+
+00:09:50.923 --> 00:09:52.530
+Even though we tried to do all the right things,
+
+00:09:52.530 --> 00:09:54.763
+we still received our customary flood
+
+00:09:54.763 --> 00:09:57.387
+of video protests and angry emails
+
+00:09:57.387 --> 00:10:01.635
+and even a package that had
+to be scanned by security,
+
+00:10:01.635 --> 00:10:03.595
+but we have to remember
+
+00:10:03.595 --> 00:10:06.435
+people care intensely about this stuff,
+
+00:10:06.435 --> 00:10:09.373
+and it's because these products, this work,
+
+00:10:09.373 --> 00:10:11.593
+really, really matters to them.
+
+00:10:11.593 --> 00:10:14.900
+Now, we know that we have to be careful
+
+00:10:14.900 --> 00:10:16.890
+about paying attention to the details,
+
+00:10:16.890 --> 00:10:19.363
+we have to be cognizant about how we use data
+
+00:10:19.363 --> 00:10:21.035
+in our design process,
+
+00:10:21.035 --> 00:10:22.840
+and we have to introduce change
+
+00:10:22.840 --> 00:10:24.531
+very, very carefully.
+
+00:10:24.531 --> 00:10:26.627
+Now, these things are all really useful.
+
+00:10:26.627 --> 00:10:29.739
+They're good best practices for designing at scale.
+
+00:10:29.739 --> 00:10:31.531
+But they don't mean anything
+
+00:10:31.531 --> 00:10:33.203
+if you don't understand something
+
+00:10:33.203 --> 00:10:34.865
+much more fundamental.
+
+00:10:34.865 --> 00:10:39.626
+You have to understand who you are designing for.
+
+00:10:39.626 --> 00:10:41.363
+Now, when you set a goal to design
+
+00:10:41.363 --> 00:10:43.229
+for the entire human race,
+
+00:10:43.229 --> 00:10:46.283
+and you start to engage in that goal in earnest,
+
+00:10:46.283 --> 00:10:48.707
+at some point you run into the walls
+
+00:10:48.707 --> 00:10:50.755
+of the bubble that you're living in.
+
+00:10:50.755 --> 00:10:53.395
+Now, in San Francisco, we get a little miffed
+
+00:10:53.395 --> 00:10:54.979
+when we hit a dead cell zone
+
+00:10:54.979 --> 00:10:56.628
+because we can't use our phones to navigate
+
+00:10:56.628 --> 00:10:59.123
+to the new hipster coffee shop.
+
+00:10:59.123 --> 00:11:02.277
+But what if you had to drive four hours
+
+00:11:02.277 --> 00:11:03.613
+to charge your phone
+
+00:11:03.613 --> 00:11:06.854
+because you had no reliable source of electricity?
+
+00:11:06.854 --> 00:11:10.309
+What if you had no access to public libraries?
+
+00:11:10.309 --> 00:11:13.133
+What if your country had no free press?
+
+00:11:13.133 --> 00:11:16.873
+What would these products start to mean to you?
+
+00:11:16.873 --> 00:11:19.617
+This is what Google, YouTube and Facebook
+
+00:11:19.617 --> 00:11:21.336
+look like to most of the world,
+
+00:11:21.336 --> 00:11:22.394
+and it's what they'll look like
+
+00:11:22.394 --> 00:11:24.496
+to most of the next five billion people
+
+00:11:24.496 --> 00:11:26.056
+to come online.
+
+00:11:26.056 --> 00:11:28.322
+Designing for low-end cell phones
+
+00:11:28.322 --> 00:11:30.689
+is not glamorous design work,
+
+00:11:30.689 --> 00:11:32.601
+but if you want to design for the whole world,
+
+00:11:32.601 --> 00:11:34.712
+you have to design for where people are,
+
+00:11:34.712 --> 00:11:36.465
+and not where you are.
+
+00:11:36.465 --> 00:11:39.632
+So how do we keep this big, big picture in mind?
+
+00:11:39.632 --> 00:11:42.716
+We try to travel outside of our bubble to see, hear
+
+00:11:42.716 --> 00:11:45.291
+and understand the people we're designing for.
+
+00:11:45.291 --> 00:11:47.667
+We use our products in non-English languages
+
+00:11:47.667 --> 00:11:49.820
+to make sure that they work just as well.
+
+00:11:49.820 --> 00:11:52.955
+And we try to use one of these
+phones from time to time
+
+00:11:52.955 --> 00:11:55.891
+to keep in touch with their reality.
+
+00:11:55.891 --> 00:12:00.168
+So what does it mean to design at a global scale?
+
+00:12:00.168 --> 00:12:03.582
+It means difficult and sometimes exasperating work
+
+00:12:03.582 --> 00:12:07.554
+to try to improve and evolve products.
+
+00:12:07.554 --> 00:12:10.747
+Finding the audacity and the
+humility to do right by them
+
+00:12:10.747 --> 00:12:12.110
+can be pretty exhausting,
+
+00:12:12.110 --> 00:12:13.622
+and the humility part,
+
+00:12:13.622 --> 00:12:15.826
+it's a little tough on the design ego.
+
+00:12:15.826 --> 00:12:18.298
+Because these products are always changing,
+
+00:12:18.298 --> 00:12:20.810
+everything that I've designed in my career
+
+00:12:20.810 --> 00:12:22.106
+is pretty much gone,
+
+00:12:22.106 --> 00:12:25.386
+and everything that I will design will fade away.
+
+00:12:25.386 --> 00:12:27.162
+But here's what remains:
+
+00:12:27.162 --> 00:12:29.114
+the never-ending thrill
+
+00:12:29.114 --> 00:12:31.962
+of being a part of something that is so big,
+
+00:12:31.962 --> 00:12:34.695
+you can hardly get your head around it,
+
+00:12:34.695 --> 00:12:37.592
+and the promise that it just might change the world.
+
+00:12:37.592 --> 00:12:39.990
+Thank you.
+
+00:12:39.990 --> 00:12:42.961
+(Applause)
+

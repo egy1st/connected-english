@@ -1,0 +1,450 @@
+WEBVTT
+
+00:00:00.879 --> 00:00:04.951
+Joseph Keller used to jog
+around the Stanford campus,
+
+00:00:04.975 --> 00:00:09.692
+and he was struck by all the women
+jogging there as well.
+
+00:00:09.716 --> 00:00:13.305
+Why did their ponytails swing
+from side to side like that?
+
+00:00:13.867 --> 00:00:17.005
+Being a mathematician,
+he set out to understand why.
+
+00:00:17.029 --> 00:00:18.180
+(Laughter)
+
+00:00:18.204 --> 00:00:20.510
+Professor Keller was curious
+about many things:
+
+00:00:20.534 --> 00:00:22.501
+why teapots dribble
+
+00:00:22.525 --> 00:00:24.355
+or how earthworms wriggle.
+
+00:00:24.847 --> 00:00:27.895
+Until a few months ago,
+I hadn't heard of Joseph Keller.
+
+00:00:28.581 --> 00:00:31.433
+I read about him in the New York Times,
+
+00:00:31.457 --> 00:00:32.889
+in the obituaries.
+
+00:00:32.913 --> 00:00:36.685
+The Times had half a page
+of editorial dedicated to him,
+
+00:00:36.709 --> 00:00:40.631
+which you can imagine is premium space
+for a newspaper of their stature.
+
+00:00:41.368 --> 00:00:43.710
+I read the obituaries almost every day.
+
+00:00:44.690 --> 00:00:47.712
+My wife understandably thinks
+I'm rather morbid
+
+00:00:47.736 --> 00:00:52.136
+to begin my day with scrambled eggs
+and a "Let's see who died today."
+
+00:00:52.160 --> 00:00:53.310
+(Laughter)
+
+00:00:54.025 --> 00:00:55.317
+But if you think about it,
+
+00:00:55.341 --> 00:00:58.754
+the front page of the newspaper
+is usually bad news,
+
+00:00:58.778 --> 00:01:00.753
+and cues man's failures.
+
+00:01:00.777 --> 00:01:03.443
+An instance where bad news
+cues accomplishment
+
+00:01:03.467 --> 00:01:06.702
+is at the end of the paper,
+in the obituaries.
+
+00:01:07.405 --> 00:01:08.769
+In my day job,
+
+00:01:08.793 --> 00:01:11.269
+I run a company that focuses
+on future insights
+
+00:01:11.293 --> 00:01:13.713
+that marketers can derive
+from past data --
+
+00:01:13.737 --> 00:01:16.681
+a kind of rearview-mirror analysis.
+
+00:01:17.092 --> 00:01:18.247
+And we began to think:
+
+00:01:18.271 --> 00:01:23.389
+What if we held a rearview mirror
+to obituaries from the New York Times?
+
+00:01:24.514 --> 00:01:27.982
+Were there lessons on how you could get
+your obituary featured --
+
+00:01:28.006 --> 00:01:29.983
+even if you aren't around to enjoy it?
+
+00:01:30.007 --> 00:01:31.491
+(Laughter)
+
+00:01:31.515 --> 00:01:34.143
+Would this go better with scrambled eggs?
+
+00:01:34.167 --> 00:01:35.317
+(Laughter)
+
+00:01:36.163 --> 00:01:39.161
+And so, we looked at the data.
+
+00:01:39.869 --> 00:01:44.363
+2,000 editorial, non-paid obituaries
+
+00:01:44.387 --> 00:01:48.029
+over a 20-month period
+between 2015 and 2016.
+
+00:01:48.053 --> 00:01:52.877
+What did these 2,000 deaths --
+rather, lives -- teach us?
+
+00:01:52.901 --> 00:01:54.934
+Well, first we looked at words.
+
+00:01:54.958 --> 00:01:56.719
+This here is an obituary headline.
+
+00:01:56.743 --> 00:01:59.039
+This one is of the amazing Lee Kuan Yew.
+
+00:01:59.063 --> 00:02:01.585
+If you remove the beginning and the end,
+
+00:02:01.609 --> 00:02:04.943
+you're left with a beautifully
+worded descriptor
+
+00:02:04.967 --> 00:02:09.642
+that tries to, in just a few words,
+capture an achievement or a lifetime.
+
+00:02:09.666 --> 00:02:11.827
+Just looking at these is fascinating.
+
+00:02:12.301 --> 00:02:15.596
+Here are a few famous ones,
+people who died in the last two years.
+
+00:02:15.620 --> 00:02:16.939
+Try and guess who they are.
+
+00:02:16.963 --> 00:02:18.403
+[An Artist who Defied Genre]
+
+00:02:18.427 --> 00:02:19.612
+That's Prince.
+
+00:02:20.497 --> 00:02:22.334
+[Titan of Boxing and the 20th Century]
+
+00:02:22.358 --> 00:02:23.518
+Oh, yes.
+
+00:02:23.542 --> 00:02:24.766
+[Muhammad Ali]
+
+00:02:24.790 --> 00:02:26.336
+[Groundbreaking Architect]
+
+00:02:26.360 --> 00:02:27.611
+Zaha Hadid.
+
+00:02:28.843 --> 00:02:30.591
+So we took these descriptors
+
+00:02:30.615 --> 00:02:33.139
+and did what's called
+natural language processing,
+
+00:02:33.163 --> 00:02:34.934
+where you feed these into a program,
+
+00:02:34.958 --> 00:02:36.823
+it throws out the superfluous words --
+
+00:02:36.847 --> 00:02:41.070
+"the," "and," -- the kind of words
+you can mime easily in "Charades," --
+
+00:02:41.094 --> 00:02:43.287
+and leaves you with the most
+significant words.
+
+00:02:43.311 --> 00:02:45.132
+And we did it not just for these four,
+
+00:02:45.156 --> 00:02:47.675
+but for all 2,000 descriptors.
+
+00:02:47.699 --> 00:02:49.442
+And this is what it looks like.
+
+00:02:51.004 --> 00:02:55.831
+Film, theatre, music, dance
+and of course, art, are huge.
+
+00:02:56.485 --> 00:02:58.431
+Over 40 percent.
+
+00:02:58.455 --> 00:03:00.983
+You have to wonder
+why in so many societies
+
+00:03:01.007 --> 00:03:05.442
+we insist that our kids pursue
+engineering or medicine or business or law
+
+00:03:05.466 --> 00:03:07.053
+to be construed as successful.
+
+00:03:07.871 --> 00:03:09.564
+And while we're talking profession,
+
+00:03:09.588 --> 00:03:10.739
+let's look at age --
+
+00:03:10.763 --> 00:03:13.273
+the average age at which
+they achieved things.
+
+00:03:13.297 --> 00:03:15.143
+That number is 37.
+
+00:03:16.274 --> 00:03:19.930
+What that means is,
+you've got to wait 37 years ...
+
+00:03:19.954 --> 00:03:23.349
+before your first significant achievement
+that you're remembered for --
+
+00:03:23.373 --> 00:03:24.524
+on average --
+
+00:03:24.548 --> 00:03:27.026
+44 years later, when you
+die at the age of 81 --
+
+00:03:27.050 --> 00:03:28.218
+on average.
+
+00:03:28.242 --> 00:03:29.243
+(Laughter)
+
+00:03:29.267 --> 00:03:30.951
+Talk about having to be patient.
+
+00:03:30.975 --> 00:03:32.032
+(Laughter)
+
+00:03:32.056 --> 00:03:34.145
+Of course, it varies by profession.
+
+00:03:34.566 --> 00:03:35.759
+If you're a sports star,
+
+00:03:35.783 --> 00:03:37.910
+you'll probably hit
+your stride in your 20s.
+
+00:03:37.934 --> 00:03:40.579
+And if you're in your 40s like me,
+
+00:03:40.603 --> 00:03:42.594
+you can join the fun world of politics.
+
+00:03:42.618 --> 00:03:43.674
+(Laughter)
+
+00:03:43.698 --> 00:03:47.613
+Politicians do their first and sometimes
+only commendable act in their mid-40s.
+
+00:03:47.637 --> 00:03:48.894
+(Laughter)
+
+00:03:48.918 --> 00:03:50.855
+If you're wondering what "others" are,
+
+00:03:50.879 --> 00:03:52.355
+here are some examples.
+
+00:03:52.821 --> 00:03:54.937
+Isn't it fascinating, the things people do
+
+00:03:54.961 --> 00:03:56.843
+and the things they're remembered for?
+
+00:03:56.867 --> 00:03:58.619
+(Laughter)
+
+00:04:00.136 --> 00:04:01.980
+Our curiosity was in overdrive,
+
+00:04:02.004 --> 00:04:05.792
+and we desired to analyze
+more than just a descriptor.
+
+00:04:06.998 --> 00:04:11.944
+So, we ingested the entire
+first paragraph of all 2,000 obituaries,
+
+00:04:11.968 --> 00:04:14.742
+but we did this separately
+for two groups of people:
+
+00:04:14.766 --> 00:04:17.543
+people that are famous
+and people that are not famous.
+
+00:04:17.567 --> 00:04:20.256
+Famous people -- Prince,
+Ali, Zaha Hadid --
+
+00:04:20.280 --> 00:04:24.515
+people who are not famous
+are people like Jocelyn Cooper,
+
+00:04:24.539 --> 00:04:25.693
+Reverend Curry
+
+00:04:25.717 --> 00:04:26.886
+or Lorna Kelly.
+
+00:04:26.910 --> 00:04:30.098
+I'm willing to bet you haven't heard
+of most of their names.
+
+00:04:30.122 --> 00:04:33.934
+Amazing people, fantastic achievements,
+but they're not famous.
+
+00:04:34.720 --> 00:04:37.508
+So what if we analyze
+these two groups separately --
+
+00:04:37.532 --> 00:04:39.057
+the famous and the non-famous?
+
+00:04:39.081 --> 00:04:40.500
+What might that tell us?
+
+00:04:40.524 --> 00:04:41.764
+Take a look.
+
+00:04:44.556 --> 00:04:46.025
+Two things leap out at me.
+
+00:04:46.569 --> 00:04:47.739
+First:
+
+00:04:48.106 --> 00:04:49.304
+"John."
+
+00:04:49.328 --> 00:04:50.628
+(Laughter)
+
+00:04:51.914 --> 00:04:55.302
+Anyone here named John
+should thank your parents --
+
+00:04:55.326 --> 00:04:56.655
+(Laughter)
+
+00:04:56.679 --> 00:04:59.761
+and remind your kids to cut out
+your obituary when you're gone.
+
+00:05:01.061 --> 00:05:02.417
+And second:
+
+00:05:03.849 --> 00:05:05.003
+"help."
+
+00:05:06.524 --> 00:05:09.989
+We uncovered, many lessons
+from lives well-led,
+
+00:05:10.013 --> 00:05:12.849
+and what those people immortalized
+in print could teach us.
+
+00:05:12.873 --> 00:05:17.611
+The exercise was a fascinating testament
+to the kaleidoscope that is life,
+
+00:05:17.635 --> 00:05:20.350
+and even more fascinating
+
+00:05:20.374 --> 00:05:23.442
+was the fact that the overwhelming
+majority of obituaries
+
+00:05:23.466 --> 00:05:26.464
+featured people famous and non-famous,
+
+00:05:26.488 --> 00:05:28.921
+who did seemingly extraordinary things.
+
+00:05:29.574 --> 00:05:32.684
+They made a positive dent
+in the fabric of life.
+
+00:05:32.708 --> 00:05:33.945
+They helped.
+
+00:05:34.772 --> 00:05:37.363
+So ask yourselves as you go
+back to your daily lives:
+
+00:05:37.387 --> 00:05:40.307
+How am I using my talents to help society?
+
+00:05:40.331 --> 00:05:43.304
+Because the most powerful lesson here is,
+
+00:05:43.328 --> 00:05:47.664
+if more people lived their lives
+trying to be famous in death,
+
+00:05:47.688 --> 00:05:50.293
+the world would be a much better place.
+
+00:05:51.062 --> 00:05:52.231
+Thank you.
+
+00:05:52.255 --> 00:05:55.103
+(Applause)
+

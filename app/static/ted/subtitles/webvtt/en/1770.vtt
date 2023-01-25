@@ -1,0 +1,584 @@
+WEBVTT
+
+00:00:00.349 --> 00:00:03.543
+Living in Africa is to be on the edge,
+
+00:00:03.543 --> 00:00:06.297
+metaphorically, and quite literally
+
+00:00:06.297 --> 00:00:09.929
+when you think about connectivity before 2008.
+
+00:00:09.929 --> 00:00:13.641
+Though many human intellectual and technological leaps
+
+00:00:13.641 --> 00:00:16.665
+had happened in Europe and the rest of the world,
+
+00:00:16.665 --> 00:00:19.254
+but Africa was sort of cut off.
+
+00:00:19.254 --> 00:00:21.881
+And that changed, first with ships
+
+00:00:21.881 --> 00:00:25.158
+when we had the Renaissance, the Scientific Revolution
+
+00:00:25.158 --> 00:00:27.259
+and also the Industrial Revolution.
+
+00:00:27.259 --> 00:00:30.286
+And now we've got the digital revolution.
+
+00:00:30.286 --> 00:00:33.286
+These revolutions have not been evenly distributed
+
+00:00:33.286 --> 00:00:35.619
+across continents and nations.
+
+00:00:35.619 --> 00:00:38.349
+Never have been.
+
+00:00:38.349 --> 00:00:42.114
+Now, this is a map of the undersea fiber optic cables
+
+00:00:42.114 --> 00:00:45.018
+that connect Africa to the rest of the world.
+
+00:00:45.018 --> 00:00:47.058
+What I find amazing is that Africa
+
+00:00:47.058 --> 00:00:49.868
+is transcending its geography problem.
+
+00:00:49.868 --> 00:00:51.682
+Africa is connecting to the rest of the world
+
+00:00:51.682 --> 00:00:53.518
+and within itself.
+
+00:00:53.518 --> 00:00:56.794
+The connectivity situation has improved greatly,
+
+00:00:56.794 --> 00:00:58.995
+but some barriers remain.
+
+00:00:58.995 --> 00:01:02.683
+It is with this context that Ushahidi came to be.
+
+00:01:02.683 --> 00:01:07.219
+In 2008, one of the problems that we faced
+
+00:01:07.219 --> 00:01:09.757
+was lack of information flow.
+
+00:01:09.757 --> 00:01:12.053
+There was a media blackout in 2008,
+
+00:01:12.053 --> 00:01:14.429
+when there was post-election violence in Kenya.
+
+00:01:14.429 --> 00:01:17.253
+It was a very tragic time. It was a very difficult time.
+
+00:01:17.253 --> 00:01:20.003
+So we came together and we created software
+
+00:01:20.003 --> 00:01:21.569
+called Ushahidi.
+
+00:01:21.569 --> 00:01:25.169
+And Ushahidi means "testimony" or "witness" in Swahili.
+
+00:01:25.169 --> 00:01:28.339
+I'm very lucky to work with two amazing collaborators.
+
+00:01:28.339 --> 00:01:30.445
+This is David and Erik.
+
+00:01:30.445 --> 00:01:32.517
+I call them brothers from another mother.
+
+00:01:32.517 --> 00:01:35.529
+Clearly I have a German mother somewhere.
+
+00:01:35.529 --> 00:01:38.118
+And we worked together first with building
+
+00:01:38.118 --> 00:01:39.566
+and growing Ushahidi.
+
+00:01:39.566 --> 00:01:42.565
+And the idea of the software was to gather information
+
+00:01:42.565 --> 00:01:45.338
+from SMS, email and web, and put a map
+
+00:01:45.338 --> 00:01:48.253
+so that you could see what was happening where,
+
+00:01:48.253 --> 00:01:50.357
+and you could visualize that data.
+
+00:01:50.357 --> 00:01:52.613
+And after that initial prototype,
+
+00:01:52.613 --> 00:01:55.108
+we set out to make free and open-source software
+
+00:01:55.108 --> 00:01:59.959
+so that others do not have to start from scratch like we did.
+
+00:01:59.959 --> 00:02:01.930
+All the while, we also wanted to give back
+
+00:02:01.930 --> 00:02:04.162
+to the local tech community that helped us
+
+00:02:04.162 --> 00:02:07.667
+grow Ushahidi and supported us in those early days.
+
+00:02:07.667 --> 00:02:10.250
+And that's why we set up the iHub in Nairobi,
+
+00:02:10.250 --> 00:02:12.274
+an actual physical space
+
+00:02:12.274 --> 00:02:14.740
+where we could collaborate,
+
+00:02:14.740 --> 00:02:19.297
+and it is now part of an integral tech ecosystem in Kenya.
+
+00:02:19.297 --> 00:02:22.067
+We did that with the support of different organizations
+
+00:02:22.067 --> 00:02:25.072
+like the MacArthur Foundation and Omidyar Network.
+
+00:02:25.072 --> 00:02:28.249
+And we were able to grow this software footprint,
+
+00:02:28.249 --> 00:02:31.015
+and a few years later it became
+
+00:02:31.015 --> 00:02:33.712
+very useful software,
+
+00:02:33.712 --> 00:02:36.939
+and we were quite humbled when it was used in Haiti
+
+00:02:36.939 --> 00:02:40.008
+where citizens could indicate where they are
+
+00:02:40.008 --> 00:02:41.402
+and what their needs were,
+
+00:02:41.402 --> 00:02:44.699
+and also to deal with the fallout from the nuclear crisis
+
+00:02:44.699 --> 00:02:46.738
+and the tsunami in Japan.
+
+00:02:46.738 --> 00:02:50.132
+Now, this year the Internet turns 20,
+
+00:02:50.132 --> 00:02:52.414
+and Ushahidi turned five.
+
+00:02:52.414 --> 00:02:55.215
+Ushahidi is not only the software that we made.
+
+00:02:55.215 --> 00:02:58.272
+It is the team, and it's also the community
+
+00:02:58.272 --> 00:03:02.557
+that uses this technology in ways that we could not foresee.
+
+00:03:02.557 --> 00:03:05.877
+We did not imagine that there would be this many maps
+
+00:03:05.877 --> 00:03:07.388
+around the world.
+
+00:03:07.388 --> 00:03:10.910
+There are crisis maps, election maps, corruption maps,
+
+00:03:10.910 --> 00:03:14.437
+and even environmental monitoring crowd maps.
+
+00:03:14.437 --> 00:03:17.893
+We are humbled that this has roots in Kenya
+
+00:03:17.893 --> 00:03:20.609
+and that it has some use to people around the world
+
+00:03:20.609 --> 00:03:23.960
+trying to figure out the different issues that they're dealing with.
+
+00:03:23.960 --> 00:03:26.831
+There is more that we're doing to explore this idea
+
+00:03:26.831 --> 00:03:29.446
+of collective intelligence, that I, as a citizen,
+
+00:03:29.446 --> 00:03:32.382
+if I share the information with whatever device that I have,
+
+00:03:32.382 --> 00:03:34.925
+could inform you about what is going on,
+
+00:03:34.925 --> 00:03:37.783
+and that if you do the same, we can have a bigger picture
+
+00:03:37.783 --> 00:03:39.627
+of what's going on.
+
+00:03:39.627 --> 00:03:41.688
+I moved back to Kenya in 2011.
+
+00:03:41.688 --> 00:03:43.836
+Erik moved in 2010.
+
+00:03:43.836 --> 00:03:45.983
+Very different reality. I used to live in Chicago
+
+00:03:45.983 --> 00:03:48.133
+where there was abundant Internet access.
+
+00:03:48.133 --> 00:03:50.965
+I had never had to deal with a blackout.
+
+00:03:50.965 --> 00:03:53.849
+And in Kenya, it's a very different reality,
+
+00:03:53.849 --> 00:03:56.946
+and one thing that remains despite the leaps in progress
+
+00:03:56.946 --> 00:04:00.730
+and the digital revolution is the electricity problem.
+
+00:04:00.730 --> 00:04:03.501
+The day-to-day frustrations of dealing with this
+
+00:04:03.501 --> 00:04:06.737
+can be, let's just say very annoying.
+
+00:04:06.737 --> 00:04:08.702
+Blackouts are not fun.
+
+00:04:08.702 --> 00:04:11.615
+Imagine sitting down to start working, and all of a sudden
+
+00:04:11.615 --> 00:04:13.295
+the power goes out,
+
+00:04:13.295 --> 00:04:15.970
+your Internet connection goes down with it,
+
+00:04:15.970 --> 00:04:19.618
+so you have to figure out, okay, now, where's the modem,
+
+00:04:19.618 --> 00:04:21.607
+how do I switch back?
+
+00:04:21.607 --> 00:04:24.325
+And then, guess what? You have to deal with it again.
+
+00:04:24.325 --> 00:04:27.517
+Now, this is the reality of Kenya, where we live now,
+
+00:04:27.517 --> 00:04:29.882
+and other parts of Africa.
+
+00:04:29.882 --> 00:04:31.838
+The other problem that we're facing
+
+00:04:31.838 --> 00:04:36.125
+is that communication costs are also still a challenge.
+
+00:04:36.125 --> 00:04:38.289
+It costs me five Kenyan shillings,
+
+00:04:38.289 --> 00:04:44.342
+or .06 USD to call the U.S., Canada or China.
+
+00:04:44.342 --> 00:04:48.912
+Guess how much it costs to call Rwanda, Ghana, Nigeria?
+
+00:04:48.912 --> 00:04:52.186
+Thirty Kenyan shillings. That's six times the cost
+
+00:04:52.186 --> 00:04:54.296
+to connect within Africa.
+
+00:04:54.296 --> 00:04:56.430
+And also, when traveling within Africa,
+
+00:04:56.430 --> 00:04:59.696
+you've got different settings for different mobile providers.
+
+00:04:59.696 --> 00:05:02.405
+This is the reality that we deal with.
+
+00:05:02.405 --> 00:05:05.020
+So we've got a joke in Ushahidi
+
+00:05:05.020 --> 00:05:09.818
+where we say, "If it works in Africa, it'll work anywhere."
+
+00:05:09.818 --> 00:05:11.970
+[Most use technology to define the function. We use function to drive the technology.]
+
+00:05:11.970 --> 00:05:14.216
+What if we could overcome the problem
+
+00:05:14.216 --> 00:05:18.081
+of unreliable Internet and electricity
+
+00:05:18.081 --> 00:05:20.106
+and reduce the cost of connection?
+
+00:05:20.106 --> 00:05:22.072
+Could we leverage the cloud?
+
+00:05:22.072 --> 00:05:23.903
+We've built a crowd map, we've built Ushahidi.
+
+00:05:23.903 --> 00:05:26.328
+Could we leverage these technologies
+
+00:05:26.328 --> 00:05:31.393
+to switch smartly whenever you travel from country to country?
+
+00:05:31.393 --> 00:05:32.691
+So we looked at the modem,
+
+00:05:32.691 --> 00:05:35.970
+an important part of the infrastructure of the Internet,
+
+00:05:35.970 --> 00:05:38.481
+and asked ourselves why
+
+00:05:38.481 --> 00:05:40.436
+the modems that we are using right now
+
+00:05:40.436 --> 00:05:42.660
+are built for a different context, where you've got
+
+00:05:42.660 --> 00:05:46.615
+ubiquitous internet, you've got ubiquitous electricity,
+
+00:05:46.615 --> 00:05:51.652
+yet we sit here in Nairobi and we do not have that luxury.
+
+00:05:51.652 --> 00:05:54.149
+We wanted to redesign the modem
+
+00:05:54.149 --> 00:05:57.196
+for the developing world, for our context,
+
+00:05:57.196 --> 00:05:59.107
+and for our reality.
+
+00:05:59.107 --> 00:06:02.784
+What if we could have connectivity with less friction?
+
+00:06:02.784 --> 00:06:06.313
+This is the BRCK.
+
+00:06:06.313 --> 00:06:09.217
+It acts as a backup to the Internet
+
+00:06:09.217 --> 00:06:12.994
+so that, when the power goes out,
+
+00:06:12.994 --> 00:06:19.142
+it fails over and connects to the nearest GSM network.
+
+00:06:19.142 --> 00:06:21.983
+Mobile connectivity in Africa is pervasive.
+
+00:06:21.983 --> 00:06:24.323
+It's actually everywhere.
+
+00:06:24.323 --> 00:06:27.251
+Most towns at least have a 3G connection.
+
+00:06:27.251 --> 00:06:30.160
+So why don't we leverage that? And that's why we built this.
+
+00:06:30.160 --> 00:06:32.358
+The other reason that we built this
+
+00:06:32.358 --> 00:06:34.944
+is when electricity goes down, this has eight hours
+
+00:06:34.944 --> 00:06:36.958
+of battery left, so you can continue working,
+
+00:06:36.958 --> 00:06:39.046
+you can continue being productive,
+
+00:06:39.046 --> 00:06:43.268
+and let's just say you are less stressed.
+
+00:06:43.268 --> 00:06:45.598
+And for rural areas, it can be
+
+00:06:45.598 --> 00:06:47.701
+the primary means of connection.
+
+00:06:47.701 --> 00:06:50.437
+The software sensibility at Ushahidi is still at play
+
+00:06:50.437 --> 00:06:53.496
+when we wondered how can we use the cloud
+
+00:06:53.496 --> 00:06:55.438
+to be more intelligent so that
+
+00:06:55.438 --> 00:06:57.823
+you can analyze the different networks,
+
+00:06:57.823 --> 00:07:00.962
+and whenever you switch on the backup,
+
+00:07:00.962 --> 00:07:03.471
+you pick on the fastest network,
+
+00:07:03.471 --> 00:07:05.870
+so we'll have multi-SIM capability
+
+00:07:05.870 --> 00:07:07.966
+so that you can put multiple SIMs,
+
+00:07:07.966 --> 00:07:11.380
+and if one network is faster, that's the one you hop on,
+
+00:07:11.380 --> 00:07:14.729
+and if the up time on that is not very good,
+
+00:07:14.729 --> 00:07:17.144
+then you hop onto the next one.
+
+00:07:17.144 --> 00:07:20.881
+The idea here is for you to be able to connect anywhere.
+
+00:07:20.881 --> 00:07:23.769
+With load balancing, this can be possible.
+
+00:07:23.769 --> 00:07:27.622
+The other interesting thing for us -- we like sensors --
+
+00:07:27.622 --> 00:07:31.050
+is this idea that you could have an on-ramp
+
+00:07:31.050 --> 00:07:32.977
+for the Internet of things.
+
+00:07:32.977 --> 00:07:36.597
+Imagine a weather station that can be attached to this.
+
+00:07:36.597 --> 00:07:39.336
+It's built in a modular way so that you can also attach
+
+00:07:39.336 --> 00:07:41.106
+a satellite module so that you could have
+
+00:07:41.106 --> 00:07:44.631
+Internet connectivity even in very remote areas.
+
+00:07:44.631 --> 00:07:47.376
+Out of adversity can come innovation,
+
+00:07:47.376 --> 00:07:51.415
+and how can we help the ambitious coders and makers
+
+00:07:51.415 --> 00:07:55.494
+in Kenya to be resilient in the face of problematic infrastructure?
+
+00:07:55.494 --> 00:07:57.750
+And for us, we begin with solving the problem
+
+00:07:57.750 --> 00:08:00.694
+in our own backyard in Kenya.
+
+00:08:00.694 --> 00:08:03.094
+It is not without challenge.
+
+00:08:03.094 --> 00:08:05.847
+Our team has basically been mules carrying components
+
+00:08:05.847 --> 00:08:09.041
+from the U.S. to Kenya. We've had very interesting conversations
+
+00:08:09.041 --> 00:08:10.969
+with customs border agents.
+
+00:08:10.969 --> 00:08:12.767
+"What are you carrying?"
+
+00:08:12.767 --> 00:08:15.537
+And the local financing is not
+
+00:08:15.537 --> 00:08:20.888
+part of the ecosystem for supporting hardware projects.
+
+00:08:20.888 --> 00:08:23.607
+So we put it on Kickstarter, and I'm happy to say that,
+
+00:08:23.607 --> 00:08:25.848
+through the support of many people,
+
+00:08:25.848 --> 00:08:27.847
+not only here but online,
+
+00:08:27.847 --> 00:08:30.102
+the BRCK has been Kickstarted,
+
+00:08:30.102 --> 00:08:34.192
+and now the interesting part of bringing this to market begins.
+
+00:08:34.192 --> 00:08:37.086
+I will close by saying that, if we solve this
+
+00:08:37.086 --> 00:08:39.646
+for the local market, it could be impactful
+
+00:08:39.646 --> 00:08:42.096
+not only for the coders in Nairobi
+
+00:08:42.096 --> 00:08:44.448
+but also for small business owners
+
+00:08:44.448 --> 00:08:47.112
+who need reliable connectivity,
+
+00:08:47.112 --> 00:08:49.312
+and it can reduce the cost of connecting,
+
+00:08:49.312 --> 00:08:53.992
+and hopefully collaboration within African countries.
+
+00:08:53.992 --> 00:08:58.964
+The idea is that the building blocks of the digital economy
+
+00:08:58.964 --> 00:09:02.483
+are connectivity and entrepreneurship.
+
+00:09:02.483 --> 00:09:04.923
+The BRCK is our part
+
+00:09:04.923 --> 00:09:07.507
+to keep Africans connected,
+
+00:09:07.507 --> 00:09:11.291
+and to help them drive the global digital revolution.
+
+00:09:11.291 --> 00:09:12.505
+Thank you.
+
+00:09:12.505 --> 00:09:16.744
+(Applause)
+

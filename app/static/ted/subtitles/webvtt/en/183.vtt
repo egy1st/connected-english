@@ -1,0 +1,418 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:04.976
+There's an ancient and universal concept
+that words have power,
+
+00:00:05.000 --> 00:00:06.334
+that spells exist,
+
+00:00:06.358 --> 00:00:09.055
+and that if we could only
+pronounce the right words,
+
+00:00:09.079 --> 00:00:11.908
+then -- whoosh! -- you know,
+an avalanche would come
+
+00:00:11.932 --> 00:00:13.937
+and wipe out the hobbits, right?
+
+00:00:13.961 --> 00:00:15.948
+So this is a very attractive idea,
+
+00:00:15.972 --> 00:00:18.599
+because we're very lazy,
+like the Sorcerer's Apprentice,
+
+00:00:18.623 --> 00:00:20.694
+or the world's greatest
+computer programmer.
+
+00:00:20.718 --> 00:00:22.628
+This idea has a lot of traction with us.
+
+00:00:22.652 --> 00:00:24.790
+We love the idea that words,
+when pronounced,
+
+00:00:24.814 --> 00:00:26.632
+are little more than pure information,
+
+00:00:26.656 --> 00:00:28.915
+but they evoke physical action
+in the real world
+
+00:00:28.939 --> 00:00:30.098
+that helps us do work.
+
+00:00:30.122 --> 00:00:32.530
+So, of course, with lots
+of programmable computers
+
+00:00:32.554 --> 00:00:33.705
+and robots around,
+
+00:00:33.729 --> 00:00:35.561
+this is an easy thing to picture.
+
+00:00:35.585 --> 00:00:37.650
+How many of you know
+what I'm talking about?
+
+00:00:37.674 --> 00:00:38.825
+Raise your right hand.
+
+00:00:38.849 --> 00:00:40.852
+How many don't know
+what I'm talking about?
+
+00:00:40.876 --> 00:00:42.027
+Raise your left hand.
+
+00:00:42.051 --> 00:00:44.930
+So that's great. So that was too easy.
+
+00:00:44.954 --> 00:00:48.073
+You guys have very insecure computers, OK?
+
+00:00:48.097 --> 00:00:51.725
+So now the thing is,
+this is a different kind of spell.
+
+00:00:51.749 --> 00:00:54.106
+This is a computer program
+made of zeros and ones.
+
+00:00:54.130 --> 00:00:56.988
+It can be pronounced on a computer,
+does something like this.
+
+00:00:57.012 --> 00:01:00.022
+The important thing is we can write it
+in a high-level language.
+
+00:01:00.046 --> 00:01:02.008
+A computer magician can write this thing.
+
+00:01:02.032 --> 00:01:05.246
+It can be compiled into zeros and ones
+and pronounced by a computer.
+
+00:01:05.270 --> 00:01:07.269
+And that's what makes computers powerful,
+
+00:01:07.293 --> 00:01:09.553
+these high-level languages
+that can be compiled.
+
+00:01:09.577 --> 00:01:12.433
+And so, I'm here to tell you,
+you don't need a computer
+
+00:01:12.457 --> 00:01:14.351
+to actually have a spell.
+
+00:01:14.375 --> 00:01:16.660
+In fact, what you can do
+at the molecular level
+
+00:01:16.684 --> 00:01:18.658
+is that if you encode information --
+
+00:01:18.682 --> 00:01:20.872
+you encode a spell
+or program as molecules --
+
+00:01:20.896 --> 00:01:24.515
+then physics can actually directly
+interpret that information
+
+00:01:24.539 --> 00:01:25.690
+and run a program.
+
+00:01:25.714 --> 00:01:27.146
+It's what happens in proteins.
+
+00:01:27.170 --> 00:01:29.791
+When this amino-acid sequence
+gets pronounced as atoms,
+
+00:01:29.815 --> 00:01:32.035
+these little letters
+are sticky for each other.
+
+00:01:32.059 --> 00:01:35.943
+It collapses into a three-dimensional
+shape that turns it into a nanomachine
+
+00:01:35.967 --> 00:01:37.537
+that actually cuts DNA.
+
+00:01:37.561 --> 00:01:40.314
+The interesting thing
+is that if you change the sequence,
+
+00:01:40.338 --> 00:01:42.346
+you change the three-dimensional folding.
+
+00:01:42.370 --> 00:01:44.330
+You get, now, a DNA stapler, instead.
+
+00:01:44.354 --> 00:01:47.616
+These are the kind of molecular programs
+we want to be able to write.
+
+00:01:47.640 --> 00:01:49.026
+The problem is, we don't know
+
+00:01:49.050 --> 00:01:52.179
+the machine language of proteins
+or have a compiler for proteins.
+
+00:01:52.203 --> 00:01:54.069
+So I've joined a growing band of people
+
+00:01:54.093 --> 00:01:56.307
+that try to make
+molecular spells using DNA.
+
+00:01:56.331 --> 00:01:58.935
+We use DNA because it's cheaper,
+it's easier to handle,
+
+00:01:58.959 --> 00:02:01.030
+it's something
+we understand really well --
+
+00:02:01.054 --> 00:02:04.137
+so well, in fact, that we think
+we can actually write
+
+00:02:04.161 --> 00:02:07.574
+programming languages for DNA
+and have molecular compilers.
+
+00:02:07.598 --> 00:02:09.179
+So then, we think we can do that.
+
+00:02:09.203 --> 00:02:12.688
+One of my first questions doing this was:
+
+00:02:12.712 --> 00:02:15.483
+How can you make an arbitrary shape
+or pattern out of DNA?
+
+00:02:15.507 --> 00:02:17.718
+I decided to use a type of DNA origami,
+
+00:02:17.742 --> 00:02:19.447
+where you take a long strand of DNA
+
+00:02:19.471 --> 00:02:22.280
+and fold it into whatever shape
+or pattern you might want.
+
+00:02:22.304 --> 00:02:23.467
+So here's a shape.
+
+00:02:23.491 --> 00:02:26.851
+I actually spent about a year in my home
+in my underwear, coding,
+
+00:02:26.875 --> 00:02:29.027
+like Linus [Torvalds],
+in that picture before.
+
+00:02:29.051 --> 00:02:32.596
+This program takes a shape
+and spits out 250 DNA sequences.
+
+00:02:32.620 --> 00:02:35.817
+These short DNA sequences
+are what are going to fold the long strand
+
+00:02:35.841 --> 00:02:37.610
+into this shape that we want to make.
+
+00:02:37.634 --> 00:02:39.881
+So you send an e-mail
+with these sequences in it
+
+00:02:39.905 --> 00:02:41.057
+to a company,
+
+00:02:41.081 --> 00:02:43.760
+and the company pronounces them
+on a DNA synthesizer,
+
+00:02:43.784 --> 00:02:46.274
+a machine about the size of a photocopier.
+
+00:02:46.298 --> 00:02:48.274
+And they take your e-mail,
+
+00:02:48.298 --> 00:02:51.659
+and every letter in your e-mail,
+they replace with a 30-atom cluster --
+
+00:02:51.683 --> 00:02:54.089
+one for each letter, A, T, C and G in DNA.
+
+00:02:54.113 --> 00:02:56.124
+They string them up in the right sequence,
+
+00:02:56.148 --> 00:02:58.309
+and then they send them
+back to you via FedEx.
+
+00:02:58.333 --> 00:03:00.774
+So you get 250 of these
+in the mail in little tubes.
+
+00:03:00.798 --> 00:03:03.241
+I mix them together,
+add a little bit of salt water,
+
+00:03:03.265 --> 00:03:05.801
+and then add this long strand
+I was telling you about,
+
+00:03:05.825 --> 00:03:07.285
+that I've stolen from a virus.
+
+00:03:07.309 --> 00:03:08.532
+And then what happens is,
+
+00:03:08.556 --> 00:03:10.710
+you heat this whole thing up
+to about boiling.
+
+00:03:10.734 --> 00:03:12.796
+You cool it down to room temperature,
+
+00:03:12.820 --> 00:03:15.982
+and as you do, those short strands
+do the following thing:
+
+00:03:16.006 --> 00:03:19.402
+each one of them binds
+that long strand in one place,
+
+00:03:19.426 --> 00:03:22.974
+and then has a second half that binds
+that long strand in a distant place,
+
+00:03:22.998 --> 00:03:25.267
+and brings those two parts
+of the long strand
+
+00:03:25.291 --> 00:03:27.336
+close together so they stick together.
+
+00:03:27.360 --> 00:03:30.047
+So the net effect
+of all 250 of these strands
+
+00:03:30.071 --> 00:03:34.398
+is to fold the long strand
+into the shape you're looking for.
+
+00:03:34.422 --> 00:03:35.814
+It'll approximate that shape.
+
+00:03:35.838 --> 00:03:37.667
+We do this for real, in the test tube.
+
+00:03:37.691 --> 00:03:40.659
+In each little drop of water,
+you get 50 billion of these guys.
+
+00:03:40.683 --> 00:03:42.998
+With a microscope,
+you can see them on a surface.
+
+00:03:43.022 --> 00:03:46.137
+The neat thing is if you change
+the sequence and change the spell,
+
+00:03:46.161 --> 00:03:48.092
+just change the sequence of the staples,
+
+00:03:48.116 --> 00:03:50.918
+you can make a molecule
+that looks like this.
+
+00:03:50.942 --> 00:03:53.952
+And, you know, he likes
+to hang out with his buddies.
+
+00:03:53.976 --> 00:03:55.862
+A lot of them are actually pretty good.
+
+00:03:55.886 --> 00:03:58.768
+If you change the spell again,
+you change the sequence again,
+
+00:03:58.792 --> 00:04:01.098
+you get really nice,
+130-nanometer triangles.
+
+00:04:01.122 --> 00:04:02.485
+If you do it again,
+
+00:04:02.509 --> 00:04:04.720
+you can get arbitrary patterns.
+
+00:04:04.744 --> 00:04:09.141
+So on a rectangle, you can paint
+patterns of North and South America,
+
+00:04:09.165 --> 00:04:10.346
+or the words, "DNA."
+
+00:04:10.370 --> 00:04:13.383
+So that's DNA origami. That's one way.
+
+00:04:13.407 --> 00:04:17.350
+There are many ways
+of casting molecular spells using DNA.
+
+00:04:17.374 --> 00:04:19.116
+What we really want to do in the end
+
+00:04:19.140 --> 00:04:22.976
+is learn how to program self-assembly
+so we can build anything, right?
+
+00:04:23.000 --> 00:04:25.390
+We want to be able to build
+technological artifacts
+
+00:04:25.414 --> 00:04:27.075
+that are maybe good for the world.
+
+00:04:27.099 --> 00:04:30.030
+We want to learn how to build
+biological artifacts,
+
+00:04:30.054 --> 00:04:31.775
+like people and whales and trees.
+
+00:04:31.799 --> 00:04:34.821
+And if it's the case that we can reach
+that level of complexity,
+
+00:04:34.845 --> 00:04:38.105
+if our ability to program molecules
+gets to be that good,
+
+00:04:38.129 --> 00:04:39.913
+then that will truly be magic.
+
+00:04:40.889 --> 00:04:42.040
+Thank you very much.
+
+00:04:42.064 --> 00:04:43.214
+(Applause)
+

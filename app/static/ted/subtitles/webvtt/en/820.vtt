@@ -1,0 +1,1319 @@
+WEBVTT
+
+00:00:00.809 --> 00:00:03.983
+So the first robot
+to talk about is called STriDER.
+
+00:00:04.007 --> 00:00:07.476
+It stands for Self-excited
+Tripedal Dynamic Experimental Robot.
+
+00:00:07.500 --> 00:00:11.858
+It's a robot that has three legs,
+which is inspired by nature.
+
+00:00:12.500 --> 00:00:15.911
+But have you seen anything in nature,
+an animal that has three legs?
+
+00:00:15.935 --> 00:00:19.805
+Probably not. So why do I call this
+a biologically inspired robot?
+
+00:00:19.829 --> 00:00:20.991
+How would it work?
+
+00:00:21.015 --> 00:00:23.177
+But before that,
+let's look at pop culture.
+
+00:00:23.201 --> 00:00:26.669
+So, you know H.G. Wells's
+"War of the Worlds," novel and movie.
+
+00:00:26.693 --> 00:00:30.014
+And what you see over here
+is a very popular video game,
+
+00:00:30.038 --> 00:00:33.738
+and in this fiction, they describe
+these alien creatures and robots
+
+00:00:33.762 --> 00:00:36.024
+that have three legs that terrorize Earth.
+
+00:00:36.048 --> 00:00:39.583
+But my robot, STriDER,
+does not move like this.
+
+00:00:39.607 --> 00:00:42.658
+This is an actual dynamic
+simulation animation.
+
+00:00:42.682 --> 00:00:44.739
+I'm going to show you how the robot works.
+
+00:00:44.763 --> 00:00:47.155
+It flips its body 180 degrees
+
+00:00:47.179 --> 00:00:49.237
+and it swings its leg between the two legs
+
+00:00:49.261 --> 00:00:50.420
+and catches the fall.
+
+00:00:50.444 --> 00:00:51.606
+So that's how it walks.
+
+00:00:51.630 --> 00:00:54.342
+But when you look at us
+human beings, bipedal walking,
+
+00:00:54.366 --> 00:00:55.524
+what you're doing is,
+
+00:00:55.548 --> 00:00:59.635
+you're not really using muscle
+to lift your leg and walk like a robot.
+
+00:00:59.659 --> 00:01:02.996
+What you're doing is,
+you swing your leg and catch the fall,
+
+00:01:03.020 --> 00:01:05.476
+stand up again, swing your leg
+and catch the fall.
+
+00:01:05.500 --> 00:01:08.667
+You're using your built-in dynamics,
+the physics of your body,
+
+00:01:08.691 --> 00:01:10.442
+just like a pendulum.
+
+00:01:10.466 --> 00:01:13.824
+We call that the concept
+of passive dynamic locomotion.
+
+00:01:13.848 --> 00:01:15.986
+What you're doing is, when you stand up,
+
+00:01:16.010 --> 00:01:18.091
+potential energy to kinetic energy,
+
+00:01:18.115 --> 00:01:20.092
+potential energy to kinetic energy.
+
+00:01:20.116 --> 00:01:22.093
+It's a constantly falling process.
+
+00:01:22.117 --> 00:01:25.166
+So even though there is nothing
+in nature that looks like this,
+
+00:01:25.190 --> 00:01:29.319
+really, we're inspired by biology
+and applying the principles of walking
+
+00:01:29.343 --> 00:01:30.500
+to this robot.
+
+00:01:30.524 --> 00:01:32.501
+Thus, it's a biologically inspired robot.
+
+00:01:32.525 --> 00:01:34.938
+What you see here,
+this is what we want to do next.
+
+00:01:34.962 --> 00:01:38.476
+We want to fold up the legs
+and shoot it up for long-range motion.
+
+00:01:38.500 --> 00:01:41.294
+And it deploys legs --
+it looks almost like "Star Wars" --
+
+00:01:41.318 --> 00:01:44.182
+so when it lands, it absorbs
+the shock and starts walking.
+
+00:01:44.206 --> 00:01:47.411
+What you see over here, this yellow thing,
+this is not a death ray.
+
+00:01:47.435 --> 00:01:48.447
+(Laughter)
+
+00:01:48.471 --> 00:01:49.630
+This is just to show you
+
+00:01:49.654 --> 00:01:52.341
+that if you have cameras
+or different types of sensors,
+
+00:01:52.365 --> 00:01:53.882
+because it's 1.8 meters tall,
+
+00:01:53.906 --> 00:01:56.992
+you can see over obstacles like bushes
+and those kinds of things.
+
+00:01:57.016 --> 00:01:58.363
+So we have two prototypes.
+
+00:01:58.387 --> 00:02:01.330
+The first version,
+in the back, that's STriDER I.
+
+00:02:01.354 --> 00:02:03.521
+The one in front,
+the smaller, is STriDER II.
+
+00:02:03.545 --> 00:02:07.053
+The problem we had with STriDER I is,
+it was just too heavy in the body.
+
+00:02:07.077 --> 00:02:09.661
+We had so many motors aligning the joints
+
+00:02:09.685 --> 00:02:10.939
+and those kinds of things.
+
+00:02:10.963 --> 00:02:14.163
+So we decided to synthesize
+a mechanical mechanism
+
+00:02:14.187 --> 00:02:17.256
+so we could get rid of all the motors,
+and with a single motor,
+
+00:02:17.280 --> 00:02:18.957
+we can coordinate all the motions.
+
+00:02:18.981 --> 00:02:22.358
+It's a mechanical solution to a problem,
+instead of using mechatronics.
+
+00:02:22.382 --> 00:02:25.794
+So with this, now the top body
+is lighted up; it's walking in our lab.
+
+00:02:25.818 --> 00:02:27.877
+This was the very first successful step.
+
+00:02:27.901 --> 00:02:30.569
+It's still not perfected,
+its coffee falls down,
+
+00:02:30.593 --> 00:02:32.575
+so we still have a lot of work to do.
+
+00:02:33.425 --> 00:02:36.121
+The second robot I want
+to talk about is called IMPASS.
+
+00:02:36.145 --> 00:02:40.604
+It stands for Intelligent Mobility
+Platform with Actuated Spoke System.
+
+00:02:40.628 --> 00:02:43.223
+It's a wheel-leg hybrid robot.
+
+00:02:43.247 --> 00:02:47.104
+So think of a rimless wheel
+or a spoke wheel,
+
+00:02:47.128 --> 00:02:50.105
+but the spokes individually
+move in and out of the hub;
+
+00:02:50.129 --> 00:02:52.216
+so, it's a wheel-leg hybrid.
+
+00:02:52.240 --> 00:02:54.482
+We're literally reinventing
+the wheel here.
+
+00:02:54.506 --> 00:02:56.969
+Let me demonstrate how it works.
+
+00:02:56.993 --> 00:03:00.842
+So in this video we're using an approach
+called the reactive approach.
+
+00:03:00.866 --> 00:03:03.843
+Just simply using
+the tactile sensors on the feet,
+
+00:03:03.867 --> 00:03:06.677
+it's trying to walk
+over a changing terrain,
+
+00:03:06.701 --> 00:03:09.401
+a soft terrain where it pushes
+down and changes.
+
+00:03:09.425 --> 00:03:11.622
+And just by the tactile information,
+
+00:03:11.646 --> 00:03:14.401
+it successfully crosses
+over these types of terrains.
+
+00:03:14.425 --> 00:03:18.230
+But, when it encounters
+a very extreme terrain --
+
+00:03:18.254 --> 00:03:22.167
+in this case, this obstacle
+is more than three times the height
+
+00:03:22.191 --> 00:03:23.361
+of the robot --
+
+00:03:23.385 --> 00:03:25.259
+then it switches to a deliberate mode,
+
+00:03:25.283 --> 00:03:28.097
+where it uses a laser range finder
+and camera systems
+
+00:03:28.121 --> 00:03:29.947
+to identify the obstacle and the size.
+
+00:03:29.971 --> 00:03:32.955
+And it carefully plans
+the motion of the spokes
+
+00:03:32.979 --> 00:03:36.688
+and coordinates it so it can show
+this very impressive mobility.
+
+00:03:36.712 --> 00:03:39.353
+You probably haven't seen
+anything like this out there.
+
+00:03:39.377 --> 00:03:43.047
+This is a very high-mobility robot
+that we developed called IMPASS.
+
+00:03:44.613 --> 00:03:46.401
+Ah, isn't that cool?
+
+00:03:46.425 --> 00:03:49.719
+When you drive your car,
+
+00:03:49.743 --> 00:03:53.665
+when you steer your car, you use
+a method called Ackermann steering.
+
+00:03:53.689 --> 00:03:55.540
+The front wheels rotate like this.
+
+00:03:55.564 --> 00:03:58.079
+For most small-wheeled robots,
+
+00:03:58.103 --> 00:04:00.352
+they use a method
+called differential steering
+
+00:04:00.376 --> 00:04:03.233
+where the left and right wheel
+turn the opposite direction.
+
+00:04:03.257 --> 00:04:06.155
+For IMPASS, we can do many,
+many different types of motion.
+
+00:04:06.179 --> 00:04:07.448
+For example, in this case,
+
+00:04:07.472 --> 00:04:09.872
+even though the left and right
+wheels are connected
+
+00:04:09.896 --> 00:04:12.662
+with a single axle rotating
+at the same angle of velocity,
+
+00:04:12.686 --> 00:04:15.820
+we simply change the length
+of the spoke, it affects the diameter,
+
+00:04:15.844 --> 00:04:17.931
+then can turn to the left
+and to the right.
+
+00:04:17.955 --> 00:04:21.308
+These are just some examples
+of the neat things we can do with IMPASS.
+
+00:04:21.332 --> 00:04:23.106
+This robot is called CLIMBeR:
+
+00:04:23.130 --> 00:04:26.530
+Cable-suspended Limbed Intelligent
+Matching Behavior Robot.
+
+00:04:26.554 --> 00:04:29.681
+I've been talking
+to a lot of NASA JPL scientists --
+
+00:04:29.705 --> 00:04:31.855
+at JPL, they are famous
+for the Mars rovers --
+
+00:04:31.879 --> 00:04:34.250
+and the scientists,
+geologists always tell me
+
+00:04:34.274 --> 00:04:37.401
+that the real interesting science,
+the science-rich sites,
+
+00:04:37.425 --> 00:04:38.936
+are always at the cliffs.
+
+00:04:38.960 --> 00:04:40.910
+But the current rovers cannot get there.
+
+00:04:40.934 --> 00:04:43.417
+So, inspired by that,
+we wanted to build a robot
+
+00:04:43.441 --> 00:04:46.558
+that can climb
+a structured cliff environment.
+
+00:04:46.582 --> 00:04:47.806
+So this is CLIMBeR.
+
+00:04:47.830 --> 00:04:49.341
+It has three legs.
+
+00:04:49.365 --> 00:04:52.948
+It's probably difficult to see, but it has
+a winch and a cable at the top.
+
+00:04:52.972 --> 00:04:55.553
+It tries to figure out
+the best place to put its foot.
+
+00:04:55.577 --> 00:04:57.212
+And then once it figures that out,
+
+00:04:57.236 --> 00:05:00.213
+in real time, it calculates
+the force distribution:
+
+00:05:00.237 --> 00:05:02.760
+how much force it needs
+to exert to the surface
+
+00:05:02.784 --> 00:05:04.761
+so it doesn't tip and doesn't slip.
+
+00:05:04.785 --> 00:05:06.926
+Once it stabilizes that, it lifts a foot,
+
+00:05:06.950 --> 00:05:10.253
+and then with the winch,
+it can climb up these kinds of cliffs.
+
+00:05:10.785 --> 00:05:13.401
+Also for search and rescue
+applications as well.
+
+00:05:13.425 --> 00:05:15.844
+Five years ago,
+I actually worked at NASA JPL
+
+00:05:15.868 --> 00:05:17.718
+during the summer as a faculty fellow.
+
+00:05:17.742 --> 00:05:21.192
+And they already had
+a six-legged robot called LEMUR.
+
+00:05:21.216 --> 00:05:22.856
+So this is actually based on that.
+
+00:05:22.880 --> 00:05:24.171
+This robot is called MARS:
+
+00:05:24.195 --> 00:05:25.812
+Multi-Appendage Robotic System.
+
+00:05:25.836 --> 00:05:27.074
+It's a hexapod robot.
+
+00:05:27.098 --> 00:05:29.075
+We developed our adaptive gait planner.
+
+00:05:29.099 --> 00:05:31.624
+We actually have a very interesting
+payload on there.
+
+00:05:31.648 --> 00:05:33.095
+The students like to have fun.
+
+00:05:33.119 --> 00:05:36.214
+And here you can see that it's walking
+over unstructured terrain.
+
+00:05:36.238 --> 00:05:37.355
+(Motor sound)
+
+00:05:37.379 --> 00:05:40.176
+It's trying to walk
+on the coastal terrain, a sandy area,
+
+00:05:40.200 --> 00:05:44.848
+but depending on the moisture content
+or the grain size of the sand,
+
+00:05:44.872 --> 00:05:48.716
+the foot's soil sinkage model changes,
+so it tries to adapt its gait
+
+00:05:48.740 --> 00:05:50.980
+to successfully cross
+over these kind of things.
+
+00:05:51.004 --> 00:05:52.511
+It also does some fun stuff.
+
+00:05:52.535 --> 00:05:56.020
+As you can imagine,
+we get so many visitors visiting our lab.
+
+00:05:56.044 --> 00:05:58.776
+So when the visitors come,
+MARS walks up to the computer,
+
+00:05:58.800 --> 00:06:00.848
+starts typing, "Hello, my name is MARS.
+
+00:06:00.872 --> 00:06:02.401
+Welcome to RoMeLa,
+
+00:06:02.425 --> 00:06:05.038
+the Robotics Mechanisms
+Laboratory at Virginia Tech."
+
+00:06:05.062 --> 00:06:06.532
+(Laughter)
+
+00:06:06.556 --> 00:06:08.681
+This robot is an amoeba robot.
+
+00:06:08.705 --> 00:06:11.593
+Now, we don't have enough time
+to go into technical details,
+
+00:06:11.617 --> 00:06:13.674
+I'll just show you
+some of the experiments.
+
+00:06:13.698 --> 00:06:16.210
+These are some of the early
+feasibility experiments.
+
+00:06:16.234 --> 00:06:19.319
+We store potential energy
+to the elastic skin to make it move,
+
+00:06:19.343 --> 00:06:23.146
+or use active tension cords
+to make it move forward and backward.
+
+00:06:23.170 --> 00:06:24.327
+It's called ChIMERA.
+
+00:06:24.351 --> 00:06:27.363
+We also have been working
+with some scientists and engineers
+
+00:06:27.387 --> 00:06:28.538
+from UPenn
+
+00:06:28.562 --> 00:06:32.395
+to come up with a chemically actuated
+version of this amoeba robot.
+
+00:06:32.419 --> 00:06:34.302
+We do something to something,
+
+00:06:34.326 --> 00:06:36.994
+and just like magic, it moves.
+
+00:06:37.626 --> 00:06:39.208
+"The Blob."
+
+00:06:39.933 --> 00:06:41.710
+This robot is a very recent project.
+
+00:06:41.734 --> 00:06:42.885
+It's called RAPHaEL:
+
+00:06:42.909 --> 00:06:45.596
+Robotic Air-Powered Hand
+with Elastic Ligaments.
+
+00:06:45.620 --> 00:06:48.619
+There are a lot of really neat,
+very good robotic hands
+
+00:06:48.643 --> 00:06:49.806
+out there on the market.
+
+00:06:49.830 --> 00:06:52.010
+The problem is,
+they're just too expensive --
+
+00:06:52.034 --> 00:06:53.439
+tens of thousands of dollars.
+
+00:06:53.463 --> 00:06:56.484
+So for prosthesis applications
+it's probably not too practical,
+
+00:06:56.508 --> 00:06:57.853
+because it's not affordable.
+
+00:06:57.877 --> 00:07:01.351
+We wanted to tackle this problem
+in a very different direction.
+
+00:07:01.375 --> 00:07:04.424
+Instead of using electrical motors,
+electromechanical actuators,
+
+00:07:04.448 --> 00:07:06.204
+we're using compressed air.
+
+00:07:06.228 --> 00:07:09.675
+We developed these novel actuators
+for the joints, so it's compliant.
+
+00:07:09.699 --> 00:07:11.401
+You can actually change the force,
+
+00:07:11.425 --> 00:07:13.251
+simply just changing the air pressure.
+
+00:07:13.275 --> 00:07:15.465
+And it can actually crush
+an empty soda can.
+
+00:07:15.489 --> 00:07:18.539
+It can pick up very delicate
+objects like a raw egg,
+
+00:07:18.563 --> 00:07:20.151
+or in this case, a lightbulb.
+
+00:07:20.790 --> 00:07:24.459
+The best part: it took only 200 dollars
+to make the first prototype.
+
+00:07:25.906 --> 00:07:28.654
+This robot is actually
+a family of snake robots
+
+00:07:28.678 --> 00:07:30.046
+that we call HyDRAS,
+
+00:07:30.070 --> 00:07:32.781
+Hyper Degrees-of-freedom Robotic
+Articulated Serpentine.
+
+00:07:32.805 --> 00:07:34.976
+This is a robot that can climb structures.
+
+00:07:35.000 --> 00:07:37.083
+This is a HyDRAS's arm.
+
+00:07:37.107 --> 00:07:39.116
+It's a 12-degrees-of-freedom robotic arm.
+
+00:07:39.140 --> 00:07:41.488
+But the cool part is the user interface.
+
+00:07:41.512 --> 00:07:44.255
+The cable over there,
+that's an optical fiber.
+
+00:07:44.279 --> 00:07:46.715
+This student, it's probably
+her first time using it,
+
+00:07:46.739 --> 00:07:49.096
+but she can articulate it
+in many different ways.
+
+00:07:49.120 --> 00:07:52.583
+So, for example, in Iraq, the war zone,
+there are roadside bombs.
+
+00:07:52.607 --> 00:07:56.618
+Currently, you send these remotely
+controlled vehicles that are armed.
+
+00:07:56.642 --> 00:08:00.181
+It takes really a lot of time
+and it's expensive to train the operator
+
+00:08:00.205 --> 00:08:01.943
+to operate this complex arm.
+
+00:08:01.967 --> 00:08:03.934
+In this case, it's very intuitive;
+
+00:08:03.958 --> 00:08:06.226
+this student, probably
+his first time using it,
+
+00:08:06.250 --> 00:08:08.228
+is doing very complex manipulation tasks,
+
+00:08:08.252 --> 00:08:11.613
+picking up objects and doing
+manipulation, just like that.
+
+00:08:11.637 --> 00:08:12.842
+Very intuitive.
+
+00:08:14.765 --> 00:08:17.362
+Now, this robot
+is currently our star robot.
+
+00:08:17.386 --> 00:08:20.371
+We actually have a fan club
+for the robot, DARwIn:
+
+00:08:20.395 --> 00:08:23.296
+Dynamic Anthropomorphic
+Robot with Intelligence.
+
+00:08:23.320 --> 00:08:27.203
+As you know, we're very interested
+in human walking,
+
+00:08:27.227 --> 00:08:29.419
+so we decided to build
+a small humanoid robot.
+
+00:08:29.443 --> 00:08:31.205
+This was in 2004; at that time,
+
+00:08:31.229 --> 00:08:33.499
+this was something really,
+really revolutionary.
+
+00:08:33.523 --> 00:08:35.324
+This was more of a feasibility study:
+
+00:08:35.348 --> 00:08:37.999
+What kind of motors should we use?
+Is it even possible?
+
+00:08:38.023 --> 00:08:39.757
+What kinds of controls should we do?
+
+00:08:39.781 --> 00:08:43.301
+This does not have any sensors,
+so it's an open-loop control.
+
+00:08:43.325 --> 00:08:46.095
+For those who probably know,
+if you don't have any sensors
+
+00:08:46.119 --> 00:08:48.692
+and there's any disturbances,
+you know what happens.
+
+00:08:48.716 --> 00:08:50.829
+(Laughter)
+
+00:08:50.853 --> 00:08:56.077
+Based on that success, the following year
+we did the proper mechanical design,
+
+00:08:56.101 --> 00:08:57.325
+starting from kinematics.
+
+00:08:57.349 --> 00:09:00.259
+And thus, DARwIn I was born in 2005.
+
+00:09:00.283 --> 00:09:02.594
+It stands up, it walks -- very impressive.
+
+00:09:02.618 --> 00:09:05.975
+However, still, as you can see,
+it has a cord, an umbilical cord.
+
+00:09:05.999 --> 00:09:08.171
+So we're still using
+an external power source
+
+00:09:08.195 --> 00:09:09.794
+and external computation.
+
+00:09:10.742 --> 00:09:14.053
+So in 2006, now it's really
+time to have fun.
+
+00:09:14.077 --> 00:09:15.536
+Let's give it intelligence.
+
+00:09:15.560 --> 00:09:17.681
+We give it all the computing
+power it needs:
+
+00:09:17.705 --> 00:09:20.235
+a 1.5 gigahertz Pentium M chip,
+two FireWire cameras,
+
+00:09:20.259 --> 00:09:23.105
+rate gyros, accelerometers,
+four forced sensors on the foot,
+
+00:09:23.129 --> 00:09:24.479
+lithium polymer batteries --
+
+00:09:24.503 --> 00:09:27.653
+and now DARwIn II
+is completely autonomous.
+
+00:09:28.146 --> 00:09:30.837
+It is not remote controlled.
+There's no tethers.
+
+00:09:30.861 --> 00:09:34.594
+It looks around, searches for the ball ...
+looks around, searches for the ball,
+
+00:09:34.618 --> 00:09:39.547
+and it tries to play a game of soccer
+autonomously -- artificial intelligence.
+
+00:09:39.571 --> 00:09:40.725
+Let's see how it does.
+
+00:09:40.749 --> 00:09:42.696
+This was our very first trial, and ...
+
+00:09:42.720 --> 00:09:47.087
+(Video) Spectators: Goal!
+
+00:09:48.238 --> 00:09:51.188
+Dennis Hong: There is actually
+a competition called RoboCup.
+
+00:09:51.212 --> 00:09:53.799
+I don't know how many of you
+have heard about RoboCup.
+
+00:09:53.823 --> 00:09:58.197
+It's an international autonomous
+robot soccer competition.
+
+00:09:58.221 --> 00:10:00.969
+And the actual goal of RoboCup is,
+
+00:10:00.993 --> 00:10:03.186
+by the year 2050,
+
+00:10:03.210 --> 00:10:06.941
+we want to have full-size,
+autonomous humanoid robots
+
+00:10:06.965 --> 00:10:10.039
+play soccer against the human
+World Cup champions
+
+00:10:10.063 --> 00:10:11.216
+and win.
+
+00:10:11.240 --> 00:10:12.272
+(Laughter)
+
+00:10:12.296 --> 00:10:13.514
+It's a true, actual goal.
+
+00:10:13.538 --> 00:10:17.435
+It's a very ambitious goal,
+but we truly believe we can do it.
+
+00:10:17.459 --> 00:10:19.193
+This is last year in China.
+
+00:10:19.217 --> 00:10:22.230
+We were the very first team
+in the United States that qualified
+
+00:10:22.254 --> 00:10:24.054
+in the humanoid RoboCup competition.
+
+00:10:24.078 --> 00:10:26.258
+This is this year in Austria.
+
+00:10:26.282 --> 00:10:28.849
+You're going to see the action
+is three against three,
+
+00:10:28.873 --> 00:10:30.064
+completely autonomous.
+
+00:10:30.088 --> 00:10:31.179
+(Video) (Crowd groans)
+
+00:10:31.203 --> 00:10:32.533
+DH: There you go. Yes!
+
+00:10:33.331 --> 00:10:37.473
+The robots track and they team-play
+amongst themselves.
+
+00:10:37.934 --> 00:10:39.085
+It's very impressive.
+
+00:10:39.109 --> 00:10:40.585
+It's really a research event,
+
+00:10:40.609 --> 00:10:44.849
+packaged in a more exciting
+competition event.
+
+00:10:44.873 --> 00:10:48.401
+What you see here is the beautiful
+Louis Vuitton Cup trophy.
+
+00:10:48.425 --> 00:10:49.944
+This is for the best humanoid.
+
+00:10:49.968 --> 00:10:53.637
+We'd like to bring this, for the first
+time, to the United States next year,
+
+00:10:53.661 --> 00:10:54.816
+so wish us luck.
+
+00:10:54.840 --> 00:10:55.876
+(Applause)
+
+00:10:55.900 --> 00:10:57.052
+Thank you.
+
+00:10:57.076 --> 00:10:59.157
+(Applause)
+
+00:10:59.181 --> 00:11:01.249
+DARwIn also has a lot of other talents.
+
+00:11:01.273 --> 00:11:04.989
+Last year, it actually conducted
+the Roanoke Symphony Orchestra
+
+00:11:05.013 --> 00:11:07.401
+for the holiday concert.
+
+00:11:07.425 --> 00:11:10.401
+This is the next generation
+robot, DARwIn IV,
+
+00:11:10.425 --> 00:11:13.401
+much smarter, faster, stronger.
+
+00:11:13.425 --> 00:11:15.402
+And it's trying to show off its ability:
+
+00:11:15.426 --> 00:11:17.223
+"I'm macho, I'm strong."
+
+00:11:17.247 --> 00:11:18.691
+(Laughter)
+
+00:11:18.715 --> 00:11:22.940
+"I can also do some Jackie Chan-motion,
+martial art movements."
+
+00:11:22.964 --> 00:11:24.976
+(Laughter)
+
+00:11:26.425 --> 00:11:28.360
+And it walks away. So this is DARwIn IV.
+
+00:11:28.384 --> 00:11:30.519
+Again, you'll be able
+to see it in the lobby.
+
+00:11:30.543 --> 00:11:33.735
+We truly believe this will be
+the very first running humanoid robot
+
+00:11:33.759 --> 00:11:34.910
+in the United States.
+
+00:11:34.934 --> 00:11:36.088
+So stay tuned.
+
+00:11:36.112 --> 00:11:39.113
+All right. So I showed you
+some of our exciting robots at work.
+
+00:11:39.137 --> 00:11:41.325
+So, what is the secret of our success?
+
+00:11:41.349 --> 00:11:43.166
+Where do we come up with these ideas?
+
+00:11:43.190 --> 00:11:45.083
+How do we develop these kinds of ideas?
+
+00:11:45.107 --> 00:11:46.897
+We have a fully autonomous vehicle
+
+00:11:46.921 --> 00:11:48.797
+that can drive into urban environments.
+
+00:11:48.821 --> 00:11:51.720
+We won a half a million dollars
+in the DARPA Urban Challenge.
+
+00:11:51.744 --> 00:11:55.401
+We also have the world's very first
+vehicle that can be driven by the blind.
+
+00:11:55.425 --> 00:11:57.949
+We call it the Blind Driver
+Challenge, very exciting.
+
+00:11:57.973 --> 00:12:01.145
+And many, many other robotics
+projects I want to talk about.
+
+00:12:01.169 --> 00:12:03.806
+These are just the awards
+that we won in 2007 fall
+
+00:12:03.830 --> 00:12:06.401
+from robotics competitions
+and those kinds of things.
+
+00:12:06.425 --> 00:12:08.318
+So really, we have five secrets.
+
+00:12:08.342 --> 00:12:10.778
+First is: Where do we get inspiration?
+
+00:12:10.802 --> 00:12:12.881
+Where do we get this spark of imagination?
+
+00:12:12.905 --> 00:12:14.926
+This is a true story, my personal story.
+
+00:12:14.950 --> 00:12:17.727
+At night, when I go to bed,
+at three, four in the morning,
+
+00:12:17.751 --> 00:12:20.640
+I lie down, close my eyes,
+and I see these lines and circles
+
+00:12:20.664 --> 00:12:22.458
+and different shapes floating around.
+
+00:12:22.482 --> 00:12:25.245
+And they assemble, and they form
+these kinds of mechanisms.
+
+00:12:25.269 --> 00:12:26.877
+And I think, "Ah, this is cool."
+
+00:12:26.901 --> 00:12:29.778
+So right next to my bed
+I keep a notebook, a journal,
+
+00:12:29.802 --> 00:12:32.158
+with a special pen
+that has an LED light on it,
+
+00:12:32.182 --> 00:12:35.219
+because I don't want to turn on the light
+and wake up my wife.
+
+00:12:35.243 --> 00:12:38.512
+So I see this, scribble everything down,
+draw things, and go to bed.
+
+00:12:38.536 --> 00:12:40.926
+Every day in the morning,
+the first thing I do,
+
+00:12:40.950 --> 00:12:43.557
+before my first cup of coffee,
+before I brush my teeth,
+
+00:12:43.581 --> 00:12:44.743
+I open my notebook.
+
+00:12:44.767 --> 00:12:47.430
+Many times it's empty;
+sometimes I have something there.
+
+00:12:47.454 --> 00:12:49.520
+If something's there, sometimes it's junk.
+
+00:12:49.544 --> 00:12:51.901
+But most of the time,
+I can't read my handwriting.
+
+00:12:51.925 --> 00:12:54.249
+Four in the morning --
+what do you expect, right?
+
+00:12:54.273 --> 00:12:56.177
+So I need to decipher what I wrote.
+
+00:12:56.201 --> 00:12:59.401
+But sometimes I see
+this ingenious idea in there,
+
+00:12:59.425 --> 00:13:00.910
+and I have this eureka moment.
+
+00:13:00.934 --> 00:13:03.450
+I directly run to my home office,
+sit at my computer,
+
+00:13:03.474 --> 00:13:05.451
+I type in the ideas, I sketch things out
+
+00:13:05.475 --> 00:13:07.366
+and I keep a database of ideas.
+
+00:13:08.028 --> 00:13:10.389
+So when we have these calls for proposals,
+
+00:13:10.413 --> 00:13:13.983
+I try to find a match
+between my potential ideas
+
+00:13:14.007 --> 00:13:15.167
+and the problem.
+
+00:13:15.191 --> 00:13:17.508
+If there's a match,
+we write a research proposal,
+
+00:13:17.532 --> 00:13:18.879
+get the research funding in,
+
+00:13:18.903 --> 00:13:21.063
+and that's how we start
+our research programs.
+
+00:13:21.087 --> 00:13:23.580
+But just a spark of imagination
+is not good enough.
+
+00:13:23.604 --> 00:13:25.484
+How do we develop these kinds of ideas?
+
+00:13:25.508 --> 00:13:28.288
+At our lab RoMeLa, the Robotics
+and Mechanisms Laboratory,
+
+00:13:28.312 --> 00:13:30.924
+we have these fantastic
+brainstorming sessions.
+
+00:13:30.948 --> 00:13:35.283
+So we gather around, we discuss problems
+and solutions and talk about it.
+
+00:13:35.307 --> 00:13:38.284
+But before we start,
+we set this golden rule.
+
+00:13:38.308 --> 00:13:39.957
+The rule is:
+
+00:13:39.981 --> 00:13:42.958
+nobody criticizes anybody's ideas.
+
+00:13:42.982 --> 00:13:44.987
+Nobody criticizes any opinion.
+
+00:13:45.425 --> 00:13:48.972
+This is important, because many times,
+students fear or feel uncomfortable
+
+00:13:48.996 --> 00:13:52.265
+about how others might think
+about their opinions and thoughts.
+
+00:13:52.289 --> 00:13:56.079
+So once you do this, it is amazing
+how the students open up.
+
+00:13:56.103 --> 00:13:59.401
+They have these wacky, cool,
+crazy, brilliant ideas,
+
+00:13:59.425 --> 00:14:02.854
+and the whole room is just electrified
+with creative energy.
+
+00:14:02.878 --> 00:14:05.151
+And this is how we develop our ideas.
+
+00:14:05.738 --> 00:14:07.295
+Well, we're running out of time.
+
+00:14:07.319 --> 00:14:09.221
+One more thing I want to talk about is,
+
+00:14:09.245 --> 00:14:12.401
+you know, just a spark of idea
+and development is not good enough.
+
+00:14:12.425 --> 00:14:17.136
+There was a great TED moment --
+I think it was Sir Ken Robinson, was it?
+
+00:14:17.160 --> 00:14:21.598
+He gave a talk about how education
+and school kill creativity.
+
+00:14:21.622 --> 00:14:24.401
+Well, actually,
+there's two sides to the story.
+
+00:14:24.425 --> 00:14:29.638
+So there is only so much one can do
+with just ingenious ideas
+
+00:14:29.662 --> 00:14:32.678
+and creativity
+and good engineering intuition.
+
+00:14:32.702 --> 00:14:34.496
+If you want to go beyond a tinkering,
+
+00:14:34.520 --> 00:14:36.670
+if you want to go
+beyond a hobby of robotics
+
+00:14:36.694 --> 00:14:40.135
+and really tackle
+the grand challenges of robotics
+
+00:14:40.159 --> 00:14:41.401
+through rigorous research,
+
+00:14:41.425 --> 00:14:42.580
+we need more than that.
+
+00:14:42.604 --> 00:14:44.618
+This is where school comes in.
+
+00:14:44.642 --> 00:14:47.136
+Batman, fighting against the bad guys,
+
+00:14:47.160 --> 00:14:49.553
+he has his utility belt,
+he has his grappling hook,
+
+00:14:49.577 --> 00:14:51.401
+he has all different kinds of gadgets.
+
+00:14:51.425 --> 00:14:53.838
+For us roboticists,
+engineers and scientists,
+
+00:14:53.862 --> 00:14:58.019
+these tools are the courses
+and classes you take in class.
+
+00:14:58.043 --> 00:15:00.045
+Math, differential equations.
+
+00:15:00.069 --> 00:15:02.809
+I have linear algebra, science, physics --
+
+00:15:02.833 --> 00:15:05.801
+even, nowadays, chemistry
+and biology, as you've seen.
+
+00:15:05.825 --> 00:15:07.583
+These are all the tools we need.
+
+00:15:07.607 --> 00:15:09.483
+So the more tools you have, for Batman,
+
+00:15:09.507 --> 00:15:11.484
+more effective at fighting the bad guys,
+
+00:15:11.508 --> 00:15:14.414
+for us, more tools to attack
+these kinds of big problems.
+
+00:15:15.582 --> 00:15:17.447
+So education is very important.
+
+00:15:18.568 --> 00:15:21.165
+Also -- it's not only about that.
+
+00:15:21.189 --> 00:15:23.257
+You also have to work really, really hard.
+
+00:15:23.281 --> 00:15:24.734
+So I always tell my students,
+
+00:15:24.758 --> 00:15:26.809
+"Work smart, then work hard."
+
+00:15:26.833 --> 00:15:29.557
+This picture in the back --
+this is three in the morning.
+
+00:15:29.581 --> 00:15:31.910
+I guarantee if you come
+to our lab at 3, 4am,
+
+00:15:31.934 --> 00:15:33.490
+we have students working there,
+
+00:15:33.514 --> 00:15:36.723
+not because I tell them to,
+but because we are having too much fun.
+
+00:15:36.747 --> 00:15:38.401
+Which leads to the last topic:
+
+00:15:38.425 --> 00:15:40.294
+do not forget to have fun.
+
+00:15:40.318 --> 00:15:43.531
+That's really the secret of our success,
+we're having too much fun.
+
+00:15:43.555 --> 00:15:47.021
+I truly believe that highest productivity
+comes when you're having fun,
+
+00:15:47.045 --> 00:15:48.401
+and that's what we're doing.
+
+00:15:48.425 --> 00:15:49.579
+And there you go.
+
+00:15:49.603 --> 00:15:50.770
+Thank you so much.
+
+00:15:50.794 --> 00:15:54.896
+(Applause)
+

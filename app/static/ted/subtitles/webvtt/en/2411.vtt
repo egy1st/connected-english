@@ -1,0 +1,752 @@
+WEBVTT
+
+00:00:00.881 --> 00:00:02.111
+I have a question.
+
+00:00:03.422 --> 00:00:05.365
+Can a computer write poetry?
+
+00:00:06.959 --> 00:00:09.036
+This is a provocative question.
+
+00:00:09.715 --> 00:00:11.433
+You think about it for a minute,
+
+00:00:11.457 --> 00:00:14.047
+and you suddenly have a bunch
+of other questions like:
+
+00:00:14.769 --> 00:00:16.150
+What is a computer?
+
+00:00:16.710 --> 00:00:18.285
+What is poetry?
+
+00:00:18.707 --> 00:00:20.396
+What is creativity?
+
+00:00:21.650 --> 00:00:22.822
+But these are questions
+
+00:00:22.846 --> 00:00:25.916
+that people spend their entire
+lifetime trying to answer,
+
+00:00:25.940 --> 00:00:28.164
+not in a single TED Talk.
+
+00:00:28.188 --> 00:00:30.633
+So we're going to have to try
+a different approach.
+
+00:00:30.657 --> 00:00:32.800
+So up here, we have two poems.
+
+00:00:33.839 --> 00:00:36.115
+One of them is written by a human,
+
+00:00:36.139 --> 00:00:38.241
+and the other one's written by a computer.
+
+00:00:38.754 --> 00:00:41.164
+I'm going to ask you to tell me
+which one's which.
+
+00:00:41.858 --> 00:00:43.014
+Have a go:
+
+00:00:43.038 --> 00:00:47.094
+Poem 1: Little Fly / Thy summer's play, /
+My thoughtless hand / Has brush'd away.
+
+00:00:47.118 --> 00:00:50.512
+Am I not / A fly like thee? /
+Or art not thou / A man like me?
+
+00:00:50.536 --> 00:00:53.835
+Poem 2: We can feel / Activist
+through your life's / morning /
+
+00:00:53.859 --> 00:00:58.106
+Pauses to see, pope I hate the / Non
+all the night to start a / great otherwise (...)
+
+00:00:58.130 --> 00:00:59.489
+Alright, time's up.
+
+00:00:59.513 --> 00:01:03.609
+Hands up if you think Poem 1
+was written by a human.
+
+00:01:05.547 --> 00:01:07.037
+OK, most of you.
+
+00:01:07.061 --> 00:01:10.084
+Hands up if you think Poem 2
+was written by a human.
+
+00:01:11.172 --> 00:01:12.362
+Very brave of you,
+
+00:01:12.855 --> 00:01:17.140
+because the first one was written
+by the human poet William Blake.
+
+00:01:17.784 --> 00:01:20.733
+The second one was written by an algorithm
+
+00:01:20.757 --> 00:01:24.449
+that took all the language
+from my Facebook feed on one day
+
+00:01:24.473 --> 00:01:27.236
+and then regenerated it algorithmically,
+
+00:01:27.260 --> 00:01:30.850
+according to methods that I'll describe
+a little bit later on.
+
+00:01:31.218 --> 00:01:33.622
+So let's try another test.
+
+00:01:34.398 --> 00:01:36.491
+Again, you haven't got ages to read this,
+
+00:01:36.515 --> 00:01:38.127
+so just trust your gut.
+
+00:01:38.151 --> 00:01:42.196
+Poem 1: A lion roars and a dog barks.
+It is interesting / and fascinating
+
+00:01:42.220 --> 00:01:46.523
+that a bird will fly and not / roar
+or bark. Enthralling stories about animals
+
+00:01:46.547 --> 00:01:50.607
+are in my dreams and I will sing them all
+if I / am not exhausted or weary.
+
+00:01:50.631 --> 00:01:54.616
+Poem 2: Oh! kangaroos, sequins, chocolate
+sodas! / You are really beautiful!
+
+00:01:54.640 --> 00:01:58.998
+Pearls, / harmonicas, jujubes, aspirins!
+All / the stuff they've always talked about (...)
+
+00:01:59.022 --> 00:02:00.180
+Alright, time's up.
+
+00:02:00.204 --> 00:02:03.341
+So if you think the first poem
+was written by a human,
+
+00:02:03.365 --> 00:02:04.580
+put your hand up.
+
+00:02:05.687 --> 00:02:06.841
+OK.
+
+00:02:06.865 --> 00:02:09.540
+And if you think the second poem
+was written by a human,
+
+00:02:09.564 --> 00:02:10.719
+put your hand up.
+
+00:02:11.779 --> 00:02:15.589
+We have, more or less, a 50/50 split here.
+
+00:02:16.157 --> 00:02:17.593
+It was much harder.
+
+00:02:17.617 --> 00:02:19.329
+The answer is,
+
+00:02:19.353 --> 00:02:22.836
+the first poem was generated
+by an algorithm called Racter,
+
+00:02:22.860 --> 00:02:25.862
+that was created back in the 1970s,
+
+00:02:25.886 --> 00:02:29.075
+and the second poem was written
+by a guy called Frank O'Hara,
+
+00:02:29.099 --> 00:02:31.767
+who happens to be
+one of my favorite human poets.
+
+00:02:32.631 --> 00:02:35.689
+(Laughter)
+
+00:02:36.046 --> 00:02:39.274
+So what we've just done now
+is a Turing test for poetry.
+
+00:02:40.018 --> 00:02:44.565
+The Turing test was first proposed
+by this guy, Alan Turing, in 1950,
+
+00:02:44.589 --> 00:02:46.153
+in order to answer the question,
+
+00:02:46.177 --> 00:02:47.814
+can computers think?
+
+00:02:48.245 --> 00:02:51.015
+Alan Turing believed that if
+a computer was able
+
+00:02:51.039 --> 00:02:54.117
+to have a to have a text-based
+conversation with a human,
+
+00:02:54.141 --> 00:02:56.911
+with such proficiency
+such that the human couldn't tell
+
+00:02:56.935 --> 00:02:59.901
+whether they are talking
+to a computer or a human,
+
+00:02:59.925 --> 00:03:02.781
+then the computer can be said
+to have intelligence.
+
+00:03:03.270 --> 00:03:06.565
+So in 2013, my friend
+Benjamin Laird and I,
+
+00:03:06.589 --> 00:03:09.577
+we created a Turing test
+for poetry online.
+
+00:03:09.601 --> 00:03:10.878
+It's called bot or not,
+
+00:03:10.902 --> 00:03:12.946
+and you can go and play it for yourselves.
+
+00:03:12.970 --> 00:03:15.221
+But basically, it's the game
+we just played.
+
+00:03:15.245 --> 00:03:16.773
+You're presented with a poem,
+
+00:03:16.797 --> 00:03:19.825
+you don't know whether it was written
+by a human or a computer
+
+00:03:19.849 --> 00:03:21.015
+and you have to guess.
+
+00:03:21.039 --> 00:03:24.230
+So thousands and thousands
+of people have taken this test online,
+
+00:03:24.254 --> 00:03:25.703
+so we have results.
+
+00:03:25.727 --> 00:03:27.155
+And what are the results?
+
+00:03:27.704 --> 00:03:30.583
+Well, Turing said that if a computer
+could fool a human
+
+00:03:30.607 --> 00:03:33.626
+30 percent of the time
+that it was a human,
+
+00:03:33.650 --> 00:03:36.047
+then it passes the Turing test
+for intelligence.
+
+00:03:36.625 --> 00:03:39.063
+We have poems on the bot or not database
+
+00:03:39.087 --> 00:03:42.066
+that have fooled 65 percent
+of human readers into thinking
+
+00:03:42.090 --> 00:03:43.485
+it was written by a human.
+
+00:03:43.959 --> 00:03:46.776
+So, I think we have an answer
+to our question.
+
+00:03:47.546 --> 00:03:49.894
+According to the logic of the Turing test,
+
+00:03:49.918 --> 00:03:51.846
+can a computer write poetry?
+
+00:03:51.870 --> 00:03:54.221
+Well, yes, absolutely it can.
+
+00:03:55.782 --> 00:03:58.128
+But if you're feeling
+a little bit uncomfortable
+
+00:03:58.152 --> 00:04:00.079
+with this answer, that's OK.
+
+00:04:00.103 --> 00:04:02.419
+If you're having a bunch
+of gut reactions to it,
+
+00:04:02.443 --> 00:04:05.648
+that's also OK because
+this isn't the end of the story.
+
+00:04:06.594 --> 00:04:08.918
+Let's play our third and final test.
+
+00:04:10.000 --> 00:04:11.750
+Again, you're going to have to read
+
+00:04:11.774 --> 00:04:13.683
+and tell me which you think is human.
+
+00:04:13.707 --> 00:04:17.425
+Poem 1: Red flags the reason
+for pretty flags. / And ribbons.
+
+00:04:17.449 --> 00:04:21.770
+Ribbons of flags / And wearing material /
+Reasons for wearing material. (...)
+
+00:04:21.794 --> 00:04:25.712
+Poem 2: A wounded deer leaps
+highest, / I've heard the daffodil
+
+00:04:25.736 --> 00:04:29.182
+I've heard the flag to-day /
+I've heard the hunter tell; /
+
+00:04:29.206 --> 00:04:32.908
+'Tis but the ecstasy of death, /
+And then the brake is almost done (...)
+
+00:04:32.932 --> 00:04:34.531
+OK, time is up.
+
+00:04:34.555 --> 00:04:38.392
+So hands up if you think Poem 1
+was written by a human.
+
+00:04:39.973 --> 00:04:43.011
+Hands up if you think Poem 2
+was written by a human.
+
+00:04:43.035 --> 00:04:45.366
+Whoa, that's a lot more people.
+
+00:04:46.327 --> 00:04:49.295
+So you'd be surprised to find that Poem 1
+
+00:04:49.319 --> 00:04:53.312
+was written by the very
+human poet Gertrude Stein.
+
+00:04:54.100 --> 00:04:59.138
+And Poem 2 was generated
+by an algorithm called RKCP.
+
+00:04:59.162 --> 00:05:02.481
+Now before we go on, let me describe
+very quickly and simply,
+
+00:05:02.505 --> 00:05:04.286
+how RKCP works.
+
+00:05:04.873 --> 00:05:08.723
+So RKCP is an algorithm
+designed by Ray Kurzweil,
+
+00:05:08.747 --> 00:05:10.969
+who's a director of engineering at Google
+
+00:05:10.993 --> 00:05:13.353
+and a firm believer
+in artificial intelligence.
+
+00:05:13.822 --> 00:05:17.813
+So, you give RKCP a source text,
+
+00:05:17.837 --> 00:05:22.306
+it analyzes the source text in order
+to find out how it uses language,
+
+00:05:22.330 --> 00:05:24.278
+and then it regenerates language
+
+00:05:24.302 --> 00:05:26.830
+that emulates that first text.
+
+00:05:26.854 --> 00:05:28.967
+So in the poem we just saw before,
+
+00:05:28.991 --> 00:05:31.616
+Poem 2, the one that you all
+thought was human,
+
+00:05:31.640 --> 00:05:33.190
+it was fed a bunch of poems
+
+00:05:33.214 --> 00:05:35.249
+by a poet called Emily Dickinson
+
+00:05:35.273 --> 00:05:37.462
+it looked at the way she used language,
+
+00:05:37.486 --> 00:05:38.651
+learned the model,
+
+00:05:38.675 --> 00:05:42.933
+and then it regenerated a model
+according to that same structure.
+
+00:05:44.732 --> 00:05:46.910
+But the important thing to know about RKCP
+
+00:05:46.934 --> 00:05:49.772
+is that it doesn't know the meaning
+of the words it's using.
+
+00:05:50.359 --> 00:05:52.635
+The language is just raw material,
+
+00:05:52.659 --> 00:05:54.819
+it could be Chinese,
+it could be in Swedish,
+
+00:05:54.843 --> 00:05:59.022
+it could be the collected language
+from your Facebook feed for one day.
+
+00:05:59.046 --> 00:06:00.698
+It's just raw material.
+
+00:06:01.380 --> 00:06:04.077
+And nevertheless, it's able
+to create a poem
+
+00:06:04.101 --> 00:06:07.428
+that seems more human
+than Gertrude Stein's poem,
+
+00:06:07.452 --> 00:06:09.605
+and Gertrude Stein is a human.
+
+00:06:10.846 --> 00:06:14.918
+So what we've done here is,
+more or less, a reverse Turing test.
+
+00:06:15.940 --> 00:06:21.119
+So Gertrude Stein, who's a human,
+is able to write a poem
+
+00:06:21.143 --> 00:06:24.881
+that fools a majority
+of human judges into thinking
+
+00:06:24.905 --> 00:06:26.731
+that it was written by a computer.
+
+00:06:27.176 --> 00:06:31.317
+Therefore, according to the logic
+of the reverse Turing test,
+
+00:06:31.341 --> 00:06:33.257
+Gertrude Stein is a computer.
+
+00:06:33.281 --> 00:06:34.743
+(Laughter)
+
+00:06:35.358 --> 00:06:36.652
+Feeling confused?
+
+00:06:37.193 --> 00:06:38.708
+I think that's fair enough.
+
+00:06:39.546 --> 00:06:43.662
+So far we've had humans
+that write like humans,
+
+00:06:43.686 --> 00:06:46.797
+we have computers that write
+like computers,
+
+00:06:46.821 --> 00:06:49.876
+we have computers that write like humans,
+
+00:06:49.900 --> 00:06:53.532
+but we also have,
+perhaps most confusingly,
+
+00:06:53.556 --> 00:06:55.931
+humans that write like computers.
+
+00:06:56.938 --> 00:06:58.704
+So what do we take from all of this?
+
+00:06:59.611 --> 00:07:02.768
+Do we take that William Blake
+is somehow more of a human
+
+00:07:02.792 --> 00:07:04.041
+than Gertrude Stein?
+
+00:07:04.065 --> 00:07:07.111
+Or that Gertrude Stein is more
+of a computer than William Blake?
+
+00:07:07.135 --> 00:07:08.687
+(Laughter)
+
+00:07:08.711 --> 00:07:11.034
+These are questions
+I've been asking myself
+
+00:07:11.058 --> 00:07:12.523
+for around two years now,
+
+00:07:12.547 --> 00:07:14.856
+and I don't have any answers.
+
+00:07:14.880 --> 00:07:17.210
+But what I do have are a bunch of insights
+
+00:07:17.234 --> 00:07:19.768
+about our relationship with technology.
+
+00:07:20.999 --> 00:07:24.608
+So my first insight is that,
+for some reason,
+
+00:07:24.632 --> 00:07:27.743
+we associate poetry with being human.
+
+00:07:28.197 --> 00:07:31.912
+So that when we ask,
+"Can a computer write poetry?"
+
+00:07:31.936 --> 00:07:33.129
+we're also asking,
+
+00:07:33.153 --> 00:07:34.951
+"What does it mean to be human
+
+00:07:34.975 --> 00:07:38.147
+and how do we put boundaries
+around this category?
+
+00:07:38.171 --> 00:07:41.829
+How do we say who or what
+can be part of this category?"
+
+00:07:42.376 --> 00:07:45.727
+This is an essentially
+philosophical question, I believe,
+
+00:07:45.751 --> 00:07:47.980
+and it can't be answered
+with a yes or no test,
+
+00:07:48.004 --> 00:07:49.331
+like the Turing test.
+
+00:07:49.805 --> 00:07:52.850
+I also believe that Alan Turing
+understood this,
+
+00:07:52.874 --> 00:07:56.179
+and that when he devised
+his test back in 1950,
+
+00:07:56.203 --> 00:07:59.005
+he was doing it
+as a philosophical provocation.
+
+00:08:01.124 --> 00:08:06.665
+So my second insight is that,
+when we take the Turing test for poetry,
+
+00:08:06.689 --> 00:08:10.149
+we're not really testing
+the capacity of the computers
+
+00:08:10.173 --> 00:08:13.066
+because poetry-generating algorithms,
+
+00:08:13.090 --> 00:08:17.653
+they're pretty simple and have existed,
+more or less, since the 1950s.
+
+00:08:19.055 --> 00:08:22.173
+What we are doing with the Turing
+test for poetry, rather,
+
+00:08:22.197 --> 00:08:26.812
+is collecting opinions about what
+constitutes humanness.
+
+00:08:28.313 --> 00:08:31.042
+So, what I've figured out,
+
+00:08:31.066 --> 00:08:34.038
+we've seen this when earlier today,
+
+00:08:34.062 --> 00:08:36.540
+we say that William Blake
+is more of a human
+
+00:08:36.564 --> 00:08:38.129
+than Gertrude Stein.
+
+00:08:38.153 --> 00:08:40.615
+Of course, this doesn't mean
+that William Blake
+
+00:08:40.639 --> 00:08:42.467
+was actually more human
+
+00:08:42.491 --> 00:08:44.818
+or that Gertrude Stein
+was more of a computer.
+
+00:08:45.533 --> 00:08:50.247
+It simply means that the category
+of the human is unstable.
+
+00:08:51.450 --> 00:08:53.524
+This has led me to understand
+
+00:08:53.548 --> 00:08:56.311
+that the human is not a cold, hard fact.
+
+00:08:56.832 --> 00:08:59.964
+Rather, it is something
+that's constructed with our opinions
+
+00:08:59.988 --> 00:09:02.843
+and something that changes over time.
+
+00:09:04.671 --> 00:09:09.150
+So my final insight is that
+the computer, more or less,
+
+00:09:09.174 --> 00:09:13.180
+works like a mirror
+that reflects any idea of a human
+
+00:09:13.204 --> 00:09:14.579
+that we show it.
+
+00:09:14.958 --> 00:09:16.842
+We show it Emily Dickinson,
+
+00:09:16.866 --> 00:09:19.187
+it gives Emily Dickinson back to us.
+
+00:09:19.768 --> 00:09:21.602
+We show it William Blake,
+
+00:09:21.626 --> 00:09:23.911
+that's what it reflects back to us.
+
+00:09:23.935 --> 00:09:25.774
+We show it Gertrude Stein,
+
+00:09:25.798 --> 00:09:28.268
+what we get back is Gertrude Stein.
+
+00:09:29.083 --> 00:09:31.451
+More than any other bit of technology,
+
+00:09:31.475 --> 00:09:36.640
+the computer is a mirror that reflects
+any idea of the human we teach it.
+
+00:09:38.061 --> 00:09:40.348
+So I'm sure a lot of you have been hearing
+
+00:09:40.372 --> 00:09:43.234
+a lot about artificial
+intelligence recently.
+
+00:09:44.694 --> 00:09:47.524
+And much of the conversation is,
+
+00:09:48.292 --> 00:09:49.481
+can we build it?
+
+00:09:50.383 --> 00:09:53.518
+Can we build an intelligent computer?
+
+00:09:53.542 --> 00:09:56.305
+Can we build a creative computer?
+
+00:09:56.329 --> 00:09:58.442
+What we seem to be asking over and over
+
+00:09:58.466 --> 00:10:01.190
+is can we build a human-like computer?
+
+00:10:01.961 --> 00:10:03.517
+But what we've seen just now
+
+00:10:03.541 --> 00:10:06.629
+is that the human
+is not a scientific fact,
+
+00:10:06.653 --> 00:10:10.183
+that it's an ever-shifting,
+concatenating idea
+
+00:10:10.207 --> 00:10:12.738
+and one that changes over time.
+
+00:10:12.762 --> 00:10:15.914
+So that when we begin
+to grapple with the ideas
+
+00:10:15.938 --> 00:10:18.324
+of artificial intelligence in the future,
+
+00:10:18.348 --> 00:10:20.253
+we shouldn't only be asking ourselves,
+
+00:10:20.277 --> 00:10:21.645
+"Can we build it?"
+
+00:10:21.669 --> 00:10:23.563
+But we should also be asking ourselves,
+
+00:10:23.587 --> 00:10:27.300
+"What idea of the human
+do we want to have reflected back to us?"
+
+00:10:27.820 --> 00:10:30.513
+This is an essentially philosophical idea,
+
+00:10:30.537 --> 00:10:33.534
+and it's one that can't be answered
+with software alone,
+
+00:10:33.558 --> 00:10:38.535
+but I think requires a moment
+of species-wide, existential reflection.
+
+00:10:39.040 --> 00:10:40.193
+Thank you.
+
+00:10:40.217 --> 00:10:42.912
+(Applause)
+

@@ -1,0 +1,968 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.000
+The story starts in Kenya
+
+00:00:03.000 --> 00:00:05.000
+in December of 2007,
+
+00:00:05.000 --> 00:00:07.000
+when there was a disputed presidential election,
+
+00:00:07.000 --> 00:00:10.000
+and in the immediate aftermath of that election,
+
+00:00:10.000 --> 00:00:12.000
+there was an outbreak of ethnic violence.
+
+00:00:12.000 --> 00:00:15.000
+And there was a lawyer in Nairobi, Ory Okolloh --
+
+00:00:15.000 --> 00:00:17.000
+who some of you may know from her TEDTalk --
+
+00:00:17.000 --> 00:00:19.000
+who began blogging about it on her site,
+
+00:00:19.000 --> 00:00:21.000
+Kenyan Pundit.
+
+00:00:21.000 --> 00:00:24.000
+And shortly after the election and the outbreak of violence,
+
+00:00:24.000 --> 00:00:26.000
+the government suddenly imposed
+
+00:00:26.000 --> 00:00:28.000
+a significant media blackout.
+
+00:00:28.000 --> 00:00:30.000
+And so weblogs went from being
+
+00:00:30.000 --> 00:00:32.000
+commentary as part of the media landscape
+
+00:00:32.000 --> 00:00:35.000
+to being a critical part of the media landscape
+
+00:00:35.000 --> 00:00:38.000
+in trying to understand where the violence was.
+
+00:00:38.000 --> 00:00:40.000
+And Okolloh solicited
+
+00:00:40.000 --> 00:00:42.000
+from her commenters
+
+00:00:42.000 --> 00:00:44.000
+more information about what was going on.
+
+00:00:44.000 --> 00:00:46.000
+The comments began pouring in,
+
+00:00:46.000 --> 00:00:48.000
+and Okolloh would collate them. She would post them.
+
+00:00:48.000 --> 00:00:50.000
+And she quickly said, "It's too much.
+
+00:00:50.000 --> 00:00:52.000
+I could do this all day every day
+
+00:00:52.000 --> 00:00:54.000
+and I can't keep up.
+
+00:00:54.000 --> 00:00:56.000
+There is more information
+
+00:00:56.000 --> 00:00:58.000
+about what's going on in Kenya right now
+
+00:00:58.000 --> 00:01:00.000
+than any one person can manage.
+
+00:01:00.000 --> 00:01:02.000
+If only there was a way to automate this."
+
+00:01:02.000 --> 00:01:04.000
+And two programmers who read her blog
+
+00:01:04.000 --> 00:01:07.000
+held their hands up and said, "We could do that,"
+
+00:01:07.000 --> 00:01:10.000
+and in 72 hours, they launched Ushahidi.
+
+00:01:10.000 --> 00:01:12.000
+Ushahidi -- the name means "witness"
+
+00:01:12.000 --> 00:01:14.000
+or "testimony" in Swahili --
+
+00:01:14.000 --> 00:01:17.000
+is a very simple way of taking reports from the field,
+
+00:01:17.000 --> 00:01:20.000
+whether it's from the web or, critically,
+
+00:01:20.000 --> 00:01:22.000
+via mobile phones and SMS,
+
+00:01:22.000 --> 00:01:25.000
+aggregating it and putting it on a map.
+
+00:01:25.000 --> 00:01:27.000
+That's all it is, but that's all that's needed
+
+00:01:27.000 --> 00:01:30.000
+because what it does is it takes the tacit information
+
+00:01:30.000 --> 00:01:32.000
+available to the whole population --
+
+00:01:32.000 --> 00:01:34.000
+everybody knows where the violence is,
+
+00:01:34.000 --> 00:01:37.000
+but no one person knows what everyone knows --
+
+00:01:37.000 --> 00:01:39.000
+and it takes that tacit information
+
+00:01:39.000 --> 00:01:41.000
+and it aggregates it,
+
+00:01:41.000 --> 00:01:43.000
+and it maps it and it makes it public.
+
+00:01:43.000 --> 00:01:45.000
+And that, that maneuver
+
+00:01:45.000 --> 00:01:47.000
+called "crisis mapping,"
+
+00:01:47.000 --> 00:01:50.000
+was kicked off in Kenya
+
+00:01:50.000 --> 00:01:52.000
+in January of 2008.
+
+00:01:52.000 --> 00:01:55.000
+And enough people looked at it and found it valuable enough
+
+00:01:55.000 --> 00:01:57.000
+that the programmers who created Ushahidi
+
+00:01:57.000 --> 00:01:59.000
+decided they were going to make it open source
+
+00:01:59.000 --> 00:02:01.000
+and turn it into a platform.
+
+00:02:01.000 --> 00:02:03.000
+It's since been deployed in Mexico
+
+00:02:03.000 --> 00:02:05.000
+to track electoral fraud.
+
+00:02:05.000 --> 00:02:08.000
+It's been deployed in Washington D.C. to track snow cleanup.
+
+00:02:08.000 --> 00:02:10.000
+And it's been used most famously in Haiti
+
+00:02:10.000 --> 00:02:13.000
+in the aftermath of the earthquake.
+
+00:02:13.000 --> 00:02:15.000
+And when you look at the map
+
+00:02:15.000 --> 00:02:17.000
+now posted on the Ushahidi front page,
+
+00:02:17.000 --> 00:02:19.000
+you can see that the number of deployments in Ushahidi
+
+00:02:19.000 --> 00:02:22.000
+has gone worldwide, all right?
+
+00:02:22.000 --> 00:02:24.000
+This went from a single idea
+
+00:02:24.000 --> 00:02:26.000
+and a single implementation
+
+00:02:26.000 --> 00:02:29.000
+in East Africa in the beginning of 2008
+
+00:02:29.000 --> 00:02:31.000
+to a global deployment
+
+00:02:31.000 --> 00:02:34.000
+in less than three years.
+
+00:02:34.000 --> 00:02:37.000
+Now what Okolloh did
+
+00:02:37.000 --> 00:02:39.000
+would not have been possible
+
+00:02:39.000 --> 00:02:42.000
+without digital technology.
+
+00:02:42.000 --> 00:02:45.000
+What Okolloh did would not have been possible
+
+00:02:45.000 --> 00:02:47.000
+without human generosity.
+
+00:02:47.000 --> 00:02:49.000
+And the interesting moment now,
+
+00:02:49.000 --> 00:02:51.000
+the number of environments
+
+00:02:51.000 --> 00:02:53.000
+where the social design challenge
+
+00:02:53.000 --> 00:02:56.000
+relies on both of those things being true.
+
+00:02:56.000 --> 00:02:59.000
+That is the resource that I'm talking about.
+
+00:02:59.000 --> 00:03:01.000
+I call it cognitive surplus.
+
+00:03:01.000 --> 00:03:03.000
+And it represents the ability
+
+00:03:03.000 --> 00:03:05.000
+of the world's population
+
+00:03:05.000 --> 00:03:08.000
+to volunteer and to contribute and collaborate
+
+00:03:08.000 --> 00:03:11.000
+on large, sometimes global, projects.
+
+00:03:11.000 --> 00:03:13.000
+Cognitive surplus is made up of two things.
+
+00:03:13.000 --> 00:03:16.000
+The first, obviously, is the world's free time and talents.
+
+00:03:16.000 --> 00:03:18.000
+The world has over
+
+00:03:18.000 --> 00:03:21.000
+a trillion hours a year
+
+00:03:21.000 --> 00:03:23.000
+of free time
+
+00:03:23.000 --> 00:03:25.000
+to commit to shared projects.
+
+00:03:25.000 --> 00:03:27.000
+Now, that free time existed in the 20th century,
+
+00:03:27.000 --> 00:03:30.000
+but we didn't get Ushahidi in the 20th century.
+
+00:03:30.000 --> 00:03:32.000
+That's the second half of cognitive surplus.
+
+00:03:32.000 --> 00:03:34.000
+The media landscape in the 20th century
+
+00:03:34.000 --> 00:03:37.000
+was very good at helping people consume,
+
+00:03:37.000 --> 00:03:39.000
+and we got, as a result,
+
+00:03:39.000 --> 00:03:41.000
+very good at consuming.
+
+00:03:41.000 --> 00:03:43.000
+But now that we've been given media tools --
+
+00:03:43.000 --> 00:03:46.000
+the Internet, mobile phones -- that let us do more than consume,
+
+00:03:46.000 --> 00:03:49.000
+what we're seeing is that people weren't couch potatoes
+
+00:03:49.000 --> 00:03:51.000
+because we liked to be.
+
+00:03:51.000 --> 00:03:53.000
+We were couch potatoes because that was
+
+00:03:53.000 --> 00:03:55.000
+the only opportunity given to us.
+
+00:03:55.000 --> 00:03:57.000
+We still like to consume, of course.
+
+00:03:57.000 --> 00:03:59.000
+But it turns out we also like to create,
+
+00:03:59.000 --> 00:04:02.000
+and we like to share.
+
+00:04:02.000 --> 00:04:04.000
+And it's those two things together --
+
+00:04:04.000 --> 00:04:06.000
+ancient human motivation
+
+00:04:06.000 --> 00:04:08.000
+and the modern tools to allow that motivation
+
+00:04:08.000 --> 00:04:11.000
+to be joined up in large-scale efforts --
+
+00:04:11.000 --> 00:04:14.000
+that are the new design resource.
+
+00:04:14.000 --> 00:04:16.000
+And using cognitive surplus,
+
+00:04:16.000 --> 00:04:19.000
+we're starting to see truly incredible experiments
+
+00:04:19.000 --> 00:04:21.000
+in scientific, literary,
+
+00:04:21.000 --> 00:04:24.000
+artistic, political efforts.
+
+00:04:24.000 --> 00:04:26.000
+Designing.
+
+00:04:26.000 --> 00:04:29.000
+We're also getting, of course, a lot of LOLcats.
+
+00:04:29.000 --> 00:04:31.000
+LOLcats are cute pictures of cats
+
+00:04:31.000 --> 00:04:34.000
+made cuter with the addition of cute captions.
+
+00:04:34.000 --> 00:04:36.000
+And they are also
+
+00:04:36.000 --> 00:04:39.000
+part of the abundant media landscape we're getting now.
+
+00:04:39.000 --> 00:04:41.000
+This is one of the participatory --
+
+00:04:41.000 --> 00:04:43.000
+one of the participatory models
+
+00:04:43.000 --> 00:04:46.000
+we see coming out of that, along with Ushahidi.
+
+00:04:46.000 --> 00:04:48.000
+Now I want to stipulate, as the lawyers say,
+
+00:04:48.000 --> 00:04:50.000
+that LOLcats are the stupidest possible
+
+00:04:50.000 --> 00:04:52.000
+creative act.
+
+00:04:52.000 --> 00:04:54.000
+There are other candidates of course,
+
+00:04:54.000 --> 00:04:57.000
+but LOLcats will do as a general case.
+
+00:04:57.000 --> 00:04:59.000
+But here's the thing:
+
+00:04:59.000 --> 00:05:01.000
+The stupidest possible creative act
+
+00:05:01.000 --> 00:05:04.000
+is still a creative act.
+
+00:05:04.000 --> 00:05:07.000
+Someone who has done something like this,
+
+00:05:07.000 --> 00:05:10.000
+however mediocre and throwaway,
+
+00:05:10.000 --> 00:05:13.000
+has tried something, has put something forward in public.
+
+00:05:13.000 --> 00:05:16.000
+And once they've done it, they can do it again,
+
+00:05:16.000 --> 00:05:18.000
+and they could work on getting it better.
+
+00:05:18.000 --> 00:05:21.000
+There is a spectrum between mediocre work and good work,
+
+00:05:21.000 --> 00:05:24.000
+and as anybody who's worked as an artist or a creator knows,
+
+00:05:24.000 --> 00:05:26.000
+it's a spectrum you're constantly
+
+00:05:26.000 --> 00:05:28.000
+struggling to get on top of.
+
+00:05:28.000 --> 00:05:30.000
+The gap is between
+
+00:05:30.000 --> 00:05:33.000
+doing anything and doing nothing.
+
+00:05:33.000 --> 00:05:35.000
+And someone who makes a LOLcat
+
+00:05:35.000 --> 00:05:38.000
+has already crossed over that gap.
+
+00:05:38.000 --> 00:05:40.000
+Now it's tempting to want to get the Ushahidis
+
+00:05:40.000 --> 00:05:42.000
+without the LOLcats, right,
+
+00:05:42.000 --> 00:05:45.000
+to get the serious stuff without the throwaway stuff.
+
+00:05:45.000 --> 00:05:48.000
+But media abundance never works that way.
+
+00:05:48.000 --> 00:05:51.000
+Freedom to experiment means freedom to experiment with anything.
+
+00:05:51.000 --> 00:05:53.000
+Even with the sacred printing press,
+
+00:05:53.000 --> 00:05:55.000
+we got erotic novels 150 years
+
+00:05:55.000 --> 00:05:58.000
+before we got scientific journals.
+
+00:05:59.000 --> 00:06:02.000
+So before I talk about
+
+00:06:02.000 --> 00:06:04.000
+what is, I think, the critical difference
+
+00:06:04.000 --> 00:06:06.000
+between LOLcats and Ushahidi,
+
+00:06:06.000 --> 00:06:08.000
+I want to talk about
+
+00:06:08.000 --> 00:06:10.000
+their shared source.
+
+00:06:10.000 --> 00:06:13.000
+And that source is design for generosity.
+
+00:06:13.000 --> 00:06:16.000
+It is one of the curiosities of our historical era
+
+00:06:16.000 --> 00:06:18.000
+that even as cognitive surplus
+
+00:06:18.000 --> 00:06:20.000
+is becoming a resource we can design around,
+
+00:06:20.000 --> 00:06:23.000
+social sciences are also starting to explain
+
+00:06:23.000 --> 00:06:25.000
+how important
+
+00:06:25.000 --> 00:06:27.000
+our intrinsic motivations are to us,
+
+00:06:27.000 --> 00:06:30.000
+how much we do things because we like to do them
+
+00:06:30.000 --> 00:06:32.000
+rather than because our boss told us to do them,
+
+00:06:32.000 --> 00:06:35.000
+or because we're being paid to do them.
+
+00:06:35.000 --> 00:06:38.000
+This is a graph from a paper
+
+00:06:38.000 --> 00:06:40.000
+by Uri Gneezy and Aldo Rustichini,
+
+00:06:40.000 --> 00:06:43.000
+who set out to test, at the beginning of this decade,
+
+00:06:43.000 --> 00:06:45.000
+what they called "deterrence theory."
+
+00:06:45.000 --> 00:06:47.000
+And deterrence theory is a very simple theory of human behavior:
+
+00:06:47.000 --> 00:06:49.000
+If you want somebody to do less of something,
+
+00:06:49.000 --> 00:06:51.000
+add a punishment and they'll do less of it.
+
+00:06:51.000 --> 00:06:54.000
+Simple, straightforward, commonsensical --
+
+00:06:54.000 --> 00:06:56.000
+also, largely untested.
+
+00:06:56.000 --> 00:06:58.000
+And so they went and studied
+
+00:06:58.000 --> 00:07:00.000
+10 daycare centers in Haifa, Israel.
+
+00:07:00.000 --> 00:07:02.000
+They studied those daycare centers
+
+00:07:02.000 --> 00:07:04.000
+at the time of highest tension,
+
+00:07:04.000 --> 00:07:06.000
+which is pick-up time.
+
+00:07:06.000 --> 00:07:08.000
+At pick-up time the teachers,
+
+00:07:08.000 --> 00:07:10.000
+who have been with your children all day,
+
+00:07:10.000 --> 00:07:13.000
+would like you to be there at the appointed hour to take your children back.
+
+00:07:13.000 --> 00:07:16.000
+Meanwhile, the parents -- perhaps a little busy at work, running late, running errands --
+
+00:07:16.000 --> 00:07:19.000
+want a little slack to pick the kids up late.
+
+00:07:19.000 --> 00:07:21.000
+So Gneezy and Rustichini said,
+
+00:07:21.000 --> 00:07:23.000
+"How many instances of late pick-ups
+
+00:07:23.000 --> 00:07:25.000
+are there at these 10 daycare centers?"
+
+00:07:25.000 --> 00:07:27.000
+Now they saw -- and this is what the graph is,
+
+00:07:27.000 --> 00:07:30.000
+these are the number of weeks and these are the number of late arrivals --
+
+00:07:30.000 --> 00:07:32.000
+that there were between six and 10
+
+00:07:32.000 --> 00:07:34.000
+instances of late pick-ups
+
+00:07:34.000 --> 00:07:36.000
+on average in these 10 daycare centers.
+
+00:07:36.000 --> 00:07:39.000
+So they divided the daycare centers into two groups.
+
+00:07:39.000 --> 00:07:41.000
+The white group there
+
+00:07:41.000 --> 00:07:44.000
+is the control group; they change nothing.
+
+00:07:44.000 --> 00:07:47.000
+But the group of daycare centers represented by the black line,
+
+00:07:47.000 --> 00:07:49.000
+they said, "We are changing this bargain
+
+00:07:49.000 --> 00:07:51.000
+as of right now.
+
+00:07:51.000 --> 00:07:53.000
+If you pick your kid up more than 10 minutes late,
+
+00:07:53.000 --> 00:07:55.000
+we're going to add a 10 shekel fine to your bill.
+
+00:07:55.000 --> 00:07:58.000
+Boom. No ifs, ands or buts."
+
+00:07:58.000 --> 00:08:00.000
+And the minute they did that,
+
+00:08:00.000 --> 00:08:02.000
+the behavior in those daycare centers changed.
+
+00:08:02.000 --> 00:08:04.000
+Late pick-ups went up
+
+00:08:04.000 --> 00:08:07.000
+every week for the next four weeks
+
+00:08:07.000 --> 00:08:10.000
+until they topped out at triple the pre-fine average,
+
+00:08:10.000 --> 00:08:12.000
+and then they fluctuated
+
+00:08:12.000 --> 00:08:14.000
+at between double and triple the pre-fine average
+
+00:08:14.000 --> 00:08:16.000
+for the life of the fine.
+
+00:08:16.000 --> 00:08:19.000
+And you can see immediately what happened, right?
+
+00:08:20.000 --> 00:08:22.000
+The fine broke the culture
+
+00:08:22.000 --> 00:08:24.000
+of the daycare center.
+
+00:08:24.000 --> 00:08:26.000
+By adding a fine,
+
+00:08:26.000 --> 00:08:28.000
+what they did was communicate to the parents
+
+00:08:28.000 --> 00:08:30.000
+that their entire debt to the teachers
+
+00:08:30.000 --> 00:08:32.000
+had been discharged
+
+00:08:32.000 --> 00:08:34.000
+with the payment of 10 shekels,
+
+00:08:34.000 --> 00:08:37.000
+and that there was no residue of guilt or social concern
+
+00:08:37.000 --> 00:08:39.000
+that the parents owed the teachers.
+
+00:08:39.000 --> 00:08:41.000
+And so the parents, quite sensibly, said,
+
+00:08:41.000 --> 00:08:43.000
+"10 shekels to pick my kid up late?
+
+00:08:43.000 --> 00:08:45.000
+What could be bad?"
+
+00:08:45.000 --> 00:08:47.000
+(Laughter)
+
+00:08:49.000 --> 00:08:51.000
+The explanation of human behavior
+
+00:08:51.000 --> 00:08:54.000
+that we inherited in the 20th century
+
+00:08:54.000 --> 00:08:57.000
+was that we are all rational, self-maximizing actors,
+
+00:08:57.000 --> 00:08:59.000
+and in that explanation --
+
+00:08:59.000 --> 00:09:02.000
+the daycare center had no contract --
+
+00:09:02.000 --> 00:09:05.000
+should have been operating without any constraints.
+
+00:09:05.000 --> 00:09:07.000
+But that's not right.
+
+00:09:07.000 --> 00:09:09.000
+They were operating with social constraints
+
+00:09:09.000 --> 00:09:11.000
+rather than contractual ones.
+
+00:09:11.000 --> 00:09:13.000
+And critically, the social constraints
+
+00:09:13.000 --> 00:09:16.000
+created a culture that was more generous
+
+00:09:16.000 --> 00:09:18.000
+than the contractual constraints did.
+
+00:09:18.000 --> 00:09:21.000
+So Gneezy and Rustichini run this experiment for a dozen weeks --
+
+00:09:21.000 --> 00:09:23.000
+run the fine for a dozen weeks --
+
+00:09:23.000 --> 00:09:26.000
+and then they say, "Okay, that's it. All done; fine."
+
+00:09:26.000 --> 00:09:28.000
+And then a really interesting thing happens:
+
+00:09:28.000 --> 00:09:31.000
+Nothing changes.
+
+00:09:31.000 --> 00:09:34.000
+The culture that got broken by the fine
+
+00:09:34.000 --> 00:09:37.000
+stayed broken when the fine was removed.
+
+00:09:37.000 --> 00:09:40.000
+Not only are economic motivations
+
+00:09:40.000 --> 00:09:42.000
+and intrinsic motivations
+
+00:09:42.000 --> 00:09:44.000
+incompatible,
+
+00:09:44.000 --> 00:09:46.000
+that incompatibility
+
+00:09:46.000 --> 00:09:49.000
+can persist over long periods.
+
+00:09:49.000 --> 00:09:51.000
+So the trick
+
+00:09:51.000 --> 00:09:53.000
+in designing these kinds of situations
+
+00:09:53.000 --> 00:09:56.000
+is to understand where you're relying on
+
+00:09:56.000 --> 00:09:59.000
+the economic part of the bargain -- as with the parents paying the teachers --
+
+00:09:59.000 --> 00:10:02.000
+and when you're relying on the social part of the bargain,
+
+00:10:02.000 --> 00:10:05.000
+when you're really designing for generosity.
+
+00:10:05.000 --> 00:10:08.000
+This brings me back to the LOLcats
+
+00:10:08.000 --> 00:10:10.000
+and to Ushahidi.
+
+00:10:10.000 --> 00:10:12.000
+This is, I think, the range that matters.
+
+00:10:12.000 --> 00:10:14.000
+Both of these rely on cognitive surplus.
+
+00:10:14.000 --> 00:10:16.000
+Both of these design for the assumption
+
+00:10:16.000 --> 00:10:19.000
+that people like to create and we want to share.
+
+00:10:19.000 --> 00:10:22.000
+Here is the critical difference between these:
+
+00:10:24.000 --> 00:10:27.000
+LOLcats is communal value.
+
+00:10:27.000 --> 00:10:29.000
+It's value created by the participants
+
+00:10:29.000 --> 00:10:31.000
+for each other.
+
+00:10:31.000 --> 00:10:34.000
+Communal value on the networks we have
+
+00:10:34.000 --> 00:10:36.000
+is everywhere --
+
+00:10:36.000 --> 00:10:38.000
+every time you see a large aggregate
+
+00:10:38.000 --> 00:10:41.000
+of shared, publicly available data,
+
+00:10:41.000 --> 00:10:43.000
+whether it's photos on Flickr
+
+00:10:43.000 --> 00:10:45.000
+or videos on Youtube or whatever.
+
+00:10:45.000 --> 00:10:47.000
+This is good. I like LOLcats as much as the next guy,
+
+00:10:47.000 --> 00:10:49.000
+maybe a little more even,
+
+00:10:49.000 --> 00:10:52.000
+but this is also
+
+00:10:52.000 --> 00:10:54.000
+a largely solved problem.
+
+00:10:54.000 --> 00:10:56.000
+I have a hard time envisioning a future
+
+00:10:56.000 --> 00:10:58.000
+in which someone is saying,
+
+00:10:58.000 --> 00:11:00.000
+"Where, oh where, can I find a picture
+
+00:11:00.000 --> 00:11:02.000
+of a cute cat?"
+
+00:11:02.000 --> 00:11:04.000
+Ushahidi, by contrast,
+
+00:11:04.000 --> 00:11:06.000
+is civic value.
+
+00:11:06.000 --> 00:11:08.000
+It's value created by the participants
+
+00:11:08.000 --> 00:11:10.000
+but enjoyed by society as a whole.
+
+00:11:10.000 --> 00:11:12.000
+The goals set out by Ushahidi
+
+00:11:12.000 --> 00:11:14.000
+are not just to make life better
+
+00:11:14.000 --> 00:11:16.000
+for the participants,
+
+00:11:16.000 --> 00:11:19.000
+but to make life better for everyone in the society
+
+00:11:19.000 --> 00:11:21.000
+in which Ushahidi is operating.
+
+00:11:21.000 --> 00:11:24.000
+And that kind of civic value
+
+00:11:24.000 --> 00:11:26.000
+is not just a side effect
+
+00:11:26.000 --> 00:11:29.000
+of opening up to human motivation.
+
+00:11:29.000 --> 00:11:31.000
+It really is going to be a side effect
+
+00:11:31.000 --> 00:11:33.000
+of what we, collectively,
+
+00:11:33.000 --> 00:11:36.000
+make of these kinds of efforts.
+
+00:11:36.000 --> 00:11:38.000
+There are a trillion
+
+00:11:38.000 --> 00:11:40.000
+hours a year
+
+00:11:40.000 --> 00:11:42.000
+of participatory value
+
+00:11:42.000 --> 00:11:44.000
+up for grabs.
+
+00:11:44.000 --> 00:11:47.000
+That will be true year-in and year-out.
+
+00:11:47.000 --> 00:11:49.000
+The number of people who are going to be able
+
+00:11:49.000 --> 00:11:51.000
+to participate in these kinds of projects
+
+00:11:51.000 --> 00:11:53.000
+is going to grow,
+
+00:11:53.000 --> 00:11:56.000
+and we can see that organizations
+
+00:11:56.000 --> 00:11:58.000
+designed around a culture of generosity
+
+00:11:58.000 --> 00:12:00.000
+can achieve incredible effects
+
+00:12:00.000 --> 00:12:03.000
+without an enormous amount of contractual overhead --
+
+00:12:03.000 --> 00:12:05.000
+a very different model
+
+00:12:05.000 --> 00:12:08.000
+than our default model for large-scale group action in the 20th century.
+
+00:12:09.000 --> 00:12:12.000
+What's going to make the difference here
+
+00:12:12.000 --> 00:12:15.000
+is what Dean Kamen said,
+
+00:12:15.000 --> 00:12:17.000
+the inventor and entrepreneur.
+
+00:12:17.000 --> 00:12:20.000
+Kamen said, "Free cultures get what they celebrate."
+
+00:12:21.000 --> 00:12:24.000
+We've got a choice before us.
+
+00:12:24.000 --> 00:12:26.000
+We've got this trillion hours a year.
+
+00:12:26.000 --> 00:12:29.000
+We can use it to crack each other up, and we're going to do that.
+
+00:12:29.000 --> 00:12:31.000
+That, we get for free.
+
+00:12:31.000 --> 00:12:33.000
+But we can also celebrate
+
+00:12:33.000 --> 00:12:35.000
+and support and reward the people
+
+00:12:35.000 --> 00:12:37.000
+trying to use cognitive surplus
+
+00:12:37.000 --> 00:12:39.000
+to create civic value.
+
+00:12:39.000 --> 00:12:42.000
+And to the degree we're going to do that, to the degree we're able to do that,
+
+00:12:42.000 --> 00:12:44.000
+we'll be able to change society.
+
+00:12:44.000 --> 00:12:46.000
+Thank you very much.
+

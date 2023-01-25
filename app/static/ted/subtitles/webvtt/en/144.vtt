@@ -1,0 +1,1109 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.000
+So I really consider myself a storyteller.
+
+00:00:04.000 --> 00:00:08.000
+But I don't really tell stories in the usual way,
+
+00:00:08.000 --> 00:00:11.000
+in the sense that I don't usually tell my own stories.
+
+00:00:12.000 --> 00:00:14.000
+Instead, I'm really interested in building tools that allow
+
+00:00:14.000 --> 00:00:18.000
+large numbers of other people to tell their stories,
+
+00:00:18.000 --> 00:00:19.000
+people all around the world.
+
+00:00:20.000 --> 00:00:24.000
+I do this because I think that people actually have a lot in common.
+
+00:00:24.000 --> 00:00:25.000
+I think people are very similar,
+
+00:00:26.000 --> 00:00:28.000
+but I also think that we have trouble seeing that.
+
+00:00:29.000 --> 00:00:32.000
+You know, as I look around the world I see a lot of gaps,
+
+00:00:32.000 --> 00:00:33.000
+and I think we all see a lot of gaps.
+
+00:00:34.000 --> 00:00:36.000
+And we define ourselves by our gaps.
+
+00:00:37.000 --> 00:00:38.000
+There's language gaps,
+
+00:00:39.000 --> 00:00:43.000
+there's ethnicity and racial gaps, there's age gaps,
+
+00:00:43.000 --> 00:00:48.000
+there's gender gaps, there's sexuality gaps,
+
+00:00:48.000 --> 00:00:52.000
+there's wealth and money gaps, there's education gaps,
+
+00:00:53.000 --> 00:00:55.000
+there's also religious gaps.
+
+00:00:55.000 --> 00:00:57.000
+You know, we have all these gaps and I think we like our gaps
+
+00:00:57.000 --> 00:01:00.000
+because they make us feel like we identify with something,
+
+00:01:00.000 --> 00:01:01.000
+some smaller community.
+
+00:01:01.000 --> 00:01:03.000
+But I think that actually, despite our gaps,
+
+00:01:04.000 --> 00:01:05.000
+we really have a lot in common.
+
+00:01:05.000 --> 00:01:09.000
+And I think one thing we have in common is a very deep need
+
+00:01:10.000 --> 00:01:11.000
+to express ourselves.
+
+00:01:11.000 --> 00:01:16.000
+I think this is a very old human desire. It's nothing new.
+
+00:01:17.000 --> 00:01:18.000
+But the thing about self-expression
+
+00:01:18.000 --> 00:01:20.000
+is that there's traditionally been this imbalance
+
+00:01:20.000 --> 00:01:23.000
+between the desire that we have to express ourselves
+
+00:01:23.000 --> 00:01:25.000
+and the number of sympathetic friends
+
+00:01:25.000 --> 00:01:27.000
+who are willing to stand around and listen.
+
+00:01:27.000 --> 00:01:28.000
+(Laughter)
+
+00:01:29.000 --> 00:01:31.000
+This, also, is nothing new.
+
+00:01:31.000 --> 00:01:34.000
+Since the dawn of human history, we've tried to rectify this imbalance
+
+00:01:34.000 --> 00:01:38.000
+by making art, writing poems, singing songs,
+
+00:01:38.000 --> 00:01:41.000
+scripting editorials and sending them in to a newspaper,
+
+00:01:41.000 --> 00:01:43.000
+gossiping with friends. This is nothing new.
+
+00:01:43.000 --> 00:01:45.000
+What's new is that in the last several years
+
+00:01:45.000 --> 00:01:48.000
+a lot of these very traditional physical human activities,
+
+00:01:48.000 --> 00:01:50.000
+these acts of self-expression, have been moving onto the Internet.
+
+00:01:51.000 --> 00:01:54.000
+And as that's happened, people have been leaving behind footprints,
+
+00:01:55.000 --> 00:01:58.000
+footprints that tell stories of their moments of self-expression.
+
+00:01:59.000 --> 00:02:02.000
+And so what I do is, I write computer programs
+
+00:02:02.000 --> 00:02:05.000
+that study very large sets of these footprints,
+
+00:02:05.000 --> 00:02:08.000
+and then try to draw conclusions about the people who left them --
+
+00:02:09.000 --> 00:02:10.000
+what they feel, what they think,
+
+00:02:11.000 --> 00:02:13.000
+what's different in the world today than usual,
+
+00:02:14.000 --> 00:02:15.000
+these sorts of questions.
+
+00:02:16.000 --> 00:02:17.000
+One project that explores these ideas,
+
+00:02:18.000 --> 00:02:19.000
+which was made about a year ago,
+
+00:02:19.000 --> 00:02:20.000
+is a piece called We Feel Fine.
+
+00:02:20.000 --> 00:02:23.000
+This is a piece that every two or three minutes
+
+00:02:23.000 --> 00:02:25.000
+scans the world's newly-posted blog entries
+
+00:02:25.000 --> 00:02:30.000
+for occurrences of the phrases "I feel" or "I am feeling."
+
+00:02:30.000 --> 00:02:31.000
+And when it finds one of those phrases,
+
+00:02:31.000 --> 00:02:33.000
+it grabs the sentence up to the period,
+
+00:02:33.000 --> 00:02:36.000
+and then automatically tries to deduce the age, gender
+
+00:02:36.000 --> 00:02:39.000
+and geographical location of the person that wrote that sentence.
+
+00:02:40.000 --> 00:02:42.000
+Then, knowing the geographical location and the time,
+
+00:02:42.000 --> 00:02:43.000
+we can also then figure out the weather
+
+00:02:43.000 --> 00:02:45.000
+when that person wrote the sentence.
+
+00:02:46.000 --> 00:02:48.000
+All of this information is saved in a database
+
+00:02:48.000 --> 00:02:50.000
+that collects about 20,000 feelings a day.
+
+00:02:50.000 --> 00:02:52.000
+It's been running for about a year and a half.
+
+00:02:52.000 --> 00:02:55.000
+It's reached about seven-and-a-half million human feelings now.
+
+00:02:55.000 --> 00:02:56.000
+And I'll show you a glimpse
+
+00:02:56.000 --> 00:03:01.000
+of how this information is then visualized. So this is We Feel Fine.
+
+00:03:02.000 --> 00:03:06.000
+What you see here is a madly swarming mass of particles,
+
+00:03:06.000 --> 00:03:08.000
+each of which represents a single human feeling
+
+00:03:08.000 --> 00:03:10.000
+that was stated in the last few hours.
+
+00:03:11.000 --> 00:03:14.000
+The color of each particle corresponds to the type of feeling inside --
+
+00:03:14.000 --> 00:03:16.000
+so that happy, positive feelings are brightly colored.
+
+00:03:17.000 --> 00:03:19.000
+And sad, negative feelings are darkly colored.
+
+00:03:19.000 --> 00:03:21.000
+The diameter of each dot
+
+00:03:21.000 --> 00:03:23.000
+represents the length of the sentence inside,
+
+00:03:23.000 --> 00:03:25.000
+so that the large dots contain large sentences,
+
+00:03:25.000 --> 00:03:27.000
+and the small dots contain small sentences.
+
+00:03:27.000 --> 00:03:30.000
+Any dot can be clicked and expanded. And we see here,
+
+00:03:31.000 --> 00:03:32.000
+"I would just feel so much better
+
+00:03:32.000 --> 00:03:35.000
+if I could curl up in his arms right now and feel his affection for me
+
+00:03:35.000 --> 00:03:38.000
+in the embrace of his body and the tenderness of his lips."
+
+00:03:38.000 --> 00:03:40.000
+So it gets pretty hot and steamy sometimes
+
+00:03:40.000 --> 00:03:42.000
+in the world of human emotions.
+
+00:03:42.000 --> 00:03:45.000
+And all of these are stated by people:
+
+00:03:45.000 --> 00:03:47.000
+"I know that objectively it really doesn't mean much,
+
+00:03:47.000 --> 00:03:50.000
+but after spending so many years as a small fish in a big pond,
+
+00:03:50.000 --> 00:03:52.000
+it's nice to feel bigger again."
+
+00:03:52.000 --> 00:03:55.000
+The dots exhibit human qualities. They kind of have their own physics,
+
+00:03:55.000 --> 00:03:59.000
+and they swarm wildly around, kind of exploring the world of life.
+
+00:04:00.000 --> 00:04:01.000
+And then they also exhibit curiosity.
+
+00:04:01.000 --> 00:04:04.000
+You can see a few of them are swarming around the cursor right now.
+
+00:04:04.000 --> 00:04:05.000
+You can see some other ones
+
+00:04:06.000 --> 00:04:07.000
+are swarming around the bottom left corner of the screen
+
+00:04:08.000 --> 00:04:11.000
+around six words. Those six words represent the six movements
+
+00:04:11.000 --> 00:04:14.000
+of We Feel Fine. We're currently seeing Madness.
+
+00:04:14.000 --> 00:04:18.000
+There's also Murmurs, Montage, Mobs, Metrics and Mounds.
+
+00:04:18.000 --> 00:04:20.000
+And I'll walk you through a few of those now.
+
+00:04:20.000 --> 00:04:23.000
+Murmurs causes all of the feelings to fly to the ceiling.
+
+00:04:24.000 --> 00:04:26.000
+And then, one by one, in reverse chronological order,
+
+00:04:26.000 --> 00:04:29.000
+they excuse themselves, entering the scrolling list of feelings.
+
+00:04:31.000 --> 00:04:32.000
+"I feel a bit better now."
+
+00:04:32.000 --> 00:04:34.000
+(Laughter)
+
+00:04:35.000 --> 00:04:37.000
+"I feel confused and unsure of what the hell I want to do."
+
+00:04:38.000 --> 00:04:40.000
+"I feel gypped out of something awesome here."
+
+00:04:41.000 --> 00:04:42.000
+"I feel so free; I feel so good."
+
+00:04:43.000 --> 00:04:46.000
+"I feel like I'm in this fog of depression that I can't get out of."
+
+00:04:46.000 --> 00:04:48.000
+And you can click any of these to go out and visit the blog
+
+00:04:48.000 --> 00:04:50.000
+from which it was collected. And in that way,
+
+00:04:50.000 --> 00:04:52.000
+you can connect with the authors of these statements
+
+00:04:53.000 --> 00:04:54.000
+if you feel some degree of empathy.
+
+00:04:55.000 --> 00:04:57.000
+The next movement is called Montage.
+
+00:04:57.000 --> 00:05:00.000
+Montage causes all of the feelings that contain photographs
+
+00:05:00.000 --> 00:05:03.000
+to become extracted and display themselves in a grid.
+
+00:05:04.000 --> 00:05:08.000
+This grid is then said to represent the picture of the world's feelings
+
+00:05:08.000 --> 00:05:09.000
+in the last few hours, if you will.
+
+00:05:09.000 --> 00:05:12.000
+Each of these can be clicked and we can blow it up.
+
+00:05:12.000 --> 00:05:15.000
+We see, "I just feel like I'm not going to have fun
+
+00:05:15.000 --> 00:05:19.000
+if it's not the both of us." That was from someone in Michigan.
+
+00:05:21.000 --> 00:05:25.000
+We see, "I feel like I have been at a computer all day."
+
+00:05:25.000 --> 00:05:26.000
+(Laughter)
+
+00:05:28.000 --> 00:05:31.000
+These are automatically constructed using the found objects:
+
+00:05:31.000 --> 00:05:33.000
+"I think I feel a little full."
+
+00:05:35.000 --> 00:05:36.000
+The next movement is called mobs.
+
+00:05:36.000 --> 00:05:38.000
+Mobs provides different statistical breakdowns
+
+00:05:38.000 --> 00:05:41.000
+of the population of the world's feelings in the last few hours.
+
+00:05:41.000 --> 00:05:43.000
+We see that "better" is the most frequent feeling right now,
+
+00:05:43.000 --> 00:05:47.000
+followed by "good," "bad," "guilty," "right," "down," "sick" and so on.
+
+00:05:48.000 --> 00:05:49.000
+We can also get a gender breakdown.
+
+00:05:49.000 --> 00:05:51.000
+And we see that women are slightly more prolific
+
+00:05:51.000 --> 00:05:53.000
+talking about their emotions in the last few hours than men.
+
+00:05:55.000 --> 00:05:57.000
+We can do an age breakdown, which gives us a histogram
+
+00:05:57.000 --> 00:05:59.000
+of the world's emotional distribution by age.
+
+00:06:00.000 --> 00:06:03.000
+We see people in their twenties are the most prolific,
+
+00:06:03.000 --> 00:06:05.000
+followed by teenagers, and then people in their thirties,
+
+00:06:05.000 --> 00:06:06.000
+and it dies out very quickly from there.
+
+00:06:07.000 --> 00:06:11.000
+In weather, the feelings assume the physical characteristics
+
+00:06:11.000 --> 00:06:12.000
+of the weather that they represent,
+
+00:06:12.000 --> 00:06:14.000
+so that the ones collected on a sunny day
+
+00:06:14.000 --> 00:06:16.000
+swirl around as if they're part of the sun.
+
+00:06:16.000 --> 00:06:18.000
+The cloudy ones float along as if they're on a breeze.
+
+00:06:19.000 --> 00:06:21.000
+The rainy ones fall down as if they're in a rainstorm,
+
+00:06:21.000 --> 00:06:23.000
+and the snowy ones kind of flutter to the ground.
+
+00:06:24.000 --> 00:06:27.000
+Finally, location causes the feelings to move to their positions
+
+00:06:27.000 --> 00:06:30.000
+on a world map showing the geographical distribution of feelings.
+
+00:06:32.000 --> 00:06:34.000
+Metrics provides more numerical views on the data.
+
+00:06:34.000 --> 00:06:35.000
+We see that the world is feeling "used"
+
+00:06:35.000 --> 00:06:38.000
+at 3.3 times the normal level right now.
+
+00:06:38.000 --> 00:06:41.000
+(Laughter)
+
+00:06:41.000 --> 00:06:45.000
+They're feeling "warm" at 2.9 times the normal level, and so on.
+
+00:06:45.000 --> 00:06:46.000
+Other views are also available.
+
+00:06:46.000 --> 00:06:48.000
+Here are gender, age, weather, location.
+
+00:06:48.000 --> 00:06:50.000
+The final movement is called Mounds.
+
+00:06:50.000 --> 00:06:51.000
+It's a bit different from the others.
+
+00:06:51.000 --> 00:06:55.000
+Mounds visualizes the entire dataset as large, gelatinous blobs
+
+00:06:55.000 --> 00:06:56.000
+which kind of jiggle.
+
+00:06:57.000 --> 00:06:59.000
+And if I hold down my cursor, they do a little dance.
+
+00:07:00.000 --> 00:07:03.000
+We see "better" is the most frequent feeling, followed by "bad."
+
+00:07:03.000 --> 00:07:06.000
+And then if I go over here, the list begins to scroll,
+
+00:07:06.000 --> 00:07:08.000
+and there are actually thousands of feelings that have been collected.
+
+00:07:08.000 --> 00:07:10.000
+You can see the little pink cursor moving along,
+
+00:07:10.000 --> 00:07:11.000
+representing our position.
+
+00:07:12.000 --> 00:07:16.000
+Here we see people that feel "slipping," "nauseous," "responsible."
+
+00:07:16.000 --> 00:07:17.000
+There's also a search capability,
+
+00:07:17.000 --> 00:07:19.000
+if you're interested in finding out about a certain population.
+
+00:07:20.000 --> 00:07:22.000
+For instance, you could find women who feel "addicted"
+
+00:07:22.000 --> 00:07:26.000
+in their 20s when it was cloudy in Bangladesh.
+
+00:07:26.000 --> 00:07:30.000
+(Laughter)
+
+00:07:30.000 --> 00:07:31.000
+But I'll spare you that.
+
+00:07:31.000 --> 00:07:34.000
+So here are some of my favorite montages that have been collected:
+
+00:07:35.000 --> 00:07:38.000
+"I feel so much of my dad alive in me that there isn't even room for me."
+
+00:07:40.000 --> 00:07:42.000
+"I feel very lonely."
+
+00:07:44.000 --> 00:07:46.000
+"I need to be in some backwoods redneck town
+
+00:07:46.000 --> 00:07:48.000
+so that I can feel beautiful."
+
+00:07:51.000 --> 00:07:52.000
+"I feel invisible to you."
+
+00:07:54.000 --> 00:07:57.000
+"I wouldn't hide it if society didn't make me feel like I needed to."
+
+00:08:00.000 --> 00:08:04.000
+"I feel in love with Carolyn." "I feel so naughty."
+
+00:08:07.000 --> 00:08:10.000
+"I feel these weirdoes are actually an asset to college life."
+
+00:08:10.000 --> 00:08:14.000
+(Laughter)
+
+00:08:14.000 --> 00:08:15.000
+"I love how I feel today."
+
+00:08:17.000 --> 00:08:19.000
+So as you can see, We Feel Fine uses a technique
+
+00:08:19.000 --> 00:08:20.000
+that I call "passive observation."
+
+00:08:20.000 --> 00:08:23.000
+What I mean by that is that it passively observes people
+
+00:08:23.000 --> 00:08:27.000
+as they live their lives. It scans the world's blogs
+
+00:08:27.000 --> 00:08:28.000
+and looks at what people are writing,
+
+00:08:28.000 --> 00:08:31.000
+and these people don't know they're being watched or interviewed.
+
+00:08:31.000 --> 00:08:32.000
+And because of that,
+
+00:08:32.000 --> 00:08:35.000
+you end up getting very honest, candid, sincere responses
+
+00:08:35.000 --> 00:08:36.000
+that are often very moving.
+
+00:08:37.000 --> 00:08:39.000
+And this is a technique that I usually prefer in my work
+
+00:08:39.000 --> 00:08:41.000
+because people don't know they're being interviewed.
+
+00:08:41.000 --> 00:08:44.000
+They're just living life, and they end up just acting like that.
+
+00:08:45.000 --> 00:08:47.000
+Another technique is directly questioning people.
+
+00:08:47.000 --> 00:08:49.000
+And this is a technique that I explored in a different project,
+
+00:08:49.000 --> 00:08:50.000
+the Yahoo! Time Capsule,
+
+00:08:50.000 --> 00:08:54.000
+which was designed to take a fingerprint of the world in 2006.
+
+00:08:55.000 --> 00:08:57.000
+It was divided into ten very simple themes --
+
+00:08:57.000 --> 00:08:59.000
+love, anger, sadness and so on --
+
+00:08:59.000 --> 00:09:01.000
+each of which contained a single, very open-ended question
+
+00:09:01.000 --> 00:09:04.000
+put to the world: What do you love? What makes you angry?
+
+00:09:04.000 --> 00:09:06.000
+What makes you sad? What do you believe in? And so on.
+
+00:09:06.000 --> 00:09:08.000
+The time capsule was available for one month online,
+
+00:09:08.000 --> 00:09:13.000
+translated into 10 languages, and this is what it looked like.
+
+00:09:13.000 --> 00:09:14.000
+It's a spinning globe,
+
+00:09:14.000 --> 00:09:17.000
+the surface of which is entirely composed of the pictures
+
+00:09:17.000 --> 00:09:19.000
+and words and drawings of people
+
+00:09:19.000 --> 00:09:20.000
+that submitted to the time capsule.
+
+00:09:21.000 --> 00:09:23.000
+The ten themes radiate out and orbit the time capsule.
+
+00:09:23.000 --> 00:09:27.000
+You can sift through this data and see what people have submitted.
+
+00:09:27.000 --> 00:09:29.000
+This is in response to, What's beautiful? "Miss World."
+
+00:09:29.000 --> 00:09:31.000
+There are two modes to the time capsule.
+
+00:09:31.000 --> 00:09:33.000
+There's One World, which presents the spinning globe,
+
+00:09:33.000 --> 00:09:36.000
+and Many Voices, which splits the data out into film strips
+
+00:09:37.000 --> 00:09:38.000
+and lets you sift through them one by one.
+
+00:09:40.000 --> 00:09:44.000
+So this project was punctuated by a really amazing event,
+
+00:09:44.000 --> 00:09:49.000
+which was held in the desert outside Albuquerque in New Mexico
+
+00:09:49.000 --> 00:09:51.000
+at the Jemez Pueblo, where for three consecutive nights,
+
+00:09:51.000 --> 00:09:54.000
+the contents of the capsule were projected onto the sides
+
+00:09:54.000 --> 00:09:55.000
+of the ancient Red Rock Canyon walls,
+
+00:09:56.000 --> 00:09:58.000
+which stand about 200 feet tall. It was really incredible.
+
+00:09:58.000 --> 00:10:01.000
+And we also projected the contents of the time capsule
+
+00:10:01.000 --> 00:10:04.000
+as binary code using a 35-watt laser into outer space.
+
+00:10:04.000 --> 00:10:07.000
+You can see the orange line leaving the desert floor
+
+00:10:07.000 --> 00:10:09.000
+at about a 45 degree angle there. This was amazing
+
+00:10:09.000 --> 00:10:13.000
+because the first night I looked at all this information
+
+00:10:13.000 --> 00:10:16.000
+and really started seeing the gaps that I talked about earlier --
+
+00:10:16.000 --> 00:10:18.000
+the differences in age, gender and wealth and so on.
+
+00:10:19.000 --> 00:10:21.000
+But, you know, as I looked at this more and more and more,
+
+00:10:21.000 --> 00:10:23.000
+and saw these images go across the rocks,
+
+00:10:23.000 --> 00:10:25.000
+I realized I was seeing the same archetypal events
+
+00:10:25.000 --> 00:10:27.000
+depicted again and again and again.
+
+00:10:27.000 --> 00:10:32.000
+You know: weddings, births, funerals, the first car, the first kiss,
+
+00:10:32.000 --> 00:10:35.000
+the first camel or horse -- depending on the culture.
+
+00:10:35.000 --> 00:10:39.000
+And it was really moving. And this picture here was taken
+
+00:10:39.000 --> 00:10:42.000
+the final night from a distant cliff about two miles away,
+
+00:10:42.000 --> 00:10:45.000
+where the contents of the capsule were being beamed into space.
+
+00:10:45.000 --> 00:10:47.000
+And there was something very moving
+
+00:10:47.000 --> 00:10:50.000
+about all of this human expression being shot off into the night sky.
+
+00:10:50.000 --> 00:10:53.000
+And it started to make me think a lot about the night sky,
+
+00:10:53.000 --> 00:10:54.000
+and how humans have always used the night sky
+
+00:10:54.000 --> 00:10:56.000
+to project their great stories.
+
+00:10:56.000 --> 00:10:59.000
+You know, as a child in Vermont, on a farm where I grew up,
+
+00:10:59.000 --> 00:11:01.000
+I would often look up into the dark sky
+
+00:11:01.000 --> 00:11:03.000
+and see the three star belt of Orion, the Hunter.
+
+00:11:04.000 --> 00:11:06.000
+And as an adult, I've been more aware
+
+00:11:06.000 --> 00:11:09.000
+of the great Greek myths playing out in the sky overhead every night.
+
+00:11:10.000 --> 00:11:12.000
+You know, Orion facing the roaring bull.
+
+00:11:12.000 --> 00:11:14.000
+Perseus flying to the rescue of Andromeda.
+
+00:11:14.000 --> 00:11:17.000
+Zeus battling Chronos for control of Mount Olympus.
+
+00:11:17.000 --> 00:11:19.000
+I mean, these are the great tales of the Greeks.
+
+00:11:19.000 --> 00:11:21.000
+And it caused me to wonder about our world today.
+
+00:11:22.000 --> 00:11:24.000
+And it caused me to wonder specifically,
+
+00:11:24.000 --> 00:11:26.000
+if we could make new constellations today,
+
+00:11:27.000 --> 00:11:29.000
+what would those look like? What would those be?
+
+00:11:29.000 --> 00:11:32.000
+If we could make new pictures in the sky, what would we draw?
+
+00:11:32.000 --> 00:11:33.000
+What are the great stories of today?
+
+00:11:33.000 --> 00:11:37.000
+And those are the questions that inspired my new project,
+
+00:11:37.000 --> 00:11:39.000
+which is debuting here today at TED.
+
+00:11:39.000 --> 00:11:40.000
+Nobody's seen this yet, publicly.
+
+00:11:41.000 --> 00:11:44.000
+It's called Universe: Revealing Our Modern Mythology.
+
+00:11:45.000 --> 00:11:48.000
+And it uses this metaphor of an interactive night sky.
+
+00:11:48.000 --> 00:11:51.000
+So, it's my great pleasure now to show this to you.
+
+00:11:51.000 --> 00:11:52.000
+So, Universe will open here.
+
+00:11:52.000 --> 00:11:56.000
+And you'll see that it leads with a shifting star field,
+
+00:11:57.000 --> 00:11:59.000
+and there's an Aurora Borealis in the background,
+
+00:11:59.000 --> 00:12:02.000
+kind of morphing with color. The color of the Aurora Borealis
+
+00:12:02.000 --> 00:12:05.000
+can be controlled using this single bar of color at the bottom,
+
+00:12:06.000 --> 00:12:08.000
+and we'll put it down here to red.
+
+00:12:08.000 --> 00:12:10.000
+So you see this kind of -- these stars moving along.
+
+00:12:11.000 --> 00:12:14.000
+Now, these aren't just little points of light, little pixels.
+
+00:12:14.000 --> 00:12:16.000
+Each of those stars actually represents
+
+00:12:16.000 --> 00:12:18.000
+a specific event in the real world --
+
+00:12:19.000 --> 00:12:21.000
+a quote that was stated by somebody, an image,
+
+00:12:22.000 --> 00:12:25.000
+a news story, a person, a company. You know,
+
+00:12:25.000 --> 00:12:27.000
+some kind of heroic personality.
+
+00:12:28.000 --> 00:12:30.000
+And you might notice that as the cursor begins
+
+00:12:30.000 --> 00:12:34.000
+to touch some of these stars, that shapes begin to emerge.
+
+00:12:34.000 --> 00:12:37.000
+We see here there's a little man walking along, or maybe a woman.
+
+00:12:37.000 --> 00:12:41.000
+And we see here a photograph with a head.
+
+00:12:42.000 --> 00:12:44.000
+You can start to see words emerging here.
+
+00:12:45.000 --> 00:12:46.000
+And those are
+
+00:12:47.000 --> 00:12:48.000
+the constellations of today.
+
+00:12:49.000 --> 00:12:50.000
+And I can turn them all on,
+
+00:12:50.000 --> 00:12:52.000
+and you can see them moving across the sky now.
+
+00:12:53.000 --> 00:12:55.000
+This is the universe of 2007, the last two months.
+
+00:12:56.000 --> 00:12:58.000
+The data from this is global news coverage
+
+00:12:58.000 --> 00:13:00.000
+from thousands of news sources around the world.
+
+00:13:00.000 --> 00:13:04.000
+It's using the API of a really great company that I work with
+
+00:13:04.000 --> 00:13:05.000
+in New York, actually, called Daylife.
+
+00:13:06.000 --> 00:13:09.000
+And it's kind of the zeitgeist view at this level
+
+00:13:09.000 --> 00:13:13.000
+of the world's current mythology over the last couple of months.
+
+00:13:13.000 --> 00:13:16.000
+So we can see where it's emerging here, like President Ford,
+
+00:13:17.000 --> 00:13:20.000
+Iraq, Bush. And we can actually isolate just the words --
+
+00:13:20.000 --> 00:13:22.000
+I call them secrets -- and we can cause them to form
+
+00:13:22.000 --> 00:13:25.000
+an alphabetical list. And we see Anna Nicole Smith
+
+00:13:26.000 --> 00:13:28.000
+playing a big role recently.
+
+00:13:28.000 --> 00:13:31.000
+President Ford -- this is Gerald Ford's funeral.
+
+00:13:31.000 --> 00:13:34.000
+We can actually click anything in Universe
+
+00:13:34.000 --> 00:13:35.000
+and have it become the center of the universe,
+
+00:13:35.000 --> 00:13:37.000
+and everything else will enter its orbit.
+
+00:13:37.000 --> 00:13:40.000
+So, we'll click Ford, and now that becomes the center.
+
+00:13:40.000 --> 00:13:43.000
+And the things that relate to Ford enter its orbit
+
+00:13:43.000 --> 00:13:44.000
+and swirl around it.
+
+00:13:45.000 --> 00:13:47.000
+We can isolate just the photographs, and we now see those.
+
+00:13:48.000 --> 00:13:49.000
+We can click on one of those
+
+00:13:49.000 --> 00:13:51.000
+and have the photograph be the center of the universe.
+
+00:13:52.000 --> 00:13:55.000
+Now the things that relate to it are swirling around.
+
+00:13:55.000 --> 00:13:58.000
+We can click on this and we see this iconic image
+
+00:13:58.000 --> 00:14:01.000
+of Betty Ford kissing her husband's coffin.
+
+00:14:01.000 --> 00:14:06.000
+In Universe, there's kind of no end. It just goes infinitely,
+
+00:14:07.000 --> 00:14:08.000
+and you can just kind of click on stuff.
+
+00:14:09.000 --> 00:14:13.000
+This is a photographic representation, called Snapshots.
+
+00:14:13.000 --> 00:14:17.000
+But we can actually be more specific in defining our universe.
+
+00:14:17.000 --> 00:14:18.000
+So, if we want to,
+
+00:14:18.000 --> 00:14:21.000
+let's check out what Bill Clinton's universe looks like.
+
+00:14:21.000 --> 00:14:25.000
+And let's see, in the past week, what he's been up to.
+
+00:14:25.000 --> 00:14:28.000
+So now, we have a new universe, which is just constrained
+
+00:14:28.000 --> 00:14:29.000
+to all things Bill Clinton.
+
+00:14:30.000 --> 00:14:32.000
+We can have his constellations emerge here.
+
+00:14:33.000 --> 00:14:34.000
+We can pull out his secrets,
+
+00:14:34.000 --> 00:14:37.000
+and we see that it has a lot to do with candidates,
+
+00:14:37.000 --> 00:14:40.000
+Hillary, presidential, Barack Obama.
+
+00:14:41.000 --> 00:14:42.000
+We can see the stories
+
+00:14:42.000 --> 00:14:45.000
+that Bill Clinton is taking part in right now.
+
+00:14:45.000 --> 00:14:47.000
+Any of those can be opened up.
+
+00:14:47.000 --> 00:14:49.000
+So we see Obama and the Clintons meet in Alabama.
+
+00:14:50.000 --> 00:14:51.000
+You can see that this is an important story;
+
+00:14:51.000 --> 00:14:55.000
+there are a lot of things in its orbit. If we open this up,
+
+00:14:55.000 --> 00:14:58.000
+we get different perspectives on this story.
+
+00:14:58.000 --> 00:15:00.000
+You can click any of those to go out and read the article
+
+00:15:00.000 --> 00:15:02.000
+at the source. This one's from Al Jazeera.
+
+00:15:03.000 --> 00:15:07.000
+We can also see the superstars. These would be the people
+
+00:15:07.000 --> 00:15:10.000
+that are kind of the looming heroes and heroines
+
+00:15:10.000 --> 00:15:13.000
+in the universe of Bill Clinton. So there's Bill Clinton, Hillary,
+
+00:15:13.000 --> 00:15:17.000
+Iraq, George Bush, Barack Obama, Scooter Libby --
+
+00:15:17.000 --> 00:15:19.000
+these are kind of the people of Bill Clinton.
+
+00:15:20.000 --> 00:15:24.000
+We can also see a world map, so this shows us the geographic reach
+
+00:15:24.000 --> 00:15:25.000
+of Bill Clinton in the last week or so.
+
+00:15:25.000 --> 00:15:27.000
+We can see he's been focused in America
+
+00:15:27.000 --> 00:15:29.000
+because he's been campaigning, probably,
+
+00:15:29.000 --> 00:15:31.000
+but a little bit of action over here in the Middle East.
+
+00:15:31.000 --> 00:15:33.000
+And then we can also see a timeline.
+
+00:15:33.000 --> 00:15:36.000
+So we see that he was a bit quiet on Saturday,
+
+00:15:36.000 --> 00:15:38.000
+but he was back to work on Sunday morning,
+
+00:15:38.000 --> 00:15:41.000
+and actually been tapering off since then this week.
+
+00:15:41.000 --> 00:15:43.000
+And it's not limited to just people or dates,
+
+00:15:43.000 --> 00:15:45.000
+but we can actually put in concepts also.
+
+00:15:45.000 --> 00:15:48.000
+So if I put in climate change for all of 2006,
+
+00:15:49.000 --> 00:15:51.000
+we'll see what that universe looks like.
+
+00:15:51.000 --> 00:15:54.000
+Here we have our star field. Here we have our shapes.
+
+00:15:54.000 --> 00:15:56.000
+Here we have our secrets.
+
+00:15:57.000 --> 00:15:59.000
+So we see again, climate change is large:
+
+00:15:59.000 --> 00:16:02.000
+Nairobi, global conference, environmental.
+
+00:16:02.000 --> 00:16:04.000
+And there are also quotes that you can see,
+
+00:16:04.000 --> 00:16:06.000
+if you're interested in reading about quotes on climate change.
+
+00:16:06.000 --> 00:16:07.000
+You know, this is really an infinite thing.
+
+00:16:08.000 --> 00:16:10.000
+The superstars of climate change in 2006:
+
+00:16:10.000 --> 00:16:13.000
+United States, Britain, China. You know,
+
+00:16:13.000 --> 00:16:16.000
+these are the towering countries that kind of define this concept.
+
+00:16:16.000 --> 00:16:19.000
+So this is a piece that demands exploration.
+
+00:16:19.000 --> 00:16:23.000
+This will be online in several days, probably next Tuesday.
+
+00:16:24.000 --> 00:16:28.000
+And you'll all be able to use it and kind of explore
+
+00:16:28.000 --> 00:16:30.000
+what your own personal mythology might be.
+
+00:16:30.000 --> 00:16:33.000
+You'll notice that in Daylife -- rather, in Universe --
+
+00:16:33.000 --> 00:16:35.000
+it supports both the notion of a global mythology,
+
+00:16:35.000 --> 00:16:38.000
+which is represented by something as broad as, say, 2007,
+
+00:16:38.000 --> 00:16:40.000
+and also a personal mythology.
+
+00:16:40.000 --> 00:16:44.000
+As you search for the things that are important to you in your world,
+
+00:16:44.000 --> 00:16:47.000
+and then see what the constellations of those might look like.
+
+00:16:48.000 --> 00:16:51.000
+So it's been a pleasure. Thank you very much.
+
+00:16:51.000 --> 00:16:54.000
+(Applause)
+

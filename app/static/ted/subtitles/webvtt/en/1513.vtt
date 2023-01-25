@@ -1,0 +1,896 @@
+WEBVTT
+
+00:00:00.492 --> 00:00:05.342
+I'm gonna talk a little bit about open-source security,
+
+00:00:05.342 --> 00:00:07.366
+because we've got to get better at security
+
+00:00:07.366 --> 00:00:09.386
+in this 21st century.
+
+00:00:09.386 --> 00:00:14.073
+Let me start by saying, let's look back to the 20th century,
+
+00:00:14.073 --> 00:00:17.742
+and kind of get a sense of how that style of security
+
+00:00:17.742 --> 00:00:19.220
+worked for us.
+
+00:00:19.220 --> 00:00:22.512
+This is Verdun, a battlefield in France
+
+00:00:22.512 --> 00:00:25.829
+just north of the NATO headquarters in Belgium.
+
+00:00:25.829 --> 00:00:32.445
+At Verdun, in 1916, over a 300-day period,
+
+00:00:32.445 --> 00:00:35.573
+700,000 people were killed,
+
+00:00:35.573 --> 00:00:37.632
+so about 2,000 a day.
+
+00:00:37.632 --> 00:00:41.960
+If you roll it forward -- 20th-century security --
+
+00:00:41.960 --> 00:00:44.863
+into the Second World War,
+
+00:00:44.863 --> 00:00:47.345
+you see the Battle of Stalingrad,
+
+00:00:47.345 --> 00:00:50.913
+300 days, 2 million people killed.
+
+00:00:50.913 --> 00:00:53.699
+We go into the Cold War, and we continue
+
+00:00:53.699 --> 00:00:56.478
+to try and build walls.
+
+00:00:56.478 --> 00:01:00.530
+We go from the trench warfare of the First World War
+
+00:01:00.530 --> 00:01:04.109
+to the Maginot Line of the Second World War,
+
+00:01:04.109 --> 00:01:06.538
+and then we go into the Cold War,
+
+00:01:06.538 --> 00:01:09.476
+the Iron Curtain, the Berlin Wall.
+
+00:01:09.476 --> 00:01:11.703
+Walls don't work.
+
+00:01:11.703 --> 00:01:16.035
+My thesis for us today is, instead of building walls
+
+00:01:16.035 --> 00:01:19.691
+to create security, we need to build bridges.
+
+00:01:19.691 --> 00:01:22.115
+This is a famous bridge in Europe.
+
+00:01:22.115 --> 00:01:24.237
+It's in Bosnia-Herzegovina.
+
+00:01:24.237 --> 00:01:26.476
+It's the bridge over the Drina River,
+
+00:01:26.476 --> 00:01:29.302
+the subject of a novel by Ivo Andrić,
+
+00:01:29.302 --> 00:01:31.060
+and it talks about how,
+
+00:01:31.060 --> 00:01:34.926
+in that very troubled part of Europe and the Balkans,
+
+00:01:34.926 --> 00:01:39.069
+over time there's been enormous building of walls.
+
+00:01:39.069 --> 00:01:42.160
+More recently, in the last decade, we begin to see
+
+00:01:42.160 --> 00:01:45.850
+these communities start, hesitatingly,
+
+00:01:45.850 --> 00:01:47.403
+to come together.
+
+00:01:47.403 --> 00:01:51.576
+I would argue, again, open-source security
+
+00:01:51.576 --> 00:01:54.412
+is about connecting the international,
+
+00:01:54.412 --> 00:01:58.159
+the interagency, the private-public,
+
+00:01:58.159 --> 00:02:01.924
+and lashing it together with strategic communication,
+
+00:02:01.924 --> 00:02:04.392
+largely in social networks.
+
+00:02:04.392 --> 00:02:08.757
+So let me talk a little bit about why we need to do that,
+
+00:02:08.757 --> 00:02:12.504
+because our global commons is under attack
+
+00:02:12.504 --> 00:02:14.487
+in a variety of ways,
+
+00:02:14.487 --> 00:02:18.253
+and none of the sources of threat to the global commons
+
+00:02:18.253 --> 00:02:21.082
+will be solved by building walls.
+
+00:02:21.082 --> 00:02:23.388
+Now, I'm a sailor, obviously.
+
+00:02:23.388 --> 00:02:27.997
+This is a ship, a liner, clipping through the Indian Ocean.
+
+00:02:27.997 --> 00:02:30.618
+What's wrong with this picture?
+
+00:02:30.618 --> 00:02:34.129
+It's got concertina wire along the sides of it.
+
+00:02:34.129 --> 00:02:36.885
+That's to prevent pirates from attacking it.
+
+00:02:36.885 --> 00:02:39.992
+Piracy is a very active threat today
+
+00:02:39.992 --> 00:02:43.321
+around the world. This is in the Indian Ocean.
+
+00:02:43.321 --> 00:02:47.112
+Piracy is also very active in the Strait of Malacca.
+
+00:02:47.112 --> 00:02:49.188
+It's active in the Gulf of Guinea.
+
+00:02:49.188 --> 00:02:50.945
+We see it in the Caribbean.
+
+00:02:50.945 --> 00:02:53.732
+It's a $10-billion-a-year discontinuity
+
+00:02:53.732 --> 00:02:57.298
+in the global transport system.
+
+00:02:57.298 --> 00:03:00.753
+Last year, at this time, there were 20 vessels,
+
+00:03:00.753 --> 00:03:03.340
+500 mariners held hostage.
+
+00:03:03.340 --> 00:03:06.963
+This is an attack on the global commons.
+
+00:03:06.963 --> 00:03:09.749
+We need to think about how to address it.
+
+00:03:09.749 --> 00:03:12.199
+Let's shift to a different kind of sea,
+
+00:03:12.199 --> 00:03:14.577
+the cyber sea.
+
+00:03:14.577 --> 00:03:17.814
+Here are photographs of two young men.
+
+00:03:17.814 --> 00:03:20.211
+At the moment, they're incarcerated.
+
+00:03:20.211 --> 00:03:25.690
+They conducted a credit card fraud that netted them
+
+00:03:25.690 --> 00:03:29.010
+over 10 billion dollars.
+
+00:03:29.010 --> 00:03:34.036
+This is part of cybercrime which is a $2-trillion-a-year
+
+00:03:34.036 --> 00:03:37.062
+discontinuity in the global economy.
+
+00:03:37.062 --> 00:03:38.408
+Two trillion a year.
+
+00:03:38.408 --> 00:03:41.870
+That's just under the GDP of Great Britain.
+
+00:03:41.870 --> 00:03:44.797
+So this cyber sea, which we know endlessly
+
+00:03:44.797 --> 00:03:48.793
+is the fundamental piece of radical openness,
+
+00:03:48.793 --> 00:03:53.323
+is very much under threat as well.
+
+00:03:53.323 --> 00:03:56.346
+Another thing I worry about in the global commons
+
+00:03:56.346 --> 00:03:59.106
+is the threat posed by trafficking,
+
+00:03:59.106 --> 00:04:03.640
+by the movement of narcotics, opium,
+
+00:04:03.640 --> 00:04:07.004
+here coming out of Afghanistan through Europe
+
+00:04:07.004 --> 00:04:08.414
+over to the United States.
+
+00:04:08.414 --> 00:04:10.571
+We worry about cocaine
+
+00:04:10.571 --> 00:04:12.956
+coming from the Andean Ridge north.
+
+00:04:12.956 --> 00:04:16.174
+We worry about the movement of illegal weapons
+
+00:04:16.174 --> 00:04:18.593
+and trafficking. Above all, perhaps,
+
+00:04:18.593 --> 00:04:22.564
+we worry about human trafficking, and the awful cost of it.
+
+00:04:22.564 --> 00:04:25.219
+Trafficking moves largely at sea
+
+00:04:25.219 --> 00:04:27.706
+but in other parts of the global commons.
+
+00:04:27.706 --> 00:04:32.319
+This is a photograph, and I wish I could tell you
+
+00:04:32.319 --> 00:04:37.191
+that this is a very high-tech piece of US Navy gear
+
+00:04:37.191 --> 00:04:39.880
+that we're using to stop the trafficking.
+
+00:04:39.880 --> 00:04:41.680
+The bad news is,
+
+00:04:41.680 --> 00:04:47.305
+this is a semi-submersible run by drug cartels.
+
+00:04:47.305 --> 00:04:51.478
+It was built in the jungles of South America.
+
+00:04:51.478 --> 00:04:56.340
+We caught it with that low-tech raft — (Laughter) —
+
+00:04:56.340 --> 00:05:00.222
+and it was carrying six tons of cocaine.
+
+00:05:00.222 --> 00:05:04.693
+Crew of four. Sophisticated communications sweep.
+
+00:05:04.693 --> 00:05:09.755
+This kind of trafficking, in narcotics, in humans, in weapons,
+
+00:05:09.755 --> 00:05:12.660
+God forbid, in weapons of mass destruction,
+
+00:05:12.660 --> 00:05:15.549
+is part of the threat to the global commons.
+
+00:05:15.549 --> 00:05:19.703
+And let's pull it together in Afghanistan today.
+
+00:05:19.703 --> 00:05:22.449
+This is a field of poppies in Afghanistan.
+
+00:05:22.449 --> 00:05:25.757
+Eighty to 90 percent of the world's poppy,
+
+00:05:25.757 --> 00:05:29.076
+opium and heroin, comes out of Afghanistan.
+
+00:05:29.076 --> 00:05:31.855
+We also see there, of course, terrorism.
+
+00:05:31.855 --> 00:05:34.157
+This is where al Qaeda is staged from.
+
+00:05:34.157 --> 00:05:38.763
+We also see a very strong insurgency embedded there.
+
+00:05:38.763 --> 00:05:42.543
+So this terrorism concern is also part
+
+00:05:42.543 --> 00:05:46.616
+of the global commons, and what we must address.
+
+00:05:46.616 --> 00:05:49.929
+So here we are, 21st century.
+
+00:05:49.929 --> 00:05:53.648
+We know our 20th-century tools are not going to work.
+
+00:05:53.648 --> 00:05:56.213
+What should we do?
+
+00:05:56.213 --> 00:06:00.978
+I would argue that we will not deliver security
+
+00:06:00.978 --> 00:06:03.431
+solely from the barrel of a gun.
+
+00:06:03.431 --> 00:06:07.594
+We will not deliver security solely from the barrel of a gun.
+
+00:06:07.594 --> 00:06:10.497
+We will need the application of military force.
+
+00:06:10.497 --> 00:06:13.591
+When we do it, we must do it well, and competently.
+
+00:06:13.591 --> 00:06:19.756
+But my thesis is, open-source security is about international,
+
+00:06:19.756 --> 00:06:24.291
+interagency, private-public connection pulled together
+
+00:06:24.291 --> 00:06:30.580
+by this idea of strategic communication on the Internet.
+
+00:06:30.580 --> 00:06:34.141
+Let me give you a couple of examples of how this works in a positive way.
+
+00:06:34.141 --> 00:06:38.612
+This is Afghanistan. These are Afghan soldiers.
+
+00:06:38.612 --> 00:06:40.930
+They are all holding books.
+
+00:06:40.930 --> 00:06:45.734
+You should say, "That's odd. I thought I read that
+
+00:06:45.734 --> 00:06:49.230
+this demographic, young men and women
+
+00:06:49.230 --> 00:06:54.199
+in their 20s and 30s, is largely illiterate in Afghanistan."
+
+00:06:54.199 --> 00:06:55.940
+You would be correct.
+
+00:06:55.940 --> 00:06:58.137
+Eighty-five percent cannot read
+
+00:06:58.137 --> 00:07:01.197
+when they enter the security forces of Afghanistan.
+
+00:07:01.197 --> 00:07:04.344
+Why? Because the Taliban withheld education
+
+00:07:04.344 --> 00:07:07.628
+during the period of time in which these men and women
+
+00:07:07.628 --> 00:07:09.019
+would have learned to read.
+
+00:07:09.019 --> 00:07:10.762
+So the question is, so,
+
+00:07:10.762 --> 00:07:14.103
+why are they all standing there holding books?
+
+00:07:14.103 --> 00:07:17.796
+The answer is, we are teaching them to read
+
+00:07:17.796 --> 00:07:21.164
+in literacy courses by NATO
+
+00:07:21.164 --> 00:07:24.659
+in partnership with private sector entities,
+
+00:07:24.659 --> 00:07:28.046
+in partnership with development agencies.
+
+00:07:28.046 --> 00:07:32.507
+We've taught well over 200,000 Afghan Security Forces
+
+00:07:32.507 --> 00:07:35.055
+to read and write at a basic level.
+
+00:07:35.055 --> 00:07:37.838
+When you can read and write in Afghanistan,
+
+00:07:37.838 --> 00:07:40.977
+you will typically put a pen in your pocket.
+
+00:07:40.977 --> 00:07:43.565
+At the ceremonies, when these young men and women
+
+00:07:43.565 --> 00:07:47.109
+graduate, they take that pen with great pride,
+
+00:07:47.109 --> 00:07:49.209
+and put it in their pocket.
+
+00:07:49.209 --> 00:07:52.151
+This is bringing together international
+
+00:07:52.151 --> 00:07:54.997
+— there are 50 nations involved in this mission —
+
+00:07:54.997 --> 00:07:57.843
+interagency — these development agencies —
+
+00:07:57.843 --> 00:08:01.933
+and private-public, to take on this kind of security.
+
+00:08:01.933 --> 00:08:05.567
+Now, we are also teaching them combat skills, of course,
+
+00:08:05.567 --> 00:08:08.335
+but I would argue, open-source security
+
+00:08:08.335 --> 00:08:11.019
+means connecting in ways that create
+
+00:08:11.019 --> 00:08:13.871
+longer lasting security effect.
+
+00:08:13.871 --> 00:08:16.171
+Here's another example.
+
+00:08:16.171 --> 00:08:19.610
+This is a US Navy warship.
+
+00:08:19.610 --> 00:08:21.529
+It's called the Comfort.
+
+00:08:21.529 --> 00:08:24.266
+There's a sister ship called the Mercy.
+
+00:08:24.266 --> 00:08:26.401
+They are hospital ships.
+
+00:08:26.401 --> 00:08:28.483
+This one, the Comfort, operates throughout
+
+00:08:28.483 --> 00:08:32.094
+the Caribbean and the coast of South America
+
+00:08:32.094 --> 00:08:34.082
+conducting patient treatments.
+
+00:08:34.082 --> 00:08:38.823
+On a typical cruise, they'll do 400,000 patient treatments.
+
+00:08:38.823 --> 00:08:42.614
+It is crewed not strictly by military
+
+00:08:42.614 --> 00:08:46.518
+but by a combination of humanitarian organizations:
+
+00:08:46.518 --> 00:08:49.786
+Operation Hope, Project Smile.
+
+00:08:49.786 --> 00:08:53.372
+Other organizations send volunteers.
+
+00:08:53.372 --> 00:08:55.627
+Interagency physicians come out.
+
+00:08:55.627 --> 00:08:57.756
+They're all part of this.
+
+00:08:57.756 --> 00:09:00.661
+To give you one example of the impact this can have,
+
+00:09:00.661 --> 00:09:03.890
+this little boy, eight years old,
+
+00:09:03.890 --> 00:09:07.109
+walked with his mother two days
+
+00:09:07.109 --> 00:09:10.201
+to come to the eye clinic put on by the Comfort.
+
+00:09:10.201 --> 00:09:15.569
+When he was fitted, over his extremely myopic eyes,
+
+00:09:15.569 --> 00:09:18.715
+he suddenly looked up and said,
+
+00:09:18.715 --> 00:09:21.953
+"Mama, veo el mundo."
+
+00:09:21.953 --> 00:09:24.841
+"Mom, I see the world."
+
+00:09:24.841 --> 00:09:28.299
+Multiply this by 400,000 patient treatments,
+
+00:09:28.299 --> 00:09:32.968
+this private-public collaboration with security forces,
+
+00:09:32.968 --> 00:09:35.037
+and you begin to see the power
+
+00:09:35.037 --> 00:09:38.833
+of creating security in a very different way.
+
+00:09:38.833 --> 00:09:43.130
+Here you see baseball players.
+
+00:09:43.130 --> 00:09:46.950
+Can you pick out the two US Army soldiers
+
+00:09:46.950 --> 00:09:48.907
+in this photograph?
+
+00:09:48.907 --> 00:09:51.102
+They are the two young men on either side
+
+00:09:51.102 --> 00:09:54.117
+of these young boys. This is part of a series
+
+00:09:54.117 --> 00:09:57.960
+of baseball clinics, where we have explored collaboration
+
+00:09:57.960 --> 00:10:00.068
+between Major League Baseball,
+
+00:10:00.068 --> 00:10:01.424
+the Department of State,
+
+00:10:01.424 --> 00:10:03.815
+who sets up the diplomatic piece of this,
+
+00:10:03.815 --> 00:10:08.040
+military baseball players, who are real soldiers
+
+00:10:08.040 --> 00:10:12.073
+with real skills but participate in this mission,
+
+00:10:12.073 --> 00:10:13.975
+and they put on clinics
+
+00:10:13.975 --> 00:10:16.061
+throughout Latin America and the Caribbean,
+
+00:10:16.061 --> 00:10:19.421
+in Honduras, in Nicaragua,
+
+00:10:19.421 --> 00:10:24.123
+in all of the Central American and Caribbean nations
+
+00:10:24.123 --> 00:10:25.913
+where baseball is so popular,
+
+00:10:25.913 --> 00:10:28.169
+and it creates security.
+
+00:10:28.169 --> 00:10:30.627
+It shows role models to young men and women
+
+00:10:30.627 --> 00:10:34.227
+about fitness and about life that I would argue
+
+00:10:34.227 --> 00:10:38.392
+help create security for us.
+
+00:10:38.392 --> 00:10:40.989
+Another aspect of this partnership
+
+00:10:40.989 --> 00:10:42.940
+is in disaster relief.
+
+00:10:42.940 --> 00:10:46.687
+This is a US Air Force helicopter participating
+
+00:10:46.687 --> 00:10:53.641
+after the tsunami in 2004 which killed 250,000 people.
+
+00:10:53.641 --> 00:10:58.152
+In each of these major disasters — the tsunami in 2004,
+
+00:10:58.152 --> 00:11:05.026
+250,000 dead, the Kashmiri earthquake in Pakistan, 2005,
+
+00:11:05.026 --> 00:11:07.052
+85,000 dead,
+
+00:11:07.052 --> 00:11:11.721
+the Haitian earthquake, about 300,000 dead,
+
+00:11:11.721 --> 00:11:16.612
+more recently the awful earthquake-tsunami combination
+
+00:11:16.612 --> 00:11:19.976
+which struck Japan and its nuclear industry —
+
+00:11:19.976 --> 00:11:23.063
+in all of these instances, we see partnerships
+
+00:11:23.063 --> 00:11:26.385
+between international actors,
+
+00:11:26.385 --> 00:11:30.293
+interagency, private-public working with security forces
+
+00:11:30.293 --> 00:11:34.119
+to respond to this kind of natural disaster.
+
+00:11:34.119 --> 00:11:38.471
+So these are examples of this idea of open-source security.
+
+00:11:38.471 --> 00:11:43.142
+We tie it together, increasingly, by doing things like this.
+
+00:11:43.142 --> 00:11:46.053
+Now, you're looking at this thinking, "Ah, Admiral,
+
+00:11:46.053 --> 00:11:49.239
+these must be sea lanes of communication,
+
+00:11:49.239 --> 00:11:52.039
+or these might be fiber optic cables."
+
+00:11:52.039 --> 00:11:57.231
+No. This is a graphic of the world according to Twitter.
+
+00:11:57.231 --> 00:12:03.799
+Purple are tweets. Green are geolocation.
+
+00:12:03.799 --> 00:12:05.845
+White is the synthesis.
+
+00:12:05.845 --> 00:12:09.930
+It's a perfect evocation of that great population survey,
+
+00:12:09.930 --> 00:12:13.677
+the six largest nations in the world in descending order:
+
+00:12:13.677 --> 00:12:16.355
+China, India, Facebook, the United States,
+
+00:12:16.355 --> 00:12:20.677
+Twitter and Indonesia. (Laughter)
+
+00:12:20.677 --> 00:12:22.440
+Why do we want to get in these nets?
+
+00:12:22.440 --> 00:12:24.250
+Why do we want to be involved?
+
+00:12:24.250 --> 00:12:26.106
+We talked earlier about the Arab Spring,
+
+00:12:26.106 --> 00:12:27.507
+and the power of all this.
+
+00:12:27.507 --> 00:12:28.850
+I'll give you another example,
+
+00:12:28.850 --> 00:12:31.103
+and it's how you move this message.
+
+00:12:31.103 --> 00:12:33.436
+I gave a talk like this in London a while back
+
+00:12:33.436 --> 00:12:36.824
+about this point. I said, as I say to all of you,
+
+00:12:36.824 --> 00:12:38.970
+I'm on Facebook. Friend me.
+
+00:12:38.970 --> 00:12:41.097
+Got a little laugh from the audience.
+
+00:12:41.097 --> 00:12:46.328
+There was an article which was run by AP, on the wire.
+
+00:12:46.328 --> 00:12:48.844
+Got picked up in two places in the world:
+
+00:12:48.844 --> 00:12:51.192
+Finland and Indonesia.
+
+00:12:51.192 --> 00:12:55.082
+The headline was: NATO Admiral Needs Friends.
+
+00:12:55.082 --> 00:12:56.565
+(Laughter)
+
+00:12:56.565 --> 00:12:59.109
+Thank you. (Applause)
+
+00:12:59.109 --> 00:13:01.663
+Which I do. (Laughter)
+
+00:13:01.663 --> 00:13:04.220
+And the story was a catalyst,
+
+00:13:04.220 --> 00:13:06.939
+and the next morning I had hundreds
+
+00:13:06.939 --> 00:13:08.574
+of Facebook friend requests
+
+00:13:08.574 --> 00:13:11.091
+from Indonesians and Finns,
+
+00:13:11.091 --> 00:13:14.073
+mostly saying, "Admiral, we heard you need a friend,
+
+00:13:14.073 --> 00:13:17.675
+and oh, by the way, what is NATO?" (Laughter)
+
+00:13:17.675 --> 00:13:19.727
+So ... (Laughter)
+
+00:13:19.727 --> 00:13:23.813
+Yeah, we laugh, but this is how we move the message,
+
+00:13:23.813 --> 00:13:26.548
+and moving that message is how we connect
+
+00:13:26.548 --> 00:13:28.999
+international, interagency, private-public,
+
+00:13:28.999 --> 00:13:32.869
+and these social nets to help create security.
+
+00:13:32.869 --> 00:13:36.302
+Now, let me hit a somber note.
+
+00:13:36.302 --> 00:13:40.060
+This is a photograph of a brave British soldier.
+
+00:13:40.060 --> 00:13:42.266
+He's in the Scots Guards.
+
+00:13:42.266 --> 00:13:44.012
+He's standing the watch in Helmand,
+
+00:13:44.012 --> 00:13:46.276
+in southern Afghanistan.
+
+00:13:46.276 --> 00:13:48.932
+I put him here to remind us,
+
+00:13:48.932 --> 00:13:52.259
+I would not want anyone to leave the room thinking
+
+00:13:52.259 --> 00:13:56.472
+that we do not need capable, competent militaries
+
+00:13:56.472 --> 00:13:59.707
+who can create real military effect.
+
+00:13:59.707 --> 00:14:02.802
+That is the core of who we are and what we do,
+
+00:14:02.802 --> 00:14:06.858
+and we do it to protect freedom, freedom of speech,
+
+00:14:06.858 --> 00:14:09.823
+all the things we treasure in our societies.
+
+00:14:09.823 --> 00:14:14.082
+But, you know, life is not an on-and-off switch.
+
+00:14:14.082 --> 00:14:16.471
+You don't have to have a military that is either
+
+00:14:16.471 --> 00:14:20.274
+in hard combat or is in the barracks.
+
+00:14:20.274 --> 00:14:25.057
+I would argue life is a rheostat.
+
+00:14:25.057 --> 00:14:27.586
+You have to dial it in,
+
+00:14:27.586 --> 00:14:30.855
+and as I think about how we create security
+
+00:14:30.855 --> 00:14:33.507
+in this 21st century, there will be times
+
+00:14:33.507 --> 00:14:38.636
+when we will apply hard power in true war and crisis,
+
+00:14:38.636 --> 00:14:40.557
+but there will be many instances,
+
+00:14:40.557 --> 00:14:42.315
+as we've talked about today,
+
+00:14:42.315 --> 00:14:45.507
+where our militaries can be part of creating
+
+00:14:45.507 --> 00:14:49.561
+21st-century security, international,
+
+00:14:49.561 --> 00:14:51.969
+interagency, private-public,
+
+00:14:51.969 --> 00:14:56.525
+connected with competent communication.
+
+00:14:56.525 --> 00:15:01.012
+I would close by saying that we heard earlier today
+
+00:15:01.012 --> 00:15:04.975
+about Wikipedia. I use Wikipedia all the time
+
+00:15:04.975 --> 00:15:08.136
+to look up facts, and as all of you appreciate,
+
+00:15:08.136 --> 00:15:12.289
+Wikipedia is not created by 12 brilliant people
+
+00:15:12.289 --> 00:15:14.764
+locked in a room writing articles.
+
+00:15:14.764 --> 00:15:18.477
+Wikipedia, every day, is tens of thousands of people
+
+00:15:18.477 --> 00:15:23.277
+inputting information, and every day millions of people
+
+00:15:23.277 --> 00:15:25.140
+withdrawing that information.
+
+00:15:25.140 --> 00:15:28.760
+It's a perfect image for the fundamental point
+
+00:15:28.760 --> 00:15:33.382
+that no one of us is as smart as all of us thinking together.
+
+00:15:33.382 --> 00:15:37.042
+No one person, no one alliance, no one nation,
+
+00:15:37.042 --> 00:15:41.823
+no one of us is as smart as all of us thinking together.
+
+00:15:41.823 --> 00:15:46.505
+The vision statement of Wikipedia is very simple:
+
+00:15:46.505 --> 00:15:49.619
+a world in which every human being can freely share
+
+00:15:49.619 --> 00:15:51.252
+in the sum of all knowledge.
+
+00:15:51.252 --> 00:15:55.730
+My thesis for you is that by combining international,
+
+00:15:55.730 --> 00:15:59.900
+interagency, private-public, strategic communication,
+
+00:15:59.900 --> 00:16:03.365
+together, in this 21st century,
+
+00:16:03.365 --> 00:16:06.632
+we can create the sum of all security.
+
+00:16:06.632 --> 00:16:09.089
+Thank you. (Applause)
+
+00:16:09.089 --> 00:16:13.315
+Thank you very much. Thank you. Thank you. (Applause)
+

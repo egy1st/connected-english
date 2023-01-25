@@ -1,0 +1,785 @@
+WEBVTT
+
+00:00:12.910 --> 00:00:15.885
+Let's imagine a sculptor
+building a statue,
+
+00:00:15.910 --> 00:00:18.286
+just chipping away with his chisel.
+
+00:00:18.310 --> 00:00:21.366
+Michelangelo had this elegant way
+of describing it when he said,
+
+00:00:21.390 --> 00:00:24.286
+"Every block of stone
+has a statue inside of it,
+
+00:00:24.310 --> 00:00:27.406
+and it's the task
+of the sculptor to discover it."
+
+00:00:27.430 --> 00:00:29.846
+But what if he worked
+in the opposite direction?
+
+00:00:29.870 --> 00:00:31.726
+Not from a solid block of stone,
+
+00:00:31.750 --> 00:00:33.446
+but from a pile of dust,
+
+00:00:33.470 --> 00:00:37.846
+somehow gluing millions of these particles
+together to form a statue.
+
+00:00:37.870 --> 00:00:39.366
+I know that's an absurd notion.
+
+00:00:39.390 --> 00:00:41.126
+It's probably impossible.
+
+00:00:41.150 --> 00:00:44.086
+The only way you get
+a statue from a pile of dust
+
+00:00:44.110 --> 00:00:46.446
+is if the statue built itself --
+
+00:00:46.470 --> 00:00:50.606
+if somehow we could compel millions
+of these particles to come together
+
+00:00:50.630 --> 00:00:51.910
+to form the statue.
+
+00:00:52.470 --> 00:00:54.006
+Now, as odd as that sounds,
+
+00:00:54.030 --> 00:00:58.166
+that is almost exactly the problem
+I work on in my lab.
+
+00:00:58.190 --> 00:00:59.606
+I don't build with stone,
+
+00:00:59.630 --> 00:01:01.006
+I build with nanomaterials.
+
+00:01:01.030 --> 00:01:05.406
+They're these just impossibly small,
+fascinating little objects.
+
+00:01:05.430 --> 00:01:08.726
+They're so small that if this controller
+was a nanoparticle,
+
+00:01:08.750 --> 00:01:11.686
+a human hair would be the size
+of this entire room.
+
+00:01:11.710 --> 00:01:14.526
+And they're at the heart of a field
+we call nanotechnology,
+
+00:01:14.550 --> 00:01:16.365
+which I'm sure we've all heard about,
+
+00:01:16.389 --> 00:01:19.846
+and we've all heard
+how it is going to change everything.
+
+00:01:19.870 --> 00:01:21.366
+When I was a graduate student,
+
+00:01:21.390 --> 00:01:24.726
+it was one of the most exciting times
+to be working in nanotechnology.
+
+00:01:24.750 --> 00:01:27.966
+There were scientific breakthroughs
+happening all the time.
+
+00:01:27.990 --> 00:01:29.406
+The conferences were buzzing,
+
+00:01:29.430 --> 00:01:32.110
+there was tons of money
+pouring in from funding agencies.
+
+00:01:32.910 --> 00:01:34.166
+And the reason is
+
+00:01:34.190 --> 00:01:36.006
+when objects get really small,
+
+00:01:36.030 --> 00:01:39.646
+they're governed by a different set
+of physics that govern ordinary objects,
+
+00:01:39.670 --> 00:01:41.166
+like the ones we interact with.
+
+00:01:41.190 --> 00:01:43.126
+We call this physics quantum mechanics.
+
+00:01:43.150 --> 00:01:46.326
+And what it tells you is
+that you can precisely tune their behavior
+
+00:01:46.350 --> 00:01:48.646
+just by making seemingly
+small changes to them,
+
+00:01:48.670 --> 00:01:51.286
+like adding or removing
+a handful of atoms,
+
+00:01:51.310 --> 00:01:53.006
+or twisting the material.
+
+00:01:53.030 --> 00:01:54.806
+It's like this ultimate toolkit.
+
+00:01:54.830 --> 00:01:57.926
+You really felt empowered;
+you felt like you could make anything.
+
+00:01:57.950 --> 00:01:59.206
+And we were doing it --
+
+00:01:59.230 --> 00:02:02.326
+and by we I mean my whole
+generation of graduate students.
+
+00:02:02.350 --> 00:02:05.846
+We were trying to make blazing fast
+computers using nanomaterials.
+
+00:02:05.870 --> 00:02:07.486
+We were constructing quantum dots
+
+00:02:07.510 --> 00:02:10.886
+that could one day go in your body
+and find and fight disease.
+
+00:02:10.910 --> 00:02:13.926
+There were even groups
+trying to make an elevator to space
+
+00:02:13.950 --> 00:02:15.190
+using carbon nanotubes.
+
+00:02:15.750 --> 00:02:18.150
+You can look that up, that's true.
+
+00:02:18.926 --> 00:02:20.926
+Anyways, we thought it was going to affect
+
+00:02:20.950 --> 00:02:24.046
+all parts of science and technology,
+from computing to medicine.
+
+00:02:24.070 --> 00:02:25.326
+And I have to admit,
+
+00:02:25.350 --> 00:02:27.326
+I drank all of the Kool-Aid.
+
+00:02:27.350 --> 00:02:29.990
+I mean, every last drop.
+
+00:02:30.670 --> 00:02:32.470
+But that was 15 years ago,
+
+00:02:33.310 --> 00:02:34.526
+and --
+
+00:02:34.550 --> 00:02:36.926
+fantastic science was done,
+really important work.
+
+00:02:36.950 --> 00:02:38.206
+We've learned a lot.
+
+00:02:38.230 --> 00:02:42.606
+We were never able to translate
+that science into new technologies --
+
+00:02:42.630 --> 00:02:45.406
+into technologies
+that could actually impact people.
+
+00:02:45.430 --> 00:02:47.646
+And the reason is, these nanomaterials --
+
+00:02:47.670 --> 00:02:49.326
+they're like a double-edged sword.
+
+00:02:49.350 --> 00:02:51.606
+The same thing that makes
+them so interesting --
+
+00:02:51.630 --> 00:02:52.926
+their small size --
+
+00:02:52.950 --> 00:02:55.246
+also makes them impossible to work with.
+
+00:02:55.270 --> 00:02:59.006
+It's literally like trying to build
+a statue out of a pile of dust.
+
+00:02:59.030 --> 00:03:02.726
+And we just don't have the tools
+that are small enough to work with them.
+
+00:03:02.750 --> 00:03:05.046
+But even if we did,
+it wouldn't really matter,
+
+00:03:05.070 --> 00:03:08.966
+because we couldn't one by one
+place millions of particles together
+
+00:03:08.990 --> 00:03:10.350
+to build a technology.
+
+00:03:10.910 --> 00:03:12.126
+So because of that,
+
+00:03:12.150 --> 00:03:14.246
+all of the promise
+and all of the excitement
+
+00:03:14.270 --> 00:03:17.046
+has remained just that:
+promise and excitement.
+
+00:03:17.070 --> 00:03:19.446
+We don't have any
+disease-fighting nanobots,
+
+00:03:19.470 --> 00:03:21.526
+there's no elevators to space,
+
+00:03:21.550 --> 00:03:25.246
+and the thing that I'm most interested in,
+no new types of computing.
+
+00:03:25.270 --> 00:03:27.806
+Now that last one,
+that's a really important one.
+
+00:03:27.830 --> 00:03:29.166
+We just have come to expect
+
+00:03:29.190 --> 00:03:32.966
+the pace of computing advancements
+to go on indefinitely.
+
+00:03:32.990 --> 00:03:35.566
+We've built entire economies on this idea.
+
+00:03:35.590 --> 00:03:37.326
+And this pace exists
+
+00:03:37.350 --> 00:03:39.806
+because of our ability
+to pack more and more devices
+
+00:03:39.830 --> 00:03:41.526
+onto a computer chip.
+
+00:03:41.550 --> 00:03:43.366
+And as those devices get smaller,
+
+00:03:43.390 --> 00:03:45.646
+they get faster, they consume less power
+
+00:03:45.670 --> 00:03:47.086
+and they get cheaper.
+
+00:03:47.110 --> 00:03:51.686
+And it's this convergence
+that gives us this incredible pace.
+
+00:03:51.710 --> 00:03:52.926
+As an example:
+
+00:03:52.950 --> 00:03:58.366
+if I took the room-sized computer
+that sent three men to the moon and back
+
+00:03:58.390 --> 00:04:00.526
+and somehow compressed it --
+
+00:04:00.550 --> 00:04:03.806
+compressed the world's
+greatest computer of its day,
+
+00:04:03.830 --> 00:04:06.406
+so it was the same size
+as your smartphone --
+
+00:04:06.430 --> 00:04:07.686
+your actual smartphone,
+
+00:04:07.710 --> 00:04:11.086
+that thing you spent 300 bucks on
+and just toss out every two years,
+
+00:04:11.110 --> 00:04:13.566
+would blow this thing away.
+
+00:04:13.590 --> 00:04:14.926
+You would not be impressed.
+
+00:04:14.950 --> 00:04:17.446
+It couldn't do anything
+that your smartphone does.
+
+00:04:17.470 --> 00:04:18.966
+It would be slow,
+
+00:04:18.990 --> 00:04:21.166
+you couldn't put any of your stuff on it,
+
+00:04:21.190 --> 00:04:23.646
+you could possibly
+get through the first two minutes
+
+00:04:23.670 --> 00:04:25.846
+of a "Walking Dead" episode
+if you're lucky --
+
+00:04:25.870 --> 00:04:26.886
+(Laughter)
+
+00:04:26.910 --> 00:04:29.085
+The point is the progress --
+it's not gradual.
+
+00:04:29.109 --> 00:04:30.806
+The progress is relentless.
+
+00:04:30.830 --> 00:04:32.085
+It's exponential.
+
+00:04:32.109 --> 00:04:34.446
+It compounds on itself year after year,
+
+00:04:34.470 --> 00:04:36.646
+to the point where
+if you compare a technology
+
+00:04:36.670 --> 00:04:38.366
+from one generation to the next,
+
+00:04:38.390 --> 00:04:40.366
+they're almost unrecognizable.
+
+00:04:40.390 --> 00:04:43.006
+And we owe it to ourselves
+to keep this progress going.
+
+00:04:43.030 --> 00:04:46.646
+We want to say the same thing
+10, 20, 30 years from now:
+
+00:04:46.670 --> 00:04:48.750
+look what we've done
+over the last 30 years.
+
+00:04:49.350 --> 00:04:52.086
+Yet we know this progress
+may not last forever.
+
+00:04:52.110 --> 00:04:54.166
+In fact, the party's kind of winding down.
+
+00:04:54.190 --> 00:04:56.526
+It's like "last call for alcohol," right?
+
+00:04:56.550 --> 00:04:58.206
+If you look under the covers,
+
+00:04:58.230 --> 00:05:00.806
+by many metrics
+like speed and performance,
+
+00:05:00.830 --> 00:05:03.350
+the progress has already slowed to a halt.
+
+00:05:03.910 --> 00:05:06.046
+So if we want to keep this party going,
+
+00:05:06.070 --> 00:05:08.326
+we have to do what we've
+always been able to do,
+
+00:05:08.350 --> 00:05:09.806
+and that is to innovate.
+
+00:05:09.830 --> 00:05:12.406
+So our group's role
+and our group's mission
+
+00:05:12.430 --> 00:05:14.846
+is to innovate
+by employing carbon nanotubes,
+
+00:05:14.870 --> 00:05:18.926
+because we think that they can
+provide a path to continue this pace.
+
+00:05:18.950 --> 00:05:20.406
+They are just like they sound.
+
+00:05:20.430 --> 00:05:22.886
+They're tiny, hollow tubes
+of carbon atoms,
+
+00:05:22.910 --> 00:05:25.846
+and their nanoscale size,
+that small size,
+
+00:05:25.870 --> 00:05:29.526
+gives rise to these
+just outstanding electronic properties.
+
+00:05:29.550 --> 00:05:33.206
+And the science tells us
+if we could employ them in computing,
+
+00:05:33.230 --> 00:05:35.966
+we could see up to a ten times
+improvement in performance.
+
+00:05:35.990 --> 00:05:40.390
+It's like skipping through several
+technology generations in just one step.
+
+00:05:40.990 --> 00:05:42.246
+So there we have it.
+
+00:05:42.270 --> 00:05:44.286
+We have this really important problem
+
+00:05:44.310 --> 00:05:46.686
+and we have what is basically
+the ideal solution.
+
+00:05:46.710 --> 00:05:48.366
+The science is screaming at us,
+
+00:05:48.390 --> 00:05:51.230
+"This is what you should be doing
+to solve your problem."
+
+00:05:53.630 --> 00:05:55.246
+So, all right, let's get started,
+
+00:05:55.270 --> 00:05:56.526
+let's do this.
+
+00:05:56.550 --> 00:05:59.246
+But you just run right back
+into that double-edged sword.
+
+00:05:59.270 --> 00:06:02.846
+This "ideal solution" contains a material
+that's impossible to work with.
+
+00:06:02.870 --> 00:06:07.166
+I'd have to arrange billions of them
+just to make one single computer chip.
+
+00:06:07.190 --> 00:06:10.790
+It's that same conundrum,
+it's like this undying problem.
+
+00:06:11.510 --> 00:06:13.486
+At this point, we said, "Let's just stop.
+
+00:06:13.510 --> 00:06:15.446
+Let's not go down that same road.
+
+00:06:15.470 --> 00:06:18.006
+Let's just figure out what's missing.
+
+00:06:18.030 --> 00:06:19.446
+What are we not dealing with?
+
+00:06:19.470 --> 00:06:21.606
+What are we not doing
+that needs to be done?"
+
+00:06:21.630 --> 00:06:23.406
+It's like in "The Godfather," right?
+
+00:06:23.430 --> 00:06:25.726
+When Fredo betrays his brother Michael,
+
+00:06:25.750 --> 00:06:27.406
+we all know what needs to be done.
+
+00:06:27.430 --> 00:06:28.766
+Fredo's got to go.
+
+00:06:28.790 --> 00:06:29.806
+(Laughter)
+
+00:06:29.830 --> 00:06:31.766
+But Michael -- he puts it off.
+
+00:06:31.790 --> 00:06:33.006
+Fine, I get it.
+
+00:06:33.030 --> 00:06:35.486
+Their mother's still alive,
+it would make her upset.
+
+00:06:35.510 --> 00:06:36.926
+We just said,
+
+00:06:36.950 --> 00:06:39.246
+"What's the Fredo in our problem?"
+
+00:06:39.270 --> 00:06:40.686
+What are we not dealing with?
+
+00:06:40.710 --> 00:06:42.246
+What are we not doing,
+
+00:06:42.270 --> 00:06:44.790
+but needs to be done
+to make this a success?"
+
+00:06:45.350 --> 00:06:49.406
+And the answer is
+that the statue has to build itself.
+
+00:06:49.430 --> 00:06:51.366
+We have to find a way, somehow,
+
+00:06:51.390 --> 00:06:55.486
+to compel, to convince
+billions of these particles
+
+00:06:55.510 --> 00:06:58.486
+to assemble themselves
+into the technology.
+
+00:06:58.510 --> 00:07:01.686
+We can't do it for them.
+They have to do it for themselves.
+
+00:07:01.710 --> 00:07:04.846
+And it's the hard way,
+and this is not trivial,
+
+00:07:04.870 --> 00:07:07.726
+but in this case, it's the only way.
+
+00:07:07.750 --> 00:07:11.646
+Now, as it turns out,
+this is not that alien of a problem.
+
+00:07:11.670 --> 00:07:13.526
+We just don't build anything this way.
+
+00:07:13.550 --> 00:07:15.566
+People don't build anything this way.
+
+00:07:15.590 --> 00:07:18.766
+But if you look around --
+and there's examples everywhere --
+
+00:07:18.790 --> 00:07:21.686
+Mother Nature builds everything this way.
+
+00:07:21.710 --> 00:07:24.366
+Everything is built from the bottom up.
+
+00:07:24.390 --> 00:07:25.646
+You can go to the beach,
+
+00:07:25.670 --> 00:07:28.846
+you'll find these simple organisms
+that use proteins --
+
+00:07:28.870 --> 00:07:30.126
+basically molecules --
+
+00:07:30.150 --> 00:07:32.206
+to template what is essentially sand,
+
+00:07:32.230 --> 00:07:33.646
+just plucking it from the sea
+
+00:07:33.670 --> 00:07:37.046
+and building these extraordinary
+architectures with extreme diversity.
+
+00:07:37.070 --> 00:07:39.686
+And nature's not crude like us,
+just hacking away.
+
+00:07:39.710 --> 00:07:41.406
+She's elegant and smart,
+
+00:07:41.430 --> 00:07:44.166
+building with what's available,
+molecule by molecule,
+
+00:07:44.190 --> 00:07:46.326
+making structures with a complexity
+
+00:07:46.350 --> 00:07:48.630
+and a diversity
+that we can't even approach.
+
+00:07:49.470 --> 00:07:51.166
+And she's already at the nano.
+
+00:07:51.190 --> 00:07:53.686
+She's been there
+for hundreds of millions of years.
+
+00:07:53.710 --> 00:07:55.750
+We're the ones that are late to the party.
+
+00:07:56.270 --> 00:08:00.446
+So we decided that we're going
+to use the same tool that nature uses,
+
+00:08:00.470 --> 00:08:01.710
+and that's chemistry.
+
+00:08:02.150 --> 00:08:03.606
+Chemistry is the missing tool.
+
+00:08:03.630 --> 00:08:05.686
+And chemistry works in this case
+
+00:08:05.710 --> 00:08:09.526
+because these nanoscale objects
+are about the same size as molecules,
+
+00:08:09.550 --> 00:08:12.166
+so we can use them
+to steer these objects around,
+
+00:08:12.190 --> 00:08:13.390
+much like a tool.
+
+00:08:13.910 --> 00:08:15.966
+That's exactly what we've done in our lab.
+
+00:08:15.990 --> 00:08:19.166
+We've developed chemistry
+that goes into the pile of dust,
+
+00:08:19.190 --> 00:08:20.686
+into the pile of nanoparticles,
+
+00:08:20.710 --> 00:08:23.086
+and pulls out exactly the ones we need.
+
+00:08:23.110 --> 00:08:26.726
+Then we can use chemistry to arrange
+literally billions of these particles
+
+00:08:26.750 --> 00:08:29.606
+into the pattern
+we need to build circuits.
+
+00:08:29.630 --> 00:08:30.966
+And because we can do that,
+
+00:08:30.990 --> 00:08:33.366
+we can build circuits
+that are many times faster
+
+00:08:33.390 --> 00:08:36.606
+than what anyone's been able
+to make using nanomaterials before.
+
+00:08:36.630 --> 00:08:38.046
+Chemistry's the missing tool,
+
+00:08:38.070 --> 00:08:41.686
+and every day our tool gets sharper
+and gets more precise.
+
+00:08:41.710 --> 00:08:42.926
+And eventually --
+
+00:08:42.950 --> 00:08:45.566
+and we hope this is
+within a handful of years --
+
+00:08:45.590 --> 00:08:48.966
+we can deliver on one
+of those original promises.
+
+00:08:48.990 --> 00:08:51.045
+Now, computing is just one example.
+
+00:08:51.069 --> 00:08:54.606
+It's the one that I'm interested in,
+that my group is really invested in,
+
+00:08:54.630 --> 00:08:58.446
+but there are others
+in renewable energy, in medicine,
+
+00:08:58.470 --> 00:09:00.206
+in structural materials,
+
+00:09:00.230 --> 00:09:03.286
+where the science is going to tell you
+to move towards the nano.
+
+00:09:03.310 --> 00:09:05.430
+That's where the biggest benefit is.
+
+00:09:06.070 --> 00:09:07.526
+But if we're going to do that,
+
+00:09:07.550 --> 00:09:10.726
+the scientists of today and tomorrow
+are going to need new tools --
+
+00:09:10.750 --> 00:09:12.886
+tools just like the ones I described.
+
+00:09:12.910 --> 00:09:16.766
+And they will need chemistry.
+That's the point.
+
+00:09:16.790 --> 00:09:20.446
+The beauty of science is that
+once you develop these new tools,
+
+00:09:20.470 --> 00:09:21.726
+they're out there.
+
+00:09:21.750 --> 00:09:23.006
+They're out there forever,
+
+00:09:23.030 --> 00:09:25.886
+and anyone anywhere
+can pick them up and use them,
+
+00:09:25.910 --> 00:09:28.870
+and help to deliver
+on the promise of nanotechnology.
+
+00:09:29.470 --> 00:09:32.166
+Thank you so much for your time.
+I appreciate it.
+
+00:09:32.190 --> 00:09:34.630
+(Applause)

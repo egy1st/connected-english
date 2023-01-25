@@ -1,0 +1,1040 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.000
+We're 25, 26 years after
+
+00:00:02.000 --> 00:00:04.000
+the advent of the Macintosh,
+
+00:00:04.000 --> 00:00:06.000
+which was an astoundingly seminal event
+
+00:00:06.000 --> 00:00:08.000
+in the history
+
+00:00:08.000 --> 00:00:10.000
+of human-machine interface
+
+00:00:10.000 --> 00:00:12.000
+and in computation in general.
+
+00:00:12.000 --> 00:00:14.000
+It fundamentally changed the way
+
+00:00:14.000 --> 00:00:16.000
+that people thought about computation,
+
+00:00:16.000 --> 00:00:18.000
+thought about computers,
+
+00:00:18.000 --> 00:00:21.000
+how they used them and who and how many people were able to use them.
+
+00:00:21.000 --> 00:00:23.000
+It was such a radical change, in fact,
+
+00:00:23.000 --> 00:00:25.000
+that the early Macintosh development team
+
+00:00:25.000 --> 00:00:27.000
+in '82, '83, '84
+
+00:00:27.000 --> 00:00:30.000
+had to write an entirely new operating system from the ground up.
+
+00:00:30.000 --> 00:00:32.000
+Now, this is an interesting little message,
+
+00:00:32.000 --> 00:00:34.000
+and it's a lesson that has since, I think,
+
+00:00:34.000 --> 00:00:36.000
+been forgotten or lost or something,
+
+00:00:36.000 --> 00:00:39.000
+and that is, namely, that the OS is the interface.
+
+00:00:39.000 --> 00:00:41.000
+The interface is the OS.
+
+00:00:41.000 --> 00:00:44.000
+It's like the land and the king (i.e. Arthur) they're inseparable, they are one.
+
+00:00:44.000 --> 00:00:47.000
+And to write a new operating system was not a capricious matter.
+
+00:00:47.000 --> 00:00:50.000
+It wasn't just a matter of tuning up some graphics routines.
+
+00:00:50.000 --> 00:00:53.000
+There were no graphics routines. There were no mouse drivers.
+
+00:00:53.000 --> 00:00:55.000
+So it was a necessity.
+
+00:00:55.000 --> 00:00:57.000
+But in the quarter-century since then,
+
+00:00:57.000 --> 00:00:59.000
+we've seen all of the fundamental
+
+00:00:59.000 --> 00:01:01.000
+supporting technologies go berserk.
+
+00:01:01.000 --> 00:01:04.000
+So memory capacity and disk capacity
+
+00:01:04.000 --> 00:01:07.000
+have been multiplied by something between 10,000 and a million.
+
+00:01:07.000 --> 00:01:09.000
+Same thing for processor speeds.
+
+00:01:09.000 --> 00:01:11.000
+Networks, we didn't have networks at all
+
+00:01:11.000 --> 00:01:14.000
+at the time of the Macintosh's introduction,
+
+00:01:14.000 --> 00:01:16.000
+and that has become the single most salient aspect
+
+00:01:16.000 --> 00:01:18.000
+of how we live with computers.
+
+00:01:18.000 --> 00:01:20.000
+And, of course, graphics: Today
+
+00:01:20.000 --> 00:01:23.000
+84 dollars and 97 cents at Best Buy
+
+00:01:23.000 --> 00:01:25.000
+buys you more graphics power
+
+00:01:25.000 --> 00:01:28.000
+than you could have gotten for a million bucks from SGI only a decade ago.
+
+00:01:28.000 --> 00:01:30.000
+So we've got that incredible ramp-up.
+
+00:01:30.000 --> 00:01:32.000
+Then, on the side, we've got the Web
+
+00:01:32.000 --> 00:01:34.000
+and, increasingly, the cloud,
+
+00:01:34.000 --> 00:01:36.000
+which is fantastic,
+
+00:01:36.000 --> 00:01:39.000
+but also -- in the regard in which an interface is fundamental --
+
+00:01:39.000 --> 00:01:41.000
+kind of a distraction.
+
+00:01:41.000 --> 00:01:43.000
+So we've forgotten to invent new interfaces.
+
+00:01:43.000 --> 00:01:45.000
+Certainly we've seen in recent years a lot of change in that regard,
+
+00:01:45.000 --> 00:01:48.000
+and people are starting to wake up about that.
+
+00:01:49.000 --> 00:01:51.000
+So what happens next? Where do we go from there?
+
+00:01:51.000 --> 00:01:53.000
+The problem, as we see it,
+
+00:01:53.000 --> 00:01:55.000
+has to do with a single, simple word: "space,"
+
+00:01:55.000 --> 00:01:57.000
+or a single, simple phrase:
+
+00:01:57.000 --> 00:01:59.000
+"real world geometry."
+
+00:01:59.000 --> 00:02:01.000
+Computers and the programming languages
+
+00:02:01.000 --> 00:02:03.000
+that we talk to them in, that we teach them in,
+
+00:02:03.000 --> 00:02:06.000
+are hideously insensate when it comes to space.
+
+00:02:06.000 --> 00:02:08.000
+They don't understand real world space.
+
+00:02:08.000 --> 00:02:11.000
+It's a funny thing because the rest of us occupy it quite frequently and quite well.
+
+00:02:11.000 --> 00:02:14.000
+They also don't understand time, but that's a matter for a separate talk.
+
+00:02:14.000 --> 00:02:16.000
+So what happens if you start to
+
+00:02:16.000 --> 00:02:18.000
+explain space to them?
+
+00:02:21.000 --> 00:02:24.000
+One thing you might get is something like the Luminous Room.
+
+00:02:24.000 --> 00:02:26.000
+The Luminous Room is a system
+
+00:02:26.000 --> 00:02:28.000
+in which it's considered that
+
+00:02:28.000 --> 00:02:30.000
+input and output spaces are co-located.
+
+00:02:30.000 --> 00:02:32.000
+That's a strangely simple,
+
+00:02:32.000 --> 00:02:34.000
+and yet unexplored idea, right?
+
+00:02:34.000 --> 00:02:37.000
+When you use a mouse, your hand is down here on the mouse pad.
+
+00:02:37.000 --> 00:02:39.000
+It's not even on the same plane as what you're talking about:
+
+00:02:39.000 --> 00:02:41.000
+The pixels are up on the display.
+
+00:02:41.000 --> 00:02:44.000
+So here was a room in which all the walls, floors, ceilings,
+
+00:02:44.000 --> 00:02:46.000
+pets, potted plants, whatever was in there,
+
+00:02:46.000 --> 00:02:49.000
+were capable, not only of display but of sensing as well.
+
+00:02:49.000 --> 00:02:51.000
+And that means input and output are in the same space
+
+00:02:51.000 --> 00:02:53.000
+enabling stuff like this.
+
+00:02:53.000 --> 00:02:55.000
+That's a digital storage in a physical container.
+
+00:02:55.000 --> 00:02:57.000
+The contract is the same
+
+00:02:57.000 --> 00:03:00.000
+as with real word objects in real world containers.
+
+00:03:00.000 --> 00:03:03.000
+Has to come back out, whatever you put in.
+
+00:03:03.000 --> 00:03:05.000
+This little design experiment
+
+00:03:05.000 --> 00:03:08.000
+that was a small office here knew a few other tricks as well.
+
+00:03:08.000 --> 00:03:10.000
+If you presented it with a chess board,
+
+00:03:10.000 --> 00:03:12.000
+it tried to figure out what you might mean by that.
+
+00:03:12.000 --> 00:03:14.000
+And if there was nothing for them to do,
+
+00:03:14.000 --> 00:03:16.000
+the chess pieces eventually got bored
+
+00:03:16.000 --> 00:03:18.000
+and hopped away.
+
+00:03:18.000 --> 00:03:21.000
+The academics who were overseeing this work
+
+00:03:21.000 --> 00:03:23.000
+thought that that was too frivolous,
+
+00:03:23.000 --> 00:03:25.000
+so we built deadly serious applications
+
+00:03:25.000 --> 00:03:27.000
+like this optics prototyping workbench
+
+00:03:27.000 --> 00:03:30.000
+in which a toothpaste cap on a cardboard box
+
+00:03:30.000 --> 00:03:32.000
+becomes a laser.
+
+00:03:32.000 --> 00:03:35.000
+The beam splitters and lenses are represented by physical objects,
+
+00:03:35.000 --> 00:03:38.000
+and the system projects down the laser beam path.
+
+00:03:38.000 --> 00:03:40.000
+So you've got an interface that has no interface.
+
+00:03:40.000 --> 00:03:43.000
+You operate the world as you operate the real world,
+
+00:03:43.000 --> 00:03:45.000
+which is to say, with your hands.
+
+00:03:45.000 --> 00:03:47.000
+Similarly, a digital wind tunnel with digital wind
+
+00:03:47.000 --> 00:03:49.000
+flowing from right to left --
+
+00:03:49.000 --> 00:03:52.000
+not that remarkable in a sense; we didn't invent the mathematics.
+
+00:03:52.000 --> 00:03:54.000
+But if you displayed that on a CRT or flat panel display,
+
+00:03:54.000 --> 00:03:57.000
+it would be meaningless to hold up an arbitrary object,
+
+00:03:57.000 --> 00:03:59.000
+a real world object in that.
+
+00:03:59.000 --> 00:04:02.000
+Here, the real world merges with the simulation.
+
+00:04:03.000 --> 00:04:05.000
+And finally, to pull out all the stops,
+
+00:04:05.000 --> 00:04:08.000
+this is a system called Urp, for urban planners,
+
+00:04:08.000 --> 00:04:11.000
+in which we give architects and urban planners back
+
+00:04:11.000 --> 00:04:13.000
+the models that we confiscated
+
+00:04:13.000 --> 00:04:15.000
+when we insisted that they use CAD systems.
+
+00:04:15.000 --> 00:04:17.000
+And we make the machine meet them half way.
+
+00:04:17.000 --> 00:04:20.000
+It projects down digital shadows, as you see here.
+
+00:04:20.000 --> 00:04:23.000
+And if you introduce tools like this inverse clock,
+
+00:04:23.000 --> 00:04:25.000
+then you can control the sun's position in the sky.
+
+00:04:25.000 --> 00:04:27.000
+That's 8 a.m. shadows.
+
+00:04:27.000 --> 00:04:29.000
+They get a little shorter at 9 a.m.
+
+00:04:29.000 --> 00:04:31.000
+There you are, swinging the sun around.
+
+00:04:31.000 --> 00:04:34.000
+Short shadows at noon and so forth.
+
+00:04:35.000 --> 00:04:38.000
+And we built up a series of tools like this.
+
+00:04:38.000 --> 00:04:40.000
+There are inter-shadowing studies
+
+00:04:40.000 --> 00:04:42.000
+that children can operate,
+
+00:04:42.000 --> 00:04:44.000
+even though they don't know anything about urban planning:
+
+00:04:44.000 --> 00:04:47.000
+To move a building, you simply reach out your hand and you move the building.
+
+00:04:47.000 --> 00:04:49.000
+A material wand makes the building
+
+00:04:49.000 --> 00:04:52.000
+into a sort of Frank Gehry thing that reflects light in all directions.
+
+00:04:52.000 --> 00:04:55.000
+Are you blinding passers by and motorists on the freeways?
+
+00:04:55.000 --> 00:04:58.000
+A zoning tool connects distant structures, a building and a roadway.
+
+00:04:58.000 --> 00:05:01.000
+Are you going to get sued by the zoning commission? And so forth.
+
+00:05:02.000 --> 00:05:04.000
+Now, if these ideas seem familiar
+
+00:05:04.000 --> 00:05:06.000
+or perhaps even a little dated,
+
+00:05:06.000 --> 00:05:08.000
+that's great; they should seem familiar.
+
+00:05:08.000 --> 00:05:10.000
+This work is 15 years old.
+
+00:05:11.000 --> 00:05:14.000
+This stuff was undertaken at MIT and the Media Lab
+
+00:05:14.000 --> 00:05:17.000
+under the incredible direction of Professor Hiroshi Ishii,
+
+00:05:17.000 --> 00:05:19.000
+director of the Tangible Media Group.
+
+00:05:19.000 --> 00:05:21.000
+But it was that work that was seen
+
+00:05:21.000 --> 00:05:23.000
+by Alex McDowell,
+
+00:05:23.000 --> 00:05:26.000
+one of the world's legendary production designers.
+
+00:05:26.000 --> 00:05:29.000
+But Alex was preparing a little, sort of obscure, indie, arthouse film
+
+00:05:29.000 --> 00:05:32.000
+called "Minority Report" for Steven Spielberg,
+
+00:05:32.000 --> 00:05:34.000
+and invited us to come out from MIT
+
+00:05:34.000 --> 00:05:37.000
+and design the interfaces
+
+00:05:37.000 --> 00:05:40.000
+that would appear in that film.
+
+00:05:40.000 --> 00:05:42.000
+And the great thing about it was
+
+00:05:42.000 --> 00:05:45.000
+that Alex was so dedicated to the idea of verisimilitude,
+
+00:05:45.000 --> 00:05:48.000
+the idea that the putative 2054
+
+00:05:48.000 --> 00:05:51.000
+that we were painting in the film be believable,
+
+00:05:51.000 --> 00:05:53.000
+that he allowed us to take on that design work
+
+00:05:53.000 --> 00:05:55.000
+as if it were an R&amp;D effort.
+
+00:05:55.000 --> 00:05:57.000
+And the result is sort of
+
+00:05:57.000 --> 00:05:59.000
+gratifyingly perpetual.
+
+00:05:59.000 --> 00:06:02.000
+People still reference those sequences in "Minority Report"
+
+00:06:02.000 --> 00:06:04.000
+when they talk about new UI design.
+
+00:06:04.000 --> 00:06:06.000
+So this led full circle, in a strange way,
+
+00:06:06.000 --> 00:06:09.000
+to build these ideas into what we believe
+
+00:06:09.000 --> 00:06:12.000
+is the necessary future of human machine interface:
+
+00:06:12.000 --> 00:06:15.000
+the Spatial Operating Environment, we call it.
+
+00:06:17.000 --> 00:06:20.000
+So here we have a bunch of stuff, some images.
+
+00:06:20.000 --> 00:06:22.000
+And, using a hand,
+
+00:06:22.000 --> 00:06:25.000
+we can actually exercise six degrees of freedom,
+
+00:06:25.000 --> 00:06:28.000
+six degrees of navigational control.
+
+00:06:28.000 --> 00:06:30.000
+And it's fun to fly through Mr. Beckett's eye.
+
+00:06:30.000 --> 00:06:32.000
+And you can come back out
+
+00:06:32.000 --> 00:06:34.000
+through the scary orangutan.
+
+00:06:34.000 --> 00:06:37.000
+And that's all well and good.
+
+00:06:37.000 --> 00:06:40.000
+Let's do something a little more difficult.
+
+00:06:40.000 --> 00:06:42.000
+Here, we have a whole bunch of disparate images.
+
+00:06:42.000 --> 00:06:44.000
+We can fly around them.
+
+00:06:44.000 --> 00:06:46.000
+So navigation is a fundamental issue.
+
+00:06:46.000 --> 00:06:49.000
+You have to be able to navigate in 3D.
+
+00:06:49.000 --> 00:06:52.000
+Much of what we want computers to help us with in the first place
+
+00:06:52.000 --> 00:06:54.000
+is inherently spatial.
+
+00:06:54.000 --> 00:06:56.000
+And the part that isn't spatial can often be spatialized
+
+00:06:56.000 --> 00:06:59.000
+to allow our wetware to make greater sense of it.
+
+00:06:59.000 --> 00:07:02.000
+Now we can distribute this stuff in many different ways.
+
+00:07:02.000 --> 00:07:04.000
+So we can throw it out like that. Let's reset it.
+
+00:07:04.000 --> 00:07:06.000
+We can organize it this way.
+
+00:07:06.000 --> 00:07:09.000
+And, of course, it's not just about navigation,
+
+00:07:09.000 --> 00:07:11.000
+but about manipulation as well.
+
+00:07:11.000 --> 00:07:13.000
+So if we don't like stuff,
+
+00:07:13.000 --> 00:07:15.000
+or we're intensely curious about
+
+00:07:15.000 --> 00:07:18.000
+Ernst Haeckel's scientific falsifications,
+
+00:07:18.000 --> 00:07:20.000
+we can pull them out like that.
+
+00:07:20.000 --> 00:07:23.000
+And then if it's time for analysis, we can pull back a little bit
+
+00:07:23.000 --> 00:07:26.000
+and ask for a different distribution.
+
+00:07:28.000 --> 00:07:30.000
+Let's just come down a bit
+
+00:07:31.000 --> 00:07:33.000
+and fly around.
+
+00:07:34.000 --> 00:07:37.000
+So that's a different way to look at stuff.
+
+00:07:37.000 --> 00:07:39.000
+If you're of a more analytical nature
+
+00:07:39.000 --> 00:07:41.000
+then you might want, actually, to look at this
+
+00:07:41.000 --> 00:07:44.000
+as a color histogram.
+
+00:07:44.000 --> 00:07:47.000
+So now we've got the stuff color-sorted,
+
+00:07:47.000 --> 00:07:50.000
+angle maps onto color.
+
+00:07:50.000 --> 00:07:52.000
+And now, if we want to select stuff,
+
+00:07:52.000 --> 00:07:54.000
+3D, space,
+
+00:07:54.000 --> 00:07:57.000
+the idea that we're tracking hands in real space
+
+00:07:57.000 --> 00:08:00.000
+becomes really important because we can reach in,
+
+00:08:00.000 --> 00:08:02.000
+not in 2D, not in fake 2D, but in actual 3D.
+
+00:08:02.000 --> 00:08:04.000
+Here are some selection planes.
+
+00:08:04.000 --> 00:08:07.000
+And we'll perform this Boolean operation
+
+00:08:07.000 --> 00:08:10.000
+because we really love yellow and tapirs on green grass.
+
+00:08:19.000 --> 00:08:22.000
+So, from there to the world of real work.
+
+00:08:22.000 --> 00:08:24.000
+Here's a logistics system,
+
+00:08:24.000 --> 00:08:26.000
+a small piece of one that we're currently building.
+
+00:08:26.000 --> 00:08:28.000
+There're a lot of elements.
+
+00:08:28.000 --> 00:08:31.000
+And one thing that's very important is to combine traditional tabular data
+
+00:08:31.000 --> 00:08:34.000
+with three-dimensional and geospatial information.
+
+00:08:34.000 --> 00:08:37.000
+So here's a familiar place.
+
+00:08:37.000 --> 00:08:40.000
+And we'll bring this back here for a second.
+
+00:08:40.000 --> 00:08:43.000
+Maybe select a little bit of that.
+
+00:08:43.000 --> 00:08:46.000
+And bring out this graph.
+
+00:08:46.000 --> 00:08:48.000
+And we should, now,
+
+00:08:48.000 --> 00:08:51.000
+be able to fly in here
+
+00:08:51.000 --> 00:08:54.000
+and have a closer look.
+
+00:08:54.000 --> 00:08:56.000
+These are logistics elements
+
+00:08:56.000 --> 00:08:59.000
+that are scattered across the United States.
+
+00:09:05.000 --> 00:09:08.000
+One thing that three-dimensional interactions
+
+00:09:08.000 --> 00:09:10.000
+and the general idea of imbuing
+
+00:09:10.000 --> 00:09:12.000
+computation with space affords you
+
+00:09:12.000 --> 00:09:14.000
+is a final destruction of that unfortunate
+
+00:09:14.000 --> 00:09:17.000
+one-to-one pairing between human beings and computers.
+
+00:09:17.000 --> 00:09:19.000
+That's the old way, that's the old mantra:
+
+00:09:19.000 --> 00:09:21.000
+one machine, one human, one mouse, one screen.
+
+00:09:21.000 --> 00:09:24.000
+Well, that doesn't really cut it anymore.
+
+00:09:24.000 --> 00:09:27.000
+In the real world, we have people who collaborate;
+
+00:09:27.000 --> 00:09:30.000
+we have people who have to work together,
+
+00:09:30.000 --> 00:09:33.000
+and we have many different displays.
+
+00:09:33.000 --> 00:09:36.000
+And we might want to look at these various images.
+
+00:09:36.000 --> 00:09:38.000
+We might want to ask for some help.
+
+00:09:38.000 --> 00:09:41.000
+The author of this new pointing device
+
+00:09:41.000 --> 00:09:43.000
+is sitting over there,
+
+00:09:43.000 --> 00:09:45.000
+so I can pull this from there to there.
+
+00:09:45.000 --> 00:09:48.000
+These are unrelated machines, right?
+
+00:09:48.000 --> 00:09:51.000
+So the computation is space soluble and network soluble.
+
+00:09:51.000 --> 00:09:53.000
+So I'm going to leave that over there
+
+00:09:53.000 --> 00:09:55.000
+because I have a question for Paul.
+
+00:09:55.000 --> 00:09:57.000
+Paul is the designer of this wand, and maybe its easiest
+
+00:09:57.000 --> 00:10:00.000
+for him to come over here and tell me in person what's going on.
+
+00:10:00.000 --> 00:10:03.000
+So let me get some of these out of the way.
+
+00:10:05.000 --> 00:10:07.000
+Let's pull this apart:
+
+00:10:08.000 --> 00:10:11.000
+I'll go ahead and explode it.
+
+00:10:11.000 --> 00:10:13.000
+Kevin, can you help?
+
+00:10:18.000 --> 00:10:21.000
+Let me see if I can help us find the circuit board.
+
+00:10:23.000 --> 00:10:26.000
+Mind you, it's a sort of gratuitous field-stripping exercise,
+
+00:10:26.000 --> 00:10:29.000
+but we do it in the lab all the time.
+
+00:10:29.000 --> 00:10:31.000
+All right.
+
+00:10:31.000 --> 00:10:34.000
+So collaborative work, whether it's immediately co-located
+
+00:10:34.000 --> 00:10:37.000
+or distant and distinct, is always important.
+
+00:10:37.000 --> 00:10:39.000
+And again, that stuff
+
+00:10:39.000 --> 00:10:42.000
+needs to be undertaken in the context of space.
+
+00:10:44.000 --> 00:10:47.000
+And finally, I'd like to leave you with a glimpse
+
+00:10:47.000 --> 00:10:49.000
+that takes us back to the world of imagery.
+
+00:10:49.000 --> 00:10:51.000
+This is a system called TAMPER,
+
+00:10:51.000 --> 00:10:53.000
+which is a slightly whimsical look
+
+00:10:53.000 --> 00:10:55.000
+at what the future of editing
+
+00:10:55.000 --> 00:10:57.000
+and media manipulation systems might be.
+
+00:10:57.000 --> 00:10:59.000
+We at Oblong believe that media should be
+
+00:10:59.000 --> 00:11:02.000
+accessible in much more fine-grained form.
+
+00:11:02.000 --> 00:11:04.000
+So we have a large number of movies
+
+00:11:04.000 --> 00:11:06.000
+stuck inside here.
+
+00:11:06.000 --> 00:11:09.000
+And let's just pick out a few elements.
+
+00:11:09.000 --> 00:11:12.000
+We can zip through them
+
+00:11:12.000 --> 00:11:14.000
+as a possibility.
+
+00:11:14.000 --> 00:11:16.000
+We can grab elements off the front,
+
+00:11:16.000 --> 00:11:19.000
+where upon they reanimate, come to life,
+
+00:11:19.000 --> 00:11:22.000
+and drag them down onto the table here.
+
+00:11:24.000 --> 00:11:27.000
+We'll go over to Jacques Tati here
+
+00:11:27.000 --> 00:11:30.000
+and grab our blue friend
+
+00:11:30.000 --> 00:11:33.000
+and put him down on the table as well.
+
+00:11:33.000 --> 00:11:36.000
+We may need more than one.
+
+00:11:38.000 --> 00:11:40.000
+And we probably need,
+
+00:11:40.000 --> 00:11:42.000
+well, we probably need a cowboy
+
+00:11:42.000 --> 00:11:44.000
+to be quite honest.
+
+00:11:44.000 --> 00:11:46.000
+(Laughter)
+
+00:11:46.000 --> 00:11:49.000
+Yeah, let's
+
+00:11:49.000 --> 00:11:51.000
+take that one.
+
+00:11:51.000 --> 00:11:53.000
+(Laughter)
+
+00:11:53.000 --> 00:11:55.000
+You see, cowboys and French farce people
+
+00:11:55.000 --> 00:11:58.000
+don't go well together, and the system knows that.
+
+00:12:00.000 --> 00:12:02.000
+Let me leave with one final thought,
+
+00:12:02.000 --> 00:12:04.000
+and that is that
+
+00:12:04.000 --> 00:12:06.000
+one of the greatest English language writers
+
+00:12:06.000 --> 00:12:08.000
+of the last three decades
+
+00:12:08.000 --> 00:12:11.000
+suggested that great art is always a gift.
+
+00:12:11.000 --> 00:12:14.000
+And he wasn't talking about whether the novel costs 24.95 [dollars],
+
+00:12:14.000 --> 00:12:16.000
+or whether you have to spring 70 million bucks
+
+00:12:16.000 --> 00:12:18.000
+to buy the stolen Vermeer;
+
+00:12:18.000 --> 00:12:20.000
+he was talking about the circumstances of its creation
+
+00:12:20.000 --> 00:12:22.000
+and of its existence.
+
+00:12:22.000 --> 00:12:24.000
+And I think that it's time that we asked
+
+00:12:24.000 --> 00:12:26.000
+for the same from technology.
+
+00:12:26.000 --> 00:12:28.000
+Technology is capable of
+
+00:12:28.000 --> 00:12:31.000
+expressing and being imbued with
+
+00:12:31.000 --> 00:12:33.000
+a certain generosity,
+
+00:12:33.000 --> 00:12:35.000
+and we need to demand that, in fact.
+
+00:12:35.000 --> 00:12:38.000
+For some of this kind of technology,
+
+00:12:38.000 --> 00:12:41.000
+ground center is
+
+00:12:41.000 --> 00:12:43.000
+a combination of design, which is crucially important.
+
+00:12:43.000 --> 00:12:46.000
+We can't have advances in technology any longer
+
+00:12:46.000 --> 00:12:49.000
+unless design is integrated from the very start.
+
+00:12:49.000 --> 00:12:52.000
+And, as well, as of efficacy, agency.
+
+00:12:52.000 --> 00:12:55.000
+We're, as human beings, the creatures that create,
+
+00:12:55.000 --> 00:12:58.000
+and we should make sure that our machines aid us in that task
+
+00:12:58.000 --> 00:13:01.000
+and are built in that same image.
+
+00:13:01.000 --> 00:13:03.000
+So I will leave you with that. Thank you.
+
+00:13:03.000 --> 00:13:16.000
+(Applause)
+
+00:13:18.000 --> 00:13:21.000
+Chris Anderson: So to ask the obvious question --
+
+00:13:21.000 --> 00:13:23.000
+actually this is from Bill Gates --
+
+00:13:23.000 --> 00:13:26.000
+when? (John Underkoffler: When?)
+
+00:13:26.000 --> 00:13:29.000
+CA: When real? When for us, not just in a lab and on a stage?
+
+00:13:30.000 --> 00:13:33.000
+Can it be for every man, or is this just for corporations and movie producers?
+
+00:13:33.000 --> 00:13:35.000
+JU: No, it has to be for every human being.
+
+00:13:35.000 --> 00:13:37.000
+That's our goal entirely.
+
+00:13:37.000 --> 00:13:39.000
+We won't have succeeded
+
+00:13:39.000 --> 00:13:41.000
+unless we take that next big step.
+
+00:13:41.000 --> 00:13:43.000
+I mean it's been 25 years.
+
+00:13:43.000 --> 00:13:45.000
+Can there really be only one interface? There can't.
+
+00:13:45.000 --> 00:13:47.000
+CA: But does that mean that, at your desk or in your home,
+
+00:13:47.000 --> 00:13:50.000
+you need projectors, cameras?
+
+00:13:50.000 --> 00:13:52.000
+You know, how can it work?
+
+00:13:52.000 --> 00:13:54.000
+JU: No, this stuff will be built into the bezel of every display.
+
+00:13:54.000 --> 00:13:56.000
+It'll be built into architecture.
+
+00:13:56.000 --> 00:13:59.000
+The gloves go away in a matter of months or years.
+
+00:13:59.000 --> 00:14:01.000
+So this is the inevitability about it.
+
+00:14:01.000 --> 00:14:03.000
+CA: So, in your mind, five years time,
+
+00:14:03.000 --> 00:14:05.000
+someone can buy this as part of
+
+00:14:05.000 --> 00:14:07.000
+a standard computer interface?
+
+00:14:07.000 --> 00:14:10.000
+JU: I think in five years time when you buy a computer,
+
+00:14:10.000 --> 00:14:12.000
+you'll get this.
+
+00:14:12.000 --> 00:14:14.000
+CA: Well that's cool.
+
+00:14:14.000 --> 00:14:18.000
+(Applause)
+
+00:14:18.000 --> 00:14:21.000
+The world has a habit of surprising us as to how these things are actually used.
+
+00:14:21.000 --> 00:14:24.000
+What do you think, what in your mind is the first killer app for this?
+
+00:14:24.000 --> 00:14:27.000
+JU: That's a good question, and we ask ourselves that every day.
+
+00:14:27.000 --> 00:14:30.000
+At the moment, our early-adopter customers --
+
+00:14:30.000 --> 00:14:33.000
+and these systems are deployed out in the real world --
+
+00:14:33.000 --> 00:14:36.000
+do all the big data intensive, data heavy problems with it.
+
+00:14:36.000 --> 00:14:38.000
+So, whether it's logistics and supply chain management
+
+00:14:38.000 --> 00:14:41.000
+or natural gas and resource extraction,
+
+00:14:41.000 --> 00:14:44.000
+financial services, pharmaceuticals, bioinformatics,
+
+00:14:44.000 --> 00:14:46.000
+those are the topics right now, but that's not a killer app.
+
+00:14:46.000 --> 00:14:48.000
+And I understand what you're asking.
+
+00:14:48.000 --> 00:14:50.000
+CA: C'mon, c'mon. Martial arts, games. C'mon.
+
+00:14:50.000 --> 00:14:52.000
+(Laughter)
+
+00:14:52.000 --> 00:14:55.000
+John, thank you for making science-fiction real.
+
+00:14:55.000 --> 00:14:57.000
+JU: It's been a great pleasure.
+
+00:14:57.000 --> 00:14:59.000
+Thank you to you all.
+
+00:14:59.000 --> 00:15:01.000
+(Applause)
+

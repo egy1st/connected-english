@@ -1,0 +1,543 @@
+WEBVTT
+
+00:00:00.888 --> 00:00:02.769
+I, like many of you,
+
+00:00:02.793 --> 00:00:08.840
+am one of the two billion people
+on Earth who live in cities.
+
+00:00:09.475 --> 00:00:12.390
+And there are days --
+I don't know about the rest of you --
+
+00:00:12.414 --> 00:00:15.976
+but there are days when I palpably feel
+
+00:00:16.000 --> 00:00:18.477
+how much I rely on other people
+
+00:00:18.501 --> 00:00:20.854
+for pretty much everything in my life.
+
+00:00:21.349 --> 00:00:24.013
+And some days, that can even
+be a little scary.
+
+00:00:24.694 --> 00:00:26.778
+But what I'm here
+to talk to you about today
+
+00:00:26.802 --> 00:00:29.584
+is how that same interdependence
+
+00:00:29.608 --> 00:00:34.097
+is actually an extremely
+powerful social infrastructure
+
+00:00:34.121 --> 00:00:36.105
+that we can actually harness
+
+00:00:36.129 --> 00:00:40.540
+to help heal some
+of our deepest civic issues,
+
+00:00:40.564 --> 00:00:44.281
+if we apply open-source collaboration.
+
+00:00:44.988 --> 00:00:46.332
+A couple of years ago,
+
+00:00:46.356 --> 00:00:49.854
+I read an article by New York Times
+writer Michael Pollan,
+
+00:00:49.878 --> 00:00:53.977
+in which he argued that growing
+even some of our own food
+
+00:00:54.001 --> 00:00:57.171
+is one of the best things
+that we can do for the environment.
+
+00:00:58.036 --> 00:00:59.941
+Now at the time that I was reading this,
+
+00:00:59.965 --> 00:01:01.606
+it was the middle of the winter
+
+00:01:01.630 --> 00:01:04.937
+and I definitely did not have room
+for a lot of dirt
+
+00:01:04.961 --> 00:01:07.090
+in my New York City apartment.
+
+00:01:07.114 --> 00:01:09.080
+So I was basically just willing to settle
+
+00:01:09.104 --> 00:01:11.050
+for just reading the next Wired magazine
+
+00:01:11.074 --> 00:01:13.694
+and finding out how the experts
+were going to figure out
+
+00:01:13.718 --> 00:01:16.794
+how to solve all these problems
+for us in the future.
+
+00:01:16.818 --> 00:01:19.067
+But that was actually exactly the point
+
+00:01:19.091 --> 00:01:21.377
+that Michael Pollan
+was making in this article --
+
+00:01:21.401 --> 00:01:23.610
+it's precisely when we hand over
+
+00:01:23.634 --> 00:01:26.876
+the responsibility
+for all these things to specialists
+
+00:01:26.900 --> 00:01:30.614
+that we cause the kind of messes
+that we see with the food system.
+
+00:01:32.000 --> 00:01:35.334
+So, I happen to know
+a little bit from my own work
+
+00:01:35.358 --> 00:01:39.613
+about how NASA has been using hydroponics
+
+00:01:39.637 --> 00:01:42.352
+to explore growing food in space.
+
+00:01:42.884 --> 00:01:47.299
+And that you can actually
+get optimal nutritional yield
+
+00:01:47.323 --> 00:01:53.063
+by running a kind of high-quality
+liquid soil over plants' root systems.
+
+00:01:53.931 --> 00:01:55.516
+Now to a vegetable plant,
+
+00:01:55.540 --> 00:02:00.026
+my apartment has got to be
+about as foreign as outer space.
+
+00:02:00.050 --> 00:02:02.511
+But I can offer some natural light
+
+00:02:02.535 --> 00:02:04.555
+and year-round climate control.
+
+00:02:05.230 --> 00:02:06.926
+Fast-forward two years later:
+
+00:02:06.950 --> 00:02:08.674
+we now have window farms,
+
+00:02:08.698 --> 00:02:10.751
+which are vertical, hydroponic platforms
+
+00:02:10.775 --> 00:02:13.093
+for food-growing indoors.
+
+00:02:13.624 --> 00:02:16.379
+And the way it works
+is that there's a pump at the bottom,
+
+00:02:16.403 --> 00:02:19.956
+which periodically sends this liquid
+nutrient solution up to the top,
+
+00:02:19.980 --> 00:02:22.624
+which then trickles down
+through plants' root systems
+
+00:02:22.648 --> 00:02:24.789
+that are suspended in clay pellets --
+
+00:02:24.813 --> 00:02:26.466
+so there's no dirt involved.
+
+00:02:27.307 --> 00:02:32.014
+Now light and temperature vary
+with each window's microclimate,
+
+00:02:32.038 --> 00:02:35.796
+so a window farm requires a farmer,
+
+00:02:35.820 --> 00:02:37.317
+and she must decide
+
+00:02:37.341 --> 00:02:41.076
+what kind of crops she is going
+to put in her window farm,
+
+00:02:41.100 --> 00:02:45.009
+and whether she is going
+to feed her food organically.
+
+00:02:45.033 --> 00:02:46.184
+Back at the time,
+
+00:02:46.208 --> 00:02:49.389
+a window farm was no more
+than a technically complex idea
+
+00:02:49.413 --> 00:02:51.604
+that was going to require
+a lot of testing.
+
+00:02:52.000 --> 00:02:54.750
+And I really wanted it
+to be an open project,
+
+00:02:54.774 --> 00:02:55.976
+because hydroponics
+
+00:02:56.000 --> 00:02:58.716
+is one of the fastest
+growing areas of patenting
+
+00:02:58.740 --> 00:03:00.402
+in the United States right now,
+
+00:03:00.426 --> 00:03:04.097
+and could possibly become
+another area like Monsanto,
+
+00:03:04.121 --> 00:03:07.161
+where we have a lot of corporate
+intellectual property
+
+00:03:07.185 --> 00:03:09.510
+in the way of people's food.
+
+00:03:10.112 --> 00:03:13.735
+So I decided that,
+instead of creating a product,
+
+00:03:13.759 --> 00:03:14.926
+what I was going to do
+
+00:03:14.950 --> 00:03:18.000
+was open this up
+to a whole bunch of codevelopers.
+
+00:03:19.359 --> 00:03:22.121
+The first few systems that we created,
+they kind of worked.
+
+00:03:22.145 --> 00:03:24.479
+We were actually able to grow
+about a salad a week
+
+00:03:24.503 --> 00:03:26.893
+in a typical New York City
+apartment window.
+
+00:03:26.917 --> 00:03:28.946
+And we were able to grow cherry tomatoes
+
+00:03:28.970 --> 00:03:30.950
+and cucumbers, all kinds of stuff.
+
+00:03:30.974 --> 00:03:32.453
+But the first few systems
+
+00:03:32.477 --> 00:03:36.008
+were these leaky, loud power-guzzlers
+
+00:03:36.032 --> 00:03:38.790
+that Martha Stewart
+would definitely never have approved.
+
+00:03:38.814 --> 00:03:40.662
+(Laughter)
+
+00:03:40.686 --> 00:03:43.071
+So to bring on more codevelopers,
+
+00:03:43.095 --> 00:03:45.997
+what we did was we created
+a social media site
+
+00:03:46.021 --> 00:03:47.966
+on which we published the designs,
+
+00:03:47.990 --> 00:03:49.984
+we explained how they worked,
+
+00:03:50.008 --> 00:03:52.387
+and we even went so far
+
+00:03:52.411 --> 00:03:55.655
+as to point out everything
+that was wrong with these systems.
+
+00:03:55.679 --> 00:03:58.047
+And then we invited people
+all over the world
+
+00:03:58.071 --> 00:04:00.167
+to build them and experiment with us.
+
+00:04:01.360 --> 00:04:03.523
+So actually now on this website,
+
+00:04:03.547 --> 00:04:06.244
+we have 18,000 people.
+
+00:04:06.268 --> 00:04:09.698
+And we have window farms
+all over the world.
+
+00:04:10.441 --> 00:04:14.213
+What we're doing
+is what NASA or a large corporation
+
+00:04:14.237 --> 00:04:17.728
+would call R&amp;D,
+or research and development.
+
+00:04:17.752 --> 00:04:20.665
+But what we call it is R&amp;D-I-Y,
+
+00:04:20.689 --> 00:04:23.328
+or "research and develop it yourself."
+
+00:04:23.352 --> 00:04:24.824
+(Laughter)
+
+00:04:24.848 --> 00:04:27.403
+So, for example, Jackson came along
+
+00:04:27.427 --> 00:04:30.578
+and suggested that we use air pumps
+instead of water pumps.
+
+00:04:30.602 --> 00:04:33.317
+It took building a whole bunch
+of systems to get it right,
+
+00:04:33.341 --> 00:04:37.113
+but once we did, we were able to cut
+our carbon footprint nearly in half.
+
+00:04:37.874 --> 00:04:40.858
+Tony in Chicago has been taking on
+growing experiments,
+
+00:04:40.882 --> 00:04:42.536
+like lots of other window farmers,
+
+00:04:42.560 --> 00:04:45.523
+and he's been able to get
+his strawberries to fruit
+
+00:04:45.547 --> 00:04:48.306
+for nine months of the year
+in low-light conditions
+
+00:04:48.330 --> 00:04:51.307
+by simply changing out
+the organic nutrients.
+
+00:04:52.281 --> 00:04:56.655
+And window farmers in Finland
+have been customizing their window farms
+
+00:04:56.679 --> 00:04:59.019
+for the dark days of the Finnish winters
+
+00:04:59.043 --> 00:05:01.120
+by outfitting them with LED grow lights
+
+00:05:01.144 --> 00:05:04.437
+that they're now making
+open source and part of the project.
+
+00:05:04.461 --> 00:05:06.830
+So window farms have been evolving
+
+00:05:06.854 --> 00:05:10.144
+through a rapid versioning process
+similar to software.
+
+00:05:10.639 --> 00:05:13.309
+And with every open source project,
+
+00:05:13.333 --> 00:05:15.047
+the real benefit is the interplay
+
+00:05:15.071 --> 00:05:19.510
+between the specific concerns
+of people customizing their systems
+
+00:05:19.534 --> 00:05:21.353
+for their own particular concerns,
+
+00:05:21.377 --> 00:05:23.425
+and the universal concerns.
+
+00:05:23.449 --> 00:05:25.382
+So my core team and I
+
+00:05:25.406 --> 00:05:27.956
+are able to concentrate
+on the improvements
+
+00:05:27.980 --> 00:05:30.224
+that really benefit everyone.
+
+00:05:30.248 --> 00:05:33.467
+And we're able to look out
+for the needs of newcomers.
+
+00:05:33.491 --> 00:05:35.221
+So for do-it-yourselfers,
+
+00:05:35.245 --> 00:05:39.367
+we provide free,
+very well-tested instructions
+
+00:05:39.391 --> 00:05:41.476
+so that anyone, anywhere around the world,
+
+00:05:41.500 --> 00:05:43.649
+can build one of these systems for free.
+
+00:05:43.673 --> 00:05:46.395
+And there's a patent pending
+on these systems as well
+
+00:05:46.419 --> 00:05:48.186
+that's held by the community.
+
+00:05:48.210 --> 00:05:50.114
+And to fund the project,
+
+00:05:50.138 --> 00:05:52.440
+we partner to create products
+
+00:05:52.464 --> 00:05:55.341
+that we then sell
+to schools and to individuals
+
+00:05:55.365 --> 00:05:57.863
+who don't have time
+to build their own systems.
+
+00:05:58.736 --> 00:06:02.201
+Now within our community,
+a certain culture has appeared.
+
+00:06:02.225 --> 00:06:04.938
+In our culture,
+it is better to be a tester
+
+00:06:04.962 --> 00:06:07.231
+who supports someone else's idea
+
+00:06:07.255 --> 00:06:09.643
+than it is to be just the idea guy.
+
+00:06:10.449 --> 00:06:14.577
+What we get out of this project
+is support for our own work,
+
+00:06:14.601 --> 00:06:18.522
+as well as an experience
+of actually contributing
+
+00:06:18.546 --> 00:06:20.672
+to the environmental movement
+
+00:06:20.696 --> 00:06:23.623
+in a way other than just
+screwing in new light bulbs.
+
+00:06:24.155 --> 00:06:26.802
+But I think that Eleen expresses best
+
+00:06:26.826 --> 00:06:28.303
+what we really get out of this,
+
+00:06:28.327 --> 00:06:31.162
+which is the actual joy of collaboration.
+
+00:06:31.686 --> 00:06:33.976
+So she expresses here what it's like
+
+00:06:34.000 --> 00:06:36.477
+to see someone halfway across the world
+
+00:06:36.501 --> 00:06:38.803
+having taken your idea, built upon it
+
+00:06:38.827 --> 00:06:40.976
+and then acknowledging
+you for contributing.
+
+00:06:41.540 --> 00:06:45.447
+If we really want to see
+the kind of wide consumer behavior change
+
+00:06:45.471 --> 00:06:49.126
+that we're all talking about
+as environmentalists and food people,
+
+00:06:49.150 --> 00:06:51.535
+maybe we just need
+to ditch the term "consumer"
+
+00:06:51.559 --> 00:06:54.375
+and get behind the people
+who are doing stuff.
+
+00:06:55.379 --> 00:06:58.551
+Open source projects
+tend to have a momentum of their own.
+
+00:06:58.575 --> 00:07:00.615
+And what we're seeing is that R&amp;D-I-Y
+
+00:07:00.639 --> 00:07:04.418
+has moved beyond
+just window farms and LEDs
+
+00:07:04.442 --> 00:07:07.870
+into solar panels and aquaponic systems.
+
+00:07:08.633 --> 00:07:12.551
+And we're building upon innovations
+of generations who went before us.
+
+00:07:12.575 --> 00:07:14.389
+And we're looking ahead at generations
+
+00:07:14.413 --> 00:07:17.333
+who really need us
+to retool our lives now.
+
+00:07:18.415 --> 00:07:20.180
+So we ask that you join us
+
+00:07:20.204 --> 00:07:24.530
+in rediscovering the value
+of citizens united,
+
+00:07:24.554 --> 00:07:28.350
+and to declare
+that we are all still pioneers.
+
+00:07:29.270 --> 00:07:32.198
+(Applause)
+

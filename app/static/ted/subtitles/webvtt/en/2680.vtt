@@ -1,0 +1,810 @@
+WEBVTT
+
+00:00:04.240 --> 00:00:06.840
+"You have cancer."
+
+00:00:08.680 --> 00:00:13.120
+Sadly, about 40 percent of us will hear
+those three words within our lifetime,
+
+00:00:13.840 --> 00:00:15.960
+and half will not survive.
+
+00:00:16.960 --> 00:00:20.816
+This means that two out of five
+of your closest friends and relatives
+
+00:00:20.840 --> 00:00:23.296
+will be diagnosed
+with some form of cancer,
+
+00:00:23.320 --> 00:00:24.800
+and one will die.
+
+00:00:27.280 --> 00:00:28.736
+Beyond the physical hardships,
+
+00:00:28.760 --> 00:00:31.936
+roughly one-third
+of cancer survivors here in the US
+
+00:00:31.960 --> 00:00:33.696
+will go into debt from treatment.
+
+00:00:33.720 --> 00:00:37.456
+And they're at least two and a half times
+more likely to declare bankruptcy
+
+00:00:37.480 --> 00:00:38.720
+than those without cancer.
+
+00:00:39.680 --> 00:00:42.056
+This disease is pervasive.
+
+00:00:42.080 --> 00:00:43.656
+It's emotionally draining
+
+00:00:43.680 --> 00:00:44.896
+and, for many,
+
+00:00:44.920 --> 00:00:46.320
+financially destructive.
+
+00:00:47.880 --> 00:00:51.440
+But a cancer diagnosis
+doesn't have to be a death sentence.
+
+00:00:51.920 --> 00:00:53.776
+Finding cancer early,
+
+00:00:53.800 --> 00:00:55.016
+closer its genesis,
+
+00:00:55.040 --> 00:00:58.656
+is one of the critical factors
+to improving treatment options,
+
+00:00:58.680 --> 00:01:00.656
+reducing its emotional impact
+
+00:01:00.680 --> 00:01:02.640
+and minimizing financial burdens.
+
+00:01:03.560 --> 00:01:04.775
+Most importantly,
+
+00:01:04.800 --> 00:01:06.056
+finding cancer early --
+
+00:01:06.080 --> 00:01:08.976
+which is one of the primary
+aims of my research --
+
+00:01:09.000 --> 00:01:11.160
+greatly enhances your odds of survival.
+
+00:01:12.120 --> 00:01:14.856
+If we just look at the case
+of breast cancer for example,
+
+00:01:14.880 --> 00:01:18.376
+we find that those who are diagnosed
+and treated at stage one
+
+00:01:18.400 --> 00:01:22.160
+have a five-year survival rate
+of nearly 100 percent --
+
+00:01:22.760 --> 00:01:26.760
+odds that decrease to just 22 percent
+if treated at stage four.
+
+00:01:28.040 --> 00:01:32.000
+And similar trends are found
+for colorectal and ovarian cancer.
+
+00:01:34.000 --> 00:01:39.456
+Now, we're all aware
+that an early diagnosis that is accurate
+
+00:01:39.480 --> 00:01:41.600
+is critical for survival.
+
+00:01:43.600 --> 00:01:47.416
+The problem is that many
+cancer diagnostic tools are invasive,
+
+00:01:47.440 --> 00:01:48.656
+costly,
+
+00:01:48.680 --> 00:01:49.896
+often inaccurate
+
+00:01:49.920 --> 00:01:53.560
+and they can take an agonizing
+amount of time to get the results back.
+
+00:01:54.520 --> 00:01:56.936
+Still worse, when it comes
+to some forms of cancer,
+
+00:01:56.960 --> 00:02:01.256
+such as ovarian,
+liver or pancreatic cancer,
+
+00:02:01.280 --> 00:02:03.960
+good screening methods simply don't exist,
+
+00:02:04.880 --> 00:02:08.936
+meaning that often people wait
+until physical symptoms surface,
+
+00:02:08.960 --> 00:02:12.440
+which are themselves already
+indicators of late-stage progression.
+
+00:02:13.920 --> 00:02:17.496
+Like a tornado strike in an area
+without an early warning system,
+
+00:02:17.520 --> 00:02:19.416
+there is no alarm to warn,
+
+00:02:19.440 --> 00:02:22.296
+for the danger is already at your doorstep
+
+00:02:22.320 --> 00:02:25.360
+when your odds of survival
+are greatly reduced.
+
+00:02:27.400 --> 00:02:31.656
+Having the convenience and accessibility
+of regular screening options
+
+00:02:31.680 --> 00:02:37.016
+that are affordable, noninvasive
+and could provide results much sooner,
+
+00:02:37.040 --> 00:02:41.480
+would provide us with a formidable
+weapon in the fight against cancer.
+
+00:02:42.760 --> 00:02:45.816
+An early warning would allow us
+to get out ahead of the disease
+
+00:02:45.840 --> 00:02:48.576
+instead of merely
+following in its relentless wake.
+
+00:02:48.600 --> 00:02:50.576
+And this is exactly what I've been doing.
+
+00:02:50.600 --> 00:02:53.736
+For the past three years,
+I've been developing technologies
+
+00:02:53.760 --> 00:02:55.496
+that could ultimately aid clinicians
+
+00:02:55.520 --> 00:02:58.440
+with rapid, early-stage
+cancer diagnostics.
+
+00:02:58.920 --> 00:03:02.776
+And I've been fueled
+by a deep scientific curiosity,
+
+00:03:02.800 --> 00:03:05.320
+and a passion to change these statistics.
+
+00:03:06.880 --> 00:03:08.080
+Last year however,
+
+00:03:08.960 --> 00:03:10.720
+this fight became much more personal
+
+00:03:12.040 --> 00:03:14.360
+when my wife was diagnosed
+with breast cancer.
+
+00:03:15.560 --> 00:03:19.976
+It was an experience that added a strong
+and unexpected emotional dimension
+
+00:03:20.000 --> 00:03:21.200
+to these efforts.
+
+00:03:23.240 --> 00:03:26.520
+I know firsthand how life-altering
+treatment can be,
+
+00:03:27.520 --> 00:03:30.176
+and I'm keenly aware
+of the emotional havoc
+
+00:03:30.200 --> 00:03:32.656
+that cancer can wreak on a family,
+
+00:03:32.680 --> 00:03:35.080
+which in our case
+included our two young daughters.
+
+00:03:36.400 --> 00:03:39.536
+Because we found it early
+during a routine mammogram,
+
+00:03:39.560 --> 00:03:43.256
+we were able to focus
+primarily on treatment options
+
+00:03:43.280 --> 00:03:44.816
+for the localized tumor,
+
+00:03:44.840 --> 00:03:49.240
+reaffirming to me
+how important an early diagnosis is.
+
+00:03:50.960 --> 00:03:52.440
+Unlike other forms of cancer,
+
+00:03:53.400 --> 00:03:57.056
+mammograms do offer an early-stage
+screening option for breast cancer.
+
+00:03:57.080 --> 00:03:59.296
+Still, not everyone has this done,
+
+00:03:59.320 --> 00:04:00.906
+or they may develop breast cancer
+
+00:04:00.930 --> 00:04:04.050
+before the middle age recommendation
+for having a mammogram.
+
+00:04:05.560 --> 00:04:07.816
+So, there's still
+a lot of room for improvement,
+
+00:04:07.840 --> 00:04:10.096
+even for cancers
+that do have screening options,
+
+00:04:10.120 --> 00:04:12.960
+and, of course, considerable benefits
+for those that don't.
+
+00:04:13.680 --> 00:04:16.416
+A key challenge then
+for cancer researchers
+
+00:04:16.440 --> 00:04:17.736
+is to develop methods
+
+00:04:17.760 --> 00:04:21.296
+that make regular screening
+for many types of cancers
+
+00:04:21.320 --> 00:04:22.560
+much more accessible.
+
+00:04:23.920 --> 00:04:26.976
+Imagine a scenario
+where during your regular checkup,
+
+00:04:27.000 --> 00:04:30.776
+your doctor can take
+a simple, noninvasive urine sample,
+
+00:04:30.800 --> 00:04:32.040
+or other liquid biopsy,
+
+00:04:32.720 --> 00:04:36.244
+and present you with the results
+before you even leave the doctor's office.
+
+00:04:36.800 --> 00:04:40.336
+Such a technology could
+dramatically reduce the number of people
+
+00:04:40.360 --> 00:04:43.600
+who slip through the net
+of an early-stage cancer diagnosis.
+
+00:04:44.840 --> 00:04:47.656
+My research team
+of engineers and biochemists
+
+00:04:47.680 --> 00:04:49.720
+is working on exactly this challenge.
+
+00:04:50.320 --> 00:04:55.456
+We're working on ways to frequently
+activate an early-stage cancer alarm
+
+00:04:55.480 --> 00:04:59.816
+by enabling regular screenings
+that would start when a person is healthy
+
+00:04:59.840 --> 00:05:04.136
+so that action could be taken
+to stop cancer the moment it emerges,
+
+00:05:04.160 --> 00:05:06.840
+and before it can progress
+beyond its infancy.
+
+00:05:08.640 --> 00:05:11.656
+The silver bullet in this case
+are tiny vesicles,
+
+00:05:11.680 --> 00:05:16.120
+little escape pods regularly shed
+by cells called exosomes.
+
+00:05:16.680 --> 00:05:19.416
+Exosomes are important biomarkers
+
+00:05:19.440 --> 00:05:22.720
+that provide an early-warning system
+for the development of cancer.
+
+00:05:23.720 --> 00:05:27.136
+And because they're abundantly present
+in just about every bodily fluid,
+
+00:05:27.160 --> 00:05:29.656
+including blood, urine and saliva,
+
+00:05:29.680 --> 00:05:33.880
+they're extremely attractive
+for noninvasive liquid biopsies.
+
+00:05:35.040 --> 00:05:36.616
+There's just one problem.
+
+00:05:36.640 --> 00:05:40.936
+An automated system for rapidly sorting
+these important biomarkers
+
+00:05:40.960 --> 00:05:42.560
+is not currently available.
+
+00:05:43.680 --> 00:05:46.976
+We've created a technology
+that we call nano-DLD
+
+00:05:47.000 --> 00:05:49.120
+that is capable of precisely this:
+
+00:05:49.920 --> 00:05:52.616
+automated exosome isolation
+
+00:05:52.640 --> 00:05:55.120
+to aid rapid cancer diagnostics.
+
+00:05:56.040 --> 00:05:59.576
+Exosomes are the newest
+early-warning weapon, if you will,
+
+00:05:59.600 --> 00:06:01.656
+to emerge on the liquid biopsy front.
+
+00:06:01.680 --> 00:06:03.976
+And they're really, really small.
+
+00:06:04.000 --> 00:06:07.520
+They measure just 30 to 150
+nanometers in diameter.
+
+00:06:08.280 --> 00:06:09.576
+This is so tiny
+
+00:06:09.600 --> 00:06:13.240
+that you could fit about a million
+of them into a single red blood cell.
+
+00:06:13.800 --> 00:06:16.136
+That's roughly the difference
+between a golf ball
+
+00:06:16.160 --> 00:06:17.880
+and a fine grain piece of sand.
+
+00:06:18.920 --> 00:06:22.616
+Once thought to be little bins
+for unwanted cellular waste,
+
+00:06:22.640 --> 00:06:25.616
+it has been found
+that cells actually communicate
+
+00:06:25.640 --> 00:06:28.776
+by producing and absorbing these exosomes
+
+00:06:28.800 --> 00:06:31.176
+which contain surface receptors,
+
+00:06:31.200 --> 00:06:35.200
+proteins and other genetic material
+collected from their cell of origin.
+
+00:06:36.520 --> 00:06:39.176
+When absorbed by a neighboring cell,
+
+00:06:39.200 --> 00:06:43.016
+exosomes release their contents
+into the receiving cell,
+
+00:06:43.040 --> 00:06:46.256
+and can set in motion
+fundamental changes in gene expression --
+
+00:06:46.280 --> 00:06:47.496
+some good,
+
+00:06:47.520 --> 00:06:49.256
+and this is where cancer comes in,
+
+00:06:49.280 --> 00:06:50.856
+some bad.
+
+00:06:50.880 --> 00:06:54.656
+Because they are clothed
+in the material of the mother cell,
+
+00:06:54.680 --> 00:06:56.616
+and contain a sample of its environment,
+
+00:06:56.640 --> 00:07:01.720
+they provide a genetic snapshot
+of that cell's health and its origin.
+
+00:07:03.200 --> 00:07:06.336
+All of these qualities
+make exosomes invaluable messengers
+
+00:07:06.360 --> 00:07:07.976
+that potentially allow physicians
+
+00:07:08.000 --> 00:07:10.920
+to eavesdrop on your health
+at the cellular level.
+
+00:07:12.080 --> 00:07:13.736
+To catch cancer early, however,
+
+00:07:13.760 --> 00:07:16.696
+you have to frequently
+intercept these messages
+
+00:07:16.720 --> 00:07:20.216
+to determine when cancer-causing
+troublemakers within your body
+
+00:07:20.240 --> 00:07:22.056
+decide to start staging a coup,
+
+00:07:22.080 --> 00:07:25.096
+which is why regular
+screening is so critical
+
+00:07:25.120 --> 00:07:27.960
+and why we're developing
+technologies to make this possible.
+
+00:07:29.120 --> 00:07:34.776
+While the first exosome-based diagnostics
+emerged on the market just this year,
+
+00:07:34.800 --> 00:07:38.080
+they are not yet part
+of mainstream healthcare options.
+
+00:07:39.320 --> 00:07:41.176
+In addition to their recent emergence,
+
+00:07:41.200 --> 00:07:44.656
+another factor that's limiting
+their widespread adoption
+
+00:07:44.680 --> 00:07:48.616
+is that currently, no automated
+exosome isolation system exists
+
+00:07:48.640 --> 00:07:51.840
+to make regular screening
+economically accessible.
+
+00:07:52.800 --> 00:07:55.536
+The current gold standard
+for exosome isolation
+
+00:07:55.560 --> 00:07:57.496
+includes ultracentrifugation,
+
+00:07:57.520 --> 00:08:00.776
+a process requiring
+expensive laboratory equipment,
+
+00:08:00.800 --> 00:08:02.056
+a trained lab tech
+
+00:08:02.080 --> 00:08:05.120
+and about 30 hours of time
+to process a sample.
+
+00:08:06.600 --> 00:08:11.256
+We've come up with a different approach
+for achieving automated exosome isolation
+
+00:08:11.280 --> 00:08:12.720
+from a sample such as urine.
+
+00:08:13.560 --> 00:08:17.816
+We use a chip-based, continuous flow
+separation technique
+
+00:08:17.840 --> 00:08:20.816
+called deterministic lateral displacement.
+
+00:08:20.840 --> 00:08:22.216
+And we have done with it
+
+00:08:22.240 --> 00:08:26.696
+what the semiconductor industry has done
+so successfully for the past 50 years.
+
+00:08:26.720 --> 00:08:28.776
+We shrunk the dimensions
+of this technology
+
+00:08:28.800 --> 00:08:31.440
+from the micron scale
+to the true nanoscale.
+
+00:08:32.720 --> 00:08:34.176
+So how does it work?
+
+00:08:34.200 --> 00:08:35.456
+In a nutshell,
+
+00:08:35.480 --> 00:08:39.456
+a set of tiny pillars
+separated by nanoscopic gaps
+
+00:08:39.480 --> 00:08:40.736
+are arranged in such a way
+
+00:08:40.760 --> 00:08:43.816
+that the system divides
+the fluid into streamlines,
+
+00:08:43.840 --> 00:08:47.216
+with the larger cancer-related
+nanoparticles being separated
+
+00:08:47.240 --> 00:08:51.136
+through a process of redirection
+from the smaller, healthier ones,
+
+00:08:51.160 --> 00:08:52.696
+which can in contrast
+
+00:08:52.720 --> 00:08:55.256
+move around the pillars
+in a zigzag-type motion
+
+00:08:55.280 --> 00:08:56.840
+in the direction of fluid flow.
+
+00:08:58.080 --> 00:09:02.080
+The net result is a complete separation
+of these two particle populations.
+
+00:09:03.440 --> 00:09:07.136
+You can visualize this separation process
+
+00:09:07.160 --> 00:09:11.016
+similar to traffic on a highway
+that separates into two roads,
+
+00:09:11.040 --> 00:09:14.496
+with one road going into
+a low-clearance tunnel under a mountain,
+
+00:09:14.520 --> 00:09:16.576
+and the other road going around it.
+
+00:09:16.600 --> 00:09:19.376
+Here, smaller cars
+can go through the tunnel
+
+00:09:19.400 --> 00:09:22.696
+while larger trucks,
+carrying potentially hazardous material,
+
+00:09:22.720 --> 00:09:24.480
+are forced to take the detour route.
+
+00:09:25.600 --> 00:09:29.696
+Traffic is effectively separated
+by size and contents
+
+00:09:29.720 --> 00:09:31.736
+without impeding its flow.
+
+00:09:31.760 --> 00:09:36.040
+And this is exactly how our system works
+on a much, much smaller scale.
+
+00:09:37.600 --> 00:09:41.456
+The idea here is that
+the separation process for screening
+
+00:09:41.480 --> 00:09:45.536
+could be as simple as processing
+a sample of urine, blood or saliva,
+
+00:09:45.560 --> 00:09:48.856
+which is a near-term possibility
+within the next few years.
+
+00:09:48.880 --> 00:09:54.176
+Ultimately, it could be used
+to isolate and detect target exosomes
+
+00:09:54.200 --> 00:09:57.416
+associated with
+a particular type of cancer,
+
+00:09:57.440 --> 00:09:59.880
+sensing and reporting
+their presence within minutes.
+
+00:10:00.600 --> 00:10:03.800
+This would make rapid diagnostics
+virtually painless.
+
+00:10:04.720 --> 00:10:05.976
+Broadly speaking,
+
+00:10:06.000 --> 00:10:08.656
+the ability to separate
+and enrich biomarkers
+
+00:10:08.680 --> 00:10:11.400
+with nanoscale precision
+in an automated way,
+
+00:10:12.320 --> 00:10:15.776
+opens the door to better understanding
+diseases such as cancer,
+
+00:10:15.800 --> 00:10:19.776
+with applications ranging
+from sample preparation to diagnostics,
+
+00:10:19.800 --> 00:10:22.280
+and from drug resistance
+monitoring to therapeutics.
+
+00:10:23.440 --> 00:10:25.456
+Even before my wife's bout with cancer,
+
+00:10:25.480 --> 00:10:28.960
+it was a dream of mine to facilitate
+the automation of this process --
+
+00:10:29.840 --> 00:10:32.776
+to make regular screening more accessible,
+
+00:10:32.800 --> 00:10:35.696
+similar to the way Henry Ford
+made the automobile accessible
+
+00:10:35.720 --> 00:10:37.296
+to the general population
+
+00:10:37.320 --> 00:10:39.576
+through development of the assembly line.
+
+00:10:39.600 --> 00:10:42.360
+Automation is the key to accessibility.
+
+00:10:44.280 --> 00:10:46.136
+And in the spirit of the Hoover dream,
+
+00:10:46.160 --> 00:10:49.056
+"a chicken in every pot
+and a car in every garage,"
+
+00:10:49.080 --> 00:10:50.496
+we're developing a technology
+
+00:10:50.520 --> 00:10:54.336
+that could ultimately place
+an early-warning cancer detection system
+
+00:10:54.360 --> 00:10:55.560
+in every home.
+
+00:10:56.000 --> 00:10:58.056
+This would allow
+every man, woman and child
+
+00:10:58.080 --> 00:11:02.216
+the opportunity to be regularly tested
+while they're still healthy,
+
+00:11:02.240 --> 00:11:04.120
+catching cancer when it first emerges.
+
+00:11:05.400 --> 00:11:06.896
+It is my hope and dream
+
+00:11:06.920 --> 00:11:10.616
+to help people around the world
+avoid the high costs --
+
+00:11:10.640 --> 00:11:13.176
+physical, financial and emotional --
+
+00:11:13.200 --> 00:11:14.920
+faced by today's cancer patients,
+
+00:11:15.600 --> 00:11:17.920
+hardships that I'm well acquainted with.
+
+00:11:19.400 --> 00:11:23.776
+I'm also happy to report that because
+we caught my wife's cancer early,
+
+00:11:23.800 --> 00:11:25.456
+her treatment was successful,
+
+00:11:25.480 --> 00:11:27.736
+and she is now, thankfully, cancer-free.
+
+00:11:27.760 --> 00:11:29.960
+(Applause)
+
+00:11:36.160 --> 00:11:40.560
+It is an outcome that I would like to see
+for everyone with a cancer diagnosis.
+
+00:11:41.280 --> 00:11:43.336
+With the work that my team
+has already done
+
+00:11:43.360 --> 00:11:46.096
+on separation of nanoscale biomarkers
+
+00:11:46.120 --> 00:11:49.056
+for rapid, early-stage cancer diagnostics,
+
+00:11:49.080 --> 00:11:51.616
+I am optimistic
+that within the next decade,
+
+00:11:51.640 --> 00:11:54.216
+this type of technology will be available,
+
+00:11:54.240 --> 00:11:58.120
+helping protect our friends,
+our family and future generations.
+
+00:11:58.680 --> 00:12:02.576
+Even if we are so unlucky
+as to be diagnosed with cancer,
+
+00:12:02.600 --> 00:12:05.480
+that early-stage alarm
+will provide a strong beacon of hope.
+
+00:12:06.280 --> 00:12:07.496
+Thank you.
+
+00:12:07.520 --> 00:12:13.309
+(Applause)
+

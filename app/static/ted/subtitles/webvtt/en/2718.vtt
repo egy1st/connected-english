@@ -1,0 +1,1015 @@
+WEBVTT
+
+00:00:00.884 --> 00:00:03.647
+I'm going to be talking
+about statistics today.
+
+00:00:03.671 --> 00:00:06.809
+If that makes you immediately feel
+a little bit wary, that's OK,
+
+00:00:06.833 --> 00:00:09.692
+that doesn't make you some
+kind of crazy conspiracy theorist,
+
+00:00:09.716 --> 00:00:11.012
+it makes you skeptical.
+
+00:00:11.036 --> 00:00:14.922
+And when it comes to numbers,
+especially now, you should be skeptical.
+
+00:00:14.946 --> 00:00:17.957
+But you should also be able to tell
+which numbers are reliable
+
+00:00:17.981 --> 00:00:19.141
+and which ones aren't.
+
+00:00:19.165 --> 00:00:22.371
+So today I want to try to give you
+some tools to be able to do that.
+
+00:00:22.395 --> 00:00:23.564
+But before I do,
+
+00:00:23.588 --> 00:00:26.427
+I just want to clarify which numbers
+I'm talking about here.
+
+00:00:26.451 --> 00:00:28.086
+I'm not talking about claims like,
+
+00:00:28.110 --> 00:00:30.559
+"9 out of 10 women recommend
+this anti-aging cream."
+
+00:00:30.583 --> 00:00:33.555
+I think a lot of us always
+roll our eyes at numbers like that.
+
+00:00:33.579 --> 00:00:36.563
+What's different now is people
+are questioning statistics like,
+
+00:00:36.587 --> 00:00:38.601
+"The US unemployment
+rate is five percent."
+
+00:00:38.625 --> 00:00:42.141
+What makes this claim different is
+it doesn't come from a private company,
+
+00:00:42.165 --> 00:00:43.553
+it comes from the government.
+
+00:00:43.577 --> 00:00:46.913
+About 4 out of 10 Americans
+distrust the economic data
+
+00:00:46.937 --> 00:00:48.510
+that gets reported by government.
+
+00:00:48.534 --> 00:00:51.025
+Among supporters of President Trump
+it's even higher;
+
+00:00:51.049 --> 00:00:52.682
+it's about 7 out of 10.
+
+00:00:52.706 --> 00:00:54.510
+I don't need to tell anyone here
+
+00:00:54.534 --> 00:00:57.545
+that there are a lot of dividing lines
+in our society right now,
+
+00:00:57.569 --> 00:00:59.394
+and a lot of them start to make sense,
+
+00:00:59.418 --> 00:01:03.105
+once you understand people's relationships
+with these government numbers.
+
+00:01:03.129 --> 00:01:06.465
+On the one hand, there are those who say
+these statistics are crucial,
+
+00:01:06.489 --> 00:01:09.119
+that we need them to make sense
+of society as a whole
+
+00:01:09.143 --> 00:01:11.307
+in order to move beyond
+emotional anecdotes
+
+00:01:11.331 --> 00:01:13.741
+and measure progress
+in an [objective] way.
+
+00:01:13.765 --> 00:01:15.232
+And then there are the others,
+
+00:01:15.256 --> 00:01:17.412
+who say that these statistics are elitist,
+
+00:01:17.436 --> 00:01:18.644
+maybe even rigged;
+
+00:01:18.668 --> 00:01:21.062
+they don't make sense
+and they don't really reflect
+
+00:01:21.086 --> 00:01:23.382
+what's happening
+in people's everyday lives.
+
+00:01:23.406 --> 00:01:26.893
+It kind of feels like that second group
+is winning the argument right now.
+
+00:01:26.917 --> 00:01:29.025
+We're living in a world
+of alternative facts,
+
+00:01:29.049 --> 00:01:31.984
+where people don't find statistics
+this kind of common ground,
+
+00:01:32.008 --> 00:01:33.644
+this starting point for debate.
+
+00:01:33.668 --> 00:01:34.954
+This is a problem.
+
+00:01:34.978 --> 00:01:37.045
+There are actually
+moves in the US right now
+
+00:01:37.069 --> 00:01:39.930
+to get rid of some government
+statistics altogether.
+
+00:01:39.954 --> 00:01:43.341
+Right now there's a bill in congress
+about measuring racial inequality.
+
+00:01:43.365 --> 00:01:46.166
+The draft law says that government
+money should not be used
+
+00:01:46.190 --> 00:01:48.092
+to collect data on racial segregation.
+
+00:01:48.116 --> 00:01:50.001
+This is a total disaster.
+
+00:01:50.025 --> 00:01:51.773
+If we don't have this data,
+
+00:01:51.797 --> 00:01:53.575
+how can we observe discrimination,
+
+00:01:53.599 --> 00:01:54.877
+let alone fix it?
+
+00:01:54.901 --> 00:01:56.089
+In other words:
+
+00:01:56.113 --> 00:01:58.172
+How can a government create fair policies
+
+00:01:58.196 --> 00:02:00.967
+if they can't measure
+current levels of unfairness?
+
+00:02:00.991 --> 00:02:02.785
+This isn't just about discrimination,
+
+00:02:02.809 --> 00:02:04.479
+it's everything -- think about it.
+
+00:02:04.503 --> 00:02:06.193
+How can we legislate on health care
+
+00:02:06.217 --> 00:02:08.488
+if we don't have good data
+on health or poverty?
+
+00:02:08.512 --> 00:02:10.710
+How can we have public debate
+about immigration
+
+00:02:10.734 --> 00:02:11.984
+if we can't at least agree
+
+00:02:12.008 --> 00:02:14.651
+on how many people are entering
+and leaving the country?
+
+00:02:14.675 --> 00:02:17.733
+Statistics come from the state;
+that's where they got their name.
+
+00:02:17.757 --> 00:02:19.914
+The point was to better
+measure the population
+
+00:02:19.938 --> 00:02:21.295
+in order to better serve it.
+
+00:02:21.319 --> 00:02:23.044
+So we need these government numbers,
+
+00:02:23.068 --> 00:02:25.715
+but we also have to move
+beyond either blindly accepting
+
+00:02:25.739 --> 00:02:27.007
+or blindly rejecting them.
+
+00:02:27.031 --> 00:02:30.028
+We need to learn the skills
+to be able to spot bad statistics.
+
+00:02:30.052 --> 00:02:31.580
+I started to learn some of these
+
+00:02:31.604 --> 00:02:33.770
+when I was working
+in a statistical department
+
+00:02:33.794 --> 00:02:35.437
+that's part of the United Nations.
+
+00:02:35.461 --> 00:02:38.867
+Our job was to find out how many Iraqis
+had been forced from their homes
+
+00:02:38.891 --> 00:02:40.049
+as a result of the war,
+
+00:02:40.073 --> 00:02:41.231
+and what they needed.
+
+00:02:41.255 --> 00:02:44.433
+It was really important work,
+but it was also incredibly difficult.
+
+00:02:44.457 --> 00:02:46.475
+Every single day, we were making decisions
+
+00:02:46.499 --> 00:02:48.656
+that affected the accuracy
+of our numbers --
+
+00:02:48.680 --> 00:02:51.424
+decisions like which parts
+of the country we should go to,
+
+00:02:51.448 --> 00:02:52.604
+who we should speak to,
+
+00:02:52.628 --> 00:02:54.196
+which questions we should ask.
+
+00:02:54.220 --> 00:02:56.900
+And I started to feel
+really disillusioned with our work,
+
+00:02:56.924 --> 00:02:59.442
+because we thought we were doing
+a really good job,
+
+00:02:59.466 --> 00:03:02.744
+but the one group of people
+who could really tell us were the Iraqis,
+
+00:03:02.768 --> 00:03:06.308
+and they rarely got the chance to find
+our analysis, let alone question it.
+
+00:03:06.332 --> 00:03:08.163
+So I started to feel really determined
+
+00:03:08.187 --> 00:03:10.498
+that the one way to make
+numbers more accurate
+
+00:03:10.522 --> 00:03:13.575
+is to have as many people as possible
+be able to question them.
+
+00:03:13.599 --> 00:03:15.033
+So I became a data journalist.
+
+00:03:15.057 --> 00:03:18.961
+My job is finding these data sets
+and sharing them with the public.
+
+00:03:18.985 --> 00:03:22.158
+Anyone can do this,
+you don't have to be a geek or a nerd.
+
+00:03:22.182 --> 00:03:24.537
+You can ignore those words;
+they're used by people
+
+00:03:24.561 --> 00:03:27.383
+trying to say they're smart
+while pretending they're humble.
+
+00:03:27.407 --> 00:03:28.996
+Absolutely anyone can do this.
+
+00:03:29.020 --> 00:03:31.087
+I want to give you guys three questions
+
+00:03:31.111 --> 00:03:34.116
+that will help you be able to spot
+some bad statistics.
+
+00:03:34.140 --> 00:03:37.647
+So, question number one
+is: Can you see uncertainty?
+
+00:03:37.671 --> 00:03:41.035
+One of things that's really changed
+people's relationship with numbers,
+
+00:03:41.059 --> 00:03:42.700
+and even their trust in the media,
+
+00:03:42.724 --> 00:03:44.982
+has been the use of political polls.
+
+00:03:45.006 --> 00:03:47.544
+I personally have a lot of issues
+with political polls
+
+00:03:47.568 --> 00:03:50.944
+because I think the role of journalists
+is actually to report the facts
+
+00:03:50.968 --> 00:03:52.521
+and not attempt to predict them,
+
+00:03:52.545 --> 00:03:55.541
+especially when those predictions
+can actually damage democracy
+
+00:03:55.565 --> 00:03:58.297
+by signaling to people:
+don't bother to vote for that guy,
+
+00:03:58.321 --> 00:03:59.526
+he doesn't have a chance.
+
+00:03:59.550 --> 00:04:03.204
+Let's set that aside for now and talk
+about the accuracy of this endeavor.
+
+00:04:03.228 --> 00:04:07.836
+Based on national elections
+in the UK, Italy, Israel
+
+00:04:07.860 --> 00:04:10.624
+and of course, the most recent
+US presidential election,
+
+00:04:10.648 --> 00:04:12.785
+using polls to predict electoral outcomes
+
+00:04:12.809 --> 00:04:16.621
+is about as accurate as using the moon
+to predict hospital admissions.
+
+00:04:16.645 --> 00:04:20.845
+No, seriously, I used actual data
+from an academic study to draw this.
+
+00:04:20.869 --> 00:04:24.596
+There are a lot of reasons why
+polling has become so inaccurate.
+
+00:04:24.620 --> 00:04:26.590
+Our societies have become really diverse,
+
+00:04:26.614 --> 00:04:30.435
+which makes it difficult for pollsters
+to get a really nice representative sample
+
+00:04:30.459 --> 00:04:32.086
+of the population for their polls.
+
+00:04:32.110 --> 00:04:35.116
+People are really reluctant to answer
+their phones to pollsters,
+
+00:04:35.140 --> 00:04:37.416
+and also, shockingly enough,
+people might lie.
+
+00:04:37.440 --> 00:04:40.251
+But you wouldn't necessarily
+know that to look at the media.
+
+00:04:40.275 --> 00:04:43.036
+For one thing, the probability
+of a Hillary Clinton win
+
+00:04:43.060 --> 00:04:45.851
+was communicated with decimal places.
+
+00:04:45.875 --> 00:04:48.496
+We don't use decimal places
+to describe the temperature.
+
+00:04:48.520 --> 00:04:52.748
+How on earth can predicting the behavior
+of 230 million voters in this country
+
+00:04:52.772 --> 00:04:54.601
+be that precise?
+
+00:04:54.625 --> 00:04:56.627
+And then there were those sleek charts.
+
+00:04:56.651 --> 00:05:00.624
+See, a lot of data visualizations
+will overstate certainty, and it works --
+
+00:05:00.648 --> 00:05:03.268
+these charts can numb
+our brains to criticism.
+
+00:05:03.292 --> 00:05:05.850
+When you hear a statistic,
+you might feel skeptical.
+
+00:05:05.874 --> 00:05:07.509
+As soon as it's buried in a chart,
+
+00:05:07.533 --> 00:05:09.662
+it feels like some kind
+of objective science,
+
+00:05:09.686 --> 00:05:10.935
+and it's not.
+
+00:05:10.959 --> 00:05:14.062
+So I was trying to find ways
+to better communicate this to people,
+
+00:05:14.086 --> 00:05:16.590
+to show people the uncertainty
+in our numbers.
+
+00:05:16.614 --> 00:05:18.860
+What I did was I started taking
+real data sets,
+
+00:05:18.884 --> 00:05:21.536
+and turning them into
+hand-drawn visualizations,
+
+00:05:21.560 --> 00:05:24.232
+so that people can see
+how imprecise the data is;
+
+00:05:24.256 --> 00:05:26.252
+so people can see that a human did this,
+
+00:05:26.276 --> 00:05:28.248
+a human found the data and visualized it.
+
+00:05:28.272 --> 00:05:30.944
+For example, instead
+of finding out the probability
+
+00:05:30.968 --> 00:05:33.094
+of getting the flu in any given month,
+
+00:05:33.118 --> 00:05:35.910
+you can see the rough
+distribution of flu season.
+
+00:05:35.934 --> 00:05:37.101
+This is --
+
+00:05:37.125 --> 00:05:38.143
+(Laughter)
+
+00:05:38.167 --> 00:05:39.653
+a bad shot to show in February.
+
+00:05:39.677 --> 00:05:42.132
+But it's also more responsible
+data visualization,
+
+00:05:42.156 --> 00:05:44.611
+because if you were to show
+the exact probabilities,
+
+00:05:44.635 --> 00:05:47.227
+maybe that would encourage
+people to get their flu jabs
+
+00:05:47.251 --> 00:05:48.707
+at the wrong time.
+
+00:05:49.163 --> 00:05:50.856
+The point of these shaky lines
+
+00:05:50.880 --> 00:05:53.791
+is so that people remember
+these imprecisions,
+
+00:05:53.815 --> 00:05:57.042
+but also so they don't necessarily
+walk away with a specific number,
+
+00:05:57.066 --> 00:05:58.932
+but they can remember important facts.
+
+00:05:58.956 --> 00:06:02.980
+Facts like injustice and inequality
+leave a huge mark on our lives.
+
+00:06:03.004 --> 00:06:07.193
+Facts like Black Americans and Native
+Americans have shorter life expectancies
+
+00:06:07.217 --> 00:06:08.617
+than those of other races,
+
+00:06:08.641 --> 00:06:10.779
+and that isn't changing anytime soon.
+
+00:06:10.803 --> 00:06:14.704
+Facts like prisoners in the US
+can be kept in solitary confinement cells
+
+00:06:14.728 --> 00:06:18.070
+that are smaller than the size
+of an average parking space.
+
+00:06:18.535 --> 00:06:21.870
+The point of these visualizations
+is also to remind people
+
+00:06:21.894 --> 00:06:24.244
+of some really important
+statistical concepts,
+
+00:06:24.268 --> 00:06:25.904
+concepts like averages.
+
+00:06:25.928 --> 00:06:27.596
+So let's say you hear a claim like,
+
+00:06:27.620 --> 00:06:32.054
+"The average swimming pool in the US
+contains 6.23 fecal accidents."
+
+00:06:32.078 --> 00:06:34.875
+That doesn't mean every single
+swimming pool in the country
+
+00:06:34.899 --> 00:06:37.093
+contains exactly 6.23 turds.
+
+00:06:37.117 --> 00:06:38.534
+So in order to show that,
+
+00:06:38.558 --> 00:06:41.399
+I went back to the original data,
+which comes from the CDC,
+
+00:06:41.423 --> 00:06:43.488
+who surveyed 47 swimming facilities.
+
+00:06:43.512 --> 00:06:45.903
+And I just spent one evening
+redistributing poop.
+
+00:06:45.927 --> 00:06:48.609
+So you can kind of see
+how misleading averages can be.
+
+00:06:48.633 --> 00:06:49.915
+(Laughter)
+
+00:06:49.939 --> 00:06:53.840
+OK, so the second question
+that you guys should be asking yourselves
+
+00:06:53.864 --> 00:06:55.365
+to spot bad numbers is:
+
+00:06:55.389 --> 00:06:57.356
+Can I see myself in the data?
+
+00:06:57.380 --> 00:07:00.293
+This question is also
+about averages in a way,
+
+00:07:00.317 --> 00:07:02.922
+because part of the reason
+why people are so frustrated
+
+00:07:02.946 --> 00:07:04.441
+with these national statistics,
+
+00:07:04.465 --> 00:07:07.738
+is they don't really tell the story
+of who's winning and who's losing
+
+00:07:07.762 --> 00:07:08.918
+from national policy.
+
+00:07:08.942 --> 00:07:12.260
+It's easy to understand why people
+are frustrated with global averages
+
+00:07:12.284 --> 00:07:14.963
+when they don't match up
+with their personal experiences.
+
+00:07:14.987 --> 00:07:18.250
+I wanted to show people the way
+data relates to their everyday lives.
+
+00:07:18.274 --> 00:07:20.520
+I started this advice column
+called "Dear Mona,"
+
+00:07:20.544 --> 00:07:23.270
+where people would write to me
+with questions and concerns
+
+00:07:23.294 --> 00:07:25.078
+and I'd try to answer them with data.
+
+00:07:25.102 --> 00:07:26.302
+People asked me anything.
+
+00:07:26.326 --> 00:07:29.587
+questions like, "Is it normal to sleep
+in a separate bed to my wife?"
+
+00:07:29.611 --> 00:07:31.202
+"Do people regret their tattoos?"
+
+00:07:31.226 --> 00:07:33.390
+"What does it mean to die
+of natural causes?"
+
+00:07:33.414 --> 00:07:36.380
+All of these questions are great,
+because they make you think
+
+00:07:36.404 --> 00:07:38.740
+about ways to find
+and communicate these numbers.
+
+00:07:38.764 --> 00:07:41.267
+If someone asks you,
+"How much pee is a lot of pee?"
+
+00:07:41.291 --> 00:07:43.749
+which is a question that I got asked,
+
+00:07:43.773 --> 00:07:46.753
+you really want to make sure
+that the visualization makes sense
+
+00:07:46.777 --> 00:07:48.524
+to as many people as possible.
+
+00:07:48.548 --> 00:07:50.123
+These numbers aren't unavailable.
+
+00:07:50.147 --> 00:07:53.654
+Sometimes they're just buried
+in the appendix of an academic study.
+
+00:07:53.678 --> 00:07:55.517
+And they're certainly not inscrutable;
+
+00:07:55.541 --> 00:07:58.516
+if you really wanted to test
+these numbers on urination volume,
+
+00:07:58.540 --> 00:08:00.797
+you could grab a bottle
+and try it for yourself.
+
+00:08:00.821 --> 00:08:01.829
+(Laughter)
+
+00:08:01.853 --> 00:08:03.547
+The point of this isn't necessarily
+
+00:08:03.571 --> 00:08:06.448
+that every single data set
+has to relate specifically to you.
+
+00:08:06.472 --> 00:08:09.352
+I'm interested in how many women
+were issued fines in France
+
+00:08:09.376 --> 00:08:11.335
+for wearing the face veil, or the niqab,
+
+00:08:11.359 --> 00:08:13.977
+even if I don't live in France
+or wear the face veil.
+
+00:08:14.001 --> 00:08:17.836
+The point of asking where you fit in
+is to get as much context as possible.
+
+00:08:17.860 --> 00:08:20.051
+So it's about zooming out
+from one data point,
+
+00:08:20.075 --> 00:08:22.179
+like the unemployment rate
+is five percent,
+
+00:08:22.203 --> 00:08:23.960
+and seeing how it changes over time,
+
+00:08:23.984 --> 00:08:26.634
+or seeing how it changes
+by educational status --
+
+00:08:26.658 --> 00:08:29.762
+this is why your parents always
+wanted you to go to college --
+
+00:08:29.786 --> 00:08:31.818
+or seeing how it varies by gender.
+
+00:08:31.842 --> 00:08:33.969
+Nowadays, male unemployment rate is higher
+
+00:08:33.993 --> 00:08:35.693
+than the female unemployment rate.
+
+00:08:35.717 --> 00:08:38.412
+Up until the early '80s,
+it was the other way around.
+
+00:08:38.436 --> 00:08:40.553
+This is a story of one
+of the biggest changes
+
+00:08:40.577 --> 00:08:42.297
+that's happened in American society,
+
+00:08:42.321 --> 00:08:45.597
+and it's all there in that chart,
+once you look beyond the averages.
+
+00:08:45.621 --> 00:08:46.786
+The axes are everything;
+
+00:08:46.810 --> 00:08:49.479
+once you change the scale,
+you can change the story.
+
+00:08:49.503 --> 00:08:52.883
+OK, so the third and final question
+that I want you guys to think about
+
+00:08:52.907 --> 00:08:54.726
+when you're looking at statistics is:
+
+00:08:54.750 --> 00:08:56.623
+How was the data collected?
+
+00:08:57.667 --> 00:09:00.606
+So far, I've only talked about the way
+data is communicated,
+
+00:09:00.630 --> 00:09:02.906
+but the way it's collected
+matters just as much.
+
+00:09:02.930 --> 00:09:04.097
+I know this is tough,
+
+00:09:04.121 --> 00:09:07.202
+because methodologies can be opaque
+and actually kind of boring,
+
+00:09:07.226 --> 00:09:10.099
+but there are some simple steps
+you can take to check this.
+
+00:09:10.123 --> 00:09:11.962
+I'll use one last example here.
+
+00:09:12.309 --> 00:09:16.196
+One poll found that 41 percent of Muslims
+in this country support jihad,
+
+00:09:16.220 --> 00:09:17.745
+which is obviously pretty scary,
+
+00:09:17.769 --> 00:09:20.411
+and it was reported everywhere in 2015.
+
+00:09:20.435 --> 00:09:23.050
+When I want to check a number like that,
+
+00:09:23.074 --> 00:09:25.575
+I'll start off by finding
+the original questionnaire.
+
+00:09:25.599 --> 00:09:28.525
+It turns out that journalists
+who reported on that statistic
+
+00:09:28.549 --> 00:09:30.780
+ignored a question
+lower down on the survey
+
+00:09:30.804 --> 00:09:33.150
+that asked respondents
+how they defined "jihad."
+
+00:09:33.174 --> 00:09:35.155
+And most of them defined it as,
+
+00:09:35.179 --> 00:09:39.121
+"Muslims' personal, peaceful struggle
+to be more religious."
+
+00:09:39.145 --> 00:09:43.339
+Only 16 percent defined it as,
+"violent holy war against unbelievers."
+
+00:09:43.363 --> 00:09:45.793
+This is the really important point:
+
+00:09:45.817 --> 00:09:47.972
+based on those numbers,
+it's totally possible
+
+00:09:47.996 --> 00:09:51.101
+that no one in the survey
+who defined it as violent holy war
+
+00:09:51.125 --> 00:09:52.457
+also said they support it.
+
+00:09:52.481 --> 00:09:54.689
+Those two groups might not overlap at all.
+
+00:09:55.122 --> 00:09:57.759
+It's also worth asking
+how the survey was carried out.
+
+00:09:57.783 --> 00:09:59.781
+This was something called an opt-in poll,
+
+00:09:59.805 --> 00:10:03.207
+which means anyone could have found it
+on the internet and completed it.
+
+00:10:03.231 --> 00:10:06.570
+There's no way of knowing
+if those people even identified as Muslim.
+
+00:10:06.594 --> 00:10:09.206
+And finally, there were 600
+respondents in that poll.
+
+00:10:09.230 --> 00:10:11.884
+There are roughly three million
+Muslims in this country,
+
+00:10:11.908 --> 00:10:13.515
+according to Pew Research Center.
+
+00:10:13.539 --> 00:10:16.532
+That means the poll spoke to roughly
+one in every 5,000 Muslims
+
+00:10:16.556 --> 00:10:17.724
+in this country.
+
+00:10:17.748 --> 00:10:19.014
+This is one of the reasons
+
+00:10:19.038 --> 00:10:22.645
+why government statistics
+are often better than private statistics.
+
+00:10:22.669 --> 00:10:25.704
+A poll might speak to a couple
+hundred people, maybe a thousand,
+
+00:10:25.728 --> 00:10:28.786
+or if you're L'Oreal, trying to sell
+skin care products in 2005,
+
+00:10:28.810 --> 00:10:31.227
+then you spoke to 48 women
+to claim that they work.
+
+00:10:31.251 --> 00:10:32.277
+(Laughter)
+
+00:10:32.301 --> 00:10:35.857
+Private companies don't have a huge
+interest in getting the numbers right,
+
+00:10:35.881 --> 00:10:37.636
+they just need the right numbers.
+
+00:10:37.660 --> 00:10:39.680
+Government statisticians aren't like that.
+
+00:10:39.704 --> 00:10:42.151
+In theory, at least,
+they're totally impartial,
+
+00:10:42.175 --> 00:10:45.676
+not least because most of them do
+their jobs regardless of who's in power.
+
+00:10:45.700 --> 00:10:46.862
+They're civil servants.
+
+00:10:46.886 --> 00:10:48.850
+And to do their jobs properly,
+
+00:10:48.874 --> 00:10:51.237
+they don't just speak
+to a couple hundred people.
+
+00:10:51.261 --> 00:10:53.579
+Those unemployment numbers
+I keep on referencing
+
+00:10:53.603 --> 00:10:55.607
+come from the Bureau of Labor Statistics,
+
+00:10:55.631 --> 00:10:56.966
+and to make their estimates,
+
+00:10:56.990 --> 00:11:00.479
+they speak to over 140,000
+businesses in this country.
+
+00:11:00.503 --> 00:11:02.228
+I get it, it's frustrating.
+
+00:11:02.252 --> 00:11:05.367
+If you want to test a statistic
+that comes from a private company,
+
+00:11:05.391 --> 00:11:08.752
+you can buy the face cream for you
+and a bunch of friends, test it out,
+
+00:11:08.776 --> 00:11:11.367
+if it doesn't work,
+you can say the numbers were wrong.
+
+00:11:11.391 --> 00:11:13.537
+But how do you question
+government statistics?
+
+00:11:13.561 --> 00:11:15.191
+You just keep checking everything.
+
+00:11:15.215 --> 00:11:17.128
+Find out how they collected the numbers.
+
+00:11:17.152 --> 00:11:20.277
+Find out if you're seeing everything
+on the chart you need to see.
+
+00:11:20.301 --> 00:11:23.266
+But don't give up on the numbers
+altogether, because if you do,
+
+00:11:23.290 --> 00:11:25.729
+we'll be making public policy
+decisions in the dark,
+
+00:11:25.753 --> 00:11:28.015
+using nothing but private
+interests to guide us.
+
+00:11:28.039 --> 00:11:29.205
+Thank you.
+
+00:11:29.229 --> 00:11:31.690
+(Applause)
+

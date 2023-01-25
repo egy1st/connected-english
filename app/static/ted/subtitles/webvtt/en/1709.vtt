@@ -1,0 +1,353 @@
+WEBVTT
+
+00:00:00.564 --> 00:00:05.650
+So just by a show of hands, how many of you all have a robot at home?
+
+00:00:05.650 --> 00:00:07.590
+Not very many of you.
+
+00:00:07.590 --> 00:00:09.586
+Okay. And actually of those hands,
+
+00:00:09.586 --> 00:00:12.619
+if you don't include Roomba how many of you have a robot at home?
+
+00:00:12.619 --> 00:00:14.076
+So a couple.
+
+00:00:14.076 --> 00:00:14.979
+That's okay.
+
+00:00:14.979 --> 00:00:17.454
+That's the problem that we're trying to solve at Romotive --
+
+00:00:17.454 --> 00:00:20.325
+that I and the other 20 nerds at Romotive are obsessed with solving.
+
+00:00:20.325 --> 00:00:24.327
+So we really want to build a robot that anyone can use,
+
+00:00:24.327 --> 00:00:26.579
+whether you're eight or 80.
+
+00:00:26.579 --> 00:00:29.303
+And as it turns out, that's a really hard problem,
+
+00:00:29.303 --> 00:00:32.036
+because you have to build a small, portable robot
+
+00:00:32.036 --> 00:00:34.412
+that's not only really affordable,
+
+00:00:34.412 --> 00:00:35.953
+but it has to be something
+
+00:00:35.953 --> 00:00:39.940
+that people actually want to take home and have around their kids.
+
+00:00:39.940 --> 00:00:43.237
+This robot can't be creepy or uncanny.
+
+00:00:43.237 --> 00:00:45.448
+He should be friendly and cute.
+
+00:00:45.448 --> 00:00:48.359
+So meet Romo.
+
+00:00:48.359 --> 00:00:52.216
+Romo's a robot that uses a device you already know and love --
+
+00:00:52.216 --> 00:00:55.065
+your iPhone -- as his brain.
+
+00:00:55.065 --> 00:00:59.176
+And by leveraging the power of the iPhone's processor,
+
+00:00:59.176 --> 00:01:03.627
+we can create a robot that is wi-fi enabled
+
+00:01:03.627 --> 00:01:07.311
+and computer vision-capable for 150 bucks,
+
+00:01:07.311 --> 00:01:12.243
+which is about one percent of what these kinds of robots have cost in the past.
+
+00:01:12.243 --> 00:01:15.860
+When Romo wakes up, he's in creature mode.
+
+00:01:15.860 --> 00:01:20.977
+So he's actually using the video camera on the device to follow my face.
+
+00:01:20.977 --> 00:01:22.476
+If I duck down, he'll follow me.
+
+00:01:22.476 --> 00:01:24.802
+He's wary, so he'll keep his eyes on me.
+
+00:01:24.802 --> 00:01:28.078
+If I come over here, he'll turn to follow me.
+
+00:01:28.078 --> 00:01:32.279
+If I come over here -- (Laughs)
+
+00:01:32.279 --> 00:01:33.662
+He's smart.
+
+00:01:33.662 --> 00:01:35.876
+And if I get too close to him,
+
+00:01:35.876 --> 00:01:39.009
+he gets scared just like any other creature.
+
+00:01:39.009 --> 00:01:42.459
+So in a lot of ways, Romo is like a pet that has a mind of his own.
+
+00:01:42.459 --> 00:01:44.352
+Thanks, little guy.
+
+00:01:44.352 --> 00:01:45.734
+(Sneezing sound)
+
+00:01:45.734 --> 00:01:47.825
+Bless you.
+
+00:01:47.825 --> 00:01:52.443
+And if I want to explore the world -- uh-oh, Romo's tired --
+
+00:01:52.443 --> 00:01:54.458
+if I want to explore the world with Romo,
+
+00:01:54.458 --> 00:01:57.392
+I can actually connect him from any other iOS device.
+
+00:01:57.392 --> 00:01:58.952
+So here's the iPad.
+
+00:01:58.952 --> 00:02:01.693
+And Romo will actually stream video to this device.
+
+00:02:01.693 --> 00:02:03.326
+So I can see everything that Romo sees,
+
+00:02:03.326 --> 00:02:05.358
+and I get a robot's-eye-view of the world.
+
+00:02:05.358 --> 00:02:06.794
+Now this is a free app on the App Store,
+
+00:02:06.794 --> 00:02:08.516
+so if any of you guys had this app on your phones,
+
+00:02:08.516 --> 00:02:12.243
+we could literally right now share control of the robot and play games together.
+
+00:02:12.243 --> 00:02:13.925
+So I'll show you really quickly,
+
+00:02:13.925 --> 00:02:15.771
+Romo actually -- he's streaming video,
+
+00:02:15.771 --> 00:02:17.961
+so you can see me and the entire TED audience.
+
+00:02:17.961 --> 00:02:19.493
+If I get in front of Romo here.
+
+00:02:19.493 --> 00:02:22.534
+And if I want to control him, I can just drive.
+
+00:02:22.534 --> 00:02:26.986
+So I can drive him around,
+
+00:02:26.986 --> 00:02:28.912
+and I can take pictures of you.
+
+00:02:28.912 --> 00:02:31.317
+I've always wanted a picture of a 1,500-person TED audience.
+
+00:02:31.317 --> 00:02:32.819
+So I'll snap a picture.
+
+00:02:32.819 --> 00:02:35.379
+And in the same way that you scroll through content on an iPad,
+
+00:02:35.379 --> 00:02:38.969
+I can actually adjust the angle of the camera on the device.
+
+00:02:38.969 --> 00:02:43.700
+So there are all of you through Romo's eyes.
+
+00:02:43.700 --> 00:02:46.786
+And finally, because Romo is an extension of me,
+
+00:02:46.786 --> 00:02:48.804
+I can express myself through his emotions.
+
+00:02:48.804 --> 00:02:54.070
+So I can go in and I can say let's make Romo excited.
+
+00:02:54.070 --> 00:02:55.453
+But the most important thing about Romo
+
+00:02:55.453 --> 00:03:00.543
+is that we wanted to create something that was literally completely intuitive.
+
+00:03:00.543 --> 00:03:03.127
+You do not have to teach someone how to drive Romo.
+
+00:03:03.127 --> 00:03:06.095
+In fact, who would like to drive a robot?
+
+00:03:06.095 --> 00:03:08.627
+Okay. Awesome.
+
+00:03:08.627 --> 00:03:10.261
+Here you go.
+
+00:03:10.261 --> 00:03:13.115
+Thank you, Scott.
+
+00:03:13.115 --> 00:03:15.869
+And even cooler, you actually don't have to be
+
+00:03:15.869 --> 00:03:20.276
+in the same geographic location as the robot to control him.
+
+00:03:20.276 --> 00:03:23.561
+So he actually streams two-way audio and video
+
+00:03:23.561 --> 00:03:25.202
+between any two smart devices.
+
+00:03:25.202 --> 00:03:27.010
+So you can log in through the browser,
+
+00:03:27.010 --> 00:03:28.494
+and it's kind of like Skype on wheels.
+
+00:03:28.494 --> 00:03:30.228
+So we were talking before about telepresence,
+
+00:03:30.228 --> 00:03:31.660
+and this is a really cool example.
+
+00:03:31.660 --> 00:03:35.977
+You can imagine an eight-year-old girl, for example, who has an iPhone,
+
+00:03:35.977 --> 00:03:37.494
+and her mom buys her a robot.
+
+00:03:37.494 --> 00:03:40.395
+That girl can take her iPhone, put it on the robot,
+
+00:03:40.395 --> 00:03:43.024
+send an email to Grandma, who lives on the other side of the country.
+
+00:03:43.024 --> 00:03:46.378
+Grandma can log into that robot and play hide-and-go-seek with her granddaughter
+
+00:03:46.378 --> 00:03:48.702
+for fifteen minutes every single night,
+
+00:03:48.702 --> 00:03:52.013
+when otherwise she might only be able to get to see her granddaughter once or twice a year.
+
+00:03:52.013 --> 00:03:53.545
+Thanks, Scott.
+
+00:03:53.545 --> 00:03:59.229
+(Applause)
+
+00:03:59.229 --> 00:04:02.576
+So those are a couple of the really cool things that Romo can do today.
+
+00:04:02.576 --> 00:04:06.536
+But I just want to finish by talking about something that we're working on in the future.
+
+00:04:06.536 --> 00:04:10.061
+This is actually something that one of our engineers, Dom, built in a weekend.
+
+00:04:10.061 --> 00:04:13.429
+It's built on top of a Google open framework called Blockly.
+
+00:04:13.429 --> 00:04:17.525
+This allows you to drag and drop these blocks of semantic code
+
+00:04:17.525 --> 00:04:19.704
+and create any behavior for this robot you want.
+
+00:04:19.704 --> 00:04:22.485
+You do not have to know how to code to create a behavior for Romo.
+
+00:04:22.485 --> 00:04:25.345
+And you can actually simulate that behavior in the browser,
+
+00:04:25.345 --> 00:04:27.315
+which is what you see Romo doing on the left.
+
+00:04:27.315 --> 00:04:28.666
+And then if you have something you like,
+
+00:04:28.666 --> 00:04:31.761
+you can download it onto your robot and execute it in real life,
+
+00:04:31.761 --> 00:04:33.245
+run the program in real life.
+
+00:04:33.245 --> 00:04:34.952
+And then if you have something you're proud of,
+
+00:04:34.952 --> 00:04:38.493
+you can share it with every other person who owns a robot in the world.
+
+00:04:38.493 --> 00:04:41.619
+So all of these wi-fi–enabled robots actually learn from each other.
+
+00:04:41.619 --> 00:04:45.929
+The reason we're so focused on building robots that everyone can train
+
+00:04:45.929 --> 00:04:50.518
+is that we think the most compelling use cases in personal robotics are personal.
+
+00:04:50.518 --> 00:04:53.124
+They change from person to person.
+
+00:04:53.124 --> 00:04:55.540
+So we think that if you're going to have a robot in your home,
+
+00:04:55.540 --> 00:04:59.691
+that robot ought to be a manifestation of your own imagination.
+
+00:04:59.691 --> 00:05:03.543
+So I wish that I could tell you what the future of personal robotics looks like.
+
+00:05:03.543 --> 00:05:06.027
+To be honest, I have no idea.
+
+00:05:06.027 --> 00:05:11.130
+But what we do know is that it isn't 10 years or 10 billion dollars
+
+00:05:11.130 --> 00:05:14.457
+or a large humanoid robot away.
+
+00:05:14.457 --> 00:05:17.458
+The future of personal robotics is happening today,
+
+00:05:17.458 --> 00:05:21.041
+and it's going to depend on small, agile robots like Romo
+
+00:05:21.041 --> 00:05:24.036
+and the creativity of people like yourselves.
+
+00:05:24.036 --> 00:05:26.218
+So we can't wait to get you all robots,
+
+00:05:26.218 --> 00:05:27.946
+and we can't wait to see what you build.
+
+00:05:27.946 --> 00:05:29.128
+Thank you.
+
+00:05:29.128 --> 00:05:32.673
+(Applause)
+

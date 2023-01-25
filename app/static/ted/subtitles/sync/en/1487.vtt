@@ -1,0 +1,520 @@
+WEBVTT
+
+00:00:13.285 --> 00:00:15.261
+Everyone is both a learner
+
+00:00:15.261 --> 00:00:16.773
+and a teacher.
+
+00:00:16.773 --> 00:00:19.229
+This is me being inspired
+
+00:00:19.229 --> 00:00:20.420
+by my first tutor,
+
+00:00:20.420 --> 00:00:21.365
+my mom,
+
+00:00:21.365 --> 00:00:23.988
+and this is me teaching
+
+00:00:23.988 --> 00:00:25.941
+Introduction to Artificial Intelligence
+
+00:00:25.941 --> 00:00:27.181
+to 200 students
+
+00:00:27.181 --> 00:00:28.453
+at Stanford University.
+
+00:00:28.453 --> 00:00:29.909
+Now the students and I
+
+00:00:29.909 --> 00:00:31.085
+enjoyed the class,
+
+00:00:31.085 --> 00:00:32.501
+but it occurred to me
+
+00:00:32.501 --> 00:00:34.212
+that while the subject matter
+
+00:00:34.212 --> 00:00:35.501
+of the class is advanced
+
+00:00:35.501 --> 00:00:36.189
+and modern,
+
+00:00:36.189 --> 00:00:38.508
+the teaching technology isn't.
+
+00:00:38.508 --> 00:00:40.844
+In fact, I use basically
+
+00:00:40.844 --> 00:00:43.214
+the same technology as
+
+00:00:43.214 --> 00:00:45.844
+this 14th-century classroom.
+
+00:00:45.844 --> 00:00:48.644
+Note the textbook,
+
+00:00:48.644 --> 00:00:51.588
+the sage on the stage,
+
+00:00:51.588 --> 00:00:53.487
+and the sleeping guy
+
+00:00:53.487 --> 00:00:54.388
+in the back. (Laughter)
+
+00:00:54.388 --> 00:00:57.325
+Just like today.
+
+00:00:57.325 --> 00:01:00.436
+So my co-teacher,
+
+00:01:00.436 --> 00:01:02.076
+Sebastian Thrun, and I thought,
+
+00:01:02.076 --> 00:01:03.850
+there must be a better way.
+
+00:01:03.850 --> 00:01:05.504
+We challenged ourselves
+
+00:01:05.504 --> 00:01:06.795
+to create an online class
+
+00:01:06.795 --> 00:01:08.426
+that would be equal or better
+
+00:01:08.426 --> 00:01:10.762
+in quality to our Stanford class,
+
+00:01:10.762 --> 00:01:12.972
+but to bring it to anyone
+
+00:01:12.972 --> 00:01:14.602
+in the world for free.
+
+00:01:14.602 --> 00:01:17.170
+We announced the class on July 29th,
+
+00:01:17.170 --> 00:01:20.379
+and within two weeks, 50,000 people
+
+00:01:20.379 --> 00:01:21.786
+had signed up for it.
+
+00:01:21.786 --> 00:01:24.891
+And that grew to 160,000 students
+
+00:01:24.891 --> 00:01:26.955
+from 209 countries.
+
+00:01:26.955 --> 00:01:28.763
+We were thrilled to have
+
+00:01:28.763 --> 00:01:29.884
+that kind of audience,
+
+00:01:29.884 --> 00:01:32.523
+and just a bit terrified that we
+
+00:01:32.523 --> 00:01:34.834
+hadn't finished preparing the class yet. (Laughter)
+
+00:01:34.834 --> 00:01:36.446
+So we got to work.
+
+00:01:36.446 --> 00:01:38.082
+We studied what others had done,
+
+00:01:38.082 --> 00:01:40.405
+what we could copy and what we could change.
+
+00:01:40.405 --> 00:01:43.066
+Benjamin Bloom had showed
+
+00:01:43.066 --> 00:01:44.875
+that one-on-one tutoring works best,
+
+00:01:44.875 --> 00:01:47.003
+so that's what we tried to emulate,
+
+00:01:47.003 --> 00:01:48.443
+like with me and my mom,
+
+00:01:48.443 --> 00:01:49.948
+even though we knew
+
+00:01:49.948 --> 00:01:51.866
+it would be one-on-thousands.
+
+00:01:51.866 --> 00:01:54.067
+Here, an overhead video camera
+
+00:01:54.067 --> 00:01:55.899
+is recording me as I'm talking
+
+00:01:55.899 --> 00:01:57.578
+and drawing on a piece of paper.
+
+00:01:57.578 --> 00:01:59.987
+A student said, "This class felt
+
+00:01:59.987 --> 00:02:01.139
+like sitting in a bar
+
+00:02:01.139 --> 00:02:02.618
+with a really smart friend
+
+00:02:02.618 --> 00:02:03.822
+who's explaining something
+
+00:02:03.822 --> 00:02:06.123
+you haven't grasped, but are about to."
+
+00:02:06.123 --> 00:02:08.239
+And that's exactly what we were aiming for.
+
+00:02:08.239 --> 00:02:11.027
+Now, from Khan Academy, we saw
+
+00:02:11.027 --> 00:02:12.851
+that short 10-minute videos
+
+00:02:12.851 --> 00:02:14.627
+worked much better than trying
+
+00:02:14.627 --> 00:02:16.698
+to record an hour-long lecture
+
+00:02:16.698 --> 00:02:19.115
+and put it on the small-format screen.
+
+00:02:19.115 --> 00:02:21.307
+We decided to go even shorter
+
+00:02:21.307 --> 00:02:22.955
+and more interactive.
+
+00:02:22.955 --> 00:02:25.202
+Our typical video is two minutes,
+
+00:02:25.202 --> 00:02:26.954
+sometimes shorter, never more
+
+00:02:26.954 --> 00:02:29.643
+than six, and then we pause for
+
+00:02:29.643 --> 00:02:31.010
+a quiz question, to make it
+
+00:02:31.010 --> 00:02:32.888
+feel like one-on-one tutoring.
+
+00:02:32.888 --> 00:02:35.290
+Here, I'm explaining how a computer uses
+
+00:02:35.290 --> 00:02:36.538
+the grammar of English
+
+00:02:36.538 --> 00:02:38.715
+to parse sentences, and here,
+
+00:02:38.715 --> 00:02:40.779
+there's a pause and the student
+
+00:02:40.779 --> 00:02:43.016
+has to reflect, understand what's going on
+
+00:02:43.016 --> 00:02:44.656
+and check the right boxes
+
+00:02:44.656 --> 00:02:46.073
+before they can continue.
+
+00:02:46.073 --> 00:02:48.521
+Students learn best when
+
+00:02:48.521 --> 00:02:49.769
+they're actively practicing.
+
+00:02:49.769 --> 00:02:52.065
+We wanted to engage them, to have them grapple
+
+00:02:52.065 --> 00:02:55.033
+with ambiguity and guide them to synthesize
+
+00:02:55.033 --> 00:02:56.698
+the key ideas themselves.
+
+00:02:56.698 --> 00:02:58.410
+We mostly avoid questions
+
+00:02:58.410 --> 00:03:00.121
+like, "Here's a formula, now
+
+00:03:00.121 --> 00:03:01.196
+tell me the value of Y
+
+00:03:01.196 --> 00:03:02.408
+when X is equal to two."
+
+00:03:02.408 --> 00:03:04.225
+We preferred open-ended questions.
+
+00:03:04.225 --> 00:03:07.403
+One student wrote, "Now I'm seeing
+
+00:03:07.403 --> 00:03:09.265
+Bayes networks and examples of
+
+00:03:09.265 --> 00:03:10.833
+game theory everywhere I look."
+
+00:03:10.833 --> 00:03:12.571
+And I like that kind of response.
+
+00:03:12.571 --> 00:03:14.377
+That's just what we were going for.
+
+00:03:14.377 --> 00:03:16.571
+We didn't want students to memorize the formulas;
+
+00:03:16.571 --> 00:03:17.761
+we wanted to change the way
+
+00:03:17.761 --> 00:03:18.851
+they looked at the world.
+
+00:03:18.851 --> 00:03:20.177
+And we succeeded.
+
+00:03:20.177 --> 00:03:22.577
+Or, I should say, the students succeeded.
+
+00:03:22.577 --> 00:03:24.496
+And it's a little bit ironic
+
+00:03:24.496 --> 00:03:27.409
+that we set about to disrupt traditional education,
+
+00:03:27.409 --> 00:03:29.425
+and in doing so, we ended up
+
+00:03:29.425 --> 00:03:31.009
+making our online class
+
+00:03:31.009 --> 00:03:33.336
+much more like a traditional college class
+
+00:03:33.336 --> 00:03:35.177
+than other online classes.
+
+00:03:35.177 --> 00:03:38.392
+Most online classes, the videos are always available.
+
+00:03:38.392 --> 00:03:40.209
+You can watch them any time you want.
+
+00:03:40.209 --> 00:03:42.496
+But if you can do it any time,
+
+00:03:42.496 --> 00:03:44.001
+that means you can do it tomorrow,
+
+00:03:44.001 --> 00:03:45.409
+and if you can do it tomorrow,
+
+00:03:45.409 --> 00:03:47.571
+well, you may not ever
+
+00:03:47.571 --> 00:03:49.329
+get around to it. (Laughter)
+
+00:03:49.329 --> 00:03:51.521
+So we brought back the innovation
+
+00:03:51.521 --> 00:03:53.608
+of having due dates. (Laughter)
+
+00:03:53.608 --> 00:03:54.920
+You could watch the videos
+
+00:03:54.920 --> 00:03:56.832
+any time you wanted during the week,
+
+00:03:56.832 --> 00:03:57.987
+but at the end of the week,
+
+00:03:57.987 --> 00:03:59.704
+you had to get the homework done.
+
+00:03:59.704 --> 00:04:01.617
+This motivated the students to keep going, and it also
+
+00:04:01.617 --> 00:04:04.473
+meant that everybody was working
+
+00:04:04.473 --> 00:04:05.991
+on the same thing at the same time,
+
+00:04:05.991 --> 00:04:07.488
+so if you went into a discussion forum,
+
+00:04:07.488 --> 00:04:10.192
+you could get an answer from a peer within minutes.
+
+00:04:10.192 --> 00:04:13.131
+Now, I'll show you some of the forums, most of which
+
+00:04:13.131 --> 00:04:15.897
+were self-organized by the students themselves.
+
+00:04:15.897 --> 00:04:19.121
+From Daphne Koller and Andrew Ng, we learned
+
+00:04:19.121 --> 00:04:21.117
+the concept of "flipping" the classroom.
+
+00:04:21.117 --> 00:04:22.412
+Students watched the videos
+
+00:04:22.412 --> 00:04:24.000
+on their own, and then they
+
+00:04:24.000 --> 00:04:25.710
+come together to discuss them.
+
+00:04:25.710 --> 00:04:28.867
+From Eric Mazur, I learned about peer instruction,
+
+00:04:28.867 --> 00:04:31.491
+that peers can be the best teachers,
+
+00:04:31.491 --> 00:04:32.923
+because they're the ones
+
+00:04:32.923 --> 00:04:35.771
+that remember what it's like to not understand.
+
+00:04:35.771 --> 00:04:38.452
+Sebastian and I have forgotten some of that.
+
+00:04:38.452 --> 00:04:40.851
+Of course, we couldn't have
+
+00:04:40.851 --> 00:04:42.483
+a classroom discussion with
+
+00:04:42.483 --> 00:04:44.029
+tens of thousands of students,
+
+00:04:44.029 --> 00:04:47.515
+so we encouraged and nurtured these online forums.
+
+00:04:47.515 --> 00:04:50.563
+And finally, from Teach For America,
+
+00:04:50.563 --> 00:04:52.044
+I learned that a class is not
+
+00:04:52.044 --> 00:04:53.540
+primarily about information.
+
+00:04:53.540 --> 00:04:56.371
+More important is motivation and determination.
+
+00:04:56.371 --> 00:04:58.211
+It was crucial that the students see
+
+00:04:58.211 --> 00:05:00.011
+that we're working hard for them and
+
+00:05:00.011 --> 00:05:01.420
+they're all supporting each other.
+
+00:05:01.420 --> 00:05:04.388
+Now, the class ran 10 weeks,
+
+00:05:04.388 --> 00:05:08.299
+and in the end, about half of the 160,000 students watched
+
+00:05:08.299 --> 00:05:09.862
+at least one video each week,
+
+00:05:09.862 --> 00:05:12.555
+and over 20,000 finished all the homework,
+
+00:05:12.555 --> 00:05:14.219
+putting in 50 to 100 hours.
+
+00:05:14.219 --> 00:05:15.772
+They got this statement of accomplishment.
+
+00:05:15.772 --> 00:05:17.891
+So what have we learned?
+
+00:05:17.891 --> 00:05:20.707
+Well, we tried some old ideas
+
+00:05:20.707 --> 00:05:22.364
+and some new and put them together,
+
+00:05:22.364 --> 00:05:24.446
+but there are more ideas to try.
+
+00:05:24.446 --> 00:05:26.260
+Sebastian's teaching another class now.
+
+00:05:26.260 --> 00:05:27.628
+I'll do one in the fall.
+
+00:05:27.628 --> 00:05:31.388
+Stanford Coursera, Udacity, MITx
+
+00:05:31.388 --> 00:05:33.659
+and others have more classes coming.
+
+00:05:33.659 --> 00:05:35.147
+It's a really exciting time.
+
+00:05:35.147 --> 00:05:36.619
+But to me, the most exciting
+
+00:05:36.619 --> 00:05:39.595
+part of it is the data that we're gathering.
+
+00:05:39.595 --> 00:05:42.291
+We're gathering thousands
+
+00:05:42.291 --> 00:05:43.947
+of interactions per student per class,
+
+00:05:43.947 --> 00:05:46.155
+billions of interactions altogether,
+
+00:05:46.155 --> 00:05:48.659
+and now we can start analyzing that,
+
+00:05:48.659 --> 00:05:50.123
+and when we learn from that,
+
+00:05:50.123 --> 00:05:51.364
+do experimentations,
+
+00:05:51.364 --> 00:05:53.604
+that's when the real revolution will come.
+
+00:05:53.604 --> 00:05:56.380
+And you'll be able to see the results from
+
+00:05:56.380 --> 00:05:58.643
+a new generation of amazing students.
+
+00:05:58.643 --> 00:06:00.896
+(Applause)

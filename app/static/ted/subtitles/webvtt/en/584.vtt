@@ -1,0 +1,905 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+I'm going to talk about post-conflict recovery
+
+00:00:06.000 --> 00:00:11.000
+and how we might do post-conflict recovery better.
+
+00:00:11.000 --> 00:00:16.000
+The record on post-conflict recovery is not very impressive.
+
+00:00:16.000 --> 00:00:20.000
+40 percent of all post-conflict situations,
+
+00:00:20.000 --> 00:00:24.000
+historically, have reverted back to conflict within a decade.
+
+00:00:24.000 --> 00:00:29.000
+In fact, they've accounted for half of all civil wars.
+
+00:00:29.000 --> 00:00:32.000
+Why has the record been so poor?
+
+00:00:32.000 --> 00:00:35.000
+Well, the conventional approach
+
+00:00:35.000 --> 00:00:37.000
+to post-conflict situations
+
+00:00:37.000 --> 00:00:41.000
+has rested on, on kind of, three principles.
+
+00:00:41.000 --> 00:00:46.000
+The first principle is: it's the politics that matters.
+
+00:00:46.000 --> 00:00:49.000
+So, the first thing that is prioritized is politics.
+
+00:00:49.000 --> 00:00:54.000
+Try and build a political settlement first.
+
+00:00:54.000 --> 00:00:57.000
+And then the second step is to say,
+
+00:00:57.000 --> 00:01:00.000
+"The situation is admittedly dangerous, but only for a short time."
+
+00:01:00.000 --> 00:01:05.000
+So get peacekeepers there, but get them home as soon as possible.
+
+00:01:05.000 --> 00:01:08.000
+So, short-term peacekeepers.
+
+00:01:08.000 --> 00:01:12.000
+And thirdly, what is the exit strategy for the peacekeepers?
+
+00:01:12.000 --> 00:01:14.000
+It's an election.
+
+00:01:14.000 --> 00:01:19.000
+That will produce a legitimate and accountable government.
+
+00:01:19.000 --> 00:01:22.000
+So that's the conventional approach.
+
+00:01:22.000 --> 00:01:26.000
+I think that approach denies reality.
+
+00:01:26.000 --> 00:01:30.000
+We see that there is no quick fix.
+
+00:01:30.000 --> 00:01:33.000
+There's certainly no quick security fix.
+
+00:01:33.000 --> 00:01:36.000
+I've tried to look at the risks of reversion to conflict,
+
+00:01:36.000 --> 00:01:38.000
+during our post-conflict decade.
+
+00:01:38.000 --> 00:01:42.000
+And the risks stay high throughout the decade.
+
+00:01:42.000 --> 00:01:49.000
+And they stay high regardless of the political innovations.
+
+00:01:49.000 --> 00:01:54.000
+Does an election produce an accountable and legitimate government?
+
+00:01:54.000 --> 00:01:59.000
+What an election produces is a winner and a loser.
+
+00:01:59.000 --> 00:02:04.000
+And the loser is unreconciled.
+
+00:02:04.000 --> 00:02:08.000
+The reality is that we need to reverse the sequence.
+
+00:02:08.000 --> 00:02:10.000
+It's not the politics first;
+
+00:02:10.000 --> 00:02:13.000
+it's actually the politics last.
+
+00:02:13.000 --> 00:02:16.000
+The politics become easier as the decade progresses
+
+00:02:16.000 --> 00:02:19.000
+if you're building on a foundation
+
+00:02:19.000 --> 00:02:24.000
+of security and economic development --
+
+00:02:24.000 --> 00:02:26.000
+the rebuilding of prosperity.
+
+00:02:26.000 --> 00:02:28.000
+Why does the politics get easier?
+
+00:02:28.000 --> 00:02:30.000
+And why is it so difficult initially?
+
+00:02:30.000 --> 00:02:34.000
+Because after years of stagnation and decline,
+
+00:02:34.000 --> 00:02:40.000
+the mentality of politics is that it's a zero-sum game.
+
+00:02:40.000 --> 00:02:42.000
+If the reality is stagnation,
+
+00:02:42.000 --> 00:02:45.000
+I can only go up if you go down.
+
+00:02:45.000 --> 00:02:50.000
+And that doesn't produce a productive politics.
+
+00:02:50.000 --> 00:02:53.000
+And so the mentality has to shift from
+
+00:02:53.000 --> 00:02:55.000
+zero-sum to positive-sum
+
+00:02:55.000 --> 00:02:59.000
+before you can get a productive politics.
+
+00:02:59.000 --> 00:03:01.000
+You can only get positive, that mental shift,
+
+00:03:01.000 --> 00:03:05.000
+if the reality is that prosperity is being built.
+
+00:03:05.000 --> 00:03:10.000
+And in order to build prosperity, we need security in place.
+
+00:03:10.000 --> 00:03:12.000
+So that is what you get when you face reality.
+
+00:03:12.000 --> 00:03:14.000
+But the objective of facing reality
+
+00:03:14.000 --> 00:03:16.000
+is to change reality.
+
+00:03:16.000 --> 00:03:18.000
+And so now let me suggest
+
+00:03:18.000 --> 00:03:22.000
+two complimentary approaches
+
+00:03:22.000 --> 00:03:25.000
+to changing the reality of the situations.
+
+00:03:25.000 --> 00:03:29.000
+The first is to recognize the interdependence
+
+00:03:29.000 --> 00:03:34.000
+of three key actors, who are different actors,
+
+00:03:34.000 --> 00:03:37.000
+and at the moment are uncoordinated.
+
+00:03:37.000 --> 00:03:40.000
+The first actor is the Security Council.
+
+00:03:40.000 --> 00:03:44.000
+The Security Council typically has the responsibility
+
+00:03:44.000 --> 00:03:46.000
+for providing the peacekeepers
+
+00:03:46.000 --> 00:03:49.000
+who build the security.
+
+00:03:49.000 --> 00:03:51.000
+And that needs to be recognized,
+
+00:03:51.000 --> 00:03:54.000
+first of all, that peacekeeping works.
+
+00:03:54.000 --> 00:03:56.000
+It is a cost-effective approach.
+
+00:03:56.000 --> 00:03:59.000
+It does increase security.
+
+00:03:59.000 --> 00:04:01.000
+But it needs to be done long-term.
+
+00:04:01.000 --> 00:04:03.000
+It needs to be a decade-long approach,
+
+00:04:03.000 --> 00:04:05.000
+rather than just a couple of years.
+
+00:04:05.000 --> 00:04:08.000
+That's one actor, the Security Council.
+
+00:04:08.000 --> 00:04:11.000
+The second actor, different cast of guys,
+
+00:04:11.000 --> 00:04:13.000
+is the donors.
+
+00:04:13.000 --> 00:04:16.000
+The donors provide post-conflict aid.
+
+00:04:16.000 --> 00:04:19.000
+Typically in the past,
+
+00:04:19.000 --> 00:04:22.000
+the donors have been interested in the first couple of years,
+
+00:04:22.000 --> 00:04:24.000
+and then they got bored.
+
+00:04:24.000 --> 00:04:27.000
+They moved on to some other situation.
+
+00:04:27.000 --> 00:04:29.000
+Post-conflict economic recovery
+
+00:04:29.000 --> 00:04:31.000
+is a slow process.
+
+00:04:31.000 --> 00:04:34.000
+There are no quick processes in economics
+
+00:04:34.000 --> 00:04:36.000
+except decline.
+
+00:04:36.000 --> 00:04:38.000
+You can do that quite fast.
+
+00:04:38.000 --> 00:04:39.000
+(Laughter)
+
+00:04:39.000 --> 00:04:44.000
+So the donors have to stick with this situation
+
+00:04:44.000 --> 00:04:48.000
+for at least a decade.
+
+00:04:48.000 --> 00:04:50.000
+And then the third key actor
+
+00:04:50.000 --> 00:04:53.000
+is the post-conflict government.
+
+00:04:53.000 --> 00:04:55.000
+And there are two key things it's got to do.
+
+00:04:55.000 --> 00:04:59.000
+One is it's got to do economic reform,
+
+00:04:59.000 --> 00:05:02.000
+not fuss about the political constitution.
+
+00:05:02.000 --> 00:05:04.000
+It's got to reform economic policy.
+
+00:05:04.000 --> 00:05:07.000
+Why? Because during conflict
+
+00:05:07.000 --> 00:05:10.000
+economic policy typically deteriorates.
+
+00:05:10.000 --> 00:05:14.000
+Governments snatch short-term opportunities
+
+00:05:14.000 --> 00:05:18.000
+and, by the end of the conflict, the chickens have come home to roost.
+
+00:05:18.000 --> 00:05:21.000
+So this legacy of conflict is really bad economic policy.
+
+00:05:21.000 --> 00:05:25.000
+So there is a reform agenda, and there is an inclusion agenda.
+
+00:05:25.000 --> 00:05:28.000
+The inclusion agenda doesn't come from elections.
+
+00:05:28.000 --> 00:05:33.000
+Elections produce a loser, who is then excluded.
+
+00:05:33.000 --> 00:05:36.000
+So the inclusion agenda means genuinely
+
+00:05:36.000 --> 00:05:39.000
+bringing people inside the tent.
+
+00:05:39.000 --> 00:05:41.000
+So those three actors.
+
+00:05:41.000 --> 00:05:43.000
+And they are interdependent
+
+00:05:43.000 --> 00:05:46.000
+over a long term.
+
+00:05:46.000 --> 00:05:50.000
+If the Security Council doesn't commit to security
+
+00:05:50.000 --> 00:05:52.000
+over the course of a decade,
+
+00:05:52.000 --> 00:05:56.000
+you don't get the reassurance which produces private investment.
+
+00:05:56.000 --> 00:06:00.000
+If you don't get the policy reform and the aid,
+
+00:06:00.000 --> 00:06:02.000
+you don't get the economic recovery,
+
+00:06:02.000 --> 00:06:06.000
+which is the true exit strategy for the peacekeepers.
+
+00:06:06.000 --> 00:06:10.000
+So we should recognize that interdependence,
+
+00:06:10.000 --> 00:06:13.000
+by formal, mutual commitments.
+
+00:06:13.000 --> 00:06:16.000
+The United Nations actually has a language
+
+00:06:16.000 --> 00:06:19.000
+for these mutual commitments, the recognition of mutual commitments;
+
+00:06:19.000 --> 00:06:23.000
+it's called the language of compact.
+
+00:06:23.000 --> 00:06:26.000
+And so we need a post-conflict compact.
+
+00:06:26.000 --> 00:06:29.000
+The United Nations even has an agency which could broker these compacts;
+
+00:06:29.000 --> 00:06:33.000
+it's called the Peace Building Commission.
+
+00:06:33.000 --> 00:06:38.000
+It would be ideal to have a standard set of norms
+
+00:06:38.000 --> 00:06:41.000
+where, when we got to a post-conflict situation,
+
+00:06:41.000 --> 00:06:45.000
+there was an expectation of these mutual commitments
+
+00:06:45.000 --> 00:06:48.000
+from the three parties.
+
+00:06:48.000 --> 00:06:51.000
+So that's idea one:
+
+00:06:51.000 --> 00:06:54.000
+recognize interdependence.
+
+00:06:54.000 --> 00:06:58.000
+And now let me turn to the second approach, which is complimentary.
+
+00:06:58.000 --> 00:07:07.000
+And that is to focus on a few critical objectives.
+
+00:07:07.000 --> 00:07:10.000
+Typical post-conflict situation is a zoo
+
+00:07:10.000 --> 00:07:14.000
+of different actors with different priorities.
+
+00:07:14.000 --> 00:07:18.000
+And indeed, unfortunately, if you navigate by needs
+
+00:07:18.000 --> 00:07:21.000
+you get a very unfocused agenda,
+
+00:07:21.000 --> 00:07:24.000
+because in these situations, needs are everywhere,
+
+00:07:24.000 --> 00:07:28.000
+but the capacity to implement change is very limited.
+
+00:07:28.000 --> 00:07:33.000
+So we have to be disciplined and focus on things that are critical.
+
+00:07:33.000 --> 00:07:36.000
+And I want to suggest that in the typical post-conflict situation
+
+00:07:36.000 --> 00:07:39.000
+three things are critical.
+
+00:07:39.000 --> 00:07:41.000
+One is jobs.
+
+00:07:41.000 --> 00:07:43.000
+One is improvements in basic services --
+
+00:07:43.000 --> 00:07:47.000
+especially health, which is a disaster during conflict.
+
+00:07:47.000 --> 00:07:52.000
+So jobs, health, and clean government.
+
+00:07:52.000 --> 00:07:56.000
+Those are the three critical priorities.
+
+00:07:56.000 --> 00:07:58.000
+So I'm going to talk a little about each of them.
+
+00:07:58.000 --> 00:08:00.000
+Jobs.
+
+00:08:00.000 --> 00:08:03.000
+What is a distinctive approach
+
+00:08:03.000 --> 00:08:06.000
+to generating jobs in post-conflict situations?
+
+00:08:06.000 --> 00:08:08.000
+And why are jobs so important?
+
+00:08:08.000 --> 00:08:13.000
+Jobs for whom? Especially jobs for young men.
+
+00:08:13.000 --> 00:08:15.000
+In post-conflict situations,
+
+00:08:15.000 --> 00:08:19.000
+the reason that they so often revert to conflict,
+
+00:08:19.000 --> 00:08:22.000
+is not because elderly women get upset.
+
+00:08:22.000 --> 00:08:25.000
+It's because young men get upset.
+
+00:08:25.000 --> 00:08:28.000
+And why are they upset? Because they have nothing to do.
+
+00:08:28.000 --> 00:08:34.000
+And so we need a process of generating jobs,
+
+00:08:34.000 --> 00:08:37.000
+for ordinary young men, fast.
+
+00:08:37.000 --> 00:08:40.000
+Now, that is difficult.
+
+00:08:40.000 --> 00:08:42.000
+Governments in post-conflict situation
+
+00:08:42.000 --> 00:08:46.000
+often respond by puffing up the civil service.
+
+00:08:46.000 --> 00:08:48.000
+That is not a good idea.
+
+00:08:48.000 --> 00:08:50.000
+It's not sustainable.
+
+00:08:50.000 --> 00:08:53.000
+In fact, you're building a long-term liability
+
+00:08:53.000 --> 00:08:55.000
+by inflating civil service.
+
+00:08:55.000 --> 00:08:59.000
+But getting the private sector to expand is also difficult,
+
+00:08:59.000 --> 00:09:04.000
+because any activity which is open to international trade
+
+00:09:04.000 --> 00:09:06.000
+is basically going to be uncompetitive
+
+00:09:06.000 --> 00:09:08.000
+in a post-conflict situation.
+
+00:09:08.000 --> 00:09:13.000
+These are not environments where you can build export manufacturing.
+
+00:09:13.000 --> 00:09:18.000
+There's one sector which isn't exposed to international trade,
+
+00:09:18.000 --> 00:09:21.000
+and which can generate a lot of jobs,
+
+00:09:21.000 --> 00:09:23.000
+and which is, in any case, a sensible sector
+
+00:09:23.000 --> 00:09:25.000
+to expand, post-conflict,
+
+00:09:25.000 --> 00:09:29.000
+and that is the construction sector.
+
+00:09:29.000 --> 00:09:32.000
+The construction sector has a vital role,
+
+00:09:32.000 --> 00:09:35.000
+obviously, in reconstruction.
+
+00:09:35.000 --> 00:09:40.000
+But typically that sector has withered away during conflict.
+
+00:09:40.000 --> 00:09:42.000
+During conflict people are doing destruction.
+
+00:09:42.000 --> 00:09:46.000
+There isn't any construction going on. And so the sector shrivels away.
+
+00:09:46.000 --> 00:09:48.000
+And then when you try and expand it,
+
+00:09:48.000 --> 00:09:50.000
+because it's shriveled away,
+
+00:09:50.000 --> 00:09:53.000
+you encounter a lot of bottlenecks.
+
+00:09:53.000 --> 00:09:55.000
+Basically, prices soar
+
+00:09:55.000 --> 00:09:59.000
+and crooked politicians then milk the rents from the sector,
+
+00:09:59.000 --> 00:10:01.000
+but it doesn't generate any jobs.
+
+00:10:01.000 --> 00:10:04.000
+And so the policy priority is to break the bottlenecks
+
+00:10:04.000 --> 00:10:07.000
+in expanding the construction sector.
+
+00:10:07.000 --> 00:10:09.000
+What might the bottlenecks be?
+
+00:10:09.000 --> 00:10:12.000
+Just think what you have to do
+
+00:10:12.000 --> 00:10:15.000
+successfully to build a structure, using a lot of labor.
+
+00:10:15.000 --> 00:10:17.000
+First you need access to land.
+
+00:10:17.000 --> 00:10:19.000
+Often the legal system is broken down
+
+00:10:19.000 --> 00:10:21.000
+so you can't even get access to land.
+
+00:10:21.000 --> 00:10:23.000
+Secondly you need skills,
+
+00:10:23.000 --> 00:10:27.000
+the mundane skills of the construction sector.
+
+00:10:27.000 --> 00:10:31.000
+In post-conflict situations we don't just need Doctors Without Borders,
+
+00:10:31.000 --> 00:10:33.000
+we need Bricklayers Without Borders,
+
+00:10:33.000 --> 00:10:36.000
+to rebuild the skill set.
+
+00:10:36.000 --> 00:10:39.000
+We need firms. The firms have gone away.
+
+00:10:39.000 --> 00:10:42.000
+So we need to encourage the growth of local firms.
+
+00:10:42.000 --> 00:10:45.000
+If we do that, we not only get the jobs,
+
+00:10:45.000 --> 00:10:48.000
+we get the improvements in public infrastructure,
+
+00:10:48.000 --> 00:10:51.000
+the restoration of public infrastructure.
+
+00:10:51.000 --> 00:10:57.000
+Let me turn from jobs to the second objective,
+
+00:10:57.000 --> 00:11:01.000
+which is improving basic social services.
+
+00:11:01.000 --> 00:11:05.000
+And to date, there has been a sort of a schizophrenia
+
+00:11:05.000 --> 00:11:07.000
+in the donor community,
+
+00:11:07.000 --> 00:11:10.000
+as to how to build basic services
+
+00:11:10.000 --> 00:11:12.000
+in post-conflict sectors.
+
+00:11:12.000 --> 00:11:14.000
+On the one hand it pays lip service
+
+00:11:14.000 --> 00:11:18.000
+to the idea of rebuild an effective state
+
+00:11:18.000 --> 00:11:21.000
+in the image of Scandinavia in the 1950s.
+
+00:11:21.000 --> 00:11:24.000
+Lets develop line ministries of this, that, and the other,
+
+00:11:24.000 --> 00:11:27.000
+that deliver these services.
+
+00:11:27.000 --> 00:11:30.000
+And it's schizophrenic because in their hearts
+
+00:11:30.000 --> 00:11:33.000
+donors know that's not a realistic agenda,
+
+00:11:33.000 --> 00:11:36.000
+and so what they also do is the total bypass:
+
+00:11:36.000 --> 00:11:40.000
+just fund NGOs.
+
+00:11:40.000 --> 00:11:43.000
+Neither of those approaches is sensible.
+
+00:11:43.000 --> 00:11:47.000
+And so what I'd suggest
+
+00:11:47.000 --> 00:11:50.000
+is what I call Independent Service Authorities.
+
+00:11:50.000 --> 00:11:55.000
+It's to split the functions of a monopoly line ministry up into three.
+
+00:11:55.000 --> 00:11:59.000
+The planning function and policy function stays with the ministry;
+
+00:11:59.000 --> 00:12:02.000
+the delivery of services on the ground,
+
+00:12:02.000 --> 00:12:04.000
+you should use whatever works --
+
+00:12:04.000 --> 00:12:07.000
+churches, NGOs, local communities,
+
+00:12:07.000 --> 00:12:09.000
+whatever works.
+
+00:12:09.000 --> 00:12:12.000
+And in between, there should be a public agency,
+
+00:12:12.000 --> 00:12:14.000
+the Independent Service Authority,
+
+00:12:14.000 --> 00:12:16.000
+which channels public money,
+
+00:12:16.000 --> 00:12:18.000
+and especially donor money,
+
+00:12:18.000 --> 00:12:21.000
+to the retail providers.
+
+00:12:21.000 --> 00:12:26.000
+So the NGOs become part of a public government system,
+
+00:12:26.000 --> 00:12:29.000
+rather than independent of it.
+
+00:12:29.000 --> 00:12:33.000
+One advantage of that is that you can allocate money coherently.
+
+00:12:33.000 --> 00:12:36.000
+Another is, you can make NGOs accountable.
+
+00:12:36.000 --> 00:12:38.000
+You can use yardstick competition,
+
+00:12:38.000 --> 00:12:41.000
+so they have to compete against each other
+
+00:12:41.000 --> 00:12:43.000
+for the resources.
+
+00:12:43.000 --> 00:12:46.000
+The good NGOs, like Oxfam, are very keen on this idea.
+
+00:12:46.000 --> 00:12:52.000
+They want to have the discipline and accountability.
+
+00:12:52.000 --> 00:12:55.000
+So that's a way to get basic services scaled up.
+
+00:12:55.000 --> 00:12:58.000
+And because the government would be funding it,
+
+00:12:58.000 --> 00:13:00.000
+it would be co-branding these services.
+
+00:13:00.000 --> 00:13:04.000
+So they wouldn't be provided thanks to
+
+00:13:04.000 --> 00:13:08.000
+the United States government and some NGO.
+
+00:13:08.000 --> 00:13:10.000
+They would be co-branded
+
+00:13:10.000 --> 00:13:15.000
+as being done by the post-conflict government, in the country.
+
+00:13:15.000 --> 00:13:21.000
+So, jobs, basic services, finally, clean government.
+
+00:13:21.000 --> 00:13:24.000
+Clean means follow their money.
+
+00:13:24.000 --> 00:13:29.000
+The typical post-conflict government is so short of money
+
+00:13:29.000 --> 00:13:31.000
+that it needs our money
+
+00:13:31.000 --> 00:13:34.000
+just to be on a life-support system.
+
+00:13:34.000 --> 00:13:37.000
+You can't get the basic functions of the state done
+
+00:13:37.000 --> 00:13:41.000
+unless we put money into the core budget of these countries.
+
+00:13:41.000 --> 00:13:45.000
+But, if we put money into the core budget,
+
+00:13:45.000 --> 00:13:52.000
+we know that there aren't the budget systems with integrity
+
+00:13:52.000 --> 00:13:55.000
+that mean that money will be well spent.
+
+00:13:55.000 --> 00:13:59.000
+And if all we do is put money in and close our eyes
+
+00:13:59.000 --> 00:14:01.000
+it's not just that the money is wasted --
+
+00:14:01.000 --> 00:14:03.000
+that's the least of the problems --
+
+00:14:03.000 --> 00:14:06.000
+it's that the money is captured.
+
+00:14:06.000 --> 00:14:12.000
+It's captured by the crooks who are at the heart of the political problem.
+
+00:14:12.000 --> 00:14:17.000
+And so inadvertently we empower the people who are the problem.
+
+00:14:17.000 --> 00:14:20.000
+So building clean government means, yes, provide money
+
+00:14:20.000 --> 00:14:22.000
+to the budget,
+
+00:14:22.000 --> 00:14:27.000
+but also provide a lot of scrutiny,
+
+00:14:27.000 --> 00:14:30.000
+which means a lot of technical assistance that follows the money.
+
+00:14:30.000 --> 00:14:35.000
+Paddy Ashdown, who was the grand high nabob of Bosnia
+
+00:14:35.000 --> 00:14:37.000
+to the United Nations,
+
+00:14:37.000 --> 00:14:39.000
+in his book about his experience, he said,
+
+00:14:39.000 --> 00:14:42.000
+"I realize what I needed
+
+00:14:42.000 --> 00:14:46.000
+was accountants without borders,
+
+00:14:46.000 --> 00:14:48.000
+to follow that money."
+
+00:14:48.000 --> 00:14:51.000
+So that's the -- let me wrap up,
+
+00:14:51.000 --> 00:14:54.000
+this is the package.
+
+00:14:54.000 --> 00:14:56.000
+What's the goal?
+
+00:14:56.000 --> 00:15:00.000
+If we follow this, what would we hope to achieve?
+
+00:15:00.000 --> 00:15:03.000
+That after 10 years,
+
+00:15:03.000 --> 00:15:06.000
+the focus on the construction sector
+
+00:15:06.000 --> 00:15:08.000
+would have produced both jobs
+
+00:15:08.000 --> 00:15:10.000
+and, hence, security --
+
+00:15:10.000 --> 00:15:12.000
+because young people would have jobs --
+
+00:15:12.000 --> 00:15:16.000
+and it would have reconstructed the infrastructure.
+
+00:15:16.000 --> 00:15:19.000
+So that's the focus on the construction sector.
+
+00:15:19.000 --> 00:15:21.000
+The focus on the basic service delivery
+
+00:15:21.000 --> 00:15:24.000
+through these independent service authorities
+
+00:15:24.000 --> 00:15:27.000
+would have rescued basic services
+
+00:15:27.000 --> 00:15:30.000
+from their catastrophic levels,
+
+00:15:30.000 --> 00:15:33.000
+and it would have given ordinary people
+
+00:15:33.000 --> 00:15:37.000
+the sense that the government was doing something useful.
+
+00:15:37.000 --> 00:15:40.000
+The emphasis on clean government
+
+00:15:40.000 --> 00:15:43.000
+would have gradually squeezed out the political crooks,
+
+00:15:43.000 --> 00:15:47.000
+because there wouldn't be any money
+
+00:15:47.000 --> 00:15:49.000
+in taking part in the politics.
+
+00:15:49.000 --> 00:15:51.000
+And so gradually the selection,
+
+00:15:51.000 --> 00:15:53.000
+the composition of politicians,
+
+00:15:53.000 --> 00:15:58.000
+would shift from the crooked to the honest.
+
+00:15:58.000 --> 00:16:01.000
+Where would that leave us?
+
+00:16:01.000 --> 00:16:03.000
+Gradually it would shift
+
+00:16:03.000 --> 00:16:06.000
+from a politics of plunder
+
+00:16:06.000 --> 00:16:09.000
+to a politics of hope. Thank you.
+
+00:16:09.000 --> 00:16:14.000
+(Applause)
+

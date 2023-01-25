@@ -1,0 +1,433 @@
+WEBVTT
+
+00:00:00.579 --> 00:00:04.024
+I would like to demonstrate
+for the first time in public
+
+00:00:04.048 --> 00:00:08.119
+that it is possible to transmit a video
+
+00:00:08.143 --> 00:00:12.452
+from a standard off-the-shelf LED lamp
+
+00:00:12.476 --> 00:00:17.636
+to a solar cell with a laptop
+acting as a receiver.
+
+00:00:18.478 --> 00:00:21.069
+There is no Wi-Fi involved,
+it's just light.
+
+00:00:21.093 --> 00:00:23.927
+And you may wonder, what's the point?
+
+00:00:23.951 --> 00:00:25.695
+And the point is this:
+
+00:00:26.399 --> 00:00:29.075
+There will be a massive
+extension of the Internet
+
+00:00:29.099 --> 00:00:31.909
+to close the digital divide,
+
+00:00:31.933 --> 00:00:36.114
+and also to allow for what we call
+"The Internet of Things" --
+
+00:00:36.138 --> 00:00:39.304
+tens of billions of devices
+connected to the Internet.
+
+00:00:39.328 --> 00:00:43.359
+In my view, such an extension
+of the Internet can only work
+
+00:00:43.383 --> 00:00:45.730
+if it's almost energy-neutral.
+
+00:00:46.173 --> 00:00:51.005
+This means we need to use existing
+infrastructure as much as possible.
+
+00:00:51.497 --> 00:00:56.434
+And this is where the solar cell
+and the LED come in.
+
+00:00:56.959 --> 00:00:59.277
+I demonstrated for the first time,
+
+00:00:59.301 --> 00:01:01.266
+at TED in 2011,
+
+00:01:01.290 --> 00:01:03.274
+Li-Fi, or Light Fidelity.
+
+00:01:03.781 --> 00:01:09.776
+Li-Fi uses off-the-shelf LEDs
+to transmit data incredibly fast,
+
+00:01:09.800 --> 00:01:12.092
+and also in a safe and secure manner.
+
+00:01:13.402 --> 00:01:16.283
+Data is transported by the light,
+
+00:01:16.307 --> 00:01:19.432
+encoded in subtle changes
+of the brightness.
+
+00:01:20.390 --> 00:01:23.954
+If we look around,
+we have many LEDs around us,
+
+00:01:23.978 --> 00:01:28.639
+so there's a rich infrastructure
+of Li-Fi transmitters around us.
+
+00:01:29.393 --> 00:01:34.632
+But so far, we have been using
+special devices -- small photo detectors,
+
+00:01:34.656 --> 00:01:38.338
+to receive the information
+encoded in the data.
+
+00:01:38.940 --> 00:01:42.832
+I wanted to find a way to also use
+existing infrastructure
+
+00:01:42.856 --> 00:01:45.862
+to receive data from our Li-Fi lights.
+
+00:01:46.426 --> 00:01:50.540
+And this is why I have been looking into
+solar cells and solar panels.
+
+00:01:51.016 --> 00:01:56.144
+A solar cell absorbs light
+and converts it into electrical energy.
+
+00:01:56.549 --> 00:02:01.535
+This is why we can use a solar cell
+to charge our mobile phone.
+
+00:02:01.559 --> 00:02:02.965
+But now we need to remember
+
+00:02:02.989 --> 00:02:09.220
+that the data is encoded in subtle changes
+of the brightness of the LED,
+
+00:02:09.244 --> 00:02:12.593
+so if the incoming light fluctuates,
+
+00:02:12.617 --> 00:02:15.548
+so does the energy harvested
+from the solar cell.
+
+00:02:16.579 --> 00:02:20.088
+This means we have
+a principal mechanism in place
+
+00:02:20.112 --> 00:02:26.222
+to receive information from the light
+and by the solar cell,
+
+00:02:26.246 --> 00:02:29.021
+because the fluctuations
+of the energy harvested
+
+00:02:29.045 --> 00:02:31.163
+correspond to the data transmitted.
+
+00:02:31.934 --> 00:02:34.060
+Of course the question is:
+
+00:02:34.084 --> 00:02:38.244
+can we receive very fast and subtle
+changes of the brightness,
+
+00:02:38.268 --> 00:02:42.078
+such as the ones transmitted
+by our LED lights?
+
+00:02:42.641 --> 00:02:46.145
+And the answer to that is yes, we can.
+
+00:02:46.637 --> 00:02:48.416
+We have shown in the lab
+
+00:02:48.440 --> 00:02:51.922
+that we can receive up to 50
+megabytes per second
+
+00:02:51.946 --> 00:02:54.381
+from a standard, off-the-shelf solar cell.
+
+00:02:54.921 --> 00:02:58.548
+And this is faster than most
+broadband connections these days.
+
+00:02:59.437 --> 00:03:02.747
+Now let me show you in practice.
+
+00:03:05.095 --> 00:03:09.483
+In this box is a standard,
+off-the-shelf LED lamp.
+
+00:03:11.193 --> 00:03:13.768
+This is a standard,
+off-the-shelf solar cell;
+
+00:03:13.792 --> 00:03:15.975
+it is connected to the laptop.
+
+00:03:16.949 --> 00:03:19.269
+And also we have an instrument here
+
+00:03:19.293 --> 00:03:23.071
+to visualize the energy
+we harvest from the solar cell.
+
+00:03:23.095 --> 00:03:25.893
+And this instrument shows
+something at the moment.
+
+00:03:25.917 --> 00:03:30.198
+This is because the solar cell already
+harvests light from the ambient light.
+
+00:03:31.102 --> 00:03:33.942
+Now what I would like to do first
+is switch on the light,
+
+00:03:33.966 --> 00:03:36.072
+and I'll simply, only switch on the light,
+
+00:03:36.096 --> 00:03:38.204
+for a moment,
+
+00:03:38.228 --> 00:03:42.222
+and what you'll notice is that
+the instrument jumps to the right.
+
+00:03:42.904 --> 00:03:44.594
+So the solar cell, for a moment,
+
+00:03:44.618 --> 00:03:48.140
+is harvesting energy
+from this artificial light source.
+
+00:03:48.540 --> 00:03:51.818
+If I turn it off, we see it drops.
+
+00:03:51.842 --> 00:03:53.025
+I turn it on ...
+
+00:03:53.049 --> 00:03:55.768
+So we harvest energy with the solar cell.
+
+00:03:56.586 --> 00:04:01.909
+But next I would like to activate
+the streaming of the video.
+
+00:04:03.418 --> 00:04:05.742
+And I've done this
+by pressing this button.
+
+00:04:05.766 --> 00:04:10.489
+So now this LED lamp here
+is streaming a video
+
+00:04:10.513 --> 00:04:14.645
+by changing the brightness of the LED
+in a very subtle way,
+
+00:04:14.669 --> 00:04:17.167
+and in a way that you can't
+recognize with your eye,
+
+00:04:17.191 --> 00:04:20.447
+because the changes
+are too fast to recognize.
+
+00:04:21.384 --> 00:04:23.783
+But in order to prove the point,
+
+00:04:23.807 --> 00:04:26.952
+I can block the light of the solar cell.
+
+00:04:28.087 --> 00:04:31.310
+So first you notice
+the energy harvesting drops
+
+00:04:31.334 --> 00:04:33.026
+and the video stops as well.
+
+00:04:33.050 --> 00:04:36.706
+If I remove the blockage,
+the video will restart.
+
+00:04:37.357 --> 00:04:43.586
+(Applause)
+
+00:04:43.610 --> 00:04:45.943
+And I can repeat that.
+
+00:04:45.967 --> 00:04:51.218
+So we stop the transmission of the video
+and energy harvesting stops as well.
+
+00:04:51.242 --> 00:04:55.650
+So that is to show that the solar cell
+acts as a receiver.
+
+00:04:56.079 --> 00:05:01.463
+But now imagine that this LED lamp
+is a street light, and there's fog.
+
+00:05:02.106 --> 00:05:04.409
+And so I want to simulate fog,
+
+00:05:04.433 --> 00:05:07.176
+and that's why I brought
+a handkerchief with me.
+
+00:05:07.200 --> 00:05:08.632
+(Laughter)
+
+00:05:08.656 --> 00:05:12.616
+And let me put the handkerchief
+over the solar cell.
+
+00:05:13.905 --> 00:05:15.533
+First you notice
+
+00:05:15.557 --> 00:05:19.754
+the energy harvested drops, as expected,
+
+00:05:19.778 --> 00:05:22.356
+but now the video still continues.
+
+00:05:22.769 --> 00:05:25.388
+This means, despite the blockage,
+
+00:05:25.412 --> 00:05:29.293
+there's sufficient light coming through
+the handkerchief to the solar cell,
+
+00:05:29.317 --> 00:05:34.832
+so that the solar cell is able to decode
+and stream that information,
+
+00:05:34.856 --> 00:05:37.460
+in this case, a high-definition video.
+
+00:05:39.040 --> 00:05:44.603
+What's really important here is that
+a solar cell has become a receiver
+
+00:05:44.627 --> 00:05:48.442
+for high-speed wireless signals
+encoded in light,
+
+00:05:48.466 --> 00:05:53.282
+while it maintains its primary function
+as an energy-harvesting device.
+
+00:05:53.872 --> 00:05:56.291
+That's why it is possible
+
+00:05:56.315 --> 00:06:00.172
+to use existing solar cells
+on the roof of a hut
+
+00:06:00.196 --> 00:06:02.689
+to act as a broadband receiver
+
+00:06:02.713 --> 00:06:07.089
+from a laser station on a close by hill,
+or indeed, lamp post.
+
+00:06:07.605 --> 00:06:11.300
+And It really doesn't matter
+where the beam hits the solar cell.
+
+00:06:11.647 --> 00:06:12.825
+And the same is true
+
+00:06:12.849 --> 00:06:16.642
+for translucent solar cells
+integrated into windows,
+
+00:06:16.666 --> 00:06:20.198
+solar cells integrated
+into street furniture,
+
+00:06:20.222 --> 00:06:24.765
+or indeed, solar cells integrated
+into these billions of devices
+
+00:06:24.789 --> 00:06:26.865
+that will form the Internet of Things.
+
+00:06:26.889 --> 00:06:28.047
+Because simply,
+
+00:06:28.071 --> 00:06:30.562
+we don't want to charge
+these devices regularly,
+
+00:06:30.586 --> 00:06:33.561
+or worse, replace the batteries
+every few months.
+
+00:06:34.418 --> 00:06:36.148
+As I said to you,
+
+00:06:36.172 --> 00:06:38.490
+this is the first time
+I've shown this in public.
+
+00:06:38.514 --> 00:06:40.569
+It's very much a lab demonstration,
+
+00:06:40.593 --> 00:06:41.796
+a prototype.
+
+00:06:42.276 --> 00:06:45.570
+But my team and I are confident
+that we can take this to market
+
+00:06:45.594 --> 00:06:47.585
+within the next two to three years.
+
+00:06:48.251 --> 00:06:53.544
+And we hope we will be able to contribute
+to closing the digital divide,
+
+00:06:53.568 --> 00:06:54.766
+and also contribute
+
+00:06:54.790 --> 00:06:57.735
+to connecting all these billions
+of devices to the Internet.
+
+00:06:58.370 --> 00:06:59.895
+And all of this without causing
+
+00:06:59.919 --> 00:07:02.371
+a massive explosion
+of energy consumption --
+
+00:07:02.395 --> 00:07:04.617
+because of the solar cells,
+quite the opposite.
+
+00:07:04.641 --> 00:07:05.794
+Thank you.
+
+00:07:05.818 --> 00:07:11.000
+(Applause)
+

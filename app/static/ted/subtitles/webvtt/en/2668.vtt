@@ -1,0 +1,861 @@
+WEBVTT
+
+00:00:01.012 --> 00:00:05.229
+Cybercrime is out of control.
+
+00:00:06.186 --> 00:00:07.551
+It's everywhere.
+
+00:00:07.575 --> 00:00:11.863
+We hear about it every single day.
+
+00:00:12.771 --> 00:00:13.985
+This year,
+
+00:00:14.009 --> 00:00:19.143
+over two billion records lost or stolen.
+
+00:00:20.050 --> 00:00:25.685
+And last year, 100 million of us,
+mostly Americans,
+
+00:00:25.709 --> 00:00:30.843
+lost our health insurance data
+to thieves -- myself included.
+
+00:00:32.303 --> 00:00:37.751
+What's particularly concerning about this
+is that in most cases,
+
+00:00:37.775 --> 00:00:43.686
+it was months before anyone even
+reported that these records were stolen.
+
+00:00:45.164 --> 00:00:48.207
+So if you watch the evening news,
+
+00:00:48.231 --> 00:00:53.437
+you would think that most of this
+is espionage or nation-state activity.
+
+00:00:53.993 --> 00:00:56.086
+And, well, some of it is.
+
+00:00:56.694 --> 00:01:01.132
+Espionage, you see, is an accepted
+international practice.
+
+00:01:01.793 --> 00:01:03.276
+But in this case,
+
+00:01:03.300 --> 00:01:08.753
+it is only a small portion
+of the problem that we're dealing with.
+
+00:01:09.639 --> 00:01:12.974
+How often do we hear about a breach
+
+00:01:12.998 --> 00:01:17.849
+followed by, "... it was the result
+of a sophisticated nation-state attack?"
+
+00:01:18.661 --> 00:01:23.522
+Well, often that is companies
+not being willing to own up
+
+00:01:23.546 --> 00:01:26.526
+to their own lackluster
+security practices.
+
+00:01:27.065 --> 00:01:29.565
+There is also a widely held belief
+
+00:01:30.355 --> 00:01:34.206
+that by blaming an attack
+on a nation-state,
+
+00:01:34.230 --> 00:01:36.911
+you are putting regulators at bay --
+
+00:01:36.935 --> 00:01:38.969
+at least for a period of time.
+
+00:01:39.837 --> 00:01:44.320
+So where is all of this coming from?
+
+00:01:44.997 --> 00:01:50.490
+The United Nations estimates
+that 80 percent of it
+
+00:01:50.514 --> 00:01:56.284
+is from highly organized
+and ultrasophisticated criminal gangs.
+
+00:01:57.254 --> 00:01:58.973
+To date,
+
+00:01:58.997 --> 00:02:05.597
+this represents one of the largest
+illegal economies in the world,
+
+00:02:05.621 --> 00:02:08.741
+topping out at, now get this,
+
+00:02:08.765 --> 00:02:13.081
+445 billion dollars.
+
+00:02:13.539 --> 00:02:16.451
+Let me put that in perspective
+for all of you:
+
+00:02:16.475 --> 00:02:22.579
+445 billion dollars is larger than the GDP
+
+00:02:22.603 --> 00:02:25.269
+of 160 nations,
+
+00:02:25.293 --> 00:02:29.838
+including Ireland, Finland,
+Denmark and Portugal,
+
+00:02:29.862 --> 00:02:31.092
+to name a few.
+
+00:02:32.293 --> 00:02:34.297
+So how does this work?
+
+00:02:34.321 --> 00:02:36.227
+How do these criminals operate?
+
+00:02:36.701 --> 00:02:39.557
+Well, let me tell you a little story.
+
+00:02:40.531 --> 00:02:41.725
+About a year ago,
+
+00:02:41.749 --> 00:02:45.059
+our security researchers were tracking
+
+00:02:45.083 --> 00:02:51.129
+a somewhat ordinary but sophisticated
+banking Trojan called the Dyre Wolf.
+
+00:02:51.925 --> 00:02:54.146
+The Dyre Wolf would get on your computer
+
+00:02:54.170 --> 00:02:57.170
+via you clicking on a link
+in a phishing email
+
+00:02:57.194 --> 00:02:59.146
+that you probably shouldn't have.
+
+00:02:59.170 --> 00:03:01.167
+It would then sit and wait.
+
+00:03:01.755 --> 00:03:04.766
+It would wait until you logged
+into your bank account.
+
+00:03:05.299 --> 00:03:08.642
+And when you did,
+the bad guys would reach in,
+
+00:03:08.666 --> 00:03:10.319
+steal your credentials,
+
+00:03:10.343 --> 00:03:12.244
+and then use that to steal your money.
+
+00:03:13.023 --> 00:03:14.943
+This sounds terrible,
+
+00:03:14.967 --> 00:03:17.760
+but the reality is,
+in the security industry,
+
+00:03:17.784 --> 00:03:21.466
+this form of attack
+is somewhat commonplace.
+
+00:03:24.002 --> 00:03:30.166
+However, the Dyre Wolf had
+two distinctly different personalities --
+
+00:03:30.659 --> 00:03:33.000
+one for these small transactions,
+
+00:03:33.024 --> 00:03:36.064
+but it took on an entirely
+different persona
+
+00:03:36.088 --> 00:03:39.903
+if you were in the business of moving
+large-scale wire transfers.
+
+00:03:39.927 --> 00:03:41.626
+Here's what would happen.
+
+00:03:41.650 --> 00:03:44.450
+You start the process
+of issuing a wire transfer,
+
+00:03:44.474 --> 00:03:47.482
+and up in your browser would pop
+a screen from your bank,
+
+00:03:47.506 --> 00:03:50.103
+indicating that there's a problem
+with your account,
+
+00:03:50.127 --> 00:03:53.318
+and that you need to call
+the bank immediately,
+
+00:03:53.342 --> 00:03:56.084
+along with the number
+to the bank's fraud department.
+
+00:03:56.835 --> 00:03:59.005
+So you pick up the phone and you call.
+
+00:03:59.029 --> 00:04:02.040
+And after going through
+the normal voice prompts,
+
+00:04:02.064 --> 00:04:04.181
+you're met with
+an English-speaking operator.
+
+00:04:04.205 --> 00:04:07.073
+"Hello, Altoro Mutual Bank.
+How can I help you?"
+
+00:04:08.033 --> 00:04:11.686
+And you go through the process
+like you do every time you call your bank,
+
+00:04:11.710 --> 00:04:14.501
+of giving them your name
+and your account number,
+
+00:04:14.525 --> 00:04:18.448
+going through the security checks
+to verify you are who you said you are.
+
+00:04:19.809 --> 00:04:21.297
+Most of us may not know this,
+
+00:04:21.321 --> 00:04:23.550
+but in many large-scale wire transfers,
+
+00:04:23.574 --> 00:04:26.685
+it requires two people to sign off
+on the wire transfer,
+
+00:04:26.709 --> 00:04:29.908
+so the operator then asks you
+to get the second person on the line,
+
+00:04:29.932 --> 00:04:32.733
+and goes through the same set
+of verifications and checks.
+
+00:04:33.960 --> 00:04:35.306
+Sounds normal, right?
+
+00:04:35.909 --> 00:04:37.351
+Only one problem:
+
+00:04:37.375 --> 00:04:39.200
+you're not talking to the bank.
+
+00:04:39.224 --> 00:04:40.810
+You're talking to the criminals.
+
+00:04:40.834 --> 00:04:43.032
+They had built
+an English-speaking help desk,
+
+00:04:43.056 --> 00:04:45.121
+fake overlays to the banking website.
+
+00:04:45.145 --> 00:04:48.245
+And this was so flawlessly executed
+
+00:04:48.269 --> 00:04:50.412
+that they were moving
+between a half a million
+
+00:04:50.436 --> 00:04:53.523
+and a million and a half
+dollars per attempt
+
+00:04:53.547 --> 00:04:55.105
+into their criminal coffers.
+
+00:04:56.140 --> 00:04:58.755
+These criminal organizations operate
+
+00:04:58.779 --> 00:05:01.804
+like highly regimented,
+legitimate businesses.
+
+00:05:02.345 --> 00:05:04.828
+Their employees work
+Monday through Friday.
+
+00:05:05.309 --> 00:05:06.845
+They take the weekends off.
+
+00:05:06.869 --> 00:05:08.252
+How do we know this?
+
+00:05:08.276 --> 00:05:11.409
+We know this because
+our security researchers see
+
+00:05:11.433 --> 00:05:14.499
+repeated spikes of malware
+on a Friday afternoon.
+
+00:05:15.254 --> 00:05:18.469
+The bad guys, after a long weekend
+with the wife and kids,
+
+00:05:18.493 --> 00:05:20.733
+come back in to see how well things went.
+
+00:05:23.701 --> 00:05:26.375
+The Dark Web is where
+they spend their time.
+
+00:05:27.295 --> 00:05:33.084
+That is a term used to describe
+the anonymous underbelly of the internet,
+
+00:05:33.108 --> 00:05:36.033
+where thieves can operate with anonymity
+
+00:05:36.057 --> 00:05:37.502
+and without detection.
+
+00:05:38.209 --> 00:05:41.236
+Here they peddle their attack software
+
+00:05:41.260 --> 00:05:44.716
+and share information
+on new attack techniques.
+
+00:05:45.571 --> 00:05:47.421
+You can buy everything there,
+
+00:05:47.445 --> 00:05:51.101
+from a base-level attack
+to a much more advanced version.
+
+00:05:51.842 --> 00:05:54.134
+In fact, in many cases, you even see
+
+00:05:54.158 --> 00:05:57.330
+gold, silver and bronze levels of service.
+
+00:05:57.903 --> 00:05:59.574
+You can check references.
+
+00:05:59.977 --> 00:06:02.537
+You can even buy attacks
+
+00:06:02.561 --> 00:06:05.889
+that come with a money-back guarantee --
+
+00:06:05.913 --> 00:06:06.958
+(Laughter)
+
+00:06:06.982 --> 00:06:08.637
+if you're not successful.
+
+00:06:09.931 --> 00:06:13.022
+Now, these environments,
+these marketplaces --
+
+00:06:13.046 --> 00:06:16.393
+they look like an Amazon or an eBay.
+
+00:06:16.417 --> 00:06:20.373
+You see products, prices,
+ratings and reviews.
+
+00:06:20.397 --> 00:06:22.651
+Of course, if you're going
+to buy an attack,
+
+00:06:22.675 --> 00:06:26.124
+you're going to buy from a reputable
+criminal with good ratings, right?
+
+00:06:26.148 --> 00:06:27.152
+(Laughter)
+
+00:06:27.176 --> 00:06:28.377
+This isn't any different
+
+00:06:28.401 --> 00:06:33.591
+than checking on Yelp or TripAdvisor
+before going to a new restaurant.
+
+00:06:34.503 --> 00:06:36.596
+So, here is an example.
+
+00:06:36.620 --> 00:06:42.041
+This is an actual screenshot
+of a vendor selling malware.
+
+00:06:42.065 --> 00:06:43.880
+Notice they're a vendor level four,
+
+00:06:43.904 --> 00:06:45.745
+they have a trust level of six.
+
+00:06:45.769 --> 00:06:48.104
+They've had 400 positive reviews
+in the last year,
+
+00:06:48.128 --> 00:06:50.508
+and only two negative reviews
+in the last month.
+
+00:06:51.072 --> 00:06:54.429
+We even see things like licensing terms.
+
+00:06:54.762 --> 00:06:56.766
+Here's an example of a site you can go to
+
+00:06:56.790 --> 00:06:58.547
+if you want to change your identity.
+
+00:06:58.571 --> 00:07:00.428
+They will sell you a fake ID,
+
+00:07:00.452 --> 00:07:02.046
+fake passports.
+
+00:07:02.603 --> 00:07:07.652
+But note the legally binding terms
+for purchasing your fake ID.
+
+00:07:08.518 --> 00:07:10.039
+Give me a break.
+
+00:07:10.063 --> 00:07:12.921
+What are they going to do --
+sue you if you violate them?
+
+00:07:12.945 --> 00:07:14.095
+(Laughter)
+
+00:07:15.458 --> 00:07:17.881
+This occurred a couple of months ago.
+
+00:07:17.905 --> 00:07:21.520
+One of our security
+researchers was looking
+
+00:07:21.544 --> 00:07:26.542
+at a new Android malware application
+that we had discovered.
+
+00:07:26.566 --> 00:07:28.486
+It was called Bilal Bot.
+
+00:07:29.514 --> 00:07:31.440
+In a blog post,
+
+00:07:31.464 --> 00:07:38.269
+she positioned Bilal Bot
+as a new, inexpensive and beta alternative
+
+00:07:38.870 --> 00:07:42.208
+to the much more advanced GM Bot
+
+00:07:42.232 --> 00:07:45.047
+that was commonplace
+in the criminal underground.
+
+00:07:46.658 --> 00:07:50.668
+This review did not sit well
+with the authors of Bilal Bot.
+
+00:07:51.237 --> 00:07:53.817
+So they wrote her this very email,
+
+00:07:55.028 --> 00:07:57.785
+pleading their case
+and making the argument
+
+00:07:57.809 --> 00:08:03.238
+that they felt she had evaluated
+an older version.
+
+00:08:04.198 --> 00:08:08.907
+They asked her to please update
+her blog with more accurate information
+
+00:08:08.931 --> 00:08:12.343
+and even offered to do an interview
+
+00:08:12.367 --> 00:08:14.588
+to describe to her in detail
+
+00:08:14.612 --> 00:08:19.211
+how their attack software was now
+far better than the competition.
+
+00:08:20.365 --> 00:08:21.690
+So look,
+
+00:08:21.714 --> 00:08:25.578
+you don't have to like what they do,
+
+00:08:25.602 --> 00:08:30.521
+but you do have to respect
+the entrepreneurial nature
+
+00:08:30.545 --> 00:08:31.752
+of their endeavors.
+
+00:08:31.776 --> 00:08:32.926
+(Laughter)
+
+00:08:34.476 --> 00:08:38.331
+So how are we going to stop this?
+
+00:08:39.714 --> 00:08:45.278
+It's not like we're going to be able
+to identify who's responsible --
+
+00:08:45.302 --> 00:08:48.264
+remember, they operate with anonymity
+
+00:08:48.288 --> 00:08:50.273
+and outside the reach of the law.
+
+00:08:51.217 --> 00:08:54.501
+We're certainly not going to be able
+to prosecute the offenders.
+
+00:08:55.156 --> 00:09:00.701
+I would propose that we need
+a completely new approach.
+
+00:09:01.763 --> 00:09:05.669
+And that approach needs
+to be centered on the idea
+
+00:09:05.693 --> 00:09:09.588
+that we need to change
+the economics for the bad guys.
+
+00:09:10.245 --> 00:09:13.346
+And to give you a perspective
+on how this can work,
+
+00:09:13.370 --> 00:09:18.358
+let's think of the response we see
+to a healthcare pandemic:
+
+00:09:18.382 --> 00:09:21.385
+SARS, Ebola, bird flu, Zika.
+
+00:09:22.036 --> 00:09:23.957
+What is the top priority?
+
+00:09:23.981 --> 00:09:29.274
+It's knowing who is infected
+and how the disease is spreading.
+
+00:09:32.015 --> 00:09:38.162
+Now, governments, private institutions,
+hospitals, physicians --
+
+00:09:39.061 --> 00:09:42.781
+everyone responds openly and quickly.
+
+00:09:43.334 --> 00:09:47.305
+This is a collective and altruistic effort
+
+00:09:47.329 --> 00:09:51.229
+to stop the spread in its tracks
+
+00:09:51.253 --> 00:09:54.130
+and to inform anyone not infected
+
+00:09:54.154 --> 00:09:56.534
+how to protect or inoculate themselves.
+
+00:09:58.900 --> 00:10:04.594
+Unfortunately, this is not at all
+what we see in response to a cyber attack.
+
+00:10:05.850 --> 00:10:10.301
+Organizations are far more likely
+to keep information on that attack
+
+00:10:10.325 --> 00:10:11.950
+to themselves.
+
+00:10:13.082 --> 00:10:14.238
+Why?
+
+00:10:14.262 --> 00:10:17.232
+Because they're worried
+about competitive advantage,
+
+00:10:18.043 --> 00:10:19.614
+litigation
+
+00:10:19.638 --> 00:10:20.944
+or regulation.
+
+00:10:21.827 --> 00:10:27.597
+We need to effectively democratize
+threat intelligence data.
+
+00:10:27.975 --> 00:10:33.451
+We need to get all of these organizations
+to open up and share
+
+00:10:33.475 --> 00:10:37.097
+what is in their private arsenal
+of information.
+
+00:10:39.010 --> 00:10:41.804
+The bad guys are moving fast;
+
+00:10:41.828 --> 00:10:43.945
+we've got to move faster.
+
+00:10:44.750 --> 00:10:48.472
+And the best way to do that is to open up
+
+00:10:48.496 --> 00:10:50.843
+and share data on what's happening.
+
+00:10:51.304 --> 00:10:55.630
+Let's think about this in the construct
+of security professionals.
+
+00:10:56.164 --> 00:11:01.140
+Remember, they're programmed right
+into their DNA to keep secrets.
+
+00:11:01.164 --> 00:11:04.188
+We've got to turn
+that thinking on its head.
+
+00:11:04.212 --> 00:11:07.493
+We've got to get governments,
+private institutions
+
+00:11:07.517 --> 00:11:08.960
+and security companies
+
+00:11:08.984 --> 00:11:11.715
+willing to share information at speed.
+
+00:11:11.739 --> 00:11:13.415
+And here's why:
+
+00:11:13.439 --> 00:11:15.316
+because if you share the information,
+
+00:11:15.340 --> 00:11:17.357
+it's equivalent to inoculation.
+
+00:11:18.663 --> 00:11:20.210
+And if you're not sharing,
+
+00:11:20.234 --> 00:11:22.335
+you're actually part of the problem,
+
+00:11:22.359 --> 00:11:28.127
+because you're increasing the odds
+that other people could be impacted
+
+00:11:28.151 --> 00:11:30.781
+by the same attack techniques.
+
+00:11:31.986 --> 00:11:34.035
+But there's an even bigger benefit.
+
+00:11:35.198 --> 00:11:39.944
+By destroying criminals' devices
+closer to real time,
+
+00:11:39.968 --> 00:11:41.721
+we break their plans.
+
+00:11:43.462 --> 00:11:46.702
+We inform the people they aim to hurt
+
+00:11:46.726 --> 00:11:49.371
+far sooner than they had ever anticipated.
+
+00:11:50.520 --> 00:11:52.721
+We ruin their reputations,
+
+00:11:52.745 --> 00:11:55.837
+we crush their ratings and reviews.
+
+00:11:56.305 --> 00:12:00.137
+We make cybercrime not pay.
+
+00:12:00.931 --> 00:12:04.699
+We change the economics for the bad guys.
+
+00:12:06.315 --> 00:12:10.287
+But to do this,
+a first mover was required --
+
+00:12:10.311 --> 00:12:14.912
+someone to change the thinking
+in the security industry overall.
+
+00:12:16.067 --> 00:12:17.337
+About a year ago,
+
+00:12:17.361 --> 00:12:19.867
+my colleagues and I had a radical idea.
+
+00:12:20.624 --> 00:12:25.208
+What if IBM were to take our data --
+
+00:12:25.987 --> 00:12:29.975
+we had one of the largest threat
+intelligence databases in the world --
+
+00:12:29.999 --> 00:12:31.358
+and open it up?
+
+00:12:31.757 --> 00:12:35.218
+It had information not just
+on what had happened in the past,
+
+00:12:35.242 --> 00:12:37.717
+but what was happening in near-real time.
+
+00:12:37.741 --> 00:12:41.638
+What if we were to publish it all
+openly on the internet?
+
+00:12:42.463 --> 00:12:44.957
+As you can imagine,
+this got quite a reaction.
+
+00:12:44.981 --> 00:12:46.345
+First came the lawyers:
+
+00:12:46.369 --> 00:12:48.684
+What are the legal
+implications of doing that?
+
+00:12:49.385 --> 00:12:50.720
+Then came the business:
+
+00:12:50.744 --> 00:12:53.144
+What are the business
+implications of doing that?
+
+00:12:53.622 --> 00:12:55.795
+And this was also met with a good dose
+
+00:12:55.819 --> 00:12:58.927
+of a lot of people just asking
+if we were completely crazy.
+
+00:12:59.928 --> 00:13:03.714
+But there was one conversation
+that kept floating to the surface
+
+00:13:03.738 --> 00:13:05.789
+in every dialogue that we would have:
+
+00:13:06.400 --> 00:13:09.947
+the realization that if we didn't do this,
+
+00:13:09.971 --> 00:13:12.602
+then we were part of the problem.
+
+00:13:13.514 --> 00:13:16.374
+So we did something unheard of
+in the security industry.
+
+00:13:17.045 --> 00:13:18.718
+We started publishing.
+
+00:13:18.742 --> 00:13:23.152
+Over 700 terabytes of actionable
+threat intelligence data,
+
+00:13:23.176 --> 00:13:26.181
+including information on real-time attacks
+
+00:13:26.205 --> 00:13:29.068
+that can be used to stop
+cybercrime in its tracks.
+
+00:13:29.813 --> 00:13:31.183
+And to date,
+
+00:13:31.207 --> 00:13:35.251
+over 4,000 organizations
+are leveraging this data,
+
+00:13:35.275 --> 00:13:37.154
+including half of the Fortune 100.
+
+00:13:38.599 --> 00:13:42.616
+And our hope as a next step
+is to get all of those organizations
+
+00:13:42.640 --> 00:13:44.601
+to join us in the fight,
+
+00:13:44.625 --> 00:13:46.176
+and do the same thing
+
+00:13:46.200 --> 00:13:48.288
+and share their information
+
+00:13:48.312 --> 00:13:50.846
+on when and how
+they're being attacked as well.
+
+00:13:51.552 --> 00:13:54.570
+We all have the opportunity to stop it,
+
+00:13:54.594 --> 00:13:56.755
+and we already all know how.
+
+00:13:57.372 --> 00:14:01.742
+All we have to do is look
+to the response that we see
+
+00:14:01.766 --> 00:14:03.272
+in the world of health care,
+
+00:14:03.296 --> 00:14:05.199
+and how they respond to a pandemic.
+
+00:14:05.623 --> 00:14:07.002
+Simply put,
+
+00:14:07.026 --> 00:14:09.302
+we need to be open and collaborative.
+
+00:14:09.876 --> 00:14:11.027
+Thank you.
+
+00:14:11.051 --> 00:14:14.843
+(Applause)
+

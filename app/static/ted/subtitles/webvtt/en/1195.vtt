@@ -1,0 +1,273 @@
+WEBVTT
+
+00:00:00.635 --> 00:00:04.882
+It is a dream of mankind
+to fly like a bird.
+
+00:00:04.906 --> 00:00:06.976
+Birds are very agile.
+
+00:00:07.000 --> 00:00:10.334
+They fly, not with rotating components,
+
+00:00:10.358 --> 00:00:13.414
+so they fly only by flapping their wings.
+
+00:00:13.763 --> 00:00:15.976
+So we looked at the birds,
+
+00:00:16.000 --> 00:00:22.343
+and we tried to make a model
+that is powerful, ultralight,
+
+00:00:22.367 --> 00:00:26.381
+and it must have excellent
+aerodynamic qualities
+
+00:00:26.405 --> 00:00:30.513
+that would fly by its own
+and only by flapping its wings.
+
+00:00:31.140 --> 00:00:35.976
+So what would be better than to use
+the herring gull, in its freedom,
+
+00:00:36.000 --> 00:00:38.314
+circling and swooping over the sea,
+
+00:00:38.338 --> 00:00:41.163
+and to use this as a role model?
+
+00:00:41.677 --> 00:00:43.637
+So we bring a team together.
+
+00:00:43.661 --> 00:00:48.741
+There are generalists and also specialists
+in the field of aerodynamics,
+
+00:00:48.765 --> 00:00:50.976
+in the field of building gliders.
+
+00:00:51.329 --> 00:00:56.702
+And the task was to build
+an ultralight indoor-flying model
+
+00:00:56.726 --> 00:00:59.903
+that is able to fly over your heads.
+
+00:00:59.927 --> 00:01:02.000
+So be careful later on.
+
+00:01:02.485 --> 00:01:04.127
+(Laughter)
+
+00:01:04.817 --> 00:01:06.261
+And this was one issue:
+
+00:01:06.285 --> 00:01:07.977
+to build it that lightweight
+
+00:01:08.001 --> 00:01:12.832
+that no one would be hurt if it fell down.
+
+00:01:13.388 --> 00:01:15.340
+So why do we do all this?
+
+00:01:15.364 --> 00:01:18.287
+We are a company
+in the field of automation,
+
+00:01:18.311 --> 00:01:20.976
+and we'd like to do
+very lightweight structures
+
+00:01:21.000 --> 00:01:23.739
+because that's energy efficient,
+
+00:01:23.763 --> 00:01:29.406
+and we'd like to learn more
+about pneumatics and air flow phenomena.
+
+00:01:29.851 --> 00:01:34.278
+So I now would like you
+to put your seat belts on
+
+00:01:34.302 --> 00:01:35.976
+and put your hats on.
+
+00:01:36.539 --> 00:01:39.615
+So maybe we'll try it once --
+
+00:01:39.639 --> 00:01:41.119
+to fly a SmartBird.
+
+00:01:41.143 --> 00:01:42.171
+Thank you.
+
+00:01:42.195 --> 00:01:49.086
+(Applause)
+
+00:01:58.628 --> 00:01:59.874
+(Cheers)
+
+00:01:59.898 --> 00:02:03.283
+(Applause)
+
+00:02:14.068 --> 00:02:15.958
+(Applause ends)
+
+00:02:36.008 --> 00:02:39.157
+(Applause)
+
+00:02:52.445 --> 00:02:56.782
+So we can now look at the SmartBird.
+
+00:02:57.824 --> 00:03:00.306
+So here is one without a skin.
+
+00:03:00.330 --> 00:03:03.541
+We have a wingspan of about two meters.
+
+00:03:03.565 --> 00:03:05.976
+The length is one meter and six,
+
+00:03:06.000 --> 00:03:10.187
+and the weight is only 450 grams.
+
+00:03:10.793 --> 00:03:13.976
+And it is all out of carbon fiber.
+
+00:03:14.000 --> 00:03:16.459
+In the middle we have a motor,
+
+00:03:16.483 --> 00:03:19.976
+and we also have a gear in it,
+
+00:03:20.000 --> 00:03:25.615
+and we use the gear
+to transfer the circulation of the motor.
+
+00:03:25.639 --> 00:03:28.825
+So within the motor,
+we have three Hall sensors,
+
+00:03:28.849 --> 00:03:32.362
+so we know exactly where the wing is.
+
+00:03:34.450 --> 00:03:37.451
+And if we now beat up and down --
+
+00:03:37.475 --> 00:03:41.412
+(Mechanical sounds)
+
+00:03:41.436 --> 00:03:45.499
+We have the possibility
+to fly like a bird.
+
+00:03:45.523 --> 00:03:49.141
+So if you go down, you have
+the large area of propulsion,
+
+00:03:49.165 --> 00:03:52.252
+and if you go up,
+
+00:03:52.276 --> 00:03:54.976
+the wings are not that large,
+
+00:03:55.000 --> 00:03:58.000
+and it is easier to get up.
+
+00:03:59.869 --> 00:04:02.916
+So, the next thing we did,
+
+00:04:02.940 --> 00:04:04.713
+or the challenges we did,
+
+00:04:04.737 --> 00:04:07.753
+was to coordinate this movement.
+
+00:04:07.777 --> 00:04:10.966
+We have to turn it, go up and go down.
+
+00:04:10.990 --> 00:04:12.526
+We have a split wing.
+
+00:04:12.550 --> 00:04:13.976
+With the split wing,
+
+00:04:14.000 --> 00:04:16.976
+we get the lift at the upper wing,
+
+00:04:17.000 --> 00:04:20.214
+and we get the propulsion
+at the lower wing.
+
+00:04:20.238 --> 00:04:25.456
+Also, we see how we measure
+the aerodynamic efficiency.
+
+00:04:25.480 --> 00:04:29.710
+We had knowledge
+about the electromechanical efficiency
+
+00:04:29.734 --> 00:04:33.692
+and then we can calculate
+the aerodynamic efficiency.
+
+00:04:33.716 --> 00:04:39.036
+So therefore, it rises up
+from passive torsion to active torsion,
+
+00:04:39.060 --> 00:04:41.623
+from 30 percent up to 80 percent.
+
+00:04:42.321 --> 00:04:44.180
+Next thing we have to do,
+
+00:04:44.204 --> 00:04:48.305
+we have to control and regulate
+the whole structure.
+
+00:04:48.329 --> 00:04:50.900
+Only if you control and regulate it,
+
+00:04:50.924 --> 00:04:54.217
+you will get that aerodynamic efficiency.
+
+00:04:54.241 --> 00:04:57.328
+So the overall consumption of energy
+
+00:04:57.352 --> 00:05:00.556
+is about 25 watts at takeoff
+
+00:05:00.580 --> 00:05:04.112
+and 16 to 18 watts in flight.
+
+00:05:04.136 --> 00:05:05.145
+Thank you.
+
+00:05:05.169 --> 00:05:11.750
+(Applause)
+
+00:05:11.774 --> 00:05:14.322
+Bruno Giussani: Markus,
+we should fly it once more.
+
+00:05:14.346 --> 00:05:15.751
+Markus Fischer: Yeah, sure.
+
+00:05:15.775 --> 00:05:16.843
+(Audience) Yeah!
+
+00:05:16.867 --> 00:05:18.468
+(Laughter)
+
+00:05:38.123 --> 00:05:41.840
+(Gasps)
+
+00:05:46.809 --> 00:05:48.603
+(Cheers)
+
+00:05:48.627 --> 00:05:51.730
+(Applause)
+

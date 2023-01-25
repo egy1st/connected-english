@@ -1,0 +1,1084 @@
+WEBVTT
+
+00:00:00.570 --> 00:00:04.777
+I work with a bunch of mathematicians,
+philosophers and computer scientists,
+
+00:00:04.777 --> 00:00:09.986
+and we sit around and think about
+the future of machine intelligence,
+
+00:00:09.986 --> 00:00:12.030
+among other things.
+
+00:00:12.030 --> 00:00:16.755
+Some people think that some of these
+things are sort of science fiction-y,
+
+00:00:16.755 --> 00:00:19.856
+far out there, crazy.
+
+00:00:19.856 --> 00:00:21.326
+But I like to say,
+
+00:00:21.326 --> 00:00:24.930
+okay, let's look at the modern
+human condition.
+
+00:00:24.930 --> 00:00:26.622
+(Laughter)
+
+00:00:26.622 --> 00:00:29.024
+This is the normal way for things to be.
+
+00:00:29.024 --> 00:00:31.309
+But if we think about it,
+
+00:00:31.309 --> 00:00:34.602
+we are actually recently arrived
+guests on this planet,
+
+00:00:34.602 --> 00:00:36.684
+the human species.
+
+00:00:36.684 --> 00:00:41.430
+Think about if Earth
+was created one year ago,
+
+00:00:41.430 --> 00:00:44.978
+the human species, then, 
+would be 10 minutes old.
+
+00:00:44.978 --> 00:00:48.146
+The industrial era started
+two seconds ago.
+
+00:00:49.276 --> 00:00:54.501
+Another way to look at this is to think of
+world GDP over the last 10,000 years,
+
+00:00:54.501 --> 00:00:57.530
+I've actually taken the trouble
+to plot this for you in a graph.
+
+
+00:00:57.530 --> 00:00:59.304
+It looks like this.
+
+00:00:59.304 --> 00:01:00.667
+(Laughter)
+
+00:01:00.667 --> 00:01:02.818
+It's a curious shape
+for a normal condition.
+
+00:01:02.818 --> 00:01:04.516
+I sure wouldn't want to sit on it.
+
+00:01:04.516 --> 00:01:07.067
+(Laughter)
+
+00:01:07.067 --> 00:01:11.841
+Let's ask ourselves, what is the cause
+of this current anomaly?
+
+00:01:11.841 --> 00:01:14.393
+Some people would say it's technology.
+
+00:01:14.393 --> 00:01:19.061
+Now it's true, technology has accumulated
+through human history,
+
+00:01:19.061 --> 00:01:23.713
+and right now, technology
+advances extremely rapidly --
+
+00:01:23.713 --> 00:01:25.278
+that is the proximate cause,
+
+00:01:25.278 --> 00:01:27.843
+that's why we are currently 
+so very productive.
+
+00:01:28.473 --> 00:01:32.134
+But I like to think back further 
+to the ultimate cause.
+
+00:01:33.114 --> 00:01:36.880
+Look at these two highly
+distinguished gentlemen:
+
+00:01:36.880 --> 00:01:38.480
+We have Kanzi --
+
+00:01:38.480 --> 00:01:43.123
+he's mastered 200 lexical
+tokens, an incredible feat.
+
+00:01:43.123 --> 00:01:46.817
+And Ed Witten unleashed the second
+superstring revolution.
+
+00:01:46.817 --> 00:01:49.141
+If we look under the hood, 
+this is what we find:
+
+00:01:49.141 --> 00:01:50.711
+basically the same thing.
+
+00:01:50.711 --> 00:01:52.524
+One is a little larger,
+
+00:01:52.524 --> 00:01:55.282
+it maybe also has a few tricks
+in the exact way it's wired.
+
+00:01:55.282 --> 00:01:59.094
+These invisible differences cannot
+be too complicated, however,
+
+00:01:59.094 --> 00:02:03.379
+because there have only
+been 250,000 generations
+
+00:02:03.379 --> 00:02:05.111
+since our last common ancestor.
+
+00:02:05.111 --> 00:02:08.960
+We know that complicated mechanisms
+take a long time to evolve.
+
+00:02:10.000 --> 00:02:12.499
+So a bunch of relatively minor changes
+
+00:02:12.499 --> 00:02:15.566
+take us from Kanzi to Witten,
+
+00:02:15.566 --> 00:02:20.109
+from broken-off tree branches
+to intercontinental ballistic missiles.
+
+00:02:20.839 --> 00:02:24.774
+So this then seems pretty obvious
+that everything we've achieved,
+
+00:02:24.774 --> 00:02:26.152
+and everything we care about,
+
+00:02:26.152 --> 00:02:31.380
+depends crucially on some relatively minor
+changes that made the human mind.
+
+00:02:32.650 --> 00:02:36.312
+And the corollary, of course,
+is that any further changes
+
+00:02:36.312 --> 00:02:39.789
+that could significantly change
+the substrate of thinking
+
+00:02:39.789 --> 00:02:42.991
+could have potentially 
+enormous consequences.
+
+00:02:44.321 --> 00:02:47.226
+Some of my colleagues 
+think we're on the verge
+
+00:02:47.226 --> 00:02:51.134
+of something that could cause
+a profound change in that substrate,
+
+00:02:51.134 --> 00:02:54.347
+and that is machine superintelligence.
+
+00:02:54.347 --> 00:02:59.086
+Artificial intelligence used to be
+about putting commands in a box.
+
+00:02:59.086 --> 00:03:00.751
+You would have human programmers
+
+00:03:00.751 --> 00:03:03.886
+that would painstakingly 
+handcraft knowledge items.
+
+00:03:03.886 --> 00:03:05.972
+You build up these expert systems,
+
+00:03:05.972 --> 00:03:08.296
+and they were kind of useful 
+for some purposes,
+
+00:03:08.296 --> 00:03:10.977
+but they were very brittle,
+you couldn't scale them.
+
+00:03:10.977 --> 00:03:14.410
+Basically, you got out only
+what you put in.
+
+00:03:14.410 --> 00:03:15.407
+But since then,
+
+00:03:15.407 --> 00:03:18.874
+a paradigm shift has taken place
+in the field of artificial intelligence.
+
+00:03:18.874 --> 00:03:21.644
+Today, the action is really 
+around machine learning.
+
+00:03:22.394 --> 00:03:27.781
+So rather than handcrafting knowledge
+representations and features,
+
+00:03:28.511 --> 00:03:34.065
+we create algorithms that learn,
+often from raw perceptual data.
+
+00:03:34.065 --> 00:03:39.063
+Basically the same thing
+that the human infant does.
+
+00:03:39.063 --> 00:03:43.270
+The result is A.I. that is not
+limited to one domain --
+
+00:03:43.270 --> 00:03:47.901
+the same system can learn to translate 
+between any pairs of languages,
+
+00:03:47.901 --> 00:03:53.338
+or learn to play any computer game
+on the Atari console.
+
+00:03:53.338 --> 00:03:55.117
+Now of course,
+
+00:03:55.117 --> 00:03:59.116
+A.I. is still nowhere near having
+the same powerful, cross-domain
+
+00:03:59.116 --> 00:04:02.335
+ability to learn and plan
+as a human being has.
+
+00:04:02.335 --> 00:04:04.461
+The cortex still has some 
+algorithmic tricks
+
+00:04:04.461 --> 00:04:06.816
+that we don't yet know
+how to match in machines.
+
+00:04:07.886 --> 00:04:09.785
+So the question is,
+
+00:04:09.785 --> 00:04:13.285
+how far are we from being able
+to match those tricks?
+
+00:04:14.245 --> 00:04:15.328
+A couple of years ago,
+
+00:04:15.328 --> 00:04:18.216
+we did a survey of some of the world's 
+leading A.I. experts,
+
+00:04:18.216 --> 00:04:21.440
+to see what they think,
+and one of the questions we asked was,
+
+00:04:21.440 --> 00:04:24.793
+"By which year do you think
+there is a 50 percent probability
+
+00:04:24.793 --> 00:04:28.275
+that we will have achieved 
+human-level machine intelligence?"
+
+00:04:28.785 --> 00:04:32.968
+We defined human-level here 
+as the ability to perform
+
+00:04:32.968 --> 00:04:35.839
+almost any job at least as well
+as an adult human,
+
+00:04:35.839 --> 00:04:39.844
+so real human-level, not just
+within some limited domain.
+
+00:04:39.844 --> 00:04:43.494
+And the median answer was 2040 or 2050,
+
+00:04:43.494 --> 00:04:46.300
+depending on precisely which 
+group of experts we asked.
+
+00:04:46.300 --> 00:04:50.339
+Now, it could happen much,
+much later, or sooner,
+
+00:04:50.339 --> 00:04:52.279
+the truth is nobody really knows.
+
+00:04:53.259 --> 00:04:57.671
+What we do know is that the ultimate 
+limit to information processing
+
+00:04:57.671 --> 00:05:02.542
+in a machine substrate lies far outside 
+the limits in biological tissue.
+
+00:05:03.241 --> 00:05:05.619
+This comes down to physics.
+
+00:05:05.619 --> 00:05:10.337
+A biological neuron fires, maybe, 
+at 200 hertz, 200 times a second.
+
+00:05:10.337 --> 00:05:13.931
+But even a present-day transistor
+operates at the Gigahertz.
+
+00:05:13.931 --> 00:05:19.228
+Neurons propagate slowly in axons,
+100 meters per second, tops.
+
+00:05:19.228 --> 00:05:22.339
+But in computers, signals can travel
+at the speed of light.
+
+00:05:23.079 --> 00:05:24.948
+There are also size limitations,
+
+00:05:24.948 --> 00:05:27.975
+like a human brain has 
+to fit inside a cranium,
+
+00:05:27.975 --> 00:05:32.736
+but a computer can be the size
+of a warehouse or larger.
+
+00:05:32.736 --> 00:05:38.335
+So the potential for superintelligence 
+lies dormant in matter,
+
+00:05:38.335 --> 00:05:44.047
+much like the power of the atom 
+lay dormant throughout human history,
+
+00:05:44.047 --> 00:05:48.452
+patiently waiting there until 1945.
+
+00:05:48.452 --> 00:05:49.700
+In this century,
+
+00:05:49.700 --> 00:05:53.818
+scientists may learn to awaken
+the power of artificial intelligence.
+
+00:05:53.818 --> 00:05:57.826
+And I think we might then see
+an intelligence explosion.
+
+00:05:58.406 --> 00:06:02.363
+Now most people, when they think
+about what is smart and what is dumb,
+
+00:06:02.363 --> 00:06:05.386
+I think have in mind a picture
+roughly like this.
+
+00:06:05.386 --> 00:06:07.984
+So at one end we have the village idiot,
+
+00:06:07.984 --> 00:06:10.467
+and then far over at the other side
+
+00:06:10.467 --> 00:06:15.223
+we have Ed Witten, or Albert Einstein,
+or whoever your favorite guru is.
+
+00:06:15.223 --> 00:06:19.057
+But I think that from the point of view
+of artificial intelligence,
+
+00:06:19.057 --> 00:06:22.738
+the true picture is actually
+probably more like this:
+
+00:06:23.258 --> 00:06:26.636
+AI starts out at this point here,
+at zero intelligence,
+
+00:06:26.636 --> 00:06:29.647
+and then, after many, many 
+years of really hard work,
+
+00:06:29.647 --> 00:06:33.491
+maybe eventually we get to
+mouse-level artificial intelligence,
+
+00:06:33.491 --> 00:06:35.921
+something that can navigate 
+cluttered environments
+
+00:06:35.921 --> 00:06:37.908
+as well as a mouse can.
+
+00:06:37.908 --> 00:06:42.221
+And then, after many, many more years
+of really hard work, lots of investment,
+
+00:06:42.221 --> 00:06:46.860
+maybe eventually we get to
+chimpanzee-level artificial intelligence.
+
+00:06:46.860 --> 00:06:50.070
+And then, after even more years 
+of really, really hard work,
+
+00:06:50.070 --> 00:06:52.983
+we get to village idiot 
+artificial intelligence.
+
+00:06:52.983 --> 00:06:56.255
+And a few moments later, 
+we are beyond Ed Witten.
+
+00:06:56.255 --> 00:06:59.225
+The train doesn't stop
+at Humanville Station.
+
+00:06:59.225 --> 00:07:02.247
+It's likely, rather, to swoosh right by.
+
+00:07:02.247 --> 00:07:04.231
+Now this has profound implications,
+
+00:07:04.231 --> 00:07:08.093
+particularly when it comes 
+to questions of power.
+
+00:07:08.093 --> 00:07:09.992
+For example, chimpanzees are strong --
+
+00:07:09.992 --> 00:07:15.214
+pound for pound, a chimpanzee is about
+twice as strong as a fit human male.
+
+00:07:15.214 --> 00:07:19.828
+And yet, the fate of Kanzi 
+and his pals depends a lot more
+
+00:07:19.828 --> 00:07:23.968
+on what we humans do than on
+what the chimpanzees do themselves.
+
+00:07:25.228 --> 00:07:27.542
+Once there is superintelligence,
+
+00:07:27.542 --> 00:07:31.381
+the fate of humanity may depend
+on what the superintelligence does.
+
+00:07:32.451 --> 00:07:33.508
+Think about it:
+
+00:07:33.508 --> 00:07:38.552
+Machine intelligence is the last invention
+that humanity will ever need to make.
+
+00:07:38.552 --> 00:07:41.525
+Machines will then be better 
+at inventing than we are,
+
+00:07:41.525 --> 00:07:44.065
+and they'll be doing so 
+on digital timescales.
+
+00:07:44.065 --> 00:07:48.966
+What this means is basically
+a telescoping of the future.
+
+00:07:48.966 --> 00:07:52.524
+Think of all the crazy technologies 
+that you could have imagined
+
+00:07:52.524 --> 00:07:55.322
+maybe humans could have developed
+in the fullness of time:
+
+00:07:55.322 --> 00:07:58.580
+cures for aging, space colonization,
+
+00:07:58.580 --> 00:08:02.311
+self-replicating nanobots or uploading
+of minds into computers,
+
+00:08:02.311 --> 00:08:04.470
+all kinds of science fiction-y stuff
+
+00:08:04.470 --> 00:08:07.207
+that's nevertheless consistent 
+with the laws of physics.
+
+00:08:07.207 --> 00:08:11.419
+All of this superintelligence could 
+develop, and possibly quite rapidly.
+
+00:08:12.449 --> 00:08:16.007
+Now, a superintelligence with such 
+technological maturity
+
+00:08:16.007 --> 00:08:18.186
+would be extremely powerful,
+
+00:08:18.186 --> 00:08:22.732
+and at least in some scenarios,
+it would be able to get what it wants.
+
+00:08:22.732 --> 00:08:28.393
+We would then have a future that would
+be shaped by the preferences of this A.I.
+
+00:08:29.855 --> 00:08:33.604
+Now a good question is,
+what are those preferences?
+
+00:08:34.244 --> 00:08:36.013
+Here it gets trickier.
+
+00:08:36.013 --> 00:08:37.448
+To make any headway with this,
+
+00:08:37.448 --> 00:08:40.724
+we must first of all
+avoid anthropomorphizing.
+
+00:08:41.934 --> 00:08:45.235
+And this is ironic because 
+every newspaper article
+
+00:08:45.235 --> 00:08:49.090
+about the future of A.I.
+has a picture of this:
+
+00:08:50.280 --> 00:08:54.414
+So I think what we need to do is
+to conceive of the issue more abstractly,
+
+00:08:54.414 --> 00:08:57.204
+not in terms of vivid Hollywood scenarios.
+
+00:08:57.204 --> 00:09:00.821
+We need to think of intelligence 
+as an optimization process,
+
+00:09:00.821 --> 00:09:06.470
+a process that steers the future
+into a particular set of configurations.
+
+00:09:06.470 --> 00:09:09.981
+A superintelligence is
+a really strong optimization process.
+
+00:09:09.981 --> 00:09:14.098
+It's extremely good at using 
+available means to achieve a state
+
+00:09:14.098 --> 00:09:16.007
+in which its goal is realized.
+
+00:09:16.447 --> 00:09:19.119
+This means that there is no necessary
+connection between
+
+00:09:19.119 --> 00:09:21.853
+being highly intelligent in this sense,
+
+00:09:21.853 --> 00:09:26.515
+and having an objective that we humans
+would find worthwhile or meaningful.
+
+00:09:27.321 --> 00:09:31.115
+Suppose we give an A.I. the goal 
+to make humans smile.
+
+00:09:31.115 --> 00:09:34.097
+When the A.I. is weak, it performs useful
+or amusing actions
+
+00:09:34.097 --> 00:09:36.614
+that cause its user to smile.
+
+00:09:36.614 --> 00:09:39.031
+When the A.I. becomes superintelligent,
+
+00:09:39.031 --> 00:09:42.554
+it realizes that there is a more
+effective way to achieve this goal:
+
+00:09:42.554 --> 00:09:44.476
+take control of the world
+
+00:09:44.476 --> 00:09:47.638
+and stick electrodes into the facial
+muscles of humans
+
+00:09:47.638 --> 00:09:50.579
+to cause constant, beaming grins.
+
+00:09:50.579 --> 00:09:51.614
+Another example,
+
+00:09:51.614 --> 00:09:54.997
+suppose we give A.I. the goal to solve
+a difficult mathematical problem.
+
+00:09:54.997 --> 00:09:56.934
+When the A.I. becomes superintelligent,
+
+00:09:56.934 --> 00:10:01.105
+it realizes that the most effective way 
+to get the solution to this problem
+
+00:10:01.105 --> 00:10:04.035
+is by transforming the planet
+into a giant computer,
+
+00:10:04.035 --> 00:10:06.281
+so as to increase its thinking capacity.
+
+00:10:06.281 --> 00:10:09.045
+And notice that this gives the A.I.s
+an instrumental reason
+
+00:10:09.045 --> 00:10:11.561
+to do things to us that we
+might not approve of.
+
+00:10:11.561 --> 00:10:13.496
+Human beings in this model are threats,
+
+00:10:13.496 --> 00:10:16.417
+we could prevent the mathematical
+problem from being solved.
+
+00:10:17.207 --> 00:10:20.701
+Of course, perceivably things won't 
+go wrong in these particular ways;
+
+00:10:20.701 --> 00:10:22.454
+these are cartoon examples.
+
+00:10:22.454 --> 00:10:24.393
+But the general point here is important:
+
+00:10:24.393 --> 00:10:27.266
+if you create a really powerful
+optimization process
+
+00:10:27.266 --> 00:10:29.500
+to maximize for objective x,
+
+00:10:29.500 --> 00:10:31.776
+you better make sure 
+that your definition of x
+
+00:10:31.776 --> 00:10:34.245
+incorporates everything you care about.
+
+00:10:34.835 --> 00:10:39.219
+This is a lesson that's also taught
+in many a myth.
+
+00:10:39.219 --> 00:10:44.517
+King Midas wishes that everything
+he touches be turned into gold.
+
+00:10:44.517 --> 00:10:47.378
+He touches his daughter, 
+she turns into gold.
+
+00:10:47.378 --> 00:10:49.931
+He touches his food, it turns into gold.
+
+00:10:49.931 --> 00:10:52.520
+This could become practically relevant,
+
+00:10:52.520 --> 00:10:54.590
+not just as a metaphor for greed,
+
+00:10:54.590 --> 00:10:56.485
+but as an illustration of what happens
+
+00:10:56.485 --> 00:10:59.322
+if you create a powerful
+optimization process
+
+00:10:59.322 --> 00:11:04.111
+and give it misconceived 
+or poorly specified goals.
+
+00:11:04.111 --> 00:11:09.300
+Now you might say, if a computer starts
+sticking electrodes into people's faces,
+
+00:11:09.300 --> 00:11:11.565
+we'd just shut it off.
+
+00:11:12.555 --> 00:11:17.895
+A, this is not necessarily so easy to do
+if we've grown dependent on the system --
+
+00:11:17.895 --> 00:11:20.627
+like, where is the off switch 
+to the Internet?
+
+00:11:20.627 --> 00:11:25.747
+B, why haven't the chimpanzees
+flicked the off switch to humanity,
+
+00:11:25.747 --> 00:11:27.298
+or the Neanderthals?
+
+00:11:27.298 --> 00:11:29.964
+They certainly had reasons.
+
+00:11:29.964 --> 00:11:32.759
+We have an off switch, 
+for example, right here.
+
+00:11:32.759 --> 00:11:34.313
+(Choking)
+
+00:11:34.313 --> 00:11:37.238
+The reason is that we are 
+an intelligent adversary;
+
+00:11:37.238 --> 00:11:39.966
+we can anticipate threats 
+and plan around them.
+
+00:11:39.966 --> 00:11:42.470
+But so could a superintelligent agent,
+
+00:11:42.470 --> 00:11:45.724
+and it would be much better 
+at that than we are.
+
+00:11:45.724 --> 00:11:52.911
+The point is, we should not be confident
+that we have this under control here.
+
+00:11:52.911 --> 00:11:56.358
+And we could try to make our job
+a little bit easier by, say,
+
+00:11:56.358 --> 00:11:57.948
+putting the A.I. in a box,
+
+00:11:57.948 --> 00:11:59.744
+like a secure software environment,
+
+00:11:59.744 --> 00:12:02.766
+a virtual reality simulation
+from which it cannot escape.
+
+00:12:02.766 --> 00:12:06.912
+But how confident can we be that
+the A.I. couldn't find a bug.
+
+00:12:06.912 --> 00:12:10.081
+Given that merely human hackers
+find bugs all the time,
+
+00:12:10.081 --> 00:12:13.117
+I'd say, probably not very confident.
+
+00:12:14.237 --> 00:12:18.785
+So we disconnect the ethernet cable
+to create an air gap,
+
+00:12:18.785 --> 00:12:21.453
+but again, like merely human hackers
+
+00:12:21.453 --> 00:12:24.834
+routinely transgress air gaps
+using social engineering.
+
+00:12:24.834 --> 00:12:26.093
+Right now, as I speak,
+
+00:12:26.093 --> 00:12:28.482
+I'm sure there is some employee
+out there somewhere
+
+00:12:28.482 --> 00:12:31.828
+who has been talked into handing out 
+her account details
+
+00:12:31.828 --> 00:12:34.574
+by somebody claiming to be
+from the I.T. department.
+
+00:12:34.574 --> 00:12:36.701
+More creative scenarios are also possible,
+
+00:12:36.701 --> 00:12:38.016
+like if you're the A.I.,
+
+00:12:38.016 --> 00:12:41.548
+you can imagine wiggling electrodes
+around in your internal circuitry
+
+00:12:41.548 --> 00:12:45.010
+to create radio waves that you
+can use to communicate.
+
+00:12:45.010 --> 00:12:47.434
+Or maybe you could pretend to malfunction,
+
+00:12:47.434 --> 00:12:50.931
+and then when the programmers open
+you up to see what went wrong with you,
+
+00:12:50.931 --> 00:12:52.867
+they look at the source code -- Bam! --
+
+00:12:52.867 --> 00:12:55.314
+the manipulation can take place.
+
+00:12:55.314 --> 00:12:58.744
+Or it could output the blueprint
+to a really nifty technology,
+
+00:12:58.744 --> 00:13:00.142
+and when we implement it,
+
+00:13:00.142 --> 00:13:04.539
+it has some surreptitious side effect
+that the A.I. had planned.
+
+00:13:04.539 --> 00:13:08.002
+The point here is that we should 
+not be confident in our ability
+
+00:13:08.002 --> 00:13:11.810
+to keep a superintelligent genie
+locked up in its bottle forever.
+
+00:13:11.810 --> 00:13:14.064
+Sooner or later, it will out.
+
+00:13:15.034 --> 00:13:18.137
+I believe that the answer here
+is to figure out
+
+00:13:18.137 --> 00:13:23.161
+how to create superintelligent A.I.
+such that even if -- when -- it escapes,
+
+00:13:23.161 --> 00:13:26.438
+it is still safe because it is
+fundamentally on our side
+
+00:13:26.438 --> 00:13:28.337
+because it shares our values.
+
+00:13:28.337 --> 00:13:31.547
+I see no way around 
+this difficult problem.
+
+00:13:32.557 --> 00:13:36.391
+Now, I'm actually fairly optimistic
+that this problem can be solved.
+
+00:13:36.391 --> 00:13:40.294
+We wouldn't have to write down 
+a long list of everything we care about,
+
+00:13:40.294 --> 00:13:43.937
+or worse yet, spell it out 
+in some computer language
+
+00:13:43.937 --> 00:13:45.391
+like C++ or Python,
+
+00:13:45.391 --> 00:13:48.158
+that would be a task beyond hopeless.
+
+00:13:48.158 --> 00:13:52.455
+Instead, we would create an A.I.
+that uses its intelligence
+
+00:13:52.455 --> 00:13:55.226
+to learn what we value,
+
+00:13:55.226 --> 00:14:00.506
+and its motivation system is constructed
+in such a way that it is motivated
+
+00:14:00.506 --> 00:14:05.738
+to pursue our values or to perform actions
+that it predicts we would approve of.
+
+00:14:05.738 --> 00:14:09.152
+We would thus leverage 
+its intelligence as much as possible
+
+00:14:09.152 --> 00:14:11.897
+to solve the problem of value-loading.
+
+00:14:12.727 --> 00:14:14.239
+This can happen,
+
+00:14:14.239 --> 00:14:17.835
+and the outcome could be 
+very good for humanity.
+
+00:14:17.835 --> 00:14:21.792
+But it doesn't happen automatically.
+
+00:14:21.792 --> 00:14:24.790
+The initial conditions 
+for the intelligence explosion
+
+00:14:24.790 --> 00:14:27.653
+might need to be set up 
+in just the right way
+
+00:14:27.653 --> 00:14:31.183
+if we are to have a controlled detonation.
+
+00:14:31.183 --> 00:14:33.801
+The values that the A.I. has
+need to match ours,
+
+00:14:33.801 --> 00:14:35.561
+not just in the familiar context,
+
+00:14:35.561 --> 00:14:37.999
+like where we can easily check
+how the A.I. behaves,
+
+00:14:37.999 --> 00:14:41.233
+but also in all novel contexts
+that the A.I. might encounter
+
+00:14:41.233 --> 00:14:42.790
+in the indefinite future.
+
+00:14:42.790 --> 00:14:47.527
+And there are also some esoteric issues
+that would need to be solved, sorted out:
+
+00:14:47.527 --> 00:14:49.616
+the exact details of its decision theory,
+
+00:14:49.616 --> 00:14:52.480
+how to deal with logical
+uncertainty and so forth.
+
+00:14:53.330 --> 00:14:56.432
+So the technical problems that need
+to be solved to make this work
+
+00:14:56.432 --> 00:14:57.545
+look quite difficult --
+
+00:14:57.545 --> 00:15:00.925
+not as difficult as making 
+a superintelligent A.I.,
+
+00:15:00.925 --> 00:15:03.793
+but fairly difficult.
+
+00:15:03.793 --> 00:15:05.488
+Here is the worry:
+
+00:15:05.488 --> 00:15:10.172
+Making superintelligent A.I.
+is a really hard challenge.
+
+00:15:10.172 --> 00:15:12.720
+Making superintelligent A.I. that is safe
+
+00:15:12.720 --> 00:15:15.136
+involves some additional 
+challenge on top of that.
+
+00:15:16.216 --> 00:15:19.703
+The risk is that if somebody figures out
+how to crack the first challenge
+
+00:15:19.703 --> 00:15:22.704
+without also having cracked 
+the additional challenge
+
+00:15:22.704 --> 00:15:24.605
+of ensuring perfect safety.
+
+00:15:25.375 --> 00:15:28.706
+So I think that we should
+work out a solution
+
+00:15:28.706 --> 00:15:31.528
+to the control problem in advance,
+
+00:15:31.528 --> 00:15:34.188
+so that we have it available 
+by the time it is needed.
+
+00:15:34.768 --> 00:15:38.275
+Now it might be that we cannot solve
+the entire control problem in advance
+
+00:15:38.275 --> 00:15:41.299
+because maybe some elements
+can only be put in place
+
+00:15:41.299 --> 00:15:45.296
+once you know the details of the 
+architecture where it will be implemented.
+
+00:15:45.296 --> 00:15:48.676
+But the more of the control problem
+that we solve in advance,
+
+00:15:48.676 --> 00:15:52.766
+the better the odds that the transition
+to the machine intelligence era
+
+00:15:52.766 --> 00:15:54.306
+will go well.
+
+00:15:54.306 --> 00:15:58.950
+This to me looks like a thing
+that is well worth doing
+
+00:15:58.950 --> 00:16:02.282
+and I can imagine that if 
+things turn out okay,
+
+00:16:02.282 --> 00:16:06.940
+that people a million years from now
+look back at this century
+
+00:16:06.940 --> 00:16:10.942
+and it might well be that they say that
+the one thing we did that really mattered
+
+00:16:10.942 --> 00:16:12.509
+was to get this thing right.
+
+00:16:12.509 --> 00:16:14.198
+Thank you.
+
+00:16:14.198 --> 00:16:17.011
+(Applause)
+

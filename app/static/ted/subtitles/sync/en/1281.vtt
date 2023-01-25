@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:13.150 --> 00:00:16.150
+Let me introduce to you Rezero.
+
+00:00:16.150 --> 00:00:18.150
+This little fellow was developed
+
+00:00:18.150 --> 00:00:20.150
+by a group of 10 undergraduate students
+
+00:00:20.150 --> 00:00:22.150
+at the Autonomous Systems Laboratory
+
+00:00:22.150 --> 00:00:24.150
+at ETH-Zurich.
+
+00:00:24.150 --> 00:00:26.150
+Our robot belongs to a family of robots
+
+00:00:26.150 --> 00:00:28.150
+called Ballbots.
+
+00:00:28.150 --> 00:00:30.150
+Instead of wheels, a Ballbot is balancing
+
+00:00:30.150 --> 00:00:32.150
+and moving on one single ball.
+
+00:00:32.150 --> 00:00:34.150
+The main characteristics of such a system is
+
+00:00:34.150 --> 00:00:37.150
+that there's one sole contact point to the ground.
+
+00:00:37.150 --> 00:00:39.150
+This means that the robot
+
+00:00:39.150 --> 00:00:41.150
+is inherently unstable.
+
+00:00:41.150 --> 00:00:43.150
+It's like when I am trying to stand
+
+00:00:43.150 --> 00:00:44.150
+on one foot.
+
+00:00:44.150 --> 00:00:46.150
+You might ask yourself, what's the usefulness
+
+00:00:46.150 --> 00:00:48.150
+of a robot that's unstable?
+
+00:00:48.150 --> 00:00:50.150
+Now we'll explain that in a second.
+
+00:00:50.150 --> 00:00:52.150
+Let me first explain how Rezero
+
+00:00:52.150 --> 00:00:54.150
+actually keeps his balance.
+
+00:00:54.150 --> 00:00:56.150
+Rezero keeps his balance by constantly
+
+00:00:56.150 --> 00:00:59.150
+measuring his pitch angle with a sensor.
+
+00:00:59.150 --> 00:01:02.150
+He then counteracts and avoids toppling over
+
+00:01:02.150 --> 00:01:04.150
+by turning the motors appropriately.
+
+00:01:04.150 --> 00:01:06.150
+This happens 160 times per second,
+
+00:01:06.150 --> 00:01:08.150
+and if anything fails in this process,
+
+00:01:08.150 --> 00:01:11.150
+Rezero would immediately fall to the ground.
+
+00:01:11.150 --> 00:01:13.150
+Now to move and to balance,
+
+00:01:13.150 --> 00:01:15.150
+Rezero needs to turn the ball.
+
+00:01:15.150 --> 00:01:17.150
+The ball is driven by three special wheels
+
+00:01:17.150 --> 00:01:20.150
+that allow Rezero to move into any direction
+
+00:01:20.150 --> 00:01:22.150
+and also move around his own axis
+
+00:01:22.150 --> 00:01:26.150
+at the same time.
+
+00:01:26.150 --> 00:01:28.150
+Due to his instability, Rezero is always
+
+00:01:28.150 --> 00:01:30.150
+in motion. Now here's the trick.
+
+00:01:30.150 --> 00:01:33.150
+It's indeed exactly this instability that allows
+
+00:01:33.150 --> 00:01:35.150
+a robot to move very [dynamically].
+
+00:01:35.150 --> 00:01:37.150
+Let's play a little.
+
+00:01:37.150 --> 00:01:39.150
+You may have wondered what happens
+
+00:01:39.150 --> 00:01:42.150
+if I give the robot a little push.
+
+00:01:44.150 --> 00:01:46.150
+In this mode, he's trying to maintain
+
+00:01:46.150 --> 00:01:49.150
+his position.
+
+00:01:49.150 --> 00:01:52.150
+For the next demo, I'd like you to introduce
+
+00:01:52.150 --> 00:01:55.150
+to my colleagues Michael, on the computer,
+
+00:01:55.150 --> 00:01:58.150
+and Thomas who's helping me onstage.
+
+00:01:59.150 --> 00:02:01.150
+In the next mode, Rezero is passive,
+
+00:02:01.150 --> 00:02:04.150
+and we can move him around.
+
+00:02:05.150 --> 00:02:07.150
+With almost no force I can control
+
+00:02:07.150 --> 00:02:10.150
+his position and his velocity.
+
+00:02:13.150 --> 00:02:16.150
+I can also make him spin.
+
+00:02:27.150 --> 00:02:29.150
+In the next mode, we can get Rezero
+
+00:02:29.150 --> 00:02:32.150
+to follow a person.
+
+00:02:32.150 --> 00:02:35.150
+He's now keeping a constant distance to Thomas.
+
+00:02:39.150 --> 00:02:41.150
+This works with a laser sensor
+
+00:02:41.150 --> 00:02:43.150
+that's mounted on top of Rezero.
+
+00:02:47.150 --> 00:02:49.150
+With the same method, we can also
+
+00:02:49.150 --> 00:02:52.150
+get him to circle a person.
+
+00:02:54.150 --> 00:02:58.150
+We call this the orbiting mode.
+
+00:03:07.150 --> 00:03:09.150
+All right, thank you, Thomas.
+
+00:03:09.150 --> 00:03:13.150
+(Applause)
+
+00:03:13.150 --> 00:03:16.150
+Now, what's the use of this technology?
+
+00:03:19.150 --> 00:03:21.150
+For now, it's an experiment, but let me
+
+00:03:21.150 --> 00:03:24.150
+show you some possible future applications.
+
+00:03:25.150 --> 00:03:27.150
+Rezero could be used in exhibitions or parks.
+
+00:03:27.150 --> 00:03:29.150
+With a screen it could inform people or show
+
+00:03:29.150 --> 00:03:32.150
+them around in a fun and entertaining way.
+
+00:03:32.150 --> 00:03:34.150
+In a hospital, this device could be used to
+
+00:03:34.150 --> 00:03:36.150
+carry around medical equipment.
+
+00:03:36.150 --> 00:03:38.150
+Due to the Ballbot system, it has a very small
+
+00:03:38.150 --> 00:03:41.150
+footprint and it's also easy to move around.
+
+00:03:41.150 --> 00:03:43.150
+And of course, who wouldn't like
+
+00:03:43.150 --> 00:03:46.150
+to take a ride on one of these.
+
+00:03:46.150 --> 00:03:48.150
+And these are more practical applications.
+
+00:03:48.150 --> 00:03:50.150
+But there's also a certain beauty
+
+00:03:50.150 --> 00:03:52.150
+within this technology.
+
+00:03:52.150 --> 00:04:01.150
+(Music)
+
+00:04:55.150 --> 00:04:56.150
+(Applause)
+
+00:04:56.150 --> 00:04:58.150
+Thank you.
+
+00:04:58.150 --> 00:05:02.150
+(Applause)
+
+00:05:02.150 --> 00:05:04.150
+Thank you.

@@ -1,0 +1,904 @@
+WEBVTT
+
+00:00:11.544 --> 00:00:14.067
+So what does it mean
+for a machine to be athletic?
+
+00:00:15.059 --> 00:00:17.884
+We will demonstrate the concept
+of machine athleticism
+
+00:00:17.908 --> 00:00:19.604
+and the research to achieve it
+
+00:00:19.628 --> 00:00:22.486
+with the help of these flying machines
+called quadrocopters,
+
+00:00:22.510 --> 00:00:23.557
+or quads, for short.
+
+00:00:26.291 --> 00:00:28.184
+Quads have been around for a long time.
+
+00:00:28.501 --> 00:00:31.778
+They're so popular these days
+because they're mechanically simple.
+
+00:00:32.255 --> 00:00:34.644
+By controlling
+the speeds of these four propellers,
+
+00:00:34.668 --> 00:00:37.413
+these machines can roll, pitch, yaw,
+
+00:00:37.437 --> 00:00:39.608
+and accelerate
+along their common orientation.
+
+00:00:40.179 --> 00:00:43.377
+On board are also a battery, a computer,
+
+00:00:43.401 --> 00:00:45.354
+various sensors and wireless radios.
+
+00:00:47.298 --> 00:00:50.607
+Quads are extremely agile,
+but this agility comes at a cost.
+
+00:00:51.762 --> 00:00:53.850
+They are inherently unstable,
+
+00:00:53.874 --> 00:00:56.445
+and they need some form
+of automatic feedback control
+
+00:00:56.469 --> 00:00:57.842
+in order to be able to fly.
+
+00:01:04.259 --> 00:01:06.512
+So, how did it just do that?
+
+00:01:07.497 --> 00:01:09.291
+Cameras on the ceiling and a laptop
+
+00:01:09.315 --> 00:01:11.745
+serve as an indoor
+global positioning system.
+
+00:01:12.301 --> 00:01:14.340
+It's used to locate objects in the space
+
+00:01:14.364 --> 00:01:16.452
+that have these reflective
+markers on them.
+
+00:01:16.476 --> 00:01:18.514
+This data is then sent to another laptop
+
+00:01:18.538 --> 00:01:20.896
+that is running estimation
+and control algorithms,
+
+00:01:20.920 --> 00:01:22.874
+which in turn sends commands to the quad,
+
+00:01:22.898 --> 00:01:25.531
+which is also running estimation
+and control algorithms.
+
+00:01:29.864 --> 00:01:32.106
+The bulk of our research is algorithms.
+
+00:01:32.130 --> 00:01:34.706
+It's the magic that brings
+these machines to life.
+
+00:01:36.291 --> 00:01:40.324
+So how does one design the algorithms
+that create a machine athlete?
+
+00:01:40.792 --> 00:01:43.379
+We use something broadly
+called model-based design.
+
+00:01:43.839 --> 00:01:45.205
+We first capture the physics
+
+00:01:45.229 --> 00:01:48.212
+with a mathematical model
+of how the machines behave.
+
+00:01:48.636 --> 00:01:52.586
+We then use a branch of mathematics
+called control theory
+
+00:01:52.610 --> 00:01:54.267
+to analyze these models
+
+00:01:54.291 --> 00:01:57.061
+and also to synthesize
+algorithms for controlling them.
+
+00:01:57.820 --> 00:02:00.844
+For example, that's how we can
+make the quad hover.
+
+00:02:00.868 --> 00:02:04.158
+We first captured the dynamics
+with a set of differential equations.
+
+00:02:04.182 --> 00:02:07.634
+We then manipulate these equations
+with the help of control theory
+
+00:02:07.658 --> 00:02:10.595
+to create algorithms
+that stabilize the quad.
+
+00:02:11.130 --> 00:02:13.423
+Let me demonstrate
+the strength of this approach.
+
+00:02:17.198 --> 00:02:19.831
+Suppose that we want
+this quad to not only hover
+
+00:02:19.855 --> 00:02:21.514
+but to also balance this pole.
+
+00:02:22.520 --> 00:02:24.294
+With a little bit of practice,
+
+00:02:24.318 --> 00:02:27.001
+it's pretty straightforward
+for a human being to do this,
+
+00:02:27.025 --> 00:02:30.216
+although we do have the advantage
+of having two feet on the ground
+
+00:02:30.240 --> 00:02:32.299
+and the use of our very versatile hands.
+
+00:02:32.804 --> 00:02:35.542
+It becomes a little bit more difficult
+
+00:02:35.566 --> 00:02:37.545
+when I only have one foot on the ground
+
+00:02:37.569 --> 00:02:39.171
+and when I don't use my hands.
+
+00:02:40.733 --> 00:02:43.295
+Notice how this pole has
+a reflective marker on top,
+
+00:02:43.319 --> 00:02:45.980
+which means that it can
+be located in the space.
+
+00:02:52.276 --> 00:02:53.343
+(Audience) Oh!
+
+00:02:53.367 --> 00:02:54.626
+(Applause)
+
+00:02:57.695 --> 00:02:59.363
+(Applause ends)
+
+00:02:59.387 --> 00:03:02.028
+You can notice that this quad
+is making fine adjustments
+
+00:03:02.052 --> 00:03:03.426
+to keep the pole balanced.
+
+00:03:04.417 --> 00:03:06.489
+How did we design
+the algorithms to do this?
+
+00:03:07.027 --> 00:03:09.108
+We added the mathematical
+model of the pole
+
+00:03:09.132 --> 00:03:10.579
+to that of the quad.
+
+00:03:10.603 --> 00:03:13.581
+Once we have a model
+of the combined quad-pole system,
+
+00:03:13.605 --> 00:03:16.924
+we can use control theory to create
+algorithms for controlling it.
+
+00:03:18.538 --> 00:03:20.102
+Here, you see that it's stable,
+
+00:03:20.126 --> 00:03:22.795
+and even if I give it little nudges,
+
+00:03:22.819 --> 00:03:23.985
+it goes back --
+
+00:03:25.589 --> 00:03:27.358
+to the nice, balanced position.
+
+00:03:28.087 --> 00:03:29.477
+We can also augment the model
+
+00:03:29.501 --> 00:03:31.872
+to include where we want
+the quad to be in space.
+
+00:03:32.428 --> 00:03:35.371
+Using this pointer,
+made out of reflective markers,
+
+00:03:35.395 --> 00:03:37.824
+I can point to where I want
+the quad to be in space
+
+00:03:37.848 --> 00:03:39.445
+a fixed distance away from me.
+
+00:03:47.785 --> 00:03:49.665
+(Laughter)
+
+00:03:55.763 --> 00:03:58.889
+The key to these acrobatic
+maneuvers is algorithms,
+
+00:03:58.913 --> 00:04:01.206
+designed with the help
+of mathematical models
+
+00:04:01.230 --> 00:04:02.415
+and control theory.
+
+00:04:03.246 --> 00:04:05.231
+Let's tell the quad to come back here
+
+00:04:05.255 --> 00:04:06.919
+and let the pole drop,
+
+00:04:06.943 --> 00:04:09.074
+and I will next demonstrate the importance
+
+00:04:09.098 --> 00:04:11.087
+of understanding physical models
+
+00:04:11.111 --> 00:04:13.156
+and the workings of the physical world.
+
+00:04:25.462 --> 00:04:29.290
+Notice how the quad lost altitude
+when I put this glass of water on it.
+
+00:04:29.314 --> 00:04:30.717
+Unlike the balancing pole,
+
+00:04:30.741 --> 00:04:33.756
+I did not include the mathematical
+model of the glass
+
+00:04:33.780 --> 00:04:35.087
+in the system.
+
+00:04:35.111 --> 00:04:38.124
+In fact, the system doesn't even know
+that the glass is there.
+
+00:04:38.148 --> 00:04:40.886
+Like before, I could use
+the pointer to tell the quad
+
+00:04:40.910 --> 00:04:42.481
+where I want it to be in space.
+
+00:04:45.684 --> 00:04:47.483
+(Applause)
+
+00:04:51.531 --> 00:04:53.071
+(Applause ends)
+
+00:04:53.515 --> 00:04:55.254
+Okay, you should be asking yourself,
+
+00:04:55.278 --> 00:04:57.340
+why doesn't the water
+fall out of the glass?
+
+00:04:57.888 --> 00:04:58.918
+Two facts.
+
+00:04:58.942 --> 00:05:02.575
+The first is that gravity acts
+on all objects in the same way.
+
+00:05:03.051 --> 00:05:04.830
+The second is that the propellers
+
+00:05:04.854 --> 00:05:07.927
+are all pointing in the same direction
+of the glass, pointing up.
+
+00:05:08.642 --> 00:05:10.289
+You put these two things together,
+
+00:05:10.313 --> 00:05:13.868
+the net result is that all side forces
+on the glass are small
+
+00:05:13.892 --> 00:05:16.169
+and are mainly dominated
+by aerodynamic effects,
+
+00:05:16.193 --> 00:05:18.154
+which at these speeds are negligible.
+
+00:05:23.336 --> 00:05:25.670
+And that's why you don't need
+to model the glass.
+
+00:05:25.694 --> 00:05:28.435
+It naturally doesn't spill,
+no matter what the quad does.
+
+00:05:32.500 --> 00:05:35.063
+(Audience) Oh!
+
+00:05:38.340 --> 00:05:40.198
+(Applause)
+
+00:05:43.159 --> 00:05:44.414
+(Applause ends)
+
+00:05:45.940 --> 00:05:47.054
+The lesson here
+
+00:05:47.078 --> 00:05:51.091
+is that some high-performance tasks
+are easier than others,
+
+00:05:51.115 --> 00:05:53.452
+and that understanding
+the physics of the problem
+
+00:05:53.476 --> 00:05:56.170
+tells you which ones are easy
+and which ones are hard.
+
+00:05:56.194 --> 00:05:58.704
+In this instance, carrying
+a glass of water is easy.
+
+00:05:58.728 --> 00:06:00.358
+Balancing a pole is hard.
+
+00:06:02.171 --> 00:06:06.442
+We've all heard stories of athletes
+performing feats while physically injured.
+
+00:06:06.466 --> 00:06:09.651
+Can a machine also perform
+with extreme physical damage?
+
+00:06:10.636 --> 00:06:12.121
+Conventional wisdom says
+
+00:06:12.145 --> 00:06:16.028
+that you need at least four fixed motor
+propeller pairs in order to fly,
+
+00:06:16.052 --> 00:06:18.576
+because there are four degrees
+of freedom to control:
+
+00:06:18.600 --> 00:06:20.565
+roll, pitch, yaw and acceleration.
+
+00:06:21.192 --> 00:06:24.413
+Hexacopters and octocopters,
+with six and eight propellers,
+
+00:06:24.437 --> 00:06:25.896
+can provide redundancy,
+
+00:06:25.920 --> 00:06:27.885
+but quadrocopters are much more popular
+
+00:06:27.909 --> 00:06:31.595
+because they have the minimum number
+of fixed motor propeller pairs: four.
+
+00:06:32.168 --> 00:06:33.184
+Or do they?
+
+00:06:40.827 --> 00:06:41.827
+(Audience) Oh!
+
+00:06:42.407 --> 00:06:43.407
+(Laughter)
+
+00:06:49.334 --> 00:06:52.052
+If we analyze the mathematical
+model of this machine
+
+00:06:52.076 --> 00:06:54.228
+with only two working propellers,
+
+00:06:54.252 --> 00:06:56.992
+we discover that there's
+an unconventional way to fly it.
+
+00:07:07.980 --> 00:07:09.662
+We relinquish control of yaw,
+
+00:07:09.686 --> 00:07:12.732
+but roll, pitch and acceleration
+can still be controlled
+
+00:07:12.756 --> 00:07:16.102
+with algorithms that exploit
+this new configuration.
+
+00:07:21.668 --> 00:07:25.957
+Mathematical models tell us
+exactly when and why this is possible.
+
+00:07:25.981 --> 00:07:28.759
+In this instance, this knowledge
+allows us to design
+
+00:07:28.783 --> 00:07:31.256
+novel machine architectures
+
+00:07:31.280 --> 00:07:34.948
+or to design clever algorithms
+that gracefully handle damage,
+
+00:07:34.972 --> 00:07:36.672
+just like human athletes do,
+
+00:07:36.696 --> 00:07:38.960
+instead of building
+machines with redundancy.
+
+00:07:40.688 --> 00:07:42.345
+We can't help but hold our breath
+
+00:07:42.369 --> 00:07:45.044
+when we watch a diver
+somersaulting into the water,
+
+00:07:45.068 --> 00:07:47.021
+or when a vaulter is twisting in the air,
+
+00:07:47.045 --> 00:07:48.552
+the ground fast approaching.
+
+00:07:48.576 --> 00:07:51.120
+Will the diver be able
+to pull off a rip entry?
+
+00:07:51.144 --> 00:07:52.951
+Will the vaulter stick the landing?
+
+00:07:53.292 --> 00:07:56.472
+Suppose we want this quad here
+to perform a triple flip
+
+00:07:56.496 --> 00:07:59.322
+and finish off at the exact same
+spot that it started.
+
+00:07:59.736 --> 00:08:01.855
+This maneuver is going
+to happen so quickly
+
+00:08:01.879 --> 00:08:05.724
+that we can't use position feedback
+to correct the motion during execution.
+
+00:08:05.748 --> 00:08:07.345
+There simply isn't enough time.
+
+00:08:07.782 --> 00:08:11.452
+Instead, what the quad can do
+is perform the maneuver blindly,
+
+00:08:11.476 --> 00:08:13.684
+observe how it finishes the maneuver,
+
+00:08:13.708 --> 00:08:16.185
+and then use that information
+to modify its behavior
+
+00:08:16.209 --> 00:08:17.847
+so that the next flip is better.
+
+00:08:18.421 --> 00:08:20.209
+Similar to the diver and the vaulter,
+
+00:08:20.233 --> 00:08:22.128
+it is only through repeated practice
+
+00:08:22.152 --> 00:08:24.295
+that the maneuver can
+be learned and executed
+
+00:08:24.319 --> 00:08:25.561
+to the highest standard.
+
+00:08:33.100 --> 00:08:34.369
+(Laughter)
+
+00:08:34.393 --> 00:08:38.178
+(Applause)
+
+00:08:39.164 --> 00:08:42.612
+Striking a moving ball
+is a necessary skill in many sports.
+
+00:08:43.127 --> 00:08:44.619
+How do we make a machine do
+
+00:08:44.643 --> 00:08:47.231
+what an athlete does
+seemingly without effort?
+
+00:08:57.547 --> 00:08:59.054
+(Laughter)
+
+00:09:04.143 --> 00:09:06.000
+(Applause)
+
+00:09:08.500 --> 00:09:09.798
+(Applause ends)
+
+00:09:10.542 --> 00:09:13.168
+This quad has a racket
+strapped onto its head
+
+00:09:13.192 --> 00:09:16.655
+with a sweet spot roughly the size
+of an apple, so not too large.
+
+00:09:17.017 --> 00:09:19.822
+The following calculations
+are made every 20 milliseconds,
+
+00:09:19.846 --> 00:09:21.163
+or 50 times per second.
+
+00:09:21.602 --> 00:09:23.877
+We first figure out where
+the ball is going.
+
+00:09:24.414 --> 00:09:27.035
+We then next calculate
+how the quad should hit the ball
+
+00:09:27.059 --> 00:09:29.544
+so that it flies
+to where it was thrown from.
+
+00:09:29.950 --> 00:09:34.382
+Third, a trajectory is planned
+that carries the quad
+
+00:09:34.406 --> 00:09:37.406
+from its current state
+to the impact point with the ball.
+
+00:09:37.430 --> 00:09:41.009
+Fourth, we only execute 20 milliseconds'
+worth of that strategy.
+
+00:09:41.366 --> 00:09:44.159
+Twenty milliseconds later,
+the whole process is repeated
+
+00:09:44.183 --> 00:09:45.950
+until the quad strikes the ball.
+
+00:09:55.290 --> 00:09:57.694
+(Applause)
+
+00:09:58.131 --> 00:10:01.554
+Machines can not only perform
+dynamic maneuvers on their own,
+
+00:10:01.578 --> 00:10:03.417
+they can do it collectively.
+
+00:10:03.441 --> 00:10:07.028
+These three quads are cooperatively
+carrying a sky net.
+
+00:10:15.589 --> 00:10:17.268
+(Applause)
+
+00:10:20.372 --> 00:10:21.961
+(Applause ends)
+
+00:10:21.985 --> 00:10:26.326
+They perform an extremely dynamic
+and collective maneuver
+
+00:10:26.350 --> 00:10:28.018
+to launch the ball back to me.
+
+00:10:28.042 --> 00:10:31.188
+Notice that, at full extension,
+these quads are vertical.
+
+00:10:36.486 --> 00:10:38.234
+(Applause)
+
+00:10:38.258 --> 00:10:40.401
+In fact, when fully extended,
+
+00:10:40.425 --> 00:10:43.688
+this is roughly five times greater
+than what a bungee jumper feels
+
+00:10:43.712 --> 00:10:45.682
+at the end of their launch.
+
+00:10:51.203 --> 00:10:53.662
+The algorithms to do this are very similar
+
+00:10:53.686 --> 00:10:56.601
+to what the single quad used
+to hit the ball back to me.
+
+00:10:57.070 --> 00:10:59.910
+Mathematical models are used
+to continuously re-plan
+
+00:10:59.934 --> 00:11:02.765
+a cooperative strategy
+50 times per second.
+
+00:11:04.506 --> 00:11:08.765
+Everything we have seen so far has been
+about the machines and their capabilities.
+
+00:11:08.789 --> 00:11:11.781
+What happens when we couple
+this machine athleticism
+
+00:11:11.805 --> 00:11:13.288
+with that of a human being?
+
+00:11:13.765 --> 00:11:17.361
+What I have in front of me
+is a commercial gesture sensor
+
+00:11:17.385 --> 00:11:18.670
+mainly used in gaming.
+
+00:11:18.694 --> 00:11:20.742
+It can recognize
+what my various body parts
+
+00:11:20.766 --> 00:11:22.083
+are doing in real time.
+
+00:11:22.710 --> 00:11:24.789
+Similar to the pointer
+that I used earlier,
+
+00:11:24.813 --> 00:11:27.035
+we can use this as inputs to the system.
+
+00:11:27.454 --> 00:11:29.826
+We now have a natural way of interacting
+
+00:11:29.850 --> 00:11:33.111
+with the raw athleticism
+of these quads with my gestures.
+
+00:12:10.715 --> 00:12:14.572
+(Applause)
+
+00:12:24.354 --> 00:12:26.370
+Interaction doesn't have to be virtual.
+
+00:12:26.394 --> 00:12:27.584
+It can be physical.
+
+00:12:27.989 --> 00:12:29.504
+Take this quad, for example.
+
+00:12:29.893 --> 00:12:32.116
+It's trying to stay
+at a fixed point in space.
+
+00:12:32.933 --> 00:12:36.622
+If I try to move it
+out of the way, it fights me,
+
+00:12:36.646 --> 00:12:38.520
+and moves back to where it wants to be.
+
+00:12:40.254 --> 00:12:42.341
+We can change this behavior, however.
+
+00:12:43.373 --> 00:12:45.048
+We can use mathematical models
+
+00:12:45.072 --> 00:12:47.736
+to estimate the force
+that I'm applying to the quad.
+
+00:12:48.205 --> 00:12:51.419
+Once we know this force,
+we can also change the laws of physics,
+
+00:12:51.443 --> 00:12:53.530
+as far as the quad
+is concerned, of course.
+
+00:12:55.942 --> 00:12:59.251
+Here, the quad is behaving
+as if it were in a viscous fluid.
+
+00:13:02.570 --> 00:13:06.289
+We now have an intimate way
+of interacting with a machine.
+
+00:13:06.593 --> 00:13:09.075
+I will use this new capability to position
+
+00:13:09.099 --> 00:13:11.652
+this camera-carrying quad
+to the appropriate location
+
+00:13:11.676 --> 00:13:14.104
+for filming the remainder
+of this demonstration.
+
+00:13:24.583 --> 00:13:26.966
+So we can physically interact
+with these quads
+
+00:13:26.990 --> 00:13:28.950
+and we can change the laws of physics.
+
+00:13:29.393 --> 00:13:31.370
+Let's have a little bit of fun with this.
+
+00:13:31.539 --> 00:13:32.908
+For what you will see next,
+
+00:13:32.932 --> 00:13:36.226
+these quads will initially behave
+as if they were on Pluto.
+
+00:13:36.906 --> 00:13:39.194
+As time goes on, gravity will be increased
+
+00:13:39.218 --> 00:13:41.243
+until we're all back on planet Earth,
+
+00:13:41.267 --> 00:13:43.033
+but I assure you we won't get there.
+
+00:13:43.462 --> 00:13:44.486
+Okay, here goes.
+
+00:13:52.897 --> 00:13:54.448
+(Laughter)
+
+00:14:22.778 --> 00:14:25.738
+(Laughter)
+
+00:14:25.858 --> 00:14:29.619
+(Applause)
+
+00:14:29.760 --> 00:14:30.826
+Whew!
+
+00:14:35.045 --> 00:14:36.272
+You're all thinking now,
+
+00:14:36.296 --> 00:14:38.247
+these guys are having way too much fun,
+
+00:14:38.271 --> 00:14:40.326
+and you're probably also asking yourself,
+
+00:14:40.350 --> 00:14:43.151
+why exactly are they building
+machine athletes?
+
+00:14:44.286 --> 00:14:47.096
+Some conjecture that the role
+of play in the animal kingdom
+
+00:14:47.120 --> 00:14:49.257
+is to hone skills
+and develop capabilities.
+
+00:14:49.690 --> 00:14:51.905
+Others think that it has
+more of a social role,
+
+00:14:51.929 --> 00:14:53.579
+that it's used to bind the group.
+
+00:14:53.603 --> 00:14:56.939
+Similarly, we use the analogy
+of sports and athleticism
+
+00:14:56.963 --> 00:14:59.018
+to create new algorithms for machines
+
+00:14:59.042 --> 00:15:00.485
+to push them to their limits.
+
+00:15:01.350 --> 00:15:04.398
+What impact will the speed
+of machines have on our way of life?
+
+00:15:04.866 --> 00:15:07.231
+Like all our past creations
+and innovations,
+
+00:15:07.255 --> 00:15:10.058
+they may be used to improve
+the human condition
+
+00:15:10.082 --> 00:15:12.056
+or they may be misused and abused.
+
+00:15:12.595 --> 00:15:14.897
+This is not a technical choice
+we are faced with;
+
+00:15:14.921 --> 00:15:15.936
+it's a social one.
+
+00:15:16.332 --> 00:15:17.683
+Let's make the right choice,
+
+00:15:17.707 --> 00:15:20.619
+the choice that brings out the best
+in the future of machines,
+
+00:15:20.643 --> 00:15:23.508
+just like athleticism in sports
+can bring out the best in us.
+
+00:15:24.380 --> 00:15:27.455
+Let me introduce you to the wizards
+behind the green curtain.
+
+00:15:27.479 --> 00:15:30.813
+They're the current members
+of the Flying Machine Arena research team.
+
+00:15:30.837 --> 00:15:35.054
+(Applause)
+
+00:15:35.267 --> 00:15:37.545
+Federico Augugliaro, Dario Brescianini,
+
+00:15:37.569 --> 00:15:40.994
+Markus Hehn, Sergei Lupashin,
+Mark Muller and Robin Ritz.
+
+00:15:41.018 --> 00:15:43.542
+Look out for them.
+They're destined for great things.
+
+00:15:43.566 --> 00:15:44.620
+Thank you.
+
+00:15:44.644 --> 00:15:48.100
+(Applause)
+

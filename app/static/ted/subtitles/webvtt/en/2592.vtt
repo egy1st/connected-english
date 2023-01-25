@@ -1,0 +1,1024 @@
+WEBVTT
+
+00:00:01.000 --> 00:00:03.216
+I'm going to talk
+about a failure of intuition
+
+00:00:03.240 --> 00:00:04.840
+that many of us suffer from.
+
+00:00:05.480 --> 00:00:08.520
+It's really a failure
+to detect a certain kind of danger.
+
+00:00:09.360 --> 00:00:11.096
+I'm going to describe a scenario
+
+00:00:11.120 --> 00:00:14.376
+that I think is both terrifying
+
+00:00:14.400 --> 00:00:16.160
+and likely to occur,
+
+00:00:16.840 --> 00:00:18.496
+and that's not a good combination,
+
+00:00:18.520 --> 00:00:20.056
+as it turns out.
+
+00:00:20.080 --> 00:00:22.536
+And yet rather than be scared,
+most of you will feel
+
+00:00:22.560 --> 00:00:24.640
+that what I'm talking about
+is kind of cool.
+
+00:00:25.200 --> 00:00:28.176
+I'm going to describe
+how the gains we make
+
+00:00:28.200 --> 00:00:29.976
+in artificial intelligence
+
+00:00:30.000 --> 00:00:31.776
+could ultimately destroy us.
+
+00:00:31.800 --> 00:00:35.256
+And in fact, I think it's very difficult
+to see how they won't destroy us
+
+00:00:35.280 --> 00:00:36.960
+or inspire us to destroy ourselves.
+
+00:00:37.400 --> 00:00:39.256
+And yet if you're anything like me,
+
+00:00:39.280 --> 00:00:41.936
+you'll find that it's fun
+to think about these things.
+
+00:00:41.960 --> 00:00:45.336
+And that response is part of the problem.
+
+00:00:45.360 --> 00:00:47.080
+OK? That response should worry you.
+
+00:00:47.920 --> 00:00:50.576
+And if I were to convince you in this talk
+
+00:00:50.600 --> 00:00:54.016
+that we were likely
+to suffer a global famine,
+
+00:00:54.040 --> 00:00:57.096
+either because of climate change
+or some other catastrophe,
+
+00:00:57.120 --> 00:01:00.536
+and that your grandchildren,
+or their grandchildren,
+
+00:01:00.560 --> 00:01:02.360
+are very likely to live like this,
+
+00:01:03.200 --> 00:01:04.400
+you wouldn't think,
+
+00:01:05.440 --> 00:01:06.776
+"Interesting.
+
+00:01:06.800 --> 00:01:08.000
+I like this TED Talk."
+
+00:01:09.200 --> 00:01:10.720
+Famine isn't fun.
+
+00:01:11.800 --> 00:01:15.176
+Death by science fiction,
+on the other hand, is fun,
+
+00:01:15.200 --> 00:01:19.176
+and one of the things that worries me most
+about the development of AI at this point
+
+00:01:19.200 --> 00:01:23.296
+is that we seem unable to marshal
+an appropriate emotional response
+
+00:01:23.320 --> 00:01:25.136
+to the dangers that lie ahead.
+
+00:01:25.160 --> 00:01:28.360
+I am unable to marshal this response,
+and I'm giving this talk.
+
+00:01:30.120 --> 00:01:32.816
+It's as though we stand before two doors.
+
+00:01:32.840 --> 00:01:34.096
+Behind door number one,
+
+00:01:34.120 --> 00:01:37.416
+we stop making progress
+in building intelligent machines.
+
+00:01:37.440 --> 00:01:41.456
+Our computer hardware and software
+just stops getting better for some reason.
+
+00:01:41.480 --> 00:01:44.480
+Now take a moment
+to consider why this might happen.
+
+00:01:45.080 --> 00:01:48.736
+I mean, given how valuable
+intelligence and automation are,
+
+00:01:48.760 --> 00:01:52.280
+we will continue to improve our technology
+if we are at all able to.
+
+00:01:53.200 --> 00:01:54.867
+What could stop us from doing this?
+
+00:01:55.800 --> 00:01:57.600
+A full-scale nuclear war?
+
+00:01:59.000 --> 00:02:00.560
+A global pandemic?
+
+00:02:02.320 --> 00:02:03.640
+An asteroid impact?
+
+00:02:05.640 --> 00:02:08.216
+Justin Bieber becoming
+president of the United States?
+
+00:02:08.240 --> 00:02:10.520
+(Laughter)
+
+00:02:12.760 --> 00:02:16.680
+The point is, something would have to
+destroy civilization as we know it.
+
+00:02:17.360 --> 00:02:21.656
+You have to imagine
+how bad it would have to be
+
+00:02:21.680 --> 00:02:25.016
+to prevent us from making
+improvements in our technology
+
+00:02:25.040 --> 00:02:26.256
+permanently,
+
+00:02:26.280 --> 00:02:28.296
+generation after generation.
+
+00:02:28.320 --> 00:02:30.456
+Almost by definition,
+this is the worst thing
+
+00:02:30.480 --> 00:02:32.496
+that's ever happened in human history.
+
+00:02:32.520 --> 00:02:33.816
+So the only alternative,
+
+00:02:33.840 --> 00:02:36.176
+and this is what lies
+behind door number two,
+
+00:02:36.200 --> 00:02:39.336
+is that we continue
+to improve our intelligent machines
+
+00:02:39.360 --> 00:02:40.960
+year after year after year.
+
+00:02:41.720 --> 00:02:45.360
+At a certain point, we will build
+machines that are smarter than we are,
+
+00:02:46.080 --> 00:02:48.696
+and once we have machines
+that are smarter than we are,
+
+00:02:48.720 --> 00:02:50.696
+they will begin to improve themselves.
+
+00:02:50.720 --> 00:02:53.456
+And then we risk what
+the mathematician IJ Good called
+
+00:02:53.480 --> 00:02:55.256
+an "intelligence explosion,"
+
+00:02:55.280 --> 00:02:57.280
+that the process could get away from us.
+
+00:02:58.120 --> 00:03:00.936
+Now, this is often caricatured,
+as I have here,
+
+00:03:00.960 --> 00:03:04.176
+as a fear that armies of malicious robots
+
+00:03:04.200 --> 00:03:05.456
+will attack us.
+
+00:03:05.480 --> 00:03:08.176
+But that isn't the most likely scenario.
+
+00:03:08.200 --> 00:03:13.056
+It's not that our machines
+will become spontaneously malevolent.
+
+00:03:13.080 --> 00:03:15.696
+The concern is really
+that we will build machines
+
+00:03:15.720 --> 00:03:17.776
+that are so much
+more competent than we are
+
+00:03:17.800 --> 00:03:21.576
+that the slightest divergence
+between their goals and our own
+
+00:03:21.600 --> 00:03:22.800
+could destroy us.
+
+00:03:23.960 --> 00:03:26.040
+Just think about how we relate to ants.
+
+00:03:26.600 --> 00:03:28.256
+We don't hate them.
+
+00:03:28.280 --> 00:03:30.336
+We don't go out of our way to harm them.
+
+00:03:30.360 --> 00:03:32.736
+In fact, sometimes
+we take pains not to harm them.
+
+00:03:32.760 --> 00:03:34.776
+We step over them on the sidewalk.
+
+00:03:34.800 --> 00:03:36.936
+But whenever their presence
+
+00:03:36.960 --> 00:03:39.456
+seriously conflicts with one of our goals,
+
+00:03:39.480 --> 00:03:41.957
+let's say when constructing
+a building like this one,
+
+00:03:41.981 --> 00:03:43.941
+we annihilate them without a qualm.
+
+00:03:44.480 --> 00:03:47.416
+The concern is that we will
+one day build machines
+
+00:03:47.440 --> 00:03:50.176
+that, whether they're conscious or not,
+
+00:03:50.200 --> 00:03:52.200
+could treat us with similar disregard.
+
+00:03:53.760 --> 00:03:56.520
+Now, I suspect this seems
+far-fetched to many of you.
+
+00:03:57.360 --> 00:04:03.696
+I bet there are those of you who doubt
+that superintelligent AI is possible,
+
+00:04:03.720 --> 00:04:05.376
+much less inevitable.
+
+00:04:05.400 --> 00:04:09.020
+But then you must find something wrong
+with one of the following assumptions.
+
+00:04:09.044 --> 00:04:10.616
+And there are only three of them.
+
+00:04:11.800 --> 00:04:16.519
+Intelligence is a matter of information
+processing in physical systems.
+
+00:04:17.320 --> 00:04:19.935
+Actually, this is a little bit more
+than an assumption.
+
+00:04:19.959 --> 00:04:23.416
+We have already built
+narrow intelligence into our machines,
+
+00:04:23.440 --> 00:04:25.456
+and many of these machines perform
+
+00:04:25.480 --> 00:04:28.120
+at a level of superhuman
+intelligence already.
+
+00:04:28.840 --> 00:04:31.416
+And we know that mere matter
+
+00:04:31.440 --> 00:04:34.056
+can give rise to what is called
+"general intelligence,"
+
+00:04:34.080 --> 00:04:37.736
+an ability to think flexibly
+across multiple domains,
+
+00:04:37.760 --> 00:04:40.896
+because our brains have managed it. Right?
+
+00:04:40.920 --> 00:04:44.856
+I mean, there's just atoms in here,
+
+00:04:44.880 --> 00:04:49.376
+and as long as we continue
+to build systems of atoms
+
+00:04:49.400 --> 00:04:52.096
+that display more and more
+intelligent behavior,
+
+00:04:52.120 --> 00:04:54.656
+we will eventually,
+unless we are interrupted,
+
+00:04:54.680 --> 00:04:58.056
+we will eventually
+build general intelligence
+
+00:04:58.080 --> 00:04:59.376
+into our machines.
+
+00:04:59.400 --> 00:05:03.056
+It's crucial to realize
+that the rate of progress doesn't matter,
+
+00:05:03.080 --> 00:05:06.256
+because any progress
+is enough to get us into the end zone.
+
+00:05:06.280 --> 00:05:10.056
+We don't need Moore's law to continue.
+We don't need exponential progress.
+
+00:05:10.080 --> 00:05:11.680
+We just need to keep going.
+
+00:05:13.480 --> 00:05:16.400
+The second assumption
+is that we will keep going.
+
+00:05:17.000 --> 00:05:19.760
+We will continue to improve
+our intelligent machines.
+
+00:05:21.000 --> 00:05:25.376
+And given the value of intelligence --
+
+00:05:25.400 --> 00:05:28.936
+I mean, intelligence is either
+the source of everything we value
+
+00:05:28.960 --> 00:05:31.736
+or we need it to safeguard
+everything we value.
+
+00:05:31.760 --> 00:05:34.016
+It is our most valuable resource.
+
+00:05:34.040 --> 00:05:35.576
+So we want to do this.
+
+00:05:35.600 --> 00:05:38.936
+We have problems
+that we desperately need to solve.
+
+00:05:38.960 --> 00:05:42.160
+We want to cure diseases
+like Alzheimer's and cancer.
+
+00:05:42.960 --> 00:05:46.896
+We want to understand economic systems.
+We want to improve our climate science.
+
+00:05:46.920 --> 00:05:49.176
+So we will do this, if we can.
+
+00:05:49.200 --> 00:05:52.486
+The train is already out of the station,
+and there's no brake to pull.
+
+00:05:53.880 --> 00:05:59.336
+Finally, we don't stand
+on a peak of intelligence,
+
+00:05:59.360 --> 00:06:01.160
+or anywhere near it, likely.
+
+00:06:01.640 --> 00:06:03.536
+And this really is the crucial insight.
+
+00:06:03.560 --> 00:06:05.976
+This is what makes
+our situation so precarious,
+
+00:06:06.000 --> 00:06:10.040
+and this is what makes our intuitions
+about risk so unreliable.
+
+00:06:11.120 --> 00:06:13.840
+Now, just consider the smartest person
+who has ever lived.
+
+00:06:14.640 --> 00:06:18.056
+On almost everyone's shortlist here
+is John von Neumann.
+
+00:06:18.080 --> 00:06:21.416
+I mean, the impression that von Neumann
+made on the people around him,
+
+00:06:21.440 --> 00:06:25.496
+and this included the greatest
+mathematicians and physicists of his time,
+
+00:06:25.520 --> 00:06:27.456
+is fairly well-documented.
+
+00:06:27.480 --> 00:06:31.256
+If only half the stories
+about him are half true,
+
+00:06:31.280 --> 00:06:32.496
+there's no question
+
+00:06:32.520 --> 00:06:34.976
+he's one of the smartest people
+who has ever lived.
+
+00:06:35.000 --> 00:06:37.520
+So consider the spectrum of intelligence.
+
+00:06:38.320 --> 00:06:39.749
+Here we have John von Neumann.
+
+00:06:41.560 --> 00:06:42.894
+And then we have you and me.
+
+00:06:44.120 --> 00:06:45.416
+And then we have a chicken.
+
+00:06:45.440 --> 00:06:47.376
+(Laughter)
+
+00:06:47.400 --> 00:06:48.616
+Sorry, a chicken.
+
+00:06:48.640 --> 00:06:49.896
+(Laughter)
+
+00:06:49.920 --> 00:06:53.656
+There's no reason for me to make this talk
+more depressing than it needs to be.
+
+00:06:53.680 --> 00:06:55.280
+(Laughter)
+
+00:06:56.339 --> 00:06:59.816
+It seems overwhelmingly likely, however,
+that the spectrum of intelligence
+
+00:06:59.840 --> 00:07:02.960
+extends much further
+than we currently conceive,
+
+00:07:03.880 --> 00:07:07.096
+and if we build machines
+that are more intelligent than we are,
+
+00:07:07.120 --> 00:07:09.416
+they will very likely
+explore this spectrum
+
+00:07:09.440 --> 00:07:11.296
+in ways that we can't imagine,
+
+00:07:11.320 --> 00:07:13.840
+and exceed us in ways
+that we can't imagine.
+
+00:07:15.000 --> 00:07:19.336
+And it's important to recognize that
+this is true by virtue of speed alone.
+
+00:07:19.360 --> 00:07:24.416
+Right? So imagine if we just built
+a superintelligent AI
+
+00:07:24.440 --> 00:07:27.896
+that was no smarter
+than your average team of researchers
+
+00:07:27.920 --> 00:07:30.216
+at Stanford or MIT.
+
+00:07:30.240 --> 00:07:33.216
+Well, electronic circuits
+function about a million times faster
+
+00:07:33.240 --> 00:07:34.496
+than biochemical ones,
+
+00:07:34.520 --> 00:07:37.656
+so this machine should think
+about a million times faster
+
+00:07:37.680 --> 00:07:39.496
+than the minds that built it.
+
+00:07:39.520 --> 00:07:41.176
+So you set it running for a week,
+
+00:07:41.200 --> 00:07:45.760
+and it will perform 20,000 years
+of human-level intellectual work,
+
+00:07:46.400 --> 00:07:48.360
+week after week after week.
+
+00:07:49.640 --> 00:07:52.736
+How could we even understand,
+much less constrain,
+
+00:07:52.760 --> 00:07:55.040
+a mind making this sort of progress?
+
+00:07:56.840 --> 00:07:58.976
+The other thing that's worrying, frankly,
+
+00:07:59.000 --> 00:08:03.976
+is that, imagine the best case scenario.
+
+00:08:04.000 --> 00:08:08.176
+So imagine we hit upon a design
+of superintelligent AI
+
+00:08:08.200 --> 00:08:09.576
+that has no safety concerns.
+
+00:08:09.600 --> 00:08:12.856
+We have the perfect design
+the first time around.
+
+00:08:12.880 --> 00:08:15.096
+It's as though we've been handed an oracle
+
+00:08:15.120 --> 00:08:17.136
+that behaves exactly as intended.
+
+00:08:17.160 --> 00:08:20.880
+Well, this machine would be
+the perfect labor-saving device.
+
+00:08:21.680 --> 00:08:24.109
+It can design the machine
+that can build the machine
+
+00:08:24.133 --> 00:08:25.896
+that can do any physical work,
+
+00:08:25.920 --> 00:08:27.376
+powered by sunlight,
+
+00:08:27.400 --> 00:08:30.096
+more or less for the cost
+of raw materials.
+
+00:08:30.120 --> 00:08:33.376
+So we're talking about
+the end of human drudgery.
+
+00:08:33.400 --> 00:08:36.200
+We're also talking about the end
+of most intellectual work.
+
+00:08:37.200 --> 00:08:40.256
+So what would apes like ourselves
+do in this circumstance?
+
+00:08:40.280 --> 00:08:44.360
+Well, we'd be free to play Frisbee
+and give each other massages.
+
+00:08:45.840 --> 00:08:48.696
+Add some LSD and some
+questionable wardrobe choices,
+
+00:08:48.720 --> 00:08:50.896
+and the whole world
+could be like Burning Man.
+
+00:08:50.920 --> 00:08:52.560
+(Laughter)
+
+00:08:54.320 --> 00:08:56.320
+Now, that might sound pretty good,
+
+00:08:57.280 --> 00:08:59.656
+but ask yourself what would happen
+
+00:08:59.680 --> 00:09:02.416
+under our current economic
+and political order?
+
+00:09:02.440 --> 00:09:04.856
+It seems likely that we would witness
+
+00:09:04.880 --> 00:09:09.016
+a level of wealth inequality
+and unemployment
+
+00:09:09.040 --> 00:09:10.536
+that we have never seen before.
+
+00:09:10.560 --> 00:09:13.176
+Absent a willingness
+to immediately put this new wealth
+
+00:09:13.200 --> 00:09:14.680
+to the service of all humanity,
+
+00:09:15.640 --> 00:09:19.256
+a few trillionaires could grace
+the covers of our business magazines
+
+00:09:19.280 --> 00:09:21.720
+while the rest of the world
+would be free to starve.
+
+00:09:22.320 --> 00:09:24.616
+And what would the Russians
+or the Chinese do
+
+00:09:24.640 --> 00:09:27.256
+if they heard that some company
+in Silicon Valley
+
+00:09:27.280 --> 00:09:30.016
+was about to deploy a superintelligent AI?
+
+00:09:30.040 --> 00:09:32.896
+This machine would be capable
+of waging war,
+
+00:09:32.920 --> 00:09:35.136
+whether terrestrial or cyber,
+
+00:09:35.160 --> 00:09:36.840
+with unprecedented power.
+
+00:09:38.120 --> 00:09:39.976
+This is a winner-take-all scenario.
+
+00:09:40.000 --> 00:09:43.136
+To be six months ahead
+of the competition here
+
+00:09:43.160 --> 00:09:45.936
+is to be 500,000 years ahead,
+
+00:09:45.960 --> 00:09:47.456
+at a minimum.
+
+00:09:47.480 --> 00:09:52.216
+So it seems that even mere rumors
+of this kind of breakthrough
+
+00:09:52.240 --> 00:09:54.616
+could cause our species to go berserk.
+
+00:09:54.640 --> 00:09:57.536
+Now, one of the most frightening things,
+
+00:09:57.560 --> 00:10:00.336
+in my view, at this moment,
+
+00:10:00.360 --> 00:10:04.656
+are the kinds of things
+that AI researchers say
+
+00:10:04.680 --> 00:10:06.240
+when they want to be reassuring.
+
+00:10:07.000 --> 00:10:10.456
+And the most common reason
+we're told not to worry is time.
+
+00:10:10.480 --> 00:10:12.536
+This is all a long way off,
+don't you know.
+
+00:10:12.560 --> 00:10:15.000
+This is probably 50 or 100 years away.
+
+00:10:15.720 --> 00:10:16.976
+One researcher has said,
+
+00:10:17.000 --> 00:10:18.576
+"Worrying about AI safety
+
+00:10:18.600 --> 00:10:20.880
+is like worrying
+about overpopulation on Mars."
+
+00:10:22.116 --> 00:10:23.736
+This is the Silicon Valley version
+
+00:10:23.760 --> 00:10:26.136
+of "don't worry your
+pretty little head about it."
+
+00:10:26.160 --> 00:10:27.496
+(Laughter)
+
+00:10:27.520 --> 00:10:29.416
+No one seems to notice
+
+00:10:29.440 --> 00:10:32.056
+that referencing the time horizon
+
+00:10:32.080 --> 00:10:34.656
+is a total non sequitur.
+
+00:10:34.680 --> 00:10:37.936
+If intelligence is just a matter
+of information processing,
+
+00:10:37.960 --> 00:10:40.616
+and we continue to improve our machines,
+
+00:10:40.640 --> 00:10:43.520
+we will produce
+some form of superintelligence.
+
+00:10:44.320 --> 00:10:47.976
+And we have no idea
+how long it will take us
+
+00:10:48.000 --> 00:10:50.400
+to create the conditions
+to do that safely.
+
+00:10:52.200 --> 00:10:53.496
+Let me say that again.
+
+00:10:53.520 --> 00:10:57.336
+We have no idea how long it will take us
+
+00:10:57.360 --> 00:10:59.600
+to create the conditions
+to do that safely.
+
+00:11:00.920 --> 00:11:04.376
+And if you haven't noticed,
+50 years is not what it used to be.
+
+00:11:04.400 --> 00:11:06.856
+This is 50 years in months.
+
+00:11:06.880 --> 00:11:08.720
+This is how long we've had the iPhone.
+
+00:11:09.440 --> 00:11:12.040
+This is how long "The Simpsons"
+has been on television.
+
+00:11:12.680 --> 00:11:15.056
+Fifty years is not that much time
+
+00:11:15.080 --> 00:11:18.240
+to meet one of the greatest challenges
+our species will ever face.
+
+00:11:19.640 --> 00:11:23.656
+Once again, we seem to be failing
+to have an appropriate emotional response
+
+00:11:23.680 --> 00:11:26.376
+to what we have every reason
+to believe is coming.
+
+00:11:26.400 --> 00:11:30.376
+The computer scientist Stuart Russell
+has a nice analogy here.
+
+00:11:30.400 --> 00:11:35.296
+He said, imagine that we received
+a message from an alien civilization,
+
+00:11:35.320 --> 00:11:37.016
+which read:
+
+00:11:37.040 --> 00:11:38.576
+"People of Earth,
+
+00:11:38.600 --> 00:11:40.960
+we will arrive on your planet in 50 years.
+
+00:11:41.800 --> 00:11:43.376
+Get ready."
+
+00:11:43.400 --> 00:11:47.656
+And now we're just counting down
+the months until the mothership lands?
+
+00:11:47.680 --> 00:11:50.680
+We would feel a little
+more urgency than we do.
+
+00:11:52.680 --> 00:11:54.536
+Another reason we're told not to worry
+
+00:11:54.560 --> 00:11:57.576
+is that these machines
+can't help but share our values
+
+00:11:57.600 --> 00:12:00.216
+because they will be literally
+extensions of ourselves.
+
+00:12:00.240 --> 00:12:02.056
+They'll be grafted onto our brains,
+
+00:12:02.080 --> 00:12:04.440
+and we'll essentially
+become their limbic systems.
+
+00:12:05.120 --> 00:12:06.536
+Now take a moment to consider
+
+00:12:06.560 --> 00:12:09.736
+that the safest
+and only prudent path forward,
+
+00:12:09.760 --> 00:12:11.096
+recommended,
+
+00:12:11.120 --> 00:12:13.920
+is to implant this technology
+directly into our brains.
+
+00:12:14.600 --> 00:12:17.976
+Now, this may in fact be the safest
+and only prudent path forward,
+
+00:12:18.000 --> 00:12:21.056
+but usually one's safety concerns
+about a technology
+
+00:12:21.080 --> 00:12:24.736
+have to be pretty much worked out
+before you stick it inside your head.
+
+00:12:24.760 --> 00:12:26.776
+(Laughter)
+
+00:12:26.800 --> 00:12:32.136
+The deeper problem is that
+building superintelligent AI on its own
+
+00:12:32.160 --> 00:12:33.896
+seems likely to be easier
+
+00:12:33.920 --> 00:12:35.776
+than building superintelligent AI
+
+00:12:35.800 --> 00:12:37.576
+and having the completed neuroscience
+
+00:12:37.600 --> 00:12:40.280
+that allows us to seamlessly
+integrate our minds with it.
+
+00:12:40.800 --> 00:12:43.976
+And given that the companies
+and governments doing this work
+
+00:12:44.000 --> 00:12:47.656
+are likely to perceive themselves
+as being in a race against all others,
+
+00:12:47.680 --> 00:12:50.936
+given that to win this race
+is to win the world,
+
+00:12:50.960 --> 00:12:53.416
+provided you don't destroy it
+in the next moment,
+
+00:12:53.440 --> 00:12:56.056
+then it seems likely
+that whatever is easier to do
+
+00:12:56.080 --> 00:12:57.280
+will get done first.
+
+00:12:58.560 --> 00:13:01.416
+Now, unfortunately,
+I don't have a solution to this problem,
+
+00:13:01.440 --> 00:13:04.056
+apart from recommending
+that more of us think about it.
+
+00:13:04.080 --> 00:13:06.456
+I think we need something
+like a Manhattan Project
+
+00:13:06.480 --> 00:13:08.496
+on the topic of artificial intelligence.
+
+00:13:08.520 --> 00:13:11.256
+Not to build it, because I think
+we'll inevitably do that,
+
+00:13:11.280 --> 00:13:14.616
+but to understand
+how to avoid an arms race
+
+00:13:14.640 --> 00:13:18.136
+and to build it in a way
+that is aligned with our interests.
+
+00:13:18.160 --> 00:13:20.296
+When you're talking
+about superintelligent AI
+
+00:13:20.320 --> 00:13:22.576
+that can make changes to itself,
+
+00:13:22.600 --> 00:13:27.216
+it seems that we only have one chance
+to get the initial conditions right,
+
+00:13:27.240 --> 00:13:29.296
+and even then we will need to absorb
+
+00:13:29.320 --> 00:13:32.360
+the economic and political
+consequences of getting them right.
+
+00:13:33.760 --> 00:13:35.816
+But the moment we admit
+
+00:13:35.840 --> 00:13:39.840
+that information processing
+is the source of intelligence,
+
+00:13:40.720 --> 00:13:45.520
+that some appropriate computational system
+is what the basis of intelligence is,
+
+00:13:46.360 --> 00:13:50.120
+and we admit that we will improve
+these systems continuously,
+
+00:13:51.280 --> 00:13:55.736
+and we admit that the horizon
+of cognition very likely far exceeds
+
+00:13:55.760 --> 00:13:56.960
+what we currently know,
+
+00:13:58.120 --> 00:13:59.336
+then we have to admit
+
+00:13:59.360 --> 00:14:02.000
+that we are in the process
+of building some sort of god.
+
+00:14:03.400 --> 00:14:04.976
+Now would be a good time
+
+00:14:05.000 --> 00:14:06.953
+to make sure it's a god we can live with.
+
+00:14:08.120 --> 00:14:09.656
+Thank you very much.
+
+00:14:09.680 --> 00:14:14.773
+(Applause)
+

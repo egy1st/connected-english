@@ -1,0 +1,911 @@
+WEBVTT
+
+00:00:01.071 --> 00:00:02.223
+Ladies and gentlemen,
+
+00:00:02.247 --> 00:00:04.374
+I present to you the human genome.
+
+00:00:04.398 --> 00:00:08.277
+(Applause)
+
+00:00:08.301 --> 00:00:12.234
+Chromosome one -- top left,
+bottom right -- are the sex chromosomes.
+
+00:00:12.258 --> 00:00:14.986
+Women have two copies
+of that big X chromosome;
+
+00:00:15.010 --> 00:00:18.175
+men have the X and, of course,
+that small copy of the Y.
+
+00:00:18.199 --> 00:00:21.890
+Sorry boys, but it's just a tiny
+little thing that makes you different.
+
+00:00:21.914 --> 00:00:24.906
+So if you zoom in on this genome,
+
+00:00:24.930 --> 00:00:28.548
+then what you see, of course,
+is this double-helix structure --
+
+00:00:28.572 --> 00:00:31.706
+the code of life spelled out
+with these four biochemical letters,
+
+00:00:31.730 --> 00:00:33.976
+or we call them bases: A, C, G and T.
+
+00:00:34.000 --> 00:00:36.572
+How many are there
+in the human genome? Three billion.
+
+00:00:36.596 --> 00:00:37.776
+Is that a big number?
+
+00:00:37.800 --> 00:00:40.019
+Well, everybody
+can throw around big numbers.
+
+00:00:40.043 --> 00:00:42.143
+But in fact, if I were to place one base
+
+00:00:42.167 --> 00:00:45.930
+on each pixel of this
+1280x800-resolution screen,
+
+00:00:45.954 --> 00:00:49.233
+we would need 3,000 screens
+to take a look at the genome.
+
+00:00:49.257 --> 00:00:50.465
+So it's really quite big.
+
+00:00:50.489 --> 00:00:52.384
+And perhaps because of its size,
+
+00:00:52.408 --> 00:00:55.259
+a group of people -- all,
+by the way, with Y chromosomes --
+
+00:00:55.283 --> 00:00:57.293
+decided they would want to sequence it.
+
+00:00:57.317 --> 00:00:59.332
+(Laughter)
+
+00:00:59.356 --> 00:01:02.613
+And so 15 years, actually,
+and about four billion dollars later,
+
+00:01:02.637 --> 00:01:04.512
+the genome was sequenced and published.
+
+00:01:04.536 --> 00:01:07.856
+In 2003, the final version was published,
+and they keep working on it.
+
+00:01:07.880 --> 00:01:09.869
+That was all done on a machine like this.
+
+00:01:09.893 --> 00:01:13.210
+It costs about a dollar for each base --
+a very slow way of doing it.
+
+00:01:13.234 --> 00:01:14.829
+Well, folks, I'm here to tell you
+
+00:01:14.853 --> 00:01:16.944
+that the world has completely changed,
+
+00:01:16.968 --> 00:01:18.778
+and none of you know about it.
+
+00:01:18.802 --> 00:01:21.491
+So now what we do is take a genome,
+
+00:01:21.515 --> 00:01:23.054
+we make maybe 50 copies of it,
+
+00:01:23.078 --> 00:01:26.098
+we cut all those copies up
+into little 50-base reads,
+
+00:01:26.122 --> 00:01:28.463
+and then we sequence them,
+massively parallel.
+
+00:01:28.487 --> 00:01:31.574
+Then we bring that into software
+and reassemble it,
+
+00:01:31.598 --> 00:01:33.168
+and tell you what the story is.
+
+00:01:33.192 --> 00:01:35.507
+So to give you a picture
+of what this looks like,
+
+00:01:35.531 --> 00:01:38.014
+the Human Genome Project:
+3 gigabases, right?
+
+00:01:38.038 --> 00:01:42.690
+One run on one of these modern machines:
+200 gigabases in a week.
+
+00:01:42.714 --> 00:01:45.227
+And that 200 is going
+to change to 600 this summer,
+
+00:01:45.251 --> 00:01:47.393
+and there's no sign of this pace slowing.
+
+00:01:47.809 --> 00:01:51.394
+The price of a base, to sequence a base,
+
+00:01:51.418 --> 00:01:54.171
+has fallen 100 million times.
+
+00:01:54.195 --> 00:01:57.971
+That's the equivalent of you filling up
+your car with gas in 1998,
+
+00:01:57.995 --> 00:01:59.224
+waiting until 2011,
+
+00:01:59.248 --> 00:02:01.661
+and now you can drive
+to Jupiter and back twice.
+
+00:02:01.685 --> 00:02:05.976
+(Laughter)
+
+00:02:06.449 --> 00:02:07.976
+World population,
+
+00:02:08.861 --> 00:02:10.017
+PC placements,
+
+00:02:10.711 --> 00:02:12.975
+the archive of all of medical literature,
+
+00:02:13.497 --> 00:02:14.697
+Moore's law,
+
+00:02:15.219 --> 00:02:17.048
+the old way of sequencing,
+
+00:02:17.072 --> 00:02:18.829
+and here's all the new stuff.
+
+00:02:18.853 --> 00:02:20.194
+Guys, this is a long scale;
+
+00:02:20.218 --> 00:02:22.976
+you don't typically see
+lines that go up like that.
+
+00:02:23.442 --> 00:02:26.900
+So the worldwide capacity
+to sequence human genomes
+
+00:02:26.924 --> 00:02:30.093
+is something like 50,000 to 100,000
+human genomes this year.
+
+00:02:30.117 --> 00:02:32.820
+We know this based on the machines
+that are being placed.
+
+00:02:32.844 --> 00:02:35.361
+This is expected to double,
+triple or maybe quadruple
+
+00:02:35.385 --> 00:02:37.595
+year over year for the foreseeable future.
+
+00:02:37.619 --> 00:02:39.604
+In fact, there's one lab in particular
+
+00:02:39.628 --> 00:02:42.564
+that represents 20 percent
+of all that capacity:
+
+00:02:42.588 --> 00:02:44.976
+It's called the Beijing
+Genomics Institute.
+
+00:02:45.406 --> 00:02:49.111
+The Chinese are absolutely winning
+this race to the new Moon, by the way.
+
+00:02:49.135 --> 00:02:50.873
+What does this mean for medicine?
+
+00:02:51.460 --> 00:02:54.184
+So a woman, age 37,
+
+00:02:54.208 --> 00:02:57.422
+presents with stage 2 estrogen
+receptor-positive breast cancer.
+
+00:02:57.446 --> 00:03:00.613
+She is treated with surgery,
+chemotherapy and radiation.
+
+00:03:00.637 --> 00:03:01.821
+She goes home.
+
+00:03:01.845 --> 00:03:02.996
+Two years later,
+
+00:03:03.020 --> 00:03:06.194
+she comes back with stage 3C
+ovarian cancer, unfortunately;
+
+00:03:06.218 --> 00:03:08.655
+treated again with surgery
+and chemotherapy.
+
+00:03:08.679 --> 00:03:10.933
+She comes back three years later at age 42
+
+00:03:10.957 --> 00:03:13.314
+with more ovarian cancer,
+more chemotherapy.
+
+00:03:13.338 --> 00:03:14.807
+Six months later,
+
+00:03:14.831 --> 00:03:18.655
+she comes back
+with acute myeloid leukemia.
+
+00:03:19.559 --> 00:03:22.565
+She goes into respiratory failure
+and dies eight days later.
+
+00:03:22.589 --> 00:03:24.947
+So first: the way in which
+this woman was treated,
+
+00:03:24.971 --> 00:03:28.414
+in as little as 10 years,
+will look like bloodletting.
+
+00:03:28.438 --> 00:03:31.263
+And it's because of people
+like my colleague, Rick Wilson,
+
+00:03:31.287 --> 00:03:33.626
+at the Genome Institute
+at Washington University,
+
+00:03:33.650 --> 00:03:36.109
+who decided to take a look
+at this woman postmortem.
+
+00:03:36.133 --> 00:03:38.616
+And he took skin cells, healthy skin
+
+00:03:38.640 --> 00:03:40.578
+and cancerous bone marrow,
+
+00:03:40.602 --> 00:03:42.888
+and sequenced the whole
+genomes of both of them
+
+00:03:42.912 --> 00:03:44.976
+in a couple of weeks, no big deal.
+
+00:03:45.000 --> 00:03:47.201
+Then he compared those two
+genomes in software,
+
+00:03:47.225 --> 00:03:49.050
+and what he found, among other things,
+
+00:03:49.074 --> 00:03:53.687
+was a deletion -- a 2,000-base deletion
+across three billion bases
+
+00:03:53.711 --> 00:03:55.870
+in a particular gene called TP53.
+
+00:03:55.894 --> 00:03:58.306
+If you have this deleterious
+mutation in this gene,
+
+00:03:58.330 --> 00:04:01.052
+you're 90 percent likely
+to get cancer in your life.
+
+00:04:01.076 --> 00:04:03.300
+So unfortunately,
+this doesn't help this woman,
+
+00:04:03.324 --> 00:04:05.976
+but it does have severe --
+profound, if you will --
+
+00:04:06.000 --> 00:04:08.190
+implications to her family.
+
+00:04:08.801 --> 00:04:10.684
+I mean, if they have the same mutation,
+
+00:04:10.708 --> 00:04:13.253
+and they get this genetic test
+and they understand it,
+
+00:04:13.277 --> 00:04:16.158
+then they can get regular screens
+and can catch cancer early,
+
+00:04:16.182 --> 00:04:18.502
+and potentially live
+a significantly longer life.
+
+00:04:18.526 --> 00:04:20.456
+Let me introduce you to the Beery twins,
+
+00:04:20.480 --> 00:04:22.812
+diagnosed with cerebral palsy
+at the age of two.
+
+00:04:22.836 --> 00:04:25.384
+Their mom is a very brave woman
+who didn't believe it;
+
+00:04:25.408 --> 00:04:27.011
+the symptoms weren't matching up.
+
+00:04:27.035 --> 00:04:30.043
+And through some heroic efforts
+and a lot of Internet searching,
+
+00:04:30.067 --> 00:04:32.238
+she was able to convince
+the medical community
+
+00:04:32.262 --> 00:04:34.158
+that, in fact, they had something else.
+
+00:04:34.182 --> 00:04:36.348
+They had dopa-responsive dystonia.
+
+00:04:36.372 --> 00:04:38.351
+And so they were given L-Dopa,
+
+00:04:38.375 --> 00:04:40.692
+and their symptoms did improve,
+
+00:04:40.716 --> 00:04:42.559
+but they weren't totally asymptomatic.
+
+00:04:42.583 --> 00:04:44.050
+Significant problems remained.
+
+00:04:44.074 --> 00:04:47.243
+Turns out the gentleman in this picture
+is a guy named Joe Beery,
+
+00:04:47.267 --> 00:04:48.910
+who was lucky enough to be the CIO
+
+00:04:48.934 --> 00:04:51.055
+of a company called Life Technologies.
+
+00:04:51.079 --> 00:04:52.421
+They're one of two companies
+
+00:04:52.445 --> 00:04:55.595
+that makes these massive
+whole-genome sequencing tools.
+
+00:04:55.619 --> 00:04:58.632
+And so he got his kids sequenced.
+
+00:04:58.656 --> 00:05:01.734
+What they found was a series of mutations
+in a gene called SPR,
+
+00:05:01.758 --> 00:05:05.155
+which is responsible for producing
+serotonin, among other things.
+
+00:05:05.179 --> 00:05:08.668
+So on top of L-Dopa, they gave
+these kids a serotonin precursor drug,
+
+00:05:08.692 --> 00:05:10.414
+and they're effectively normal now.
+
+00:05:10.438 --> 00:05:13.729
+Guys, this would never have happened
+without whole-genome sequencing.
+
+00:05:13.753 --> 00:05:16.593
+At the time -- this was
+a few years ago -- it cost $100,000.
+
+00:05:16.617 --> 00:05:18.444
+Today it's $10,000, next year, $1,000,
+
+00:05:18.468 --> 00:05:20.497
+the year after, $100, give or take a year.
+
+00:05:20.521 --> 00:05:22.021
+That's how fast this is moving.
+
+00:05:22.045 --> 00:05:23.902
+So here's little Nick --
+
+00:05:23.926 --> 00:05:25.642
+likes Batman and squirt guns.
+
+00:05:25.666 --> 00:05:29.361
+And it turns out Nick
+shows up at the children's hospital
+
+00:05:29.385 --> 00:05:31.647
+with this distended belly,
+like a famine victim.
+
+00:05:31.671 --> 00:05:34.507
+And it's not that he's not eating;
+it's that when he eats,
+
+00:05:34.531 --> 00:05:37.942
+his intestine basically opens up
+and feces spill out into his gut.
+
+00:05:37.966 --> 00:05:39.601
+So a hundred surgeries later,
+
+00:05:39.625 --> 00:05:43.300
+he looks at his mom and says,
+"Mom, please pray for me.
+
+00:05:43.324 --> 00:05:44.727
+I'm in so much pain."
+
+00:05:45.148 --> 00:05:48.263
+His pediatrician happens to have
+a background in clinical genetics
+
+00:05:48.287 --> 00:05:49.976
+and he has no idea what's going on,
+
+00:05:50.000 --> 00:05:52.543
+but he says, "Let's get
+this kid's genome sequenced."
+
+00:05:52.567 --> 00:05:54.707
+And what they find
+is a single-point mutation
+
+00:05:54.731 --> 00:05:57.580
+in a gene responsible for controlling
+programmed cell death.
+
+00:05:57.604 --> 00:06:00.682
+So the theory is that he's having
+some immunological reaction
+
+00:06:00.706 --> 00:06:03.121
+to what's going on --
+to the food, essentially.
+
+00:06:03.145 --> 00:06:06.515
+And that's a natural reaction,
+which causes some programmed cell death,
+
+00:06:06.539 --> 00:06:08.809
+but the gene that regulates
+that down is broken.
+
+00:06:08.833 --> 00:06:11.251
+And so this informs,
+among other things, of course,
+
+00:06:11.275 --> 00:06:14.246
+a treatment for bone marrow transplant,
+which he undertakes.
+
+00:06:14.270 --> 00:06:16.290
+And after nine months
+of grueling recovery,
+
+00:06:16.314 --> 00:06:18.219
+he's now eating steak with A1 sauce.
+
+00:06:18.243 --> 00:06:19.340
+(Laughter)
+
+00:06:19.364 --> 00:06:23.463
+The prospect of using the genome
+as a universal diagnostic
+
+00:06:23.487 --> 00:06:25.027
+is upon us today.
+
+00:06:26.202 --> 00:06:27.741
+Today. It's here.
+
+00:06:27.765 --> 00:06:29.257
+And what it means for all of us
+
+00:06:29.281 --> 00:06:32.568
+is that everybody in this room
+could live an extra 5, 10, 20 years,
+
+00:06:32.592 --> 00:06:34.259
+just because of this one thing.
+
+00:06:34.283 --> 00:06:36.346
+Which is a fantastic story,
+
+00:06:36.370 --> 00:06:39.248
+unless you think about
+humanity's footprint on the planet,
+
+00:06:39.272 --> 00:06:41.747
+and our ability to keep up
+food production.
+
+00:06:41.771 --> 00:06:43.343
+So it turns out
+
+00:06:43.367 --> 00:06:47.308
+that the very same technology
+is also being used to grow new lines
+
+00:06:47.332 --> 00:06:50.461
+of corn, wheat, soybean and other crops
+
+00:06:50.485 --> 00:06:52.660
+that are highly tolerant
+of drought, of flood,
+
+00:06:52.684 --> 00:06:54.207
+of pests and pesticides.
+
+00:06:54.231 --> 00:06:55.405
+Now, look --
+
+00:06:55.924 --> 00:06:58.298
+as long as we continue
+to increase the population,
+
+00:06:58.322 --> 00:07:01.501
+we'll have to continue to grow and eat
+genetically modified foods.
+
+00:07:01.525 --> 00:07:03.676
+And that's the only position
+I'll take today.
+
+00:07:03.700 --> 00:07:05.518
+Unless there's anybody in the audience
+
+00:07:05.542 --> 00:07:07.763
+who'd like to volunteer to stop eating?
+
+00:07:07.787 --> 00:07:09.138
+None, not one.
+
+00:07:09.701 --> 00:07:10.902
+This is a typewriter,
+
+00:07:11.436 --> 00:07:14.055
+a staple of every desktop for decades.
+
+00:07:14.079 --> 00:07:17.663
+And, in fact, the typewriter
+was essentially deleted by this thing.
+
+00:07:18.243 --> 00:07:21.508
+And then more general versions
+of word processors came about.
+
+00:07:21.532 --> 00:07:24.311
+But ultimately, it was a disruption
+on top of a disruption.
+
+00:07:24.335 --> 00:07:26.403
+It was Bob Metcalfe
+inventing the Ethernet,
+
+00:07:26.427 --> 00:07:28.396
+and the connection of all these computers
+
+00:07:28.420 --> 00:07:30.270
+that fundamentally changed everything.
+
+00:07:30.294 --> 00:07:33.095
+Suddenly we had Netscape, we had Yahoo.
+
+00:07:33.119 --> 00:07:35.976
+And we had, indeed,
+the entire dot-com bubble.
+
+00:07:36.688 --> 00:07:38.568
+(Laughter)
+
+00:07:39.520 --> 00:07:40.743
+Not to worry though,
+
+00:07:40.767 --> 00:07:43.342
+that was quickly rescued
+by the iPod, Facebook
+
+00:07:43.366 --> 00:07:45.469
+and, indeed, Angry Birds.
+
+00:07:45.493 --> 00:07:47.469
+(Laughter)
+
+00:07:47.865 --> 00:07:50.391
+Look, this is where we are today.
+
+00:07:50.415 --> 00:07:53.205
+This is the genomic revolution today.
+This is where we are.
+
+00:07:53.229 --> 00:07:54.809
+What I'd like you to consider is:
+
+00:07:54.833 --> 00:07:56.238
+What does it mean
+
+00:07:56.262 --> 00:07:59.619
+when these dots don't represent
+the individual bases of your genome,
+
+00:07:59.643 --> 00:08:02.494
+but they connect to genomes
+all across the planet?
+
+00:08:02.518 --> 00:08:06.106
+I just recently had to buy life insurance,
+and I was required to answer:
+
+00:08:06.130 --> 00:08:08.261
+A. I have never had a genetic test;
+
+00:08:08.285 --> 00:08:09.768
+B. I've had one, here you go;
+
+00:08:09.792 --> 00:08:11.737
+or C. I've had one and I'm not telling.
+
+00:08:11.761 --> 00:08:13.477
+Thankfully, I was able to answer A,
+
+00:08:13.501 --> 00:08:17.049
+and I say that honestly, in case
+my life insurance agent is listening.
+
+00:08:17.073 --> 00:08:19.472
+But what would have happened
+if I had said C?
+
+00:08:19.496 --> 00:08:21.897
+Consumer applications
+for genomics will flourish.
+
+00:08:21.921 --> 00:08:24.370
+Do you want to see
+if you're genetically compatible
+
+00:08:24.394 --> 00:08:25.624
+with your girlfriend?
+
+00:08:25.648 --> 00:08:28.611
+DNA sequencing on your iPhone?
+There's an app for that.
+
+00:08:28.635 --> 00:08:29.976
+(Laughter)
+
+00:08:30.445 --> 00:08:32.730
+Personalized genomic massage, anyone?
+
+00:08:33.778 --> 00:08:38.345
+There's already a lab today that tests
+for allele 334 of the AVPR1 gene,
+
+00:08:38.369 --> 00:08:39.753
+the so-called cheating gene.
+
+00:08:39.777 --> 00:08:41.792
+(Laughter)
+
+00:08:41.816 --> 00:08:44.443
+So anybody who's here today
+with your significant other,
+
+00:08:44.467 --> 00:08:47.334
+just turn over to them,
+swab their mouth, send it to the lab
+
+00:08:47.358 --> 00:08:48.627
+and you'll know for sure.
+
+00:08:48.651 --> 00:08:49.762
+(Laughter)
+
+00:08:49.786 --> 00:08:51.728
+Do you really want to elect a president
+
+00:08:51.752 --> 00:08:54.014
+whose genome suggests cardiomyopathy?
+
+00:08:54.038 --> 00:08:55.898
+Think of it -- it's 2016,
+
+00:08:55.922 --> 00:08:57.628
+and the leading candidate releases
+
+00:08:57.652 --> 00:08:59.734
+not only her four years
+of back-tax returns,
+
+00:08:59.758 --> 00:09:01.211
+but also her personal genome.
+
+00:09:01.235 --> 00:09:02.445
+And it looks really good.
+
+00:09:02.469 --> 00:09:05.065
+Then she challenges all
+her competitors to do the same.
+
+00:09:05.089 --> 00:09:07.024
+Do you think that's not going to happen?
+
+00:09:07.048 --> 00:09:09.282
+Do you think it would have
+helped John McCain?
+
+00:09:09.306 --> 00:09:11.099
+(Laughter)
+
+00:09:11.123 --> 00:09:14.341
+How many people in the audience
+have the last name Resnick, like me?
+
+00:09:14.365 --> 00:09:15.523
+Raise your hand.
+
+00:09:15.547 --> 00:09:16.720
+Anybody? Nobody.
+
+00:09:17.175 --> 00:09:18.620
+Typically, there's one or two.
+
+00:09:18.644 --> 00:09:21.197
+So my father's father
+was one of 10 Resnick brothers.
+
+00:09:21.221 --> 00:09:25.306
+They all hated each other, and all moved
+to different parts of the planet.
+
+00:09:25.330 --> 00:09:28.249
+So it's likely I'm related
+to every Resnick that I ever meet,
+
+00:09:28.273 --> 00:09:29.424
+but I don't know.
+
+00:09:29.448 --> 00:09:32.485
+So imagine if my genome
+were De-identified, sitting in software,
+
+00:09:32.509 --> 00:09:34.893
+And a third cousin's genome
+was also sitting there,
+
+00:09:34.917 --> 00:09:37.218
+and there was software
+that could compare the two
+
+00:09:37.242 --> 00:09:38.599
+and make these associations.
+
+00:09:38.623 --> 00:09:41.931
+Not hard to imagine. My company
+has software that does this right now.
+
+00:09:41.955 --> 00:09:43.123
+Imagine one more thing,
+
+00:09:43.147 --> 00:09:46.382
+that that software is able to ask
+both parties for mutual consent:
+
+00:09:46.406 --> 00:09:48.731
+"Would you be willing
+to meet your third cousin?"
+
+00:09:48.755 --> 00:09:50.405
+And if we both say yes -- voilà!
+
+00:09:50.429 --> 00:09:52.206
+Welcome to Chromosomally LinkedIn.
+
+00:09:52.230 --> 00:09:55.455
+(Laughter)
+
+00:09:56.548 --> 00:09:58.541
+Now this is probably a good thing, right?
+
+00:09:58.565 --> 00:10:00.153
+Bigger clan gatherings and so on.
+
+00:10:00.177 --> 00:10:01.878
+But maybe it's a bad thing as well.
+
+00:10:01.902 --> 00:10:04.183
+How many fathers in the room?
+Raise your hands.
+
+00:10:04.207 --> 00:10:07.535
+OK, so experts think
+that one to three percent of you
+
+00:10:07.559 --> 00:10:09.662
+are not actually the father of your child.
+
+00:10:09.686 --> 00:10:11.440
+(Laughter)
+
+00:10:11.464 --> 00:10:12.640
+Look --
+
+00:10:12.664 --> 00:10:16.640
+(Laughter)
+
+00:10:17.611 --> 00:10:19.976
+These genomes, these 23 chromosomes,
+
+00:10:20.000 --> 00:10:23.365
+they don't in any way represent
+the quality of our relationships
+
+00:10:23.389 --> 00:10:26.082
+or the nature of our society --
+at least not yet.
+
+00:10:26.106 --> 00:10:27.901
+And like any new technology,
+
+00:10:27.925 --> 00:10:29.714
+it's really in humanity's hands
+
+00:10:29.738 --> 00:10:31.936
+to wield it for the betterment of mankind
+
+00:10:31.960 --> 00:10:33.111
+or not.
+
+00:10:33.135 --> 00:10:35.358
+And so I urge you all
+to wake up and to tune in
+
+00:10:35.382 --> 00:10:38.778
+and to influence the genomic revolution
+that's happening all around you.
+
+00:10:38.802 --> 00:10:39.953
+Thank you.
+
+00:10:39.977 --> 00:10:42.420
+(Applause)
+

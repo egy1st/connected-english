@@ -1,0 +1,527 @@
+WEBVTT
+
+00:00:01.725 --> 00:00:04.642
+Hi. I'm here to talk about congestion,
+
+00:00:04.642 --> 00:00:05.996
+namely road congestion.
+
+00:00:05.996 --> 00:00:08.257
+Road congestion is a pervasive phenomenon.
+
+00:00:08.257 --> 00:00:11.117
+It exists in basically all of the cities all around the world,
+
+00:00:11.117 --> 00:00:13.065
+which is a little bit surprising when you think about it.
+
+00:00:13.065 --> 00:00:16.028
+I mean, think about how different cities are, actually.
+
+00:00:16.028 --> 00:00:17.790
+I mean, you have the typical European cities,
+
+00:00:17.790 --> 00:00:20.782
+with a dense urban core, good public transportation
+
+00:00:20.782 --> 00:00:23.237
+mostly, not a lot of road capacity.
+
+00:00:23.237 --> 00:00:25.686
+But then, on the other hand, you have the American cities.
+
+00:00:25.686 --> 00:00:28.477
+It's moving by itself, okay.
+
+00:00:28.477 --> 00:00:31.483
+Anyway, the American cities:
+
+00:00:31.483 --> 00:00:34.411
+lots of roads dispersed over large areas,
+
+00:00:34.411 --> 00:00:35.870
+almost no public transportation.
+
+00:00:35.870 --> 00:00:38.080
+And then you have the emerging world cities,
+
+00:00:38.080 --> 00:00:39.606
+with a mixed variety of vehicles,
+
+00:00:39.606 --> 00:00:42.148
+mixed land-use patterns, also rather dispersed
+
+00:00:42.148 --> 00:00:44.747
+but often with a very dense urban core.
+
+00:00:44.747 --> 00:00:47.149
+And traffic planners all around the world have tried
+
+00:00:47.149 --> 00:00:50.803
+lots of different measures: dense cities or dispersed cities,
+
+00:00:50.803 --> 00:00:53.354
+lots of roads or lots of public transport
+
+00:00:53.354 --> 00:00:56.140
+or lots of bike lanes or more information,
+
+00:00:56.140 --> 00:00:59.934
+or lots of different things, but nothing seems to work.
+
+00:00:59.934 --> 00:01:02.937
+But all of these attempts have one thing in common.
+
+00:01:02.937 --> 00:01:05.288
+They're basically attempts at figuring out
+
+00:01:05.288 --> 00:01:08.615
+what people should do instead of rush hour car driving.
+
+00:01:08.615 --> 00:01:11.727
+They're essentially, to a point, attempts at planning
+
+00:01:11.727 --> 00:01:14.929
+what other people should do, planning their life for them.
+
+00:01:14.929 --> 00:01:17.381
+Now, planning a complex social system
+
+00:01:17.381 --> 00:01:20.456
+is a very hard thing to do, and let me tell you a story.
+
+00:01:20.456 --> 00:01:23.183
+Back in 1989, when the Berlin Wall fell,
+
+00:01:23.183 --> 00:01:25.805
+an urban planner in London got a phone call
+
+00:01:25.805 --> 00:01:28.355
+from a colleague in Moscow saying, basically,
+
+00:01:28.355 --> 00:01:30.873
+"Hi, this is Vladimir. I'd like to know,
+
+00:01:30.873 --> 00:01:33.895
+who's in charge of London's bread supply?"
+
+00:01:33.895 --> 00:01:35.548
+And the urban planner in London goes,
+
+00:01:35.548 --> 00:01:37.518
+"What do you mean, who's in charge of London's —
+
+00:01:37.518 --> 00:01:38.789
+I mean, no one is in charge."
+
+00:01:38.789 --> 00:01:40.671
+"Oh, but surely someone must be in charge.
+
+00:01:40.671 --> 00:01:44.327
+I mean, it's a very complicated system. Someone must control all of this."
+
+00:01:44.327 --> 00:01:47.433
+"No. No. No one is in charge.
+
+00:01:47.433 --> 00:01:50.034
+I mean, it basically -- I haven't really thought of it.
+
+00:01:50.034 --> 00:01:52.623
+It basically organizes itself."
+
+00:01:52.623 --> 00:01:55.200
+It organizes itself.
+
+00:01:55.200 --> 00:01:58.043
+That's an example of a complex social system
+
+00:01:58.043 --> 00:02:00.771
+which has the ability of self-organizing,
+
+00:02:00.771 --> 00:02:03.359
+and this is a very deep insight.
+
+00:02:03.359 --> 00:02:06.672
+When you try to solve really complex social problems,
+
+00:02:06.672 --> 00:02:08.388
+the right thing to do is most of the time
+
+00:02:08.388 --> 00:02:09.979
+to create the incentives.
+
+00:02:09.979 --> 00:02:11.923
+You don't plan the details,
+
+00:02:11.923 --> 00:02:14.543
+and people will figure out what to do,
+
+00:02:14.543 --> 00:02:16.403
+how to adapt to this new framework.
+
+00:02:16.403 --> 00:02:19.894
+And let's now look at how we can use this insight
+
+00:02:19.894 --> 00:02:21.530
+to combat road congestion.
+
+00:02:21.530 --> 00:02:23.762
+This is a map of Stockholm, my hometown.
+
+00:02:23.762 --> 00:02:27.403
+Now, Stockholm is a medium-sized city, roughly two million people,
+
+00:02:27.403 --> 00:02:30.192
+but Stockholm also has lots of water and lots of water
+
+00:02:30.192 --> 00:02:33.469
+means lots of bridges -- narrow bridges, old bridges --
+
+00:02:33.469 --> 00:02:36.504
+which means lots of road congestion.
+
+00:02:36.504 --> 00:02:40.144
+And these red dots show the most congested parts,
+
+00:02:40.144 --> 00:02:42.721
+which are the bridges that lead into the inner city.
+
+00:02:42.721 --> 00:02:45.247
+And then someone came up with the idea that,
+
+00:02:45.247 --> 00:02:47.084
+apart from good public transport,
+
+00:02:47.084 --> 00:02:49.685
+apart from spending money on roads,
+
+00:02:49.685 --> 00:02:53.900
+let's try to charge drivers one or two euros at these bottlenecks.
+
+00:02:53.900 --> 00:02:56.824
+Now, one or two euros, that isn't really a lot of money,
+
+00:02:56.824 --> 00:02:59.481
+I mean compared to parking charges and running costs, etc.,
+
+00:02:59.481 --> 00:03:02.199
+so you would probably expect that car drivers
+
+00:03:02.199 --> 00:03:04.637
+wouldn't really react to this fairly small charge.
+
+00:03:04.637 --> 00:03:05.937
+You would be wrong.
+
+00:03:05.937 --> 00:03:09.965
+One or two euros was enough to make 20 percent of cars
+
+00:03:09.965 --> 00:03:12.349
+disappear from rush hours.
+
+00:03:12.349 --> 00:03:15.900
+Now, 20 percent, well, that's a fairly huge figure, you might think,
+
+00:03:15.900 --> 00:03:18.107
+but you've still got 80 percent left of the problem, right?
+
+00:03:18.107 --> 00:03:19.976
+Because you still have 80 percent of the traffic.
+
+00:03:19.976 --> 00:03:23.243
+Now, that's also wrong, because traffic happens to be
+
+00:03:23.243 --> 00:03:25.935
+a nonlinear phenomenon, meaning that
+
+00:03:25.935 --> 00:03:29.076
+once you reach above a certain capacity threshold
+
+00:03:29.076 --> 00:03:32.244
+then congestion starts to increase really, really rapidly.
+
+00:03:32.244 --> 00:03:34.704
+But fortunately, it also works the other way around.
+
+00:03:34.704 --> 00:03:38.035
+If you can reduce traffic even somewhat, then congestion
+
+00:03:38.035 --> 00:03:41.664
+will go down much faster than you might think.
+
+00:03:41.664 --> 00:03:44.555
+Now, congestion charges were introduced in Stockholm
+
+00:03:44.555 --> 00:03:49.159
+on January 3, 2006, and the first picture here is a picture
+
+00:03:49.159 --> 00:03:53.142
+of Stockholm, one of the typical streets, January 2.
+
+00:03:53.142 --> 00:03:56.955
+The first day with the congestion charges looked like this.
+
+00:03:56.955 --> 00:03:59.875
+This is what happens when you take away
+
+00:03:59.875 --> 00:04:01.940
+20 percent of the cars from the streets.
+
+00:04:01.940 --> 00:04:04.650
+You really reduce congestion quite substantially.
+
+00:04:04.650 --> 00:04:08.308
+But, well, as I said, I mean, car drivers adapt, right?
+
+00:04:08.308 --> 00:04:10.810
+So after a while they would all come back because they
+
+00:04:10.810 --> 00:04:12.758
+have sort of gotten used to charges.
+
+00:04:12.758 --> 00:04:16.434
+Wrong again. It's now six and a half years ago
+
+00:04:16.434 --> 00:04:18.417
+since the congestion charges were introduced in Stockholm,
+
+00:04:18.417 --> 00:04:22.406
+and we basically have the same low traffic levels still.
+
+00:04:22.406 --> 00:04:24.677
+But you see, there's an interesting gap here in the time series
+
+00:04:24.677 --> 00:04:26.140
+in 2007.
+
+00:04:26.140 --> 00:04:28.529
+Well, the thing is that, the congestion charges,
+
+00:04:28.529 --> 00:04:31.625
+they were introduced first as a trial, so they were introduced
+
+00:04:31.625 --> 00:04:35.594
+in January and then abolished again at the end of July,
+
+00:04:35.594 --> 00:04:38.188
+followed by a referendum, and then they were reintroduced
+
+00:04:38.188 --> 00:04:42.388
+again in 2007, which of course was a wonderful scientific opportunity.
+
+00:04:42.388 --> 00:04:46.525
+I mean, this was a really fun experiment to start with,
+
+00:04:46.525 --> 00:04:48.306
+and we actually got to do it twice.
+
+00:04:48.306 --> 00:04:50.415
+And personally, I would like to do this every once a year or so,
+
+00:04:50.415 --> 00:04:51.903
+but they won't let me do that.
+
+00:04:51.903 --> 00:04:54.088
+But it was fun anyway.
+
+00:04:54.088 --> 00:04:57.473
+So, we followed up. What happened?
+
+00:04:57.473 --> 00:05:01.339
+This is the last day with the congestion charges, July 31,
+
+00:05:01.339 --> 00:05:03.117
+and you see the same street but now it's summer,
+
+00:05:03.117 --> 00:05:04.861
+and summer in Stockholm is a very nice
+
+00:05:04.861 --> 00:05:07.111
+and light time of the year,
+
+00:05:07.111 --> 00:05:09.954
+and the first day without the congestion charges
+
+00:05:09.954 --> 00:05:11.321
+looked like this.
+
+00:05:11.321 --> 00:05:13.984
+All the cars were back again, and you even have to admire
+
+00:05:13.984 --> 00:05:16.894
+the car drivers. They adapt so extremely quickly.
+
+00:05:16.894 --> 00:05:19.141
+The first day they all came back.
+
+00:05:19.141 --> 00:05:24.491
+And this effect hanged on. So 2007 figures looked like this.
+
+00:05:24.491 --> 00:05:26.822
+Now these traffic figures are really exciting
+
+00:05:26.822 --> 00:05:29.473
+and a little bit surprising and very useful to know,
+
+00:05:29.473 --> 00:05:32.232
+but I would say that the most surprising slide here
+
+00:05:32.232 --> 00:05:36.262
+I'm going to show you today is not this one. It's this one.
+
+00:05:36.262 --> 00:05:39.593
+This shows public support for congestion pricing of Stockholm,
+
+00:05:39.593 --> 00:05:42.262
+and you see that when congestion pricing were introduced
+
+00:05:42.262 --> 00:05:46.579
+in the beginning of Spring 2006, people were fiercely against it.
+
+00:05:46.579 --> 00:05:49.607
+Seventy percent of the population didn't want this.
+
+00:05:49.607 --> 00:05:51.255
+But what happened when the congestion charges
+
+00:05:51.255 --> 00:05:54.716
+were there is not what you would expect, that people hated it more and more.
+
+00:05:54.716 --> 00:05:57.869
+No, on the contrary, they changed, up to a point
+
+00:05:57.869 --> 00:06:01.570
+where we now have 70 percent support for keeping the charges,
+
+00:06:01.570 --> 00:06:03.411
+meaning that -- I mean, let me repeat that:
+
+00:06:03.411 --> 00:06:06.218
+70 percent of the population in Stockholm
+
+00:06:06.218 --> 00:06:10.211
+want to keep a price for something that used to be free.
+
+00:06:10.211 --> 00:06:13.837
+Okay. So why can that be? Why is that?
+
+00:06:13.837 --> 00:06:16.837
+Well, think about it this way. Who changed?
+
+00:06:16.837 --> 00:06:19.463
+I mean, the 20 percent of the car drivers that disappeared,
+
+00:06:19.463 --> 00:06:21.408
+surely they must be discontent in a way.
+
+00:06:21.408 --> 00:06:23.742
+And where did they go? If we can understand this,
+
+00:06:23.742 --> 00:06:27.872
+then maybe we can figure out how people can be so happy with this.
+
+00:06:27.872 --> 00:06:30.274
+Well, so we did this huge interview survey
+
+00:06:30.274 --> 00:06:32.109
+with lots of travel services, and tried to figure out
+
+00:06:32.109 --> 00:06:33.864
+who changed, and where did they go?
+
+00:06:33.864 --> 00:06:38.278
+And it turned out that they don't know themselves. (Laughter)
+
+00:06:38.278 --> 00:06:43.126
+For some reason, the car drivers are --
+
+00:06:43.126 --> 00:06:46.622
+they are confident they actually drive the same way that they used to do.
+
+00:06:46.622 --> 00:06:48.878
+And why is that? It's because that travel patterns
+
+00:06:48.878 --> 00:06:51.277
+are much less stable than you might think.
+
+00:06:51.277 --> 00:06:54.108
+Each day, people make new decisions, and people change
+
+00:06:54.108 --> 00:06:56.533
+and the world changes around them, and each day
+
+00:06:56.533 --> 00:06:59.786
+all of these decisions are sort of nudged ever so slightly
+
+00:06:59.786 --> 00:07:01.753
+away from rush hour car driving
+
+00:07:01.753 --> 00:07:04.337
+in a way that people don't even notice.
+
+00:07:04.337 --> 00:07:06.382
+They're not even aware of this themselves.
+
+00:07:06.382 --> 00:07:09.183
+And the other question, who changed their mind?
+
+00:07:09.183 --> 00:07:11.149
+Who changed their opinion, and why?
+
+00:07:11.149 --> 00:07:13.675
+So we did another interview survey, tried to figure out
+
+00:07:13.675 --> 00:07:18.051
+why people changed their mind, and what type of group changed their minds?
+
+00:07:18.051 --> 00:07:20.944
+And after analyzing the answers, it turned out that
+
+00:07:20.944 --> 00:07:24.829
+more than half of them believe that they haven't changed their minds.
+
+00:07:24.829 --> 00:07:27.116
+They're actually confident that they have
+
+00:07:27.116 --> 00:07:29.805
+liked congestion pricing all along.
+
+00:07:29.805 --> 00:07:31.524
+Which means that we are now in a position
+
+00:07:31.524 --> 00:07:34.517
+where we have reduced traffic across this toll cordon
+
+00:07:34.517 --> 00:07:37.728
+with 20 percent, and reduced congestion by enormous numbers,
+
+00:07:37.728 --> 00:07:41.275
+and people aren't even aware that they have changed,
+
+00:07:41.275 --> 00:07:45.186
+and they honestly believe that they have liked this all along.
+
+00:07:45.186 --> 00:07:48.660
+This is the power of nudges when trying to solve
+
+00:07:48.660 --> 00:07:51.292
+complex social problems, and when you do that,
+
+00:07:51.292 --> 00:07:54.922
+you shouldn't try to tell people how to adapt.
+
+00:07:54.922 --> 00:07:57.109
+You should just nudge them in the right direction.
+
+00:07:57.109 --> 00:07:58.831
+And if you do it right,
+
+00:07:58.831 --> 00:08:00.883
+people will actually embrace the change,
+
+00:08:00.883 --> 00:08:03.945
+and if you do it right, people will actually even like it.
+
+00:08:03.945 --> 00:08:07.270
+Thank you. (Applause)
+

@@ -1,0 +1,502 @@
+WEBVTT
+
+00:00:00.825 --> 00:00:01.976
+Ten years ago,
+
+00:00:02.000 --> 00:00:04.776
+computer vision researchers
+thought that getting a computer
+
+00:00:04.800 --> 00:00:07.496
+to tell the difference
+between a cat and a dog
+
+00:00:07.520 --> 00:00:09.496
+would be almost impossible,
+
+00:00:09.520 --> 00:00:13.216
+even with the significant advance
+in the state of artificial intelligence.
+
+00:00:13.240 --> 00:00:16.800
+Now we can do it at a level
+greater than 99 percent accuracy.
+
+00:00:17.680 --> 00:00:19.536
+This is called image classification --
+
+00:00:19.560 --> 00:00:22.656
+give it an image,
+put a label to that image --
+
+00:00:22.680 --> 00:00:25.720
+and computers know
+thousands of other categories as well.
+
+00:00:26.680 --> 00:00:29.576
+I'm a graduate student
+at the University of Washington,
+
+00:00:29.600 --> 00:00:31.496
+and I work on a project called Darknet,
+
+00:00:31.520 --> 00:00:33.216
+which is a neural network framework
+
+00:00:33.240 --> 00:00:36.056
+for training and testing
+computer vision models.
+
+00:00:36.080 --> 00:00:39.056
+So let's just see what Darknet thinks
+
+00:00:39.080 --> 00:00:40.840
+of this image that we have.
+
+00:00:42.520 --> 00:00:44.856
+When we run our classifier
+
+00:00:44.880 --> 00:00:46.096
+on this image,
+
+00:00:46.120 --> 00:00:48.576
+we see we don't just get
+a prediction of dog or cat,
+
+00:00:48.600 --> 00:00:50.936
+we actually get
+specific breed predictions.
+
+00:00:50.960 --> 00:00:53.136
+That's the level
+of granularity we have now.
+
+00:00:53.160 --> 00:00:54.776
+And it's correct.
+
+00:00:54.800 --> 00:00:56.640
+My dog is in fact a malamute.
+
+00:00:57.040 --> 00:01:01.376
+So we've made amazing strides
+in image classification,
+
+00:01:01.400 --> 00:01:03.400
+but what happens
+when we run our classifier
+
+00:01:03.424 --> 00:01:05.384
+on an image that looks like this?
+
+00:01:07.080 --> 00:01:08.280
+Well ...
+
+00:01:12.640 --> 00:01:16.536
+We see that the classifier comes back
+with a pretty similar prediction.
+
+00:01:16.560 --> 00:01:19.656
+And it's correct,
+there is a malamute in the image,
+
+00:01:19.680 --> 00:01:23.376
+but just given this label,
+we don't actually know that much
+
+00:01:23.400 --> 00:01:25.067
+about what's going on in the image.
+
+00:01:25.091 --> 00:01:26.651
+We need something more powerful.
+
+00:01:27.240 --> 00:01:29.856
+I work on a problem
+called object detection,
+
+00:01:29.880 --> 00:01:32.816
+where we look at an image
+and try to find all of the objects,
+
+00:01:32.840 --> 00:01:34.296
+put bounding boxes around them
+
+00:01:34.320 --> 00:01:35.840
+and say what those objects are.
+
+00:01:36.400 --> 00:01:39.680
+So here's what happens
+when we run a detector on this image.
+
+00:01:41.240 --> 00:01:43.496
+Now, with this kind of result,
+
+00:01:43.520 --> 00:01:46.216
+we can do a lot more
+with our computer vision algorithms.
+
+00:01:46.240 --> 00:01:49.216
+We see that it knows
+that there's a cat and a dog.
+
+00:01:49.240 --> 00:01:51.496
+It knows their relative locations,
+
+00:01:51.520 --> 00:01:52.736
+their size.
+
+00:01:52.760 --> 00:01:54.696
+It may even know some extra information.
+
+00:01:54.720 --> 00:01:56.680
+There's a book sitting in the background.
+
+00:01:57.280 --> 00:02:00.536
+And if you want to build a system
+on top of computer vision,
+
+00:02:00.560 --> 00:02:04.016
+say a self-driving vehicle
+or a robotic system,
+
+00:02:04.040 --> 00:02:06.496
+this is the kind
+of information that you want.
+
+00:02:06.520 --> 00:02:09.759
+You want something so that
+you can interact with the physical world.
+
+00:02:10.759 --> 00:02:13.016
+Now, when I started working
+on object detection,
+
+00:02:13.040 --> 00:02:16.336
+it took 20 seconds
+to process a single image.
+
+00:02:16.360 --> 00:02:20.240
+And to get a feel for why
+speed is so important in this domain,
+
+00:02:21.120 --> 00:02:23.656
+here's an example of an object detector
+
+00:02:23.680 --> 00:02:26.096
+that takes two seconds
+to process an image.
+
+00:02:26.120 --> 00:02:28.736
+So this is 10 times faster
+
+00:02:28.760 --> 00:02:32.296
+than the 20-seconds-per-image detector,
+
+00:02:32.320 --> 00:02:34.976
+and you can see that by the time
+it makes predictions,
+
+00:02:35.000 --> 00:02:37.040
+the entire state of the world has changed,
+
+00:02:37.880 --> 00:02:40.296
+and this wouldn't be very useful
+
+00:02:40.320 --> 00:02:41.736
+for an application.
+
+00:02:41.760 --> 00:02:44.256
+If we speed this up
+by another factor of 10,
+
+00:02:44.280 --> 00:02:47.096
+this is a detector running
+at five frames per second.
+
+00:02:47.120 --> 00:02:48.656
+This is a lot better,
+
+00:02:48.680 --> 00:02:50.656
+but for example,
+
+00:02:50.680 --> 00:02:52.976
+if there's any significant movement,
+
+00:02:53.000 --> 00:02:55.560
+I wouldn't want a system
+like this driving my car.
+
+00:02:57.120 --> 00:03:00.360
+This is our detection system
+running in real time on my laptop.
+
+00:03:01.000 --> 00:03:04.136
+So it smoothly tracks me
+as I move around the frame,
+
+00:03:04.160 --> 00:03:07.880
+and it's robust to a wide variety
+of changes in size,
+
+00:03:09.440 --> 00:03:10.640
+pose,
+
+00:03:11.280 --> 00:03:13.136
+forward, backward.
+
+00:03:13.160 --> 00:03:14.376
+This is great.
+
+00:03:14.400 --> 00:03:16.136
+This is what we really need
+
+00:03:16.160 --> 00:03:19.056
+if we're going to build systems
+on top of computer vision.
+
+00:03:19.080 --> 00:03:23.080
+(Applause)
+
+00:03:24.280 --> 00:03:26.456
+So in just a few years,
+
+00:03:26.480 --> 00:03:29.136
+we've gone from 20 seconds per image
+
+00:03:29.160 --> 00:03:32.696
+to 20 milliseconds per image,
+a thousand times faster.
+
+00:03:32.720 --> 00:03:34.136
+How did we get there?
+
+00:03:34.160 --> 00:03:37.176
+Well, in the past,
+object detection systems
+
+00:03:37.200 --> 00:03:39.136
+would take an image like this
+
+00:03:39.160 --> 00:03:41.616
+and split it into a bunch of regions
+
+00:03:41.640 --> 00:03:44.896
+and then run a classifier
+on each of these regions,
+
+00:03:44.920 --> 00:03:47.456
+and high scores for that classifier
+
+00:03:47.480 --> 00:03:50.616
+would be considered
+detections in the image.
+
+00:03:50.640 --> 00:03:54.696
+But this involved running a classifier
+thousands of times over an image,
+
+00:03:54.720 --> 00:03:57.640
+thousands of neural network evaluations
+to produce detection.
+
+00:03:59.240 --> 00:04:03.776
+Instead, we trained a single network
+to do all of detection for us.
+
+00:04:03.800 --> 00:04:08.080
+It produces all of the bounding boxes
+and class probabilities simultaneously.
+
+00:04:08.680 --> 00:04:12.176
+With our system, instead of looking
+at an image thousands of times
+
+00:04:12.200 --> 00:04:13.656
+to produce detection,
+
+00:04:13.680 --> 00:04:14.936
+you only look once,
+
+00:04:14.960 --> 00:04:17.880
+and that's why we call it
+the YOLO method of object detection.
+
+00:04:19.360 --> 00:04:23.336
+So with this speed,
+we're not just limited to images;
+
+00:04:23.360 --> 00:04:25.776
+we can process video in real time.
+
+00:04:25.800 --> 00:04:28.896
+And now, instead of just seeing
+that cat and dog,
+
+00:04:28.920 --> 00:04:31.880
+we can see them move around
+and interact with each other.
+
+00:04:34.560 --> 00:04:36.616
+This is a detector that we trained
+
+00:04:36.640 --> 00:04:41.016
+on 80 different classes
+
+00:04:41.040 --> 00:04:44.296
+in Microsoft's COCO dataset.
+
+00:04:44.320 --> 00:04:47.656
+It has all sorts of things
+like spoon and fork, bowl,
+
+00:04:47.680 --> 00:04:49.480
+common objects like that.
+
+00:04:50.360 --> 00:04:53.456
+It has a variety of more exotic things:
+
+00:04:53.480 --> 00:04:56.736
+animals, cars, zebras, giraffes.
+
+00:04:56.760 --> 00:04:58.696
+And now we're going to do something fun.
+
+00:04:58.720 --> 00:05:00.816
+We're just going to go
+out into the audience
+
+00:05:00.840 --> 00:05:02.856
+and see what kind of things we can detect.
+
+00:05:02.880 --> 00:05:04.500
+Does anyone want a stuffed animal?
+
+00:05:06.000 --> 00:05:07.762
+There are some teddy bears out there.
+
+00:05:10.040 --> 00:05:14.576
+And we can turn down
+our threshold for detection a little bit,
+
+00:05:14.600 --> 00:05:18.000
+so we can find more of you guys
+out in the audience.
+
+00:05:19.560 --> 00:05:21.896
+Let's see if we can get these stop signs.
+
+00:05:21.920 --> 00:05:23.800
+We find some backpacks.
+
+00:05:25.880 --> 00:05:27.720
+Let's just zoom in a little bit.
+
+00:05:30.320 --> 00:05:31.576
+And this is great.
+
+00:05:31.600 --> 00:05:34.776
+And all of the processing
+is happening in real time
+
+00:05:34.800 --> 00:05:36.000
+on the laptop.
+
+00:05:37.080 --> 00:05:38.536
+And it's important to remember
+
+00:05:38.560 --> 00:05:41.776
+that this is a general purpose
+object detection system,
+
+00:05:41.800 --> 00:05:46.800
+so we can train this for any image domain.
+
+00:05:48.320 --> 00:05:50.856
+The same code that we use
+
+00:05:50.880 --> 00:05:53.336
+to find stop signs or pedestrians,
+
+00:05:53.360 --> 00:05:55.336
+bicycles in a self-driving vehicle,
+
+00:05:55.360 --> 00:05:58.216
+can be used to find cancer cells
+
+00:05:58.240 --> 00:06:01.256
+in a tissue biopsy.
+
+00:06:01.280 --> 00:06:05.320
+And there are researchers around the globe
+already using this technology
+
+00:06:06.240 --> 00:06:09.656
+for advances in things
+like medicine, robotics.
+
+00:06:09.680 --> 00:06:11.056
+This morning, I read a paper
+
+00:06:11.080 --> 00:06:15.656
+where they were taking a census
+of animals in Nairobi National Park
+
+00:06:15.680 --> 00:06:18.816
+with YOLO as part
+of this detection system.
+
+00:06:18.840 --> 00:06:21.936
+And that's because Darknet is open source
+
+00:06:21.960 --> 00:06:24.480
+and in the public domain,
+free for anyone to use.
+
+00:06:25.600 --> 00:06:31.296
+(Applause)
+
+00:06:31.320 --> 00:06:36.256
+But we wanted to make detection
+even more accessible and usable,
+
+00:06:36.280 --> 00:06:40.336
+so through a combination
+of model optimization,
+
+00:06:40.360 --> 00:06:42.656
+network binarization and approximation,
+
+00:06:42.680 --> 00:06:46.600
+we actually have object detection
+running on a phone.
+
+00:06:52.800 --> 00:06:58.120
+(Applause)
+
+00:06:58.960 --> 00:07:04.016
+And I'm really excited because
+now we have a pretty powerful solution
+
+00:07:04.040 --> 00:07:06.336
+to this low-level computer vision problem,
+
+00:07:06.360 --> 00:07:10.216
+and anyone can take it
+and build something with it.
+
+00:07:10.240 --> 00:07:13.416
+So now the rest is up to all of you
+
+00:07:13.440 --> 00:07:16.376
+and people around the world
+with access to this software,
+
+00:07:16.400 --> 00:07:20.056
+and I can't wait to see what people
+will build with this technology.
+
+00:07:20.080 --> 00:07:21.296
+Thank you.
+
+00:07:21.320 --> 00:07:24.760
+(Applause)
+

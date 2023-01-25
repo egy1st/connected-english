@@ -1,0 +1,709 @@
+WEBVTT
+
+00:00:00.850 --> 00:00:02.753
+So, has everybody heard of CRISPR?
+
+00:00:03.883 --> 00:00:06.485
+I would be shocked if you hadn't.
+
+00:00:06.509 --> 00:00:09.711
+This is a technology --
+it's for genome editing --
+
+00:00:09.735 --> 00:00:12.569
+and it's so versatile and so controversial
+
+00:00:12.593 --> 00:00:15.834
+that it's sparking all sorts
+of really interesting conversations.
+
+00:00:16.631 --> 00:00:18.694
+Should we bring back the woolly mammoth?
+
+00:00:19.281 --> 00:00:21.575
+Should we edit a human embryo?
+
+00:00:22.041 --> 00:00:24.163
+And my personal favorite:
+
+00:00:24.997 --> 00:00:28.648
+How can we justify
+wiping out an entire species
+
+00:00:28.672 --> 00:00:31.116
+that we consider harmful to humans
+
+00:00:31.140 --> 00:00:32.442
+off the face of the Earth,
+
+00:00:32.466 --> 00:00:33.983
+using this technology?
+
+00:00:35.165 --> 00:00:38.448
+This type of science
+is moving much faster
+
+00:00:38.472 --> 00:00:41.316
+than the regulatory mechanisms
+that govern it.
+
+00:00:41.340 --> 00:00:43.407
+And so, for the past six years,
+
+00:00:43.431 --> 00:00:45.376
+I've made it my personal mission
+
+00:00:45.863 --> 00:00:48.873
+to make sure that as many people
+as possible understand
+
+00:00:48.897 --> 00:00:51.997
+these types of technologies
+and their implications.
+
+00:00:52.021 --> 00:00:56.550
+Now, CRISPR has been the subject
+of a huge media hype,
+
+00:00:57.089 --> 00:01:01.448
+and the words that are used most often
+are "easy" and "cheap."
+
+00:01:02.337 --> 00:01:05.476
+So what I want to do is drill down
+a little bit deeper
+
+00:01:05.500 --> 00:01:09.684
+and look into some of the myths
+and the realities around CRISPR.
+
+00:01:10.954 --> 00:01:12.904
+If you're trying to CRISPR a genome,
+
+00:01:13.594 --> 00:01:16.194
+the first thing that you have to do
+is damage the DNA.
+
+00:01:17.098 --> 00:01:20.140
+The damage comes in the form
+of a double-strand break
+
+00:01:20.164 --> 00:01:21.728
+through the double helix.
+
+00:01:21.752 --> 00:01:24.504
+And then the cellular repair
+processes kick in,
+
+00:01:25.088 --> 00:01:27.727
+and then we convince
+those repair processes
+
+00:01:27.751 --> 00:01:29.627
+to make the edit that we want,
+
+00:01:30.054 --> 00:01:31.596
+and not a natural edit.
+
+00:01:31.620 --> 00:01:32.865
+That's how it works.
+
+00:01:33.929 --> 00:01:35.652
+It's a two-part system.
+
+00:01:35.676 --> 00:01:39.047
+You've got a Cas9 protein
+and something called a guide RNA.
+
+00:01:39.071 --> 00:01:41.533
+I like to think of it as a guided missile.
+
+00:01:41.557 --> 00:01:44.203
+So the Cas9 --
+I love to anthropomorphize --
+
+00:01:44.227 --> 00:01:47.457
+so the Cas9 is kind of this Pac-Man thing
+
+00:01:47.481 --> 00:01:49.026
+that wants to chew DNA,
+
+00:01:49.050 --> 00:01:53.206
+and the guide RNA is the leash
+that's keeping it out of the genome
+
+00:01:53.230 --> 00:01:56.079
+until it finds the exact spot
+where it matches.
+
+00:01:56.912 --> 00:01:59.806
+And the combination of those two
+is called CRISPR.
+
+00:01:59.830 --> 00:02:01.398
+It's a system that we stole
+
+00:02:01.422 --> 00:02:04.316
+from an ancient, ancient
+bacterial immune system.
+
+00:02:05.469 --> 00:02:09.209
+The part that's amazing about it
+is that the guide RNA,
+
+00:02:10.041 --> 00:02:11.932
+only 20 letters of it,
+
+00:02:11.956 --> 00:02:13.594
+are what target the system.
+
+00:02:14.570 --> 00:02:16.713
+This is really easy to design,
+
+00:02:16.737 --> 00:02:18.556
+and it's really cheap to buy.
+
+00:02:18.985 --> 00:02:22.990
+So that's the part
+that is modular in the system;
+
+00:02:23.014 --> 00:02:24.812
+everything else stays the same.
+
+00:02:25.481 --> 00:02:28.912
+This makes it a remarkably easy
+and powerful system to use.
+
+00:02:30.047 --> 00:02:34.287
+The guide RNA and the Cas9
+protein complex together
+
+00:02:34.311 --> 00:02:36.243
+go bouncing along the genome,
+
+00:02:36.267 --> 00:02:39.760
+and when they find a spot
+where the guide RNA matches,
+
+00:02:39.784 --> 00:02:42.639
+then it inserts between the two strands
+of the double helix,
+
+00:02:42.663 --> 00:02:44.231
+it rips them apart,
+
+00:02:44.692 --> 00:02:47.380
+that triggers the Cas9 protein to cut,
+
+00:02:47.962 --> 00:02:49.381
+and all of a sudden,
+
+00:02:49.816 --> 00:02:51.716
+you've got a cell that's in total panic
+
+00:02:51.740 --> 00:02:54.365
+because now it's got a piece
+of DNA that's broken.
+
+00:02:55.000 --> 00:02:56.296
+What does it do?
+
+00:02:56.320 --> 00:02:58.514
+It calls its first responders.
+
+00:02:58.959 --> 00:03:01.581
+There are two major repair pathways.
+
+00:03:01.605 --> 00:03:06.674
+The first just takes the DNA
+and shoves the two pieces back together.
+
+00:03:06.698 --> 00:03:08.796
+This isn't a very efficient system,
+
+00:03:08.820 --> 00:03:11.549
+because what happens is
+sometimes a base drops out
+
+00:03:11.573 --> 00:03:13.000
+or a base is added.
+
+00:03:13.024 --> 00:03:16.817
+It's an OK way to maybe, like,
+knock out a gene,
+
+00:03:16.841 --> 00:03:20.074
+but it's not the way that we really want
+to do genome editing.
+
+00:03:20.098 --> 00:03:22.993
+The second repair pathway
+is a lot more interesting.
+
+00:03:23.017 --> 00:03:24.653
+In this repair pathway,
+
+00:03:24.677 --> 00:03:27.358
+it takes a homologous piece of DNA.
+
+00:03:27.382 --> 00:03:30.022
+And now mind you, in a diploid
+organism like people,
+
+00:03:30.046 --> 00:03:34.294
+we've got one copy of our genome
+from our mom and one from our dad,
+
+00:03:34.318 --> 00:03:35.593
+so if one gets damaged,
+
+00:03:35.617 --> 00:03:38.012
+it can use the other
+chromosome to repair it.
+
+00:03:38.036 --> 00:03:39.669
+So that's where this comes from.
+
+00:03:40.518 --> 00:03:41.982
+The repair is made,
+
+00:03:42.006 --> 00:03:43.957
+and now the genome is safe again.
+
+00:03:44.616 --> 00:03:46.139
+The way that we can hijack this
+
+00:03:46.497 --> 00:03:50.205
+is we can feed it a false piece of DNA,
+
+00:03:50.229 --> 00:03:52.373
+a piece that has homology on both ends
+
+00:03:52.397 --> 00:03:54.096
+but is different in the middle.
+
+00:03:54.120 --> 00:03:56.587
+So now, you can put
+whatever you want in the center
+
+00:03:56.611 --> 00:03:58.126
+and the cell gets fooled.
+
+00:03:58.150 --> 00:04:00.269
+So you can change a letter,
+
+00:04:00.293 --> 00:04:01.558
+you can take letters out,
+
+00:04:01.582 --> 00:04:04.506
+but most importantly,
+you can stuff new DNA in,
+
+00:04:04.530 --> 00:04:06.279
+kind of like a Trojan horse.
+
+00:04:07.089 --> 00:04:09.274
+CRISPR is going to be amazing,
+
+00:04:09.298 --> 00:04:12.916
+in terms of the number of different
+scientific advances
+
+00:04:12.940 --> 00:04:14.597
+that it's going to catalyze.
+
+00:04:14.621 --> 00:04:17.842
+The thing that's special about it
+is this modular targeting system.
+
+00:04:17.866 --> 00:04:21.633
+I mean, we've been shoving DNA
+into organisms for years, right?
+
+00:04:21.657 --> 00:04:23.784
+But because of the modular
+targeting system,
+
+00:04:23.808 --> 00:04:26.233
+we can actually put it
+exactly where we want it.
+
+00:04:27.423 --> 00:04:33.092
+The thing is that there's
+a lot of talk about it being cheap
+
+00:04:33.116 --> 00:04:34.858
+and it being easy.
+
+00:04:34.882 --> 00:04:37.694
+And I run a community lab.
+
+00:04:38.242 --> 00:04:41.798
+I'm starting to get emails from people
+that say stuff like,
+
+00:04:41.822 --> 00:04:44.219
+"Hey, can I come to your open night
+
+00:04:44.243 --> 00:04:47.860
+and, like, maybe use CRISPR
+and engineer my genome?"
+
+00:04:47.884 --> 00:04:48.994
+(Laugher)
+
+00:04:49.018 --> 00:04:50.519
+Like, seriously.
+
+00:04:51.376 --> 00:04:53.179
+I'm, "No, you can't."
+
+00:04:53.203 --> 00:04:54.213
+(Laughter)
+
+00:04:54.237 --> 00:04:56.592
+"But I've heard it's cheap.
+I've heard it's easy."
+
+00:04:56.616 --> 00:04:58.799
+We're going to explore that a little bit.
+
+00:04:58.823 --> 00:05:00.772
+So, how cheap is it?
+
+00:05:00.796 --> 00:05:03.206
+Yeah, it is cheap in comparison.
+
+00:05:03.665 --> 00:05:07.284
+It's going to take the cost of the average
+materials for an experiment
+
+00:05:07.308 --> 00:05:09.840
+from thousands of dollars
+to hundreds of dollars,
+
+00:05:09.864 --> 00:05:11.800
+and it cuts the time a lot, too.
+
+00:05:11.824 --> 00:05:13.904
+It can cut it from weeks to days.
+
+00:05:14.246 --> 00:05:15.738
+That's great.
+
+00:05:15.762 --> 00:05:18.452
+You still need a professional lab
+to do the work in;
+
+00:05:18.476 --> 00:05:21.988
+you're not going to do anything meaningful
+outside of a professional lab.
+
+00:05:22.012 --> 00:05:24.016
+I mean, don't listen to anyone who says
+
+00:05:24.040 --> 00:05:26.771
+you can do this sort of stuff
+on your kitchen table.
+
+00:05:27.421 --> 00:05:31.929
+It's really not easy
+to do this kind of work.
+
+00:05:31.953 --> 00:05:34.261
+Not to mention,
+there's a patent battle going on,
+
+00:05:34.285 --> 00:05:36.111
+so even if you do invent something,
+
+00:05:36.135 --> 00:05:42.771
+the Broad Institute and UC Berkeley
+are in this incredible patent battle.
+
+00:05:42.795 --> 00:05:45.183
+It's really fascinating
+to watch it happen,
+
+00:05:45.207 --> 00:05:48.455
+because they're accusing each other
+of fraudulent claims
+
+00:05:48.479 --> 00:05:50.210
+and then they've got people saying,
+
+00:05:50.234 --> 00:05:53.018
+"Oh, well, I signed
+my notebook here or there."
+
+00:05:53.042 --> 00:05:55.143
+This isn't going to be settled for years.
+
+00:05:55.167 --> 00:05:56.327
+And when it is,
+
+00:05:56.351 --> 00:05:59.636
+you can bet you're going to pay someone
+a really hefty licensing fee
+
+00:05:59.660 --> 00:06:01.009
+in order to use this stuff.
+
+00:06:01.343 --> 00:06:03.124
+So, is it really cheap?
+
+00:06:03.148 --> 00:06:08.347
+Well, it's cheap if you're doing
+basic research and you've got a lab.
+
+00:06:09.220 --> 00:06:11.496
+How about easy?
+Let's look at that claim.
+
+00:06:12.417 --> 00:06:14.905
+The devil is always in the details.
+
+00:06:15.881 --> 00:06:19.012
+We don't really know
+that much about cells.
+
+00:06:19.036 --> 00:06:20.706
+They're still kind of black boxes.
+
+00:06:20.730 --> 00:06:25.590
+For example, we don't know
+why some guide RNAs work really well
+
+00:06:25.614 --> 00:06:27.677
+and some guide RNAs don't.
+
+00:06:27.701 --> 00:06:31.169
+We don't know why some cells
+want to do one repair pathway
+
+00:06:31.193 --> 00:06:33.651
+and some cells would rather do the other.
+
+00:06:34.270 --> 00:06:35.554
+And besides that,
+
+00:06:35.578 --> 00:06:38.447
+there's the whole problem
+of getting the system into the cell
+
+00:06:38.471 --> 00:06:39.735
+in the first place.
+
+00:06:39.759 --> 00:06:41.761
+In a petri dish, that's not that hard,
+
+00:06:41.785 --> 00:06:44.230
+but if you're trying to do it
+on a whole organism,
+
+00:06:44.254 --> 00:06:45.797
+it gets really tricky.
+
+00:06:46.224 --> 00:06:49.410
+It's OK if you use something
+like blood or bone marrow --
+
+00:06:49.434 --> 00:06:51.661
+those are the targets
+of a lot of research now.
+
+00:06:51.685 --> 00:06:53.936
+There was a great story
+of some little girl
+
+00:06:53.960 --> 00:06:55.612
+who they saved from leukemia
+
+00:06:55.636 --> 00:06:58.310
+by taking the blood out, editing it,
+and putting it back
+
+00:06:58.334 --> 00:07:00.383
+with a precursor of CRISPR.
+
+00:07:00.869 --> 00:07:03.665
+And this is a line of research
+that people are going to do.
+
+00:07:03.689 --> 00:07:06.242
+But right now, if you want to get
+into the whole body,
+
+00:07:06.266 --> 00:07:08.410
+you're probably going
+to have to use a virus.
+
+00:07:08.434 --> 00:07:10.807
+So you take the virus,
+you put the CRISPR into it,
+
+00:07:10.831 --> 00:07:12.537
+you let the virus infect the cell.
+
+00:07:12.561 --> 00:07:14.704
+But now you've got this virus in there,
+
+00:07:14.728 --> 00:07:17.416
+and we don't know what the long-term
+effects of that are.
+
+00:07:17.440 --> 00:07:19.708
+Plus, CRISPR has some off-target effects,
+
+00:07:19.732 --> 00:07:22.693
+a very small percentage,
+but they're still there.
+
+00:07:22.717 --> 00:07:25.515
+What's going to happen
+over time with that?
+
+00:07:26.039 --> 00:07:28.251
+These are not trivial questions,
+
+00:07:28.275 --> 00:07:30.915
+and there are scientists
+that are trying to solve them,
+
+00:07:30.939 --> 00:07:33.225
+and they will eventually,
+hopefully, be solved.
+
+00:07:33.249 --> 00:07:36.883
+But it ain't plug-and-play,
+not by a long shot.
+
+00:07:36.907 --> 00:07:38.666
+So: Is it really easy?
+
+00:07:39.032 --> 00:07:43.365
+Well, if you spend a few years
+working it out in your particular system,
+
+00:07:43.389 --> 00:07:44.814
+yes, it is.
+
+00:07:45.426 --> 00:07:47.510
+Now the other thing is,
+
+00:07:47.534 --> 00:07:53.893
+we don't really know that much about how
+to make a particular thing happen
+
+00:07:53.917 --> 00:07:56.822
+by changing particular spots
+in the genome.
+
+00:07:57.306 --> 00:07:59.473
+We're a long way away from figuring out
+
+00:07:59.497 --> 00:08:01.866
+how to give a pig wings, for example.
+
+00:08:02.364 --> 00:08:05.228
+Or even an extra leg -- I'd settle
+for an extra leg.
+
+00:08:05.252 --> 00:08:06.898
+That would be kind of cool, right?
+
+00:08:06.922 --> 00:08:08.458
+But what is happening
+
+00:08:08.482 --> 00:08:12.832
+is that CRISPR is being used
+by thousands and thousands of scientists
+
+00:08:12.856 --> 00:08:15.228
+to do really, really important work,
+
+00:08:15.252 --> 00:08:20.696
+like making better models
+of diseases in animals, for example,
+
+00:08:20.720 --> 00:08:25.702
+or for taking pathways
+that produce valuable chemicals
+
+00:08:25.726 --> 00:08:29.608
+and getting them into industrial
+production in fermentation vats,
+
+00:08:30.021 --> 00:08:33.482
+or even doing really basic research
+on what genes do.
+
+00:08:34.022 --> 00:08:36.951
+This is the story of CRISPR
+we should be telling,
+
+00:08:36.975 --> 00:08:40.439
+and I don't like it
+that the flashier aspects of it
+
+00:08:40.463 --> 00:08:42.219
+are drowning all of this out.
+
+00:08:42.243 --> 00:08:46.817
+Lots of scientists did a lot of work
+to make CRISPR happen,
+
+00:08:46.841 --> 00:08:48.460
+and what's interesting to me
+
+00:08:48.484 --> 00:08:52.994
+is that these scientists
+are being supported by our society.
+
+00:08:53.423 --> 00:08:54.582
+Think about it.
+
+00:08:54.606 --> 00:08:58.625
+We've got an infrastructure that allows
+a certain percentage of people
+
+00:08:58.983 --> 00:09:02.292
+to spend all their time doing research.
+
+00:09:02.984 --> 00:09:06.355
+That makes us all the inventors of CRISPR,
+
+00:09:06.998 --> 00:09:11.466
+and I would say that makes us all
+the shepherds of CRISPR.
+
+00:09:11.490 --> 00:09:13.297
+We all have a responsibility.
+
+00:09:13.749 --> 00:09:17.705
+So I would urge you to really learn
+about these types of technologies,
+
+00:09:18.010 --> 00:09:20.029
+because, really, only in that way
+
+00:09:20.415 --> 00:09:24.767
+are we going to be able to guide
+the development of these technologies,
+
+00:09:24.791 --> 00:09:26.723
+the use of these technologies
+
+00:09:26.747 --> 00:09:30.502
+and make sure that, in the end,
+it's a positive outcome --
+
+00:09:31.034 --> 00:09:34.166
+for both the planet and for us.
+
+00:09:34.698 --> 00:09:35.890
+Thanks.
+
+00:09:35.914 --> 00:09:39.816
+(Applause)
+

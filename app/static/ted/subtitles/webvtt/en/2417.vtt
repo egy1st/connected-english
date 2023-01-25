@@ -1,0 +1,797 @@
+WEBVTT
+
+00:00:00.720 --> 00:00:04.656
+Code is the next universal language.
+
+00:00:04.680 --> 00:00:08.856
+In the seventies, it was punk music
+that drove the whole generation.
+
+00:00:08.880 --> 00:00:11.336
+In the eighties, it was probably money.
+
+00:00:11.360 --> 00:00:13.696
+But for my generation of people,
+
+00:00:13.720 --> 00:00:18.536
+software is the interface
+to our imagination and our world.
+
+00:00:18.560 --> 00:00:20.256
+And that means that we need
+
+00:00:20.280 --> 00:00:23.536
+a radically, radically
+more diverse set of people
+
+00:00:23.560 --> 00:00:25.336
+to build those products,
+
+00:00:25.360 --> 00:00:30.296
+to not see computers as mechanical
+and lonely and boring and magic,
+
+00:00:30.320 --> 00:00:32.296
+to see them as things
+that they can tinker
+
+00:00:32.320 --> 00:00:34.760
+and turn around and twist,
+and so forth.
+
+00:00:35.720 --> 00:00:39.496
+My personal journey into the world
+of programming and technology
+
+00:00:39.520 --> 00:00:42.496
+started at the tender age of 14.
+
+00:00:42.520 --> 00:00:46.616
+I had this mad teenage crush
+on an older man,
+
+00:00:46.640 --> 00:00:48.976
+and the older man in question
+just happened to be
+
+00:00:49.000 --> 00:00:53.416
+the then Vice President
+of the United States, Mr. Al Gore.
+
+00:00:53.440 --> 00:00:56.496
+And I did what every single
+teenage girl would want to do.
+
+00:00:56.520 --> 00:00:58.736
+I wanted to somehow
+express all of this love,
+
+00:00:58.760 --> 00:01:01.336
+so I built him a website, it's over here.
+
+00:01:01.360 --> 00:01:04.296
+And in 2001, there was no Tumblr,
+
+00:01:04.319 --> 00:01:06.576
+there was no Facebook,
+there was no Pinterest.
+
+00:01:06.600 --> 00:01:08.736
+So I needed to learn to code
+
+00:01:08.760 --> 00:01:12.136
+in order to express
+all of this longing and loving.
+
+00:01:12.160 --> 00:01:14.496
+And that is how programming
+started for me.
+
+00:01:14.520 --> 00:01:17.056
+It started as a means of self-expression.
+
+00:01:17.080 --> 00:01:20.696
+Just like when I was smaller,
+I would use crayons and legos.
+
+00:01:20.720 --> 00:01:25.320
+And when I was older, I would use
+guitar lessons and theater plays.
+
+00:01:25.920 --> 00:01:28.896
+But then, there were other things
+to get excited about,
+
+00:01:28.920 --> 00:01:31.336
+like poetry and knitting socks
+
+00:01:31.360 --> 00:01:34.656
+and conjugating French irregular verbs
+
+00:01:34.680 --> 00:01:36.536
+and coming up with make-believe worlds
+
+00:01:36.560 --> 00:01:39.696
+and Bertrand Russell and his philosophy.
+
+00:01:39.720 --> 00:01:41.616
+And I started to be one of those people
+
+00:01:41.640 --> 00:01:45.320
+who felt that computers
+are boring and technical and lonely.
+
+00:01:46.120 --> 00:01:47.936
+Here's what I think today.
+
+00:01:47.960 --> 00:01:52.016
+Little girls don't know that they
+are not supposed to like computers.
+
+00:01:52.040 --> 00:01:53.296
+Little girls are amazing.
+
+00:01:53.320 --> 00:01:57.456
+They are really, really good
+at concentrating on things
+
+00:01:57.480 --> 00:02:00.736
+and being exact and they ask
+amazing questions like,
+
+00:02:00.760 --> 00:02:03.336
+"What?" and "Why?"
+and "How?" and "What if?"
+
+00:02:03.360 --> 00:02:07.040
+And they don't know that they
+are not supposed to like computers.
+
+00:02:07.760 --> 00:02:09.696
+It's the parents who do.
+
+00:02:09.720 --> 00:02:11.015
+It's us parents who feel
+
+00:02:11.039 --> 00:02:16.136
+like computer science
+is this esoteric, weird science discipline
+
+00:02:16.160 --> 00:02:19.816
+that only belongs to the mystery makers.
+
+00:02:19.840 --> 00:02:22.576
+That it's almost as far removed
+from everyday life
+
+00:02:22.600 --> 00:02:25.136
+as, say, nuclear physics.
+
+00:02:25.160 --> 00:02:27.616
+And they are partly right about that.
+
+00:02:27.640 --> 00:02:31.136
+There's a lot of syntax
+and controls and data structures
+
+00:02:31.160 --> 00:02:33.816
+and algorithms and practices,
+
+00:02:33.840 --> 00:02:36.416
+protocols and paradigms in programming.
+
+00:02:36.440 --> 00:02:40.736
+And we as a community,
+we've made computers smaller and smaller.
+
+00:02:40.760 --> 00:02:45.296
+We've built layers and layers
+of abstraction on top of each other
+
+00:02:45.320 --> 00:02:46.816
+between the man and the machine
+
+00:02:46.840 --> 00:02:50.056
+to the point that we no longer
+have any idea how computers work
+
+00:02:50.080 --> 00:02:52.256
+or how to talk to them.
+
+00:02:52.280 --> 00:02:55.056
+And we do teach our kids
+how the human body works,
+
+00:02:55.080 --> 00:02:58.176
+we teach them how
+the combustion engine functions
+
+00:02:58.200 --> 00:03:01.216
+and we even tell them
+that if you want to really be an astronaut
+
+00:03:01.240 --> 00:03:02.696
+you can become one.
+
+00:03:02.720 --> 00:03:04.896
+But when the kid comes to us and asks,
+
+00:03:04.920 --> 00:03:07.656
+"So, what is a bubble sort algorithm?"
+
+00:03:07.680 --> 00:03:12.096
+Or, "How does the computer know
+what happens when I press 'play,'
+
+00:03:12.120 --> 00:03:13.976
+how does it know which video to show?"
+
+00:03:14.000 --> 00:03:16.576
+Or, "Linda, is Internet a place?"
+
+00:03:16.600 --> 00:03:19.320
+We adults, we grow oddly silent.
+
+00:03:20.400 --> 00:03:22.856
+"It's magic," some of us say.
+
+00:03:22.880 --> 00:03:25.600
+"It's too complicated," the others say.
+
+00:03:26.520 --> 00:03:28.016
+Well, it's neither.
+
+00:03:28.040 --> 00:03:30.616
+It's not magic and it's not complicated.
+
+00:03:30.640 --> 00:03:34.256
+It all just happened
+really, really, really fast.
+
+00:03:34.280 --> 00:03:37.176
+Computer scientists built
+these amazing, beautiful machines,
+
+00:03:37.200 --> 00:03:39.616
+but they made them
+very, very foreign to us,
+
+00:03:39.640 --> 00:03:41.856
+and also the language we speak
+to the computers
+
+00:03:41.880 --> 00:03:44.896
+so that we don't know
+how to speak to the computers anymore
+
+00:03:44.920 --> 00:03:47.416
+without our fancy user interfaces.
+
+00:03:47.440 --> 00:03:49.016
+And that's why no one recognized
+
+00:03:49.040 --> 00:03:51.736
+that when I was conjugating
+French irregular verbs,
+
+00:03:51.760 --> 00:03:55.016
+I was actually practicing
+my pattern recognition skills.
+
+00:03:55.040 --> 00:03:57.336
+And when I was excited about knitting,
+
+00:03:57.360 --> 00:04:00.896
+I actually was following
+a sequence of symbolic commands
+
+00:04:00.920 --> 00:04:02.656
+that included loops inside of them.
+
+00:04:02.680 --> 00:04:05.096
+And that Bertrand Russell's lifelong quest
+
+00:04:05.120 --> 00:04:09.096
+to find an exact language
+between English and mathematics
+
+00:04:09.120 --> 00:04:11.440
+found its home inside of a computer.
+
+00:04:12.080 --> 00:04:14.280
+I was a programmer, but no one knew it.
+
+00:04:15.080 --> 00:04:19.536
+The kids of today, they tap, swipe
+and pinch their way through the world.
+
+00:04:19.560 --> 00:04:22.776
+But unless we give them tools
+to build with computers,
+
+00:04:22.800 --> 00:04:26.736
+we are raising only consumers
+instead of creators.
+
+00:04:26.760 --> 00:04:29.296
+This whole quest
+led me to this little girl.
+
+00:04:29.320 --> 00:04:31.696
+Her name is Ruby, she is six years old.
+
+00:04:31.720 --> 00:04:35.816
+She is completely fearless,
+imaginative and a little bit bossy.
+
+00:04:35.840 --> 00:04:38.296
+And every time
+I would run into a problem
+
+00:04:38.320 --> 00:04:40.576
+in trying to teach
+myself programming like,
+
+00:04:40.600 --> 00:04:44.576
+"What is object-oriented design
+or what is garbage collection?",
+
+00:04:44.600 --> 00:04:49.016
+I would try to imagine how a six-year-old
+little girl would explain the problem.
+
+00:04:49.040 --> 00:04:51.696
+And I wrote a book about her
+and I illustrated it
+
+00:04:51.720 --> 00:04:54.096
+and the things
+Ruby taught me go like this.
+
+00:04:54.120 --> 00:04:56.576
+Ruby taught me that you're
+not supposed to be afraid
+
+00:04:56.600 --> 00:04:57.976
+of the bugs under your bed.
+
+00:04:58.000 --> 00:05:00.056
+And even the biggest of the problems
+
+00:05:00.080 --> 00:05:03.576
+are a group of tiny problems
+stuck together.
+
+00:05:03.600 --> 00:05:06.336
+And Ruby also introduced
+me to her friends,
+
+00:05:06.360 --> 00:05:09.256
+the colorful side of the Internet culture.
+
+00:05:09.280 --> 00:05:11.136
+She has friends like the Snow Leopard,
+
+00:05:11.160 --> 00:05:14.096
+who is beautiful but doesn't want
+to play with the other kids.
+
+00:05:14.120 --> 00:05:18.736
+And she has friends like the green robots
+that are really friendly but super messy.
+
+00:05:18.760 --> 00:05:20.936
+And she has friends like Linux the penguin
+
+00:05:20.960 --> 00:05:24.616
+who's really ruthlessly efficient,
+but somewhat hard to understand.
+
+00:05:24.640 --> 00:05:26.880
+And idealistic foxes, and so on.
+
+00:05:27.880 --> 00:05:31.536
+In Ruby's world, you learn
+technology through play.
+
+00:05:31.560 --> 00:05:34.776
+And, for instance, computers
+are really good at repeating stuff,
+
+00:05:34.800 --> 00:05:37.696
+so the way Ruby would teach
+loops goes like this.
+
+00:05:37.720 --> 00:05:41.096
+This is Ruby's favorite dance move,
+it goes, "Clap, clap, stomp, stomp
+
+00:05:41.120 --> 00:05:42.616
+clap, clap and jump."
+
+00:05:42.640 --> 00:05:46.656
+And you learn counter loops
+by repeating that four times.
+
+00:05:46.680 --> 00:05:49.496
+And you learn while loops
+by repeating that sequence
+
+00:05:49.520 --> 00:05:51.296
+while I'm standing on one leg.
+
+00:05:51.320 --> 00:05:54.616
+And you learn until loops
+by repeating that sequence
+
+00:05:54.640 --> 00:05:56.696
+until mom gets really mad.
+
+00:05:56.720 --> 00:05:57.736
+(Laughter)
+
+00:05:57.760 --> 00:06:01.480
+And most of all, you learn
+that there are no ready answers.
+
+00:06:02.320 --> 00:06:05.056
+When coming up with the curriculum
+for Ruby's world,
+
+00:06:05.080 --> 00:06:08.376
+I needed to really ask the kids
+how they see the world
+
+00:06:08.400 --> 00:06:10.416
+and what kind of questions they have
+
+00:06:10.440 --> 00:06:12.520
+and I would organize
+play testing sessions.
+
+00:06:13.360 --> 00:06:15.920
+I would start by showing the kids
+these four pictures.
+
+00:06:16.480 --> 00:06:18.816
+I would show them a picture of a car,
+
+00:06:18.840 --> 00:06:21.256
+a grocery store, a dog and a toilet.
+
+00:06:21.280 --> 00:06:24.520
+And I would ask, "Which one of these
+do you think is a computer?"
+
+00:06:25.480 --> 00:06:28.216
+And the kids would be
+very conservative and go,
+
+00:06:28.240 --> 00:06:30.016
+"None of these is a computer.
+
+00:06:30.040 --> 00:06:31.696
+I know what a computer is:
+
+00:06:31.720 --> 00:06:33.056
+it's that glowing box
+
+00:06:33.080 --> 00:06:36.696
+in front of which mom or dad
+spends way too much time."
+
+00:06:36.720 --> 00:06:38.216
+But then we would talk
+
+00:06:38.240 --> 00:06:41.056
+and we would discover
+that actually, a car is a computer,
+
+00:06:41.080 --> 00:06:43.456
+it has a navigation system inside of it.
+
+00:06:43.480 --> 00:06:46.256
+And a dog -- a dog
+might not be a computer,
+
+00:06:46.280 --> 00:06:47.496
+but it has a collar
+
+00:06:47.520 --> 00:06:50.136
+and the collar might have
+a computer inside of it.
+
+00:06:50.160 --> 00:06:53.616
+And grocery stores, they have
+so many different kinds of computers,
+
+00:06:53.640 --> 00:06:57.056
+like the cashier system
+and the burglar alarms.
+
+00:06:57.080 --> 00:06:58.416
+And kids, you know what?
+
+00:06:58.440 --> 00:07:00.976
+In Japan, toilets are computers
+
+00:07:01.000 --> 00:07:02.896
+and there's even hackers who hack them.
+
+00:07:02.920 --> 00:07:04.696
+(Laughter)
+
+00:07:04.720 --> 00:07:05.936
+And we go further
+
+00:07:05.960 --> 00:07:09.176
+and I give them these little stickers
+with an on/off button on them.
+
+00:07:09.200 --> 00:07:12.816
+And I tell the kids,
+"Today you have this magic ability
+
+00:07:12.840 --> 00:07:16.456
+to make anything in this room
+into a computer."
+
+00:07:16.480 --> 00:07:17.816
+And again, the kids go,
+
+00:07:17.840 --> 00:07:20.736
+"Sounds really hard,
+I don't know the right answer for this."
+
+00:07:20.760 --> 00:07:22.336
+But I tell them, "Don't worry,
+
+00:07:22.360 --> 00:07:24.936
+your parents don't know
+the right answer, either.
+
+00:07:24.960 --> 00:07:27.176
+They've just started
+to hear about this thing
+
+00:07:27.200 --> 00:07:29.416
+called The Internet of Things.
+
+00:07:29.440 --> 00:07:31.416
+But you kids,
+you are going to be the ones
+
+00:07:31.440 --> 00:07:35.816
+who are really going to live up in a world
+where everything is a computer."
+
+00:07:35.840 --> 00:07:38.056
+And then I had this little girl
+who came to me
+
+00:07:38.080 --> 00:07:39.376
+and took a bicycle lamp
+
+00:07:39.400 --> 00:07:43.616
+and she said, "This bicycle lamp,
+if it were a computer,
+
+00:07:43.640 --> 00:07:45.656
+it would change colors."
+
+00:07:45.680 --> 00:07:48.696
+And I said, "That's a really good idea,
+what else could it do?"
+
+00:07:48.720 --> 00:07:50.456
+And she thinks and she thinks,
+
+00:07:50.480 --> 00:07:54.496
+and she goes, "If this bicycle lamp
+were a computer,
+
+00:07:54.520 --> 00:07:57.256
+we could go on a biking trip
+with my father
+
+00:07:57.280 --> 00:07:58.896
+and we would sleep in a tent
+
+00:07:58.920 --> 00:08:02.760
+and this biking lamp
+could also be a movie projector."
+
+00:08:03.640 --> 00:08:05.600
+And that's the moment I'm looking for,
+
+00:08:06.400 --> 00:08:07.976
+the moment when the kid realizes
+
+00:08:08.000 --> 00:08:10.376
+that the world
+is definitely not ready yet,
+
+00:08:10.400 --> 00:08:13.376
+that a really awesome way
+of making the world more ready
+
+00:08:13.400 --> 00:08:15.616
+is by building technology
+
+00:08:15.640 --> 00:08:18.400
+and that each one of us
+can be a part of that change.
+
+00:08:19.200 --> 00:08:22.256
+Final story, we also built a computer.
+
+00:08:22.280 --> 00:08:27.016
+And we got to know the bossy CPU
+and the helpful RAM and ROM
+
+00:08:27.040 --> 00:08:28.456
+that help it remember things.
+
+00:08:28.480 --> 00:08:31.416
+And after we've assembled
+our computer together,
+
+00:08:31.440 --> 00:08:34.096
+we also design an application for it.
+
+00:08:34.120 --> 00:08:36.135
+And my favorite story is this little boy,
+
+00:08:36.159 --> 00:08:37.416
+he's six years old
+
+00:08:37.440 --> 00:08:40.559
+and his favorite thing in the world
+is to be an astronaut.
+
+00:08:41.120 --> 00:08:43.376
+And the boy, he has
+these huge headphones on
+
+00:08:43.400 --> 00:08:46.656
+and he's completely immersed
+in his tiny paper computer
+
+00:08:46.680 --> 00:08:48.696
+because you see, he's built his own
+
+00:08:48.720 --> 00:08:53.016
+intergalactic planetary
+navigation application.
+
+00:08:53.040 --> 00:08:56.176
+And his father, the lone astronaut
+in the Martian orbit,
+
+00:08:56.200 --> 00:08:58.056
+is on the other side of the room
+
+00:08:58.080 --> 00:08:59.696
+and the boy's important mission
+
+00:08:59.720 --> 00:09:02.640
+is to bring the father
+safely back to earth.
+
+00:09:03.760 --> 00:09:07.216
+And these kids are going to have
+a profoundly different view of the world
+
+00:09:07.240 --> 00:09:09.640
+and the way we build it with technology.
+
+00:09:10.840 --> 00:09:14.696
+Finally, the more approachable,
+the more inclusive,
+
+00:09:14.720 --> 00:09:18.096
+and the more diverse
+we make the world of technology,
+
+00:09:18.120 --> 00:09:22.096
+the more colorful and better
+the world will look like.
+
+00:09:22.120 --> 00:09:24.696
+So, imagine with me, for a moment,
+
+00:09:24.720 --> 00:09:27.296
+a world where the stories we tell
+
+00:09:27.320 --> 00:09:30.336
+about how things get made
+don't only include
+
+00:09:30.360 --> 00:09:32.776
+the twentysomething-year-old
+Silicon Valley boys,
+
+00:09:32.800 --> 00:09:37.200
+but also Kenyan schoolgirls
+and Norwegian librarians.
+
+00:09:38.000 --> 00:09:42.216
+Imagine a world where
+the little Ada Lovelaces of tomorrow,
+
+00:09:42.240 --> 00:09:45.456
+who live in a permanent
+reality of 1s and 0s,
+
+00:09:45.480 --> 00:09:50.096
+they grow up to be very optimistic
+and brave about technology.
+
+00:09:50.120 --> 00:09:53.496
+They embrace the powers
+and the opportunities
+
+00:09:53.520 --> 00:09:55.120
+and the limitations of the world.
+
+00:09:55.680 --> 00:09:59.816
+A world of technology
+that is wonderful, whimsical
+
+00:09:59.840 --> 00:10:01.480
+and a tiny bit weird.
+
+00:10:03.120 --> 00:10:04.616
+When I was a girl,
+
+00:10:04.640 --> 00:10:06.656
+I wanted to be a storyteller.
+
+00:10:06.680 --> 00:10:08.256
+I loved make-believe worlds
+
+00:10:08.280 --> 00:10:09.896
+and my favorite thing to do
+
+00:10:09.920 --> 00:10:13.976
+was to wake up in the mornings
+in Moominvalley.
+
+00:10:14.000 --> 00:10:17.120
+In the afternoons,
+I would roam around the Tatooines.
+
+00:10:17.320 --> 00:10:20.200
+And in the evenings,
+I would go to sleep in Narnia.
+
+00:10:21.400 --> 00:10:24.600
+And programming turned out
+to be the perfect profession for me.
+
+00:10:25.720 --> 00:10:27.656
+I still create worlds.
+
+00:10:27.680 --> 00:10:30.640
+Instead of stories, I do them with code.
+
+00:10:31.640 --> 00:10:34.696
+Programming gives me this amazing power
+
+00:10:34.720 --> 00:10:37.096
+to build my whole little universe
+
+00:10:37.120 --> 00:10:41.080
+with its own rules
+and paradigms and practices.
+
+00:10:42.120 --> 00:10:46.080
+Create something out of nothing
+with the pure power of logic.
+
+00:10:46.920 --> 00:10:48.136
+Thank you.
+
+00:10:48.160 --> 00:10:50.600
+(Applause)
+

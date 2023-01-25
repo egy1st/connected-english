@@ -1,0 +1,1452 @@
+WEBVTT
+
+00:00:00.750 --> 00:00:03.026
+So, security is two different things:
+
+00:00:03.050 --> 00:00:05.576
+it's a feeling, and it's a reality.
+
+00:00:05.600 --> 00:00:07.025
+And they're different.
+
+00:00:07.049 --> 00:00:10.476
+You could feel secure even if you're not.
+
+00:00:10.500 --> 00:00:12.476
+And you can be secure
+
+00:00:12.500 --> 00:00:14.350
+even if you don't feel it.
+
+00:00:14.374 --> 00:00:16.491
+Really, we have two separate concepts
+
+00:00:16.515 --> 00:00:18.167
+mapped onto the same word.
+
+00:00:18.700 --> 00:00:22.326
+And what I want to do in this talk
+is to split them apart --
+
+00:00:22.350 --> 00:00:25.960
+figuring out when they diverge
+and how they converge.
+
+00:00:26.451 --> 00:00:28.726
+And language is actually a problem here.
+
+00:00:28.750 --> 00:00:30.826
+There aren't a lot of good words
+
+00:00:30.850 --> 00:00:32.911
+for the concepts
+we're going to talk about.
+
+00:00:34.035 --> 00:00:38.155
+So if you look at security
+from economic terms,
+
+00:00:38.179 --> 00:00:39.826
+it's a trade-off.
+
+00:00:39.850 --> 00:00:43.982
+Every time you get some security,
+you're always trading off something.
+
+00:00:44.006 --> 00:00:45.851
+Whether this is a personal decision --
+
+00:00:45.875 --> 00:00:48.887
+whether you're going to install
+a burglar alarm in your home --
+
+00:00:48.911 --> 00:00:50.068
+or a national decision,
+
+00:00:50.092 --> 00:00:52.402
+where you're going to invade
+a foreign country --
+
+00:00:52.426 --> 00:00:56.208
+you're going to trade off something:
+money or time, convenience, capabilities,
+
+00:00:56.232 --> 00:00:58.234
+maybe fundamental liberties.
+
+00:00:58.258 --> 00:01:01.532
+And the question to ask
+when you look at a security anything
+
+00:01:01.556 --> 00:01:04.938
+is not whether this makes us safer,
+
+00:01:04.962 --> 00:01:07.177
+but whether it's worth the trade-off.
+
+00:01:07.201 --> 00:01:10.430
+You've heard in the past
+several years, the world is safer
+
+00:01:10.454 --> 00:01:12.344
+because Saddam Hussein is not in power.
+
+00:01:12.368 --> 00:01:14.971
+That might be true,
+but it's not terribly relevant.
+
+00:01:14.995 --> 00:01:17.826
+The question is: Was it worth it?
+
+00:01:17.850 --> 00:01:20.309
+And you can make your own decision,
+
+00:01:20.333 --> 00:01:23.066
+and then you'll decide
+whether the invasion was worth it.
+
+00:01:23.090 --> 00:01:26.651
+That's how you think about security:
+in terms of the trade-off.
+
+00:01:26.675 --> 00:01:29.285
+Now, there's often no right or wrong here.
+
+00:01:29.948 --> 00:01:33.256
+Some of us have a burglar alarm
+system at home and some of us don't.
+
+00:01:33.280 --> 00:01:36.011
+And it'll depend on where we live,
+
+00:01:36.035 --> 00:01:37.961
+whether we live alone or have a family,
+
+00:01:37.985 --> 00:01:39.653
+how much cool stuff we have,
+
+00:01:39.677 --> 00:01:42.842
+how much we're willing
+to accept the risk of theft.
+
+00:01:43.683 --> 00:01:46.631
+In politics also,
+there are different opinions.
+
+00:01:47.199 --> 00:01:51.634
+A lot of times, these trade-offs
+are about more than just security,
+
+00:01:51.658 --> 00:01:53.523
+and I think that's really important.
+
+00:01:53.547 --> 00:01:56.855
+Now, people have a natural intuition
+about these trade-offs.
+
+00:01:57.328 --> 00:01:58.884
+We make them every day.
+
+00:01:59.547 --> 00:02:03.080
+Last night in my hotel room,
+when I decided to double-lock the door,
+
+00:02:03.104 --> 00:02:05.104
+or you in your car when you drove here;
+
+00:02:05.931 --> 00:02:07.409
+when we go eat lunch
+
+00:02:07.433 --> 00:02:10.041
+and decide the food's not
+poison and we'll eat it.
+
+00:02:10.065 --> 00:02:13.226
+We make these trade-offs again and again,
+
+00:02:13.250 --> 00:02:14.826
+multiple times a day.
+
+00:02:14.850 --> 00:02:16.439
+We often won't even notice them.
+
+00:02:16.463 --> 00:02:19.089
+They're just part
+of being alive; we all do it.
+
+00:02:19.113 --> 00:02:20.668
+Every species does it.
+
+00:02:21.214 --> 00:02:24.076
+Imagine a rabbit in a field, eating grass.
+
+00:02:24.100 --> 00:02:26.043
+And the rabbit sees a fox.
+
+00:02:26.596 --> 00:02:28.645
+That rabbit will make
+a security trade-off:
+
+00:02:28.669 --> 00:02:30.573
+"Should I stay, or should I flee?"
+
+00:02:31.120 --> 00:02:32.739
+And if you think about it,
+
+00:02:32.763 --> 00:02:35.318
+the rabbits that are good
+at making that trade-off
+
+00:02:35.342 --> 00:02:37.320
+will tend to live and reproduce,
+
+00:02:37.344 --> 00:02:39.651
+and the rabbits that are bad at it
+
+00:02:39.675 --> 00:02:41.149
+will get eaten or starve.
+
+00:02:41.698 --> 00:02:43.306
+So you'd think
+
+00:02:44.313 --> 00:02:48.622
+that us, as a successful species
+on the planet -- you, me, everybody --
+
+00:02:48.646 --> 00:02:51.219
+would be really good
+at making these trade-offs.
+
+00:02:51.866 --> 00:02:54.970
+Yet it seems, again and again,
+that we're hopelessly bad at it.
+
+00:02:56.508 --> 00:02:59.310
+And I think that's a fundamentally
+interesting question.
+
+00:02:59.334 --> 00:03:01.207
+I'll give you the short answer.
+
+00:03:01.231 --> 00:03:03.882
+The answer is, we respond
+to the feeling of security
+
+00:03:03.906 --> 00:03:05.424
+and not the reality.
+
+00:03:06.604 --> 00:03:09.300
+Now, most of the time, that works.
+
+00:03:10.278 --> 00:03:11.781
+Most of the time,
+
+00:03:11.805 --> 00:03:13.938
+feeling and reality are the same.
+
+00:03:15.516 --> 00:03:19.032
+Certainly that's true
+for most of human prehistory.
+
+00:03:20.373 --> 00:03:23.081
+We've developed this ability
+
+00:03:23.105 --> 00:03:25.689
+because it makes evolutionary sense.
+
+00:03:26.725 --> 00:03:29.999
+One way to think of it
+is that we're highly optimized
+
+00:03:30.023 --> 00:03:31.826
+for risk decisions
+
+00:03:31.850 --> 00:03:34.393
+that are endemic to living
+in small family groups
+
+00:03:34.417 --> 00:03:36.953
+in the East African Highlands
+in 100,000 BC.
+
+00:03:37.532 --> 00:03:40.191
+2010 New York, not so much.
+
+00:03:41.619 --> 00:03:44.825
+Now, there are several biases
+in risk perception.
+
+00:03:44.849 --> 00:03:46.590
+A lot of good experiments in this.
+
+00:03:46.614 --> 00:03:50.217
+And you can see certain biases
+that come up again and again.
+
+00:03:50.241 --> 00:03:51.594
+I'll give you four.
+
+00:03:51.618 --> 00:03:54.826
+We tend to exaggerate
+spectacular and rare risks
+
+00:03:54.850 --> 00:03:56.826
+and downplay common risks --
+
+00:03:56.850 --> 00:03:58.368
+so, flying versus driving.
+
+00:03:59.191 --> 00:04:02.985
+The unknown is perceived
+to be riskier than the familiar.
+
+00:04:06.210 --> 00:04:07.649
+One example would be:
+
+00:04:07.673 --> 00:04:10.286
+people fear kidnapping by strangers,
+
+00:04:10.310 --> 00:04:13.946
+when the data supports that kidnapping
+by relatives is much more common.
+
+00:04:13.970 --> 00:04:15.544
+This is for children.
+
+00:04:15.568 --> 00:04:19.608
+Third, personified risks
+are perceived to be greater
+
+00:04:19.632 --> 00:04:21.135
+than anonymous risks.
+
+00:04:21.159 --> 00:04:23.946
+So, Bin Laden is scarier
+because he has a name.
+
+00:04:24.922 --> 00:04:26.285
+And the fourth is:
+
+00:04:26.309 --> 00:04:31.064
+people underestimate risks
+in situations they do control
+
+00:04:31.088 --> 00:04:34.051
+and overestimate them
+in situations they don't control.
+
+00:04:34.075 --> 00:04:37.459
+So once you take up skydiving or smoking,
+
+00:04:37.483 --> 00:04:39.107
+you downplay the risks.
+
+00:04:39.777 --> 00:04:42.830
+If a risk is thrust upon you --
+terrorism is a good example --
+
+00:04:42.854 --> 00:04:44.011
+you'll overplay it,
+
+00:04:44.035 --> 00:04:46.374
+because you don't feel
+like it's in your control.
+
+00:04:46.897 --> 00:04:50.390
+There are a bunch
+of other of these cognitive biases,
+
+00:04:50.414 --> 00:04:52.753
+that affect our risk decisions.
+
+00:04:53.572 --> 00:04:55.826
+There's the availability heuristic,
+
+00:04:55.850 --> 00:05:00.030
+which basically means we estimate
+the probability of something
+
+00:05:00.054 --> 00:05:03.393
+by how easy it is to bring
+instances of it to mind.
+
+00:05:04.571 --> 00:05:06.348
+So you can imagine how that works.
+
+00:05:06.372 --> 00:05:10.000
+If you hear a lot about tiger attacks,
+there must be a lot of tigers around.
+
+00:05:10.024 --> 00:05:13.368
+You don't hear about lion attacks,
+there aren't a lot of lions around.
+
+00:05:13.392 --> 00:05:15.689
+This works, until you invent newspapers,
+
+00:05:15.713 --> 00:05:20.119
+because what newspapers do
+is repeat again and again
+
+00:05:20.143 --> 00:05:21.549
+rare risks.
+
+00:05:21.573 --> 00:05:24.438
+I tell people: if it's in the news,
+don't worry about it,
+
+00:05:24.462 --> 00:05:28.737
+because by definition, news is something
+that almost never happens.
+
+00:05:28.761 --> 00:05:30.530
+(Laughter)
+
+00:05:30.554 --> 00:05:33.477
+When something is so common,
+it's no longer news.
+
+00:05:33.501 --> 00:05:35.699
+Car crashes, domestic violence --
+
+00:05:35.723 --> 00:05:37.713
+those are the risks you worry about.
+
+00:05:38.453 --> 00:05:40.601
+We're also a species of storytellers.
+
+00:05:40.625 --> 00:05:42.740
+We respond to stories more than data.
+
+00:05:43.254 --> 00:05:45.660
+And there's some basic
+innumeracy going on.
+
+00:05:45.684 --> 00:05:48.826
+I mean, the joke "One, two,
+three, many" is kind of right.
+
+00:05:48.850 --> 00:05:51.172
+We're really good at small numbers.
+
+00:05:51.196 --> 00:05:53.532
+One mango, two mangoes, three mangoes,
+
+00:05:53.556 --> 00:05:55.533
+10,000 mangoes, 100,000 mangoes --
+
+00:05:55.557 --> 00:05:58.534
+it's still more mangoes
+you can eat before they rot.
+
+00:05:58.558 --> 00:06:01.826
+So one half, one quarter,
+one fifth -- we're good at that.
+
+00:06:01.850 --> 00:06:03.826
+One in a million, one in a billion --
+
+00:06:03.850 --> 00:06:05.425
+they're both almost never.
+
+00:06:06.286 --> 00:06:09.700
+So we have trouble with the risks
+that aren't very common.
+
+00:06:10.500 --> 00:06:12.477
+And what these cognitive biases do
+
+00:06:12.501 --> 00:06:15.477
+is they act as filters
+between us and reality.
+
+00:06:16.024 --> 00:06:19.897
+And the result is that feeling
+and reality get out of whack,
+
+00:06:19.921 --> 00:06:21.305
+they get different.
+
+00:06:22.110 --> 00:06:26.041
+Now, you either have a feeling --
+you feel more secure than you are,
+
+00:06:26.065 --> 00:06:27.750
+there's a false sense of security.
+
+00:06:27.774 --> 00:06:31.148
+Or the other way, and that's a false
+sense of insecurity.
+
+00:06:31.755 --> 00:06:34.635
+I write a lot about "security theater,"
+
+00:06:34.659 --> 00:06:37.339
+which are products
+that make people feel secure,
+
+00:06:37.363 --> 00:06:39.340
+but don't actually do anything.
+
+00:06:39.364 --> 00:06:41.921
+There's no real word for stuff
+that makes us secure,
+
+00:06:41.945 --> 00:06:43.826
+but doesn't make us feel secure.
+
+00:06:43.850 --> 00:06:46.570
+Maybe it's what the CIA
+is supposed to do for us.
+
+00:06:48.279 --> 00:06:50.447
+So back to economics.
+
+00:06:50.471 --> 00:06:54.127
+If economics, if the market,
+drives security,
+
+00:06:54.151 --> 00:06:58.998
+and if people make trade-offs
+based on the feeling of security,
+
+00:06:59.022 --> 00:07:03.702
+then the smart thing for companies to do
+for the economic incentives
+
+00:07:03.726 --> 00:07:05.783
+is to make people feel secure.
+
+00:07:06.682 --> 00:07:09.012
+And there are two ways to do this.
+
+00:07:09.036 --> 00:07:11.826
+One, you can make people actually secure
+
+00:07:11.850 --> 00:07:13.313
+and hope they notice.
+
+00:07:13.337 --> 00:07:16.181
+Or two, you can make people
+just feel secure
+
+00:07:16.205 --> 00:07:18.077
+and hope they don't notice.
+
+00:07:19.141 --> 00:07:20.516
+Right?
+
+00:07:20.540 --> 00:07:23.681
+So what makes people notice?
+
+00:07:24.240 --> 00:07:25.622
+Well, a couple of things:
+
+00:07:25.646 --> 00:07:27.912
+understanding of the security,
+
+00:07:27.936 --> 00:07:29.826
+of the risks, the threats,
+
+00:07:29.850 --> 00:07:31.724
+the countermeasures, how they work.
+
+00:07:31.748 --> 00:07:34.038
+But if you know stuff, you're more likely
+
+00:07:34.895 --> 00:07:37.121
+to have your feelings match reality.
+
+00:07:37.850 --> 00:07:40.995
+Enough real-world examples helps.
+
+00:07:41.019 --> 00:07:43.578
+We all know the crime rate
+in our neighborhood,
+
+00:07:43.602 --> 00:07:46.403
+because we live there,
+and we get a feeling about it
+
+00:07:46.427 --> 00:07:48.296
+that basically matches reality.
+
+00:07:49.778 --> 00:07:51.985
+Security theater is exposed
+
+00:07:52.009 --> 00:07:54.795
+when it's obvious
+that it's not working properly.
+
+00:07:55.949 --> 00:07:58.619
+OK. So what makes people not notice?
+
+00:07:59.183 --> 00:08:00.675
+Well, a poor understanding.
+
+00:08:01.382 --> 00:08:04.526
+If you don't understand the risks,
+you don't understand the costs,
+
+00:08:04.550 --> 00:08:06.707
+you're likely to get the trade-off wrong,
+
+00:08:06.731 --> 00:08:09.219
+and your feeling doesn't match reality.
+
+00:08:09.243 --> 00:08:10.980
+Not enough examples.
+
+00:08:11.619 --> 00:08:15.125
+There's an inherent problem
+with low-probability events.
+
+00:08:15.659 --> 00:08:19.472
+If, for example, terrorism
+almost never happens,
+
+00:08:19.496 --> 00:08:24.100
+it's really hard to judge the efficacy
+of counter-terrorist measures.
+
+00:08:25.263 --> 00:08:28.826
+This is why you keep sacrificing virgins,
+
+00:08:28.850 --> 00:08:31.525
+and why your unicorn defenses
+are working just great.
+
+00:08:31.549 --> 00:08:34.106
+There aren't enough examples of failures.
+
+00:08:35.849 --> 00:08:38.636
+Also, feelings that cloud the issues --
+
+00:08:38.660 --> 00:08:42.688
+the cognitive biases I talked
+about earlier: fears, folk beliefs --
+
+00:08:43.467 --> 00:08:46.212
+basically, an inadequate model of reality.
+
+00:08:48.143 --> 00:08:50.314
+So let me complicate things.
+
+00:08:50.338 --> 00:08:52.315
+I have feeling and reality.
+
+00:08:52.339 --> 00:08:55.135
+I want to add a third element.
+I want to add "model."
+
+00:08:55.579 --> 00:08:57.929
+Feeling and model are in our head,
+
+00:08:57.953 --> 00:09:01.405
+reality is the outside world;
+it doesn't change, it's real.
+
+00:09:02.540 --> 00:09:04.754
+Feeling is based on our intuition,
+
+00:09:04.778 --> 00:09:06.404
+model is based on reason.
+
+00:09:07.123 --> 00:09:09.162
+That's basically the difference.
+
+00:09:09.186 --> 00:09:11.163
+In a primitive and simple world,
+
+00:09:11.187 --> 00:09:13.324
+there's really no reason for a model,
+
+00:09:14.993 --> 00:09:17.288
+because feeling is close to reality.
+
+00:09:17.312 --> 00:09:18.685
+You don't need a model.
+
+00:09:19.336 --> 00:09:21.486
+But in a modern and complex world,
+
+00:09:22.296 --> 00:09:25.946
+you need models to understand
+a lot of the risks we face.
+
+00:09:27.102 --> 00:09:29.386
+There's no feeling about germs.
+
+00:09:29.850 --> 00:09:31.966
+You need a model to understand them.
+
+00:09:32.897 --> 00:09:36.575
+This model is an intelligent
+representation of reality.
+
+00:09:37.151 --> 00:09:41.902
+It's, of course, limited
+by science, by technology.
+
+00:09:42.989 --> 00:09:45.315
+We couldn't have a germ theory of disease
+
+00:09:45.339 --> 00:09:47.873
+before we invented
+the microscope to see them.
+
+00:09:49.056 --> 00:09:51.699
+It's limited by our cognitive biases.
+
+00:09:52.850 --> 00:09:55.841
+But it has the ability
+to override our feelings.
+
+00:09:56.247 --> 00:09:59.351
+Where do we get these models?
+We get them from others.
+
+00:09:59.375 --> 00:10:04.594
+We get them from religion,
+from culture, teachers, elders.
+
+00:10:05.038 --> 00:10:08.464
+A couple years ago,
+I was in South Africa on safari.
+
+00:10:08.488 --> 00:10:11.250
+The tracker I was with grew up
+in Kruger National Park.
+
+00:10:11.274 --> 00:10:14.027
+He had some very complex
+models of how to survive.
+
+00:10:14.540 --> 00:10:18.453
+And it depended on if you were attacked
+by a lion, leopard, rhino, or elephant --
+
+00:10:18.477 --> 00:10:21.211
+and when you had to run away,
+when you couldn't run away,
+
+00:10:21.235 --> 00:10:24.318
+when you had to climb a tree,
+when you could never climb a tree.
+
+00:10:24.342 --> 00:10:25.691
+I would have died in a day.
+
+00:10:26.900 --> 00:10:30.682
+But he was born there,
+and he understood how to survive.
+
+00:10:31.230 --> 00:10:32.826
+I was born in New York City.
+
+00:10:32.850 --> 00:10:36.101
+I could have taken him to New York,
+and he would have died in a day.
+
+00:10:36.125 --> 00:10:37.126
+(Laughter)
+
+00:10:37.150 --> 00:10:41.294
+Because we had different models
+based on our different experiences.
+
+00:10:43.031 --> 00:10:45.500
+Models can come from the media,
+
+00:10:45.524 --> 00:10:47.287
+from our elected officials ...
+
+00:10:47.974 --> 00:10:51.055
+Think of models of terrorism,
+
+00:10:51.079 --> 00:10:53.276
+child kidnapping,
+
+00:10:53.300 --> 00:10:55.625
+airline safety, car safety.
+
+00:10:56.279 --> 00:10:58.272
+Models can come from industry.
+
+00:10:59.088 --> 00:11:02.306
+The two I'm following
+are surveillance cameras,
+
+00:11:02.330 --> 00:11:03.826
+ID cards,
+
+00:11:03.850 --> 00:11:06.980
+quite a lot of our computer
+security models come from there.
+
+00:11:07.004 --> 00:11:09.231
+A lot of models come from science.
+
+00:11:09.255 --> 00:11:11.092
+Health models are a great example.
+
+00:11:11.116 --> 00:11:14.142
+Think of cancer, bird flu,
+swine flu, SARS.
+
+00:11:14.682 --> 00:11:19.552
+All of our feelings of security
+about those diseases
+
+00:11:19.576 --> 00:11:24.231
+come from models given to us, really,
+by science filtered through the media.
+
+00:11:25.778 --> 00:11:27.498
+So models can change.
+
+00:11:28.222 --> 00:11:30.325
+Models are not static.
+
+00:11:30.349 --> 00:11:33.589
+As we become more comfortable
+in our environments,
+
+00:11:33.613 --> 00:11:37.215
+our model can move closer to our feelings.
+
+00:11:38.705 --> 00:11:41.045
+So an example might be,
+
+00:11:41.069 --> 00:11:42.665
+if you go back 100 years ago,
+
+00:11:42.689 --> 00:11:46.117
+when electricity was first
+becoming common,
+
+00:11:46.141 --> 00:11:47.844
+there were a lot of fears about it.
+
+00:11:47.868 --> 00:11:50.346
+There were people who were afraid
+to push doorbells,
+
+00:11:50.370 --> 00:11:53.375
+because there was electricity
+in there, and that was dangerous.
+
+00:11:53.399 --> 00:11:56.268
+For us, we're very facile
+around electricity.
+
+00:11:56.292 --> 00:11:59.110
+We change light bulbs
+without even thinking about it.
+
+00:11:59.688 --> 00:12:05.851
+Our model of security around electricity
+is something we were born into.
+
+00:12:06.475 --> 00:12:08.989
+It hasn't changed as we were growing up.
+
+00:12:09.013 --> 00:12:10.578
+And we're good at it.
+
+00:12:12.120 --> 00:12:16.619
+Or think of the risks on the Internet
+across generations --
+
+00:12:16.643 --> 00:12:18.740
+how your parents approach
+Internet security,
+
+00:12:18.764 --> 00:12:20.380
+versus how you do,
+
+00:12:20.404 --> 00:12:21.946
+versus how our kids will.
+
+00:12:23.040 --> 00:12:25.590
+Models eventually fade
+into the background.
+
+00:12:27.167 --> 00:12:29.660
+"Intuitive" is just
+another word for familiar.
+
+00:12:30.627 --> 00:12:34.477
+So as your model is close to reality
+and it converges with feelings,
+
+00:12:34.501 --> 00:12:36.419
+you often don't even know it's there.
+
+00:12:37.979 --> 00:12:41.796
+A nice example of this came
+from last year and swine flu.
+
+00:12:43.021 --> 00:12:45.021
+When swine flu first appeared,
+
+00:12:45.045 --> 00:12:47.663
+the initial news caused
+a lot of overreaction.
+
+00:12:48.302 --> 00:12:50.280
+Now, it had a name,
+
+00:12:50.304 --> 00:12:52.354
+which made it scarier
+than the regular flu,
+
+00:12:52.378 --> 00:12:53.945
+even though it was more deadly.
+
+00:12:54.524 --> 00:12:57.732
+And people thought doctors
+should be able to deal with it.
+
+00:12:58.199 --> 00:13:00.723
+So there was that feeling
+of lack of control.
+
+00:13:00.747 --> 00:13:03.856
+And those two things
+made the risk more than it was.
+
+00:13:03.880 --> 00:13:07.437
+As the novelty wore off
+and the months went by,
+
+00:13:07.461 --> 00:13:10.304
+there was some amount of tolerance;
+people got used to it.
+
+00:13:11.095 --> 00:13:13.765
+There was no new data,
+but there was less fear.
+
+00:13:14.421 --> 00:13:16.595
+By autumn,
+
+00:13:16.619 --> 00:13:20.001
+people thought the doctors
+should have solved this already.
+
+00:13:20.462 --> 00:13:22.422
+And there's kind of a bifurcation:
+
+00:13:22.446 --> 00:13:28.197
+people had to choose
+between fear and acceptance --
+
+00:13:29.252 --> 00:13:30.896
+actually, fear and indifference --
+
+00:13:30.920 --> 00:13:32.715
+and they kind of chose suspicion.
+
+00:13:33.850 --> 00:13:36.961
+And when the vaccine appeared last winter,
+
+00:13:36.985 --> 00:13:39.496
+there were a lot of people --
+a surprising number --
+
+00:13:39.520 --> 00:13:41.317
+who refused to get it.
+
+00:13:43.517 --> 00:13:47.173
+And it's a nice example of how
+people's feelings of security change,
+
+00:13:47.197 --> 00:13:48.800
+how their model changes,
+
+00:13:48.824 --> 00:13:50.492
+sort of wildly,
+
+00:13:50.516 --> 00:13:53.286
+with no new information,
+with no new input.
+
+00:13:55.067 --> 00:13:56.875
+This kind of thing happens a lot.
+
+00:13:57.939 --> 00:13:59.910
+I'm going to give one more complication.
+
+00:13:59.934 --> 00:14:02.630
+We have feeling, model, reality.
+
+00:14:03.380 --> 00:14:05.890
+I have a very relativistic
+view of security.
+
+00:14:05.914 --> 00:14:07.728
+I think it depends on the observer.
+
+00:14:08.435 --> 00:14:13.601
+And most security decisions
+have a variety of people involved.
+
+00:14:14.532 --> 00:14:21.071
+And stakeholders with specific trade-offs
+will try to influence the decision.
+
+00:14:21.095 --> 00:14:22.776
+And I call that their agenda.
+
+00:14:24.252 --> 00:14:27.743
+And you see agenda --
+this is marketing, this is politics --
+
+00:14:28.221 --> 00:14:31.260
+trying to convince you to have
+one model versus another,
+
+00:14:31.284 --> 00:14:33.268
+trying to convince you to ignore a model
+
+00:14:33.292 --> 00:14:35.964
+and trust your feelings,
+
+00:14:35.988 --> 00:14:38.492
+marginalizing people
+with models you don't like.
+
+00:14:39.484 --> 00:14:41.000
+This is not uncommon.
+
+00:14:42.350 --> 00:14:45.579
+An example, a great example,
+is the risk of smoking.
+
+00:14:46.936 --> 00:14:48.719
+In the history of the past 50 years,
+
+00:14:48.743 --> 00:14:51.356
+the smoking risk shows
+how a model changes,
+
+00:14:51.380 --> 00:14:55.738
+and it also shows how an industry fights
+against a model it doesn't like.
+
+00:14:56.723 --> 00:14:59.826
+Compare that to the secondhand
+smoke debate --
+
+00:14:59.850 --> 00:15:01.803
+probably about 20 years behind.
+
+00:15:02.722 --> 00:15:04.337
+Think about seat belts.
+
+00:15:04.361 --> 00:15:06.385
+When I was a kid, no one wore a seat belt.
+
+00:15:06.409 --> 00:15:09.950
+Nowadays, no kid will let you drive
+if you're not wearing a seat belt.
+
+00:15:11.373 --> 00:15:13.826
+Compare that to the airbag debate,
+
+00:15:13.850 --> 00:15:15.517
+probably about 30 years behind.
+
+00:15:16.746 --> 00:15:18.834
+All examples of models changing.
+
+00:15:21.595 --> 00:15:24.391
+What we learn is that changing
+models is hard.
+
+00:15:25.074 --> 00:15:27.127
+Models are hard to dislodge.
+
+00:15:27.151 --> 00:15:28.826
+If they equal your feelings,
+
+00:15:28.850 --> 00:15:30.749
+you don't even know you have a model.
+
+00:15:31.850 --> 00:15:33.736
+And there's another cognitive bias
+
+00:15:33.760 --> 00:15:35.826
+I'll call confirmation bias,
+
+00:15:35.850 --> 00:15:40.211
+where we tend to accept data
+that confirms our beliefs
+
+00:15:40.235 --> 00:15:42.672
+and reject data
+that contradicts our beliefs.
+
+00:15:44.230 --> 00:15:48.165
+So evidence against our model,
+we're likely to ignore,
+
+00:15:48.189 --> 00:15:49.437
+even if it's compelling.
+
+00:15:49.461 --> 00:15:52.466
+It has to get very compelling
+before we'll pay attention.
+
+00:15:53.730 --> 00:15:56.327
+New models that extend
+long periods of time are hard.
+
+00:15:56.351 --> 00:15:58.105
+Global warming is a great example.
+
+00:15:58.129 --> 00:16:01.571
+We're terrible at models
+that span 80 years.
+
+00:16:01.595 --> 00:16:03.658
+We can do "to the next harvest."
+
+00:16:03.682 --> 00:16:05.988
+We can often do "until our kids grow up."
+
+00:16:06.500 --> 00:16:08.701
+But "80 years," we're just not good at.
+
+00:16:09.715 --> 00:16:12.017
+So it's a very hard model to accept.
+
+00:16:12.739 --> 00:16:15.685
+We can have both models
+in our head simultaneously --
+
+00:16:16.652 --> 00:16:23.600
+that kind of problem where
+we're holding both beliefs together,
+
+00:16:23.624 --> 00:16:24.994
+the cognitive dissonance.
+
+00:16:25.018 --> 00:16:28.174
+Eventually, the new model
+will replace the old model.
+
+00:16:28.904 --> 00:16:31.094
+Strong feelings can create a model.
+
+00:16:32.151 --> 00:16:37.514
+September 11 created a security model
+in a lot of people's heads.
+
+00:16:37.538 --> 00:16:40.826
+Also, personal experiences
+with crime can do it,
+
+00:16:40.850 --> 00:16:42.229
+personal health scare,
+
+00:16:42.253 --> 00:16:43.719
+a health scare in the news.
+
+00:16:44.938 --> 00:16:48.283
+You'll see these called
+"flashbulb events" by psychiatrists.
+
+00:16:48.923 --> 00:16:51.384
+They can create a model instantaneously,
+
+00:16:51.408 --> 00:16:53.169
+because they're very emotive.
+
+00:16:54.648 --> 00:16:56.236
+So in the technological world,
+
+00:16:56.260 --> 00:16:59.497
+we don't have experience to judge models.
+
+00:16:59.864 --> 00:17:02.797
+And we rely on others. We rely on proxies.
+
+00:17:02.821 --> 00:17:05.440
+And this works, as long as
+it's the correct others.
+
+00:17:05.923 --> 00:17:08.605
+We rely on government agencies
+
+00:17:08.629 --> 00:17:13.033
+to tell us what pharmaceuticals are safe.
+
+00:17:13.057 --> 00:17:14.970
+I flew here yesterday.
+
+00:17:14.994 --> 00:17:16.756
+I didn't check the airplane.
+
+00:17:17.439 --> 00:17:20.034
+I relied on some other group
+
+00:17:20.058 --> 00:17:22.495
+to determine whether
+my plane was safe to fly.
+
+00:17:22.519 --> 00:17:25.817
+We're here, none of us fear the roof
+is going to collapse on us,
+
+00:17:25.841 --> 00:17:28.046
+not because we checked,
+
+00:17:28.070 --> 00:17:31.742
+but because we're pretty sure
+the building codes here are good.
+
+00:17:33.182 --> 00:17:36.171
+It's a model we just accept
+
+00:17:36.195 --> 00:17:37.555
+pretty much by faith.
+
+00:17:38.071 --> 00:17:39.429
+And that's OK.
+
+00:17:42.706 --> 00:17:48.579
+Now, what we want is people
+to get familiar enough with better models,
+
+00:17:48.603 --> 00:17:50.723
+have it reflected in their feelings,
+
+00:17:50.747 --> 00:17:53.749
+to allow them to make security trade-offs.
+
+00:17:54.850 --> 00:17:58.569
+When these go out of whack,
+you have two options.
+
+00:17:58.593 --> 00:18:02.826
+One, you can fix people's feelings,
+directly appeal to feelings.
+
+00:18:02.850 --> 00:18:05.256
+It's manipulation, but it can work.
+
+00:18:05.913 --> 00:18:08.104
+The second, more honest way
+
+00:18:08.128 --> 00:18:09.901
+is to actually fix the model.
+
+00:18:11.460 --> 00:18:13.561
+Change happens slowly.
+
+00:18:13.585 --> 00:18:17.963
+The smoking debate took 40 years --
+and that was an easy one.
+
+00:18:19.935 --> 00:18:21.748
+Some of this stuff is hard.
+
+00:18:22.236 --> 00:18:25.992
+Really, though, information
+seems like our best hope.
+
+00:18:26.016 --> 00:18:27.288
+And I lied.
+
+00:18:27.312 --> 00:18:31.332
+Remember I said feeling, model, reality;
+reality doesn't change?
+
+00:18:31.356 --> 00:18:32.731
+It actually does.
+
+00:18:32.755 --> 00:18:34.469
+We live in a technological world;
+
+00:18:34.493 --> 00:18:36.831
+reality changes all the time.
+
+00:18:37.627 --> 00:18:40.604
+So we might have,
+for the first time in our species:
+
+00:18:40.628 --> 00:18:43.811
+feeling chases model, model chases
+reality, reality's moving --
+
+00:18:43.835 --> 00:18:45.368
+they might never catch up.
+
+00:18:46.920 --> 00:18:48.248
+We don't know.
+
+00:18:50.354 --> 00:18:51.957
+But in the long term,
+
+00:18:51.981 --> 00:18:54.185
+both feeling and reality are important.
+
+00:18:54.209 --> 00:18:57.442
+And I want to close with two quick
+stories to illustrate this.
+
+00:18:57.466 --> 00:18:59.945
+1982 -- I don't know if people
+will remember this --
+
+00:18:59.969 --> 00:19:03.339
+there was a short epidemic
+of Tylenol poisonings
+
+00:19:03.363 --> 00:19:04.559
+in the United States.
+
+00:19:04.583 --> 00:19:05.944
+It's a horrific story.
+
+00:19:05.968 --> 00:19:08.047
+Someone took a bottle of Tylenol,
+
+00:19:08.071 --> 00:19:11.073
+put poison in it, closed it up,
+put it back on the shelf,
+
+00:19:11.097 --> 00:19:12.655
+someone else bought it and died.
+
+00:19:12.679 --> 00:19:14.352
+This terrified people.
+
+00:19:14.376 --> 00:19:16.603
+There were a couple of copycat attacks.
+
+00:19:16.627 --> 00:19:19.472
+There wasn't any real risk,
+but people were scared.
+
+00:19:19.496 --> 00:19:23.372
+And this is how the tamper-proof
+drug industry was invented.
+
+00:19:23.396 --> 00:19:25.625
+Those tamper-proof caps?
+That came from this.
+
+00:19:25.649 --> 00:19:27.220
+It's complete security theater.
+
+00:19:27.244 --> 00:19:30.135
+As a homework assignment,
+think of 10 ways to get around it.
+
+00:19:30.159 --> 00:19:32.050
+I'll give you one: a syringe.
+
+00:19:32.074 --> 00:19:34.855
+But it made people feel better.
+
+00:19:35.484 --> 00:19:39.186
+It made their feeling of security
+more match the reality.
+
+00:19:40.130 --> 00:19:43.064
+Last story: a few years ago,
+a friend of mine gave birth.
+
+00:19:43.088 --> 00:19:44.485
+I visit her in the hospital.
+
+00:19:44.509 --> 00:19:46.432
+It turns out, when a baby's born now,
+
+00:19:46.456 --> 00:19:50.019
+they put an RFID bracelet on the baby,
+a corresponding one on the mother,
+
+00:19:50.043 --> 00:19:53.663
+so if anyone other than the mother takes
+the baby out of the maternity ward,
+
+00:19:53.687 --> 00:19:54.845
+an alarm goes off.
+
+00:19:54.869 --> 00:19:56.598
+I said, "Well, that's kind of neat.
+
+00:19:56.622 --> 00:20:00.592
+I wonder how rampant
+baby snatching is out of hospitals."
+
+00:20:00.616 --> 00:20:01.852
+I go home, I look it up.
+
+00:20:01.876 --> 00:20:03.401
+It basically never happens.
+
+00:20:03.425 --> 00:20:05.269
+(Laughter)
+
+00:20:05.293 --> 00:20:08.136
+But if you think about it,
+if you are a hospital,
+
+00:20:08.160 --> 00:20:10.540
+and you need to take a baby
+away from its mother,
+
+00:20:10.564 --> 00:20:12.345
+out of the room to run some tests,
+
+00:20:12.369 --> 00:20:14.419
+you better have some good
+security theater,
+
+00:20:14.443 --> 00:20:16.388
+or she's going to rip your arm off.
+
+00:20:16.412 --> 00:20:17.945
+(Laughter)
+
+00:20:18.901 --> 00:20:20.618
+So it's important for us,
+
+00:20:20.642 --> 00:20:22.777
+those of us who design security,
+
+00:20:22.801 --> 00:20:24.832
+who look at security policy --
+
+00:20:25.686 --> 00:20:28.994
+or even look at public policy
+in ways that affect security.
+
+00:20:29.746 --> 00:20:33.162
+It's not just reality;
+it's feeling and reality.
+
+00:20:33.186 --> 00:20:35.051
+What's important
+
+00:20:35.075 --> 00:20:36.620
+is that they be about the same.
+
+00:20:36.644 --> 00:20:39.175
+It's important that,
+if our feelings match reality,
+
+00:20:39.199 --> 00:20:41.072
+we make better security trade-offs.
+
+00:20:41.451 --> 00:20:42.604
+Thank you.
+
+00:20:42.628 --> 00:20:44.761
+(Applause)
+
