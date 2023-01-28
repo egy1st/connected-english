@@ -50,7 +50,7 @@ STATIC_VTT = '/static/'
 CDN = True
 
 if CDN:
-    STATIC_URL = 'https://cdn.connectedenglish.net' + '/ted/static/' + TPL
+    STATIC_URL = 'https://cdn.connectedenglish.net' + '/static/' + TPL
 else:
     STATIC_URL = '/static/' + TPL
 
