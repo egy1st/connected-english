@@ -1,7 +1,5 @@
 # connected-english
-An innovative method for learning English with ease using TED videos, 12 levels included
-check it on https://connectedenglish.net/
-Enjoy it is completely Free but premium.
+An innovative method for learning English with ease using TED talks, 12 levels included. It makes benefit of both learning English and gaining new ideas at the same time.
 
 ## Levels
 1. https://connectedenglish.net/ar/levels/1.html
